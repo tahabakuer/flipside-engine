@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "ignoreDeprecations": "6.0",
+    "target": "ESNext",
+    "module": "CommonJS",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "baseUrl": ".", 
+    "rootDir": "." ,
+    "types": ["node"]
+  }
+}
