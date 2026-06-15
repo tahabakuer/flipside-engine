@@ -1,71 +1,57 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
+import { OpenAI } from "openai";
 import * as dotenv from "dotenv";
-import { QuestionSchema, Question } from './schema';
-import * as fs from 'fs';
-import * as path from 'path';
+import { BatchQuestionSchema, Question } from './schema';
 
 dotenv.config();
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || "");
+const grok = new OpenAI({ 
+  apiKey: process.env.GROK_API_KEY, 
+  baseURL: "https://api.x.ai/v1" 
+});
 
-export async function generateQuestion(
+const isGrokEnabled = !!process.env.GROK_API_KEY;
+
+export async function generateBatch(
   category: string, 
   subcategory: string, 
-  difficulty: string, 
-  previousQuestions: string[] = []
-): Promise<Question> {
+  count: number = 25
+): Promise<Question[]> {
   
-  const model = genAI.getGenerativeModel({ 
-    model: "gemini-2.5-flash",
-    generationConfig: { responseMimeType: "application/json" } 
-  });
-
   const prompt = `
-      Generate one NEW quiz question for: ${category} - ${subcategory}. Difficulty: ${difficulty}. 
-      LANGUAGE: The question, options, and explanation MUST be strictly in ENGLISH.
-      
-      ${previousQuestions.length > 0 ? `DO NOT repeat these questions: ${previousQuestions.join('; ')}` : ''}
-      
-      IMPORTANT RULES:
-      1. Question text MUST be between 20 and 140 characters.
-      2. Explanation MUST be a single, concise sentence in ENGLISH.
-      3. Return ONLY a JSON object following this structure: 
-      {
-        "id": "string",
-        "category": "string",
-        "subcategory": "string",
-        "difficulty": "EASY | GENERAL | EXPERT",
-        "question": "string",
-        "options": ["string", "string", "string", "string"],
-        "correctAnswer": "string",
-        "explanation": "string",
-        "tags": ["string"],
-        "questionType": "MCQ",
-        "sourceType": "generated"
-      }`;
+    Generate ${count} NEW unique quiz questions for: ${category} - ${subcategory}.
+    Difficulty level: Mix of EASY, GENERAL, and EXPERT.
+    LANGUAGE: STRICTLY ENGLISH.
+    
+    IMPORTANT RULES:
+    1. "explanation" field MUST be shorter than 250 characters.
+    2. "question" field MUST be between 10-150 characters.
+    3. Return ONLY a JSON array of ${count} objects matching the schema.
+    4. Do not include any markdown or text outside the JSON array.
+  `;
 
-  const result = await model.generateContent(prompt);
-  const response = await result.response;
-  const rawData = JSON.parse(response.text());
+  try {
+    const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+    const result = await model.generateContent(prompt);
+    return BatchQuestionSchema.parse(JSON.parse(result.response.text()));
+  } catch (error: any) {
+    if (error.status === 429) {
+      console.error("🚨🚨🚨 Gemini kota doldu!🚨🚨🚨");
+      process.exit(1);
+    }
+    
 
-  return QuestionSchema.parse(rawData);
-}
-
-export async function generateBatch(category: string, subcategory: string) {
-  const distribution = [
-    { difficulty: 'EASY', count: 2 },
-    { difficulty: 'GENERAL', count: 1 },
-    { difficulty: 'EXPERT', count: 2 }
-  ];
-
-  const batch: Question[] = [];
-  console.log(`Generating batch for: ${category} - ${subcategory}...`);
-
-  for (const item of distribution) {
-    for (let i = 0; i < item.count; i++) {
-      const q = await generateQuestion(category, subcategory, item.difficulty);
-      batch.push(q);
+    if (isGrokEnabled) {
+      console.warn("⚠️ Gemini failed. Switching to Grok...");
+      const completion = await grok.chat.completions.create({
+        model: "grok-beta",
+        messages: [{ role: "user", content: prompt }],
+      });
+      return BatchQuestionSchema.parse(JSON.parse(completion.choices[0].message.content || "[]"));
+    } else {
+      console.error("❌❌❌ Gemini başarısız oldu ve Grok API anahtarı bulunamadı!❌❌❌");
+      process.exit(1);
     }
   }
-  return batch;
 }

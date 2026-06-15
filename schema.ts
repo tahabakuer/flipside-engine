@@ -2,7 +2,6 @@ import { z } from 'zod';
 
 export const QuestionSchema = z.object({
   id: z.string(),
-  // Dil artık statik olduğu için şemadan çıkardık veya varsayılan yaptık
   category: z.string(),
   subcategory: z.string(),
   difficulty: z.enum(['EASY', 'GENERAL', 'EXPERT']),
@@ -12,7 +11,8 @@ export const QuestionSchema = z.object({
   correctAnswer: z.string(),
   tags: z.array(z.string()),
   questionType: z.literal('MCQ'),
-  sourceType: z.literal('generated'), // Şimdilik sadece LLM üretimi
+  sourceType: z.literal('generated'),
 });
 
+export const BatchQuestionSchema = z.array(QuestionSchema);
 export type Question = z.infer<typeof QuestionSchema>;
