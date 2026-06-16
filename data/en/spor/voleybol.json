@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "2ava71tz7",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol oyununda bir set kaç puyla kazanılır?",
+    "explanation": "Voleybol'da bir set 25 puyla kazanılır. Oyun eşitliğe (24-24) gelirse, ikinci set 15 puyla oynanır.",
+    "options": [
+      "15 puan",
+      "20 puan",
+      "25 puan",
+      "30 puan"
+    ],
+    "correctAnswer": "25 puan",
+    "tags": [
+      "voleybol",
+      "kurallar",
+      "puanlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s5ghi0ne0",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol maçında toplam kaç oyuncu saha içindedir?",
+    "explanation": "Her voleybol takımı maç sırasında saha içinde 6 oyuncudan oluşur.",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "6",
+    "tags": [
+      "voleybol",
+      "oyuncular",
+      "takım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xz4cl46o1",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol'da bir oyuncu kaç kez topa dokunabilir?",
+    "explanation": "Voleybol'da bir oyuncu arka arkaya 3 kez topa dokunabilir.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "voleybol",
+      "kurallar",
+      "toplama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oqqucfyra",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EXPERT",
+    "question": "Voleybol setlerinde kaç sertlik seviyesi (servis) vardır?",
+    "explanation": "Voleybol'da sertlik seviyeleri vardır. Top 3 puyla kazanılan setlerde sertlik kullanılır.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "voleybol",
+      "kurallar",
+      "sertlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zssc6kmed",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EXPERT",
+    "question": "Voleybol maçında kaç oyuncu sakat olabilir?",
+    "explanation": "Voleybol maçında sadece 1 oyuncu sakat olabilir.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "voleybol",
+      "kurallar",
+      "sakatlanma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "udpau2rg4",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol maçları kaç set üzerinden oynanır (5x5 kurallı)?",
+    "explanation": "Voleybol maçları 5 set üzerinden oynanır. İlk 4 setler 25 puyla, son set ise 15 puyla biter.",
+    "options": [
+      "3 set",
+      "4 set",
+      "5 set",
+      "2 set"
+    ],
+    "correctAnswer": "5 set",
+    "tags": [
+      "kurallar",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xu4w4tg1l",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Bir oyuncu bir voleybol maçında kaçar kez sıraya dönebilir?",
+    "explanation": "Bir oyuncu bir maçta 4 kez sıraya dönebilir. Bu kurallı oyun sistemi, takım dengesi sağlar.",
+    "options": [
+      "1 kere",
+      "3 kere",
+      "4 kere",
+      "Sınırsız"
+    ],
+    "correctAnswer": "4 kere",
+    "tags": [
+      "kurallar",
+      "oyuncu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "te8c8q04b",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol sahasının boyutu kaç metredir?",
+    "explanation": "Voleybol sahası 18 metre uzunluğunda, 9 metre genişliğindedir. Sahada çizgiler de bu ölçülerle belirlenir.",
+    "options": [
+      "18x9 metre",
+      "20x10 metre",
+      "15x7 metre",
+      "24x12 metre"
+    ],
+    "correctAnswer": "18x9 metre",
+    "tags": [
+      "saha",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fuwvs7wxq",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Hangi pozisyon sahanın önünde (hedef) oynamaz?",
+    "explanation": "Libero, sahne ve hedef pozisyonları sahanın önünde (hedef) oynar. Orta pozisyonu ise sahanın içindeki oyuncu rollerinden biridir.",
+    "options": [
+      "Libero",
+      "Sahne",
+      "Hedef",
+      "Orta"
+    ],
+    "correctAnswer": "Orta",
+    "tags": [
+      "pozisyonlar",
+      "oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfrxiecsf",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçında 'set' nedir?",
+    "explanation": "Voleybol maçında 'set' (hedef) oyunun temel birimidir. Maç 5 set üzerinden oynanır ve her set ayrı puanlanır.",
+    "options": [
+      "Takım",
+      "Bölüm",
+      "Kısa oyun",
+      "Hedef"
+    ],
+    "correctAnswer": "Hedef",
+    "tags": [
+      "temel",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37a87jgwp",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol takımlarında kaç oyuncudan oluşur?",
+    "explanation": "Voleybol takımlarının sahada 6 oyuncudan oluşur. Takım kademeli olarak 12 oyuncuya kadar olabilir ancak oyun sırasında sadece 6 oyuncu sahada kalır.",
+    "options": [
+      "6 oyuncu",
+      "8 oyuncu",
+      "10 oyuncu",
+      "12 oyuncu"
+    ],
+    "correctAnswer": "6 oyuncu",
+    "tags": [
+      "kurallar",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yy6y6z3bj",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol maçında kaç set kazanmak gerekir?",
+    "explanation": "Voleybol maçında ilk 3 seti kazanan takım maçı kazanır. Setler genellikle 25-25 şeklinde oynanır.",
+    "options": [
+      "3 set",
+      "4 set",
+      "5 set",
+      "6 set"
+    ],
+    "correctAnswer": "3 set",
+    "tags": [
+      "kurallar",
+      "skor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sma7f9r5o",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol'da 'libero' oyuncusunun görevi nedir?",
+    "explanation": "Libero oyuncusu özel bir savunma oyuncusudur. Genellikle sert vuruş yapamaz, sadece pas ve blok görevi alır.",
+    "options": [
+      "Sadece sert vuruş yapar",
+      "Sadece pas ve blok yapar",
+      "Sadece set verir",
+      "Hem hücum hem savunma yapar"
+    ],
+    "correctAnswer": "Sadece pas ve blok yapar",
+    "tags": [
+      "pozisyonlar",
+      "savunma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z72yabxts",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçında setler nasıl oynanır?",
+    "explanation": "Voleybol setleri genellikle 25-25 şeklinde oynanır. Setler sonuna kadar uzarsa 15 puan fark gereklidir.",
+    "options": [
+      "20-20",
+      "21-21",
+      "25-25",
+      "30-30"
+    ],
+    "correctAnswer": "25-25",
+    "tags": [
+      "kurallar",
+      "skor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tq4genz1z",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol'da 'set' oyuncusu ne görevi üstlenir?",
+    "explanation": "Set oyuncusu (setter) takımın ana organizatörüdür. Pas görevi üstlenir ve hücum oyuncularına topu yönlendirir.",
+    "options": [
+      "Sadece pas yapar",
+      "Hücum ve savunma yapar",
+      "Takımın set vericisi olur",
+      "Libero yerine geçer"
+    ],
+    "correctAnswer": "Takımın set vericisi olur",
+    "tags": [
+      "pozisyonlar",
+      "hücum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ny9qc0so",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçında bir set kaç oyunla kazanılır?",
+    "explanation": "Voleybol kurallarına göre bir set 25 puana tamamlanarak ve rakibin en az 2 puan gerisinde olma koşuluyla kazanılır. Bir maç genellikle 3-0, 3-1 veya 3-2 şeklinde biter.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "volleyball",
+      "rules",
+      "scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g8dfhfpos",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Hangi pozisyon voleybol takımında saha içinde blok yapar?",
+    "explanation": "Voleybolda saha içinde blok yapmak genellikle ön sıradaki oyuncuların sorumluluğundadır. Libero sadece pas işinde uzmanlaşmıştır.",
+    "options": [
+      "Libero",
+      "Dikey (Spike)",
+      "Pasör",
+      "Orta"
+    ],
+    "correctAnswer": "Dikey (Spike)",
+    "tags": [
+      "volleyball",
+      "positions",
+      "spike"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dk78g2oo2",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Bir voleybol seti maksimum kaç puana kadar uzayabilir?",
+    "explanation": "Voleybol kurallarına göre bir set 25 puana tamamlanır ve 'set point' koşuluyla kazanılır. Eğer eşitlik olursa 'adams' (advantage) sistemi uygulanır.",
+    "options": [
+      "25",
+      "30",
+      "40",
+      "15"
+    ],
+    "correctAnswer": "25",
+    "tags": [
+      "volleyball",
+      "scoring",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mlfydfwsk",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda libero pozisyonunun özel yetkisi nelerdir?",
+    "explanation": "Libero sadece arka sıra oyuncularının top alma yetkisine sahiptir ve dikey (spike) yapamaz. Ayrıca libero özel formayla ayırt edilir.",
+    "options": [
+      "Sadece arka sıradan top alabilir",
+      "Herhangi bir yerden top alabilir",
+      "Sadece orta alanı kullanabilir",
+      "Dikey yapamaz"
+    ],
+    "correctAnswer": "Sadece arka sıradan top alabilir",
+    "tags": [
+      "volleyball",
+      "libero",
+      "positions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vruxu5qtj",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçında bir setin minimum puanı kaçtır?",
+    "explanation": "Bir voleybol seti 25 puana tamamlanarak kazanılır. Ancak rakibin en az 2 puan gerisinde olması gerekir. Minimum 25 puanla kazanma koşulu vardır.",
+    "options": [
+      "10",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": "25",
+    "tags": [
+      "volleyball",
+      "scoring",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6xhs18kfo",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçlarında bir set kaç puana tamamlandığında kazanılır?",
+    "explanation": "Standart voleybol maçlarında, bir set 25 puana tamamlandığında ve rakip en az 2 puan farkla gerideyse set kazanılır.",
+    "options": [
+      "15 puan",
+      "20 puan",
+      "23 puan",
+      "25 puan"
+    ],
+    "correctAnswer": "25 puan",
+    "tags": [
+      "voleybol",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lvv6t4dnb",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol takımlarında minimum kaç oyuncu sahadada bulunmalıdır?",
+    "explanation": "Voleybol maçlarında, minimum 6 oyuncu sahadada bulunmalıdır. Her takım 12 oyuncu kadrosuna sahiptir.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "6",
+    "tags": [
+      "voleybol",
+      "takım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jmtd75maz",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda bir oyuncu bir set boyunca kaç değişiklik yapabilir?",
+    "explanation": "Bir voleybol takımı, bir set boyunca hiçbir oyuncu değişikliği yapamaz. Aynı 6 oyuncu tüm set boyunca sahadada kalır.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "0",
+    "tags": [
+      "voleybol",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b42zabn22",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçlarında bir takım kaç kez teknik değişiklik yapabilir?",
+    "explanation": "Bir voleybol takımı, her maçta sadece 1 kez teknik değişiklik yapabilir. Bu değişiklik set başında veya arasıda yapılmaz.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "voleybol",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7y6y4suez",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda bir oyuncu topa kaç kere vurmadan sahadan geçebilir?",
+    "explanation": "Bir voleybol oyuncusu, topa 1 kez vuruştukten sonra sahadan geçebilir. Bu kural oyun akışını düzenlemektedir.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "voleybol",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1cdnqx5dp",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybolda bir set kaç puyla kazanılır?",
+    "explanation": "Voleybolda standart kurallarda bir set 25 puyla kazanılır. Eğer skor eşitse (24-24) 15 puanlı 'kırma' oynanır ve ilk 15 puanı alan takım seti kazandır.",
+    "options": [
+      "15 puan",
+      "20 puan",
+      "25 puan",
+      "30 puan"
+    ],
+    "correctAnswer": "25 puan",
+    "tags": [
+      "kurallar",
+      "puan sistemi",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fot5vykmk",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol courtu kaç metre kare ölçüsündedir?",
+    "explanation": "Voleybol courtu standart olarak 9 metre uzunluğunda ve 9 metre genişliğindedir, yani 81 metrekare ölçüsündedir.",
+    "options": [
+      "8 x 8 metre",
+      "9 x 9 metre",
+      "10 x 10 metre",
+      "12 x 12 metre"
+    ],
+    "correctAnswer": "9 x 9 metre",
+    "tags": [
+      "kort bilgisi",
+      "donanım",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "29i487a3f",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda bir maçta toplam kaç set kazanılması gerekir?",
+    "explanation": "Voleybol maçlarında 'en iyi 3'ten' (best-of-5) formatında oynanır. Yani bir takım en az 3 set kazandığında maçı kazanmış olur.",
+    "options": [
+      "2 set",
+      "3 set",
+      "4 set",
+      "5 set"
+    ],
+    "correctAnswer": "3 set",
+    "tags": [
+      "kurallar",
+      "maç formatı",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aziul4l88",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda bir oyuncu maç boyunca kaç kez devre değiştirebilir?",
+    "explanation": "Voleybolda bir takım 6 oyuncudan oluşur ve maç boyunca oyuncular devre değiştirme hakkına sahiptir. Her bir oyuncu sınırsız kez devre değiştirebilir.",
+    "options": [
+      "Sınırsız",
+      "1 kere",
+      "2 kere",
+      "3 kere"
+    ],
+    "correctAnswer": "Sınırsız",
+    "tags": [
+      "kurallar",
+      "oyuncu değişimi",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ewvlrjk2",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleyboldaki 'Libero' (serbest) oyuncusu hangi pozisyon oynar?",
+    "explanation": "Voleybolda Libero (serbest) oyuncusu savunma pozisyonunda oynar ve daha az puanlı, blok yapmayan bir oyuncu olarak görev alır. Libero oyuna sadece savunma için girebilir.",
+    "options": [
+      "Savunma",
+      "Orta",
+      "Hücum",
+      "Kırmızı"
+    ],
+    "correctAnswer": "Savunma",
+    "tags": [
+      "pozisyonlar",
+      "rol",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k0t11oty9",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol maçında bir takımın saha içinde kaç oyuncusu bulunmalıdır?",
+    "explanation": "Voleybol kurallarına göre her takımın saha içinde 6 oyuncusu bulunmalıdır. Bu oyuncular pozisyonlara ayrılırlar.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "6",
+    "tags": [
+      "kurallar",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "louzj7f65",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda bir topun maksimum kaç kez elden geçirilebilir?",
+    "explanation": "Voleybolda bir topun maksimum 3 kez elden geçirilebilir. İlk pas alçak, ikinci pas orta, üçüncü pas hücum pasıdır.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "kurallar",
+      "hücum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mbjq9zo2z",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçlarında 'ace' ne zaman oluşur?",
+    "explanation": "Ace, bir takımın servis atışı rakip takımdan direkt olarak alınıp topun rakip sahasına düşmesi durumunda oluşur.",
+    "options": [
+      "Top rakip sahayına düşer",
+      "Birimiz topu alçak atar",
+      "Hücum oyuncusu ace yapar",
+      "Sıranın ilk pası ace olur"
+    ],
+    "correctAnswer": "Top rakip sahayına düşer",
+    "tags": [
+      "kurallar",
+      "maç durumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6z1e6wp47",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda libero (düşük pas) hangi pozisyonda görev yapar?",
+    "explanation": "Libero sadece arka sahada görev yapar, ön sahaya geçemez ve hücum pası atamaz. Sadece alçak paslara odaklanır.",
+    "options": [
+      "Saha dışındadır",
+      "Ön saha oyuncusudur",
+      "Arka saha oyuncusudur",
+      "Servis oyuncusudur"
+    ],
+    "correctAnswer": "Arka saha oyuncusudur",
+    "tags": [
+      "pozisyonlar",
+      "libero"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "98uhx2eis",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EXPERT",
+    "question": "Voleybol Dünya Şampiyonası kaç yılda bir düzenlenir?",
+    "explanation": "Voleybol Dünya Şampiyonası her 4 yılda bir düzenlenir. Bu turnuva profesyonel voleybolda en prestijli turnuvadır.",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "4 yıl",
+      "6 yıl"
+    ],
+    "correctAnswer": "4 yıl",
+    "tags": [
+      "tarih",
+      "dünya şampiyonaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "16y9mry6g",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolun icat edildiği yıl kaçtır?",
+    "explanation": "Voleybol, William G. Morgan tarafından 1895 yılında Massachusetts'te icat edilmiştir.",
+    "options": [
+      "1895",
+      "1900",
+      "1905",
+      "1910"
+    ],
+    "correctAnswer": "1895",
+    "tags": [
+      "history",
+      "volleyball"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e0kjd7ri3",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybolda kaç oyuncu sahada bulunur?",
+    "explanation": "Voleybolda her takımın sahasında 6 oyuncu bulunur.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "6",
+    "tags": [
+      "positions",
+      "volleyball"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jonzgapc3",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda bir set kaç puanda biter?",
+    "explanation": "Voleybolda bir set 25 puanda biter (son set tie-break ile 15 puan olabilir).",
+    "options": [
+      "15-20",
+      "20-25",
+      "25-30",
+      "25-35"
+    ],
+    "correctAnswer": "25-30",
+    "tags": [
+      "scoring",
+      "volleyball"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ivfqu7jfk",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybolda top kaç kez vurulabilir?",
+    "explanation": "Voleybolda top saha içinde maksimum 3 kez vurulabilir.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "rules",
+      "volleyball"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "it4t3arua",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda libero ne işe yarar?",
+    "explanation": "Libero, savunma pozisyonunda topu almak için görev yapan özel oyuncudur.",
+    "options": [
+      "Saldırma",
+      "Savunma (blok)",
+      "Hakemlik",
+      "Kaptanlık"
+    ],
+    "correctAnswer": "Savunma (blok)",
+    "tags": [
+      "positions",
+      "volleyball"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zh8okde0o",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol oyununda bir set kaç puana kazanılır?",
+    "explanation": "Voleybol oyununda her set 25 puana kadar oynanır ve 2 puan fark ile kazanılır. Set bozuşması durumunda 15 puana kadar devam eder.",
+    "options": [
+      "10 puan",
+      "15 puan",
+      "20 puan",
+      "25 puan"
+    ],
+    "correctAnswer": "25 puan",
+    "tags": [
+      "voleybol",
+      "kurallar",
+      "puanlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6cdla48l2",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol takımında kaç sayıda oyuncu sahada olur?",
+    "explanation": "Voleybol oyununda her takım sahada 6 oyuncu ile oynar ve 6 değiştirme hakkına sahiptir.",
+    "options": [
+      "4 kişi",
+      "5 kişi",
+      "6 kişi",
+      "7 kişi"
+    ],
+    "correctAnswer": "6 kişi",
+    "tags": [
+      "voleybol",
+      "takım",
+      "oyuncular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iv8kj2rke",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybolda bir oyuncu topa kaç kez dokunabilir?",
+    "explanation": "Voleybolda her takım topu 3 kez dokundurmadan karşı takıma geçirmelidir. İlk servis hariç, 2 ve 3. çarpışmalar zorunludur.",
+    "options": [
+      "1 kez",
+      "2 kez",
+      "3 kez",
+      "4 kez"
+    ],
+    "correctAnswer": "3 kez",
+    "tags": [
+      "voleybol",
+      "kurallar",
+      "dokunma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "huf7ewnz5",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçının uzatılması için hangi skor gerekir?",
+    "explanation": "Set bozuşması durumunda 15 puana kadar devam eder. Eğer skora ulaşmazsa, 20-20'den sonra uzatma yapılır ve 24-24'ten sonra maç uzar.",
+    "options": [
+      "10-10",
+      "15-15",
+      "24-24",
+      "29-29"
+    ],
+    "correctAnswer": "24-24",
+    "tags": [
+      "voleybol",
+      "maç",
+      "set bozuşması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdas3sxbj",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybolda libero pozisyonunda hangi oyuncu bulunur?",
+    "explanation": "Libero, takımın alımı ve savunma pozisyonunda oynayan özel oyuncudur. Servis yapamaz, saldırı yapmak için 3. çarpışmada yer alabilir.",
+    "options": [
+      "Servis yapan",
+      "Alım yapan",
+      "Saldırı yapan",
+      "Defans yapan"
+    ],
+    "correctAnswer": "Alım yapan",
+    "tags": [
+      "voleybol",
+      "pozisyonlar",
+      "libero"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wamekogrb",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol maçında kaç set kazanılmalıdır?",
+    "explanation": "Voleybol maçında ilk 2 takımın kazanması gerekir, toplamda 5 set oynanabilir ancak genellikle 3-4 set yeterlidir.",
+    "options": [
+      "3 set",
+      "4 set",
+      "5 set",
+      "6 set"
+    ],
+    "correctAnswer": "3 set",
+    "tags": [
+      "kurallar",
+      "set sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bxhlb2b1j",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçı kaç dakika sürer?",
+    "explanation": "Her set 15 dakikadan fazla sürmez, toplam maç yaklaşık 25 dakika sürer.",
+    "options": [
+      "10 dakika",
+      "15 dakika",
+      "25 dakika",
+      "30 dakika"
+    ],
+    "correctAnswer": "25 dakika",
+    "tags": [
+      "maç süresi",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "90axtzdyh",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "EASY",
+    "question": "Voleybol maçında kaç oyuncu sahada oynar?",
+    "explanation": "Voleybol maçında her takım sahada 6 oyuncu ile oynar.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "6",
+    "tags": [
+      "oyuncu sayısı",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zwq3e9zzr",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçı kaç set kazanılarak biter?",
+    "explanation": "Voleybol maçında ilk 2 takımın kazanması gerekir, toplamda 5 set oynanabilir.",
+    "options": [
+      "2-3",
+      "3-4",
+      "3-5",
+      "4-5"
+    ],
+    "correctAnswer": "3-5",
+    "tags": [
+      "set sistemi",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "as2wgixg0",
+    "category": "SPOR",
+    "subcategory": "Voleybol",
+    "difficulty": "GENERAL",
+    "question": "Voleybol maçı kaç puanla biter?",
+    "explanation": "Voleybol maçında her set 25 puana kadar gider, set 30-40-50 gibi biter.",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "25",
+    "tags": [
+      "puan sistemi",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

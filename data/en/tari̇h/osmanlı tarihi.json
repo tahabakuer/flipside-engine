@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "t6k1jqx6s",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı Devleti'nin kurucusu kimdir?",
+    "explanation": "Osman Gazi, 1299 yılında Osmanlı Devleti'nin kurucusu olarak kabul edilir.",
+    "options": [
+      "Mehmed I",
+      "Osman Gazi",
+      "Murad II",
+      "Bayezid I"
+    ],
+    "correctAnswer": "Osman Gazi",
+    "tags": [
+      "Osmanlı Kuruluşu",
+      "Osmanlı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vxujs1894",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi padişah tarafından İstanbul'un fethi gerçekleştirilmiştir?",
+    "explanation": "21 Ağustos 1453 tarihinde Mehmed II tarafından İstanbul'un fethi gerçekleştirilmiştir.",
+    "options": [
+      "Süleyman I",
+      "Mehmed II",
+      "Bayezid I",
+      "Selim I"
+    ],
+    "correctAnswer": "Mehmed II",
+    "tags": [
+      "İstanbul'un Fethi",
+      "Osmanlı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "im7o01itr",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Osmanlı Devleti'nin ilk devşirme düzenlemesi hangi padişah döneminde yapılmıştır?",
+    "explanation": "İlk devşirme düzenlemesi Murad I döneminde yapılmış, Janissari birliklerinin kurulmasına zemin hazırlamıştır.",
+    "options": [
+      "Osman Gazi",
+      "Murad I",
+      "Bayezid I",
+      "Mehmed I"
+    ],
+    "correctAnswer": "Murad I",
+    "tags": [
+      "Devşirme Sistemi",
+      "Osmanlı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kf76nkg1t",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "\"Kanuni\" lakabıyla anılan padişah kimdir?",
+    "explanation": "Süleyman I, Kanun (Yasa) çıkardığı için 'Kanuni' lakabıyla anılır.",
+    "options": [
+      "Mehmed II",
+      "Süleyman I",
+      "Selim I",
+      "Ahmet I"
+    ],
+    "correctAnswer": "Süleyman I",
+    "tags": [
+      "Kanuni Sultan Süleyman",
+      "Osmanlı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xibaarb50",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Timar sistemi hangi amaçla kullanılmıştır?",
+    "explanation": "Timar sistemi, askerî hizmetler karşılığı padişah tarafından verilen arazilerle yönetilir.",
+    "options": [
+      "Dini görevler",
+      "Askeri hizmet karşılığı toprak yönetimi",
+      "Ticaret faaliyetleri",
+      "Yazma eserlerin korunması"
+    ],
+    "correctAnswer": "Askeri hizmet karşılığı toprak yönetimi",
+    "tags": [
+      "Timar Sistemi",
+      "Osmanlı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "39qp2jcc9",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Osmanlı İmparatorluğu 1299 yılında Sultan I. Osman tarafından kurulmuştur ve onun adını almıştır.",
+    "options": [
+      "Sultan I. Murat",
+      "Sultan I. Osman",
+      "Sultan I. Bayezid",
+      "Sultan II. Orhan"
+    ],
+    "correctAnswer": "Sultan I. Osman",
+    "tags": [
+      "kuruluş",
+      "Osmanlı sultanları",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1sxurhbuu",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi padişah İstanbul'u fethetmiştir?",
+    "explanation": "1453 yılında Sultan I. Mehmed (Fatih) tarafından İstanbul, Bizans İmparatorluğu'nun başkenti olarak fethedilmiştir.",
+    "options": [
+      "I. Mehmed",
+      "II. Bayezid",
+      "III. Murad",
+      "IV. Selim"
+    ],
+    "correctAnswer": "I. Mehmed",
+    "tags": [
+      "İstanbul'un Fethi",
+      "Osmanlı sultanları",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "336kbv7z8",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı Devleti'nde 'Sıhhiye Nizamnamesi'ni çıkaran padişah kimdir?",
+    "explanation": "1570 yılında Sultan III. Murad tarafından 'Sıhhiye Nizamnamesi' çıkarılmış ve bu belge ile hastanelerin yönetimi düzenlenmiştir.",
+    "options": [
+      "III. Murad",
+      "II. Bayezid",
+      "IV. Selim",
+      "I. Osman"
+    ],
+    "correctAnswer": "III. Murad",
+    "tags": [
+      "sıhhiye nizamnamesi",
+      "Osmanlı sultanları",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nrfxd2zgx",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı İmparatorluğu'nun son padişahı kimdir?",
+    "explanation": "1922 yılında Sultan VI. Mehmed (Vahdettin) Osmanlı İmparatorluğu'nun son padişahıdır ve imparatorluk resmen son bulmuştur.",
+    "options": [
+      "VI. Mehmed",
+      "VII. Ahmed",
+      "VIII. Murad",
+      "IX. Selim"
+    ],
+    "correctAnswer": "VI. Mehmed",
+    "tags": [
+      "son padişah",
+      "Osmanlı sultanları",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3n2o4gaf4",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Osmanlı Devleti'nde 'Divan-ı Hümayun' hangi dönemde kurulmuştur?",
+    "explanation": "Osmanlı Devleti'nde 'Divan-ı Hümayun' (Yüksek Divan) 1560 yılında Sultan III. Murad tarafından kurulmuş ve devlet yönetimi için merkezi kurumsal yapı oluşturmuştur.",
+    "options": [
+      "I. Osman",
+      "II. Orhan",
+      "III. Murad",
+      "IV. Selim"
+    ],
+    "correctAnswer": "III. Murad",
+    "tags": [
+      "divan-ı hümayun",
+      "Osmanlı sultanları",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qwme0ge2o",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı İmparatorluğu'nun kurucusu ve ilk padişahı kimdir?",
+    "explanation": "Osman Gazi, Osmanlı İmparatorluğu'nun kurucusu olarak kabul edilir ve 1299 yılında ilk padişah unvanını almıştır.",
+    "options": [
+      "Orhan Gazi",
+      "Fatih Sultan Mehmet",
+      "Osman I",
+      "Bayezid I"
+    ],
+    "correctAnswer": "Osman I",
+    "tags": [
+      "osmanlı-tarihi",
+      "padişahlar",
+      "kuruluş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1odh7r9ri",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi savaşla Fatih Sultan Mehmet İstanbul'u fethetmiştir?",
+    "explanation": "Fatih Sultan Mehmet'in İstanbul'u 29 Mayıs 1453 tarihinde fethi, Osmanlı İmparatorluğu'nun en önemli dönüm noktasıdır.",
+    "options": [
+      "Çanakkale Savaşı",
+      "Kosova Savaşı",
+      "İstanbul'un Fethi (1453)",
+      "Varna Savaşı"
+    ],
+    "correctAnswer": "İstanbul'un Fethi (1453)",
+    "tags": [
+      "osmanlı-tarihi",
+      "savaşlar",
+      "fatih-sultan-mehmet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "18qixundt",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı İmparatorluğu'nda 'Divan-ı Hümayun' ne amaçla kurulmuştur?",
+    "explanation": "Divan-ı Hümayun, padişahın devlet işlerini yönetmesi ve danışma organı olarak görev yapmıştır.",
+    "options": [
+      "Dini ibadetler için",
+      "Saltanat görevleri ve danışma organı olarak",
+      "Savaş planlaması için",
+      "Eğitim kurumları için"
+    ],
+    "correctAnswer": "Saltanat görevleri ve danışma organı olarak",
+    "tags": [
+      "osmanlı-tarihi",
+      "idare-yapısı",
+      "divan-hümayun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2sivcoikz",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi Osmanlı padişahı 'Kanuni' lakabını almıştır?",
+    "explanation": "Süleyman Çelebi, kanunlarıyla meşhur olduğu için 'Kanuni' lakabını almış ve Osmanlı'nın altın çağını yaşamıştır.",
+    "options": [
+      "Selim I",
+      "Süleyman I",
+      "Bayezid II",
+      "Ahmet III"
+    ],
+    "correctAnswer": "Süleyman I",
+    "tags": [
+      "osmanlı-tarihi",
+      "padişahlar",
+      "kanuni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xkw3go7xo",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı İmparatorluğu'nun son padişahı kimdir?",
+    "explanation": "Mehmed Vahideddin, Osmanlı İmparatorluğu'nun son padişahıdır ve 1922'de tahttan indirilmiştir.",
+    "options": [
+      "Abdülhamid II",
+      "Mehmed VI (Vahideddin)",
+      "Selim III",
+      "II. Mahmud"
+    ],
+    "correctAnswer": "Mehmed VI (Vahideddin)",
+    "tags": [
+      "osmanlı-tarihi",
+      "son-dönem",
+      "padişahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tx81kl7l0",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı Devleti'nin kurucusu Osman Bey'in vefat ettiği yıl hangisidir?",
+    "explanation": "Osman Bey, 1326 yılında vefat etmiştir. Osmanlı Devleti'nin kurucusu olarak kabul edilir ve Fatih Sultan Mehmet'ten önce gelen önemli bir padişahdır.",
+    "options": [
+      "1299",
+      "1326",
+      "1362",
+      "1402"
+    ],
+    "correctAnswer": "1326",
+    "tags": [
+      "Osmanlı Kuruluşu",
+      "Osman Bey"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "immqtsnwg",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi padişah döneminde İstanbul alınarak Osmanlı Devleti'nin başkenti haline gelmiştir?",
+    "explanation": "1453 yılında Fatih Sultan Mehmed döneminde İstanbul alınmıştır. Bu fetih, Osmanlı Devleti'nin başkentini İstanbul yapmış ve imparatorluğun zirve noktasına ulaşmasını sağlamıştır.",
+    "options": [
+      "I. Murat",
+      "II. Bayezid",
+      "Fatih Sultan Mehmed",
+      "I. Selim"
+    ],
+    "correctAnswer": "Fatih Sultan Mehmed",
+    "tags": [
+      "İstanbul Fethi",
+      "Osmanlı Genişlemesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cz2sy8ocq",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Osmanlı Devleti'nde 'Divan-ı Hümayun' hangi padişah döneminde teşkilatlanmıştır?",
+    "explanation": "Divan-ı Hümayun, II. Bayezid döneminde teşkilatlanmaya başlanmış ve Fatih Sultan Mehmed döneminde tamamen yapılandırılmıştır. Bu kurum, padişahın meclisi olarak görev yapmıştır.",
+    "options": [
+      "I. Murat",
+      "II. Bayezid",
+      "Fatih Sultan Mehmed",
+      "Kanuni Sultan Süleyman"
+    ],
+    "correctAnswer": "II. Bayezid",
+    "tags": [
+      "Osmanlı Yönetim Sistemi",
+      "Divan-ı Hümayun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9l71wkdek",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi dönemde 'Serdar' unvanı padişah yerine kullanılmaya başlamıştır?",
+    "explanation": "Kanuni Sultan Süleyman döneminde, padişah yerine 'Serdar' unvanı kullanılmaya başlanmıştır. Bu durum, devlet yönetiminde bir değişikliği temsil etmiştir.",
+    "options": [
+      "I. Mehmed",
+      "Kanuni Sultan Süleyman",
+      "III. Murat",
+      "IV. Mustafa"
+    ],
+    "correctAnswer": "Kanuni Sultan Süleyman",
+    "tags": [
+      "Osmanlı Padişahları",
+      "Serdar Unvanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f4xnu5epx",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı Devleti'nin en geniş sınırlara ulaştığı dönem hangisidir?",
+    "explanation": "Kanuni Sultan Süleyman döneminde Osmanlı Devleti en geniş sınırlara ulaşmıştır. Akdeniz'den Kırım'a kadar geniş bir coğrafyayı kontrol etmiş ve Altın Çağ'ı yaşamıştır.",
+    "options": [
+      "I. Murat",
+      "II. Bayezid",
+      "Kanuni Sultan Süleyman",
+      "IV. Mustafa"
+    ],
+    "correctAnswer": "Kanuni Sultan Süleyman",
+    "tags": [
+      "Osmanlı Genişlemesi",
+      "İmparatorluk Zirvesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bgpgx9sy9",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Osmanlı İmparatorluğu 1299 yılında Osman Bey tarafından kurulmuştur ve Anadolu'da ilk beyliklerden birini temsil etmiştir.",
+    "options": [
+      "Sultan I. Murat",
+      "Sultan II. Bayezid",
+      "Osman Bey",
+      "Yavuz Sultan Selim"
+    ],
+    "correctAnswer": "Osman Bey",
+    "tags": [
+      "kuruluş",
+      "sultanlar",
+      "ilk dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0yii6lpeg",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi savaşta Osmanlılar İstanbul'u fethetmişlerdir?",
+    "explanation": "Fatih Sultan Mehmet, 29 Mayıs 1453 tarihinde Osmanlı ordusuyla İstanbul'u fethetmiş ve imparatorluğu genişletmiştir.",
+    "options": [
+      "Çanakkale Savaşı",
+      "Hünkarıkeş Savaşı",
+      "Kosova Savaşı",
+      "1453 İstanbul Fatih"
+    ],
+    "correctAnswer": "1453 İstanbul Fatih",
+    "tags": [
+      "İstanbul Fetih",
+      "Fatih Sultan Mehmet",
+      "anlaşmalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qg67suxom",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı mimarisinin en ünlü camisi hangisidir?",
+    "explanation": "Süleymaniye Camii, IV. Sultan Süleyman tarafından inşa ettirilmiş olup Osmanlı mimarisinin en önemli eserlerinden biridir.",
+    "options": [
+      "Süleymaniye Camii",
+      "Yeşil Camii",
+      "Ahmet Camii",
+      "Koca Mustafa Paşa Camii"
+    ],
+    "correctAnswer": "Süleymaniye Camii",
+    "tags": [
+      "mimari",
+      "cami",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3hlgppkgo",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı İmparatorluğu'nun en geniş sınırları hangi dönemde olmuştur?",
+    "explanation": "Kanuni Sultan Süleyman döneminde Osmanlı İmparatorluğu, Avrupa'dan Asya'ya kadar geniş bir coğrafyaya sahip olmuş ve en büyük sınırlarına ulaşmıştır.",
+    "options": [
+      "Osman Bey dönemi",
+      "Fatih Sultan Mehmet dönemi",
+      "Süleyman Kanuni dönemi",
+      "II. Selim dönemi"
+    ],
+    "correctAnswer": "Süleyman Kanuni dönemi",
+    "tags": [
+      "genişleme",
+      "sultanlar",
+      "dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "965hz1dsp",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Osmanlı'nın 2. Kanunu (Hukuku) kim tarafından geliştirilmiştir?",
+    "explanation": "Kanuni Sultan Süleyman, Osmanlı hukuk sistemini kurduğu Kanunname ile devlet düzenini ve yasalara dayalı yönetim anlayışını geliştirmiştir.",
+    "options": [
+      "I. Murat",
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Bayezid"
+    ],
+    "correctAnswer": "Kanuni Sultan Süleyman",
+    "tags": [
+      "kanunlar",
+      "hukuk",
+      "sultanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rseas6mrx",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "İstanbul'un fethi hangi padişah tarafından gerçekleştirilmiştir?",
+    "explanation": "İstanbul 1453 yılında Fatih Sultan Mehmed tarafından fethedilmiştir. Bu fetih Osmanlı Devleti'nin en büyük zaferlerinden biridir ve İstanbul'un İslam'dan sonra ikinci defa bir başkent olmasıyla önem kazanmıştır.",
+    "options": [
+      "I. Murad",
+      "II. Bayezid",
+      "Yavuz Sultan Selim",
+      "Fatih Sultan Mehmed"
+    ],
+    "correctAnswer": "Fatih Sultan Mehmed",
+    "tags": [
+      "Osmanlı Tarihi",
+      "İstanbul Fetih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lqhsaq0kq",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı Devleti'nde ilk vezir olan kişi kimdir?",
+    "explanation": "Hacı Halil, Osmanlı Devleti tarihinde ilk kez vezir unvanını alan kişidir. 1420-1421 yılları arasında İstanbul'un fethinden sonra padişaha danışmanlık yapmıştır.",
+    "options": [
+      "Hacı Halil",
+      "Yunus Emre",
+      "Şemseddin Sami",
+      "Ahmedî Paşa"
+    ],
+    "correctAnswer": "Hacı Halil",
+    "tags": [
+      "Osmanlı Tarihi",
+      "Vezirlik Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v0pun37al",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı İmparatorluğu'nun en geniş sınırlara ulaştığı dönem hangi padişah döneminde gerçekleşmiştir?",
+    "explanation": "Kanuni Sultan Süleyman döneminde Osmanlı İmparatorluğu, Avrupa'dan Afrika ve Asya'ya kadar geniş bir alana ulaşmış ve en geniş sınırlarına erişmiştir.",
+    "options": [
+      "I. Selim",
+      "II. Osman",
+      "IV. Murad (III.)",
+      "Kânûnî Sultan Süleyman"
+    ],
+    "correctAnswer": "Kânûnî Sultan Süleyman",
+    "tags": [
+      "Osmanlı Tarihi",
+      "İmparatorluk Genişliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pn8jicuj6",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Yavuz Sultan Selim'in adı neden Yavuz olarak anılır?",
+    "explanation": "Yavuz Sultan Selim, 1512-1520 yılları arasında padişah olarak iken gösterdiği savaşta cesareti ve disiplini nedeniyle 'Yavuz' lakabını almıştır.",
+    "options": [
+      "Savaşta gösterdiği cesaret yüzünden",
+      "Dönemindeki bilimsel gelişmelerden ötürü",
+      "İstanbul'u fethettiği için",
+      "Kendisi tarafından seçilen bir lakaptır"
+    ],
+    "correctAnswer": "Savaşta gösterdiği cesaret yüzünden",
+    "tags": [
+      "Osmanlı Tarihi",
+      "Yavuz Sultan Selim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5aikjlmxk",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı Devleti'nin ilk kurucu hükümdarı kimdir?",
+    "explanation": "Osmanlı Devleti, 1299 yılında I. Osman tarafından kurulmuş ve bu sayede Osmanlıların ilk hükümdarı olarak kabul edilmiştir.",
+    "options": [
+      "I. Osman",
+      "I. Orhan",
+      "I. Murad",
+      "Fatih Sultan Mehmed"
+    ],
+    "correctAnswer": "I. Osman",
+    "tags": [
+      "Osmanlı Tarihi",
+      "Kuruluş Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "74bjumizl",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Osmanlı İmparatorluğu, Osman Gazi tarafından 1299 yılında kurulan ve Fatih Sultan Mehmet tarafından İstanbul'un fethiyle büyük bir imparatorluğa dönüşen devlettir.",
+    "options": [
+      "I. Mehmed",
+      "II. Bayezid",
+      "Osman Gazi",
+      "Fatih Sultan Mehmet"
+    ],
+    "correctAnswer": "Osman Gazi",
+    "tags": [
+      "kuruluş",
+      "osmanlı tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3fim48gz6",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "İstanbul'un Fethi hangi yıl gerçekleşmiştir?",
+    "explanation": "I. Mehmed Fatih Sultan Mehmet, 29 Mayıs 1453 tarihinde İstanbul'u fetih ederek Osmanlı İmparatorluğu'nun başkentini buraya taşıdı.",
+    "options": [
+      "1402",
+      "1445",
+      "1453",
+      "1498"
+    ],
+    "correctAnswer": "1453",
+    "tags": [
+      "fatih",
+      "istanbul"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w70ebjbdj",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı İmparatorluğu'nda 'Kanuni' lakabıyla anılan padişah kimdir?",
+    "explanation": "II. Sultan Süleyman, hukuk reformları ve geniş toprak kazanımları nedeniyle 'Kanuni' (Hakkani) lakabıyla anılır.",
+    "options": [
+      "I. Selim",
+      "II. Bayezid",
+      "III. Murat",
+      "Sultan II. Süleyman"
+    ],
+    "correctAnswer": "Sultan II. Süleyman",
+    "tags": [
+      "kanuni",
+      "sulaiman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7mdh0ojyp",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı Devleti'nin başkenti olarak kullanılan Topkapı Sarayı hangi padişah döneminde yapılmıştır?",
+    "explanation": "Fatih Sultan Mehmet, İstanbul'un fethinden sonra Topkapı Sarayı'nı yaptırdı ve Osmanlı padişahlarının resmi sarayı olarak kullanıldı.",
+    "options": [
+      "I. Mehmed",
+      "II. Bayezid",
+      "III. Murat",
+      "I. Selim"
+    ],
+    "correctAnswer": "I. Mehmed",
+    "tags": [
+      "topkapi sarayı",
+      "fatih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1j82hp375",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Osmanlı İmparatorluğu'nda Tanzimat reformları hangi dönemde başlatılmıştır?",
+    "explanation": "Tanzimat reformları 1839'da Gülhane Fermanı ve 1856'da Islahat Fermanı ile Osmanlı İmparatorluğu'nda modernleşme çabaları kapsamında başlatılmıştır.",
+    "options": [
+      "1800-1850",
+      "1839-1876",
+      "1450-1500",
+      "1299-1330"
+    ],
+    "correctAnswer": "1839-1876",
+    "tags": [
+      "tanzimat",
+      "reform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0sptqsvif",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Osmanlı İmparatorluğu, Osman I tarafından 1299 yılında kurulmuştur. Osman Gazi'nin torunu Fatih Sultan Mehmet ise daha sonra İstanbul'u fethetmiştir.",
+    "options": [
+      "Orhan Gazi",
+      "Fatih Sultan Mehmet",
+      "Osman I",
+      "Bayezid I"
+    ],
+    "correctAnswer": "Osman I",
+    "tags": [
+      "osmanlı-tarihi",
+      "kurucu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d5ij1twdi",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İstanbul'un Fethi hangi yıl gerçekleşmiştir?",
+    "explanation": "İstanbul'un Fethi Fatih Sultan Mehmet tarafından 1453 yılında gerçekleştirilmiştir. Bu fetih Osmanlı İmparatorluğu'nun en önemli zaferlerinden biridir.",
+    "options": [
+      "1453",
+      "1482",
+      "1517",
+      "1491"
+    ],
+    "correctAnswer": "1453",
+    "tags": [
+      "osmanlı-tarihi",
+      "istanbul-fethi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ospc9sui4",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlıların ilk padişahı kimdir?",
+    "explanation": "Osmanlı İmparatorluğu'nun ilk padişahı I. Osman'dır (1299-1326). Diğer seçenekler daha sonra gelen padişahlardır.",
+    "options": [
+      "Fatih Sultan Mehmet",
+      "II. Bayezid",
+      "Yavuz Sultan Selim",
+      "I. Osman"
+    ],
+    "correctAnswer": "I. Osman",
+    "tags": [
+      "osmanlı-tarihi",
+      "padişahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e35nu0tnr",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangisi Osmanlı padişahlarından değildir?",
+    "explanation": "Kanuni Sultan Süleyman, III. Murat ve IV. Mehmet Osmanlı padişahlarıdır. Korkut Han ise Moğol İmparatorluğu'ndan bir hükümdardır.",
+    "options": [
+      "Kanuni Sultan Süleyman",
+      "III. Murat",
+      "IV. Mehmet",
+      "Korkut Han"
+    ],
+    "correctAnswer": "Korkut Han",
+    "tags": [
+      "osmanlı-tarihi",
+      "padişahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fwcj5a6kj",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Osmanlı İmparatorluğu'nun en geniş sınırları hangi padişah döneminde ulaşmıştır?",
+    "explanation": "Osmanlı İmparatorluğu'nun en geniş sınırları Kanuni Sultan Süleyman döneminde (1520-1566) ulaşmıştır. Bu dönemde Avrupa ve Afrika'da önemli fetihler yapılmıştır.",
+    "options": [
+      "Yavuz Sultan Selim",
+      "Kanuni Sultan Süleyman",
+      "Fatih Sultan Mehmet",
+      "III. Murat"
+    ],
+    "correctAnswer": "Kanuni Sultan Süleyman",
+    "tags": [
+      "osmanlı-tarihi",
+      "padişahlar",
+      "sınırlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qpcmhi5rd",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Osmanlı Devleti'nin kurucusu kimdir?",
+    "explanation": "Osmanlı Devleti'nin kurucusu II. Osman'dır (1258-1326). Fatih Sultan Mehmet daha sonra İstanbul'un fethi ile bilinir.",
+    "options": [
+      "I. Fatih Sultan Mehmet",
+      "II. Osman Bey",
+      "III. II. Bayezid",
+      "IV. III. Murat"
+    ],
+    "correctAnswer": "II. Osman Bey",
+    "tags": [
+      "Osmanlı Kuruluş",
+      "Sultanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9uin7o8me",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi padişahın saltanatında İstanbul Fethi gerçekleşmiştir?",
+    "explanation": "1453 yılında İstanbul'un fethi, Fatih Sultan Mehmet'in saltanatında gerçekleşmiştir. Bu fetih Osmanlı'nın en büyük zaferlerinden biridir.",
+    "options": [
+      "I. Osman Bey",
+      "II. Bayezid I",
+      "III. Fatih Sultan Mehmet",
+      "IV. II. Murad"
+    ],
+    "correctAnswer": "III. Fatih Sultan Mehmet",
+    "tags": [
+      "İstanbul Fethi",
+      "Osmanlı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x08jhrthp",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı İmparatorluğu'nda 'Divan-ı Hümayun' ne zaman kurulmuştur?",
+    "explanation": "Fatih Sultan Mehmet'in 1453'te İstanbul'u fethetmesi sonrası Divan-ı Hümayun kurulmuş ve Osmanlı'nın merkezi yönetim organı haline gelmiştir.",
+    "options": [
+      "1389 yılında Suleyman Çelebi döneminde",
+      "1402 yılında Bayezid II döneminde",
+      "1453'te Fatih Sultan Mehmet döneminde",
+      "1481'de II. Bayezid döneminde"
+    ],
+    "correctAnswer": "1453'te Fatih Sultan Mehmet döneminde",
+    "tags": [
+      "Divan-ı Hümayun",
+      "Osmanlı Kurumları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i9icc344y",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi padişah döneminde 'Kanuni' lakabını almıştır?",
+    "explanation": "Süleyman Çelebi, babası II. Selim tarafından 'Kanuni' (Hukukçu) lakabını almıştır ve bu lakapla birlikte altın çağda Osmanlı'nın en büyük padişahlarından biri olmuştur.",
+    "options": [
+      "I. Bayezid II",
+      "II. Selim I",
+      "III. Kanuni Sultan Süleyman",
+      "IV. III. Murad"
+    ],
+    "correctAnswer": "III. Kanuni Sultan Süleyman",
+    "tags": [
+      "Kanuni Sultan Süleyman",
+      "Osmanlı Padişahları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bh1bskjno",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Osmanlı İmparatorluğu'nu parçalanmaya doğru giden süreç hangi dönemde başlatılmıştır?",
+    "explanation": "Osmanlı'nın azalmaya başladığı süreç, III. Murat döneminde (1754-1789) özellikle Avusturya ve Rus İmparatorluğu ile yapılan savaşlarda görülmeye başlanmıştır.",
+    "options": [
+      "I. Fatih Sultan Mehmet döneminde",
+      "II. Kanuni Sultan Süleyman döneminde",
+      "III. III. Murat döneminde",
+      "IV. IV. Mehmed (Yavuz) döneminde"
+    ],
+    "correctAnswer": "III. III. Murat döneminde",
+    "tags": [
+      "Osmanlı Azalması",
+      "Tarihsel Süreçler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "glf10czpy",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı Devleti'nin ilk fethettiği şehir aşağıdakilerden hangisidir?",
+    "explanation": "Osman Padişahı'nın ilk fethettiği şehir 1326 yılında İznik'ti. Bu fetih Osmanlı'nın toprak birliği açısından önemli başlangıç noktasıydı.",
+    "options": [
+      "İznik",
+      "Söğüt",
+      "Bursa",
+      "Edirne"
+    ],
+    "correctAnswer": "İznik",
+    "tags": [
+      "Osmanlı Tarihi",
+      "Fetihler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qz35xjjzv",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi padişah döneminde İstanbul'un Fethi gerçekleşmiştir?",
+    "explanation": "28 Mayıs 1453 tarihinde Fatih Sultan Mehmet döneminde İstanbul Fethi gerçekleştirilmiş ve Osmanlı Devleti'nin başkenti İstanbul olmuştur.",
+    "options": [
+      "II. Bayezid",
+      "Fatih Sultan Mehmet",
+      "Yavuz Sultan Selim",
+      "Kanuni Sultan Süleyman"
+    ],
+    "correctAnswer": "Fatih Sultan Mehmet",
+    "tags": [
+      "Osmanlı Tarihi",
+      "İstanbul Fetih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jjnbslywt",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Yavuz Sultan Selim hangi fetihle bilinen bir padişahtır?",
+    "explanation": "Yavuz Sultan Selim 1516 yılında Çaldıran Savaşı'nda Safevi Devleti'ne karşı, 1517'de Mısır Fetih'i ile bilinen padişah olmuştur.",
+    "options": [
+      "İstanbul Fetih",
+      "Mısır Fetih",
+      "Kafkas Fetih",
+      "Anadolu Fetih"
+    ],
+    "correctAnswer": "Mısır Fetih",
+    "tags": [
+      "Osmanlı Tarihi",
+      "Yavuz Sultan Selim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iogv3sfdb",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Kanuni Sultan Süleyman döneminde hangi anlaşma yapılmıştır?",
+    "explanation": "Kanuni Sultan Süleyman döneminde Avusturya ile yapılan anlaşma Viyana Kuşatması sonrası 1547 yılında imzalanan Viyana Antlaşmasıdır.",
+    "options": [
+      "Vienna Antlaşması",
+      "Çaldıran Antlaşması",
+      "Buda Antlaşması",
+      "Levanten Antlaşması"
+    ],
+    "correctAnswer": "Vienna Antlaşması",
+    "tags": [
+      "Osmanlı Tarihi",
+      "Kanuni Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e0k50inej",
+    "category": "TARİH",
+    "subcategory": "Osmanlı Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı Devleti'nin coğrafi genişlemesi en fazla hangi padişah döneminde olmuştur?",
+    "explanation": "Osmanlı Devleti'nin coğrafi genişlemesi en fazla Kanuni Sultan Süleyman döneminde (1520-1566) olmuştur. Afrika, Asya ve Avrupa'da toprak kazanılmıştır.",
+    "options": [
+      "Fatih Sultan Mehmet",
+      "Yavuz Sultan Selim",
+      "Kanuni Sultan Süleyman",
+      "III. Murat"
+    ],
+    "correctAnswer": "Kanuni Sultan Süleyman",
+    "tags": [
+      "Osmanlı Tarihi",
+      "Coğrafi Genişleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

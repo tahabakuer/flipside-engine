@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "yd5pa5kkl",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What does SPOR-Boks primarily refer to in the context of sports organizations?",
+    "explanation": "SPOR-Boks is known as a professional boxing league that organizes competitive matches and tournaments.",
+    "options": [
+      "A professional boxing league",
+      "An international sports federation",
+      "A youth sports training program",
+      "A sports equipment manufacturer"
+    ],
+    "correctAnswer": "A professional boxing league",
+    "tags": [
+      "sports",
+      "boxing",
+      "organizations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vdhmyae91",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which category of athletes typically compete in SPOR-Boks events?",
+    "explanation": "SPOR-Boks events feature professional boxers competing in various weight classes to determine champions.",
+    "options": [
+      "Amateur boxers only",
+      "Professional fighters across weight classes",
+      "Martial arts practitioners",
+      "Track and field runners"
+    ],
+    "correctAnswer": "Professional fighters across weight classes",
+    "tags": [
+      "boxing",
+      "athletes",
+      "weights"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0l2dtvrtt",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What is one of the main objectives of SPOR-Boks tournaments?",
+    "explanation": "A primary goal of SPOR-Boks tournaments is to identify and crown champions at regional and national levels.",
+    "options": [
+      "To promote amateur sports",
+      "To crown regional and national champions",
+      "To sell sports equipment",
+      "To train young athletes"
+    ],
+    "correctAnswer": "To crown regional and national champions",
+    "tags": [
+      "tournaments",
+      "champions",
+      "boxing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ae3vcwdnz",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "In which types of venues are SPOR-Boks matches typically held?",
+    "explanation": "SPOR-Boks matches are held in professional boxing arenas and stadiums designed for competitive sports events.",
+    "options": [
+      "School gymnasiums",
+      "Professional boxing arenas and stadiums",
+      "Community centers",
+      "Outdoor fields"
+    ],
+    "correctAnswer": "Professional boxing arenas and stadiums",
+    "tags": [
+      "venues",
+      "arenas",
+      "boxing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tbsx0qidn",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "What distinguishes SPOR-Boks from amateur boxing competitions?",
+    "explanation": "SPOR-Boks is distinguished from amateur boxing by featuring professional athletes competing with significantly higher financial and reputational stakes.",
+    "options": [
+      "It uses different equipment",
+      "It features professional-level athletes with higher stakes",
+      "It has shorter match durations",
+      "It doesn't have weight classes"
+    ],
+    "correctAnswer": "It features professional-level athletes with higher stakes",
+    "tags": [
+      "professional",
+      "amateur",
+      "boxing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t085plcem",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What does 'boks' commonly refer to in sports terminology?",
+    "explanation": "'Boks' is a word derived from Dutch and Afrikaans that means 'box', referring to the sport of boxing.",
+    "options": [
+      "A type of wrestling move",
+      "Boxing (derived from Dutch/Afrikaans)",
+      "A swimming stroke",
+      "A track event"
+    ],
+    "correctAnswer": "Boxing (derived from Dutch/Afrikaans)",
+    "tags": [
+      "sports",
+      "terminology",
+      "boxing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "26nn2aosm",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which country has historically used 'boks' in their sports vocabulary?",
+    "explanation": "'Boks' is used in South African and Dutch/Afrikaans languages to refer to boxing, reflecting European linguistic influence.",
+    "options": [
+      "Japan",
+      "South Africa/Netherlands",
+      "Brazil",
+      "Egypt"
+    ],
+    "correctAnswer": "South Africa/Netherlands",
+    "tags": [
+      "sports",
+      "geography",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c4p8uur51",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "In professional sports, what does 'boks' typically mean when discussing combat sports?",
+    "explanation": "In combat sports context, 'boks' directly translates to the sport of boxing in European languages.",
+    "options": [
+      "A type of martial arts belt",
+      "The sport of boxing itself",
+      "A training facility",
+      "A competition format"
+    ],
+    "correctAnswer": "The sport of boxing itself",
+    "tags": [
+      "sports",
+      "boxing",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3gyr4708f",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is a common misconception about the term 'boks' in international sports?",
+    "explanation": "Many international audiences mistakenly believe 'boks' is an English term, when it actually comes from Dutch/Afrikaans.",
+    "options": [
+      "It refers to swimming terminology",
+      "People think it's exclusively English",
+      "Many believe it means track and field",
+      "All of the above"
+    ],
+    "correctAnswer": "People think it's exclusively English",
+    "tags": [
+      "sports",
+      "misconceptions",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ozkeis86w",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "In the context of SPOR-Boks (sports terminology), what category does this fall under?",
+    "explanation": "Boxing (boks) is classified as a combat sport and typically an individual sport where athletes compete one-on-one.",
+    "options": [
+      "Team sports",
+      "Combat/Individual sports",
+      "Endurance events",
+      "Precision sports"
+    ],
+    "correctAnswer": "Combat/Individual sports",
+    "tags": [
+      "sports",
+      "classification",
+      "boxing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mvqsn3edi",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What does 'SPOR' typically stand for in sports contexts?",
+    "explanation": "SPOR is commonly used as an abbreviation for Sport, particularly in informal or technical contexts.",
+    "options": [
+      "Sport",
+      "Sponsor",
+      "Score",
+      "System"
+    ],
+    "correctAnswer": "Sport",
+    "tags": [
+      "sports",
+      "abbreviations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ek4q5m1u6",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "In the context of 'Boks', which sport does it most directly relate to?",
+    "explanation": "Boks is a term that can refer to boxing in certain linguistic contexts, derived from 'box'.",
+    "options": [
+      "Boxing",
+      "Basketball",
+      "Football",
+      "Tennis"
+    ],
+    "correctAnswer": "Boxing",
+    "tags": [
+      "sports",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p49qow4xt",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "If SPOR-Boks refers to a combined sports concept, what might it represent?",
+    "explanation": "When combined, SPOR-Boks could represent an organizational or conceptual link between general sports and boxing disciplines.",
+    "options": [
+      "Sport and Boxing organization",
+      "Sponsor and Boxer partnership",
+      "Score and Bouts tracking",
+      "System of Boxing rules"
+    ],
+    "correctAnswer": "Sport and Boxing organization",
+    "tags": [
+      "sports",
+      "organizations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cncppnpgv",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is a key consideration when researching niche sports terminology like 'SPOR-Boks'?",
+    "explanation": "Niche sports terms often have regional variations or specific cultural contexts that affect their meaning.",
+    "options": [
+      "Verify regional language differences",
+      "Focus only on mainstream sources",
+      "Ignore historical context",
+      "Rely solely on social media"
+    ],
+    "correctAnswer": "Verify regional language differences",
+    "tags": [
+      "research",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "91mci3qql",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "In professional quiz contexts, what difficulty level would you assign to questions about specialized sports abbreviations?",
+    "explanation": "Specialized abbreviations can range from easy to expert depending on the audience and specificity required.",
+    "options": [
+      "EASY",
+      "GENERAL",
+      "EXPERT",
+      "VARIABLE"
+    ],
+    "correctAnswer": "VARIABLE",
+    "tags": [
+      "quiz-design",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2qctp91u9",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What does 'Boks' commonly refer to in sports terminology?",
+    "explanation": "In many languages, 'Boks' or 'Boksen' is used to refer to boxing, the combat sport involving punches with fists.",
+    "options": [
+      "Boxing",
+      "Basketball",
+      "Baseball",
+      "Bowling"
+    ],
+    "correctAnswer": "Boxing",
+    "tags": [
+      "sports",
+      "boxing",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pujuvzbyh",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which of these is a standard round duration in professional boxing matches?",
+    "explanation": "Professional boxing matches typically have rounds lasting 3 minutes, separated by 1-2 minute rest periods between rounds.",
+    "options": [
+      "3 minutes",
+      "5 minutes",
+      "10 minutes",
+      "15 minutes"
+    ],
+    "correctAnswer": "3 minutes",
+    "tags": [
+      "boxing",
+      "rules",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "edl44f86d",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is the highest professional boxing title that encompasses all weight divisions?",
+    "explanation": "An Undisputed Champion holds titles across all major boxing organizations (WBA, WBC, IBF, WBO) in the same weight division.",
+    "options": [
+      "Cruiserweight Champion",
+      "Heavyweight Champion",
+      "Undisputed Champion",
+      "Super Middleweight Champion"
+    ],
+    "correctAnswer": "Undisputed Champion",
+    "tags": [
+      "boxing",
+      "titles",
+      "championships"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "omj8kkvyu",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "Which famous boxer is known as 'The Ring General' and held undisputed titles?",
+    "explanation": "Sugar Ray Robinson (1921-1989) is widely regarded as one of the greatest boxers ever, holding undisputed titles and earning the nickname 'The Ring General'.",
+    "options": [
+      "Muhammad Ali",
+      "Sugar Ray Robinson",
+      "Joe Frazier",
+      "Rocky Marciano"
+    ],
+    "correctAnswer": "Sugar Ray Robinson",
+    "tags": [
+      "boxing",
+      "historical",
+      "legends"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1nm2ouyd5",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is the minimum number of rounds in an amateur boxing match?",
+    "explanation": "Amateur boxing matches typically consist of 3 rounds of 3 minutes each, with some competitions having up to 4 or more rounds depending on the level.",
+    "options": [
+      "4 rounds",
+      "6 rounds",
+      "8 rounds",
+      "10 rounds"
+    ],
+    "correctAnswer": "6 rounds",
+    "tags": [
+      "boxing",
+      "amateur",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zo8p43puz",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What does SPOR-Boks primarily represent in its operational framework?",
+    "explanation": "SPOR-Boks is designed as a comprehensive sports analytics platform that integrates data-driven insights for athlete development and performance optimization.",
+    "options": [
+      "A sports analytics platform",
+      "A box training methodology",
+      "A competitive boxing league system",
+      "A performance coaching certification"
+    ],
+    "correctAnswer": "A sports analytics platform",
+    "tags": [
+      "sports",
+      "analytics",
+      "framework"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tkar6r3mc",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which core component enables SPOR-Boks to track athlete progress effectively?",
+    "explanation": "The system utilizes real-time biometric sensors to continuously monitor and record athlete performance metrics for accurate progress tracking.",
+    "options": [
+      "Manual observation logs",
+      "Real-time biometric sensors",
+      "Video analysis software",
+      "Statistical spreadsheets"
+    ],
+    "correctAnswer": "Real-time biometric sensors",
+    "tags": [
+      "tracking",
+      "technology",
+      "biometrics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8fxjhb9xl",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is the primary benefit of SPOR-Boks for coaching staff?",
+    "explanation": "SPOR-Boks empowers coaching staff with comprehensive analytics that enable informed, evidence-based decisions regarding training and competition strategies.",
+    "options": [
+      "Reduced equipment costs",
+      "Enhanced data-driven decision making",
+      "Simplified athlete scheduling",
+      "Increased facility capacity"
+    ],
+    "correctAnswer": "Enhanced data-driven decision making",
+    "tags": [
+      "coaching",
+      "decisions",
+      "data"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n70a0gqau",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "Which integration capability distinguishes SPOR-Boks from traditional sports management systems?",
+    "explanation": "SPOR-Boks features advanced multi-platform data synchronization allowing seamless integration across various devices and systems for comprehensive athlete monitoring.",
+    "options": [
+      "Offline database storage",
+      "Multi-platform data synchronization",
+      "Paper-based reporting",
+      "Single-device compatibility"
+    ],
+    "correctAnswer": "Multi-platform data synchronization",
+    "tags": [
+      "integration",
+      "synchronization",
+      "platforms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tav56l883",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "What type of analytics does SPOR-Boks generate for long-term athlete development planning?",
+    "explanation": "The system produces predictive growth modeling analytics that forecast athlete development trajectories, enabling strategic long-term planning and resource allocation.",
+    "options": [
+      "Short-term performance snapshots",
+      "Predictive growth modeling",
+      "Historical trend analysis only",
+      "Instant reaction timing"
+    ],
+    "correctAnswer": "Predictive growth modeling",
+    "tags": [
+      "analytics",
+      "development",
+      "planning"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ysx65da6v",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum weight category for professional boxers in men's boxing?",
+    "explanation": "The heavyweight division in men's professional boxing has no upper weight limit, but the next highest category is 185 lbs (super middleweight/middleweight boundary).",
+    "options": [
+      "200 lbs",
+      "185 lbs",
+      "165 lbs",
+      "220 lbs"
+    ],
+    "correctAnswer": "185 lbs",
+    "tags": [
+      "boxing",
+      "weights",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o5ng8gdi8",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "Which country has produced the most Olympic boxing gold medals in history?",
+    "explanation": "The Soviet Union and Russia combined have won the most Olympic boxing gold medals, with 28 total gold medals in men's boxing.",
+    "options": [
+      "USA",
+      "Russia/USSR",
+      "China",
+      "Italy"
+    ],
+    "correctAnswer": "Russia/USSR",
+    "tags": [
+      "boxing",
+      "olympics",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l3blvp0z8",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the championship belt contested in heavyweight boxing?",
+    "explanation": "The Heavyweight Championship is the title contested in the heavyweight division, traditionally with no upper weight limit.",
+    "options": [
+      "Heavyweight Championship",
+      "Super Heavyweight Championship",
+      "Cruiserweight Championship",
+      "Light Heavyweight Championship"
+    ],
+    "correctAnswer": "Heavyweight Championship",
+    "tags": [
+      "boxing",
+      "championships",
+      "terms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5dfjrhq1r",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "Who won the first Olympic boxing gold medal in 1904?",
+    "explanation": "Jim Driscoll from the United States won the first Olympic boxing gold medal in 1904 at St. Louis.",
+    "options": [
+      "Jack Johnson",
+      "Eddie O'Keefe",
+      "Jim Driscoll",
+      "George Dixon"
+    ],
+    "correctAnswer": "Jim Driscoll",
+    "tags": [
+      "boxing",
+      "olympics",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hdhwv3slo",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "How many rounds does a professional heavyweight title fight typically have?",
+    "explanation": "Professional heavyweight title fights typically consist of 12 rounds, each lasting 3 minutes with a 1-minute rest between rounds.",
+    "options": [
+      "6 rounds",
+      "8 rounds",
+      "12 rounds",
+      "10 rounds"
+    ],
+    "correctAnswer": "12 rounds",
+    "tags": [
+      "boxing",
+      "rules",
+      "professional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vbi8yfdom",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What does 'Boks' mean in Afrikaans/Dutch?",
+    "explanation": "In Afrikaans and Dutch, 'boks' translates to 'box', which is related to boxing or a box-shaped container.",
+    "options": [
+      "Box",
+      "Ball",
+      "Basket",
+      "Boat"
+    ],
+    "correctAnswer": "Box",
+    "tags": [
+      "language",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mo9l50luz",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which sport is commonly associated with the term 'Boks' in African contexts?",
+    "explanation": "In many African countries, 'boks' is used to refer to boxing, a combat sport involving punches.",
+    "options": [
+      "Boxing",
+      "Basketball",
+      "Baseball",
+      "Bowling"
+    ],
+    "correctAnswer": "Boxing",
+    "tags": [
+      "sports",
+      "boxing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u3wrpqi7z",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "What is the ring name of South African boxer Chris Lytle?",
+    "explanation": "Chris 'The Lion' Lytle is a notable South African boxer who competed in professional boxing.",
+    "options": [
+      "The Lion",
+      "The Tiger",
+      "The Rhino",
+      "The Elephant"
+    ],
+    "correctAnswer": "The Lion",
+    "tags": [
+      "boxing",
+      "south-africa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lqijt6ft8",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "How many rounds are typically fought in a standard amateur boxing match?",
+    "explanation": "Amateur boxing matches typically consist of 3 or 4 rounds, each lasting 3 minutes.",
+    "options": [
+      "3-4",
+      "5-6",
+      "8-10",
+      "12-15"
+    ],
+    "correctAnswer": "3-4",
+    "tags": [
+      "boxing",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zgtdanmki",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "What is the term for a boxer's defensive movement to avoid punches?",
+    "explanation": "A parry is a defensive boxing technique where the boxer uses their gloves to deflect incoming punches.",
+    "options": [
+      "Parry",
+      "Bend",
+      "Block",
+      "Strike"
+    ],
+    "correctAnswer": "Parry",
+    "tags": [
+      "boxing",
+      "technique"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8r6kllw5r",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What does 'Boks' commonly refer to in sports terminology?",
+    "explanation": "\"Boks\" is short for boxing, particularly in some European languages where it refers to the combat sport of punching.",
+    "options": [
+      "Boxing",
+      "Basketball",
+      "Baseball",
+      "Bowling"
+    ],
+    "correctAnswer": "Boxing",
+    "tags": [
+      "sports",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "skiu9z52g",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which organization governs professional boxing matches worldwide?",
+    "explanation": "The World Boxing Association (WBA) is one of the major professional boxing governing bodies that certifies world champions in various weight classes.",
+    "options": [
+      "WBA",
+      "FIFA",
+      "NBA",
+      "NFL"
+    ],
+    "correctAnswer": "WBA",
+    "tags": [
+      "sports organizations",
+      "boxing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "onba2xopx",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is the standard number of rounds in a professional boxing match?",
+    "explanation": "Professional boxing matches typically range from 4 to 12 rounds, with title fights usually being 12 rounds of 3 minutes each.",
+    "options": [
+      "4-12 rounds",
+      "6-8 rounds",
+      "3-5 rounds",
+      "10-15 rounds"
+    ],
+    "correctAnswer": "4-12 rounds",
+    "tags": [
+      "boxing rules",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bs162anqy",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "Which famous boxer is known as \"The Greatest\"?",
+    "explanation": "Muhammad Ali was widely recognized as \"The Greatest\" boxer of all time and held multiple heavyweight titles during his career.",
+    "options": [
+      "Muhammad Ali",
+      "Joe Frazier",
+      "Sugar Ray Robinson",
+      "Rocky Marciano"
+    ],
+    "correctAnswer": "Muhammad Ali",
+    "tags": [
+      "boxing legends",
+      "sports history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tfwoxlzgz",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What type of gloves are used in professional boxing?",
+    "explanation": "Professional boxers use 10-12 ounce padded gloves to protect both fighters and ensure safer competition.",
+    "options": [
+      "10-12 oz padded gloves",
+      "5-7 oz bare hands",
+      "3-4 oz weighted gloves",
+      "No gloves at all"
+    ],
+    "correctAnswer": "10-12 oz padded gloves",
+    "tags": [
+      "boxing equipment",
+      "sports safety"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ftxppaug",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What does 'SPOR' typically stand for in an educational context?",
+    "explanation": "In educational contexts, SPOR commonly stands for Sports and Physical Recreation programs which focus on athletic development and physical education.",
+    "options": [
+      "Sports and Physical Recreation",
+      "Sports Performance and Research",
+      "Student Physical Operations Record",
+      "Sporting Public Outreach"
+    ],
+    "correctAnswer": "Sports and Physical Recreation",
+    "tags": [
+      "sports",
+      "academia",
+      "SPOR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j2538bnbr",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is a core component of comprehensive sports training?",
+    "explanation": "Comprehensive sports training includes physical conditioning, technical skill development, and mental preparation to ensure holistic athlete development.",
+    "options": [
+      "Only technical skills",
+      "Physical conditioning, technique, and mental preparation",
+      "Winning at all costs",
+      "Individual practice only"
+    ],
+    "correctAnswer": "Physical conditioning, technique, and mental preparation",
+    "tags": [
+      "sports-training",
+      "athletics",
+      "training"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2xgzpxjfp",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "What is the primary goal of SPOR-based educational programs?",
+    "explanation": "SPOR educational programs aim to develop holistic individuals who gain both athletic competencies and valuable life skills through sports participation.",
+    "options": [
+      "To produce professional athletes only",
+      "To develop well-rounded individuals with athletic and life skills",
+      "To focus solely on competition results",
+      "To create entertainment value"
+    ],
+    "correctAnswer": "To develop well-rounded individuals with athletic and life skills",
+    "tags": [
+      "education",
+      "sports-development",
+      "character-building"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5c8scnchr",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which assessment method is commonly used in SPOR evaluations?",
+    "explanation": "SPOR evaluations typically employ physical fitness tests, technical skill assessments, and quantitative performance metrics to measure athlete development.",
+    "options": [
+      "Financial audits",
+      "Physical fitness tests, skill assessments, and performance metrics",
+      "Interviews with coaches only",
+      "Attendance records"
+    ],
+    "correctAnswer": "Physical fitness tests, skill assessments, and performance metrics",
+    "tags": [
+      "assessment",
+      "evaluation",
+      "metrics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bk9a4sqf3",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EXPERT",
+    "question": "What role does mental preparation play in modern SPOR programs?",
+    "explanation": "Modern SPOR programs integrate mental preparation as an essential component, recognizing that psychological resilience is crucial for sustained athletic performance.",
+    "options": [
+      "It is considered unimportant",
+      "It is secondary to physical training",
+      "It is integrated as a core component alongside physical and technical skills",
+      "It is only for elite athletes"
+    ],
+    "correctAnswer": "It is integrated as a core component alongside physical and technical skills",
+    "tags": [
+      "mental-health",
+      "sports-psychology",
+      "integration"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ib0ez3qw6",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What does 'Boks' typically refer to in sports terminology?",
+    "explanation": "Boks is a common abbreviation for boxing, particularly in certain regions where the sport involves competitive hand-to-hand combat using fists.",
+    "options": [
+      "Boxing",
+      "Basketball",
+      "Bowling",
+      "Baseball"
+    ],
+    "correctAnswer": "Boxing",
+    "tags": [
+      "sports",
+      "boxing",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qqldcvszu",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "In professional boxing, what are the rounds typically called?",
+    "explanation": "Professional boxing matches are divided into periods of time called rounds, with each round lasting typically 3 minutes in standard competition.",
+    "options": [
+      "Fights",
+      "Rounds",
+      "Sets",
+      "Games"
+    ],
+    "correctAnswer": "Rounds",
+    "tags": [
+      "boxing",
+      "terminology",
+      "professional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4uqjuc42k",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which weight class would a boxer who weighs between 154-160 lbs fall into?",
+    "explanation": "The welterweight division in boxing covers approximately 154-160 lbs, making it one of the more popular weight classes in professional competition.",
+    "options": [
+      "Lightweight",
+      "Welterweight",
+      "Middleweight",
+      "Super Middleweight"
+    ],
+    "correctAnswer": "Welterweight",
+    "tags": [
+      "boxing",
+      "weights",
+      "classes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ffoor38a",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "EASY",
+    "question": "What is a 'knockout' (KO) in boxing?",
+    "explanation": "A knockout occurs when a boxer's punch renders their opponent unable to continue, ending the fight immediately after the referee counts to 10.",
+    "options": [
+      "When a boxer lands enough punches to end the fight",
+      "When both boxers agree to stop fighting",
+      "When a referee stops the fight due to injury",
+      "When a boxer wins by points"
+    ],
+    "correctAnswer": "When a boxer lands enough punches to end the fight",
+    "tags": [
+      "boxing",
+      "terminology",
+      "knockout"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1f6d8o0ao",
+    "category": "SPOR",
+    "subcategory": "Boks",
+    "difficulty": "GENERAL",
+    "question": "Which of these is NOT a method of winning in professional boxing?",
+    "explanation": "While disqualification ends a fight, it is considered a loss rather than a victory method. The actual winning methods are KO, TKO, or Decision.",
+    "options": [
+      "Knockout (KO)",
+      "Technical Knockout (TKO)",
+      "Decision",
+      "Disqualification"
+    ],
+    "correctAnswer": "Disqualification",
+    "tags": [
+      "boxing",
+      "winning",
+      "methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

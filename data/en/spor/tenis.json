@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "x8zq7cm9t",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Kasim Özdemir'in 1976'da kazandığı Wimbledon şampiyonluğuyla birlikte, bu turnuvanın hangi kategorisinde oynanır?",
+    "explanation": "Kasim Özdemir 1976 Wimbledon şampiyonluğunu tekler kategorisinde kazandı. Wimbledon, Grand Slam turnuvalarından biridir ve hem tekler hem çiftler kategorilerinde oynanır.",
+    "options": [
+      "Çiftler",
+      "Tekler",
+      "Miks Çiftler",
+      "Juniör Tekler"
+    ],
+    "correctAnswer": "Tekler",
+    "tags": [
+      "tenis",
+      "wimbledon",
+      "tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jes31nvah",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Tennis kortunun standart boyutu kaç metrekaredir?",
+    "explanation": "Tennis kortunun standart boyutu yaklaşık 260 metrekaredir. Kort uzunluğu 78 fit (23.77m), genişliği 27 fit (8.23m) olarak belirlenmiştir.",
+    "options": [
+      "260 m²",
+      "360 m²",
+      "480 m²",
+      "520 m²"
+    ],
+    "correctAnswer": "260 m²",
+    "tags": [
+      "tenis",
+      "kort",
+      "boyutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "immhgdgcr",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "Grand Slam turnuvalarından hangisi en erken başlar?",
+    "explanation": "Australian Open her yıl Ocak ayında başlar ve Grand Slam turnuvaları arasında en erken düzenlenen turnuvadır. Diğerleri sırasıyla: Roland Garros (Mart), Wimbledon (Haziran-Temmuz), US Open (Ağustos-Eylül) şeklindedir.",
+    "options": [
+      "Wimbledon",
+      "US Open",
+      "Roland Garros",
+      "Australian Open"
+    ],
+    "correctAnswer": "Australian Open",
+    "tags": [
+      "tenis",
+      "grand slam",
+      "takvim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tbq48jwww",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "Tennis skorunda 15, 30, 40 ve 'Game' arasındaki geçiş kuralı nedir?",
+    "explanation": "Tennis skorunda bir oyuncu diğerine karşı farkı kapatması için 'Advert' veya 'Set Point' durumlarında, fark en fazla 1 oyun kadardır. Bu kural set içinde geçerlidir.",
+    "options": [
+      "Her iki oyuncu da aynı skorda olmalı",
+      "Fark 2 oyun kadar olmamalı",
+      "Fark en fazla 1 oyun kadardır",
+      "Hiçbir fark sınırlaması yoktur"
+    ],
+    "correctAnswer": "Fark en fazla 1 oyun kadardır",
+    "tags": [
+      "tenis",
+      "skor",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7183fcmob",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "Novak Djokovic'in Wimbledon'da kaç kez şampiyon olduğunu bilmiyoruz?",
+    "explanation": "Novak Djokovic'in Wimbledon'da 2011, 2014, 2015, 2018, 2019, 2021, 2022 yıllarında toplam 7 kez şampiyon olmuştur. Soru 8-9 arası değişkenlik göstermektedir, güncel verilerle 7 kez kazanmıştır.",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": "9",
+    "tags": [
+      "tenis",
+      "djokovic",
+      "wimbledon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9yyk6k1ts",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "Qual é o número de jogos que compõem um simples no tênis?",
+    "explanation": "Um simples no tênis é composto por 6 jogos, onde o vencedor precisa ganhar pelo menos dois jogos e estar com duas vezes de vantagem.",
+    "options": [
+      "3 jogos",
+      "4 jogos",
+      "5 jogos",
+      "6 jogos"
+    ],
+    "correctAnswer": "6 jogos",
+    "tags": [
+      "tênis",
+      "regulamento",
+      "pontuação"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "be75pji7x",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "Qual grama é tradicionalmente usada nas quadras do Wimbledon?",
+    "explanation": "O Wimbledon é o único Grand Slam que ainda utiliza gramas naturais em suas quadras, o que faz a bola mais lenta e o jogo mais estratégico.",
+    "options": [
+      "Grama artificial",
+      "Grama natural",
+      "Concreto",
+      "Madeira"
+    ],
+    "correctAnswer": "Grama natural",
+    "tags": [
+      "tênis",
+      "Wimbledon",
+      "superfície"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1k3pfh5js",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Quem foi o primeiro jogador a vencer os quatro Grand Slams (Tennis) consecutivamente?",
+    "explanation": "Novak Djokovic tornou-se o primeiro e único jogador a vencer os quatro Grand Slams consecutivamente em 2015, com um feito histórico de domínio total.",
+    "options": [
+      "Roger Federer",
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Pete Sampras"
+    ],
+    "correctAnswer": "Novak Djokovic",
+    "tags": [
+      "tênis",
+      "Grand Slam",
+      "recorde"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4qgz2vbt8",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "O que significa o termo 'tie-break' no contexto do tênis?",
+    "explanation": "O tie-break é um jogo especial que ocorre quando o placar atinge 6-6 em um set, servindo como desempate decisivo para definir o vencedor do set.",
+    "options": [
+      "Jogo desempate após empate",
+      "Desempate de jogos",
+      "Empate técnico",
+      "Ponto adicional"
+    ],
+    "correctAnswer": "Jogo desempate após empate",
+    "tags": [
+      "tênis",
+      "pontuação",
+      "regras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x1elxs9lp",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "Qual jogador detém o recorde de mais títulos de Grand Slam em tênis?",
+    "explanation": "Novak Djokovic detém o recorde com 24 títulos de Grand Slam, superando Pete Sampras (14) e Rafael Nadal (22), tornando-se o maior atleta da história do tênis.",
+    "options": [
+      "Roger Federer",
+      "Pete Sampras",
+      "Novak Djokovic",
+      "Andre Agassi"
+    ],
+    "correctAnswer": "Novak Djokovic",
+    "tags": [
+      "tênis",
+      "recorde",
+      "Grand Slam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lb5xcfeoj",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "Que tipo de superficie se considera más rápida para el juego de tenis?",
+    "explanation": "El césped es la superficie más rápida porque las bolas rebotan más bajo y con menos rotación, favoreciendo a jugadores como el de Wimbledon.",
+    "options": [
+      "Tierra batida",
+      "Césped",
+      "Sintética dura",
+      "Arcilla"
+    ],
+    "correctAnswer": "Césped",
+    "tags": [
+      "tenis",
+      "corte",
+      "superficie"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hpqigwpgs",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "¿Cuál es el orden de puntuación en tenis?",
+    "explanation": "El sistema de puntuación en tenis es único: 15, 30, 40 y ganar. Si está empatado se llama 'deuce'.",
+    "options": [
+      "15-30-40-Ganar",
+      "10-20-30-40",
+      "25-35-45-55",
+      "0-25-50-75"
+    ],
+    "correctAnswer": "15-30-40-Ganar",
+    "tags": [
+      "tenis",
+      "reglas",
+      "puntuación"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ywyzrkp01",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "¿Qué parte del cuerpo golpea la pelota en el saque?",
+    "explanation": "En el saque, la pelota debe ser golpeada con la raqueta después de lanzarla desde atrás.",
+    "options": [
+      "La cabeza",
+      "La raqueta",
+      "La mano",
+      "El pie"
+    ],
+    "correctAnswer": "La raqueta",
+    "tags": [
+      "tenis",
+      "técnica",
+      "saque"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "af5f4p2x7",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "¿Cuántos Grand Slams existen en tenis?",
+    "explanation": "Los 4 Grand Slams son: Australian Open, Roland Garros, Wimbledon y US Open.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "tenis",
+      "torneos",
+      "grand slam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2b2lr7ozd",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "¿Qué jugador ganó más torneos de tenis individuales en la historia?",
+    "explanation": "Novak Djokovic tiene el récord con 24 Grand Slams individuales, superando a Federer y Nadal.",
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "correctAnswer": "Novak Djokovic",
+    "tags": [
+      "tenis",
+      "jugadores",
+      "récord"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "piswq03l2",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "Which tournament is commonly referred to as 'The Big Final' in men's tennis?",
+    "explanation": "Wimbledon is the oldest of the four Grand Slam tournaments and is often called 'The Big Final' because it was traditionally held in London with the most prestigious atmosphere among Grand Slams.",
+    "options": [
+      "US Open",
+      "French Open",
+      "Wimbledon",
+      "Australian Open"
+    ],
+    "correctAnswer": "Wimbledon",
+    "tags": [
+      "tennis",
+      "tournaments",
+      "grand slam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s5p9p0ujl",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum number of sets a player can win in a men's final match at Wimbledon?",
+    "explanation": "Wimbledon men's singles finals are best-of-five set matches, meaning a player can win a maximum of 4 sets to claim the title.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "tennis",
+      "rules",
+      "sets"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iy4yp3jy0",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "Who was the first male tennis player to achieve a career Grand Slam?",
+    "explanation": "Rafael Nadal became the first male player to complete a career Grand Slam by winning all four major titles in his career.",
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "correctAnswer": "Rafael Nadal",
+    "tags": [
+      "tennis",
+      "players",
+      "grand slam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "34fj7oufk",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "What is called when a player wins both ends of a game during a match without the opponent scoring?",
+    "explanation": "An Ace occurs when a player serves and the ball lands in play without being touched by the opponent, meaning the opponent cannot make a return.",
+    "options": [
+      "Ace",
+      "Match Point",
+      "Non-Forced Fault",
+      "Freeze"
+    ],
+    "correctAnswer": "Ace",
+    "tags": [
+      "tennis",
+      "rules",
+      "scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rljnre08k",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Which country hosted the first Olympic Tennis Tournament?",
+    "explanation": "The first Olympic Tennis Tournament was held in Paris, France at the 1896 Summer Olympics.",
+    "options": [
+      "Greece",
+      "France",
+      "Australia",
+      "United States"
+    ],
+    "correctAnswer": "France",
+    "tags": [
+      "tennis",
+      "olympics",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cl1qm1o49",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "En tenis, ¿qué significa el término 'deuce'?",
+    "explanation": "Deuce ocurre cuando ambos jugadores tienen igualado el puntaje en 40-40 (o 30-30). Para ganar desde deuce, un jugador necesita obtener dos puntos consecutivos.",
+    "options": [
+      "Cuando un jugador tiene ventaja",
+      "Cuando ambos jugadores tienen 30-30 en un set",
+      "Cuando un jugador gana 2 sets seguidos",
+      "El tipo de servicio especial"
+    ],
+    "correctAnswer": "Cuando ambos jugadores tienen 30-30 en un set",
+    "tags": [
+      "reglas",
+      "terminología"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6xgsa4ddu",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "¿Cuál es la duración estándar de un set en partidos profesionales?",
+    "explanation": "Un set profesional estándar dura aproximadamente 120 minutos, aunque puede variar según el nivel y condiciones del partido.",
+    "options": [
+      "60 minutos",
+      "90 minutos",
+      "120 minutos",
+      "No hay límite estricto"
+    ],
+    "correctAnswer": "120 minutos",
+    "tags": [
+      "formato",
+      "reglas"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bsnye4dng",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "¿Qué jugador ganó más títulos de Grand Slam en la historia?",
+    "explanation": "Novak Djokovic tiene 24 títulos de Grand Slam, superando a Federer (20) y Nadal (22). Es el tenista con más títulos individuales en la historia.",
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "correctAnswer": "Novak Djokovic",
+    "tags": [
+      "jugadores",
+      "récords"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x0y5fcvx0",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "¿Cuál es el puntaje máximo posible para un jugador antes del 'match point'?",
+    "explanation": "El puntaje 40-40 es deuce. El match point ocurre cuando un jugador tiene ventaja (deuce +2) o 40-30/40-15 en el tercer set.",
+    "options": [
+      "40-15",
+      "40-30",
+      "40-40",
+      "40-0"
+    ],
+    "correctAnswer": "40-40",
+    "tags": [
+      "reglas",
+      "puntaje"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "leps04boz",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "¿Qué tipo de superficie se considera más rápida para jugar tenis?",
+    "explanation": "El césped es la superficie más rápida, lo que permite rebotes bajos y servicio más efectivo. Wimbledon se juega tradicionalmente en césped.",
+    "options": [
+      "Tierra batida",
+      "Césped",
+      "Pista dura",
+      "Arena"
+    ],
+    "correctAnswer": "Césped",
+    "tags": [
+      "superficies",
+      "equipamiento"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uknyfaghn",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Who is widely considered the greatest male tennis player of all time?",
+    "explanation": "Novak Djokovic holds the record for most Grand Slam singles titles in men's tennis (24 as of 2025) and is widely regarded by tennis historians and experts as the greatest of all time.",
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "correctAnswer": "Novak Djokovic",
+    "tags": [
+      "tennis",
+      "players",
+      "records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dogq3d9us",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "Which surface does Wimbledon Tennis Tournament use?",
+    "explanation": "Wimbledon is the only Grand Slam tournament played on grass courts, which gives it a unique playing style and history dating back to 1877.",
+    "options": [
+      "Clay",
+      "Hard",
+      "Grass",
+      "Indoor Carpet"
+    ],
+    "correctAnswer": "Grass",
+    "tags": [
+      "tennis",
+      "surfaces",
+      "tournaments"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zjysf0j58",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "What is the maximum number of sets won by the loser in a tennis match?",
+    "explanation": "In best-of-five set matches, the loser wins at most 3 sets (e.g., 3-2 or 0-3). In best-of-three matches, the maximum is 1 set for the loser.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "tennis",
+      "rules",
+      "scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wmjhr37jm",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Where was Rafael Nadal born?",
+    "explanation": "Rafael Nadal was born in Manacor, Mallorca, Spain, which is part of the Balearic Islands. He grew up training on clay courts.",
+    "options": [
+      "Barcelona",
+      "Valencia",
+      "Manacor",
+      "Madrid"
+    ],
+    "correctAnswer": "Manacor",
+    "tags": [
+      "tennis",
+      "players",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4zncua8vl",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "What does the term 'tie-break' mean in tennis?",
+    "explanation": "A tie-break is a special game that occurs when the score reaches 6-6 in a set, determining which player wins the set instead of continuing indefinitely.",
+    "options": [
+      "Equal scores between two players",
+      "A shortened match when time runs out",
+      "A separate game played to determine set winner at 6-6",
+      "When both players call a timeout"
+    ],
+    "correctAnswer": "A separate game played to determine set winner at 6-6",
+    "tags": [
+      "tennis",
+      "rules",
+      "scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9lsy61feu",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "¿En qué año comenzó a utilizarse el sistema de desempate en los torneos profesionales?",
+    "explanation": "El sistema de desempate fue introducido en los torneos profesionales en 1968, durante la época de los Grand Slams.",
+    "options": [
+      "1970",
+      "1968",
+      "1953",
+      "1972"
+    ],
+    "correctAnswer": "1968",
+    "tags": [
+      "tenis",
+      "historia",
+      "reglamento"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p4f4lm7j1",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "¿Qué superficie se considera más rápida para jugar a la pelota?",
+    "explanation": "El césped es la superficie más rápida porque la pelota rebota más alto y con menos rotación en comparación con otras superficies.",
+    "options": [
+      "Arcilla roja",
+      "Césped",
+      "Arcilla azul",
+      "Sintética"
+    ],
+    "correctAnswer": "Césped",
+    "tags": [
+      "tenis",
+      "superficies",
+      "torneos"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nxynfe134",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "¿Cuántas veces puede un jugador tocar el suelo dentro de su área de saque antes de que el juego continúe?",
+    "explanation": "Un jugador puede tocar el suelo en su área de saque tantas veces como desee antes del golpe, siempre que no viole otras reglas.",
+    "options": [
+      "Cualquier número",
+      "Solo 1 vez",
+      "2 veces máximo",
+      "No está permitido"
+    ],
+    "correctAnswer": "Cualquier número",
+    "tags": [
+      "tenis",
+      "reglamento",
+      "saque"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "12khsvxwt",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "¿Qué torneo se celebra anualmente sobre césped en Wimbledon?",
+    "explanation": "Wimbledon es el único Grand Slam que se disputa exclusivamente sobre césped cada año.",
+    "options": [
+      "US Open",
+      "Roland Garros",
+      "Australian Open",
+      "Wimbledon"
+    ],
+    "correctAnswer": "Wimbledon",
+    "tags": [
+      "tenis",
+      "grand slam",
+      "torneos"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jy5ck9whn",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "¿Cuál fue la primera mujer en ganar Wimbledon 5 veces consecutivas?",
+    "explanation": "Martina Navratilova ganó Wimbledon en 1982, 1983, 1984, 1985 y 1986 con 5 títulos consecutivos.",
+    "options": [
+      "Chris Evert",
+      "Martina Navratilova",
+      "Venus Williams",
+      "Billie Jean King"
+    ],
+    "correctAnswer": "Martina Navratilova",
+    "tags": [
+      "tenis",
+      "historia",
+      "jugadores"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9mw5mfwfx",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "¿Quién es conocido como el 'Rey de las Canchas' y ganó 20 Grand Slam en singles masculinos?",
+    "explanation": "Novak Djokovic es el jugador con más Grand Slam en singles masculinos con 24 títulos, superando a Rod Laver y Rafael Nadal.",
+    "options": [
+      "Roger Federer",
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Pete Sampras"
+    ],
+    "correctAnswer": "Novak Djokovic",
+    "tags": [
+      "tenis",
+      "grand slam",
+      "récords"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e4nw5odrt",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "¿Cuál es la superficie más rápida utilizada en los torneos de tenis?",
+    "explanation": "Las pistas de césped son las más rápidas porque la pelota rebota menos alto y viaja más rápido, típicas del torneo de Wimbledon.",
+    "options": [
+      "Tierra batida",
+      "Césped",
+      "Pista dura",
+      "Arcilla roja"
+    ],
+    "correctAnswer": "Césped",
+    "tags": [
+      "tenis",
+      "superficies",
+      "Wimbledon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ycg1ihzqi",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "¿Qué jugador femenino ganó el mayor número de Grand Slam en su carrera hasta 2024?",
+    "explanation": "Steffi Graf tiene 22 Grand Slam en singles femeninos, un récord histórico que no ha sido superado.",
+    "options": [
+      "Serena Williams",
+      "Steffi Graf",
+      "Martina Navratilova",
+      "Venus Williams"
+    ],
+    "correctAnswer": "Steffi Graf",
+    "tags": [
+      "tenis femenino",
+      "grand slam",
+      "récords históricos"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pwhzw5lsd",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "¿Cómo se llama el servicio más rápido registrado en la historia del tenis profesional?",
+    "explanation": "Sam Groth del Australian Open registró el servicio más rápido oficial en 209 km/h durante el torneo de 2017.",
+    "options": [
+      "167 km/h",
+      "209 km/h",
+      "155 km/h",
+      "230 km/h"
+    ],
+    "correctAnswer": "209 km/h",
+    "tags": [
+      "tenis",
+      "servicio",
+      "récords velocidad"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h0p8ue6nb",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "¿En qué ciudad se encuentra la casa matriz de la Asociación de Tenis Profesional (ATP)?",
+    "explanation": "La ATP (Asociación de Tenis Profesional) tiene su sede en Lausana, Suiza, desde 1972.",
+    "options": [
+      "Londres, Reino Unido",
+      "Lausana, Suiza",
+      "Miami, EE.UU.",
+      "Múnich, Alemania"
+    ],
+    "correctAnswer": "Lausana, Suiza",
+    "tags": [
+      "tenis",
+      "ATP",
+      "organización deportiva"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u61c8d4si",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "What is the standard scoring sequence in a singles tennis match?",
+    "explanation": "In tennis, points are scored as 15, 30, 40, and then game. This unique scoring system dates back to the Middle Ages when it was believed that each hour of play represented a quarter of the time needed to complete a full match.",
+    "options": [
+      "15, 30, 40, Game",
+      "0, 20, 40, Game",
+      "10, 20, 30, Game",
+      "0, 10, 20, 30"
+    ],
+    "correctAnswer": "15, 30, 40, Game",
+    "tags": [
+      "scoring",
+      "rules",
+      "tennis-basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "45neie8nc",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Which tennis surface type is considered the fastest for serving and volleying?",
+    "explanation": "Grass courts have the lowest coefficient of friction, making them the fastest surface. The ball bounces lower and travels quicker on grass compared to clay or hard court surfaces.",
+    "options": [
+      "Clay",
+      "Grass",
+      "Hard Court",
+      "Carpet"
+    ],
+    "correctAnswer": "Grass",
+    "tags": [
+      "surfaces",
+      "tournament-types",
+      "tennis-basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zs7qnuaoe",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "What was Novak Djokovic's record at Wimbledon as of 2024?",
+    "explanation": "Novak Djokovic holds the record for most Wimbledon singles titles with 17 championships, surpassing Roger Federer who had 8 titles at this grass court tournament.",
+    "options": [
+      "17 titles",
+      "16 titles",
+      "18 titles",
+      "15 titles"
+    ],
+    "correctAnswer": "17 titles",
+    "tags": [
+      "players",
+      "records",
+      "wimbledon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t8lamy1bp",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "In tennis, what is a 'break point'?",
+    "explanation": "A break point occurs when the receiving player has an opportunity to win the game by breaking the server's advantage, typically at 0-40 or deuce positions.",
+    "options": [
+      "Point where you can break the opponent's serve",
+      "When both players are tied at deuce",
+      "The final point of a set",
+      "A type of penalty in match rules"
+    ],
+    "correctAnswer": "Point where you can break the opponent's serve",
+    "tags": [
+      "scoring",
+      "serve",
+      "tennis-basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mas26k9fp",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "Which Grand Slam tournament is played exclusively on clay courts?",
+    "explanation": "The French Open (Roland Garros) is the only Grand Slam tournament played on clay courts, while Wimbledon uses grass, US Open and Australian Open use hard courts.",
+    "options": [
+      "Wimbledon",
+      "US Open",
+      "French Open",
+      "Australian Open"
+    ],
+    "correctAnswer": "French Open",
+    "tags": [
+      "tournaments",
+      "surfaces",
+      "grand-slams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z477kk8wq",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "Quem é considerado o maior vencedor de Grand Slam em todos os tempos?",
+    "explanation": "Novak Djokovic possui 24 títulos de Grand Slam, sendo o maior vencedor em todos os tempos, superando Rafael Nadal (22) e Roger Federer (20).",
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Andy Murray"
+    ],
+    "correctAnswer": "Novak Djokovic",
+    "tags": [
+      "tenis",
+      "grand slam",
+      "recordes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3krm6awci",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Qual é a altura padrão de uma rede de tênis profissional?",
+    "explanation": "A rede de tênis profissional tem altura padrão de 0.91 metros (3 pés) no centro, sendo mais alta nas laterais por causa da fita branca.",
+    "options": [
+      "1.07 metros",
+      "0.91 metros",
+      "0.83 metros",
+      "0.96 metros"
+    ],
+    "correctAnswer": "0.91 metros",
+    "tags": [
+      "tenis",
+      "regras",
+      "profissional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xokp2f1kk",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EASY",
+    "question": "O que significa a sigla 'ATP' no tênis?",
+    "explanation": "ATP significa Association of Tennis Professionals (Associação de Tenistas Profissionais), que governa o tênis masculino profissional.",
+    "options": [
+      "Associação Tenis Profissional",
+      "Academia de Tênis Pro",
+      "Aparelho de Treinamento Pessoal",
+      "Ano de Títulos Profissionais"
+    ],
+    "correctAnswer": "Associação Tenis Profissional",
+    "tags": [
+      "tenis",
+      "siglas",
+      "atp"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hsroxqmjg",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "GENERAL",
+    "question": "Em qual Grand Slam Rafael Nadal é conhecido como 'Rei', principalmente por seu domínio?",
+    "explanation": "Rafael Nadal é chamado de 'Rei do Tênis' em Roland Garros (Paris), onde possui 14 títulos e um domínio histórico nas pistas de terra batida.",
+    "options": [
+      "Australian Open",
+      "Wimbledon",
+      "US Open",
+      "Roland Garros"
+    ],
+    "correctAnswer": "Roland Garros",
+    "tags": [
+      "tenis",
+      "grand slam",
+      "rafael nadal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ploa6kwh",
+    "category": "SPOR",
+    "subcategory": "Tenis",
+    "difficulty": "EXPERT",
+    "question": "Qual serve é considerado o serviço mais rápido já registrado no tênis?",
+    "explanation": "Nikolay Davydenko registrou 248 km/h, enquanto Roger Federer chegou a 251 km/h em 2007, sendo um dos serviços mais rápidos já registrados.",
+    "options": [
+      "210 km/h",
+      "230 km/h",
+      "251 km/h",
+      "245 km/h"
+    ],
+    "correctAnswer": "251 km/h",
+    "tags": [
+      "tenis",
+      "serviço",
+      "recorde"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "ma2md12hg",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satranda 'şah mat' neyi ifade eder?",
+    "explanation": "Şah mat, rakibin şahının (kralın) koruyabileceği bir atak olmadığı ve oyunun kazanan tarafından bittiğini gösterir.",
+    "options": [
+      "Oyunun sonu ve rakibin şahının korunamaması",
+      "Bir piyonun hareketi",
+      "Atın yakalandığı durum",
+      "Rakibin kulesinin kaybolması"
+    ],
+    "correctAnswer": "Oyunun sonu ve rakibin şahının korunamaması",
+    "tags": [
+      "satranç",
+      "terimler",
+      "şah mat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "733o5he1j",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satranda kaç farklı piyon türü vardır?",
+    "explanation": "Satranda sadece bir tip piyon vardır ve her oyuncunun 8 adet piyonu bulunur.",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "satranç",
+      "piyon",
+      "parçalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jfhbhblbt",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Satranda at hangi hareketi yapar?",
+    "explanation": "At, L şekli hareket eder: önce 2 kare sonra yanına 1 kare veya tam tersi.",
+    "options": [
+      "Dikey veya yatay 1-2 kare",
+      "L şeklinde (2 kare + 1 kare)",
+      "Çapraz sınırsız kare",
+      "Piyon gibi sadece ileri"
+    ],
+    "correctAnswer": "L şeklinde (2 kare + 1 kare)",
+    "tags": [
+      "satranç",
+      "at",
+      "hareketler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pp7v121a6",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Bir satranç oyununda toplam kaç parça kullanılır?",
+    "explanation": "Satranda her oyuncu 16 parça kullanır, toplamda 32 parça vardır.",
+    "options": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "correctAnswer": "32",
+    "tags": [
+      "satranç",
+      "parçalar",
+      "toplam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4xssbidwl",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EXPERT",
+    "question": "Satranda 'gambit' stratejisi ne zaman uygulanır?",
+    "explanation": "Gambit, genellikle açılışta bir piyon vererek rakibe zaman veya parça avantajı kazandırmak için kullanılır.",
+    "options": [
+      "Oyun bitmeden önce",
+      "Bir piyon kurban edilerek oyun avantajı sağlanmak için",
+      "Her iki oyuncu eşit hareket ettirdiğinde",
+      "Şah saldırısı yapıldığında"
+    ],
+    "correctAnswer": "Bir piyon kurban edilerek oyun avantajı sağlanmak için",
+    "tags": [
+      "satranç",
+      "strateji",
+      "gambit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xc2ujazol",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Satranç, hangi organizasyonun resmi spor dalı olarak kabul edilir?",
+    "explanation": "Satranç, 1952'den beri Olimpiyat Oyunlarının resmi spor dalı olarak kabul edilmektedir.",
+    "options": [
+      "Olimpiyat Oyunları",
+      "Asya Oyunları",
+      "Avrupa Şampiyonası",
+      "Dünya Şampiyonası"
+    ],
+    "correctAnswer": "Olimpiyat Oyunları",
+    "tags": [
+      "satranç",
+      "spor",
+      "olimpiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gmlfrawg1",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "FIDE'nin tam adı nedir?",
+    "explanation": "FIDE (Fédération Internationale des Échecs), Dünya Satranç Federasyonu olarak bilinir.",
+    "options": [
+      "Dünya Satranç Federasyonu",
+      "Avrupa Satranç Federasyonu",
+      "Asya Satranç Birliği",
+      "Uluslararası Satranç Derneği"
+    ],
+    "correctAnswer": "Dünya Satranç Federasyonu",
+    "tags": [
+      "FIDE",
+      "satranç",
+      "federasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cwyzm2xib",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Satranç Olimpiyatları hangi sıklıkla düzenlenir?",
+    "explanation": "Satranç Olimpiyatları, her iki olimpiyat arası (2 yılda bir) düzenlenir.",
+    "options": [
+      "Her yıl",
+      "İki yılda bir",
+      "Dört yılda bir",
+      "Altı yılda bir"
+    ],
+    "correctAnswer": "İki yılda bir",
+    "tags": [
+      "olimpiyat",
+      "satranç",
+      "düzenleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "095stpyon",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EXPERT",
+    "question": "Hangi ülke satrançta en çok madalya almıştır?",
+    "explanation": "Satranç Olimpiyatları'nda Rusya, en çok madalya almış ülkedir.",
+    "options": [
+      "Rusya",
+      "Çin",
+      "Amerika Birleşik Devletleri",
+      "Almanya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "satranç",
+      "madalya",
+      "ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9372n1o6",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EXPERT",
+    "question": "Satrançta 'Grandmaster' unvanına sahip olmak için FIDE'nin kurduğu sistem nedir?",
+    "explanation": "Satrançta Grandmaster unvanı, FIDE turnuvalarındaki performans ve derecelere göre verilir.",
+    "options": [
+      "Turnuva sistemi",
+      "Rütbe sistemi",
+      "Derece sistemi",
+      "Kategori sistemi"
+    ],
+    "correctAnswer": "Turnuva sistemi",
+    "tags": [
+      "satranç",
+      "Grandmaster",
+      "FIDE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d1do7t1t1",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Satrançta bir oyun kaç hamle ile biter?",
+    "explanation": "Satranç oyununun bitiş kuralı tarihsel olarak değişmiştir - bazı hallerde çekilme, mat veya eşitlik ile biter.",
+    "options": [
+      "Bir hamle",
+      "İki hamle",
+      "Tarihsel olarak değişen",
+      "Hiç bitmez"
+    ],
+    "correctAnswer": "Tarihsel olarak değişen",
+    "tags": [
+      "satranç",
+      "spor",
+      "oyun kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z8vqkdb4j",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta tahtadaki toplam kaç adet taş vardır?",
+    "explanation": "Satranç tahtası iki oyuncu için toplam 32 taş içerir - her oyuncunun 16 taşı vardır.",
+    "options": [
+      "32",
+      "64",
+      "16",
+      "8"
+    ],
+    "correctAnswer": "32",
+    "tags": [
+      "satranç",
+      "spor",
+      "taşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0hxg4xe3z",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Hangi satranç taşı en hızlı hareket eder?",
+    "explanation": "Vezir tahtadaki en güçlü ve en hızlı hareket eden taşıdır - tüm satranç taşlarını tek hamle ile kontrol edebilir.",
+    "options": [
+      "Fil",
+      "Kale",
+      "Vezir",
+      "At"
+    ],
+    "correctAnswer": "Vezir",
+    "tags": [
+      "satranç",
+      "spor",
+      "taş hareketleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ymhbmmv41",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EXPERT",
+    "question": "Satrançta 'enfilade' ne anlama gelir?",
+    "explanation": "Enfilade, bir fil veya kale'nin diğer tahtadaki tüm taşları tek hamle ile kontrol etmesi durumudur.",
+    "options": [
+      "Taşın geriye dönmesi",
+      "Bir filin veya kale'nin bir satır boyunca hareketi",
+      "Mat durumuna gelme",
+      "Çekilme isteği"
+    ],
+    "correctAnswer": "Bir filin veya kale'nin bir satır boyunca hareketi",
+    "tags": [
+      "satranç",
+      "spor",
+      "taktik terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qlss3kr3a",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EXPERT",
+    "question": "Satrançta ilk kez hangi ülkede organize edildi?",
+    "explanation": "Satranç ilk kez organize olarak İran'da (Pers) ortaya çıkmıştır ve sonra yayılmıştır.",
+    "options": [
+      "Çin",
+      "Hindistan",
+      "İran",
+      "Almanya"
+    ],
+    "correctAnswer": "İran",
+    "tags": [
+      "satranç",
+      "spor",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b5arhe8w3",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta bir piyon nasıl atlayabilir?",
+    "explanation": "Piyonların özel bir kuralı vardır: İlk hareketlerinde iki kare ileri atma hakkına sahiptirler, ancak bu sadece ilk hamlede geçerlidir.",
+    "options": [
+      "Hiçbir şekilde atlayamaz",
+      "İlk hareketinde iki kare ileri atabilir",
+      "Sadece düşman piyondan sonra atlayabilir",
+      "Her zaman atlayabilir"
+    ],
+    "correctAnswer": "İlk hareketinde iki kare ileri atabilir",
+    "tags": [
+      "chess",
+      "rules",
+      "pawn"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jqj66jtzm",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta hangi piyonlar en fazla kareden geçebilir?",
+    "explanation": "Fil her zaman kendi rengindeki karelerde hareket eder ve en fazla kareden geçer (diagonal olarak sınırsız). Kale sadece aynı renkli karelerde dikey ve yatay hareket eder.",
+    "options": [
+      "Fil",
+      "Kale",
+      "Veli (Rok)",
+      "Şah"
+    ],
+    "correctAnswer": "Fil",
+    "tags": [
+      "chess",
+      "pieces",
+      "movement"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ecu3lpfn2",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta rok hamlesi sırasında Şah hangi yönde hareket eder?",
+    "explanation": "Satrançta rok hamlesi yaparken Şah 2 kare hareket eder, Veli ise 1 kare hareket eder.",
+    "options": [
+      "1 kare",
+      "2 kare",
+      "3 kare",
+      "4 kare"
+    ],
+    "correctAnswer": "2 kare",
+    "tags": [
+      "chess",
+      "rules",
+      "castling"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hyg8nigrt",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Satrançta 'Kraliyet Mat' ne zaman gerçekleşir?",
+    "explanation": "Kraliyet Mat (Kral Mat), rakip Kral'ın atamayabileceği hiçbir kareye konamadığı ve oyunun bittiği durumdur.",
+    "options": [
+      "Bir piyon düşmüştür",
+      "Kral atamayacağı bir alana konulur",
+      "Fil atlamıştır",
+      "Şah rok yapmıştır"
+    ],
+    "correctAnswer": "Kral atamayacağı bir alana konulur",
+    "tags": [
+      "chess",
+      "checkmate",
+      "endgame"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lilprcz1i",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Dünya Satranç Şampiyonu Magnus Carlsen hangi yıl doğdu?",
+    "explanation": "Norveçli ünlü satranç şampiyonu Magnus Carlsen 30 Aralık 1992 tarihinde Oslo'da doğmuştur.",
+    "options": [
+      "1990",
+      "1992",
+      "1994",
+      "1996"
+    ],
+    "correctAnswer": "1992",
+    "tags": [
+      "chess",
+      "players",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9wx6e3236",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Şahmat oyununda şah (king) ve vezir (queen) hangi renkte olabilir?",
+    "explanation": "Şahmat oyununda her oyuncu bir şah ve bir vezir taşına sahiptir. Beyaz taraf beyaz, siyah taraf siyah renkte bu taşları kullanır.",
+    "options": [
+      "Sadece Beyaz",
+      "Sadece Siyah",
+      "Her iki renk (Beyaz ve Siyah)",
+      "Renksiz"
+    ],
+    "correctAnswer": "Her iki renk (Beyaz ve Siyah)",
+    "tags": [
+      "şahmat",
+      "kurallar",
+      "piyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ienvymza",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Farklı şahmat kurallarından hangisi doğrudur?",
+    "explanation": "Şahmat oyununda beyaz taraf ilk hamlesinde bir piyonu 2 kare ileri götürebilir, sonraki hareketlerde ise her zaman tek kare (veya yakalarken) ilerler.",
+    "options": [
+      "Bir piyon her hareketinde 2 kare ileri gidebilir",
+      "Şah her zaman kendi rengindeki taşa dokunabilir",
+      "Vezir sadece yatay ve dikey hareket edebilir (genel olarak)",
+      "Asla aynı renkte iki taş yan yana duramaz"
+    ],
+    "correctAnswer": "Bir piyon her hareketinde 2 kare ileri gidebilir",
+    "tags": [
+      "şahmat",
+      "kurallar",
+      "piyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3u9gdcgka",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en çok şahmat şampiyonu olarak kabul edilen kişi kimdir?",
+    "explanation": "Norveçli Magnus Carlsen, FIDE tarafından Dünya Şahmat Şampiyonu unvanını 3 kez kazandı ve en çok unvanlı şampiyon olarak kabul edilir.",
+    "options": [
+      "Garry Kasparov",
+      "Magnus Carlsen",
+      "Fischer Bobby",
+      "Anatoly Karpov"
+    ],
+    "correctAnswer": "Magnus Carlsen",
+    "tags": [
+      "şahmat",
+      "dünya şampiyonları",
+      "modern"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "28cxhiz7l",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EXPERT",
+    "question": "Şahmat oyununda 'Kral Çifti' (King's Gambit) hamlesi ne anlama gelir?",
+    "explanation": "Kral Çifti, beyaz tarafın ikinci hamlesinde a4 karesine bir piyon göndererek siyah tarafı açılışa davet eden stratejidir.",
+    "options": [
+      "Bir piyonun şah tarafı tarafından feda edilmesi",
+      "Vezirin şahın üzerine konulması",
+      "Piyonların her iki yanda eşit şekilde dağılması",
+      "Şahın 2 kare geri çekilmesi"
+    ],
+    "correctAnswer": "Bir piyonun şah tarafı tarafından feda edilmesi",
+    "tags": [
+      "şahmat",
+      "stratejiler",
+      "açılışlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wds1ublab",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Şahmat turnuvalarında hangi sistem genellikle kullanılır?",
+    "explanation": "Farklı şahmat turnuvalarında, özellikle büyük organizasyonlarda Swiss sistemi veya çift maç sistemi kullanılır. Puanlar kazanarak sıralama yapılır.",
+    "options": [
+      "Tek maç sistemi",
+      "Her oyuncunun diğerleriyle oynayarak puan topladığı sistemin (Swiss)",
+      "Sadece sonuncu yerleşen kazanır",
+      "Rastgele hamle sistemi"
+    ],
+    "correctAnswer": "Her oyuncunun diğerleriyle oynayarak puan topladığı sistemin (Swiss)",
+    "tags": [
+      "şahmat",
+      "turnuva",
+      "sistemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b477m7909",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Çevre ve eğitim alanında, Satranç ne tür bir aktivite olarak kabul edilir?",
+    "explanation": "Satranç, hem sporda (Olimpiyatlar'da yer alır) hem sanat hem de eğitim açısından değerlendirilen çok yönlü bir aktivitedir.",
+    "options": [
+      "Spor",
+      "Sanat",
+      "Eğitim",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "spor",
+      "satranç",
+      "eğitim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5z4yga4kc",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "FIDE Satranç Federasyonu'nun resmi sembolü nedir?",
+    "explanation": "FIDE'nin sembolü 'Şah' figürüdür ve bu federasyon Uluslararası Satranç Birliği olarak bilinir.",
+    "options": [
+      "Aslan",
+      "At",
+      "Şah (Krallar)",
+      "Hindistan"
+    ],
+    "correctAnswer": "Hindistan",
+    "tags": [
+      "fide",
+      "satranç",
+      "federasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5z66dutai",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satranç tahtasında kaç adet 'Kale' (Rook) figürü bulunur?",
+    "explanation": "Satranç tahtasında her oyuncu 2 Kale (Rook) figürüne sahiptir, toplam 4 Kale vardır.",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "satranç",
+      "tahta",
+      "figürler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9msvdtg4x",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat Oyunları'nda Satranç hangi kategoride yer alır?",
+    "explanation": "Satranç, 1924'den beri Olimpiyat Oyunları'nda spor kategorisinde resmi olarak yer alır.",
+    "options": [
+      "Spor",
+      "Sanat",
+      "Eğitim",
+      "Hiçbiri"
+    ],
+    "correctAnswer": "Spor",
+    "tags": [
+      "olympiyat",
+      "spor",
+      "satranç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y8tq6gljr",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta 'Şah Mat' ne anlama gelir?",
+    "explanation": "Şah Mat, tahtadaki Satranç oyununun resmi olarak bittiği ve bir oyuncunun kaybettiği anı ifade eder.",
+    "options": [
+      "Oyunun bitmesi",
+      "Mola verilmesi",
+      "Tahtanın temizlenmesi",
+      "Figürlerin değişmesi"
+    ],
+    "correctAnswer": "Oyunun bitmesi",
+    "tags": [
+      "satranç",
+      "şah mat",
+      "kural"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "unphjpd9c",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Which of the following is known as the 'Game of Kings'?",
+    "explanation": "Chess has been historically called the 'Game of Kings' because it was traditionally associated with royalty and noble play.",
+    "options": [
+      "Chess",
+      "Checkers",
+      "Go",
+      "Backgammon"
+    ],
+    "correctAnswer": "Chess",
+    "tags": [
+      "chess",
+      "history",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9dm0xhm4p",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "In chess, what is the objective of the game?",
+    "explanation": "The goal of chess is to deliver checkmate, where the opponent's King is under attack with no legal way to escape.",
+    "options": [
+      "Capture the opponent's King",
+      "Reach checkmate on the opponent's King",
+      "Win by points",
+      "Draw by agreement"
+    ],
+    "correctAnswer": "Reach checkmate on the opponent's King",
+    "tags": [
+      "chess",
+      "rules",
+      "strategy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6tjs2356r",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "How many pieces does each player start with in a standard chess game?",
+    "explanation": "Each player starts with 16 pieces (1 King, 1 Queen, 2 Rooks, 2 Bishops, 2 Knights, and 8 Pawns), totaling 32 pieces.",
+    "options": [
+      "15",
+      "16",
+      "32",
+      "64"
+    ],
+    "correctAnswer": "32",
+    "tags": [
+      "chess",
+      "pieces",
+      "setup"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hgteyy4h1",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Which chess piece can only move diagonally?",
+    "explanation": "The Bishop is one of the two pieces that moves exclusively in diagonal directions throughout the game.",
+    "options": [
+      "Knight",
+      "Bishop",
+      "Queen",
+      "Rook"
+    ],
+    "correctAnswer": "Bishop",
+    "tags": [
+      "chess",
+      "pieces",
+      "movement"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3cjsvs9io",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "What happens when a player's King is in check and cannot escape?",
+    "explanation": "When the King is in check with no legal moves to escape, capture, or block, the game ends in checkmate.",
+    "options": [
+      "Stalemate",
+      "Checkmate",
+      "Draw",
+      "Time forfeit"
+    ],
+    "correctAnswer": "Checkmate",
+    "tags": [
+      "chess",
+      "endgame",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8a6vaqm82",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum number of points a player can receive in the FIDE World Chess Championship?",
+    "explanation": "In FIDE World Chess Championship, a player receives 1 point for a win, 0.5 for a draw, and 0 for a loss. The maximum points possible is 3 (winning all three games in the rapid portion or winning both classical games).",
+    "options": [
+      "1 point",
+      "2 points",
+      "3 points",
+      "4 points"
+    ],
+    "correctAnswer": "3 points",
+    "tags": [
+      "chess",
+      "scoring",
+      "FIDE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0k9ku0bu5",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Which piece in chess has the most movement options on an empty board?",
+    "explanation": "The Queen can move any number of squares horizontally, vertically, or diagonally, giving it the most movement options of all pieces on an empty board.",
+    "options": [
+      "Queen",
+      "King",
+      "Rook",
+      "Knight"
+    ],
+    "correctAnswer": "Queen",
+    "tags": [
+      "chess",
+      "pieces",
+      "movement"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7xo6kv6gt",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "What is the time limit for classical chess games in recent FIDE tournaments?",
+    "explanation": "Recent FIDE tournaments typically use a 90 minutes + 30 seconds increment time control for classical chess games.",
+    "options": [
+      "30+0",
+      "90+30",
+      "120+60",
+      "180+10"
+    ],
+    "correctAnswer": "90+30",
+    "tags": [
+      "chess",
+      "time control",
+      "FIDE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4a9tw40sc",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EXPERT",
+    "question": "In which year was the first official women's world chess championship held?",
+    "explanation": "The first official women's world chess championship was held in 1927, won by Vera Menchik.",
+    "options": [
+      "1927",
+      "1930",
+      "1945",
+      "1950"
+    ],
+    "correctAnswer": "1927",
+    "tags": [
+      "chess",
+      "women",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "csovf1bxo",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "What happens when a player reaches the time control of 5 minutes in rapid chess?",
+    "explanation": "In rapid chess, when a player reaches the base time (typically 5 minutes), the increment or additional time per move stops being added.",
+    "options": [
+      "Game ends immediately",
+      "Player must play faster",
+      "Increment stops",
+      "Time is frozen"
+    ],
+    "correctAnswer": "Increment stops",
+    "tags": [
+      "chess",
+      "time control",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tlk6tma4b",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta şah ile filin hareket şekli nasıldır?",
+    "explanation": "Şah tüm yönlere 1 kareluk hareket ederken, fil sadece çapraz (diagonal) karelerde hareket eder.",
+    "options": [
+      "Şah: Her yöne tek kare; Fil: Dikey ve yatay hat",
+      "Şah: Sadece ileriye; Fil: Çapraz kareler",
+      "Şah: Tüm yönlere sınırsız; Fil: 8 karelere kadar",
+      "Şah: 360 derece; Fil: Diagonal"
+    ],
+    "correctAnswer": "Şah: Her yöne tek kare; Fil: Dikey ve yatay hat",
+    "tags": [
+      "satranc",
+      "hareketler",
+      "şah",
+      "fil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ik2fg92zk",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta 'kral mat' ne demektir?",
+    "explanation": "Kral mat, karşı tarafın şahı tehdit edemediği durumda oyunun bittiğini gösterir.",
+    "options": [
+      "Kralın yakalanması",
+      "Karşı tarafın kralını tehdit edememesi",
+      "Hücumun sona ermesi",
+      "Oyunun uzaması"
+    ],
+    "correctAnswer": "Karşı tarafın kralını tehdit edememesi",
+    "tags": [
+      "satranc",
+      "mat",
+      "kral mat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jxtv1kuot",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satranç tahtasında kaç kare vardır?",
+    "explanation": "Satranç tahtası 8x8 boyutunda olup toplam 64 kareden oluşur.",
+    "options": [
+      "32 kare",
+      "48 kare",
+      "64 kare",
+      "80 kare"
+    ],
+    "correctAnswer": "64 kare",
+    "tags": [
+      "satranc",
+      "tahta",
+      "kare"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o00ao9g6k",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Hangi piyon 'pas' özelliğine sahiptir?",
+    "explanation": "Piyonlar ilk hamlelerinde 2 kare hareket edebilir, bunu 'çift geçiş' (pas) olarak adlandırır.",
+    "options": [
+      "As",
+      "At",
+      "Piyon",
+      "Fildişi"
+    ],
+    "correctAnswer": "Piyon",
+    "tags": [
+      "satranc",
+      "piyon",
+      "pas"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n0hhiw8bl",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta en değerli piyon hangisidir?",
+    "explanation": "Satrançta şah (kral) en değerli parçadır çünkü yakalanamaz ve oyunun sonu onunla belirlenir.",
+    "options": [
+      "Piyon",
+      "At",
+      "Fil",
+      "Şah"
+    ],
+    "correctAnswer": "Şah",
+    "tags": [
+      "satranc",
+      "değer",
+      "piyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ypa4joknj",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Satrançta 'Şah' neyi ifade eder?",
+    "explanation": "Şah, satrançta Kral'ın karşılığıdır. Satranç tahtasında en önemli taş olarak kabul edilir.",
+    "options": [
+      "Tahtaya konulan taş",
+      "Kral",
+      "Hoca",
+      "Soyut kavram"
+    ],
+    "correctAnswer": "Kral",
+    "tags": [
+      "satranc",
+      "temel",
+      "taşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vge2b90j1",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EASY",
+    "question": "Bir satranç oyununda toplam kaç taş ile başlanır?",
+    "explanation": "Satrançta her oyuncu 16 taş ile başlar, toplamda 32 taş vardır.",
+    "options": [
+      "20",
+      "32",
+      "48",
+      "64"
+    ],
+    "correctAnswer": "32",
+    "tags": [
+      "satranc",
+      "sayı",
+      "oyun kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6qht2e3ku",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Hangi satranç taşı en az hareket eder?",
+    "explanation": "At, diğer taşlardan farklı olarak L şeklinde hareket eder ve en çok engelleme yeteneğine sahiptir.",
+    "options": [
+      "Kule",
+      "At",
+      "Fil",
+      "Vezir"
+    ],
+    "correctAnswer": "At",
+    "tags": [
+      "satranc",
+      "taşlar",
+      "hareketler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0vvl6s5d8",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "GENERAL",
+    "question": "Satrançta 'Matach' neyin sonudur?",
+    "explanation": "Matach, satrançta oyunun bitim anlamına gelir. Genellikle Kral'ın şahlanması durumunda gerçekleşir.",
+    "options": [
+      "Oyunun başlangıcı",
+      "Oyunun bitimi",
+      "Taş değişimi",
+      "Zaman aşımı"
+    ],
+    "correctAnswer": "Oyunun bitimi",
+    "tags": [
+      "satranc",
+      "terminoloji",
+      "oyun kısımları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f4mlqzqd4",
+    "category": "SPOR",
+    "subcategory": "Satranç",
+    "difficulty": "EXPERT",
+    "question": "Dünya Şampiyonluğunu uzun süre koruyan Magnus Carlsen hangi taşla bilinir?",
+    "explanation": "Magnus Carlsen, modern satranç dünyasının en önemli Vezir kullanımıyla bilinir. Dünyanın en iyi oyuncusu olarak kabul edilir.",
+    "options": [
+      "Kale",
+      "At",
+      "Vezir",
+      "Şah"
+    ],
+    "correctAnswer": "Vezir",
+    "tags": [
+      "satranc",
+      "düzey",
+      "ünlü oyuncular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

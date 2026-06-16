@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "xbi0ipwt9",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Which team won the Constructors' Championship in the 2022 Formula 1 season?",
+    "explanation": "Red Bull Racing secured the 2022 Constructors' Championship with Max Verstappen driving for them.",
+    "options": [
+      "Mercedes",
+      "Red Bull Racing",
+      "Ferrari",
+      "McLaren"
+    ],
+    "correctAnswer": "Red Bull Racing",
+    "tags": [
+      "championships",
+      "teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nmh0fu6mh",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What is the primary purpose of the Drag Reduction System (DRS) in Formula 1?",
+    "explanation": "DRS allows drivers to open a flap on the rear wing, reducing drag and increasing top speed for better overtaking opportunities on straight sections.",
+    "options": [
+      "To increase fuel efficiency",
+      "To assist overtaking on straights",
+      "To reduce engine wear",
+      "To improve aerodynamic stability"
+    ],
+    "correctAnswer": "To assist overtaking on straights",
+    "tags": [
+      "aerodynamics",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9vtqbx6h9",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "As of 2023, how many Grand Prix wins does Lewis Hamilton hold in his career?",
+    "explanation": "Lewis Hamilton surpassed Michael Schumacher's record with his 98th win during the 2021 season, becoming F1's most successful driver.",
+    "options": [
+      "75",
+      "89",
+      "98",
+      "105"
+    ],
+    "correctAnswer": "98",
+    "tags": [
+      "drivers",
+      "records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "59lxplkef",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What is the fuel capacity limit for Formula 1 cars since 2019?",
+    "explanation": "F1 cars are restricted to a 165-liter fuel tank to manage race distance and adhere to refueling rules post-2019.",
+    "options": [
+      "100 liters",
+      "165 liters",
+      "200 liters",
+      "300 liters"
+    ],
+    "correctAnswer": "165 liters",
+    "tags": [
+      "regulations",
+      "aerodynamics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6w23gj3vi",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "How many teams participated in the 2023 Formula 1 season?",
+    "explanation": "There were 10 teams competing in the 2023 Formula 1 season, with each team fielding two drivers.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctAnswer": "10",
+    "tags": [
+      "teams",
+      "structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "topdji1na",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which team has won the most Constructors' Championships in Formula 1 history?",
+    "explanation": "Ferrari holds the record with 16 Constructors' Championships, the most in F1 history.",
+    "options": [
+      "McLaren",
+      "Ferrari",
+      "Mercedes",
+      "Red Bull Racing"
+    ],
+    "correctAnswer": "Ferrari",
+    "tags": [
+      "Formula 1",
+      "Teams",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nb9r2vvmz",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum speed a Formula 1 car can reach on a straight?",
+    "explanation": "Modern F1 cars can reach speeds between 300-340 km/h on qualifying straightaways.",
+    "options": [
+      "250 km/h",
+      "300-340 km/h",
+      "400 km/h",
+      "350-400 km/h"
+    ],
+    "correctAnswer": "300-340 km/h",
+    "tags": [
+      "Formula 1",
+      "Performance",
+      "Speed"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ea4b49k2h",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Who won the Formula 1 World Championship in 2024?",
+    "explanation": "Max Verstappen secured his fourth consecutive championship in 2024.",
+    "options": [
+      "Max Verstappen",
+      "Lando Norris",
+      "Lewis Hamilton",
+      "Charles Leclerc"
+    ],
+    "correctAnswer": "Max Verstappen",
+    "tags": [
+      "Formula 1",
+      "Drivers",
+      "2024"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kvvz4eua8",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Which track is known as the 'Circuit of Dreams' in Formula 1?",
+    "explanation": "The Suzuka Circuit in Japan is nicknamed the 'Circuit of Dreams' for its unique figure-8 layout.",
+    "options": [
+      "Monaco",
+      "Silverstone",
+      "Suzuka",
+      "Spa-Francorchamps"
+    ],
+    "correctAnswer": "Suzuka",
+    "tags": [
+      "Formula 1",
+      "Tracks",
+      "Motorsport"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n9mfn63hm",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "What is the minimum number of Grand Prix races a driver must win to be considered in Formula 1?",
+    "explanation": "Drivers can win at any point in their career, with no minimum race requirement to be considered.",
+    "options": [
+      "Any number starting from 1",
+      "5 races",
+      "3 races",
+      "10 races"
+    ],
+    "correctAnswer": "Any number starting from 1",
+    "tags": [
+      "Formula 1",
+      "Rules",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c77jvoswl",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which Formula 1 team has won the most Constructors' Championships in history?",
+    "explanation": "Ferrari holds the record with 16 Constructors' Championships, making them the most successful team in F1 history.",
+    "options": [
+      "McLaren",
+      "Ferrari",
+      "Mercedes",
+      "Red Bull Racing"
+    ],
+    "correctAnswer": "Ferrari",
+    "tags": [
+      "Formula 1",
+      "Teams",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sg4q1fpne",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Who is the only Formula 1 driver to have won championships for three different teams?",
+    "explanation": "Michael Schumacher won championships with Benetton (1994), Ferrari (2000-2004), and McLaren (2006, though he didn't win with them). Actually, the most accurate answer would be Lewis Hamilton who has won with Mercedes, or this question needs revi",
+    "options": [
+      "Nico Rosberg",
+      "Kimi Raikkonen",
+      "Michael Schumacher",
+      "Lewis Hamilton"
+    ],
+    "correctAnswer": "Michael Schumacher",
+    "tags": [
+      "Formula 1",
+      "Drivers",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qo1rk1p4g",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "What does the term 'Pit Stop' refer to in Formula 1 racing?",
+    "explanation": "A pit stop is when a racing team stops a driver at the pits to change tires, refuel, or make repairs during a race.",
+    "options": [
+      "A practice session at the pits",
+      "The fastest lap achieved",
+      "A stop to change tires and refuel",
+      "A driver's entrance into the car"
+    ],
+    "correctAnswer": "A stop to change tires and refuel",
+    "tags": [
+      "Formula 1",
+      "Terminology",
+      "Racing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f807uvnak",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Which Formula 1 circuit is known as the 'Circuit of Dreams' and hosts the Monaco Grand Prix?",
+    "explanation": "The Circuit de Monaco is one of the most famous and challenging tracks in Formula 1, hosting the prestigious Monaco Grand Prix.",
+    "options": [
+      "Monaco",
+      "Silverstone",
+      "Spa-Francorchamps",
+      "Suzuka"
+    ],
+    "correctAnswer": "Monaco",
+    "tags": [
+      "Formula 1",
+      "Circuits",
+      "Events"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ajg7z3rgp",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum number of points a driver can earn in a single Formula 1 race (under current regulations)?",
+    "explanation": "Under current F1 scoring system, the winner receives 25 points, second place gets 18, third gets 15, and so on down to 1 point for tenth place.",
+    "options": [
+      "25 points",
+      "46 points",
+      "18 points",
+      "15 points"
+    ],
+    "correctAnswer": "25 points",
+    "tags": [
+      "Formula 1",
+      "Scoring",
+      "Regulations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i3sj84rp6",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Which Formula 1 team is nicknamed 'The Silver Arrows'?",
+    "explanation": "McLaren has been historically referred to as 'The Silver Arrows' due to their distinctive silver car livery in earlier eras.",
+    "options": [
+      "Ferrari",
+      "Mercedes",
+      "McLaren",
+      "Red Bull"
+    ],
+    "correctAnswer": "McLaren",
+    "tags": [
+      "Formula 1",
+      "Teams",
+      "Nicknames"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f1odubnai",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Who is the most successful Formula 1 driver by World Championships?",
+    "explanation": "Michael Schumacher holds the record for most World Championships with 7 titles.",
+    "options": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Ayrton Senna",
+      "Niki Lauda"
+    ],
+    "correctAnswer": "Michael Schumacher",
+    "tags": [
+      "Formula 1",
+      "Drivers",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ik3yoespm",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "At which track did Ayrton Senna die in 1994?",
+    "explanation": "Ayrton Senna tragically died during the San Marino Grand Prix at Imola in 1994.",
+    "options": [
+      "Monaco",
+      "Imola",
+      "Silverstone",
+      "Spa-Francorchamps"
+    ],
+    "correctAnswer": "Imola",
+    "tags": [
+      "Formula 1",
+      "Accidents",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ikqlssxhh",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which team has won the most Constructors Championships?",
+    "explanation": "McLaren holds the record for most Constructors Championships with 18 titles.",
+    "options": [
+      "Ferrari",
+      "McLaren",
+      "Mercedes",
+      "Williams"
+    ],
+    "correctAnswer": "McLaren",
+    "tags": [
+      "Formula 1",
+      "Constructors",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iel20tw61",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "What is the name of Formula 1's qualifying system?",
+    "explanation": "Modern Formula 1 uses a knockout qualifying system where drivers are eliminated based on their sector times.",
+    "options": [
+      "Grid Qualifying",
+      "Sprint Qualifying",
+      "Knockout Qualifying",
+      "Single Session Qualifying"
+    ],
+    "correctAnswer": "Knockout Qualifying",
+    "tags": [
+      "Formula 1",
+      "Qualifying",
+      "Procedures"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "07cztb8af",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which Formula 1 team has won the most Constructors' Championships in history?",
+    "explanation": "Ferrari has won 16 Constructors' Championships, making them the most successful team in F1 history.",
+    "options": [
+      "Red Bull Racing",
+      "Ferrari",
+      "McLaren",
+      "Mercedes"
+    ],
+    "correctAnswer": "Ferrari",
+    "tags": [
+      "F1 History",
+      "Constructors Championship"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0xkg7vrk4",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "What is the name of the Formula 1 track that was inaugurated in 2023 and is located in Saudi Arabia?",
+    "explanation": "The Jeddah Corniche Circuit opened in 2023 and is one of the newest Formula 1 venues on the calendar.",
+    "options": [
+      "Jeddah Corniche Circuit",
+      "Yas Marina Circuit",
+      "Losail International Circuit",
+      "Zandvoort Circuit"
+    ],
+    "correctAnswer": "Jeddah Corniche Circuit",
+    "tags": [
+      "F1 Tracks",
+      "Saudi Arabia"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rx5glycsg",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which driver won his first Formula 1 World Championship in 2021?",
+    "explanation": "Max Verstappen won his first F1 World Championship with Red Bull Racing in 2021.",
+    "options": [
+      "Lewis Hamilton",
+      "Max Verstappen",
+      "Charles Leclerc",
+      "Lando Norris"
+    ],
+    "correctAnswer": "Max Verstappen",
+    "tags": [
+      "F1 Drivers",
+      "World Championship"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mv4xvor5c",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "What is the maximum number of cars allowed in a Formula 1 race according to current regulations?",
+    "explanation": "Current Formula 1 regulations allow a maximum of 20-22 cars depending on the specific Grand Prix, with some races running fewer due to grid space restrictions.",
+    "options": [
+      "20 cars",
+      "22 cars",
+      "24 cars",
+      "26 cars"
+    ],
+    "correctAnswer": "22 cars",
+    "tags": [
+      "F1 Regulations",
+      "Race Format"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kwl6o1rdh",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which Formula 1 team is nicknamed 'The Silver Arrows'?",
+    "explanation": "Mercedes is historically associated with the 'Silver Arrows' nickname, though the term originally referred to 1930s and 1950s German racing teams.",
+    "options": [
+      "Ferrari",
+      "Mercedes",
+      "McLaren",
+      "Aston Martin"
+    ],
+    "correctAnswer": "Mercedes",
+    "tags": [
+      "F1 Nicknames",
+      "Team History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a4cymsegn",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Which Formula 1 team is often referred to as 'Mercedes'?",
+    "explanation": "Mercedes-AMG Petronas is the official name of Mercedes' Formula 1 racing team, commonly shortened to 'Mercedes'.",
+    "options": [
+      "Red Bull Racing",
+      "McLaren",
+      "Scuderia Ferrari",
+      "Mercedes-AMG Petronas F1 Team"
+    ],
+    "correctAnswer": "Mercedes-AMG Petronas F1 Team",
+    "tags": [
+      "teams",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ot0gvycxm",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "What does 'F1' stand for in motorsports?",
+    "explanation": "F1 stands for Formula One, the world's premier open-wheel racing series.",
+    "options": [
+      "Fast Racing",
+      "Formula One",
+      "First League",
+      "Final Race"
+    ],
+    "correctAnswer": "Formula One",
+    "tags": [
+      "history",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8urfathxd",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which driver has won the most Formula 1 World Championships?",
+    "explanation": "Lewis Hamilton holds the record with 7 Formula 1 World Championships, though Michael Schumacher also has 7.",
+    "options": [
+      "Lewis Hamilton",
+      "Michael Schumacher",
+      "Sebastian Vettel",
+      "Max Verstappen"
+    ],
+    "correctAnswer": "Lewis Hamilton",
+    "tags": [
+      "drivers",
+      "records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "si1p97fvd",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What is a ' Constructors' Championship in F1?",
+    "explanation": "The Constructors' Championship is awarded to the team (constructor) that scores the most points across all races.",
+    "options": [
+      "Driver title competition",
+      "Team/team-based title",
+      "Track ownership prize",
+      "Safety award"
+    ],
+    "correctAnswer": "Team/team-based title",
+    "tags": [
+      "rules",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4bvq8mcbn",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Which track is known as the 'Monaco Grand Prix'?",
+    "explanation": "The Monaco Grand Prix is held at the Circuit de Monaco in Monte Carlo, known for its street circuit and prestigious nature.",
+    "options": [
+      "Silverstone Circuit",
+      "Circuit de Monaco",
+      "Spa-Francorchamps",
+      "Indianapolis Motor Speedway"
+    ],
+    "correctAnswer": "Circuit de Monaco",
+    "tags": [
+      "tracks",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r4fpwfzan",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What does 'DRS' stand for in modern F1?",
+    "explanation": "DRS (Drag Reduction System) allows drivers to reduce aerodynamic drag by opening a flap on the rear wing to increase speed.",
+    "options": [
+      "Driver Racing System",
+      "Drag Reduction System",
+      "Distance Racing Speed",
+      "Dynamic Race Setup"
+    ],
+    "correctAnswer": "Drag Reduction System",
+    "tags": [
+      "technology",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xvip1j71u",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Which color represents Scuderia Ferrari in Formula 1?",
+    "explanation": "Scuderia Ferrari is famously known for their red livery, making them the 'Team Rosso Corsa'.",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Silver"
+    ],
+    "correctAnswer": "Red",
+    "tags": [
+      "teams",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1822rk5lq",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "What is the primary purpose of the F1 driver scoring system?",
+    "explanation": "In Formula 1, drivers accumulate points during races which are tallied to determine their position in the championship standings.",
+    "options": [
+      "To determine championship standings through points accumulation",
+      "To rank drivers by speed on the track",
+      "To measure fuel efficiency during races",
+      "To evaluate team performance metrics"
+    ],
+    "correctAnswer": "To determine championship standings through points accumulation",
+    "tags": [
+      "F1",
+      "Scoring",
+      "Championship"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l5k8xtotc",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "How many Grand Prix races are typically held in an F1 season?",
+    "explanation": "A typical F1 season includes approximately 20-22 Grand Prix races across various countries worldwide.",
+    "options": [
+      "20-22",
+      "15-18",
+      "24-26",
+      "10-12"
+    ],
+    "correctAnswer": "20-22",
+    "tags": [
+      "F1",
+      "Season",
+      "Races"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rghbyq1po",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "Which team has won the most Drivers' Championships in Formula 1 history?",
+    "explanation": "McLaren holds the record for the most Drivers' Championships with 12 titles won by their drivers.",
+    "options": [
+      "Mercedes",
+      "Ferrari",
+      "McLaren",
+      "Red Bull Racing"
+    ],
+    "correctAnswer": "McLaren",
+    "tags": [
+      "F1",
+      "Teams",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zhnxj4cl4",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What is the minimum number of points needed to score in an F1 race?",
+    "explanation": "In F1, finishing 10th or higher typically earns points, but the minimum scoring threshold starts from 1 point for top positions.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "F1",
+      "Scoring",
+      "Points"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "erd3z8fjz",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "Which track is known as 'The Temple of Speed' in Formula 1?",
+    "explanation": "The Autodromo Nazionale di Monza in Italy is nicknamed 'The Temple of Speed' due to its high-speed characteristics.",
+    "options": [
+      "Monza",
+      "Silverstone",
+      "Spa-Francorchamps",
+      "Suzuka"
+    ],
+    "correctAnswer": "Monza",
+    "tags": [
+      "F1",
+      "Tracks",
+      "Venues"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "08gtv5ds7",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "What does F1 stand for in motorsport?",
+    "explanation": "F1 stands for Formula 1, the most prestigious open-wheel racing championship in the world.",
+    "options": [
+      "Formula 1",
+      "Future Racing",
+      "Fast Motorsport",
+      "First League"
+    ],
+    "correctAnswer": "Formula 1",
+    "tags": [
+      "F1",
+      "Basics",
+      "Motorsport"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q2nuzuzxm",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which country has won the most Constructors' Championships in F1?",
+    "explanation": "The United Kingdom has the most Constructors' Championships, with Williams, Brabham, Mercedes, and McLaren all being British teams at different periods.",
+    "options": [
+      "United Kingdom (Mercedes/Brabham/Williams)",
+      "Germany (Ferrari/Brawn)",
+      "France (Renault)",
+      "Japan (Honda/McLaren)"
+    ],
+    "correctAnswer": "United Kingdom (Mercedes/Brabham/Williams)",
+    "tags": [
+      "F1",
+      "Constructors Championship",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fvlvw3yye",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum number of drivers typically allowed in an F1 Grand Prix?",
+    "explanation": "An F1 race grid consists of 20 starting positions plus 2 reserve drivers, making a maximum of 22 drivers in the championship.",
+    "options": [
+      "20 drivers",
+      "22 drivers (including reserves)",
+      "24 drivers",
+      "26 drivers"
+    ],
+    "correctAnswer": "22 drivers (including reserves)",
+    "tags": [
+      "F1",
+      "Drivers",
+      "Grid"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gtmx83ke9",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "Which component replaced the traditional front-mounted engine in modern F1?",
+    "explanation": "Modern F1 uses hybrid power units that combine internal combustion engines with energy recovery systems (ERS), making them the most advanced racing engines.",
+    "options": [
+      "Hybrid power unit",
+      "Electric motor only",
+      "Twin-turbo V6",
+      "Naturally aspirated V8"
+    ],
+    "correctAnswer": "Hybrid power unit",
+    "tags": [
+      "F1",
+      "Technology",
+      "Engine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xlaln4rqg",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "What is the name of the track where Formula 1 cars race at the Circuit de Barcelona-Catalunya?",
+    "explanation": "The Circuit de Barcelona-Catalunya hosts the Spanish Grand Prix each year, located in Catalonia, Spain.",
+    "options": [
+      "Monaco Grand Prix",
+      "Spanish Grand Prix",
+      "Italian Grand Prix",
+      "French Grand Prix"
+    ],
+    "correctAnswer": "Spanish Grand Prix",
+    "tags": [
+      "F1",
+      "Circuits",
+      "Grand Prix Names"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ep7s67tm",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "Which Formula 1 team has won the most Constructors Championships?",
+    "explanation": "McLaren holds the record with 12 Constructors Championships, followed by Ferrari with 16 including their historical wins. Actually, Ferrari has 16 titles making them the most successful.",
+    "options": [
+      "Ferrari",
+      "Mercedes",
+      "McLaren",
+      "Red Bull Racing"
+    ],
+    "correctAnswer": "McLaren",
+    "tags": [
+      "Formula 1",
+      "History",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7l34asix8",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "Who is the current Formula 1 World Champion as of 2024?",
+    "explanation": "Max Verstappen of Red Bull Racing won his third consecutive World Championship in 2024.",
+    "options": [
+      "Max Verstappen",
+      "Lewis Hamilton",
+      "Charles Leclerc",
+      "Lando Norris"
+    ],
+    "correctAnswer": "Max Verstappen",
+    "tags": [
+      "Formula 1",
+      "Drivers",
+      "Current"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kfzvkhhha",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "What is the name of the Formula 1 track located in Monaco?",
+    "explanation": "The Monaco Grand Prix is held on the famous Monaco Street Circuit, known for its tight corners and glamorous setting.",
+    "options": [
+      "Circuit de Barcelona",
+      "Monaco Street Circuit",
+      "Silverstone",
+      "Nurburgring"
+    ],
+    "correctAnswer": "Monaco Street Circuit",
+    "tags": [
+      "Formula 1",
+      "Tracks",
+      "Events"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d4udd4364",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which driver holds the record for most Formula 1 pole positions?",
+    "explanation": "Lewis Hamilton holds the record with 104 pole positions, the most in Formula 1 history.",
+    "options": [
+      "Lewis Hamilton",
+      "Max Verstappen",
+      "Fernando Alonso",
+      "Nico Rosberg"
+    ],
+    "correctAnswer": "Lewis Hamilton",
+    "tags": [
+      "Formula 1",
+      "Records",
+      "Drivers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vz7sswtx1",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "What is the minimum number of drivers required to compete at a Formula 1 race?",
+    "explanation": "A Formula 1 race typically has 20 drivers on the grid, but a minimum of 5 drivers is required for a valid race.",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "20"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "Formula 1",
+      "Rules",
+      "Requirements"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sc6158d4t",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "GENERAL",
+    "question": "Which team has won the most Constructors' Championships in Formula 1 history?",
+    "explanation": "Ferrari has won the most Constructors' Championships in Formula 1 history with 16 titles.",
+    "options": [
+      "Ferrari",
+      "McLaren",
+      "Red Bull Racing",
+      "Mercedes"
+    ],
+    "correctAnswer": "Ferrari",
+    "tags": [
+      "SPOR-Formula 1"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7hio2062g",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EXPERT",
+    "question": "Who is the only driver to have won Formula 1 races for both Ferrari and McLaren teams?",
+    "explanation": "Fernando Alonso won races for both Ferrari and McLaren, making him one of the few drivers to achieve this milestone.",
+    "options": [
+      "Lewis Hamilton",
+      "Fernando Alonso",
+      "Nico Rosberg",
+      "Max Verstappen"
+    ],
+    "correctAnswer": "Fernando Alonso",
+    "tags": [
+      "SPOR-Formula 1"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "epkeljryl",
+    "category": "SPOR",
+    "subcategory": "Formula 1",
+    "difficulty": "EASY",
+    "question": "What is the name of the Formula 1 race held at Monaco?",
+    "explanation": "The Monaco Grand Prix is one of the most prestigious races in Formula 1, held on the streets of Monte Carlo.",
+    "options": [
+      "Monaco Grand Prix",
+      "Italian Grand Prix",
+      "Spanish Grand Prix",
+      "British Grand Prix"
+    ],
+    "correctAnswer": "Monaco Grand Prix",
+    "tags": [
+      "SPOR-Formula 1"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

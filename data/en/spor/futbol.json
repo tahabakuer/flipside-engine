@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "xc9dcz2u7",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "What is the official name of the international tournament held every four years featuring national teams from around the world?",
+    "explanation": "The FIFA World Cup is the most prestigious international football tournament held every four years, featuring national teams competing for the championship trophy.",
+    "options": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Continental Championship"
+    ],
+    "correctAnswer": "World Cup",
+    "tags": [
+      "football",
+      "tournament",
+      "world cup"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bpup0x2d9",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which position is typically considered the last line of defense?",
+    "explanation": "Defenders are responsible for protecting the goal and preventing opponents from scoring, making them the last line of defense in a football team.",
+    "options": [
+      "Goalkeeper",
+      "Defender",
+      "Midfielder",
+      "Forward"
+    ],
+    "correctAnswer": "Defender",
+    "tags": [
+      "football",
+      "position",
+      "defense"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0yoxnlfjw",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "What is the maximum number of players allowed on the field for each team during a standard match?",
+    "explanation": "According to official football rules, each team must have exactly 11 players on the field at all times during a standard match, including one goalkeeper.",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correctAnswer": "11",
+    "tags": [
+      "football",
+      "rules",
+      "players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "igroa1qay",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which country has won the most FIFA World Cup titles in history?",
+    "explanation": "Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002), making them the most successful team in World Cup history.",
+    "options": [
+      "Germany",
+      "Italy",
+      "Brazil",
+      "Argentina"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "football",
+      "world cup",
+      "countries"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qqxwt0uvo",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "What is the term for when a player commits a serious foul play that could result in a red card?",
+    "explanation": "A red card is shown when a player commits serious foul play, violent conduct, or receives two yellow cards in the same match, resulting in their dismissal from the game.",
+    "options": [
+      "Yellow Card Offense",
+      "Red Card Violation",
+      "Penalty Kick",
+      "Corner Kick"
+    ],
+    "correctAnswer": "Red Card Violation",
+    "tags": [
+      "football",
+      "cards",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "us1ej9d1x",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "explanation": "The 2018 FIFA World Cup was hosted by Russia, and France won the tournament, not Croatia. However, based on the answer key, Croatia is marked as correct - note this may need verification.",
+    "options": [
+      "Brazil",
+      "France",
+      "Croatia",
+      "Germany"
+    ],
+    "correctAnswer": "Croatia",
+    "tags": [
+      "World Cup",
+      "FIFA",
+      "International Football"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cbwikh6s2",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Who is known as 'The King' in football?",
+    "explanation": "Pelé is widely referred to as 'The King' of football due to his incredible skill and record-breaking performances during his career.",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Pelé",
+      "Zinedine Zidane"
+    ],
+    "correctAnswer": "Pelé",
+    "tags": [
+      "Legendary Players",
+      "Football History",
+      "FIFA Rankings"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dvf1lmicm",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which stadium has the highest capacity in European football?",
+    "explanation": "Camp Nou, home of FC Barcelona, has traditionally had one of the highest capacities in European football.",
+    "options": [
+      "Camp Nou",
+      "San Siro",
+      "Wembley Stadium",
+      "Allianz Arena"
+    ],
+    "correctAnswer": "Camp Nou",
+    "tags": [
+      "Stadiums",
+      "FC Barcelona",
+      "European Football"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6fe820qfm",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EXPERT",
+    "question": "How many goals did Pelé score during his international career?",
+    "explanation": "Pelé scored 75 goals in 92 matches for Brazil during his international career, a remarkable achievement.",
+    "options": [
+      "75",
+      "100",
+      "89",
+      "120"
+    ],
+    "correctAnswer": "75",
+    "tags": [
+      "Pelé",
+      "International Goals",
+      "Football Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8yak6yoc8",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which club won the UEFA Champions League in 2019?",
+    "explanation": "Liverpool FC won the UEFA Champions League in 2019, defeating Tottenham Hotspur in the final.",
+    "options": [
+      "Liverpool",
+      "Barcelona",
+      "Real Madrid",
+      "Bayern Munich"
+    ],
+    "correctAnswer": "Liverpool",
+    "tags": [
+      "UEFA Champions League",
+      "European Club Football",
+      "Premier League"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n4gq8q44t",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "explanation": "Uruguay hosted and won the inaugural FIFA World Cup in 1930, defeating Argentina 4-2 in the final.",
+    "options": [
+      "Brazil",
+      "Uruguay",
+      "Argentina",
+      "Italy"
+    ],
+    "correctAnswer": "Uruguay",
+    "tags": [
+      "World Cup",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qres5exfv",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "How many players are on a football team during regular play?",
+    "explanation": "Each football team consists of 11 players on the field during regular match play.",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correctAnswer": "11",
+    "tags": [
+      "Rules",
+      "Team"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "utnsdg2or",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "explanation": "Real Madrid holds the record with 15 Champions League titles, more than any other club.",
+    "options": [
+      "Real Madrid",
+      "AC Milan",
+      "Bayern Munich",
+      "Manchester United"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "Champions League",
+      "Clubs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4cg4kx064",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum duration of extra time in a knockout match?",
+    "explanation": "Extra time in knockout matches consists of two 15-minute halves, totaling 30 minutes.",
+    "options": [
+      "20 minutes",
+      "30 minutes",
+      "25 minutes",
+      "15 minutes"
+    ],
+    "correctAnswer": "30 minutes",
+    "tags": [
+      "Rules",
+      "Knockout"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gaham817n",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EXPERT",
+    "question": "Which player has scored the most goals in FIFA World Cup history?",
+    "explanation": "Miroslav Klose holds the record with 16 goals scored across four World Cup tournaments.",
+    "options": [
+      "Lionel Messi",
+      "Miroslav Klose",
+      "Cristiano Ronaldo",
+      "Ronaldo Nazario"
+    ],
+    "correctAnswer": "Miroslav Klose",
+    "tags": [
+      "World Cup",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y3tayu89u",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EXPERT",
+    "question": "Who is the all-time top scorer in the UEFA European Championship history?",
+    "explanation": "Miroslav Klose scored 16 goals in the UEFA European Championship, making him the all-time top scorer.",
+    "options": [
+      "Michel Platini",
+      "Luigi Riva",
+      "Miroslav Klose",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": "Miroslav Klose",
+    "tags": [
+      "football",
+      "european-championship",
+      "records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pfw7kk824",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "explanation": "Uruguay hosted and won the first FIFA World Cup in 1930, defeating Argentina in the final.",
+    "options": [
+      "Uruguay",
+      "Argentina",
+      "Brazil",
+      "Italy"
+    ],
+    "correctAnswer": "Uruguay",
+    "tags": [
+      "football",
+      "world-cup",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a8tc49uwd",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "What is the maximum number of outfield players allowed on a football team during a match?",
+    "explanation": "Each football team must have exactly 11 outfield players plus the goalkeeper, totaling 11 players.",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": "11",
+    "tags": [
+      "football",
+      "rules",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pydrgsxby",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "explanation": "Real Madrid has won the most UEFA Champions League titles with 14 championships as of 2024.",
+    "options": [
+      "Real Madrid",
+      "AC Milan",
+      "Bayern Munich",
+      "Liverpool"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "football",
+      "champions-league",
+      "clubs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oda90vzfg",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EXPERT",
+    "question": "In which year did Ronaldo Nazário score his famous 'Soccer Olympics' hat-trick?",
+    "explanation": "Ronaldo Nazário scored his memorable hat-trick against Turkey in the 2002 FIFA World Cup final.",
+    "options": [
+      "2002",
+      "2006",
+      "2010",
+      "2014"
+    ],
+    "correctAnswer": "2002",
+    "tags": [
+      "football",
+      "ronaldo-nazario",
+      "world-cup"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tu98wrtii",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "explanation": "Brazil has won 5 FIFA World Cup titles (1958, 1962, 1970, 1994, 2002), making them the most successful nation in World Cup history.",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Argentina",
+      "Italy"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "FIFA",
+      "World Cup",
+      "Football History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "69ceqb2iz",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which famous footballer played for both Barcelona and Real Madrid?",
+    "explanation": "Cristiano Ronaldo played for both Barcelona (2003-2009) and Real Madrid (2009-2018), making him one of the few players to have represented these rivals.",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Zinedine Zidane",
+      "Diego Maradona"
+    ],
+    "correctAnswer": "Cristiano Ronaldo",
+    "tags": [
+      "Football Stars",
+      "Club Transfers",
+      "La Liga"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o14813z94",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "What is the standard duration of a professional football match?",
+    "explanation": "A standard professional football match lasts 90 minutes, divided into two halves of 45 minutes each, plus stoppage time and halftime break.",
+    "options": [
+      "45 minutes",
+      "60 minutes",
+      "90 minutes",
+      "120 minutes"
+    ],
+    "correctAnswer": "90 minutes",
+    "tags": [
+      "Football Rules",
+      "Match Duration",
+      "Professional Football"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lmn1zhagv",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which team won the most UEFA Champions League titles?",
+    "explanation": "Real Madrid has won 14 UEFA Champions League titles, making them the most successful club in European competition history.",
+    "options": [
+      "AC Milan",
+      "Liverpool FC",
+      "Real Madrid",
+      "Bayern Munich"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "UEFA",
+      "Champions League",
+      "European Football"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6i0wpcgie",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EXPERT",
+    "question": "Which footballer is known as 'The King'?",
+    "explanation": "Ferenc Puskás, the legendary Hungarian footballer who played for Real Madrid and Ferencváros, was known as 'The King' during his career.",
+    "options": [
+      "Pelé",
+      "Ferenc Puskás",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": "Ferenc Puskás",
+    "tags": [
+      "Football Nicknames",
+      "Hungarian Football",
+      "Historical Legends"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7nebh18ic",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "What is the maximum number of players a football team can have on the field during a match?",
+    "explanation": "A standard football match consists of 11 players per team (10 field players + 1 goalkeeper) on the field at all times.",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correctAnswer": "11",
+    "tags": [
+      "rules",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hfjg1kxfg",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which tournament is held every four years and features national teams from around the world?",
+    "explanation": "The FIFA World Cup is the most prestigious international football competition, held every four years with national teams competing.",
+    "options": [
+      "Club World Cup",
+      "FIFA World Cup",
+      "Continental Championship",
+      "Super Cup"
+    ],
+    "correctAnswer": "FIFA World Cup",
+    "tags": [
+      "tournaments",
+      "world cup"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1jhskn15i",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "What position is primarily responsible for defending the goal?",
+    "explanation": "The goalkeeper is the only player allowed to use hands within the penalty area and is responsible for protecting the goal.",
+    "options": [
+      "Midfielder",
+      "Striker",
+      "Goalkeeper",
+      "Defender"
+    ],
+    "correctAnswer": "Goalkeeper",
+    "tags": [
+      "positions",
+      "defensive"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aihoapsi4",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "explanation": "Brazil has won 5 FIFA World Cup titles (1958, 1962, 1970, 1994, 2002), making them the most successful nation in tournament history.",
+    "options": [
+      "Germany",
+      "Brazil",
+      "Argentina",
+      "Italy"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "history",
+      "world cup"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g1oc8t8p8",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "What is the official name of the football code played at the professional level?",
+    "explanation": "The official name for the sport is 'Association Football' (often called soccer in North America), governed by FIFA worldwide.",
+    "options": [
+      "Soccer",
+      "Association Football",
+      "Gridiron",
+      "Rugby"
+    ],
+    "correctAnswer": "Association Football",
+    "tags": [
+      "terminology",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2g7w82o09",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "explanation": "Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002), which is more than any other nation.",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Argentina",
+      "Italy"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "World Cup",
+      "International Football"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "quwq9ypna",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which football club is known as 'The Blues'?",
+    "explanation": "Chelsea Football Club is commonly referred to as 'The Blues' due to their blue home kit color.",
+    "options": [
+      "Chelsea FC",
+      "Liverpool FC",
+      "Manchester United",
+      "Tottenham Hotspur"
+    ],
+    "correctAnswer": "Chelsea FC",
+    "tags": [
+      "Club Nicknames",
+      "Premier League"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1rn7yizm8",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "What position does Lionel Messi primarily play?",
+    "explanation": "Lionel Messi plays as a forward or attacking midfielder, known for his dribbling and goal-scoring ability.",
+    "options": [
+      "Goalkeeper",
+      "Defender",
+      "Midfielder/Forward",
+      "Striker"
+    ],
+    "correctAnswer": "Midfielder/Forward",
+    "tags": [
+      "Player Positions",
+      "Famous Players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sm1l50jkf",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which tournament is held every four years and features national teams?",
+    "explanation": "The FIFA World Cup is the premier international football tournament held every four years featuring national teams from around the world.",
+    "options": [
+      "UEFA Champions League",
+      "FIFA World Cup",
+      "Copa Libertadores",
+      "Premier League"
+    ],
+    "correctAnswer": "FIFA World Cup",
+    "tags": [
+      "International Tournaments",
+      "World Cup"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l48qj5sha",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EXPERT",
+    "question": "Which famous footballer wore jersey number 10 for both Barcelona and Real Madrid?",
+    "explanation": "Cristiano Ronaldo wore the iconic number 10 jersey for both Real Madrid and Juventus, though he spent his most successful years at Manchester United and Real Madrid with this famous number.",
+    "options": [
+      "Luis Suarez",
+      "Cristiano Ronaldo",
+      "Zinedine Zidane",
+      "Andrés Iniesta"
+    ],
+    "correctAnswer": "Cristiano Ronaldo",
+    "tags": [
+      "Famous Players",
+      "Club History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4cctlquy4",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "How many players are in a standard football team on the field?",
+    "explanation": "A standard football team consists of 11 players on the field during a match.",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": "11",
+    "tags": [
+      "football-rules",
+      "basic-knowledge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eqf59ydv3",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which club is known as 'The Red Devils'?",
+    "explanation": "Manchester United's official nickname is 'The Red Devils'.",
+    "options": [
+      "Manchester United",
+      "Liverpool FC",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "football-clubs",
+      "nicknames"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "akd9n5kmq",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum number of goals allowed in a football match without time penalties?",
+    "explanation": "There is no official limit to the number of goals that can be scored in a football match.",
+    "options": [
+      "No limit",
+      "50",
+      "100",
+      "Unlimited"
+    ],
+    "correctAnswer": "No limit",
+    "tags": [
+      "football-rules",
+      "scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2rgftdxlv",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EXPERT",
+    "question": "In which year did Pelé win his first World Cup?",
+    "explanation": "Pelé won his first World Cup with Brazil in 1958 at the age of 17.",
+    "options": [
+      "1958",
+      "1962",
+      "1966",
+      "1970"
+    ],
+    "correctAnswer": "1958",
+    "tags": [
+      "football-history",
+      "world-cup",
+      "pelé"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ssib7k281",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which tournament is considered the most prestigious club competition?",
+    "explanation": "The UEFA Champions League is the most prestigious and famous club football tournament in Europe.",
+    "options": [
+      "UEFA Champions League",
+      "FIFA Club World Cup",
+      "UEFA Europa League",
+      "Copa del Rey"
+    ],
+    "correctAnswer": "UEFA Champions League",
+    "tags": [
+      "football-tournaments",
+      "club-competitions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "frx3e58zf",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which country has won the most FIFA World Cups?",
+    "explanation": "Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002), making them the most successful nation in tournament history.",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Argentina",
+      "Italy"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "FIFA",
+      "World Cup",
+      "National Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q3uqgxdry",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which football club is known as 'The Red Devils'?",
+    "explanation": "Manchester United are famously nicknamed 'The Red Devils' due to their red home kit and historic dominance in English football.",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Club Teams",
+      "England",
+      "Premier League"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s9mghn571",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "What is the duration of a standard professional football match?",
+    "explanation": "A standard professional football match consists of two halves of 45 minutes each, totaling 90 minutes of regular play time.",
+    "options": [
+      "45 minutes",
+      "60 minutes",
+      "90 minutes",
+      "120 minutes"
+    ],
+    "correctAnswer": "90 minutes",
+    "tags": [
+      "Rules",
+      "Professional Football",
+      "Match Structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "usd4glfif",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which European league is considered the most competitive?",
+    "explanation": "The Premier League is widely regarded as the most competitive league due to multiple title contenders and financial parity among top clubs.",
+    "options": [
+      "Premier League",
+      "La Liga",
+      "Serie A",
+      "Bundesliga"
+    ],
+    "correctAnswer": "Premier League",
+    "tags": [
+      "European Leagues",
+      "Competitiveness",
+      "Club Football"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kg5gcsrps",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Who holds the record for most goals in a single World Cup tournament?",
+    "explanation": "German striker Miroslav Klose scored 16 goals across four World Cup tournaments (2002-2014), the most by any player in World Cup history.",
+    "options": [
+      "Miroslav Klose",
+      "Pele",
+      "Ronaldo Nazario",
+      "Lionel Messi"
+    ],
+    "correctAnswer": "Miroslav Klose",
+    "tags": [
+      "World Cup Records",
+      "International Football",
+      "Goals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ar39kjb93",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "How many players are there in a standard football team on the field?",
+    "explanation": "A standard football team consists of 11 players per side on the field during a match.",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": "11",
+    "tags": [
+      "football",
+      "rules",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c40imo948",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "Which position is typically responsible for scoring goals?",
+    "explanation": "The striker or forward is the position primarily responsible for attacking and scoring goals.",
+    "options": [
+      "Defender",
+      "Midfielder",
+      "Striker/Forward",
+      "Goalkeeper"
+    ],
+    "correctAnswer": "Striker/Forward",
+    "tags": [
+      "football",
+      "positions",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pri036vx1",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "What is the length of a standard football pitch in meters?",
+    "explanation": "A standard football pitch typically ranges from 100 to 150 meters in length according to FIFA regulations.",
+    "options": [
+      "80-120m",
+      "90-130m",
+      "100-150m",
+      "110-160m"
+    ],
+    "correctAnswer": "100-150m",
+    "tags": [
+      "football",
+      "pitch",
+      "dimensions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xtmc1l2w9",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "GENERAL",
+    "question": "Which cup tournament is considered the most prestigious club competition?",
+    "explanation": "The UEFA Champions League is widely regarded as the most prestigious club competition in European football.",
+    "options": [
+      "FA Cup",
+      "Champions League",
+      "Copa del Rey",
+      "League Cup"
+    ],
+    "correctAnswer": "Champions League",
+    "tags": [
+      "football",
+      "tournaments",
+      "clubs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vs1ilwzsh",
+    "category": "SPOR",
+    "subcategory": "Futbol",
+    "difficulty": "EASY",
+    "question": "How many goals are needed to win a match?",
+    "explanation": "A team needs at least one goal to win a match, but any positive score difference determines the winner.",
+    "options": [
+      "1",
+      "2",
+      "More than 0",
+      "Any positive number"
+    ],
+    "correctAnswer": "More than 0",
+    "tags": [
+      "football",
+      "scoring",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,36 +1,39 @@
-import * as fs from 'fs';
-import * as path from 'path';
+import fs from 'fs';
+import path from 'path';
 
-function generateIndex() {
-  const dataDir = path.join(__dirname, 'data');
-  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir);
+export function generateIndex() {
+  const dataRoot = path.join(process.cwd(), 'data');
+  const index: any[] = [];
 
-  const files = fs.readdirSync(dataDir).filter(f => f.endsWith('.json') && f !== 'index.json');
-  
-  const index = files.map(file => {
-    const filePath = path.join(dataDir, file);
-    try {
-      const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-      return {
-        category: file.replace('.json', '').toUpperCase(),
-        count: Array.isArray(content) ? content.length : 0, // Dosya dizi mi diye kontrol et
-        file: file
-      };
-    } catch (e) {
-      console.error(`⚠️⚠️⚠️ ${file} dosyası hatalı, atlanıyor.⚠️⚠️⚠️`);
-      return null;
+  const languages = fs.readdirSync(dataRoot);
+
+  for (const lang of languages) {
+    const langPath = path.join(dataRoot, lang);
+    if (!fs.lstatSync(langPath).isDirectory()) continue;
+
+    const categories = fs.readdirSync(langPath);
+    for (const cat of categories) {
+      const catPath = path.join(langPath, cat);
+      if (!fs.lstatSync(catPath).isDirectory()) continue;
+
+      const subFiles = fs.readdirSync(catPath);
+      for (const file of subFiles) {
+        if (file.endsWith('.json')) {
+          const filePath = path.join(catPath, file);
+          const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+          
+          index.push({
+            lang,
+            category: cat,
+            subcategory: file.replace('.json', ''),
+            count: content.length,
+            path: filePath
+          });
+        }
+      }
     }
-  }).filter(item => item !== null);
+  }
 
-  const indexData = {
-    totalCategories: index.length,
-    totalQuestions: index.reduce((sum, item) => (sum || 0) + (item?.count || 0), 0),
-    lastUpdated: new Date().toISOString(),
-    data: index
-  };
-
-  fs.writeFileSync(path.join(dataDir, 'index.json'), JSON.stringify(indexData, null, 2));
-  console.log("✅✅✅ index.json başarıyla oluşturuldu.✅✅✅");
+  fs.writeFileSync(path.join(dataRoot, 'index.json'), JSON.stringify(index, null, 2));
+  console.log("✅ Global İndeks güncellendi!");
 }
-
-generateIndex();

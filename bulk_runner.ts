@@ -1,43 +1,64 @@
-import { generateBatch } from './generator';
-import { appendQuestionsToFile, getExistingQuestionCount } from './fileHandler';
-import { CATEGORY_CONFIG, CategoryKey } from './config';
+import { generateBatch } from './generator.js';
+import { appendQuestionsToFile, getExistingQuestionCount } from './fileHandler.js';
+import { CATEGORY_CONFIG, CategoryKey } from './config.js';
+import { generateIndex } from './index_generator.js';
 
-const TARGET_PER_SUB = 50; 
-const BATCH_SIZE = 25;
+const TARGET_PER_SUB = 50;
+const BATCH_SIZE = 5;
+const LANG = 'en';
 
 async function bulkRun() {
   const categories = Object.keys(CATEGORY_CONFIG) as CategoryKey[];
 
   for (const cat of categories) {
+    console.log(`\n📂 KATEGORİ: ${cat}`);
+    
     for (const sub of CATEGORY_CONFIG[cat]) {
-      
-      let currentCount = getExistingQuestionCount(cat, sub);
+      // Yeni fileHandler yapısına göre subcategory bilgisini de geçiyoruz
+      let currentCount = getExistingQuestionCount(LANG, cat, sub);
       
       if (currentCount >= TARGET_PER_SUB) {
-        console.log(`⏭️⏭️⏭️ Geçiliyor: ${cat} -> ${sub} (Zaten ${currentCount} soru var)⏭️⏭️⏭️`);
+        console.log(`   ⏭️ ${sub} zaten tamamlanmış (${currentCount}/${TARGET_PER_SUB}).`);
         continue;
       }
 
-      console.log(`\n🔄🔄🔄 Başlıyor: ${cat} -> ${sub} (Mevcut: ${currentCount} / Hedef: ${TARGET_PER_SUB}) 🔄🔄🔄`);
+      console.log(`   🔄 İşleniyor: ${sub} (${currentCount}/${TARGET_PER_SUB})`);
       
       while (currentCount < TARGET_PER_SUB) {
         try {
-          const batch = await generateBatch(cat, sub, BATCH_SIZE);
+          const needed = TARGET_PER_SUB - currentCount;
+          const countToRequest = needed >= BATCH_SIZE ? BATCH_SIZE : needed;
+
+          // Batch üretimi
+          const batch = await generateBatch(cat, sub, countToRequest);
           
-          appendQuestionsToFile(batch, cat);
-          currentCount = getExistingQuestionCount(cat, sub); // Güncel sayıyı al
+          if (batch && batch.length > 0) {
+            // DÜZELTME: 'questions' yerine 'batch' gönderiyoruz 
+            // ve yeni dosya yapısı için (cat, sub) ekliyoruz
+            appendQuestionsToFile(batch, LANG, cat, sub);
+            
+            currentCount = getExistingQuestionCount(LANG, cat, sub);
+            console.log(`    ✅ ${batch.length} soru eklendi. Toplam: ${currentCount}`);
+          } else {
+            console.warn(`    ⚠️ Model boş veri döndü, bekleniyor...`);
+            await new Promise(r => setTimeout(r, 2000));
+          }
           
-          console.log(`✅ ${batch.length} soru eklendi. Toplam: ${currentCount}`);
-          
-          await new Promise(r => setTimeout(r, 2000));
-          
-        } catch (e) {
-          console.error(`❌❌❌ Kritik Hata (${cat} - ${sub}):`, e, '❌❌❌');
-          process.exit(1); 
+          await new Promise(r => setTimeout(r, 500)); 
+        } catch (e: any) {
+          console.error(`    ❌ Hata (${cat} - ${sub}):`, e.message || e);
+          await new Promise(r => setTimeout(r, 3000));
         }
       }
     }
   }
+
+  console.log("\n🏁 TÜM KATEGORİLER TAMAMLANDI!");
+  console.log("📊 İndeks raporu oluşturuluyor...");
+  generateIndex(); 
 }
 
-bulkRun().catch(console.error);
+bulkRun().catch((err) => {
+  console.error("🔥 Kritik Sistem Hatası:", err);
+  process.exit(1);
+});

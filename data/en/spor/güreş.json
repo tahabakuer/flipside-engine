@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "w9nloxibs",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EASY",
+    "question": "Güreş sporunda iki ana dalı nedir?",
+    "explanation": "Güreş sporunun iki temel dalı Serbest (Freestyle) ve Grekoromen'dir. Serbest gurde her iki bacak da serbesttir, Grekoromen de ise tek bacakla yerleşme kuralı vardır.",
+    "options": [
+      "Serbest ve Grekoromen",
+      "Fenerli ve Fenerizade",
+      "Yerli ve Yabancı",
+      "Dik duruş ve Yatılı"
+    ],
+    "correctAnswer": "Serbest ve Grekoromen",
+    "tags": [
+      "güreş",
+      "spor",
+      "dal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "obzog6t9g",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Grekoromen güreşte kaç ağırlık sınıfa ayrılmıştır?",
+    "explanation": "Grekoromen güreşte 5 ağırlık sınıfına ayrılmıştır (67, 77, 87, 97 ve +125 kg). Bu sınıflar uluslararası federasyonlar tarafından belirlenmiştir.",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "güreş",
+      "grekoromen",
+      "ağırlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cx0hek1zg",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EASY",
+    "question": "Güreş maçının kazananı nasıl belirlenir?",
+    "explanation": "Güreş maçında kazanan, teknikal puana göre belirlenir. İpler (fall) alındığında ip sayısı kazandıran tarafı belirler.",
+    "options": [
+      "Teknikal puan ve iplemeler",
+      "Sadece teknikal puanlar",
+      "Tek bacakla yerleşim",
+      "Kolların bırakılması"
+    ],
+    "correctAnswer": "Teknikal puan ve iplemeler",
+    "tags": [
+      "güreş",
+      "puanlama",
+      "kazanan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u86qz53jl",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Serbest güreşte 'iplemeye' ne zaman sayılır?",
+    "explanation": "Serbest güreşte rakibin kollarını bırakıp kendine kontrol edince iplemeye sayılır. Bu 1-5 puan arası kazandırır.",
+    "options": [
+      "Rakibin kollarını bırakması",
+      "Tek bacakla yerleşim yapılmaması",
+      "Dik duruş pozisyonu verilmesi",
+      "Bacakların serbest kalması"
+    ],
+    "correctAnswer": "Rakibin kollarını bırakması",
+    "tags": [
+      "güreş",
+      "serbest",
+      "ipleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f7oijbguv",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Güreş sporunun uluslararası federasyonu nedir?",
+    "explanation": "Güreş sporunun uluslararası federasyonu UWW'dir (United World Wrestling). Bu federasyon olimpiyat ve dünya şampiyonalarında görev alır.",
+    "options": [
+      "FIVB",
+      "UWW (International Wrestling Federation)",
+      "FIFA",
+      "UIAA"
+    ],
+    "correctAnswer": "UWW (International Wrestling Federation)",
+    "tags": [
+      "güreş",
+      "federasyon",
+      "uluslararası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nlud3buop",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EASY",
+    "question": "Güreş yarışmalarının iki ana dalı nelerdir?",
+    "explanation": "Güreş sporunun iki temel dalı Serbest Güreş (Freestyle) ve Greco-Roman'dır. Bu dallar Olimpiyat Oyunları'nda resmileştirilmiştir.",
+    "options": [
+      "Yüzme ve Atletizm",
+      "Serbest Güreş ve Greco-Roman",
+      "Pencik ve Judo",
+      "Boxing ve Boks"
+    ],
+    "correctAnswer": "Serbest Güreş ve Greco-Roman",
+    "tags": [
+      "SPOR-Güreş",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mk6kwh19i",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyatlarda güreşçilerin ağırlık sınıfları kaç grupta toplanır?",
+    "explanation": "Olimpiyatlarda güreş sporunda ağırlık sınıfları genellikle 7 ana grupta toplanır (60-125 kg arası).",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "correctAnswer": "7",
+    "tags": [
+      "SPOR-Güreş",
+      "Ağırlık Sınıfları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ogmdk93sy",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Greco-Roman güreşinde hangi hareketler serbest güreşe göre yasaktır?",
+    "explanation": "Greco-Roman güreşinde rakibin karın bölgesine (abdominal) dokunma ve bu bölgeden hareket yapma yasaktır. Sadece üst vücut hareketleri serbesttir.",
+    "options": [
+      "Bağırma",
+      "Abdominal (Belly) hareketleri",
+      "Yerden kalkma",
+      "Sırt çarpma"
+    ],
+    "correctAnswer": "Abdominal (Belly) hareketleri",
+    "tags": [
+      "SPOR-Güreş",
+      "Greco-Roman Kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x66x5xl4a",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Serbest güreşte bir puana eşitlik için kaç puan gerekir?",
+    "explanation": "Serbest güreşte bir eşitlik durumu için genellikle 10 puan gerekir. Bu durum maçın uzamasına neden olabilir.",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "10",
+    "tags": [
+      "SPOR-Güreş",
+      "Puanlama Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d7jmxui3p",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EASY",
+    "question": "Güreşçilerin ayağa kalkma pozisyonunda rakibini yere düşürme hareketine ne ad verilir?",
+    "explanation": "Güreşte rakibi yere düşürme hareketine 'Takedown' adı verilir. Bu, güreşin en temel tekniklerinden biridir.",
+    "options": [
+      "Kırmızı Kart",
+      "Turkish Lift",
+      "Takedown",
+      "Hold"
+    ],
+    "correctAnswer": "Takedown",
+    "tags": [
+      "SPOR-Güreş",
+      "Hareketler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7iw5rijxy",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş sporunda en yaygın kullanılan teknik hangisidir?",
+    "explanation": "Yapıştırma, güreş sporunda rakibin ağırlık merkezini kontrol altına almak için en temel ve yaygın kullanılan tekniklerden biridir.",
+    "options": [
+      "Yapıştırma",
+      "Pasat",
+      "Bağlama",
+      "Helezon"
+    ],
+    "correctAnswer": "Yapıştırma",
+    "tags": [
+      "güreş",
+      "teknik",
+      "spor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zkda0mqau",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Folkstyle'da puanlama sistemi nasıl çalışır?",
+    "explanation": "Folkstyle güreşinde rakip üzerindeki kontrol süreklilik gösterildiğinde puan kazanılır.",
+    "options": [
+      "Her 3 saniyede puan",
+      "Her 5 saniyede puan",
+      "Süreklilikle puan",
+      "Teknikle puan"
+    ],
+    "correctAnswer": "Süreklilikle puan",
+    "tags": [
+      "güreş",
+      "folkstyle",
+      "puanlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gqsenuwyf",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Greco-Roman'da hangi bölge kullanılmaz?",
+    "explanation": "Greco-Roman güreşinde rakibin kafasına atma teknikleri yasaktır.",
+    "options": [
+      "Bağlama",
+      "Pasat",
+      "Yapıştırma",
+      "Kafa Atma"
+    ],
+    "correctAnswer": "Kafa Atma",
+    "tags": [
+      "güreş",
+      "greco-roman",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ocikux16z",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Erkekler arasında en yaygın güreş stili hangisidir?",
+    "explanation": "Dünya çapında yaygın güreş stili olarak Free Style (Serbest) güreş en çok tercih edilen spordur.",
+    "options": [
+      "Folkstyle",
+      "Greco-Roman",
+      "Free Style",
+      "Olimpiyat"
+    ],
+    "correctAnswer": "Free Style",
+    "tags": [
+      "güreş",
+      "stil",
+      "erkekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lte02qpbf",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş müsabakalarında kaç ağırlık kategorisi bulunur?",
+    "explanation": "Güreş müsabakalarında genellikle 6 farklı ağırlık kategorisi bulunur ve her kategori 10 yaşından büyükler için tasarlanmıştır.",
+    "options": [
+      "5-10",
+      "6-12",
+      "7-11",
+      "8-9"
+    ],
+    "correctAnswer": "6-12",
+    "tags": [
+      "güreş",
+      "ağırlık",
+      "kategoriler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u3za5poc1",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş sporunda 'Serbest Güreş' hangi organizasyonlarda resmi olarak yapılan türdür?",
+    "explanation": "Serbest güreş, hem Olimpiyat Oyunları'nda hem de Dünya Güreş Şampiyonası'nda resmi olarak yapılan iki büyük organizasyondur.",
+    "options": [
+      "Sadece Olimpiyat Oyunları",
+      "Olimpiyat ve Dünya Şampiyonası",
+      "Yalnızca Avrupa Şampiyonası",
+      "Tüm profesyonel maçlar"
+    ],
+    "correctAnswer": "Olimpiyat ve Dünya Şampiyonası",
+    "tags": [
+      "güreş",
+      "serbest",
+      "olimpiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8dxzk5n0q",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş maçında 'Tas' (Fall) ne zaman kazanılır?",
+    "explanation": "Güreş maçında 'Tas' veya Fall, rakibin düz yere düşürüldüğünde kazanılır ve bu genellikle 10 saniye içinde gerçekleşmelidir.",
+    "options": [
+      "Maçın son dakikasında",
+      "Rakibin yere düşürülmesiyle ve 2 puanla",
+      "Rakibi sırt üstü yatırdığınızda",
+      "Hem hemi (10 saniye içinde)"
+    ],
+    "correctAnswer": "Rakibin yere düşürülmesiyle ve 2 puanla",
+    "tags": [
+      "güreş",
+      "tas",
+      "puanlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ahw5b2h98",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Hangi güreş türü sadece erkekler arasında yapılır?",
+    "explanation": "Yağlı güreş, Türkiye'de geleneksel olarak sadece erkekler arasında yapılan bir güreş türüdür. Diğerleri hem kadınlara hem erkeklere açıktır.",
+    "options": [
+      "Serbest Güreş",
+      "Yunanca-Romen Güreşi",
+      "Yağlı Güreş",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Yağlı Güreş",
+    "tags": [
+      "güreş",
+      "yağlı",
+      "türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vwi0ply6x",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş maçında 'Hemi' (Halftime) kaç dakika sürer?",
+    "explanation": "Güreş maçlarında hemi (yarı zaman) genellikle 1 dakika sürer ve bu süre içinde puanlar kaydedilir.",
+    "options": [
+      "30 saniye",
+      "1 dakika",
+      "2 dakika",
+      "5 dakika"
+    ],
+    "correctAnswer": "1 dakika",
+    "tags": [
+      "güreş",
+      "hemi",
+      "maç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w1ygfigce",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Dünya Güreş Federasyonu'nun resmi kısaltması nedir?",
+    "explanation": "Dünya Güreş Federasyonu'nun (Union of World Wrestling) resmi kısaltması UWW'dir. FILA eski adlandırıldı.",
+    "options": [
+      "IFMA",
+      "FIJ",
+      "UWW",
+      "FILA"
+    ],
+    "correctAnswer": "UWW",
+    "tags": [
+      "güreş",
+      "federasyon",
+      "uluslararası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pk4kim2c1",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Güreş sporunda 'Kıvama' ne anlama gelir?",
+    "explanation": "Güreş sporunda 'Kıvama', rakiplerin yer değiştirmesi ve yeni pozisyon alması anlamına gelir.",
+    "options": [
+      "Yer değişimi",
+      "Teknik sınav",
+      "Maç sonu",
+      "Hakem kararı"
+    ],
+    "correctAnswer": "Yer değişimi",
+    "tags": [
+      "güreş",
+      "kavram",
+      "terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ilft5qcf9",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş branşı ne zaman resmi spor dalları arasında yerini aldı?",
+    "explanation": "Güreş, 1934 yılında resmi spor dalları arasında yerini aldı ve Türkiye Güreş Federasyonu bu yıl kurularak branşa profesyonel yapı kazandırıldı.",
+    "options": [
+      "1920",
+      "1934",
+      "1947",
+      "1952"
+    ],
+    "correctAnswer": "1934",
+    "tags": [
+      "spor-tarihi",
+      "güreş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6wth891kr",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Erkekler serbest güreşde ne kadar ağırlık sınıflarına ayrılır?",
+    "explanation": "Erkekler serbest güreşde 6 farklı ağırlık sınıfları vardır: 57-kg, 65-kg, 79-kg, 86-kg, 97-kg, 125-kg ve açık sınıftan oluşur.",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "güreş-kurallar",
+      "spor-reglman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u5nnm32wv",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Güreş branşında 'sırt' hareketi ne zaman kullanılır?",
+    "explanation": "Sırt hareketleri, sarkma hareketleri ve bazı teknipler sadece Yunan-Romanya güreşinde kullanılır; serbest güreşte bu tür hareketler yasaktır.",
+    "options": [
+      "Serbest güreşte",
+      "Yunan-Romanya güreşinde",
+      "Klasik güreşte",
+      "Her iki branşta da"
+    ],
+    "correctAnswer": "Yunan-Romanya güreşinde",
+    "tags": [
+      "güreş-tipleri",
+      "spor-teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ir6xtp8pg",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de 'Güreş Sporcuları Derneği' hangi yıl kuruldu?",
+    "explanation": "Güreş Sporcuları Derneği, 1954 yılında kurulmuş olup güreş branşının profesyonelliği ve sporcu hakları için önemli bir kuruluş olarak faaliyet göstermiştir.",
+    "options": [
+      "1928",
+      "1930",
+      "1954",
+      "1962"
+    ],
+    "correctAnswer": "1954",
+    "tags": [
+      "spor-dernekler",
+      "güreş-tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "itjzkia5z",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Hangi ağırlık kategorisindeki sporcu en ağır sınıftadır?",
+    "explanation": "Güreşte açık sınıf en ağır sınıftır ve 125-kg üzerindeki sporcular bu kategoriye girer. Açık sınıf, ağırlıksız en üst kategoridir.",
+    "options": [
+      "57-kg",
+      "86-kg",
+      "125-kg",
+      "Açık sınıf"
+    ],
+    "correctAnswer": "Açık sınıf",
+    "tags": [
+      "güreş-ağırlık",
+      "spor-reglman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gjdtplz6p",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EASY",
+    "question": "Güreş sporunda 'Erzurum Güreşi' hangi bölgeden gelmektedir?",
+    "explanation": "Erzurum Güreşi, Doğu Anadolu'nun Erzurum bölgesinden gelen ve 6 kişilik ekiple yapılan geleneksel güreş türüdür.",
+    "options": [
+      "İstanbul",
+      "Rize",
+      "Erzurum",
+      "Antalya"
+    ],
+    "correctAnswer": "Erzurum",
+    "tags": [
+      "güreş",
+      "türk sporu",
+      "erzurum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ka7hkrskq",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş maçında 'Hile' ne zaman uygulanır?",
+    "explanation": "Hile, rakibin düşük pozisyonda tutulurken ani hareketle yüksek pozisyona çıkarılma tekniğidir.",
+    "options": [
+      "Düşük pozisyondan kalkarken",
+      "Yüksek pozisyonda tutarken",
+      "Korkulukta dururken",
+      "Saldırgan hareket ederken"
+    ],
+    "correctAnswer": "Düşük pozisyondan kalkarken",
+    "tags": [
+      "güreş",
+      "hile",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nywke7cqw",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş sporunda 'Korkuluk' hangi özelliği taşır?",
+    "explanation": "Korkuluk, güreşçilerin dengelerini korumak ve atlatma hareketleri yapmak için kullanılan temel tekniktir.",
+    "options": [
+      "Rakibi yere düşürür",
+      "Denge sağlar ve atlatma yapar",
+      "Hareket hızını artırır",
+      "Saldırı hedefidir"
+    ],
+    "correctAnswer": "Denge sağlar ve atlatma yapar",
+    "tags": [
+      "güreş",
+      "teknik",
+      "dengeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "157w39iaa",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "'Rize Güreşi' hangi bölgeden gelmektedir?",
+    "explanation": "Rize Güreşi, Karadeniz bölgesinden gelen ve 3 kişilik ekiple yapılan geleneksel güreş türüdür.",
+    "options": [
+      "Karadeniz",
+      "Akdeniz",
+      "Ege",
+      "Doğu Anadolu"
+    ],
+    "correctAnswer": "Karadeniz",
+    "tags": [
+      "güreş",
+      "rize",
+      "karadeniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "50cjbkpr7",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Güreş maçında 'Kazanan' nasıl belirlenir?",
+    "explanation": "Güreş maçında rakibin omuzları yere değdiğinde veya sarsıldığında güreşçi kazanmış sayılır.",
+    "options": [
+      "Yerçekimiyle düşen rakibi yere vurarak",
+      "Rakibi omuzdan aşağıya düşürerek",
+      "Rakibi yüksek pozisyondan atlayarak",
+      "Rakibi korkulukta tutarak"
+    ],
+    "correctAnswer": "Rakibi omuzdan aşağıya düşürerek",
+    "tags": [
+      "güreş",
+      "kazanma",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uz29j26ze",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "What are the two main styles of Olympic wrestling recognized today?",
+    "explanation": "Olympic wrestling has two main styles: Freestyle (allows leg attacks) and Greco-Roman (no below-waist holds).",
+    "options": [
+      "Freestyle and Greco-Roman",
+      "Sambo and Judo",
+      "Boxing and Muay Thai",
+      "Wrestling and Taekwondo"
+    ],
+    "correctAnswer": "Freestyle and Greco-Roman",
+    "tags": [
+      "styles",
+      "olympic",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsqtd6er9",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Which country won the first-ever Olympic wrestling gold medal in 1896?",
+    "explanation": "The United States athletes won the first Olympic wrestling gold medals at the 1896 Athens Games.",
+    "options": [
+      "United States",
+      "Greece",
+      "France",
+      "Austria"
+    ],
+    "correctAnswer": "United States",
+    "tags": [
+      "history",
+      "olympics",
+      "gold-medal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4b7e4nb6k",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "What is the minimum weight class limit for Men's Freestyle Wrestling in Olympics?",
+    "explanation": "Men's Freestyle has weight classes with the top limit at 125 kg (Heavyweight category).",
+    "options": [
+      "97 kg",
+      "125 kg",
+      "100 kg",
+      "130 kg"
+    ],
+    "correctAnswer": "125 kg",
+    "tags": [
+      "weight-classes",
+      "rules",
+      "olympics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qqs9d4rfs",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Which famous wrestler is known as 'The Human Highlight Reel'?",
+    "explanation": "Walter Carter Jr. was an NFL player known for incredible athletic abilities and is nicknamed 'The Human Highlight Reel'.",
+    "options": [
+      "Walter Carter Jr.",
+      "John Cena",
+      "Mick Foley",
+      "Ric Flair"
+    ],
+    "correctAnswer": "Walter Carter Jr.",
+    "tags": [
+      "famous-athletes",
+      "wrestling",
+      "nfl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6xin1hbal",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "What point system is used in modern Olympic wrestling to determine match winners?",
+    "explanation": "Modern Olympic wrestling uses Technical Points for control, penalty deductions, and Falls (pins) to determine match winners.",
+    "options": [
+      "Technical Points, Penalty Deductions, Fall",
+      "Just a Pin/Fall",
+      "Time-based scoring",
+      "Head-to-head only"
+    ],
+    "correctAnswer": "Technical Points, Penalty Deductions, Fall",
+    "tags": [
+      "scoring",
+      "points",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "294hxbyrz",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş sporunda 'Greco-Romen' stili hangi bölgeleri kullanır?",
+    "explanation": "Greco-Romen stili baş, gövde ve kolları kullanarak rakibi yere indirmeyi hedefler. Ayaklardan ve dizlerden gelen darbeler bu stilde yasaktır.",
+    "options": [
+      "Baş ve gövde",
+      "Sadece ayaklar",
+      "Yarım kollu tekniği",
+      "Kollar ve dizler"
+    ],
+    "correctAnswer": "Baş ve gövde",
+    "tags": [
+      "güreş",
+      "stiller",
+      "greco-romen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pt6xgrpin",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Freestyle güreşinde 'Golden' skorlama sistemi ne anlama gelir?",
+    "explanation": "Freestyle güreşinde kritik nokta atışı (Golden Score) rakibi kontrol altına alıp 10 saniye boyunca serbest bırakılmadan tutulduğunda kazanılan puanlardır.",
+    "options": [
+      "Altın madalya kazandıran",
+      "Yarışma süresinin son dakika",
+      "Kritik nokta atışı ile kazanılan puan",
+      "Sadece kollarla yapılan hareket"
+    ],
+    "correctAnswer": "Kritik nokta atışı ile kazanılan puan",
+    "tags": [
+      "güreş",
+      "freestyle",
+      "skorlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wntregi1w",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EASY",
+    "question": "Antik Yunan güreşinin ilk spor organizasyonu hangisidir?",
+    "explanation": "Antik Yunanistan'da ilk büyük spor organizasyonu 776 yılında kurulan Antik Olimpiyat Oyunları idi. Güreş bu oyunların en önemli dalıydı.",
+    "options": [
+      "Olimpiyat Oyunları",
+      "Pan-Hellenic Games",
+      "Makedonya Oyunları",
+      "Roma Tiyatrosu"
+    ],
+    "correctAnswer": "Olimpiyat Oyunları",
+    "tags": [
+      "tarih",
+      "antik sporlar",
+      "olimpiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "trf8ftg2k",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş sporunda 'Hold' ne anlama gelir?",
+    "explanation": "Güreş sporunda 'Hold', rakibi kontrol altına almak için yapılan kolların sarılması ve uygulanan baskı hareketlerini ifade eder.",
+    "options": [
+      "Serbest bırakma",
+      "Kontrol veya sarmalama hareketi",
+      "Puan atışı",
+      "Yer değiştirme"
+    ],
+    "correctAnswer": "Kontrol veya sarmalama hareketi",
+    "tags": [
+      "güreş",
+      "teknik terimler",
+      "hold"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pqridydkv",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "İslami güreş (Islamic Wrestling) hangi bölgede daha yaygındır?",
+    "explanation": "İslami güreş, özellikle Arap dünyası, Türkiye, Balkanlar ve Kuzey Afrika'da geleneksel olarak yaygın bir spor dalıdır.",
+    "options": [
+      "Avrupa",
+      "Orta Doğu ve Kuzey Afrika",
+      "Güney Amerika",
+      "Asya Pasifik"
+    ],
+    "correctAnswer": "Orta Doğu ve Kuzey Afrika",
+    "tags": [
+      "güreş",
+      "kültür",
+      "bölgesel sporlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "khl1zo36z",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EASY",
+    "question": "Güreşin temel kurallarından biri nedir?",
+    "explanation": "Güreşte yere yuvarlanmak (falling) hakem tarafından ceza puanı olarak değerlendirilir ve sporcu için dezavantaj oluşturur.",
+    "options": [
+      "Sırt üstü düşmek yasaktır",
+      "Yere yuvarlanmak ceza alır",
+      "Hakem tarafından durdurulur",
+      "Her iki sporcunun eşit olması gerekir"
+    ],
+    "correctAnswer": "Yere yuvarlanmak ceza alır",
+    "tags": [
+      "SPOR-Güreş",
+      "Kurallar",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fx4qjx39f",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreşin iki ana dalı hangileridir?",
+    "explanation": "Güreşin iki ana resmi dalı serbest güreş (free wrestling) ve grekoromen güreş (Greco-Roman wrestling) olarak sınıflandırılır.",
+    "options": [
+      "Serbest ve Grekoromen",
+      "Klasik ve Modern",
+      "Türk ve Dünya",
+      "Hafif ve Ağır"
+    ],
+    "correctAnswer": "Serbest ve Grekoromen",
+    "tags": [
+      "SPOR-Güreş",
+      "Dallar",
+      "Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "glrlhn35d",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Güreş maçı kaç bölümden oluşur?",
+    "explanation": "Güreş maçları genellikle iki eşit süreli bölümden (period) oluşur ve her birinde belirli puanlama kuralları uygulanır.",
+    "options": [
+      "1 bölüm",
+      "2 bölüm",
+      "3 bölüm",
+      "4 bölüm"
+    ],
+    "correctAnswer": "2 bölüm",
+    "tags": [
+      "SPOR-Güreş",
+      "Maç Yapısı",
+      "Format"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ooy7c2q78",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Hakem güreşçi için 'ceza puanı' verdiğinde ne olur?",
+    "explanation": "Hakem tarafından ceza puanı verildiğinde, bu puan karşı taraftan sayılır ve güreşçi için dezavantaj oluşturur.",
+    "options": [
+      "Maç durur",
+      "Sporcu diskalifiye edilir",
+      "Puan sistemi avantaj sağlar",
+      "Karşı taraf avantaj kazanır"
+    ],
+    "correctAnswer": "Puan sistemi avantaj sağlar",
+    "tags": [
+      "SPOR-Güreş",
+      "Hakem Kararları",
+      "Puan Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ukz74pyhl",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Güreşte 'takedown' ne ifade eder?",
+    "explanation": "Güreşte 'takedown', rakibi yere yatırma hareketidir ve bu teknik başarı puan kazanımı anlamına gelir.",
+    "options": [
+      "Yere düşme",
+      "Sporcu yere yatırma",
+      "Bağışıklık sağlama",
+      "Maçın sona ermesi"
+    ],
+    "correctAnswer": "Sporcu yere yatırma",
+    "tags": [
+      "SPOR-Güreş",
+      "Teknik Terimler",
+      "Taktik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sfhzv8lu0",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EASY",
+    "question": "Güreş sporunun Türkiye'de yaygın olarak kabul edilen üç ana dalı hangileridir?",
+    "explanation": "Güreş sporunun ana dalları serbest, greko-röma ve eski yunandır. Halter ve boks farklı branşlardır.",
+    "options": [
+      "Serbest, Greko-Roma ve Eski Yunan",
+      "Serbest, Greko-Roma ve Halter",
+      "Serbest, Greko-Roma ve Judo",
+      "Serbest, Greko-Roma ve Boks"
+    ],
+    "correctAnswer": "Serbest, Greko-Roma ve Eski Yunan",
+    "tags": [
+      "güreş",
+      "spor",
+      "dal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "caa5lgods",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Greko-Roma güreşinde hangi vücut bölgelerine saldırı yapılabilir?",
+    "explanation": "Greko-Roma güreşinde bacaklara saldırı yapılamaz. Sadece kollar, gövde ve başa temas edilebilir.",
+    "options": [
+      "Sadece kafa gövde",
+      "Kollar, gövde ve baş (bacaklar hariç)",
+      "Tüm vücut dahil bacaklar",
+      "Sadece bacaklar"
+    ],
+    "correctAnswer": "Kollar, gövde ve baş (bacaklar hariç)",
+    "tags": [
+      "greko-röma",
+      "güreş",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nbuj9vbs4",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "GENERAL",
+    "question": "Serbest stil güreşinde hangi teknikler yasaktır?",
+    "explanation": "Serbest stil güreşinde bacak kapma ve bacakla yapılan hamleler yasaktır. Diğer tekniklere izin verilir.",
+    "options": [
+      "Hiçbir teknik yasak değildir",
+      "Sadece bacak kapma yasaktır",
+      "Kolların gövdeye yapıştırılması yasaktır",
+      "Başa yapılan hamleler yasaktır"
+    ],
+    "correctAnswer": "Sadece bacak kapma yasaktır",
+    "tags": [
+      "serbest",
+      "güreş",
+      "yasaklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "frn4n2x6p",
+    "category": "SPOR",
+    "subcategory": "Güreş",
+    "difficulty": "EXPERT",
+    "question": "Olimpiyat Oyunlarında güreş yarışında kaç ağırlık grubu bulunmaktadır?",
+    "explanation": "Olimpiyat güreşlerinde 8 farklı ağırlık grubu bulunmaktadır. Her grup kendi dalında mücadele eder.",
+    "options": [
+      "6 ağırlık grubu",
+      "8 ağırlık grubu",
+      "10 ağırlık grubu",
+      "12 ağırlık grubu"
+    ],
+    "correctAnswer": "8 ağırlık grubu",
+    "tags": [
+      "olimpiyat",
+      "güreş",
+      "ağırlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

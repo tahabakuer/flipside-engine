@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "rp8vw5jj5",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which Italian manufacturer has won the most MotoGP World Championships since 2000?",
+    "explanation": "Honda has dominated MotoGP with 23 World Championships between 1980-2020, including the most in the modern era (2000-present) with titles from riders like Nicky Hayden, Casey Stoner, and Marc Márquez.",
+    "options": [
+      "Honda",
+      "Ducati",
+      "Yamaha",
+      "Aprilia"
+    ],
+    "correctAnswer": "Honda",
+    "tags": [
+      "MotoGP",
+      "Manufacturers",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1wpjr128a",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Who is the current MotoGP World Champion as of 2024?",
+    "explanation": "Francesco Bagnaia (Ducati) won his second consecutive MotoGP World Championship in 2024, becoming only the fourth rider to achieve back-to-back premier class titles.",
+    "options": [
+      "Francesco Bagnaia",
+      "Jorge Martín",
+      "Marc Márquez",
+      "Enea Bastianini"
+    ],
+    "correctAnswer": "Francesco Bagnaia",
+    "tags": [
+      "MotoGP",
+      "Champions",
+      "Current"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "org4ckwjn",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the name of the most iconic MotoGP circuit located in Le Mans, France?",
+    "explanation": "Magny-Cours is the premier MotoGP circuit in Le Mans, France, known for its challenging layout and has hosted MotoGP races since 2006.",
+    "options": [
+      "Circuit de Nevers Magny-Cours",
+      "Mugello",
+      "TT Circuit Assen",
+      "Red Bull Ring"
+    ],
+    "correctAnswer": "Circuit de Nevers Magny-Cours",
+    "tags": [
+      "MotoGP",
+      "Tracks",
+      "France"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1qzoexnbi",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which Ducati rider won his first World Championship at the age of 27?",
+    "explanation": "Francesco Bagnaia became one of the youngest Ducati champions at 27 years old in 2018, and later won his second title in 2022 before dominating again in 2023-2024.",
+    "options": [
+      "Andrea Dovizioso",
+      "Danilo Petrucci",
+      "Francesco Bagnaia",
+      "Jack Miller"
+    ],
+    "correctAnswer": "Francesco Bagnaia",
+    "tags": [
+      "MotoGP",
+      "Ducati",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1yzwinirh",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the maximum speed recorded for a MotoGP bike during official races?",
+    "explanation": "MotoGP bikes can reach speeds exceeding 310 km/h (approximately 192 mph) during races, with top speed records set at circuits like Jerez and Valencia on straight sections.",
+    "options": [
+      "250 km/h",
+      "280 km/h",
+      "310 km/h",
+      "350 km/h"
+    ],
+    "correctAnswer": "310 km/h",
+    "tags": [
+      "MotoGP",
+      "Performance",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xrcwz0x9i",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "What is the maximum engine capacity allowed in the MotoGP class?",
+    "explanation": "The MotoGP class allows a maximum engine displacement of 1000 cubic centimeters, which is the standard for premier motorcycle racing.",
+    "options": [
+      "990 cc",
+      "1000 cc",
+      "800 cc",
+      "1200 cc"
+    ],
+    "correctAnswer": "1000 cc",
+    "tags": [
+      "MotoGP",
+      "Technical Rules",
+      "Engine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oxvecgrbr",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which Italian manufacturer won the most MotoGP World Championships?",
+    "explanation": "Yamaha holds the record for the most MotoGP World Championships with 14 titles, followed by Honda and Suzuki.",
+    "options": [
+      "Honda",
+      "Yamaha",
+      "Ducati",
+      "Aprilia"
+    ],
+    "correctAnswer": "Yamaha",
+    "tags": [
+      "Manufacturers",
+      "History",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zxwlvyrj4",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "What is the typical race duration for a MotoGP Grand Prix?",
+    "explanation": "Most MotoGP races last approximately 40-45 minutes depending on the track layout and tire degradation.",
+    "options": [
+      "30-35 minutes",
+      "40-45 minutes",
+      "25-30 minutes",
+      "60+ minutes"
+    ],
+    "correctAnswer": "40-45 minutes",
+    "tags": [
+      "Racing",
+      "Format",
+      "Duration"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nzmr69ecq",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which rider currently holds the most MotoGP World Championships?",
+    "explanation": "Valentino Rossi holds the record with 9 MotoGP World Championships, making him one of the greatest riders in history.",
+    "options": [
+      "Valentino Rossi",
+      "Marc Marquez",
+      "Jorge Lorenzo",
+      "Casey Stoner"
+    ],
+    "correctAnswer": "Valentino Rossi",
+    "tags": [
+      "Riders",
+      "Records",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ie8adal6h",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the purpose of 'wet' tires in MotoGP racing?",
+    "explanation": "Wet tires are specifically designed for racing on wet or rainy track conditions, with a different compound and grooves to channel water away.",
+    "options": [
+      "To increase speed on dry tracks",
+      "For use on wet/rainy conditions only",
+      "To reduce engine noise",
+      "For practice sessions only"
+    ],
+    "correctAnswer": "For use on wet/rainy conditions only",
+    "tags": [
+      "Tires",
+      "Safety",
+      "Equipment"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u9bhb03s1",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which Italian manufacturer currently sponsors the official MotoGP Championship title?",
+    "explanation": "Red Bull has been the official title sponsor of the MotoGP Championship since 2018, replacing previous sponsors like Monster Energy.",
+    "options": [
+      "Ferrari",
+      "Red Bull",
+      "Porsche",
+      "Maserati"
+    ],
+    "correctAnswer": "Red Bull",
+    "tags": [
+      "SPOR-MotoGP",
+      "Sponsorship",
+      "Championship"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "29di1vbye",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "In which year did Francesco 'Pecco' Bagnaia win his first MotoGP World Championship?",
+    "explanation": "Francesco Bagnaia won his first MotoGP World Championship with Ducati in 2022, defeating Marc Marquez to claim the title.",
+    "options": [
+      "2019",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "correctAnswer": "2022",
+    "tags": [
+      "SPOR-MotoGP",
+      "Championships",
+      "Riders"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0una5bymr",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the maximum power output allowed for factory MotoGP motorcycles?",
+    "explanation": "Factory MotoGP motorcycles are limited to a maximum power output of 225 horsepower according to FIM regulations for the premier class.",
+    "options": [
+      "180 hp",
+      "200 hp",
+      "225 hp",
+      "250 hp"
+    ],
+    "correctAnswer": "225 hp",
+    "tags": [
+      "SPOR-MotoGP",
+      "Technical",
+      "Regulations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zkuhu171h",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which track hosted the first race of the 2023 MotoGP World Championship season?",
+    "explanation": "The 2023 MotoGP season began at the Losail International Circuit in Qatar, which has hosted early-season races for multiple years.",
+    "options": [
+      "Phillip Island",
+      "Circuit of the Americas",
+      "Losail International Circuit",
+      "Jerez"
+    ],
+    "correctAnswer": "Losail International Circuit",
+    "tags": [
+      "SPOR-MotoGP",
+      "Tracks",
+      "Calendar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w135biqlz",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the minimum weight requirement for a MotoGP bike in competition?",
+    "explanation": "MotoGP bikes have a minimum weight requirement of 157 kg (including fuel) to ensure fair competition across different manufacturers.",
+    "options": [
+      "157 kg",
+      "160 kg",
+      "163 kg",
+      "170 kg"
+    ],
+    "correctAnswer": "157 kg",
+    "tags": [
+      "SPOR-MotoGP",
+      "Technical",
+      "Regulations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5gcz7s2jo",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "Which Italian rider won the 2007 MotoGP World Championship?",
+    "explanation": "Valentino Rossi won his 6th MotoGP World Championship in 2008, while Casey Stoner won in 2007. This question is checking knowledge of championship winners.",
+    "options": [
+      "Casey Stoner",
+      "Valentino Rossi",
+      "Nicky Hayden",
+      "Jorge Lorenzo"
+    ],
+    "correctAnswer": "Valentino Rossi",
+    "tags": [
+      "MotoGP",
+      "Championship",
+      "Riders"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rluhmeijg",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the maximum horsepower allowed for a standard MotoGP bike?",
+    "explanation": "Current MotoGP regulations allow standard bikes to produce up to 270 horsepower, making them the most powerful production-based racing motorcycles in the world.",
+    "options": [
+      "150 HP",
+      "240 HP",
+      "300 HP",
+      "270 HP"
+    ],
+    "correctAnswer": "270 HP",
+    "tags": [
+      "MotoGP",
+      "Technical",
+      "Specifications"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z4c753004",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which track hosted the first round of the 2023 MotoGP season?",
+    "explanation": "The 2023 MotoGP season began at the Losail International Circuit in Qatar, which has been a traditional opening round for many seasons.",
+    "options": [
+      "Phillip Island",
+      "Qatar Losail",
+      "Portimao",
+      "Jerez"
+    ],
+    "correctAnswer": "Qatar Losail",
+    "tags": [
+      "MotoGP",
+      "Tracks",
+      "Calendar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7e65odn2y",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "How many different classes of racing motorcycles compete in the MotoGP World Championship?",
+    "explanation": "The MotoGP World Championship features three classes: MotoGP (500cc), Moto2 (765cc), and Moto3 (250cc), creating a complete racing pyramid.",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": "Three",
+    "tags": [
+      "MotoGP",
+      "Classes",
+      "Structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "77omsbf6h",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which Australian rider won consecutive championships in 2007 and 2011?",
+    "explanation": "Casey Stoner won back-to-back championships in 2007 and 2011, making him one of the most dominant riders during his career.",
+    "options": [
+      "Wayne Gardner",
+      "Casey Stoner",
+      "Reed Clements",
+      "Tom Sykes"
+    ],
+    "correctAnswer": "Casey Stoner",
+    "tags": [
+      "MotoGP",
+      "Riders",
+      "Championship"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "17t46nu8v",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "Which team won the MotoGP Constructors Championship in 2023?",
+    "explanation": "The Ducati Lenovo Team won the 2023 MotoGP Constructors Championship, finishing ahead of Aprilia Racing and Yamaha.",
+    "options": [
+      "Ducati Lenovo Team",
+      "Aprilia Racing",
+      "Monster Energy Yamaha MotoGP",
+      "Repsol Honda Team"
+    ],
+    "correctAnswer": "Ducati Lenovo Team",
+    "tags": [
+      "MotoGP",
+      "Constructors",
+      "2023"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cn2ykmchj",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Who is the reigning MotoGP World Champion as of 2024?",
+    "explanation": "Francesco Bagnaia of Ducati won consecutive MotoGP World Championships in 2022 and 2023, making him the defending champion.",
+    "options": [
+      "Francesco Bagnaia",
+      "Jorge Martin",
+      "Marc Marquez",
+      "Pecco Baccarini"
+    ],
+    "correctAnswer": "Francesco Bagnaia",
+    "tags": [
+      "MotoGP",
+      "World Champion",
+      "Rider"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4os703jhf",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "How many races are typically held in a standard MotoGP season?",
+    "explanation": "A typical MotoGP season consists of 16-18 races across various continents, with the exact number varying slightly each year.",
+    "options": [
+      "16-18",
+      "20-22",
+      "12-14",
+      "25-30"
+    ],
+    "correctAnswer": "16-18",
+    "tags": [
+      "MotoGP",
+      "Season Structure",
+      "Races"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ydzhzze7",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "Which track hosted the first-ever MotoGP race in Qatar?",
+    "explanation": "The Losail International Circuit in Doha, Qatar has hosted MotoGP races since 2004 and is known for its challenging night racing conditions.",
+    "options": [
+      "Losail International Circuit",
+      "Jeddah Corniche Circuit",
+      "Suzuka Circuit",
+      "Phillip Island"
+    ],
+    "correctAnswer": "Losail International Circuit",
+    "tags": [
+      "MotoGP",
+      "Tracks",
+      "Qatar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l0jyl3nmo",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the maximum engine displacement allowed in current MotoGP regulations?",
+    "explanation": "Current MotoGP regulations allow a maximum engine displacement of 1000cc with a two-stroke configuration, as established in the 2010s.",
+    "options": [
+      "990cc",
+      "1000cc",
+      "1075cc",
+      "800cc"
+    ],
+    "correctAnswer": "1000cc",
+    "tags": [
+      "MotoGP",
+      "Regulations",
+      "Engine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ki4ruzulu",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which team won the most consecutive Constructors' Championships between 2016 and 2020?",
+    "explanation": "The Ducati team dominated with five consecutive Constructors' Championships from 2016 to 2020, winning their first era of back-to-back titles.",
+    "options": [
+      "Repsol Honda",
+      "Petronas Yamaha SRT",
+      "Ducati Lenovo Team",
+      "Aprilia Inception Racing"
+    ],
+    "correctAnswer": "Ducati Lenovo Team",
+    "tags": [
+      "MotoGP",
+      "Championships",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hjpp9wdbu",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "What is the maximum number of riders allowed in a MotoGP race during regular season?",
+    "explanation": "Each team can have up to 3 riders (factory + satellite), but only 6 per manufacturer, with a maximum of 24 riders in each race during regular season.",
+    "options": [
+      "20",
+      "24",
+      "28",
+      "30"
+    ],
+    "correctAnswer": "24",
+    "tags": [
+      "MotoGP",
+      "Rules",
+      "Riders"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g81ygaiq5",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which Ducati rider became the first ever MotoGP World Champion for Ducati in 2021?",
+    "explanation": "Francesco Bagnaia won his first MotoGP World Championship in 2021, continuing Ducati's successful era under factory team.",
+    "options": [
+      "Francesco Bagnaia",
+      "Jorge Martin",
+      "Pecco Dovizioso",
+      "Alex Rins"
+    ],
+    "correctAnswer": "Francesco Bagnaia",
+    "tags": [
+      "MotoGP",
+      "Champions",
+      "Riders"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "trac3p3sj",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the typical lap duration for a MotoGP race on circuits like Valencia or Losail?",
+    "explanation": "Most MotoGP races typically last 60-65 minutes depending on circuit length and race conditions, with Valencia and Losail being among the shorter circuits.",
+    "options": [
+      "45-50 minutes",
+      "60-65 minutes",
+      "70-75 minutes",
+      "80-85 minutes"
+    ],
+    "correctAnswer": "60-65 minutes",
+    "tags": [
+      "MotoGP",
+      "Races",
+      "Circuits"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkt9auklx",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which motorcycle manufacturer first introduced a V4 engine configuration in MotoGP?",
+    "explanation": "Aprilia was the first manufacturer to successfully introduce a V4 engine configuration in MotoGP, which later became popularized by Ducati's dominance.",
+    "options": [
+      "Aprilia",
+      "Kawasaki",
+      "Honda",
+      "Yamaha"
+    ],
+    "correctAnswer": "Aprilia",
+    "tags": [
+      "MotoGP",
+      "Engines",
+      "Manufacturers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rfkl486co",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "Which organization oversees MotoGP racing worldwide?",
+    "explanation": "The FIM (Fédération Internationale de Motocyclisme) is the international motorcycle sports governing body that oversees MotoGP, World Superbike, and other motorcycle racing disciplines.",
+    "options": [
+      "FIA",
+      "FIM",
+      "FIGC",
+      "NASCAR"
+    ],
+    "correctAnswer": "FIM",
+    "tags": [
+      "SPOR-MotoGP",
+      "organizations",
+      "governance"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zlyx39526",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum engine capacity allowed in MotoGP class?",
+    "explanation": "MotoGP class motorcycles have a maximum engine capacity of 1000cc (1 liter), making them the premier class of motorcycle racing.",
+    "options": [
+      "1000cc",
+      "900cc",
+      "800cc",
+      "750cc"
+    ],
+    "correctAnswer": "1000cc",
+    "tags": [
+      "SPOR-MotoGP",
+      "regulations",
+      "engine-specs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jm69z5wu9",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "Which track is known as the 'Circuit de Barcelona-Catalunya'?",
+    "explanation": "The Circuit de Barcelona-Catalunya is located in Montmeló, Spain and has hosted MotoGP races since 1992.",
+    "options": [
+      "Spain",
+      "Italy",
+      "France",
+      "Germany"
+    ],
+    "correctAnswer": "Spain",
+    "tags": [
+      "SPOR-MotoGP",
+      "tracks",
+      "locations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gagcn2v9g",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "Who won the first-ever MotoGP World Championship in 2002?",
+    "explanation": "Max Biaggi won the inaugural 125cc World Championship in 2002. Note: The premier class (MotoGP) championship started in 2002 with Valentino Rossi winning his first title.",
+    "options": [
+      "Valentino Rossi",
+      "Max Biaggi",
+      "Loris Capirossi",
+      "Carlos Checa"
+    ],
+    "correctAnswer": "Max Biaggi",
+    "tags": [
+      "SPOR-MotoGP",
+      "history",
+      "champions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kqqs0qg02",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "What is the name of the premier motorcycle racing series?",
+    "explanation": "MotoGP is the premier motorcycle racing series featuring 1000cc prototypes, with multiple World Championships across different classes.",
+    "options": [
+      "MotoGP",
+      "Superbike",
+      "Enduro",
+      "Supersport"
+    ],
+    "correctAnswer": "MotoGP",
+    "tags": [
+      "SPOR-MotoGP",
+      "series",
+      "classes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s60b26wsq",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "What organization governs MotoGP?",
+    "explanation": "The Fédération Internationale de Motocyclisme (FIM) is the world governing body for motorcycle racing, including MotoGP.",
+    "options": [
+      "FIM",
+      "FIA",
+      "ACM",
+      "AMA"
+    ],
+    "correctAnswer": "FIM",
+    "tags": [
+      "MotoGP",
+      "Governing Body"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3j1ub22j1",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "How many races were in the 2023 MotoGP World Championship season?",
+    "explanation": "The 2023 MotoGP calendar included 20 Grand Prix events across various countries.",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "correctAnswer": "20",
+    "tags": [
+      "MotoGP",
+      "Season Calendar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4eay5pli4",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "What is the engine displacement for MotoGP motorcycles as of 2023?",
+    "explanation": "The FIM approved 1000cc four-stroke engines for MotoGP starting in the 2023 season, replacing the previous 990cc limit.",
+    "options": [
+      "750cc",
+      "800cc",
+      "990cc",
+      "1000cc"
+    ],
+    "correctAnswer": "1000cc",
+    "tags": [
+      "MotoGP",
+      "Engine Specifications"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "falowxfvi",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which team is known for their factory Ducati racing program?",
+    "explanation": "Ducati Corse is the official works team for Ducati motorcycles in MotoGP, competing at both factory and satellite levels.",
+    "options": [
+      "Lenovo Racing Team",
+      "Ducati Corse",
+      "Yamaha Factory Racing",
+      "Aprilia RSM"
+    ],
+    "correctAnswer": "Ducati Corse",
+    "tags": [
+      "MotoGP",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w1e7gncjv",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "Which regulation change was implemented in MotoGP for the 2023 season?",
+    "explanation": "In 2023, MotoGP engines were upgraded from 990cc to 1000cc, increasing displacement for enhanced performance.",
+    "options": [
+      "Fuel restrictions",
+      "Tire supplier consolidation",
+      "Engine capacity increase",
+      "No pit lane stops for fuel"
+    ],
+    "correctAnswer": "Engine capacity increase",
+    "tags": [
+      "MotoGP",
+      "Regulations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5gxa5k8xg",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "Which team currently holds the most World Constructors' Championship titles in MotoGP?",
+    "explanation": "Honda has won the most Constructors' Championship titles with 12 victories, including titles in 2006, 2010-2012, and more recently.",
+    "options": [
+      "Ducati",
+      "Yamaha",
+      "Honda",
+      "Aprilia"
+    ],
+    "correctAnswer": "Honda",
+    "tags": [
+      "SPOR-MotoGP",
+      "Constructors",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aop4gdvnl",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Who is known as 'The Doctor' and won his first MotoGP title in 2007?",
+    "explanation": "Valentino Rossi earned the nickname 'The Doctor' and won his first MotoGP World Championship in 2008 (not 2007 - he had 5 consecutive titles from 2004-2010).",
+    "options": [
+      "Valentino Rossi",
+      "Casey Stoner",
+      "Jorge Lorenzo",
+      "Marc Marquez"
+    ],
+    "correctAnswer": "Valentino Rossi",
+    "tags": [
+      "SPOR-MotoGP",
+      "Riders",
+      "Legends"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8hcn17e0d",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "Which famous racetrack is nicknamed 'Circuit of the Sun'?",
+    "explanation": "The Circuito de Jerez in Spain is also known as the 'Circuit of the Sun' due to its location in southern Spain.",
+    "options": [
+      "Phillip Island",
+      "Jerez",
+      "Valencia",
+      "Mugello"
+    ],
+    "correctAnswer": "Jerez",
+    "tags": [
+      "SPOR-MotoGP",
+      "Tracks",
+      "Locations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3khx8r4o",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum engine displacement allowed in MotoGP (currently)?",
+    "explanation": "MotoGP uses 1000cc four-stroke engines, which have been the standard since 2002.",
+    "options": [
+      "800cc",
+      "1000cc",
+      "125cc",
+      "600cc"
+    ],
+    "correctAnswer": "1000cc",
+    "tags": [
+      "SPOR-MotoGP",
+      "Regulations",
+      "Technical"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hkxv64nrg",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "Which rider is known for winning multiple titles at a young age and became World Champion in 2013?",
+    "explanation": "Marc Marquez won his first MotoGP World Championship in 2013 at the age of 20, becoming one of the youngest champions in history.",
+    "options": [
+      "Andrea Dovizioso",
+      "Dani Pedrosa",
+      "Marc Marquez",
+      "Nicky Hayden"
+    ],
+    "correctAnswer": "Marc Marquez",
+    "tags": [
+      "SPOR-MotoGP",
+      "Riders",
+      "Young Stars"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vq5y44m7s",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "Who won the 2016 MotoGP World Championship?",
+    "explanation": "Marc Marquez, riding for Repsol Honda Team, won the 2016 MotoGP World Championship with an impressive performance throughout the season.",
+    "options": [
+      "Marc Marquez",
+      "Valentino Rossi",
+      "Jorge Lorenzo",
+      "Casey Stoner"
+    ],
+    "correctAnswer": "Marc Marquez",
+    "tags": [
+      "SPOR-MotoGP",
+      "2016 Season",
+      "Championship"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uoisrhluw",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "Which team did Valentino Rossi ride for during the 2016 MotoGP season?",
+    "explanation": "Valentino Rossi rode for Yamaha Factory Racing in 2016, where he achieved his first win since joining the team.",
+    "options": [
+      "Yamaha Factory Racing",
+      "Repsol Honda",
+      " Ducati Corse",
+      "Suzuki Ecstar"
+    ],
+    "correctAnswer": "Yamaha Factory Racing",
+    "tags": [
+      "SPOR-MotoGP",
+      "Teams",
+      "Valentino Rossi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4dujcyg3e",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "GENERAL",
+    "question": "How many Grand Prix races were held in the 2016 MotoGP season?",
+    "explanation": "The 2016 MotoGP season consisted of 20 Grand Prix races across various circuits worldwide.",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "correctAnswer": "20",
+    "tags": [
+      "SPOR-MotoGP",
+      "Season Stats",
+      "Calendar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0dfrsrb1i",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EXPERT",
+    "question": "Which rider won the Most Valuable Rookie Award in 2016?",
+    "explanation": "Alex Rins won the Most Valuable Rookie Award in 2016, demonstrating exceptional performance in his first full MotoGP season.",
+    "options": [
+      "Franco Morbidelli",
+      "Alex Rins",
+      "Joan Mir",
+      "Esteve Rabat"
+    ],
+    "correctAnswer": "Alex Rins",
+    "tags": [
+      "SPOR-MotoGP",
+      "Rookie Awards",
+      "Achievements"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "teuuir9p6",
+    "category": "SPOR",
+    "subcategory": "MotoGP",
+    "difficulty": "EASY",
+    "question": "What is the name of Marc Marquez's primary racing bike manufacturer?",
+    "explanation": "Marc Marquez has ridden for Honda throughout his entire MotoGP career, becoming one of their most successful riders.",
+    "options": [
+      "Honda",
+      "Yamaha",
+      "Kawasaki",
+      "Ducati"
+    ],
+    "correctAnswer": "Honda",
+    "tags": [
+      "SPOR-MotoGP",
+      "Marc Marquez",
+      "Manufacturers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

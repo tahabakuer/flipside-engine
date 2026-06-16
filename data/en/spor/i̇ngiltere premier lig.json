@@ -1,0 +1,1088 @@
+[
+  {
+    "id": "y6yk8go9n",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım, tarihe en çok şampiyonlukla ayrılmış İngiliz Premier Lig takımına aittir?",
+    "explanation": "Manchester United, 13 kez Premier Lig şampiyonu olmuştur ve tarihe en çok şampiyonlukla ayrılmış takımdır.",
+    "options": [
+      "Manchester United",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier League",
+      "Şampiyonluk",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cme022858",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Premier Lig'in ilk sezonunda hangi takım birinciliği elde etmiştir?",
+    "explanation": "Premier Lig'in 1992-93 sezonunda birincisi Liverpool oldu.",
+    "options": [
+      "Liverpool",
+      "Blackburn Rovers",
+      "Manchester United",
+      "Arsenal"
+    ],
+    "correctAnswer": "Liverpool",
+    "tags": [
+      "Premier League",
+      "İlk Sezon",
+      "Şampiyonluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "edlmcnk2r",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Hangi takım, Premier Lig'de en çok gol atan takım unvanını taşımaktadır?",
+    "explanation": "Manchester City, Premier Lig tarihinin en çok gol atan takımıdır.",
+    "options": [
+      "Manchester City",
+      "Chelsea",
+      "Liverpool",
+      "Arsenal"
+    ],
+    "correctAnswer": "Manchester City",
+    "tags": [
+      "Premier League",
+      "Gol Rekorları",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hy88v0ov3",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım, 2019-20 sezonunda ilk kez şampiyon oldu?",
+    "explanation": "Leicester City, 2019-20 sezonunda Premier Lig şampiyonu oldu ve bu onların ilk şampiyonluklarıydı.",
+    "options": [
+      "Leicester City",
+      "Manchester United",
+      "Liverpool",
+      "Chelsea"
+    ],
+    "correctAnswer": "Leicester City",
+    "tags": [
+      "Premier League",
+      "Şampiyonluk",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7sxi2wug1",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Hangi takım, Premier Lig tarihinin en çok lig kupası kazanan takımıdır?",
+    "explanation": "Manchester United, Premier Lig tarihinin en çok lig kupası kazanan takımıdır.",
+    "options": [
+      "Manchester United",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier League",
+      "Kupa Rekorları",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6hk9vm2fe",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "FA Premier Ligi hangi sezonda kurulup başlamıştır?",
+    "explanation": "FA Premier Ligi, eski First Division liginden ayrılarak Şubat 1992'de kurulmuş ve ilk sezonu 1992-93'te oynanmıştır.",
+    "options": [
+      "1992-93",
+      "1994-95",
+      "1998-99",
+      "2000-01"
+    ],
+    "correctAnswer": "1992-93",
+    "tags": [
+      "Premier League",
+      "İngiltere",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "od9h9xac1",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "İngiltere Premier Ligi tarihinde en çok şampiyonluk kazanan takım hangisidir?",
+    "explanation": "Manchester United, Premier Ligi tarihi boyunca 13 kez şampiyon olmuş olup en çok üst lig şampiyonluğu olan takımdır.",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Chelsea",
+      "Arsenal"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier League",
+      "Kulüp Rekorları",
+      "İngiltere"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wfxioe5gm",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Liverpool FC'nin oynadığı stadyumun adı nedir?",
+    "explanation": "Liverpool FC, kendi evinde Anfield Stadyumu'nda maçlarını oynamaktadır.",
+    "options": [
+      "Old Trafford",
+      "Anfield",
+      "Etihad",
+      "Emirates"
+    ],
+    "correctAnswer": "Anfield",
+    "tags": [
+      "Premier League",
+      "Stadyumlar",
+      "İngiltere"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8xa4471ku",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Arsenal ve Tottenham Hotspur arasındaki derbi hangi adla bilinir?",
+    "explanation": "Arsenal ve Tottenham Hotspur, Londra'nın kuzeyinde yer aldığı için bu maçlara North London Derby adı verilmiştir.",
+    "options": [
+      "North London Derby",
+      "Manchester Derby",
+      "Merseyside Derby",
+      "The Old Firm"
+    ],
+    "correctAnswer": "North London Derby",
+    "tags": [
+      "Premier League",
+      "Derbiler",
+      "İngiltere"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a5imsups6",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Manchester United'un ana stadyumu olan Old Trafford hangi şehirde yer alır?",
+    "explanation": "Old Trafford Stadyumu, Manchester şehrinde bulunan ve Manchester United'un ana sahasıdır.",
+    "options": [
+      "Liverpool",
+      "Manchester",
+      "Leeds",
+      "Birmingham"
+    ],
+    "correctAnswer": "Manchester",
+    "tags": [
+      "Premier League",
+      "Stadyumlar",
+      "İngiltere"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6pssn7y7p",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım 1992-1993 sezonunda İngiltere Premier Lig'in ilk şampiyonu olmuştur?",
+    "explanation": "Manchester United, Premier Lig'in ilk sezonunda (1992-1993) şampiyon olmuştur ve Alex Ferguson yönetiminde 12 puan farkla ligi kapatmıştır.",
+    "options": [
+      "Manchester United",
+      "Arsenal",
+      "Blackburn Rovers",
+      "Coventry City"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier Lig",
+      "Şampiyonluk Tarihçesi",
+      "1992-93 Sezonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mbmmpw8n8",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Premier Lig'de oynayan takım olmayan hangisidir?",
+    "explanation": "New York Yankees ABD'nin Major League Baseball (MLB) ligindeki bir takımıdır. Liverpool, Chelsea ve Tottenham İngiltere Premier Lig'de oynamaktadır.",
+    "options": [
+      "Liverpool",
+      "Chelsea",
+      "New York Yankees",
+      "Tottenham Hotspur"
+    ],
+    "correctAnswer": "New York Yankees",
+    "tags": [
+      "Takım Bilgisi",
+      "Premier Lig Takımları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ruqyftu1e",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "İngiltere Premier Lig tarihinde en fazla şampiyonluk kaça ulaşmıştır?",
+    "explanation": "Manchester City, 2018-2019 sezonu itibariyle Premier Lig'de 6 şampiyonluğa ulaşmış ve bu sayede en fazla şampiyonluk elde eden takımdır.",
+    "options": [
+      "Manchester City",
+      "Manchester United",
+      "Liverpool",
+      "Arsenal"
+    ],
+    "correctAnswer": "Manchester City",
+    "tags": [
+      "Şampiyonluk Tarihçesi",
+      "Premier Lig Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8y7lnyr5g",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Premier Lig'in kurucu sponsoru ne zaman başlayarak ligin ana sponsorudur?",
+    "explanation": "Premier Lig 1992 yılında kuruldu ve kurucu sponsor olarak baştan beri ligin ana sponsoru rolünü oynamaktadır.",
+    "options": [
+      "1992",
+      "1993",
+      "1994",
+      "1995"
+    ],
+    "correctAnswer": "1992",
+    "tags": [
+      "Premier Lig Tarihi",
+      "Sponsorluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d7ov248qt",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Hangi takım Premier Lig'de 'The Invincibles' takma adıyla bilinir?",
+    "explanation": "Arsenal, 2003-2004 sezonunda bir maçı kaybetmeden şampiyon olmuştur ve bu başarıdan dolayı 'The Invincibles' (Efsanevi) takma adıyla bilinir.",
+    "options": [
+      "Manchester United",
+      "Arsenal",
+      "Liverpool",
+      "Leicester City"
+    ],
+    "correctAnswer": "Arsenal",
+    "tags": [
+      "Takım Bilgisi",
+      "Premier Lig Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0t6kqn3t8",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım, 2019-20 sezonunda Premier Lig şampiyonluğu kazandı?",
+    "explanation": "Manchester City, 2019-20 Premier Lig sezonunda Liverpool'ı geride bırakarak şampiyon oldu. İlk kez 1892'de kurulan ligde bu sezon büyük bir dikkatle takip edildi.",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Chelsea",
+      "Manchester City"
+    ],
+    "correctAnswer": "Manchester City",
+    "tags": [
+      "Premier Lig",
+      "Şampiyonluk",
+      "2019-20 Sezonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2vmswtohq",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "İngiltere Premier Lig'in en çok gol atan oyuncusu kimdir?",
+    "explanation": "Alan Shearer, Premier Lig tarihinde 260 gol atarak en çok gol atan oyuncudur. Blackburn Rovers ve Newcastle United'ta oynadı.",
+    "options": [
+      "Harry Kane",
+      "Alan Shearer",
+      "Wayne Rooney",
+      "Lionel Messi"
+    ],
+    "correctAnswer": "Alan Shearer",
+    "tags": [
+      "Premier Lig",
+      "Gol Rekoru",
+      "Oyuncular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oplmpbfom",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Manchester City'nin ev stadyumu hangisidir?",
+    "explanation": "Manchester City, 55.000 kişilik Etihad Stadium'da ev maçlarını oynar. Stadyum, eski adı City of Manchester Stadium'dır.",
+    "options": [
+      "Old Trafford",
+      "Anfield",
+      "Etihad Stadium",
+      "Stamford Bridge"
+    ],
+    "correctAnswer": "Etihad Stadium",
+    "tags": [
+      "Premier Lig",
+      "Stadyumlar",
+      "Manchester City"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "anbz46gf0",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "2023-24 sezonunda Premier Lig şampiyonluğu hangi takım kazandı?",
+    "explanation": "Manchester City, 2023-24 Premier Lig sezonunda Arsenal'ı geride bırakarak şampiyon oldu ve lig tarihinde 7 kez şampiyonluk yaşadı.",
+    "options": [
+      "Liverpool",
+      "Arsenal",
+      "Manchester City",
+      "Aston Villa"
+    ],
+    "correctAnswer": "Manchester City",
+    "tags": [
+      "Premier Lig",
+      "Şampiyonluk",
+      "2023-24 Sezonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cy5sce4nd",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Premier Lig'in resmi adı nedir?",
+    "explanation": "Premier Lig'in resmi sponsorlu adı The Barclays Premier League'dir. 2016-17 sezonundan itibaren Sky Sports, 2019-20'den sonra ise ESPN ve Fox Sports ile yayın anlaşması olan lig.",
+    "options": [
+      "English Football League",
+      "FA Premier League",
+      "The Barclays Premier League",
+      "EFL Championship"
+    ],
+    "correctAnswer": "The Barclays Premier League",
+    "tags": [
+      "Premier Lig",
+      "Lig Tarihi",
+      "Resmi Adı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oc1saiyqo",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Arsenal'ın ev stadyumu hangisidir?",
+    "explanation": "Arsenal, 60.704 kişilik Emirates Stadyumu'nda ev maçlarını oynar. Stadyum, 2006'da açıldı ve Arsenal'ın ana stadyumudur.",
+    "options": [
+      "Emirates Stadium",
+      "Old Trafford",
+      "Wembley",
+      "Stamford Bridge"
+    ],
+    "correctAnswer": "Emirates Stadium",
+    "tags": [
+      "Premier Lig",
+      "Stadyumlar",
+      "Arsenal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dg4dbo799",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "İngiltere Premier Liginde hangi takım en fazla şampiyonluk kazanmıştır?",
+    "explanation": "Manchester United 13 kez Premier Lig şampiyonu olup, lig tarihinin en çok şampiyonluk sahibi takımınıdır (2024 itibarıyla).",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Chelsea",
+      "Arsenal"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier League",
+      "Şampiyonluk Tarihi",
+      "İngiltere Futbolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "siymsdgth",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Premier Liginin kurucu yılı hangisidir?",
+    "explanation": "İngiltere Premier Ligi, eski First Division'ın yerine 1992-93 sezonunda başlamıştır.",
+    "options": [
+      "1988",
+      "1992",
+      "1994",
+      "1996"
+    ],
+    "correctAnswer": "1992",
+    "tags": [
+      "Premier League",
+      "Lig Tarihi",
+      "İngiltere Futbolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i6tksc0mu",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım 'Red Devils' olarak bilinir?",
+    "explanation": "Manchester United, kırmızı forma giymelerinden dolayı 'Red Devils' (Kızıl Şeytanlar) olarak anılır.",
+    "options": [
+      "Manchester United",
+      "Liverpool",
+      "Leeds United",
+      "Newcastle United"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier League",
+      "Takım Nicknamesi",
+      "İngiltere Futbolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d3tt3ocwe",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Premier Ligin kaç takımdan oluşur?",
+    "explanation": "Premier Ligi 20 takımdan oluşur ve her sezon en az 3 puan farkla sona eren bir takımı düşer.",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "correctAnswer": "20",
+    "tags": [
+      "Premier League",
+      "Lig Yapısı",
+      "İngiltere Futbolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e2yc67xnq",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Liverpool takımının stadyumu hangisidir?",
+    "explanation": "Liverpool takımının stadyumu Anfield olup, 1892'den beri bu stadyumda oynanmaktadır.",
+    "options": [
+      "Old Trafford",
+      "Anfield",
+      "Emirates Stadium",
+      "Stamford Bridge"
+    ],
+    "correctAnswer": "Anfield",
+    "tags": [
+      "Premier League",
+      "Stadyumlar",
+      "İngiltere Futbolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "djqit4b66",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Kaç takım İngiltere Premier Lig'de oynar?",
+    "explanation": "İngiltere Premier Lig'inde her sezon 20 takım yer alır. Bu sistem 1992'den beri devam etmektedir.",
+    "options": [
+      "18 takım",
+      "20 takım",
+      "22 takım",
+      "24 takım"
+    ],
+    "correctAnswer": "20 takım",
+    "tags": [
+      "Premier Lig",
+      "İngiltere Futbolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xse775rh8",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Premier Lig tarihinin en çok gol atan oyuncusu kimdir?",
+    "explanation": "Alan Shearer, Premier Lig tarihinin en çok gol atan oyuncusu olup 260 gol atmıştır. Bu rekor hala ayakta durmaktadır.",
+    "options": [
+      "Wayne Rooney",
+      "Alan Shearer",
+      "Harry Kane",
+      "Lionel Messi"
+    ],
+    "correctAnswer": "Alan Shearer",
+    "tags": [
+      "Premier Lig",
+      "Gol Rekorları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ra7y7cnwd",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Manchester United'un ev stadyumu aşağıdakilerden hangisidir?",
+    "explanation": "Manchester United'ın ev stadyumu Old Trafford'dur. Bu stadyum, 'Theatre of Dreams' olarak da bilinir.",
+    "options": [
+      "Etihad Stadium",
+      "Anfield",
+      "Old Trafford",
+      "Wembley"
+    ],
+    "correctAnswer": "Old Trafford",
+    "tags": [
+      "Premier Lig",
+      "Stadyumlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6n8dps05j",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "2019-2020 sezonunda Premier Lig şampiyonu hangi takımdır?",
+    "explanation": "2019-2020 sezonunda Manchester City, Liverpool'u 5 puan geride bırakarak şampiyon oldu. Bu sezonun en önemli olaylarından biriydi.",
+    "options": [
+      "Liverpool",
+      "Manchester City",
+      "Chelsea",
+      "Arsenal"
+    ],
+    "correctAnswer": "Manchester City",
+    "tags": [
+      "Premier Lig",
+      "Şampiyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t0azbfqke",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Premier Lig'de en çok kazanılan lig sezonu kaç puandır?",
+    "explanation": "Manchester City 2017-2018 sezonunda 95 puan toplayarak rekor kırmıştı. Bu, Premier Lig'in en yüksek puanıdır.",
+    "options": [
+      "80 puan",
+      "90 puan",
+      "95 puan",
+      "100 puan"
+    ],
+    "correctAnswer": "95 puan",
+    "tags": [
+      "Premier Lig",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4gr0s37vr",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "İngiltere Premier Ligi tarihinde en çok şampiyonluk kazanan takım hangisidir?",
+    "explanation": "Manchester United, Premier Ligi tarihinde 13 kez şampiyonluk kazanan en çok şampiyonluk yapan takımdır.",
+    "options": [
+      "Manchester United",
+      "Liverpool FC",
+      "Manchester City",
+      "Chelsea FC"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier League",
+      "Takımlar",
+      "Şampiyonluklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9mtw9v1dd",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "2023-2024 sezonunda İngiltere Premier Ligi şampiyonu olan takım hangisidir?",
+    "explanation": "Manchester City, 2023-2024 sezonunda Premier Ligi şampiyonu oldu ve tarihteki onuncu şampiyonluklarını kazandı.",
+    "options": [
+      "Liverpool FC",
+      "Manchester City",
+      "Arsenal FC",
+      "Tottenham Hotspur"
+    ],
+    "correctAnswer": "Manchester City",
+    "tags": [
+      "Premier League",
+      "2023-24 Sezonu",
+      "Şampiyonluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qgfnky2kf",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Premier Lig maçları kaç hafta boyunca oynanır?",
+    "explanation": "Her takım 38 maç oynadığı için, 20 takımın yer aldığı ligde 34 hafta boyunca maçlar devam eder.",
+    "options": [
+      "18 hafta",
+      "26 hafta",
+      "30 hafta",
+      "34 hafta"
+    ],
+    "correctAnswer": "34 hafta",
+    "tags": [
+      "Premier League",
+      "Maç Formatı",
+      "Takvim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nw78udzm0",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım Premier Ligi'nde 'The Red Devils' lakabıyla bilinir?",
+    "explanation": "Manchester United, kırmızı formaları nedeniyle 'The Red Devils' lakabıyla bilinir.",
+    "options": [
+      "Liverpool FC",
+      "Manchester United",
+      "Newcastle United",
+      "Sunderland AFC"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier League",
+      "Takım Lakapları",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "34jwq3npi",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Premier Ligi'nin kurucu yılı hangisidir?",
+    "explanation": "İngiltere Premier Ligi 1992 yılında Firs Division olarak kuruldu ve profesyonel bir lig haline geldi.",
+    "options": [
+      "1988",
+      "1992",
+      "1994",
+      "1996"
+    ],
+    "correctAnswer": "1992",
+    "tags": [
+      "Premier League",
+      "Tarihçe",
+      "Lig Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qgyiitndq",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "İngiltere Premier Lig'in ilk sezonu ne yıl başlamıştır?",
+    "explanation": "İngiltere Premier Lig, 1992-93 sezonunda başlayarak eski Football League Second Division'ın yerini almıştır.",
+    "options": [
+      "1988",
+      "1992",
+      "1994",
+      "1996"
+    ],
+    "correctAnswer": "1992",
+    "tags": [
+      "tarihçe",
+      "genel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uls6wecr1",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Premier Lig'de en fazla şampiyonluk kazanan takım hangisidir?",
+    "explanation": "Manchester United, 13 kez Premier Lig şampiyonu olmuştur (2009'a kadar).",
+    "options": [
+      "Liverpool",
+      "Manchester United",
+      "Chelsea",
+      "Arsenal"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "şampiyonluklar",
+      "takımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "el0i89n4q",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Premier Lig'de 'The Theatre at Old Trafford' olarak bilinen stadyum hangi takıma aittir?",
+    "explanation": "Old Trafford stadyumu Manchester United'un ana sahnesidir.",
+    "options": [
+      "Liverpool",
+      "Manchester City",
+      "Manchester United",
+      "Arsenal"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "stadyumlar",
+      "takımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qok7okzp8",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Premier Lig'de en yüksek sezon başı transfer ücreti ödenen oyuncu kimdir?",
+    "explanation": "Gareth Bale, 2013'te Tottenham'dan Real Madrid'e 100.5 milyon £'a transfer olmuştur.",
+    "options": [
+      "Gareth Bale - Tottenham'a",
+      "Harry Kane - Bayern'a",
+      "Paul Pogba - Juventus'a",
+      "Romelu Lukaku - Inter'e"
+    ],
+    "correctAnswer": "Gareth Bale - Tottenham'a",
+    "tags": [
+      "transferler",
+      "rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4j9dfrdsx",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "Premier Lig'de 'The Emirates' stadyumu hangi takıma aittir?",
+    "explanation": "The Emirates stadyumu Arsenal'in ana sahnesidir.",
+    "options": [
+      "Manchester City",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "correctAnswer": "Arsenal",
+    "tags": [
+      "stadyumlar",
+      "takımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w8wik3qhc",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "How many teams are currently in the English Premier League?",
+    "explanation": "The Premier League consists of 20 teams, each playing 38 matches per season, with relegation and promotion to/from the Championship.",
+    "options": [
+      "A) 18 teams",
+      "B) 20 teams",
+      "C) 22 teams",
+      "D) 24 teams"
+    ],
+    "correctAnswer": "B) 20 teams",
+    "tags": [
+      "EPL",
+      "Teams",
+      "Structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ncic4q5je",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Which club won the English Premier League title in the 2023-24 season?",
+    "explanation": "Chelsea secured their first Premier League title in 20 years under manager Mauricio Pochettino, finishing with 100 points.",
+    "options": [
+      "A) Manchester City",
+      "B) Liverpool",
+      "C) Chelsea",
+      "D) Arsenal"
+    ],
+    "correctAnswer": "C) Chelsea",
+    "tags": [
+      "EPL",
+      "Champions",
+      "Titles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eynfld7kv",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Which English Premier League club holds the record for the most league titles won since the inception of the Premier League in 1992?",
+    "explanation": "Manchester United has won 12 Premier League titles as of the end of the 2023-24 season, surpassing all other clubs in the league's history.",
+    "options": [
+      "A) Manchester United",
+      "B) Manchester City",
+      "C) Liverpool",
+      "D) Chelsea"
+    ],
+    "correctAnswer": "A) Manchester United",
+    "tags": [
+      "EPL",
+      "Titles",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f8vwg3yw1",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Who holds the record for the most goals scored in a single Premier League season?",
+    "explanation": "Alan Shearer scored 34 goals during the 1994-95 season while playing for Newcastle United, a record that still stands in the Premier League.",
+    "options": [
+      "A) Alan Shearer",
+      "B) Cristiano Ronaldo",
+      "C) Harry Kane",
+      "D) Andy Carroll"
+    ],
+    "correctAnswer": "A) Alan Shearer",
+    "tags": [
+      "EPL",
+      "Records",
+      "Scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i7siamyl5",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "In which year was the English Premier League officially founded?",
+    "explanation": "The Premier League was established in 1992, replacing the Football League First Division as the top tier of English football.",
+    "options": [
+      "A) 1988",
+      "B) 1990",
+      "C) 1992",
+      "D) 1994"
+    ],
+    "correctAnswer": "C) 1992",
+    "tags": [
+      "EPL",
+      "History",
+      "Founding"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rj4j9hbbp",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Hangi İngiliz Premier Lig kulübü en çok lig şampiyonluğu kazanmıştır?",
+    "explanation": "Manchester United, 13 kez Premier Lig şampiyonluğu kazanarak en başarılı kulüptür. Liverpool FC (20 kez), Arsenal FC (14 kez) ve Chelsea FC (6 kez) daha az şampiyonluk kazanmıştır.",
+    "options": [
+      "Manchester United",
+      "Liverpool FC",
+      "Chelsea FC",
+      "Arsenal FC"
+    ],
+    "correctAnswer": "Manchester United",
+    "tags": [
+      "Premier League",
+      "Football",
+      "Kulüp Şampiyonluğu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j66o1y3gt",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EASY",
+    "question": "İngiliz Premier Lig ne yılında kurulmuştur?",
+    "explanation": "İngiliz Premier Lig, 20. Şubat 1992 tarihinde The Football Association tarafından kurulmuştur. Önceki sezonlarda First Division adı verilirdi.",
+    "options": [
+      "1988",
+      "1992",
+      "1994",
+      "1985"
+    ],
+    "correctAnswer": "1992",
+    "tags": [
+      "Premier League",
+      "Football History",
+      "Kuruluş Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zkbg9nfpy",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "EXPERT",
+    "question": "Hangi takım daha sona kadar Premier Lig şampiyonluğu kazanmamıştır?",
+    "explanation": "Wolverhampton Wanderers, Everton FC ve West Ham United Premier Lig şampiyonluğu kazanmamıştır. Aston Villa ise 1981-82 sezonunda FA Cup ile şampiyon olmuştur.",
+    "options": [
+      "Wolverhampton Wanderers",
+      "Aston Villa",
+      "Everton FC",
+      "West Ham United"
+    ],
+    "correctAnswer": "Aston Villa",
+    "tags": [
+      "Premier League",
+      "Football",
+      "Şampiyonluk Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kvaxs019r",
+    "category": "SPOR",
+    "subcategory": "İngiltere Premier Lig",
+    "difficulty": "GENERAL",
+    "question": "Premier Lig'in en çok gol atan futbolcusu kimdir?",
+    "explanation": "Alan Shearer, 260 gol ile Premier Lig'in en çok gol atan futbolcusudur. Wayne Rooney (208 gol) ve Thierry Henry (175 gol) daha az gol atmıştır.",
+    "options": [
+      "Alan Shearer",
+      "Wayne Rooney",
+      "Andy Cole",
+      "Thierry Henry"
+    ],
+    "correctAnswer": "Alan Shearer",
+    "tags": [
+      "Premier League",
+      "Football",
+      "Gol Kralı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

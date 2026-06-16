@@ -1,0 +1,12 @@
+{
+  "totalCategories": 1,
+  "totalQuestions": 141,
+  "lastUpdated": "2026-06-16T14:56:00.827Z",
+  "data": [
+    {
+      "category": "SPOR",
+      "count": 141,
+      "file": "spor.json"
+    }
+  ]
+}

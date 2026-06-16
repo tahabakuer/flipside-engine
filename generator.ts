@@ -1,57 +1,73 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
 import { OpenAI } from "openai";
+import { BatchQuestionSchema, Question } from './schema.js';
 import * as dotenv from "dotenv";
-import { BatchQuestionSchema, Question } from './schema';
 
 dotenv.config();
 
-const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY || "");
-const grok = new OpenAI({ 
-  apiKey: process.env.GROK_API_KEY, 
-  baseURL: "https://api.x.ai/v1" 
+const localLLM = new OpenAI({ 
+  apiKey: "not-needed", 
+  baseURL: "http://localhost:1234/v1" 
 });
 
-const isGrokEnabled = !!process.env.GROK_API_KEY;
-
 export async function generateBatch(
-  category: string, 
-  subcategory: string, 
-  count: number = 25
+  category: string, subcategory: string, count: number = 25, attempt: number = 1
 ): Promise<Question[]> {
-  
-  const prompt = `
-    Generate ${count} NEW unique quiz questions for: ${category} - ${subcategory}.
-    Difficulty level: Mix of EASY, GENERAL, and EXPERT.
-    LANGUAGE: STRICTLY ENGLISH.
-    
-    IMPORTANT RULES:
-    1. "explanation" field MUST be shorter than 250 characters.
-    2. "question" field MUST be between 10-150 characters.
-    3. Return ONLY a JSON array of ${count} objects matching the schema.
-    4. Do not include any markdown or text outside the JSON array.
-  `;
-
   try {
-    const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
-    const result = await model.generateContent(prompt);
-    return BatchQuestionSchema.parse(JSON.parse(result.response.text()));
-  } catch (error: any) {
-    if (error.status === 429) {
-      console.error("🚨🚨🚨 Gemini kota doldu!🚨🚨🚨");
-      process.exit(1);
-    }
-    
+    const completion = await localLLM.chat.completions.create({
+      model: "qwen/qwen3.5-9b", 
+      messages: [
+  { 
+    role: "system", 
+    content: "You are a professional quiz engine. You MUST output ONLY a valid JSON array of objects. Each object MUST contain: 'question' (string), 'options' (array of strings), 'correctAnswer' (string), 'difficulty' ('EASY'|'GENERAL'|'EXPERT'), 'tags' (array of strings), 'explanation' (string)." 
+  },
+  { 
+    role: "user", 
+    content: `Generate ${count} MCQ questions for topic: ${category}-${subcategory}. Return clean JSON.` 
+  }
+  ],
+      temperature: 0.7,
+    });
 
-    if (isGrokEnabled) {
-      console.warn("⚠️ Gemini failed. Switching to Grok...");
-      const completion = await grok.chat.completions.create({
-        model: "grok-beta",
-        messages: [{ role: "user", content: prompt }],
-      });
-      return BatchQuestionSchema.parse(JSON.parse(completion.choices[0].message.content || "[]"));
-    } else {
-      console.error("❌❌❌ Gemini başarısız oldu ve Grok API anahtarı bulunamadı!❌❌❌");
-      process.exit(1);
+    const rawContent = (completion.choices[0].message.content || "[]")
+      .replace(/```json/g, "")
+      .replace(/```/g, "")
+      .trim();
+
+    const parsed = JSON.parse(rawContent);
+    const normalized = Array.isArray(parsed) ? parsed : [parsed];
+
+    const sanitized = normalized.map(q => ({
+      ...q,
+      // Zorunlu ID ve Tipler
+      id: String(q.id || Math.random().toString(36).substr(2, 9)),
+      category: category,
+      subcategory: subcategory,
+      questionType: 'MCQ',
+      sourceType: 'generated',
+      
+      // ŞEMA GÜVENLİĞİ: Eğer model boş döndüyse biz dolduruyoruz
+      question: q.question || "Soru metni üretilemedi.",
+      difficulty: ["EASY", "GENERAL", "EXPERT"].includes(q.difficulty) ? q.difficulty : "GENERAL",
+      
+      // Array zorlamaları
+      options: Array.isArray(q.options) ? q.options : ["A", "B", "C", "D"],
+      tags: Array.isArray(q.tags) ? q.tags : ["genel"],
+      
+      // String zorlamaları
+      correctAnswer: String(q.correctAnswer || "A"),
+      explanation: q.explanation ? String(q.explanation).substring(0, 245) : "Açıklama üretilmedi."
+    }));
+
+    return BatchQuestionSchema.parse(sanitized);
+
+  } catch (e: any) {
+    console.error(`DEBUG - Hata (${category}/${subcategory}):`, e.message);
+    
+    if (attempt < 3) {
+      console.warn(`⚠️ Hata (Deneme ${attempt}/3). Tekrar deneniyor...`);
+      await new Promise(r => setTimeout(r, 2000));
+      return generateBatch(category, subcategory, count, attempt + 1);
     }
+    return [];
   }
 }

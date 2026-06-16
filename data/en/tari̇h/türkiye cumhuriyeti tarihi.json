@@ -1,0 +1,1096 @@
+[
+  {
+    "id": "odoxyhlmx",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti'nin resmi olarak kurulduğu yıl ve tarih aşağıdakilerden hangisidir?",
+    "explanation": "Türkiye Cumhuriyeti'nin kuruluşu 1923 yılında, Mustafa Kemal Atatürk'ün cumhurbaşkanı seçildiği ve ilk meclisin toplanmasıyla 29 Ekim'de resmi olarak ilan edilmiştir.",
+    "options": [
+      "1922 - 30 Ekim",
+      "1923 - 29 Ekim",
+      "1924 - 18 Aralık",
+      "1925 - 1 Nisan"
+    ],
+    "correctAnswer": "1923 - 29 Ekim",
+    "tags": [
+      "kuruluş",
+      "ataturk",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3w9miuf3k",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk'ün gerçekleştirdiği aşağıdaki reformlardan hangisi 1924 yılında kabul edildi?",
+    "explanation": "1924 yılında TBMM, Halifelik kurumunu kaldıran kanunları kabul etti. Bu karar, Osmanlı'nın son imarı olan halifeliğin resmen sona ermesini sağladı.",
+    "options": [
+      "Takvim değişiklik",
+      "Halifelik kaldırılması",
+      "Alfabe değişikliği",
+      "Cumhuriyet ilan"
+    ],
+    "correctAnswer": "Halifelik kaldırılması",
+    "tags": [
+      "reformlar",
+      "halife",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t19r72mxa",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Kadınların seçme ve seçilme hakkının tanındığı yıl aşağıdakilerden hangisidir?",
+    "explanation": "Türkiye'de kadınların seçme ve seçilme hakkı 1934 yılında kabul edilen kanunla tanındı. Bu, dünyanın en erken uygulamalarından biriydi.",
+    "options": [
+      "1928",
+      "1930",
+      "1934",
+      "1945"
+    ],
+    "correctAnswer": "1934",
+    "tags": [
+      "kadın hakları",
+      "seçme hakkı",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pa4btthua",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EASY",
+    "question": "İzmir'in işgali (Lozan Barış Antlaşması) sonrasında Türkiye Cumhuriyeti'ne ait ilk cumhurbaşkanı kimdir?",
+    "explanation": "Mustafa Kemal Atatürk, Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı olarak 1923 yılında seçildi ve bu görevini 1938 yılına kadar sürdürdü.",
+    "options": [
+      "Mustafa Kemal Atatürk",
+      "İsmet İnönü",
+      "Fevzi Çakmak",
+      "Ali Fethi Okyar"
+    ],
+    "correctAnswer": "Mustafa Kemal Atatürk",
+    "tags": [
+      "cumhurbaşkanı",
+      "ataturk",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jmhdof1oi",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de takvim değişikliği ile İslami takvimi (Hicri) yerine Miladi takvimin kabul edildiği yıl aşağıdakilerden hangisidir?",
+    "explanation": "1926 yılında, Mustafa Kemal Atatürk tarafından başlatılan reformlarla Türkiye'de takvim sistemi Miladi (Gregoryen) takvime çevrildi.",
+    "options": [
+      "1926",
+      "1927",
+      "1928",
+      "1929"
+    ],
+    "correctAnswer": "1926",
+    "tags": [
+      "takvim",
+      "reformlar",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l6egw04tg",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti'nin kurucu lideri ve ilk devlet başkanı kimdir?",
+    "explanation": "Mustafa Kemal Atatürk, 1923 yılında Türkiye Cumhuriyeti'nin kurucusu ve ilk devlet başkanı olarak seçilmiştir.",
+    "options": [
+      "Mustafa Kemal Atatürk",
+      "İsmet İnönü",
+      "Fevzi Çakmak",
+      "Ali Fuat Cebesoy"
+    ],
+    "correctAnswer": "Mustafa Kemal Atatürk",
+    "tags": [
+      "Cumhuriyet Tarihi",
+      "Atatürk",
+      "Devlet Başıkanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q01bb2ooh",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti'nde kabul edilen ilk anayasa ne zaman yürürlüğe girmiştir?",
+    "explanation": "Türkiye Cumhuriyeti'nin ilk anayasası, 13 Ocak 1924'te kabul edilmiş ve 1 Nisan 1924'te yürürlüğe girmiştir.",
+    "options": [
+      "1 Nisan 1924",
+      "7 Ekim 1923",
+      "29 Ekim 1928",
+      "1 Mart 1921"
+    ],
+    "correctAnswer": "1 Nisan 1924",
+    "tags": [
+      "Anayasa",
+      "Cumhuriyet Tarihi",
+      "Yasal Süreçler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x6k5h599u",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EASY",
+    "question": "Cumhuriyet'in ilan edildiği tarih hangisidir?",
+    "explanation": "Mustafa Kemal Atatürk tarafından Ankara'da yapılan konuşma ile Türkiye Cumhuriyeti resmi olarak 29 Ekim 1923'te ilan edilmiştir.",
+    "options": [
+      "29 Ekim 1923",
+      "20 Temmuz 1923",
+      "1 Kasım 1923",
+      "1 Aralık 1923"
+    ],
+    "correctAnswer": "29 Ekim 1923",
+    "tags": [
+      "Cumhuriyet Tarihi",
+      "Tarih Önemli Günler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5orhekrhv",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin harf devrimi ne zaman gerçekleşmiştir?",
+    "explanation": "Türkiye'nin Osmanlıca Arap alfabesi yerine Latin alfabesi geçişi, 1 Mart 1928 tarihinde resmi olarak yürürlüğe girmiştir.",
+    "options": [
+      "1 Mart 1928",
+      "1 Kasım 1927",
+      "20 Ekim 1925",
+      "1 Nisan 1926"
+    ],
+    "correctAnswer": "1 Mart 1928",
+    "tags": [
+      "Atatürk Devrimleri",
+      "Harf Devrimi",
+      "Yazı Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2akt9svj1",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Cumhuriyet'te ilk kez kadınların oy hakkı ne zaman verilmiştir?",
+    "explanation": "Türkiye'de kadınlar hem seçme hem de seçilme hakkı 1 Nisan 1934'te kabul edilen kanun ile verilmiştir.",
+    "options": [
+      "1 Nisan 1934",
+      "10 Ağustos 1923",
+      "1 Mart 1930",
+      "29 Ekim 1928"
+    ],
+    "correctAnswer": "1 Nisan 1934",
+    "tags": [
+      "Kadın Hakları",
+      "Cumhuriyet Tarihi",
+      "Oy Hakkı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tor0purnr",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti'nin resmen ilanı hangi tarihte gerçekleşmiştir?",
+    "explanation": "Türkiye Cumhuriyeti, Mustafa Kemal Atatürk'ün yönetimi altında 29 Mayıs 1923 tarihinde Ankara'da ilan edilmiştir.",
+    "options": [
+      "23 Nisan 1920",
+      "29 Mayıs 1923",
+      "1 Ekim 1923",
+      "30 Ağustos 1922"
+    ],
+    "correctAnswer": "29 Mayıs 1923",
+    "tags": [
+      "Cumhuriyet",
+      "Atatürk",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t2n28ghtl",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Lozan Antlaşması imzalandığı yıl hangisidir?",
+    "explanation": "Lozan Antlaşması, Türkiye Büyük Millet Meclisi ile Batılı devletler arasında 24 Temmuz 1923 tarihinde imzalanmıştır.",
+    "options": [
+      "1922",
+      "1923",
+      "1924",
+      "1925"
+    ],
+    "correctAnswer": "1923",
+    "tags": [
+      "Diplomasi",
+      "Antlaşma",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9hv1dsmt2",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Mustafa Kemal Atatürk'ün vefat ettiği yıl hangisidir?",
+    "explanation": "Mustafa Kemal Atatürk, 10 Kasım 1938 tarihinde Çayeli'de vefat etmiştir.",
+    "options": [
+      "1937",
+      "1938",
+      "1940",
+      "1945"
+    ],
+    "correctAnswer": "1938",
+    "tags": [
+      "Atatürk",
+      "Vefat",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4twyr5w8c",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Çok partili hayata geçiş sürecinde ilk çok partili seçimlerin yapıldığı yıl hangisidir?",
+    "explanation": "Türkiye'de 20 Nisan 1946 tarihinde yapılan seçimler, çok partili hayata geçiş sürecinin ilk adımı olarak kabul edilir.",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1948"
+    ],
+    "correctAnswer": "1946",
+    "tags": [
+      "Demokrasi",
+      "Seçim",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "akuz5bvpo",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin NATO üyeliğine girdiği yıl hangisidir?",
+    "explanation": "Türkiye, NATO'na 18 Şubat 1952 tarihinde üye olarak katılmıştır.",
+    "options": [
+      "1950",
+      "1952",
+      "1954",
+      "1956"
+    ],
+    "correctAnswer": "1952",
+    "tags": [
+      "Dış Politika",
+      "NATO",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jz6g0sg4r",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk'ün modernleşme programının başlangıcı olarak kabul edilen 'Yapayalnız Devrim' hangi olaydır?",
+    "explanation": "Hariciye ve Harbiye Teşkilatları, Osmanlı döneminin eski bürokratik yapısını temsil ederdi. Bu teşkilatların kapatılması, Atatürk'ün modern bir devlet inşasının önemli adımlarından biriydi.",
+    "options": [
+      "Köy Enstitüleri'nin kurumu",
+      "Hariciye Teşkilatı ve Harbiye Teşkilatı'nın kapatılması",
+      "İstanbul'un Fethi",
+      "Ankara'da Milli Eğitim Bakanlığı'nın kurulması"
+    ],
+    "correctAnswer": "Hariciye Teşkilatı ve Harbiye Teşkilatı'nın kapatılması",
+    "tags": [
+      "Atatürk Dönemi",
+      "Modernleşme",
+      "Türkiye Cumhuriyeti Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h8lnproz5",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İlk Türk Millî Eğitim Kanunu hangi yıl kabul edildi?",
+    "explanation": "İlk Türk Millî Eğitim Kanunu 13 Mart 1924 tarihinde kabul edildi ve bu kanun, cumhuriyetin ilk yıllarında eğitim sisteminin temelini oluşturdu.",
+    "options": [
+      "1924",
+      "1930",
+      "1928",
+      "1925"
+    ],
+    "correctAnswer": "1924",
+    "tags": [
+      "Eğitim Tarihi",
+      "Atatürk Dönemi",
+      "Türkiye Cumhuriyeti Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "796mxp7be",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk'ün 'Laiklik' ilkesini uygulama kapsamında Kuran-ı Kerim'in okutulması hangi yıl sona erdi?",
+    "explanation": "1932 yılında, Atatürk'ün laiklik ilkesini uygulamak amacıyla Kuran-ı Kerim'in okutulması resmen sona erdi ve devlet eğitimi tamamen seküler hale geldi.",
+    "options": [
+      "1932",
+      "1934",
+      "1928",
+      "1925"
+    ],
+    "correctAnswer": "1932",
+    "tags": [
+      "Laiklik",
+      "Atatürk Dönemi",
+      "Türkiye Cumhuriyeti Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "za6k79td5",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk'ün 'Millî Eğitim Bakanlığı'nın kurduğu en önemli eğitim kurumlarından biri olan 'Köy Enstitüleri' hangi yıl faaliyetlerine başladı?",
+    "explanation": "Köy Enstitüleri 1933 yılında Millî Eğitim Bakanlığı tarafından kuruldu ve köylerde eğitim seviyesini yükseltmek amacıyla açılmıştı.",
+    "options": [
+      "1933",
+      "1940",
+      "1925",
+      "1936"
+    ],
+    "correctAnswer": "1933",
+    "tags": [
+      "Eğitim Tarihi",
+      "Atatürk Dönemi",
+      "Türkiye Cumhuriyeti Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0jcy9941p",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk'ün 'Türkçülük' ilkesi kapsamında kabul edilen alfabe değişikliği hangi yıl gerçekleşti?",
+    "explanation": "Atatürk'ün Türkçülük ilkesi kapsamında 13 Ekim 1928 tarihinde Latin alfabesi kabul edildi ve bu tarih 'Alfabe Devrimi' olarak bilinir.",
+    "options": [
+      "1928",
+      "1930",
+      "1925",
+      "1924"
+    ],
+    "correctAnswer": "1928",
+    "tags": [
+      "Alfabe Devrimi",
+      "Atatürk Dönemi",
+      "Türkiye Cumhuriyeti Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xrcw1kts4",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti'nin ilk presidenti kimdir?",
+    "explanation": "Mustafa Kemal Atatürk, Türkiye Cumhuriyeti'nin ilk devlet başkanı ve presidenti olarak 1923'te bu göreve seçilmiştir.",
+    "options": [
+      "Mustafa Kemal Atatürk",
+      "İsmet İnönü",
+      "Ahmet Tekiner",
+      "Fevzi Çakmak"
+    ],
+    "correctAnswer": "Mustafa Kemal Atatürk",
+    "tags": [
+      "Cumhuriyet Tarihi",
+      "Atatürk",
+      "Presidenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o5si8la7e",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de ilk cumhurbaşkanlığı seçimleri ne zaman yapılmıştır?",
+    "explanation": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanlığı seçimleri 1923 yılında yapılmış ve Mustafa Kemal Atatürk seçilmiştir.",
+    "options": [
+      "1923",
+      "1924",
+      "1925",
+      "1926"
+    ],
+    "correctAnswer": "1923",
+    "tags": [
+      "Cumhuriyet Tarihi",
+      "Seçimler",
+      "1920'ler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b1qtetj9j",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Atatürk'ün 'Milli Eğitim Bakanı' olarak görev yaptığı dönemdeki en önemli reform nedir?",
+    "explanation": "Atatürk tarafından başlatılan alfabe devrimi ile Osmanlıca Arap alfabesi yerine Latin alfabesi kullanılmaya başlanmıştır.",
+    "options": [
+      "Alfabe Devrimi",
+      "Takvim Değişimi",
+      "Adisyon Değişimi",
+      "İsim Değişimi"
+    ],
+    "correctAnswer": "Alfabe Devrimi",
+    "tags": [
+      "Eğitim Reformları",
+      "Atatürk",
+      "Cumhuriyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vbxn6hxru",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti'nin ilk anayasası ne zaman kabul edilmiştir?",
+    "explanation": "Türkiye Cumhuriyeti'nin ilk anayasası 1924 yılında kabul edilmiştir. Bu anayasa cumhuriyet rejimini düzenlemiştir.",
+    "options": [
+      "1921",
+      "1924",
+      "1925",
+      "1928"
+    ],
+    "correctAnswer": "1924",
+    "tags": [
+      "Anayasa",
+      "Cumhuriyet Tarihi",
+      "Hukuk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3j0jbjrh",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk'ün 'Takvim Devrimi'nde hangi takvim kullanılmaya başlanmıştır?",
+    "explanation": "Takvim devrimi ile 1926'dan itibaren Gregoryen (Miladi) takvimi kullanılmaya başlanmıştır.",
+    "options": [
+      "Gregoryen",
+      "Hicri",
+      "Miladi",
+      "Rumi"
+    ],
+    "correctAnswer": "Gregoryen",
+    "tags": [
+      "Takvim Değişimi",
+      "Atatürk",
+      "Cumhuriyet Reformları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mubzicur2",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti'nin resmi olarak ilan edildiği tarihtir:",
+    "explanation": "Türkiye Cumhuriyeti, Mustafa Kemal Atatürk'ün önderliğinde 10 Ekim 1923 tarihinde resmen ilan edildi. Bu tarih, cumhuriyetin kuruluşunun sembolik başlangıcıdır.",
+    "options": [
+      "10 Ekim 1923",
+      "1 Mayıs 1923",
+      "1 Nisan 1924",
+      "29 Ekim 1928"
+    ],
+    "correctAnswer": "10 Ekim 1923",
+    "tags": [
+      "CUMHURİYET İLANI",
+      "MUSTAFA KEMAL ATATÜRK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "369ksi77w",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Cumhuriyet döneminin ilk reformlarından biri olan 'Harf Devrimi' hangi yılda gerçekleşmiştir:",
+    "explanation": "Harf Devrimi, 29 Ekim 1928 tarihinde yürürlüğe girdi. Bu reform ile Osmanlı alfabesinden Latin alfabesine geçiş yapıldı ve okuma-yazma oranı artırıldı.",
+    "options": [
+      "1925",
+      "1928",
+      "1930",
+      "1932"
+    ],
+    "correctAnswer": "1928",
+    "tags": [
+      "HARF DEVRİMİ",
+      "KÜLTÜREL REFORMLAR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k03xnejwg",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Kurtuluş Savaşı'nın sona erdiği ve Lozan Barış Antlaşması imzalandığı tarihtir:",
+    "explanation": "Lozan Barış Antlaşması, 24 Temmuz 1923 tarihinde İsviçre'nin Lozan kentinde imzalandı. Bu antlaşma ile Türkiye'nin sınırları belirlenmiş ve uluslararası tanınmışlığı sağlanmıştır.",
+    "options": [
+      "14 Kasım 1922",
+      "24 Temmuz 1923",
+      "10 Mart 1925",
+      "12 Eylül 1927"
+    ],
+    "correctAnswer": "24 Temmuz 1923",
+    "tags": [
+      "LOZAN ANTİLAŞMASI",
+      "KURTULUŞ SAVAŞI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "abde0bk21",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Türkiye Cumhuriyeti'nde 'Cumhuriyet Halk Fırkası' hangi yıl kurulmuştur:",
+    "explanation": "Cumhuriyet Halk Fırkası, 9 Ağustos 1924 tarihinde kuruldu. Bu parti, Cumhuriyet döneminin tek siyasi partisidir ve 1946 yılına kadar varlığını sürdürmüştür.",
+    "options": [
+      "1924",
+      "1927",
+      "1930",
+      "1946"
+    ],
+    "correctAnswer": "1924",
+    "tags": [
+      "POLİTİK PARTİLER",
+      "ATATÜRK DÖNEMİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eujs3p8gh",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Mustafa Kemal Atatürk'ün vefat ettiği tarihtir:",
+    "explanation": "Mustafa Kemal Atatürk, 10 Kasım 1938 tarihinde İstanbul'da vefat etmiştir. O gün 'Cumhuriyet Bayramı'nın ardından gelen tarihi bir kayıp olarak anılmaktadır.",
+    "options": [
+      "27 Nisan 1935",
+      "10 Kasım 1938",
+      "1 Mart 1940",
+      "15 Eylül 1945"
+    ],
+    "correctAnswer": "10 Kasım 1938",
+    "tags": [
+      "ATATÜRK'ÜN VEFATI",
+      "CUMHURİYET TARİHİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "msg5mjwiv",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti'nin hangi yılında resmen kuruldu?",
+    "explanation": "Türkiye Cumhuriyeti, 29 Ekim 1923 tarihinde Ankara'da yapılan törenle resmen kuruldu. Mustafa Kemal Atatürk ilk cumhurbaşkanı olarak seçildi.",
+    "options": [
+      "1922",
+      "1923",
+      "1924",
+      "1925"
+    ],
+    "correctAnswer": "1923",
+    "tags": [
+      "kuruluş",
+      "Cumhuriyet tarihi",
+      "Atatürk dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zgozn6ir9",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İstiklal Harbi sırasında hangi şehir Kuvayı Milliye'nin ana merkezlerinden biri oldu?",
+    "explanation": "Ankara, Kurtuluş Savaşı sırasında Kuvayı Milliye'nin en önemli merkezlerinden biri oldu. Mustafa Kemal'in 1920'de kurduğu TBMM Ankara'da toplanmış ve burası cumhuriyetin başkenti olarak seçilmiştir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Samsun",
+      "Adana"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "Kurtuluş Savaşı",
+      "Kuvayı Milliye",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sb0p1pyvn",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk döneminde yürütülen 'Alfabe Devrimi' hangi yıl gerçekleşti?",
+    "explanation": "Alfabe Devrimi, 1 Eylül 1928 tarihinde resmî olarak yürürlüğe kondu. Bu devrim ile Osmanlı alfabesi yerine Latin alfabesi temelli yeni Türk alfabesi kullanılmaya başlandı.",
+    "options": [
+      "1925",
+      "1928",
+      "1930",
+      "1932"
+    ],
+    "correctAnswer": "1928",
+    "tags": [
+      "Atatürk devrimleri",
+      "Alfabe Devrimi",
+      "Cumhuriyet tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r5zly16zf",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Türkiye Cumhuriyeti'nin ilk kadın bakanı kimdir?",
+    "explanation": "Türkiye Cumhuriyeti'nin ilk kadın bakanı, 1934 yılında Adalet Bakanlığı'na atanan Hayriye Hanım'dır. Bu atama, kadının siyasi hayata adım atması açısından önemli bir gelişmedir.",
+    "options": [
+      "Ahmet Cemil",
+      "Hayriye Hanım",
+      "Fevzi Çakmak",
+      "Şükrü Saraçoğlu"
+    ],
+    "correctAnswer": "Hayriye Hanım",
+    "tags": [
+      "Kadın hakları",
+      "Bakanlık tarihi",
+      "Cumhuriyet dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iqf8xn4s4",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Cumhuriyet döneminde 'Türk Halk Fuarı' ilk kez hangi yıl açıldı?",
+    "explanation": "Türk Halk Fuarı, Atatürk'ün 1937'de önerdiği ve 1940 yılında ilk kez Ankara'da açılmıştır. Bu kurum Türk halkının kültürel birlikteliğini pekiştirmeyi amaçlamıştır.",
+    "options": [
+      "1930",
+      "1940",
+      "1950",
+      "1960"
+    ],
+    "correctAnswer": "1940",
+    "tags": [
+      "Kültür devrimleri",
+      "Türk Halk Fuarı",
+      "Atatürk dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u650gi5n4",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Mustafa Kemal Atatürk'ün doğum yılı ve yeri aşağıdakilerden hangisidir?",
+    "explanation": "Mustafa Kemal Atatürk 1881 yılında Osmanlı'nın Selanik şehrinde doğmuştur. Bu tarih, Türk Cumhuriyeti'nin kurucusu olan Atatürk'ün kişisel ve tarihsel önemini taşımaktadır.",
+    "options": [
+      "1881 - Selanik",
+      "1883 - İstanbul",
+      "1879 - Manastır",
+      "1880 - Selanik"
+    ],
+    "correctAnswer": "1881 - Selanik",
+    "tags": [
+      "Cumhuriyet Tarihi",
+      "Atatürk",
+      "Doğum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wn9rf9mjb",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti hangi tarihinde ilan edilmiştir?",
+    "explanation": "Türkiye Cumhuriyeti, Mustafa Kemal Atatürk'ün önderliğinde 29 Ekim 1923 tarihinde Ankara'da resmi olarak ilan edilmiştir. Bu tarih ulusal birlik ve bağımsızlığın sembollerinden biridir.",
+    "options": [
+      "29 Ekim 1923",
+      "30 Ağustos 1922",
+      "1 Nisan 1924",
+      "16 Haziran 1928"
+    ],
+    "correctAnswer": "29 Ekim 1923",
+    "tags": [
+      "Cumhuriyet Tarihi",
+      "Devlet Kuruluşu",
+      "Anayasa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u72ddjsg2",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Cumhuriyet döneminde kadınların seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+    "explanation": "Türkiye'de kadınların milletvekili seçme ve seçilme hakkı, 1934 yılında kabul edilen kanunla tanınmıştır. Bu karar Atatürk'ün modernleşme politikalarının önemli bir parçasıdır.",
+    "options": [
+      "1930",
+      "1928",
+      "1934",
+      "1923"
+    ],
+    "correctAnswer": "1934",
+    "tags": [
+      "Kadın Hakları",
+      "Seçim Hakkı",
+      "Atatürk Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32fy2kkrt",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türk alfabesi (harf) değişikliği hangi yıl uygulanmıştır?",
+    "explanation": "Türk alfabesi, Latin harflerine geçiş 13 Ekim 1928 tarihinde yürürlüğe girmiştir. Bu reform, okuryazarlığı artırmak ve uluslararası iletişimi kolaylaştırmayı amaçlamıştır.",
+    "options": [
+      "1928",
+      "1930",
+      "1925",
+      "1934"
+    ],
+    "correctAnswer": "1928",
+    "tags": [
+      "Alfabe Reformu",
+      "Cumhuriyet",
+      "Modernleşme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmzxobaaj",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Cumhuriyet döneminin ilk anayasası hangi yıl kabul edilmiştir?",
+    "explanation": "Türkiye Cumhuriyeti'nin ilk anayasası 20 Nisan 1924 tarihinde TBMM tarafından kabul edilmiştir. Bu anayasa, cumhuriyet rejimini hukuki temellerle sağlamıştır.",
+    "options": [
+      "1924",
+      "1937",
+      "1928",
+      "1961"
+    ],
+    "correctAnswer": "1924",
+    "tags": [
+      "Anayasa",
+      "Cumhuriyet Tarihi",
+      "Hukuk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mbadjalic",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti'nin ilanı hangi tarihte gerçekleşmiştir?",
+    "explanation": "Türkiye Cumhuriyeti'nin ilanı 29 Ekim 1923 tarihinde gerçekleşmiştir. Bu tarih, Mustafa Kemal Atatürk'ün Ankara'da cumhuriyeti resmen ilan ettiği gün olarak kabul edilir.",
+    "options": [
+      "29 Ekim 1923",
+      "10 Kasım 1922",
+      "23 Nisan 1920",
+      "1 Mart 1921"
+    ],
+    "correctAnswer": "29 Ekim 1923",
+    "tags": [
+      "Cumhuriyet İlanı",
+      "Atatürk",
+      "Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ayw9gm43q",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk'ün ilk devlet başkanı olduğu ve 'Cumhuriyet Halk Fırkası'nın kurulduğu yıl hangisidir?",
+    "explanation": "Cumhuriyet Halk Fırkası 23 Ağustos 1923 tarihinde Atatürk tarafından kurulan ve ilk kez seçilen bir siyasi partidir. Bu parti, Türkiye'nin demokratikleşme sürecinde önemli rol oynamıştır.",
+    "options": [
+      "1923",
+      "1924",
+      "1925",
+      "1926"
+    ],
+    "correctAnswer": "1923",
+    "tags": [
+      "Muhalefet Partisi",
+      "Cumhuriyet Halk Fırkası",
+      "Atatürk Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yg4a58j5h",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'deki laiklik ilkesi hangi tarih ve döküman ile resmileştirilmiştir?",
+    "explanation": "Türkiye'deki laiklik ilkesi 3 Mart 1924 tarihinde kabul edilen Tevhid-i Tedrisat Kanunu ile resmileştirilmiştir. Bu kanun, eğitim ve öğretimin tamamen devlet kontrolüne verilmesini sağlamıştır.",
+    "options": [
+      "24 Temmuz 1928 - Anayasa",
+      "3 Mart 1924 - Tevhid-i Tedrisat Kanunu",
+      "1 Kasım 1928 - Alfabe Devrimi",
+      "20 Eylül 1928 - İnkılâp ve Şeriat Kanunu"
+    ],
+    "correctAnswer": "3 Mart 1924 - Tevhid-i Tedrisat Kanunu",
+    "tags": [
+      "Laiklik",
+      "Anayasa",
+      "İnkılaplar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4594p63yu",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti'nin ilk kadın milletvekili kimdir?",
+    "explanation": "Nezihe Muhiddin, Türkiye Cumhuriyeti'nin ilk kadın milletvekilidir. 1934 yılında kadınların seçme ve seçilme hakkı ile birlikte siyasi hayata giren ilk kadındır.",
+    "options": [
+      "Nezihe Muhiddin",
+      "Emine Sultan",
+      "Nermin Özdamar",
+      "Fatma Ali Kaya"
+    ],
+    "correctAnswer": "Nezihe Muhiddin",
+    "tags": [
+      "Kadın Hakları",
+      "Milletvekili",
+      "Atatürk Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "syb0tv0ma",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'deki 'Kadın Erkek Aylık Eşitliği Kanunu' hangi yıl kabul edilmiştir?",
+    "explanation": "Türkiye'de kadın ve erkek arasında maaş eşitliğinin sağlanması amacıyla 1935 yılında 'Kadın Erkek Aylık Eşitliği Kanunu' kabul edilmiştir. Bu kanun, Atatürk döneminin sosyal reformlarının önemli bir parçasıdır.",
+    "options": [
+      "1935",
+      "1940",
+      "1942",
+      "1946"
+    ],
+    "correctAnswer": "1935",
+    "tags": [
+      "Kadın Hakları",
+      "Eşitlik",
+      "Atatürk Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uffg69fu1",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti'nin kurulduğu tarih aşağıdakilerden hangisidir?",
+    "explanation": "Türkiye Cumhuriyeti, Mustafa Kemal Atatürk'ün başkanlığında 29 Ekim 1923 tarihinde resmen kurulmuştur. Bu gün her yıl 'Cumhuriyet Bayramı' olarak kutlanır.",
+    "options": [
+      "1 Kasım 1922",
+      "23 Nisan 1920",
+      "29 Ekim 1923",
+      "10 Ağustos 1922"
+    ],
+    "correctAnswer": "29 Ekim 1923",
+    "tags": [
+      "kuruluş",
+      "Atatürk",
+      "Cumhuriyet Bayramı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y2x9my3tw",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atatürk'ün hayattayken uygulanan ilk ve önemli reformlardan biri aşağıdakilerden hangisidir?",
+    "explanation": "3 Mart 1924 tarihinde Meclis tarafından kabul edilen yasa ile Halifelik resmen kaldırılmıştır. Bu, Osmanlı döneminin sona ermesi ve laik Cumhuriyet'in güçlenmesinde önemli bir adımdır.",
+    "options": [
+      "Türk Alfabesinin değiştirilmesi",
+      "Halifelik'in kaldırılması",
+      "Kadınların oy kullanmaya başlaması",
+      "İlk okulların açılması"
+    ],
+    "correctAnswer": "Halifelik'in kaldırılması",
+    "tags": [
+      "reformlar",
+      "Atatürk",
+      "Cumhuriyet dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ootcwt20a",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "EASY",
+    "question": "Türkiye'de 'İkinci Dünya Savaşı' sırasında Atatürk'ün vefat ettiği tarih aşağıdakilerden hangisidir?",
+    "explanation": "Mustafa Kemal Atatürk, 5 Ağustos 1938 tarihinde İstanbul'da vefat etmiştir. Bu tarih her yıl 'Gazi Bayramı' olarak kutlanır.",
+    "options": [
+      "10 Kasım 1923",
+      "5 Ağustos 1938",
+      "9 Eylül 1923",
+      "1 Mart 1946"
+    ],
+    "correctAnswer": "5 Ağustos 1938",
+    "tags": [
+      "Atatürk",
+      "ölüm tarihi",
+      "Cumhuriyet dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sybchso3u",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti'nin ilk kadın cumhurbaşkanı kimdir ve hangi tarihte seçilmiştir?",
+    "explanation": "Türkiye Cumhuriyeti'nde hiç kadın cumhurbaşkanı seçilmemiştir. Türk siyasi tarihin ilk cumhurbaşkanları tamamen erkeklerden oluşmaktadır.",
+    "options": [
+      "Süleyman Demirel - 1980",
+      "Turgut Özal - 1983",
+      "Seçilmemiştir",
+      "Kemal Kılıçdaroğlu - 2018"
+    ],
+    "correctAnswer": "Seçilmemiştir",
+    "tags": [
+      "cumhurbaşkanı",
+      "kader",
+      "siyaset"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fdvf81mrz",
+    "category": "TARİH",
+    "subcategory": "Türkiye Cumhuriyeti Tarihi",
+    "difficulty": "GENERAL",
+    "question": "1950 yılında Türkiye'de iktidara gelen partinin adı nedir?",
+    "explanation": "24 Nisan 1950 tarihinde yapılan genel seçimlerde Demokrat Parti iktidara gelmiş ve Türkiye'de çok partili hayata geçiş tamamlanmıştır. Bu, CHP'nin tek parti döneminin sona ermesidir.",
+    "options": [
+      "Milliyetçi Hareket Partisi",
+      "Demokrat Parti",
+      "Adalet Partisi",
+      "Cumhuriyet Halk Partisi"
+    ],
+    "correctAnswer": "Demokrat Parti",
+    "tags": [
+      "siyaset",
+      "partiler",
+      "1950 seçimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "b90v007k3",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası ilk kez hangi yıl düzenlenmiştir?",
+    "explanation": "FIFA Dünya Kupası ilk kez 1930 yılında Uruguay'da düzenlendi.",
+    "options": [
+      "1930",
+      "1926",
+      "1934",
+      "1950"
+    ],
+    "correctAnswer": "1930",
+    "tags": [
+      "Tarih",
+      "FIFA Dünya Kupası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "377fffnes",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupasında en çok şampiyonluk yapan takım hangisidir?",
+    "explanation": "Brezilya FIFA Dünya Kupasında 5 kez şampiyon oldu.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "Brezilya",
+      "İtalya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "Şampiyonluklar",
+      "FIFA Dünya Kupası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uhx971bzb",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "2018 FIFA Dünya Kupası hangi şehirde açıldı?",
+    "explanation": "2018 FIFA Dünya Kupası Rusya'da açılış maçını Moskova'daki Luzhniki Stadı'nda oynandı.",
+    "options": [
+      "Moskova",
+      "Sankt Petersburg",
+      "Kazan",
+      "Soçi"
+    ],
+    "correctAnswer": "Moskova",
+    "tags": [
+      "Konumlar",
+      "FIFA Dünya Kupası 2018"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0965ivfna",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası turnuvasında her takım kaç maç oynayabilir?",
+    "explanation": "Grup aşamasında her takım 3 maç oynayabilir, çeyrek finalde ise 4. turda 5 maç.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "Kurallar",
+      "FIFA Dünya Kupası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vq7wuxnla",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "Hangi yıl FIFA Dünya Kupası ilk kez Türkiye'de oynandı?",
+    "explanation": "FIFA Dünya Kupası henüz Türkiye'de düzenlenmedi.",
+    "options": [
+      "1954",
+      "1962",
+      "1966",
+      "Bu turnuva hiç Türkiye'de oynanmadı"
+    ],
+    "correctAnswer": "Bu turnuva hiç Türkiye'de oynanmadı",
+    "tags": [
+      "Tarih",
+      "FIFA Dünya Kupası Konumlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ocxwszfp",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası'nın ilk organizasyonu hangi yıl ve hangi ülkede gerçekleştirilmiştir?",
+    "explanation": "FIFA Dünya Kupası ilk kez 1930 yılında Uruguay'da düzenlenmiştir. Bu, 4 yıllık döngünün başlangıcıdır.",
+    "options": [
+      "1930 - Uruguay",
+      "1928 - Belçika",
+      "1934 - İtalya",
+      "1936 - Almanya"
+    ],
+    "correctAnswer": "1930 - Uruguay",
+    "tags": [
+      "Tarih",
+      "Dünya Kupası",
+      "FIFA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "99g088ryf",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası tarihinin en çok şampiyonluk kazanan takım hangisidir?",
+    "explanation": "Brezilya 5 kez (1958, 1962, 1970, 1994, 2002) Dünya Kupası şampiyonu olmuştur ve en başarılı takımdır.",
+    "options": [
+      "Brezilya",
+      "Almanya",
+      "İtalya",
+      "Arjantin"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "Şampiyonluk",
+      "Takımlar",
+      "Dünya Kupası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sol7ifxyq",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "2010 FIFA Dünya Kupası'na ev sahipliği yapan ülke hangisidir?",
+    "explanation": "2010 FIFA Dünya Kupası Güney Afrika'da düzenlenmiştir ve bu turnuva Afrika kıtasındaki ilk Dünya Kupası olmuştur.",
+    "options": [
+      "Hollanda",
+      "Güney Afrika",
+      "İspanya",
+      "Portekiz"
+    ],
+    "correctAnswer": "Güney Afrika",
+    "tags": [
+      "2010",
+      "Konuk Ülke",
+      "Dünya Kupası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4v5ay6q21",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "FIFA Dünya Kupası finalinde her iki takımın da aynı skorda bitirmesi durumu ne adlandırılır?",
+    "explanation": "FIFA Dünya Kupası finalinde uzatma maçı (prolongasyon) ile eşitlik çözülür. Gol yasağı kuralı vardır.",
+    "options": [
+      "Düzeltme",
+      "Sonuç",
+      "Prolongasyon",
+      "Güncelleme"
+    ],
+    "correctAnswer": "Prolongasyon",
+    "tags": [
+      "Kural",
+      "Final",
+      "Skor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a7ndqacdd",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "2014 FIFA Dünya Kupası'nda Almanya hangi skorla Arjantin'i mağlup ederek şampiyon oldu?",
+    "explanation": "2014 Dünya Kupası finali Berlin'de oynandı ve Almanya Müller'ın golüyle 1-0 kazandı.",
+    "options": [
+      "1-0",
+      "2-1",
+      "3-1",
+      "4-0"
+    ],
+    "correctAnswer": "1-0",
+    "tags": [
+      "2014",
+      "Final",
+      "Almanya - Arjantin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l6pavwz0b",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "FIFA Dünya Kupası ilk kez hangi yıl düzenlendi?",
+    "explanation": "FIFA Dünya Kupası ilk kez 1930 yılında Uruguay'da düzenlendi.",
+    "options": [
+      "1930",
+      "1934",
+      "1938",
+      "1950"
+    ],
+    "correctAnswer": "1930",
+    "tags": [
+      "FIFA Dünya Kupası",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0rcp8v0qt",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "En çok FIFA Dünya Kupası kazanan ülke hangisidir?",
+    "explanation": "Brezilya 5 kez FIFA Dünya Kupası kazandı ve en çok şampiyonluk yaşayan ülkedir.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "Brezilya",
+      "İtalya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "FIFA Dünya Kupası",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7thszw5hs",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "2018 FIFA Dünya Kupası hangi ülkede düzenlendi?",
+    "explanation": "2018 FIFA Dünya Kupası Rusya'da düzenlendi.",
+    "options": [
+      "Rusya",
+      "Hırvatistan",
+      "Portekiz",
+      "Kore"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "FIFA Dünya Kupası",
+      "Konuk Ülke"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sxvwyd1ua",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "FIFA Dünya Kupası maçlarında 'Altın Top' kuralı ne zaman uygulanır?",
+    "explanation": "Altın Top kuralı FIFA Dünya Kupası'nda uygulanmaz, bu kural UEFA Şampiyonlar Ligi gibi turnuvalarda geçerli değildir.",
+    "options": [
+      "Dış sahada",
+      "İlk yarıda",
+      "Kural yok",
+      "Son yarıda"
+    ],
+    "correctAnswer": "Kural yok",
+    "tags": [
+      "FIFA Dünya Kupası",
+      "Kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9dk35ur51",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "2022 FIFA Dünya Kupası hangi ülkede düzenlendi?",
+    "explanation": "2022 FIFA Dünya Kupası Katar'da düzenlendi.",
+    "options": [
+      "Katar",
+      "Suudi Arabistan",
+      "Mısır",
+      "Gine"
+    ],
+    "correctAnswer": "Katar",
+    "tags": [
+      "FIFA Dünya Kupası",
+      "Konuk Ülke"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pehihbczy",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "FIFA Dünya Kupası'nın ilk düzenlendiği yıl hangisidir?",
+    "explanation": "FIFA Dünya Kupası ilk kez 1930 yılında Uruguay'da düzenlenmiştir.",
+    "options": [
+      "1930",
+      "1926",
+      "1934",
+      "1950"
+    ],
+    "correctAnswer": "1930",
+    "tags": [
+      "tarih",
+      "genel bilgi",
+      "fifa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g1p7phso6",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "Dünya Kupası'nda bir takımın en fazla şampiyon olduğu ülke hangisidir?",
+    "explanation": "Brezilya 5 kez Dünya Kupası şampiyonu olmuştur ve en çok şampiyon olan ülkedir.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "Brezilya",
+      "İtalya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "şampiyonluklar",
+      "ülkeler",
+      "fifa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jenppj74p",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası finalinde oynanan maç süresi (ekstra dahil) kaç dakikadır?",
+    "explanation": "FIFA Dünya Kupası finalinde normal sürenin 90 dakika, ekstra süre ise her iki yarıda 15 dakikadır (toplam 120 dakika).",
+    "options": [
+      "90",
+      "120",
+      "150",
+      "180"
+    ],
+    "correctAnswer": "120",
+    "tags": [
+      "kurallar",
+      "süre",
+      "fifa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x8uja6rtt",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "Hangi yıl FIFA Dünya Kupası'nda ilk kez 'altın top' ödülü dağıtılmaya başlanmıştır?",
+    "explanation": "Altın top ödülü 1978 yılında Dünya Kupası sonunda dağıtılmaya başlanmıştır.",
+    "options": [
+      "1982",
+      "1974",
+      "1990",
+      "1978"
+    ],
+    "correctAnswer": "1978",
+    "tags": [
+      "ödülller",
+      "tarihçe",
+      "fifa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kberbc6o7",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası'nda bir takımın en fazla şampiyon olduğu ve aynı zamanda turnuvayı hiç yenilgisiz bitiren takımlar arasında hangisi yer alır?",
+    "explanation": "İspanya 2010 yılında Dünya Kupası'nı şampiyon olarak ve yenilgisiz bitiren takımlardan biridir.",
+    "options": [
+      "Arjantin 1978",
+      "Almanya 2014",
+      "Fransa 1998",
+      "İspanya 2010"
+    ],
+    "correctAnswer": "İspanya 2010",
+    "tags": [
+      "şampiyonluklar",
+      "yenilgisizlik",
+      "fifa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tvwwztsrn",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "Hangi yıl ilk FIFA Dünya Kupası turnuvası düzenlendi?",
+    "explanation": "İlk FIFA Dünya Kupası 1930 yılında Uruguay'da düzenlendi. Turnuvaya sadece 13 takım katıldı.",
+    "options": [
+      "1930",
+      "1934",
+      "1938",
+      "1950"
+    ],
+    "correctAnswer": "1930",
+    "tags": [
+      "fifa",
+      "tarix",
+      "dunya kupasi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pn9lnpb4j",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "FIFA Dünya Kupası'na kaç yılda bir katılma hakkı verilir?",
+    "explanation": "FIFA Dünya Kupası her 4 yılda bir düzenlenir ve katılımcı ülkelere bu aralıklarla hak tanınır.",
+    "options": [
+      "2 yıl",
+      "4 yıl",
+      "6 yıl",
+      "8 yıl"
+    ],
+    "correctAnswer": "4 yıl",
+    "tags": [
+      "fifa",
+      "turnuva sikli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hvd01j4dl",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Tarihte en çok FIFA Dünya Kupası kazanan takım hangisidir?",
+    "explanation": "Brezilya 5 kez (1958, 1962, 1970, 1994, 2002) FIFA Dünya Kupası kazandı ve en çok şampiyonluk yapan takımdır.",
+    "options": [
+      "Fransa",
+      "Almanya",
+      "Brezilya",
+      "İtalya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "fifa",
+      "kazanma rekoru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wp2tsn054",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "FIFA Dünya Kupası finalinde hangi yıl ilk kez VAR sistemi kullanıldı?",
+    "explanation": "VAR (Video Assistant Referee) sistemi ilk kez 2018 FIFA Dünya Kupası'nda kullanıldı ve Rus-Güney Kore maçında önemli kararlar verildi.",
+    "options": [
+      "2018",
+      "2020",
+      "2022",
+      "2016"
+    ],
+    "correctAnswer": "2018",
+    "tags": [
+      "fifa",
+      "teknoloji",
+      "var sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h9bds3xk7",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım 1994 FIFA Dünya Kupası finalini kazandı?",
+    "explanation": "1994 FIFA Dünya Kupası finalinde İtalya Brezilya'yı 0-0 berabere bıraktı ve penaltılarla kazandı.",
+    "options": [
+      "Almanya",
+      "İtalya",
+      "Fransa",
+      "Brezilya"
+    ],
+    "correctAnswer": "Almanya",
+    "tags": [
+      "genel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z4gkdqos9",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası'nda en çok gol atan futbolcu kimdir?",
+    "explanation": "Miroslav Klose (Almanya) 16 gol attı ve FIFA Dünya Kupası'nda en çok gol atan oyuncu rekoruna sahiptir.",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Miroslav Klose",
+      "Ronaldo Nazario"
+    ],
+    "correctAnswer": "Miroslav Klose",
+    "tags": [
+      "fifa",
+      "rekorlar",
+      "gol atan futbolcu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gk9e5ejmq",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "Who won the first FIFA World Cup in 1930?",
+    "explanation": "The inaugural tournament was hosted and won by Uruguay, who defeated Argentina in the final.",
+    "options": [
+      "Uruguay",
+      "Brazil",
+      "Germany",
+      "Italy"
+    ],
+    "correctAnswer": "Uruguay",
+    "tags": [
+      "History",
+      "Winners"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9l627wskw",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Which country holds the record for the most FIFA World Cup titles?",
+    "explanation": "Brazil has won five World Cups, more than any other nation.",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Argentina",
+      "France"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5sdutklog",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "In which year was the first Jules Rimet Trophy awarded to a winning team?",
+    "explanation": "The Jules Rimet Trophy was introduced for the 1930 World Cup and awarded to Uruguay as the first champions.",
+    "options": [
+      "1928",
+      "1930",
+      "1934",
+      "1938"
+    ],
+    "correctAnswer": "1930",
+    "tags": [
+      "Trophies"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "76waidsjn",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Which team won their fourth FIFA World Cup title in 2006 by defeating France in the final?",
+    "explanation": "Italy secured their fourth championship by winning the 2006 final against France after a penalty shootout.",
+    "options": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Argentina"
+    ],
+    "correctAnswer": "Italy",
+    "tags": [
+      "Finals",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uic2f4fr6",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Which country hosted the most recent FIFA World Cup before 2026?",
+    "explanation": "The 2022 tournament was held in Qatar, marking the first time the Middle East hosted.",
+    "options": [
+      "Russia",
+      "Brazil",
+      "Qatar",
+      "South Africa"
+    ],
+    "correctAnswer": "Qatar",
+    "tags": [
+      "Hosts",
+      "Recent Events"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nyyyuf0qi",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "FIFA Dünya Kupası ne sene düzenlenmeye başlanmıştır?",
+    "explanation": "FIFA Dünya Kupası 1930 yılında Uruguay'da düzenlenmeye başlanmıştır.",
+    "options": [
+      "1928",
+      "1930",
+      "1934",
+      "1950"
+    ],
+    "correctAnswer": "1930",
+    "tags": [
+      "Tarih",
+      "FIFA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3o9za1z7",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "Hangi ülke en fazla FIFA Dünya Kupası şampiyonluğuna sahiptir?",
+    "explanation": "Brezilya 5 kez FIFA Dünya Kupası şampiyonu olmuştur.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "Brezilya",
+      "İtalya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "Şampiyonlar",
+      "FIFA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5e3m5i0e2",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "2014 FIFA Dünya Kupası'nın sahibi ülke hangisidir?",
+    "explanation": "2014 FIFA Dünya Kupası Brezilya'da düzenlenmiştir.",
+    "options": [
+      "Rusya",
+      "Almanya",
+      "Brezilya",
+      "İspanya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "Turnuva",
+      "FIFA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dvupfplrt",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası tarihinin en çok gol atan oyuncusu kimdir?",
+    "explanation": "Michel Platini 15 golle FIFA Dünya Kupası tarihinin en çok gol atan oyuncusudur.",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Michel Platini",
+      "Gerd Müller"
+    ],
+    "correctAnswer": "Michel Platini",
+    "tags": [
+      "Oyuncular",
+      "FIFA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zbcwj3lqy",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "2022 FIFA Dünya Kupası hangi ülkede düzenlenmiştir?",
+    "explanation": "2022 FIFA Dünya Kupası Katar'da düzenlenmiştir.",
+    "options": [
+      "Kuzey Amerika",
+      "Avustralya",
+      "Katar",
+      "Japonya"
+    ],
+    "correctAnswer": "Katar",
+    "tags": [
+      "Turnuva",
+      "FIFA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ktssccvos",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "FIFA Dünya Kupası ilk kez hangi yılda düzenlendi?",
+    "explanation": "FIFA Dünya Kupası ilk kez 1930 yılında Uruguay'da düzenlendi. Bu, futbol tarihinin en önemli turnuvalarından biridir.",
+    "options": [
+      "1930",
+      "1934",
+      "1938",
+      "1950"
+    ],
+    "correctAnswer": "1930",
+    "tags": [
+      "fifa",
+      "dunya-kupasi",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5k7k4zvwa",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Dünya Kupası'na katılan en çok takım hangi yıl oynadı?",
+    "explanation": "1998 Dünya Kupası'nda 32 takım katıldı. Bu, FIFA'nın turnuvayı genişlettiği yıl ve en çok takımların oynadığı dönemdir.",
+    "options": [
+      "1954",
+      "1978",
+      "1998",
+      "2006"
+    ],
+    "correctAnswer": "1998",
+    "tags": [
+      "fifa",
+      "dunya-kupasi",
+      "takim-sayisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uhmawlg9f",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EASY",
+    "question": "Dünya Kupası'nda en çok şampiyon olan ülke hangisidir?",
+    "explanation": "Brezilya, 5 kez Dünya Kupası şampiyonu oldu (1958, 1962, 1970, 1994, 2002) ve en çok şampiyonluk kazanan ülkedir.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "Brezilya",
+      "İtalya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "fifa",
+      "dunya-kupasi",
+      "sampionlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tjhrrvg7a",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "Hangi ülke Dünya Kupası'nda sadece bir kez katıldı?",
+    "explanation": "İrlanda sadece 1990 Dünya Kupası'nda 32 takımların oynadığı dönemde tek kez katıldı. Bu, turnuvaya katılım açısından nadir bir durumdur.",
+    "options": [
+      "Belçika",
+      "Hollanda",
+      "Sırbistan",
+      "İrlanda"
+    ],
+    "correctAnswer": "İrlanda",
+    "tags": [
+      "fifa",
+      "dunya-kupasi",
+      "katildigi-yillar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6bitltyew",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "Dünya Kupası finallerinde en çok gol atan oyuncu kimdir?",
+    "explanation": "Ronaldo Nazario, 1998 Dünya Kupası'nda sona eren finallerde 15 gol attı ve en çok gol atan oyuncudur.",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Ronaldo Nazario",
+      "Gianluigi Buffon"
+    ],
+    "correctAnswer": "Ronaldo Nazario",
+    "tags": [
+      "fifa",
+      "dunya-kupasi",
+      "gol-atan-oyuncu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xba8j2qj0",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası ilk kez hangi yıl düzenlenmiştir?",
+    "explanation": "FIFA Dünya Kupası ilk kez 1930 yılında Uruguay'da düzenlenmiştir. Bu, turnuvanın kuruluş yıldır.",
+    "options": [
+      "1928",
+      "1930",
+      "1934",
+      "1938"
+    ],
+    "correctAnswer": "1930",
+    "tags": [
+      "Tarih",
+      "Genel Bilgi",
+      "FIFA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9hv03d3mr",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Dünya Kupası tarihinde en çok şampiyonluk kazanan takım hangisidir?",
+    "explanation": "Brezilya Dünya Kupası tarihinde 5 kez şampiyon olmuş olup, en çok şampiyonluk kazanan takımdır.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "Brezilya",
+      "İtalya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "Şampiyonluklar",
+      "Rekordlar",
+      "Takımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32r5u6z5j",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "2018 FIFA Dünya Kupası hangi ülkede yapılmıştır?",
+    "explanation": "2018 FIFA Dünya Kupası Rusya'da yapılmış olup, turnuvanın konuk ülkesidir.",
+    "options": [
+      "Fransa",
+      "Rusya",
+      "Portekiz",
+      "İngiltere"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "2018",
+      "Mevsuklar",
+      "Konuk Ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6tvmhkep4",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım 2006 FIFA Dünya Kupası şampiyonluğu kazanmıştır?",
+    "explanation": "2006 FIFA Dünya Kupası'nda İtalya, finalde Fransa'yı yenerek şampiyon olmuştur.",
+    "options": [
+      "Fransa",
+      "Almanya",
+      "İtalya",
+      "Portekiz"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "2006",
+      "Sonuçlar",
+      "Şampiyonluklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "es7rm4dxl",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "FIFA Dünya Kupası tarihinin en çok gol atan oyuncusu kimdir?",
+    "explanation": "Miroslav Klose, 16 gol ile FIFA Dünya Kupası tarihinin en çok gol atan oyuncusudur.",
+    "options": [
+      "Cristiano Ronaldo",
+      "Pelé",
+      "Miroslav Klose",
+      "Lionel Messi"
+    ],
+    "correctAnswer": "Miroslav Klose",
+    "tags": [
+      "Gol Kayıtları",
+      "Rekordlar",
+      "Oyuncular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t987nychn",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası'nın ilk düzenlendiği yıl ve ev sahibi ülke hangisidir?",
+    "explanation": "FIFA Dünya Kupası ilk kez 1930 yılında Uruguay'da düzenlendi. İtalya 1934, Fransa ise 1938'i ev sahipliği yaptı.",
+    "options": [
+      "1930 - Uruguay",
+      "1934 - İtalya",
+      "1938 - Fransa",
+      "1950 - Brezilya"
+    ],
+    "correctAnswer": "1930 - Uruguay",
+    "tags": [
+      "FIFA",
+      "Dünya Kupası",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bpyk3sm0g",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "Dünya Kupası tarihinin en çok şampiyonluğu kazanan takım hangisidir?",
+    "explanation": "Brezilya Dünya Kupası tarihinin 5 kez (1958, 1962, 1970, 1994, 2002) şampiyonu olan en başarılı takımıdır.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "İspanya",
+      "Brezilya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "FIFA",
+      "Şampiyonluk",
+      "Rekord"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uvpqw7z1m",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "GENERAL",
+    "question": "2022 FIFA Dünya Kupası'nın sona erdiği ve Brezilya'yı yenerek kazanan takım hangisidir?",
+    "explanation": "2022 FIFA Dünya Kupası Arjantin, Fransa'yı penaltılarda 4-2 yenerek tarihinin 3. dünya kupasını kazandı.",
+    "options": [
+      "Fransa",
+      "Arjantin",
+      "İspanya",
+      "Portekiz"
+    ],
+    "correctAnswer": "Arjantin",
+    "tags": [
+      "FIFA",
+      "2022",
+      "Dünya Kupası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "30hnltg76",
+    "category": "SPOR",
+    "subcategory": "FIFA Dünya Kupası",
+    "difficulty": "EXPERT",
+    "question": "FIFA Dünya Kupası'nın en çok oynanan ve gol yiyen maç sayısı hangi şampiyonda gerçekleşti?",
+    "explanation": "2006 FIFA Dünya Kupası'nda toplam 17 maç oynandı ve Brezilya ile İtalya arasında yapılan finalde gol yiyen en çok maç sayısına ulaşıldı.",
+    "options": [
+      "1950 - Brezilya",
+      "1978 - Arjantin",
+      "2006 - Almanya",
+      "2014 - Brezilya"
+    ],
+    "correctAnswer": "2006 - Almanya",
+    "tags": [
+      "FIFA",
+      "Rekordlar",
+      "İstatistik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

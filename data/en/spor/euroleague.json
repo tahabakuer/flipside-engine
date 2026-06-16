@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "hh8iytfu7",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EASY",
+    "question": "Which team won the EuroLeague championship in 2024?",
+    "explanation": "Real Madrid defeated Panathinaikos to win the 2024 EuroLeague championship, marking their first title since 1994.",
+    "options": [
+      "Real Madrid",
+      "Panathinaikos",
+      "Olympiacos",
+      "Fenerbahce"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "EuroLeague",
+      "Championship",
+      "2024"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bn85ym9wu",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the minimum number of teams that compete in the regular EuroLeague season?",
+    "explanation": "The EuroLeague currently features 18 teams in the regular season, with play-in games determining final qualification for the playoffs.",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "EuroLeague",
+      "Teams",
+      "Structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6fil7sp79",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which European country has won the most EuroLeague titles historically?",
+    "explanation": "Greece holds the record with 20 EuroLeague titles, primarily won by Panathinaikos (14) and Olympiacos (6).",
+    "options": [
+      "Spain",
+      "Greece",
+      "Italy",
+      "France"
+    ],
+    "correctAnswer": "Greece",
+    "tags": [
+      "EuroLeague",
+      "History",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6aajuegdf",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the EuroLeague playoffs format where teams are eliminated after a single loss?",
+    "explanation": "The EuroLeague playoffs use a single elimination format where teams are eliminated after losing one game in each round.",
+    "options": [
+      "Single Elimination",
+      "Double Elimination",
+      "Group Stage",
+      "Knockout Phase"
+    ],
+    "correctAnswer": "Single Elimination",
+    "tags": [
+      "EuroLeague",
+      "Playoffs",
+      "Format"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q4gygh1by",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which player holds the record for most points scored in EuroLeague history?",
+    "explanation": "Vassilis Spanoulis from Panathinaikos holds the EuroLeague scoring record with 7,132 career points across his career.",
+    "options": [
+      "Vassilis Spanoulis",
+      "Luka Doncic",
+      "Nikola Vucevic",
+      "Evan Fournier"
+    ],
+    "correctAnswer": "Vassilis Spanoulis",
+    "tags": [
+      "EuroLeague",
+      "Records",
+      "Points"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t83tljta4",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team has won the most EuroLeague championships in history?",
+    "explanation": "Real Madrid holds the record with 12 EuroLeague championships, making them the most successful club in EuroLeague history.",
+    "options": [
+      "Real Madrid",
+      "Olympiacos",
+      "Fenerbahçe",
+      "Panathinaikos"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "EuroLeague",
+      "Records",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hexto2wjn",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "What was the format of the EuroLeague final during the 2024-25 season?",
+    "explanation": "Since the 2023-24 season, the EuroLeague final is contested as a single elimination game rather than a best-of-three series.",
+    "options": [
+      "Three-game best-of series",
+      "Single elimination game",
+      "Two-game tiebreaker",
+      "Quarterfinal + Final"
+    ],
+    "correctAnswer": "Single elimination game",
+    "tags": [
+      "EuroLeague",
+      "Format",
+      "2024-25"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "axq94bzu2",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which city's team won the EuroLeague in 1985?",
+    "explanation": "Jugoplastika (now known as Partizan) from Belgrade won the EuroLeague championship in 1985.",
+    "options": [
+      "Barcelona",
+      "Milan",
+      "Belgrade",
+      "Athens"
+    ],
+    "correctAnswer": "Belgrade",
+    "tags": [
+      "EuroLeague",
+      "History",
+      "1985"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j64sc2y71",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "What is the minimum number of teams that participate in the regular EuroLeague season?",
+    "explanation": "The EuroLeague regular season consists of 16 top European basketball clubs competing for the championship.",
+    "options": [
+      "10 teams",
+      "14 teams",
+      "16 teams",
+      "20 teams"
+    ],
+    "correctAnswer": "16 teams",
+    "tags": [
+      "EuroLeague",
+      "Format",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lbosteo83",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which country has produced the most EuroLeague champions?",
+    "explanation": "Spanish teams (Real Madrid, Barcelona, Valencia, Baskonia) have won the most EuroLeague championships in history.",
+    "options": [
+      "Spain",
+      "Greece",
+      "Turkey",
+      "Serbia"
+    ],
+    "correctAnswer": "Spain",
+    "tags": [
+      "EuroLeague",
+      "Countries",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b0t25ng1q",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which country has won the most EuroLeague titles historically?",
+    "explanation": "Greek clubs have dominated EuroLeague history, with Panathinaikos (3 titles), Olympiacos (2 titles), and AEK Athens winning multiple championships between 1989-2016.",
+    "options": [
+      "Spain",
+      "Greece",
+      "France",
+      "Italy"
+    ],
+    "correctAnswer": "Greece",
+    "tags": [
+      "EuroLeague",
+      "History",
+      "Championships"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fjo7ya8x8",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EASY",
+    "question": "What is the current format of EuroLeague regular season games?",
+    "explanation": "The EuroLeague regular season uses a round-robin format where each team plays every other team twice (home and away) during the 34-game regular season.",
+    "options": [
+      "Round-robin",
+      "Playoff only",
+      "Group stage then knockout",
+      "Swiss system"
+    ],
+    "correctAnswer": "Round-robin",
+    "tags": [
+      "EuroLeague",
+      "Format",
+      "Rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3exk4yiqs",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team won the most recent EuroLeague championship as of 2024?",
+    "explanation": "Panathinaikos won their 10th EuroLeague title in 2024, defeating Real Madrid in a thrilling championship series.",
+    "options": [
+      "Real Madrid",
+      "Panathinaikos",
+      "Fenerbahce",
+      "Olympiacos"
+    ],
+    "correctAnswer": "Panathinaikos",
+    "tags": [
+      "EuroLeague",
+      "Championship",
+      "Recent"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0wdglyegm",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the duration of an overtime period in EuroLeague games?",
+    "explanation": "EuroLeague games use a 5-minute overtime period when the regular time ends tied, similar to international basketball rules.",
+    "options": [
+      "5 minutes",
+      "7 minutes",
+      "8 minutes",
+      "10 minutes"
+    ],
+    "correctAnswer": "5 minutes",
+    "tags": [
+      "EuroLeague",
+      "Rules",
+      "Overtime"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "63lsuflli",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which EuroLeague trophy is awarded to the winning coach?",
+    "explanation": "The Adidas Trophy is awarded to both the winning coach and player of the EuroLeague championship, sponsored by Adidas since 1999.",
+    "options": [
+      "EuroLeague Cup",
+      "EuroLeague Trophy",
+      "Adidas Trophy",
+      "All of the above"
+    ],
+    "correctAnswer": "Adidas Trophy",
+    "tags": [
+      "EuroLeague",
+      "Awards",
+      "Trophies"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9a8zokmcm",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team won the most EuroLeague championships in the 2010-2020 decade?",
+    "explanation": "Real Madrid won EuroLeague titles in 2015 and 2018 during the 2010-2020 decade, making them the most successful team of that period.",
+    "options": [
+      "Real Madrid",
+      "Olympiacos",
+      "CSKA Moscow",
+      "Fenerbahçe"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "EuroLeague",
+      "Championships",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dxl4c8juj",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EASY",
+    "question": "What is the official name of the European professional basketball league?",
+    "explanation": "The EuroLeague is the top-tier European club basketball competition, officially known as the Basketball Champions League prior to 2014.",
+    "options": [
+      "EuroBasket",
+      "EuroLeague",
+      "EuroCup",
+      "FIBA Champions League"
+    ],
+    "correctAnswer": "EuroLeague",
+    "tags": [
+      "EuroLeague",
+      "Official Name",
+      "Basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "an7vg0oid",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "In which city does FC Barcelona's basketball team play their home games?",
+    "explanation": "FC Barcelona's basketball team plays their home games at the Palau Blaugrana in Barcelona, Spain.",
+    "options": [
+      "Barcelona",
+      "Madrid",
+      "Valencia",
+      "Seville"
+    ],
+    "correctAnswer": "Barcelona",
+    "tags": [
+      "EuroLeague",
+      "Teams",
+      "Locations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2r1smotmz",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which country has produced the most EuroLeague champions?",
+    "explanation": "Spain has produced the most EuroLeague champions with Real Madrid and Barcelona winning multiple titles over the decades.",
+    "options": [
+      "Spain",
+      "Greece",
+      "Russia",
+      "Turkey"
+    ],
+    "correctAnswer": "Spain",
+    "tags": [
+      "EuroLeague",
+      "Champions",
+      "Countries"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xj2qk5g53",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the minimum number of teams that participate in a standard EuroLeague regular season?",
+    "explanation": "A standard EuroLeague regular season typically features 18 teams competing in a double round-robin format.",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "EuroLeague",
+      "Format",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yyudcp68b",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team has won the most EuroLeague championships in history?",
+    "explanation": "Real Madrid holds the record with 12 EuroLeague championships as of 2024, making them the most successful club in competition history.",
+    "options": [
+      "Real Madrid",
+      "Fenerbahçe",
+      "Olympiacos",
+      "Panathinaikos"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "SPOR-EuroLeague",
+      "TARIH-ŞAMPİYONLUK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zaz02kvuf",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "In which year did Panathinaikos win their first EuroLeague title?",
+    "explanation": "Panathinaikos won their first and second EuroLeague championships in 1986, establishing themselves as one of Europe's elite basketball clubs.",
+    "options": [
+      "1986",
+      "1995",
+      "2000",
+      "2009"
+    ],
+    "correctAnswer": "1986",
+    "tags": [
+      "SPOR-EuroLeague",
+      "TARIH-ŞAMPİYONLUK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5shaz4366",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which Greek club has won the most consecutive EuroLeague titles?",
+    "explanation": "Panathinaikos won back-to-back EuroLeague titles in 1986 and 1987, becoming the Greek club with the most consecutive championships.",
+    "options": [
+      "Olympiacos",
+      "Panathinaikos",
+      "AEK Athens",
+      "PAOK"
+    ],
+    "correctAnswer": "Panathinaikos",
+    "tags": [
+      "SPOR-EuroLeague",
+      "TARIH-ŞAMPİYONLUK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ifgn2c9gp",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the regular season format used in recent EuroLeague competitions?",
+    "explanation": "The EuroLeague uses a regular round-robin format where each team plays every other team multiple times before playoffs.",
+    "options": [
+      "Round Robin",
+      "Group Stage",
+      "Double Round Robin",
+      "Swiss Format"
+    ],
+    "correctAnswer": "Round Robin",
+    "tags": [
+      "SPOR-EuroLeague",
+      "YARIŞMA-SISTEMI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "poorv5c67",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which player is considered one of the greatest in EuroLeague history?",
+    "explanation": "Vlade Divac played for both Panathinaikos and Fenerbahçe, winning multiple EuroLeague titles and is recognized as one of the greatest players in competition history.",
+    "options": [
+      "Hedo Türkoglu",
+      "Vlade Divac",
+      "Dirk Nowitzki",
+      "Rajon Rondo"
+    ],
+    "correctAnswer": "Vlade Divac",
+    "tags": [
+      "SPOR-EuroLeague",
+      "OYUNCU-TARIHI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8n54ml6mi",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team won back-to-back EuroLeague championships in 2018 and 2019?",
+    "explanation": "Olympiacos defeated Real Madrid in both the 2018 and 2019 finals, becoming one of only a few teams to achieve consecutive titles.",
+    "options": [
+      "Real Madrid",
+      "Olympiacos",
+      "Panathinaikos",
+      "Fenerbahce"
+    ],
+    "correctAnswer": "Olympiacos",
+    "tags": [
+      "EuroLeague",
+      "Championships",
+      "2018-2019"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vc3hgm4ps",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the current trophy called that is awarded to the EuroLeague champion?",
+    "explanation": "The EuroLeague trophy is officially named the Betclic Trophy due to sponsorship by the French betting company Betclic.",
+    "options": [
+      "The Supercup",
+      "The European Cup",
+      "The Betclic Trophy",
+      "The Star Trophy"
+    ],
+    "correctAnswer": "The Betclic Trophy",
+    "tags": [
+      "EuroLeague",
+      "Trophy",
+      "Sponsorship"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vg60d88g0",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which country has won the most EuroLeague championships in history?",
+    "explanation": "Greek teams have won 14 EuroLeague titles, with Panathinaikos (5), Olympiacos (3), and AEK Athens (6) leading the count.",
+    "options": [
+      "Spain",
+      "Greece",
+      "Italy",
+      "Turkey"
+    ],
+    "correctAnswer": "Greece",
+    "tags": [
+      "EuroLeague",
+      "History",
+      "Statistics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nszht8ieh",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EASY",
+    "question": "What is the minimum number of points a team needs to win a EuroLeague game?",
+    "explanation": "Like all basketball games, a team needs just 1 point to win - achieved through any field goal or free throw.",
+    "options": [
+      "1 point",
+      "2 points",
+      "3 points",
+      "5 points"
+    ],
+    "correctAnswer": "1 point",
+    "tags": [
+      "EuroLeague",
+      "Rules",
+      "Basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yaz6i6u7i",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which famous EuroLeague player won the MVP award in 2014?",
+    "explanation": "Kyle Korver of the Oklahoma City Thunder won the EuroLeague MVP award in 2014 after leading his team to victory.",
+    "options": [
+      "Luol Deng",
+      "Ricky Rubio",
+      "Kyle Korver",
+      "Dragan Bender"
+    ],
+    "correctAnswer": "Kyle Korver",
+    "tags": [
+      "EuroLeague",
+      "MVP",
+      "Players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "510p5wvix",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EASY",
+    "question": "What is the EuroLeague?",
+    "explanation": "The EuroLeague is the premier European professional club basketball club competition, organized by Euroleague Basketball.",
+    "options": [
+      "A European club basketball competition",
+      "The Olympic basketball tournament",
+      "A women's basketball league in Europe",
+      "An American college basketball conference"
+    ],
+    "correctAnswer": "A European club basketball competition",
+    "tags": [
+      "SPOR-EuroLeague",
+      "Basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cvb7xhljn",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team won the most EuroLeague championships as of 2024?",
+    "explanation": "Real Madrid holds the record for most EuroLeague titles, having won 13 championships through 2024.",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "CSKA Moscow",
+      "Panathinaikos"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "SPOR-EuroLeague",
+      "Championships",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ir7przy1x",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Who was the first player to be inducted into the EuroLeague Hall of Fame?",
+    "explanation": "Vlade Divac was among the first inductees into the EuroLeague Hall of Fame, recognized for his career with the competition.",
+    "options": [
+      "Vlade Divac",
+      "Krešimir Ćosić",
+      "Rudy Fernández",
+      "Pau Gasol"
+    ],
+    "correctAnswer": "Vlade Divac",
+    "tags": [
+      "SPOR-EuroLeague",
+      "Hall of Fame",
+      "Players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7xmioqg3e",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the standard playoff format in the EuroLeague?",
+    "explanation": "The EuroLeague playoff quarterfinals, semifinals, and finals are played in best-of-three series formats.",
+    "options": [
+      "Best-of-three series",
+      "Best-of-five series",
+      "Single elimination",
+      "Round-robin only"
+    ],
+    "correctAnswer": "Best-of-three series",
+    "tags": [
+      "SPOR-EuroLeague",
+      "Playoffs",
+      "Format"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9fyfq0p07",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which country has produced the most EuroLeague champions?",
+    "explanation": "Spanish clubs have dominated the EuroLeague, with Real Madrid and Barcelona winning the most titles.",
+    "options": [
+      "Greece",
+      "Spain",
+      "France",
+      "Italy"
+    ],
+    "correctAnswer": "Spain",
+    "tags": [
+      "SPOR-EuroLeague",
+      "Countries",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5cuudqsdy",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which team won the first EuroLeague championship in 1958?",
+    "explanation": "Real Madrid won the inaugural EuroLeague title in 1958, establishing themselves as one of the greatest clubs in European basketball history.",
+    "options": [
+      "Real Madrid",
+      "Panathinaikos",
+      "CSKA Moscow",
+      "Fenerbahce"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "EuroLeague",
+      "History",
+      "Champions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fsu1qsv8e",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the current name of the EuroLeague competition?",
+    "explanation": "The official name of the top-tier European club basketball competition is EuroLeague Basketball.",
+    "options": [
+      "EuroLeague Basketball",
+      "UEFA Champions League",
+      "FIBA Europe Cup",
+      "EuroCup Basketball"
+    ],
+    "correctAnswer": "EuroLeague Basketball",
+    "tags": [
+      "EuroLeague",
+      "Current",
+      "Name"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dwcfer7va",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "How many teams typically participate in the regular season of EuroLeague?",
+    "explanation": "The EuroLeague regular season typically features 12 teams competing over approximately 34 game days.",
+    "options": [
+      "10",
+      "12",
+      "16",
+      "18"
+    ],
+    "correctAnswer": "12",
+    "tags": [
+      "EuroLeague",
+      "Format",
+      "Teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "77s8yllct",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which city is known as the 'Basketball Capital' of Spain?",
+    "explanation": "Valencia is often called the basketball capital of Spain, home to Unicaja Malaga and having produced many EuroLeague talents.",
+    "options": [
+      "Barcelona",
+      "Madrid",
+      "Valencia",
+      "Seville"
+    ],
+    "correctAnswer": "Valencia",
+    "tags": [
+      "EuroLeague",
+      "Spain",
+      "Cities"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "in5x0yc8c",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "What trophy is awarded to the EuroLeague champion?",
+    "explanation": "The official trophy awarded to the EuroLeague champion is known as the Prince Eui Trophy, designed by Italian sculptor Franco Bontempi.",
+    "options": [
+      "The Prince Eui Trophy",
+      "The EuroLeague Cup",
+      "The FIBA Trophy",
+      "The Continental Cup"
+    ],
+    "correctAnswer": "The Prince Eui Trophy",
+    "tags": [
+      "EuroLeague",
+      "Trophy",
+      "Awards"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3493rupq",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team won the EuroLeague title in the 2021-22 season?",
+    "explanation": "Anadolu Efes defeated Barcelona in the final series to claim the 2021-22 EuroLeague championship.",
+    "options": [
+      "Real Madrid",
+      "Anadolu Efes",
+      "CSKA Moscow",
+      "Olympiacos"
+    ],
+    "correctAnswer": "Anadolu Efes",
+    "tags": [
+      "Winners",
+      "Season Facts"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "trwuweqag",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Who was named the EuroLeague MVP for the 2022-23 season?",
+    "explanation": "Vasilije Micić of Anadolu Efes received the MVP honors after leading his team to a top finish in the 2022-23 season.",
+    "options": [
+      "Vasilije Micić",
+      "Nando de Colo",
+      "Shabazz Napier",
+      "Luka Dončić"
+    ],
+    "correctAnswer": "Vasilije Micić",
+    "tags": [
+      "Awards",
+      "Players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "do10tybv3",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team won the EuroLeague title in the 2022-23 season?",
+    "explanation": "Real Madrid defeated Barcelona in the final series to claim the 2022-23 EuroLeague championship.",
+    "options": [
+      "Real Madrid",
+      "Anadolu Efes",
+      "CSKA Moscow",
+      "Olympiacos"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "Winners",
+      "Season Facts"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "86owv709f",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "How many teams participate in the regular season of the EuroLeague?",
+    "explanation": "The EuroLeague regular season typically includes 18 teams competing across Europe.",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "26"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "Format",
+      "Structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kjr6oezaq",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which player won the EuroLeague MVP award for the 2020-21 season?",
+    "explanation": "Nando de Colo of Olympiacos received the MVP honors after leading his team to a championship in the 2020-21 season.",
+    "options": [
+      "Nando de Colo",
+      "Pau Gasol",
+      "Tony Parker",
+      "Luka Dončić"
+    ],
+    "correctAnswer": "Nando de Colo",
+    "tags": [
+      "Awards",
+      "Players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "an34miof4",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EASY",
+    "question": "What is the EuroLeague?",
+    "explanation": "The EuroLeague is the premier level of European professional basketball competition, featuring top clubs from across Europe.",
+    "options": [
+      "A European basketball club competition",
+      "An international soccer tournament",
+      "A professional tennis league in Europe",
+      "A regional volleyball championship"
+    ],
+    "correctAnswer": "A European basketball club competition",
+    "tags": [
+      "SPOR-EuroLeague",
+      "basketball",
+      "Europe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "56pnbl2uz",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "Which team has won the most EuroLeague championships historically?",
+    "explanation": "Real Madrid holds the record for most EuroLeague championships with 12 titles, making them one of the most successful clubs in European basketball history.",
+    "options": [
+      "Real Madrid",
+      "Panathinaikos",
+      "Olympiacos",
+      "FC Barcelona"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "SPOR-EuroLeague",
+      "basketball",
+      "teams"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "20vbsix7z",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "In which year was the modern EuroLeague competition established?",
+    "explanation": "The EuroLeague was officially established in 1958 as the FIBA European Champions Cup and later rebranded to its current name.",
+    "options": [
+      "1958",
+      "1991",
+      "2000",
+      "2007"
+    ],
+    "correctAnswer": "1958",
+    "tags": [
+      "SPOR-EuroLeague",
+      "basketball",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jmv1d6ujm",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "GENERAL",
+    "question": "What is the typical format of the EuroLeague Final Four?",
+    "explanation": "The EuroLeague Final Four is a single-elimination tournament where the top four teams compete in quarterfinals, semifinals, and finals to determine the champion.",
+    "options": [
+      "Single-elimination bracket with quarterfinals, semifinals, and finals",
+      "Round-robin tournament only",
+      "Group stage followed by knockout rounds",
+      "Best-of-seven series"
+    ],
+    "correctAnswer": "Single-elimination bracket with quarterfinals, semifinals, and finals",
+    "tags": [
+      "SPOR-EuroLeague",
+      "basketball",
+      "competition-format"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "77trc6vl9",
+    "category": "SPOR",
+    "subcategory": "EuroLeague",
+    "difficulty": "EXPERT",
+    "question": "Which player won the first individual MVP award of the EuroLeague?",
+    "explanation": "Vlade Divac won the first EuroLeague MVP award in 1996-97, playing for Alba Berlin during his career before becoming a star player.",
+    "options": [
+      "Vlade Divac",
+      "Dimitris Diamantidis",
+      "Pau Gasol",
+      "Dirk Nowitzki"
+    ],
+    "correctAnswer": "Vlade Divac",
+    "tags": [
+      "SPOR-EuroLeague",
+      "basketball",
+      "players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

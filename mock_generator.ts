@@ -1,4 +1,4 @@
-import { QuestionSchema } from './schema';
+import { QuestionSchema } from './schema.js';
 
 const mockLLMResponse = `
 {

@@ -12,6 +12,9 @@ export const QuestionSchema = z.object({
   tags: z.array(z.string()),
   questionType: z.literal('MCQ'),
   sourceType: z.literal('generated'),
+}).refine((data) => data.options.includes(data.correctAnswer), {
+  message: "Correct answer must be one of the options",
+  path: ["correctAnswer"],
 });
 
 export const BatchQuestionSchema = z.array(QuestionSchema);

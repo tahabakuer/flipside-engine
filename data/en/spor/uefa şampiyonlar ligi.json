@@ -1,0 +1,1096 @@
+[
+  {
+    "id": "49a3m6z2w",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl UEFA Şampiyonlar Ligi'ne ilk kez katılan takım oldu?",
+    "explanation": "UEFA Şampiyonlar Ligi 1956-57 sezonunda başladı ve ilk kupa Manchester United tarafından kazanıldı.",
+    "options": [
+      "1956",
+      "1960",
+      "1957",
+      "1958"
+    ],
+    "correctAnswer": "1956",
+    "tags": [
+      "tarih",
+      "başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37fl3atk5",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Kaç kez Real Madrid UEFA Şampiyonlar Ligi'ni kazandı?",
+    "explanation": "Real Madrid, UEFA Şampiyonlar Ligi tarihinin en çok şampiyonlukla 14 kez kazanan takımdır.",
+    "options": [
+      "14",
+      "13",
+      "12",
+      "15"
+    ],
+    "correctAnswer": "14",
+    "tags": [
+      "rekor",
+      "real madrid"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xmv1xlgcv",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Hangi takım 'The Invincibles' lakabıyla bilinir?",
+    "explanation": "Arsenal, 2003-04 sezonunda Premier Lig'de 1 maç kaybetsiz şampiyon oldu ve 'The Invincibles' olarak bilinir.",
+    "options": [
+      "Manchester United 2008",
+      "Arsenal 2004",
+      "Liverpool 2019",
+      "Chelsea 2017"
+    ],
+    "correctAnswer": "Arsenal 2004",
+    "tags": [
+      "takım",
+      "lakap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0v0kc3vzm",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Cristiano Ronaldo kaç kez UEFA Şampiyonlar Ligi kupa kazandı?",
+    "explanation": "Cristiano Ronaldo, Man. United (3) ve Real Madrid (2) ile toplam 5 kez Şampiyonlar Ligi kazandı.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "cr-ronaldo",
+      "rekor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d5ubyxexl",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Hangi takım UEFA Şampiyonlar Ligi'nde en çok gol attı?",
+    "explanation": "Real Madrid, UEFA Şampiyonlar Ligi tarihinde en çok gol atan takımdır (yaklaşık 106 gol).",
+    "options": [
+      "Liverpool",
+      "Bayern Munich",
+      "Barcelona",
+      "Real Madrid"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "gol",
+      "statistik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a23d9oih0",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EASY",
+    "question": "Birinci UEFA Şampiyonlar Ligi kazanan takım kimdir?",
+    "explanation": "1992-1993 sezonunda ilk UEFA Şampiyonlar Ligi'nin kazananı AC Milan oldu, finalde Feyenoord'u 1-0 mağlup etti.",
+    "options": [
+      "Manchester United",
+      "AC Milan",
+      "Real Madrid",
+      "Ajax"
+    ],
+    "correctAnswer": "AC Milan",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r613rgi8q",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Şampiyonlar Ligi'nde en fazla şampiyonluk kaçar defa kazanmıştır?",
+    "explanation": "Real Madrid, Şampiyonlar Ligi'nin 6 kez kazanan en başarılı takımdır (1956, 1957, 1958, 1959, 1960 ve 2000-2001 yıllarında şampiyonluk yapmıştır).",
+    "options": [
+      "5 kez",
+      "7 kez",
+      "6 kez",
+      "8 kez"
+    ],
+    "correctAnswer": "6 kez",
+    "tags": [
+      "UEFA",
+      "Rekorlar",
+      "Şampiyonluk Sayısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iyxfuufid",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Şampiyonlar Ligi'nde en çok gol atan futbolcu kimdir?",
+    "explanation": "Cristiano Ronaldo, UEFA Şampiyonlar Ligi tarihinde 140 gol ile en çok gol atan futbolcudur.",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Karl-Heinz Rummenigge",
+      "Gerd Müller"
+    ],
+    "correctAnswer": "Cristiano Ronaldo",
+    "tags": [
+      "UEFA",
+      "Gol Rekorları",
+      "Futbolcular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tfywwlupw",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Şampiyonlar Ligi'ne katılma hakkı hangi liglerden alınır?",
+    "explanation": "Şampiyonlar Ligi'ne katılma hakkı genellikle UEFA katsayı sistemine göre, en yüksek katsayılara sahip 8 Avrupa ligindeki takımlardan alınır.",
+    "options": [
+      "Sadece Avrupa'daki top 5 lig",
+      "Top 8 Avrupa ligi",
+      "Avrupa'daki tüm profesyonel ligler",
+      "Sadece Şampiyonlar Ligi"
+    ],
+    "correctAnswer": "Top 8 Avrupa ligi",
+    "tags": [
+      "UEFA",
+      "Katılım Koşulları",
+      "Lig Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g8koinc8y",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "2005-2006 Şampiyonlar Ligi finali hangi iki takım arasında oynandı?",
+    "explanation": "2005-2006 Şampiyonlar Ligi finali, 17 Mayıs 2006 tarihinde AC Milan ve Liverpool arasında oynandı. İlk yarı 3-3 bitti, penaltılarda Milan kazandı.",
+    "options": [
+      "Real Madrid - AC Milan",
+      "Liverpool - Barcelona",
+      "Barcelona - Arsenal",
+      "AC Milan - Liverpool"
+    ],
+    "correctAnswer": "AC Milan - Liverpool",
+    "tags": [
+      "UEFA",
+      "Final Maçları",
+      "2006"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7bsy4skir",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl ilk kez UEFA Şampiyonlar Ligi düzenlendi?",
+    "explanation": "UEFA Şampiyonlar Ligi, 1955-56 sezonunda ilk kez düzenlenmiş ve o zamandan beri en prestijli Avrupa futbol turnuvasıdır.",
+    "options": [
+      "1955",
+      "1960",
+      "1972",
+      "1980"
+    ],
+    "correctAnswer": "1955",
+    "tags": [
+      "tarih",
+      "genel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iv40k3yud",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Şampiyonlar Ligi'nde son yıllarda kaç kez aynı takım arka arkaya şampiyon oldu?",
+    "explanation": "Real Madrid, 2014-15, 2015-16, 2016-17, 2017-18 ve 2021-22 sezonlarında arka arkaya şampiyon olmakla birlikte toplamda 5 kez üst üste şampiyon oldu.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "statistik",
+      "şampiyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ar766fmjf",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Şampiyonlar Ligi'nde en çok gol atan oyuncu kimdir?",
+    "explanation": "Cristiano Ronaldo, Şampiyonlar Ligi tarihinde en çok gol atan oyuncu olup 140'tan fazla gol attı.",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Kylian Mbappé",
+      "Karim Benzema"
+    ],
+    "correctAnswer": "Cristiano Ronaldo",
+    "tags": [
+      "oyuncular",
+      "rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "th3sgwens",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "2023-24 sezonunda Şampiyonlar Ligi'ni kazanan takım kimdir?",
+    "explanation": "Real Madrid, 2023-24 sezonunda Şampiyonlar Ligi'ni kazandı ve turnuvanın en başarılı takımı oldu.",
+    "options": [
+      "Manchester City",
+      "Real Madrid",
+      "Bayern München",
+      "Arsenal"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "2023-24",
+      "şampiyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pmpm6rd62",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Şampiyonlar Ligi finalini evinde oynayan takım kaçıncı kez şampiyon oldu?",
+    "explanation": "Real Madrid, 2014, 2016, 2017 ve 2018'de finalini evinde oynayıp şampiyon oldu. Toplamda 5 kez evinde şampiyonluk yaşadı.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "final",
+      "ev sahası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bz0gxbplc",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EASY",
+    "question": "Hangi takım en çok UEFA Şampiyonlar Ligi'ni (UCL) kazanmıştır?",
+    "explanation": "Real Madrid, 14 kez UEFA Şampiyonlar Ligi'ni kazanarak bu ligde en çok şampiyon olan takımdır.",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "Bayern München",
+      "Manchester United"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Tarihi",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ijxvkua6",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "UEFA Şampiyonlar Ligi'nde oynanan ilk final hangi yıl gerçekleşmiştir?",
+    "explanation": "UEFA Şampiyonlar Ligi'nin ilk finali 1956 yılında Real Madrid ile Stade de Bruxelles arasında oynanmıştır.",
+    "options": [
+      "1956",
+      "1960",
+      "1958",
+      "1962"
+    ],
+    "correctAnswer": "1956",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Tarihi",
+      "Finaller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ra728b5wt",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Hangi futbolcu en çok UEFA Şampiyonlar Ligi golü atmıştır?",
+    "explanation": "Cristiano Ronaldo, 140 gol ile UEFA Şampiyonlar Ligi'nin en çok gol atan futbolcudur.",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Kylian Mbappé",
+      "Robert Lewandowski"
+    ],
+    "correctAnswer": "Cristiano Ronaldo",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Gol",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "alco6hbaq",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "UEFA Şampiyonlar Ligi'nde 'Champions League Golden Boot' adlı ödül neye verilir?",
+    "explanation": "Champions League Golden Boot, turnuvada en çok gol atan oyuncuya verilir ve genellikle forvet pozisyonundadır.",
+    "options": [
+      "Turnuvanın en iyi oyuncusuna",
+      "En çok gol atan forvarda",
+      "En çok asist yapan oyuncuya",
+      "Şampiyon takımın kapısına"
+    ],
+    "correctAnswer": "En çok gol atan forvarda",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Ödüller",
+      "Forvet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6bplkx8yf",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Hangi takım UEFA Şampiyonlar Ligi tarihinde en çok 'derbi' kazanmıştır?",
+    "explanation": "Real Madrid, UEFA Şampiyonlar Ligi derbi maçlarında (özellikle El Clásico ve diğer büyük takımlarla) en çok galibiyet elde eden takımdır.",
+    "options": [
+      "Real Madrid",
+      "FC Barcelona",
+      "Paris Saint-Germain",
+      "Liverpool FC"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Derbiler",
+      "Takımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y6ou0r1tj",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl ilk kez UEFA Şampiyonlar Ligi turnuvası düzenlendi?",
+    "explanation": "İlk UEFA Şampiyonlar Ligi turnuvası 1955-1956 sezonunda düzenlendi ve Real Madrid şampiyon oldu.",
+    "options": [
+      "1955",
+      "1960",
+      "1972",
+      "1982"
+    ],
+    "correctAnswer": "1955",
+    "tags": [
+      "UEFA",
+      "Tarih",
+      "Şampiyonlar Ligi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xg2pyvr9y",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "2023-2024 sezonu UEFA Şampiyonlar Ligi'ni kazanan takım kimdir?",
+    "explanation": "Real Madrid 2023-2024 sezonunda Manchester City'ye karşı şampiyonluğu kazandı.",
+    "options": [
+      "Real Madrid",
+      "Manchester City",
+      "Bayern München",
+      "Dortmund"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "2023-2024",
+      "Şampiyon",
+      "Final"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gekojj91e",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "UEFA Şampiyonlar Ligi'nin en çok kupa kazanan takımı kimdir?",
+    "explanation": "Real Madrid 15 kez UEFA Şampiyonlar Ligi/Champions League şampiyonluğu kazandı.",
+    "options": [
+      "Real Madrid",
+      "AC Milan",
+      "Liverpool",
+      "Barcelona"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "Rekor",
+      "Tarih",
+      "Kazanan Takım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h32f1attz",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Hangi takım en çok kez UEFA Şampiyonlar Ligi finali oynadı?",
+    "explanation": "Real Madrid en çok kez (15 kez) UEFA Şampiyonlar Ligi finali oynadı.",
+    "options": [
+      "Liverpool",
+      "Bayern München",
+      "AC Milan",
+      "Real Madrid"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "Rekor",
+      "Final",
+      "Maç Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sawcwnf17",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "UEFA Şampiyonlar Ligi finalinde geleneksel olarak hangi stadlarda oynanır?",
+    "explanation": "UEFA Şampiyonlar Ligi finalinde iç saha hakları her sezon farklı takımlar tarafından seçilir.",
+    "options": [
+      "Wembley ve Santiago Bernabéu",
+      "Olimpiyat Stadları",
+      "İç saha stadı (her yıl değişir)",
+      "Sadece büyük şehirler"
+    ],
+    "correctAnswer": "İç saha stadı (her yıl değişir)",
+    "tags": [
+      "Final",
+      "Stadlar",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jalhwxy26",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EASY",
+    "question": "Hangi takım en fazla kez Şampiyonlar Ligi'ni kazandı?",
+    "explanation": "Real Madrid, 2024 itibarıyla 15 kez Şampiyonlar Ligi'ni kazandı ve bu konuda lider takım.",
+    "options": [
+      "Real Madrid",
+      "FC Barcelona",
+      "Liverpool FC",
+      "AC Milan"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Takım İstatistikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qbaeyup69",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Şampiyonlar Ligi'nin ilk sezonunda (1955-56) hangi takım şampiyon oldu?",
+    "explanation": "1955-56 sezonunda Real Madrid, ilk Şampiyonlar Ligi'ni kazandı ve 5 maçlık seride üst üste galibiyet elde etti.",
+    "options": [
+      "Real Madrid",
+      "AC Milan",
+      "Inter Milan",
+      "Benfica"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fnxhdvmcj",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "UEFA Şampiyonlar Ligi Finali'nde hiç yenilmeyen takım hangisidir?",
+    "explanation": "Real Madrid, 2014-15 ve 2021-22 sezonlarında iki kez de Final'de yenilmeyerek şampiyon oldu.",
+    "options": [
+      "Bayern Munich",
+      "Manchester United",
+      "Liverpool FC",
+      "Real Madrid"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Final Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mo56vf4ea",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Şampiyonlar Ligi'nde en fazla gol atan futbolcu kimdir?",
+    "explanation": "Cristiano Ronaldo, 140 golle Şampiyonlar Ligi tarihinin en gol kralıdır.",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Robert Lewandowski",
+      "Karim Benzema"
+    ],
+    "correctAnswer": "Cristiano Ronaldo",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Gol İstatistikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lh3xxzgnk",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Hangi yıl Şampiyonlar Ligi formatı 'Lig Fasesi'ne geçildi?",
+    "explanation": "2023-24 sezonunda başlayan, 2024'te tam olarak uygulanan yeni lig faze formatı ile Şampiyonlar Ligi yeniden yapılandırıldı.",
+    "options": [
+      "2018",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "correctAnswer": "2024",
+    "tags": [
+      "UEFA",
+      "Şampiyonlar Ligi",
+      "Format Değişikliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xprnuecqd",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EASY",
+    "question": "Who was the first club to win the UEFA Champions League?",
+    "explanation": "Real Madrid won the first European Cup (now Champions League) in 1956 and has been the most successful club with 15 titles.",
+    "options": [
+      "Real Madrid",
+      "AC Milan",
+      "Ajax",
+      "Manchester United"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "SPOR-UEFA Şampiyonlar Ligi",
+      "Tarihçe",
+      "Kulüp"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "17q71v65d",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Which club holds the record for most UEFA Champions League titles?",
+    "explanation": "Real Madrid has won 15 UEFA Champions League titles, the most of any club in the competition's history.",
+    "options": [
+      "Bayern Munich",
+      "Liverpool",
+      "AC Milan",
+      "Real Madrid"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "SPOR-UEFA Şampiyonlar Ligi",
+      "Rekor",
+      "Kulüp"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "guqytcssx",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "In which year did the UEFA Champions League switch from European Cup to its current format?",
+    "explanation": "The competition was rebranded from European Cup to UEFA Champions League in 1992, but the current format with group stages began in 2009/10 season.",
+    "options": [
+      "2005",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "correctAnswer": "2009",
+    "tags": [
+      "SPOR-UEFA Şampiyonlar Ligi",
+      "Format",
+      "Değişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tux3dgdqy",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Who is known as 'La Décima' referring to Real Madrid's 10th Champions League title?",
+    "explanation": "Zinedine Zidane captained Real Madrid to their 10th Champions League title in 2002 and scored the winning goal against Bayer Leverkusen.",
+    "options": [
+      "Raúl González",
+      "Zinedine Zidane",
+      "Ronaldo Nazário",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": "Zinedine Zidane",
+    "tags": [
+      "SPOR-UEFA Şampiyonlar Ligi",
+      "Real Madrid",
+      "İstikamet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "slejshecg",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "Which stadium hosted the first UEFA Champions League final?",
+    "explanation": "The first European Cup final in 1956 was held at Parc des Princes in Paris, where Real Madrid defeated Stade de Reims 4-3.",
+    "options": [
+      "Santiago Bernabéu",
+      "Camp Nou",
+      "Parc des Princes",
+      "Old Trafford"
+    ],
+    "correctAnswer": "Parc des Princes",
+    "tags": [
+      "SPOR-UEFA Şampiyonlar Ligi",
+      "Stadyum",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "swfik0t0r",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EASY",
+    "question": "Hangi takım UEFA Şampiyonlar Ligi tarihinde en fazla kez şampiyon olmuştur?",
+    "explanation": "Real Madrid, UEFA Şampiyonlar Ligi (şimdi Şampiyonlar Ligi) tarihinde en çok şampiyon olan takım. 14 kez şampiyon olan Real Madrid, bu başarı ile diğer takımlardan önde.",
+    "options": [
+      "Real Madrid",
+      "FC Barcelona",
+      "AC Milan",
+      "Liverpool FC"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "UEFA Şampiyonlar Ligi",
+      "Şampiyonluk Tarihi",
+      "Takımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x3k5oqzs7",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "UEFA Şampiyonlar Ligi ilk kez hangi yılda düzenlenmiştir?",
+    "explanation": "UEFA Şampiyonlar Ligi, 1955-56 sezonunda 'European Champion Clubs' Cup olarak ilk kez düzenlenmiştir. İlk şampiyon Real Madrid olmuştur.",
+    "options": [
+      "1955",
+      "1960",
+      "1972",
+      "1992"
+    ],
+    "correctAnswer": "1955",
+    "tags": [
+      "UEFA Şampiyonlar Ligi",
+      "Tarih",
+      "Kura"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0s4ixty1p",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "2013 yılında UEFA Şampiyonlar Ligi'nin sonunu hangi maçta belirlemiştir?",
+    "explanation": "2013 UEFA Şampiyonlar Ligi finali 19 Mayıs 2013 tarihinde oynanmıştır. Real Madrid, ilk yarıda 2-0 önde iken Bayern München'in ikinci golüyle eşitlik yapmasına rağmen maçın sonunda şampiyon olmuştur.",
+    "options": [
+      "Real Madrid - Bayern München",
+      "Bayer Leverkusen - Real Madrid",
+      "Bayern München - Borussia Dortmund",
+      "Manchester United - Chelsea"
+    ],
+    "correctAnswer": "Real Madrid - Bayern München",
+    "tags": [
+      "UEFA Şampiyonlar Ligi",
+      "Final Maçları",
+      "2013 Finali"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jdtl3u0jz",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "UEFA Şampiyonlar Ligi'nde 'Leicester City' en son hangi sezonda katılmıştır?",
+    "explanation": "Leicester City, 2018-19 sezonunda Premier League şampiyonu olarak UEFA Şampiyonlar Ligi'ne katılmıştır. Bu, takımın son katılımıdır.",
+    "options": [
+      "1960-61",
+      "2018-19",
+      "1956-57",
+      "1999-00"
+    ],
+    "correctAnswer": "2018-19",
+    "tags": [
+      "UEFA Şampiyonlar Ligi",
+      "Katılım Geçmişi",
+      "Leicester City"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y8pj6oc9m",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EXPERT",
+    "question": "UEFA Şampiyonlar Ligi finalinde 'penaltilerle kararlaşan maç' en son hangi yıl oynandı?",
+    "explanation": "2019 UEFA Şampiyonlar Ligi finali, 2019 yılında oynandı. Manchester City ve Tottenham maç penaltı atışlarıyla kararlaştırdı. Bu, sonuncu penaltılı final maçıdır.",
+    "options": [
+      "2017",
+      "2019",
+      "2023",
+      "2021"
+    ],
+    "correctAnswer": "2019",
+    "tags": [
+      "UEFA Şampiyonlar Ligi",
+      "Final Maçları",
+      "Penaltılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gv7363cxz",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl ilk kez UEFA Şampiyonlar Ligi düzenlendi?",
+    "explanation": "UEFA Şampiyonlar Ligi 1955 yılında kurulmuş ve ilk sezon 1956-1957'de düzenlenmiştir.",
+    "options": [
+      "1955",
+      "1960",
+      "1970",
+      "1980"
+    ],
+    "correctAnswer": "1955",
+    "tags": [
+      "Tarih",
+      "UEFA",
+      "Kupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jhrioixqd",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "2018-2019 UEFA Şampiyonlar Ligi'ni kazanan takım hangisidir?",
+    "explanation": "2018-2019 sezonunda Liverpool, Real Madrid'e karşı son dakikada gol atarak şampiyon oldu.",
+    "options": [
+      "Barcelona",
+      "Liverpool",
+      "Real Madrid",
+      "Manchester City"
+    ],
+    "correctAnswer": "Liverpool",
+    "tags": [
+      "Sonuç",
+      "Tarih",
+      "Takım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7wsc19v2p",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "UEFA Şampiyonlar Ligi'nde en çok kez şampiyon olan takım hangisidir?",
+    "explanation": "Real Madrid, UEFA Şampiyonlar Ligi'nde en çok kez şampiyon olan takım olup 14 kez kupayı kazandı.",
+    "options": [
+      "Real Madrid",
+      "Barcelona",
+      "Bayern Münih",
+      "AC Milan"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "İstatistik",
+      "Rekor",
+      "Takım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b7w1di6h4",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EASY",
+    "question": "UEFA Şampiyonlar Ligi grup aşamasında kaç takım var?",
+    "explanation": "Grup aşamasında 16 takım, 4 grup halinde eşleşir ve her grubun ilk ikisi yarı finale çıkar.",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "correctAnswer": "16",
+    "tags": [
+      "Format",
+      "Grup",
+      "Turnuva"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f8rl636fu",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "2023-2024 UEFA Şampiyonlar Ligi finalinde Real Madrid kimden kazandı?",
+    "explanation": "2023-2024 sezonunda Real Madrid, Borussia Dortmund'u 2-1 yenerken şampiyon oldu.",
+    "options": [
+      "Borussia Dortmund",
+      "Bayern Münih",
+      "Manchester City",
+      "PSG"
+    ],
+    "correctAnswer": "Borussia Dortmund",
+    "tags": [
+      "Final",
+      "Sonuç",
+      "Takım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0b8x057st",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EASY",
+    "question": "Hangi takım Şampiyonlar Ligi'nin en çok kazanan takımıdır?",
+    "explanation": "Real Madrid, Şampiyonlar Ligi'nde 15 kez şampiyonluk kazanarak en çok şampiyonluk yapan takımdır.",
+    "options": [
+      "Real Madrid",
+      "FC Barcelona",
+      "AC Milan",
+      "Manchester United"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "Şampiyonlar Ligi",
+      "Tarihçe",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5dy7v5whr",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "1992-93 sezonundan itibaren Şampiyonlar Ligi nasıl adlandırılmaya başlandı?",
+    "explanation": "1992-93 sezonundan itibaren turnuva resmi adını 'UEFA Şampiyonlar Ligi' veya 'Champions League' olarak aldı.",
+    "options": [
+      "Champions League",
+      "UEFA Cup",
+      "Europa League",
+      "Cup Winners' Cup"
+    ],
+    "correctAnswer": "Champions League",
+    "tags": [
+      "Şampiyonlar Ligi",
+      "Tarihçe",
+      "İsim Değişimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kx3sdfux3",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım 2010 yılında Şampiyonlar Ligi'ni kazandı?",
+    "explanation": "Inter Milan, 2010 yılında İtalyan yönetimi altında düzenlenen finalde Barcelona'ya karşı kazandı.",
+    "options": [
+      "Inter Milan",
+      "Barcelona",
+      "Bayern Munich",
+      "Chelsea"
+    ],
+    "correctAnswer": "Inter Milan",
+    "tags": [
+      "Şampiyonlar Ligi",
+      "Final",
+      "Takımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4a0auq4lw",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "EASY",
+    "question": "Şampiyonlar Ligi finali kaç takım arasında oynanır?",
+    "explanation": "Şampiyonlar Ligi finali her zaman 2 takımlar arasında oynanır ve tek maç şeklinde gerçekleşir.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "Şampiyonlar Ligi",
+      "Format",
+      "Final"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsa5rn8ks",
+    "category": "SPOR",
+    "subcategory": "UEFA Şampiyonlar Ligi",
+    "difficulty": "GENERAL",
+    "question": "Hangi takım Şampiyonlar Ligi'nde en çok final oynamıştır?",
+    "explanation": "Real Madrid, Şampiyonlar Ligi'nde 17 kez final oynamış olup en fazla final deneyimleyen takımdır.",
+    "options": [
+      "Real Madrid",
+      "AC Milan",
+      "Liverpool",
+      "Bayern Munich"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "Şampiyonlar Ligi",
+      "Rekorlar",
+      "Final"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

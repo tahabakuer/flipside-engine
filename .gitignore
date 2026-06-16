@@ -19,3 +19,8 @@ Thumbs.dbnode_modules/
 dist/
 data/*.json
 !data/index.json
+
+echo "node_modules/" >> .gitignore
+echo "data/" >> .gitignore
+echo "*.tmp" >> .gitignore
+echo "dist/" >> .gitignore

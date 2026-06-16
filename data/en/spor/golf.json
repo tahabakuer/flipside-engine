@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "dhr4wpvfq",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the standard number of holes on a regulation golf course?",
+    "explanation": "A standard golf course has 18 holes, with players typically playing through all of them in counter-clockwise order.",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "27"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "basic-rules",
+      "course-structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9w7x6xexh",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which term describes a hole-in-one on the first shot from the tee?",
+    "explanation": "An 'ace' or 'birdie' is commonly used to describe a hole-in-one, though 'hole-in-one' itself is the most accurate term.",
+    "options": [
+      "Bogey",
+      "Eagle",
+      "Albatross",
+      "Ace"
+    ],
+    "correctAnswer": "Ace",
+    "tags": [
+      "scoring-terms",
+      "basic-rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2kjuw7fkk",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What part of the golf club is used primarily to hit balls from the tee?",
+    "explanation": "The driver is the longest club, designed for maximum distance off the tee on each hole.",
+    "options": [
+      "Wedge",
+      "Putter",
+      "Driver",
+      "Iron"
+    ],
+    "correctAnswer": "Driver",
+    "tags": [
+      "equipment",
+      "clubs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ncel8egek",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "In golf terminology, what does a score of 'par' mean?",
+    "explanation": "Par represents the predetermined number of strokes a skilled golfer is expected to take to complete each hole.",
+    "options": [
+      "Below expected standard",
+      "Above expected standard",
+      "Expected or intended number of strokes",
+      "Any score"
+    ],
+    "correctAnswer": "Expected or intended number of strokes",
+    "tags": [
+      "scoring-terms",
+      "basic-rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5lngobcdv",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EXPERT",
+    "question": "Which famous tournament is played at Royal St. George's Golf Club in Sandwich, England?",
+    "explanation": "Royal St. George's has hosted The Open Championship multiple times since 1913, making it a historic venue in golf.",
+    "options": [
+      "The Masters",
+      "The Open Championship",
+      "PGA Championship",
+      "U.S. Open"
+    ],
+    "correctAnswer": "The Open Championship",
+    "tags": [
+      "tournaments",
+      "famous-venues"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4sevlg89v",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the term for the distance between the player's ball and the hole in a round of golf?",
+    "explanation": "A stroke is counted each time a player hits the ball toward the hole. The total number of strokes determines the player's score.",
+    "options": [
+      "Par",
+      "Stoke",
+      "Stroke",
+      "Glove"
+    ],
+    "correctAnswer": "Stroke",
+    "tags": [
+      "SPOR-Golf",
+      "Basic Terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ag8eovijl",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is 'Par' in golf?",
+    "explanation": "Par is the predetermined number of strokes that an expert golfer should need to complete a particular hole or the entire course.",
+    "options": [
+      "The standard number of strokes expected to complete a hole",
+      "The type of golf glove worn",
+      "The distance between two holes",
+      "The name of a famous golfer"
+    ],
+    "correctAnswer": "The standard number of strokes expected to complete a hole",
+    "tags": [
+      "SPOR-Golf",
+      "Basic Terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ws575gfv7",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "What does 'Birdie' mean in golf?",
+    "explanation": "A Birdie is scored when a player completes a hole in one stroke fewer than the par value for that hole.",
+    "options": [
+      "One stroke under par on a hole",
+      "One stroke over par on a hole",
+      "Two strokes under par on a hole",
+      "The name of a golf ball brand"
+    ],
+    "correctAnswer": "One stroke under par on a hole",
+    "tags": [
+      "SPOR-Golf",
+      "Scoring Terms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0mxi1s0dp",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "What is 'Eagle' in golf terminology?",
+    "explanation": "An Eagle is scored when a player completes a hole in two strokes fewer than the par value for that hole.",
+    "options": [
+      "Two strokes under par on a hole",
+      "Three strokes under par on a hole",
+      "One stroke over par on a hole",
+      "The name of a famous golf course"
+    ],
+    "correctAnswer": "Two strokes under par on a hole",
+    "tags": [
+      "SPOR-Golf",
+      "Scoring Terms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ztssyajq8",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "What is 'Bogey' in golf scoring?",
+    "explanation": "A Bogey is scored when a player completes a hole in one stroke more than the par value for that hole.",
+    "options": [
+      "One stroke over par on a hole",
+      "Two strokes under par on a hole",
+      "The name of a type of golf club",
+      "A penalty stroke"
+    ],
+    "correctAnswer": "One stroke over par on a hole",
+    "tags": [
+      "SPOR-Golf",
+      "Scoring Terms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rjo5r1hgy",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the standard number of holes on a regulation golf course?",
+    "explanation": "A standard regulation golf course has 18 holes, which is the international standard for competitive play.",
+    "options": [
+      "12",
+      "14",
+      "18",
+      "20"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "Golf Basics",
+      "Course Rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "284pqnehd",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which club is typically used to hit a ball from the rough?",
+    "explanation": "A 7-Iron is a mid-iron club commonly used for approach shots from the rough or fairway.",
+    "options": [
+      "Driver",
+      "7-Iron",
+      "Putter",
+      "Sand Wedge"
+    ],
+    "correctAnswer": "7-Iron",
+    "tags": [
+      "Equipment",
+      "Shot Selection"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tasm1n82y",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What does 'birdie' mean in golf scoring?",
+    "explanation": "A birdie is achieved when a player completes a hole in one stroke fewer than the hole's par.",
+    "options": [
+      "One stroke under par",
+      "Two strokes under par",
+      "One stroke over par",
+      "Three strokes under par"
+    ],
+    "correctAnswer": "One stroke under par",
+    "tags": [
+      "Scoring",
+      "Terms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mn8zrtdoi",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which tournament is considered the oldest major championship in golf?",
+    "explanation": "The Open Championship, first played in 1860, is the oldest of golf's four major championships.",
+    "options": [
+      "The Open Championship",
+      "Masters Tournament",
+      "PGA Championship",
+      "U.S. Open"
+    ],
+    "correctAnswer": "The Open Championship",
+    "tags": [
+      "History",
+      "Major Championships"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4r14v4joq",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EXPERT",
+    "question": "What is the maximum theoretical speed limit for a driver club on tour?",
+    "explanation": "Driver clubs used in professional golf tournaments are limited to 108 mph maximum ball speed per current equipment rules.",
+    "options": [
+      "95 mph",
+      "102 mph",
+      "108 mph",
+      "115 mph"
+    ],
+    "correctAnswer": "108 mph",
+    "tags": [
+      "Equipment Regulations",
+      "Technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jexz9zmpj",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the standard number of holes on a regulation golf course?",
+    "explanation": "A regulation golf course consists of 18 holes, which players typically complete in counter-clockwise order.",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "24"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "golf-basics",
+      "course-setup"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dibbirz0j",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which club is used to hit the ball on the ground for maximum distance?",
+    "explanation": "The driver has the longest shaft and largest head, making it ideal for tee shots and maximum distance off the ground.",
+    "options": [
+      "Driver",
+      "Iron",
+      "Wedge",
+      "Putter"
+    ],
+    "correctAnswer": "Driver",
+    "tags": [
+      "clubs",
+      "long-game"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6nkyrb0mm",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is a 'birdie' in golf scoring?",
+    "explanation": "A birdie is achieved when a player completes a hole in one stroke fewer than the designated par for that hole.",
+    "options": [
+      "1 under par",
+      "2 under par",
+      "3 under par",
+      "1 over par"
+    ],
+    "correctAnswer": "1 under par",
+    "tags": [
+      "scoring",
+      "terms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bics3jfz2",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which golf term describes hitting the ball twice from the same spot during play?",
+    "explanation": "Hitting the ball twice from the same spot is called a 'double' and results in a penalty stroke under golf rules.",
+    "options": [
+      "Double bogey",
+      "Bunkers",
+      "Penalty",
+      "Drop"
+    ],
+    "correctAnswer": "Penalty",
+    "tags": [
+      "rules",
+      "penalties"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lvwyhwrgd",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What does 'par' refer to in golf?",
+    "explanation": "Par represents the standard or expected number of strokes an expert golfer should need to complete a specific hole.",
+    "options": [
+      "The best possible score",
+      "The average number of strokes for a hole",
+      "A type of club",
+      "A specific course layout"
+    ],
+    "correctAnswer": "The average number of strokes for a hole",
+    "tags": [
+      "scoring",
+      "fundamentals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ue9g6uc8",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the standard number of holes in a complete round of professional golf?",
+    "explanation": "A standard round of golf consists of 18 holes, which is the traditional and professional format used in tournaments.",
+    "options": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "golf",
+      "rules",
+      "basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pfdk0mzgc",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which famous golfer won 14 major championships during his career?",
+    "explanation": "Jack Nicklaus holds the record for most major championships with 18, not 14. Tiger Woods has won 15 majors including 14 of a different count.",
+    "options": [
+      "Tiger Woods",
+      "Jack Nicklaus",
+      "Arnold Palmer",
+      "Gary Player"
+    ],
+    "correctAnswer": "Jack Nicklaus",
+    "tags": [
+      "golf",
+      "major champions",
+      "records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wiaoigfvg",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "In golf terminology, what does 'birdie' mean?",
+    "explanation": "A birdie is when a player completes a hole in one stroke fewer than the hole's par rating.",
+    "options": [
+      "One stroke under par",
+      "One stroke over par",
+      "Two strokes under par",
+      "Three strokes under par"
+    ],
+    "correctAnswer": "One stroke under par",
+    "tags": [
+      "golf",
+      "scoring",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kav72xbyg",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which golf tournament is known as 'The Showdown' and held on the PGA Tour?",
+    "explanation": "The WGC-Match Play tournament, formerly known as the WGC-Dell Technologies Match Play, features individual match play format.",
+    "options": [
+      "Masters Tournament",
+      "U.S. Open",
+      "PGA Championship",
+      "WGC-Dell Technologies Match Play"
+    ],
+    "correctAnswer": "WGC-Dell Technologies Match Play",
+    "tags": [
+      "golf",
+      "tournaments",
+      "PGA Tour"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ui5wnpgd",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EXPERT",
+    "question": "What is the term for a hole where all players score exactly par?",
+    "explanation": "An 'even' or 'bogey-free' round means a player scores exactly par on all 18 holes without going over or under.",
+    "options": [
+      "Soggy",
+      "Even",
+      "Level",
+      "Neutral"
+    ],
+    "correctAnswer": "Even",
+    "tags": [
+      "golf",
+      "scoring",
+      "advanced terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "221ptu6nd",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the maximum number of strokes allowed in a round of 18 holes during regular play?",
+    "explanation": "A standard round of golf consists of 18 holes, with each hole typically taking 4 strokes (putting), totaling 72 strokes for a perfect par-72 course.",
+    "options": [
+      "36",
+      "72",
+      "90",
+      "54"
+    ],
+    "correctAnswer": "72",
+    "tags": [
+      "SPOR-Golf",
+      "Rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2si1vzyuk",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which famous golfer won the most major championships in men's professional golf history?",
+    "explanation": "Jack Nicklaus holds the record with 18 major championship victories, more than any other golfer in men's professional golf history.",
+    "options": [
+      "Tiger Woods",
+      "Jack Nicklaus",
+      "Ben Hogan",
+      "Arnold Palmer"
+    ],
+    "correctAnswer": "Jack Nicklaus",
+    "tags": [
+      "SPOR-Golf",
+      "Players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wrqn90v8n",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the term for a hole where the total par is 5 strokes?",
+    "explanation": "A Par-5 hole is designed to require 5 strokes (one for each player) to complete, making it the longest type of hole on a standard golf course.",
+    "options": [
+      "Par-3",
+      "Par-4",
+      "Par-5",
+      "Eagle-hole"
+    ],
+    "correctAnswer": "Par-5",
+    "tags": [
+      "SPOR-Golf",
+      "Terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pz6h8bcxw",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "Which golf club is traditionally used for long-distance shots from the tee?",
+    "explanation": "The driver (1-wood) is designed with a large head and low loft to maximize distance, making it ideal for tee shots on fairways.",
+    "options": [
+      "Wedge",
+      "Irons",
+      "Driver",
+      "Putter"
+    ],
+    "correctAnswer": "Driver",
+    "tags": [
+      "SPOR-Golf",
+      "Equipment"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uii20nkkz",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "What does 'Birdie' mean in golf scoring?",
+    "explanation": "A birdie means completing a hole in one stroke fewer than the designated par score, which is considered an excellent shot.",
+    "options": [
+      "One stroke over par",
+      "Three strokes under par",
+      "One stroke under par",
+      "Two strokes under par"
+    ],
+    "correctAnswer": "One stroke under par",
+    "tags": [
+      "SPOR-Golf",
+      "Terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pe4ic8azl",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "In golf, what does a 'par 3' course mean?",
+    "explanation": "A par 3 refers to a hole that is designed to be completed in approximately 3 strokes for an expert player, typically indicating it is a shorter distance.",
+    "options": [
+      "A hole with 3 strokes to complete",
+      "A course designed for 3 players",
+      "A short hole requiring typically 3 strokes",
+      "A high difficulty level course"
+    ],
+    "correctAnswer": "A short hole requiring typically 3 strokes",
+    "tags": [
+      "golf-rules",
+      "basic-terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r747jn9zd",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which major golf tournament is held annually at St Andrews?",
+    "explanation": "St Andrews, Scotland is home to The Old Course and hosts The Open Championship, one of golf's four major tournaments.",
+    "options": [
+      "The Open Championship",
+      "The Masters",
+      "PGA Championship",
+      "U.S. Open"
+    ],
+    "correctAnswer": "The Open Championship",
+    "tags": [
+      "golf-tournaments",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2qfdjxral",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the total number of strokes a golfer needs for a 'birdie'?",
+    "explanation": "A birdie is scored when a player completes a hole in one stroke fewer than the designated par for that hole.",
+    "options": [
+      "One stroke under par",
+      "Two strokes under par",
+      "Three strokes under par",
+      "Four strokes under par"
+    ],
+    "correctAnswer": "One stroke under par",
+    "tags": [
+      "golf-rules",
+      "scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6u35ourbi",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which famous golfer won 18 major championships?",
+    "explanation": "Jack Nicklaus holds the record with 18 major championship wins, making him one of golf's greatest players.",
+    "options": [
+      "Jack Nicklaus",
+      "Tiger Woods",
+      "Arnold Palmer",
+      "Ben Hogan"
+    ],
+    "correctAnswer": "Jack Nicklaus",
+    "tags": [
+      "golf-history",
+      "famous-players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "llju43uln",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EXPERT",
+    "question": "In match play, if a golfer wins a hole by two strokes over par, what is this called?",
+    "explanation": "Match play and stroke play have different scoring terms. In match play, you win by holes won, not strokes relative to par. Albatross/Eagle refer to specific hole scores in stroke play.",
+    "options": [
+      "Albatross",
+      "Eagle",
+      "Double Eagle",
+      "None of the above"
+    ],
+    "correctAnswer": "None of the above",
+    "tags": [
+      "golf-rules",
+      "scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tx45vt5hp",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What does 'SPOR' typically stand for in the context of sports organizations?",
+    "explanation": "In sports contexts, 'SPOR' commonly refers to a Sports & Performance Organization that manages athletic programs and competitions.",
+    "options": [
+      "Sport & Performance Organization",
+      "Standard Professional Operations Rules",
+      "Strategic Player Operations Review",
+      "Sports Program Operational Registration"
+    ],
+    "correctAnswer": "Sport & Performance Organization",
+    "tags": [
+      "golf",
+      "sports-terminology",
+      "SPOR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "paa2s5jct",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which element is essential for professional golf performance under SPOR guidelines?",
+    "explanation": "SPOR guidelines emphasize physical fitness training as a core component for maintaining professional golf performance and longevity in the sport.",
+    "options": [
+      "Equipment certification",
+      "Physical fitness training",
+      "Tournament scheduling",
+      "Course management"
+    ],
+    "correctAnswer": "Physical fitness training",
+    "tags": [
+      "golf",
+      "performance",
+      "SPOR-guidelines"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "knotnwvyv",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "What is a key focus area for SPOR-Golf regarding athlete development?",
+    "explanation": "SPOR-Golf prioritizes technical skill refinement through structured practice programs and coaching methodologies for athlete development.",
+    "options": [
+      "Mental conditioning",
+      "Technical skill refinement",
+      "Social media engagement",
+      "Sponsorship acquisition"
+    ],
+    "correctAnswer": "Technical skill refinement",
+    "tags": [
+      "golf",
+      "athlete-development",
+      "SPOR-Golf"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zbic66iuk",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "In SPOR-Golf competitions, what determines tournament eligibility?",
+    "explanation": "Tournament eligibility in SPOR-Golf competitions is primarily determined through skill assessments to ensure competitive fairness and athlete capability.",
+    "options": [
+      "Age requirement",
+      "Skill assessment",
+      "Physical condition",
+      "Previous experience"
+    ],
+    "correctAnswer": "Skill assessment",
+    "tags": [
+      "golf",
+      "competitions",
+      "SPOR-Golf-eligibility"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h3kxtqfp0",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EXPERT",
+    "question": "What advanced metric does SPOR-Golf track for elite player performance analysis?",
+    "explanation": "SPOR-Golf tracks swing consistency index as an advanced metric for elite player performance analysis, measuring the repeatability of golf swing mechanics under various conditions.",
+    "options": [
+      "Swing consistency index",
+      "Shot dispersion patterns",
+      "Heart rate variability",
+      "Reaction time measurement"
+    ],
+    "correctAnswer": "Swing consistency index",
+    "tags": [
+      "golf",
+      "performance-analysis",
+      "SPOR-Golf-metrics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsp9ip9nk",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the longest par-3 hole at Augusta National Golf Club?",
+    "explanation": "The Pine Needles is one of the famous par-3 holes at Augusta National, known for its challenging conditions and scenic beauty.",
+    "options": [
+      "Pine Needles",
+      "Aparajita",
+      "Golden Bell",
+      "Fire Lake"
+    ],
+    "correctAnswer": "Pine Needles",
+    "tags": [
+      "SPOR-Golf",
+      "Augusta National",
+      "Hole Design"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kd97co2ub",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "In golf, what does a 'birdie' score mean?",
+    "explanation": "A birdie is scored when a player completes a hole in one stroke fewer than the designated par for that hole.",
+    "options": [
+      "One under par",
+      "Two over par",
+      "Three strokes over par",
+      "One stroke over par"
+    ],
+    "correctAnswer": "One under par",
+    "tags": [
+      "SPOR-Golf",
+      "Scoring",
+      "Golf Terms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9j8r0ogp1",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EXPERT",
+    "question": "Which golf ball was first manufactured with a dimple pattern using computer simulation?",
+    "explanation": "The TaylorMade TP5 was the first golf ball to use computer simulation for optimizing its dimple pattern, improving aerodynamics and distance.",
+    "options": [
+      "Titleist Pro V1",
+      "Callaway Chrome Soft",
+      "TaylorMade TP5",
+      "Wilson Staff Duo"
+    ],
+    "correctAnswer": "TaylorMade TP5",
+    "tags": [
+      "SPOR-Golf",
+      "Equipment",
+      "Golf Technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z0e7l7hd2",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the maximum number of strokes allowed in a professional men's golf tournament?",
+    "explanation": "A standard professional golf tournament consists of 18 holes, with players having a maximum of 18 strokes to complete the course.",
+    "options": [
+      "10",
+      "14",
+      "18",
+      "20"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "SPOR-Golf",
+      "Rules",
+      "Tournament Format"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aacty6qt5",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which famous golf course is located in St Andrews, Scotland?",
+    "explanation": "The St Andrews Old Course is one of the most famous and historic golf courses in the world, often referred to as the 'Home of Golf'.",
+    "options": [
+      "Pebble Beach",
+      "Royal Troon",
+      "St Andrews Old Course",
+      "Turnberry"
+    ],
+    "correctAnswer": "St Andrews Old Course",
+    "tags": [
+      "SPOR-Golf",
+      "Golf Courses",
+      "Scotland"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yp7sb75iz",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "What is the maximum distance a golfer can play on a standard hole?",
+    "explanation": "In professional golf, the maximum distance from the tee to any point on the green is 472 yards as per USGA rules for men's competitions.",
+    "options": [
+      "100 yards",
+      "472 yards",
+      "632 yards",
+      "982 yards"
+    ],
+    "correctAnswer": "472 yards",
+    "tags": [
+      "golf",
+      "rules",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ilwzz8f2w",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "EASY",
+    "question": "Which club is typically used for short-range shots around the green?",
+    "explanation": "A wedge is designed for high-lofted shots over short distances, particularly around the green, allowing precise control and elevation.",
+    "options": [
+      "Driver",
+      "Iron",
+      "Wedge",
+      "Putter"
+    ],
+    "correctAnswer": "Wedge",
+    "tags": [
+      "golf",
+      "equipment",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v3uh1r0k2",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "What term describes when a golfer's ball lands in an out-of-bounds area?",
+    "explanation": "When a ball crosses the boundary line designated as out-of-bounds, it is considered 'out of bounds' and requires a penalty stroke.",
+    "options": [
+      "Bunkered",
+      "Holed out",
+      "Out of bounds",
+      "Penalized"
+    ],
+    "correctAnswer": "Out of bounds",
+    "tags": [
+      "golf",
+      "rules",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xzgfw5owy",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "Which golf tournament is held annually at Pebble Beach Golf Links?",
+    "explanation": "The Pebble Beach Pro-Am is an annual professional-amateur tournament held at the historic Pebble Beach Golf Links in California.",
+    "options": [
+      "U.S. Open",
+      "Pebble Beach Pro-Am",
+      "Masters",
+      "PGA Championship"
+    ],
+    "correctAnswer": "Pebble Beach Pro-Am",
+    "tags": [
+      "golf",
+      "tournaments",
+      "events"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o04lfagsk",
+    "category": "SPOR",
+    "subcategory": "Golf",
+    "difficulty": "GENERAL",
+    "question": "What is the penalty for hitting a ball out of bounds in men's professional golf?",
+    "explanation": "According to USGA rules, when a ball goes out of bounds in men's professional golf, the player incurs a 2-stroke penalty.",
+    "options": [
+      "1 stroke",
+      "2 strokes",
+      "3 strokes",
+      "4 strokes"
+    ],
+    "correctAnswer": "2 strokes",
+    "tags": [
+      "golf",
+      "penalties",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

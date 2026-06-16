@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import { Question } from './schema';
+import { Question } from './schema.js';
 
 function cleanDuplicates(category: string) {
   const filePath = path.join(__dirname, 'data', `${category.toLowerCase()}.json`);

@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "eix1qqy7q",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Eski Mısır'daki en ünlü piramit hangisidir?",
+    "explanation": "Keops Piramidi, Gize'de bulunan ve Eski Mısır'ın en büyük piramididir. Antik Mısır İmparatorluğu'nun III. Hanedanlığında inşa edilmiştir.",
+    "options": [
+      "Keops Piramidi",
+      "Hafız Piramidi",
+      "Menkaure Piramidi",
+      "Sahura Piramidi"
+    ],
+    "correctAnswer": "Keops Piramidi",
+    "tags": [
+      "Mısır",
+      "Piramitler",
+      "Antik Mimarlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7jcvedoea",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Eski Mısır medeniyetinin en uzun süre tahtta kalan firavunu kimdir?",
+    "explanation": "Ramses II, Eski Mısır medeniyetinin en uzun süre tahtta kalan firavunu olarak kabul edilir ve yaklaşık 67 yıl hüküm sürmüştür.",
+    "options": [
+      "Ramses II",
+      "Seti I",
+      "Tutankhamun",
+      "Akhenaton"
+    ],
+    "correctAnswer": "Ramses II",
+    "tags": [
+      "Firavunlar",
+      "Mısır Tarihi",
+      "Antik Liderler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ip02ihadn",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Eski Mısır'da Nil Nehri'nin taşmasıyla ilgili hangi festival düzenlenirdi?",
+    "explanation": "Nil Festivali, Eski Mısır'da Nil Nehri'nin her yıl taşması ve verimli tarım için suyun gelmesi kutlandığı önemli bir festivaldir.",
+    "options": [
+      "Nil Festivali",
+      "Güneş Festivali",
+      "Mısır Festivali",
+      "Piramit Festivali"
+    ],
+    "correctAnswer": "Nil Festivali",
+    "tags": [
+      "Nil Nehri",
+      "Dini Törenler",
+      "Antik Mısır Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "coa150ihb",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Eski Mısır medeniyetinde yazının ilk olarak hangi malzemede kullanılmaya başlandı?",
+    "explanation": "Eski Mısır'da yazının ilk olarak meyve kabuğu, özellikle nilotu bitkisinin gövdesi üzerinde kullanılmaya başlanmıştır. Daha sonra papyrus malzemesi kullanılmıştır.",
+    "options": [
+      "Kağıt",
+      "Meyve Kabuğu",
+      "Pergament",
+      "Yazı Taşı"
+    ],
+    "correctAnswer": "Meyve Kabuğu",
+    "tags": [
+      "Yazı Sistemi",
+      "Antik Mısır Bilimi",
+      "Kağıt Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xj3cha593",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "Eski Mısır'daki piramitler hangi amaçla inşa edildi?",
+    "explanation": "Eski Mısır'daki piramitler, firavunların mezarları ve ölüm sonrası yaşam için dini bir görev olarak inşa edildi. Piramitler, ölümlü dünyadan öteye geçiş sembolüdür.",
+    "options": [
+      "Siyasi Merkez",
+      "Dinî Görev (Mezar)",
+      "Askeri Karargah",
+      "Ağır Endüstri"
+    ],
+    "correctAnswer": "Dinî Görev (Mezar)",
+    "tags": [
+      "Piramitler",
+      "Antik Mısır Din",
+      "Ölümden Sonra Yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ijokbkm8",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Who is traditionally considered the first pharaoh of a unified Ancient Egypt?",
+    "explanation": "Menes (also identified with Narmer) is traditionally credited with uniting Upper and Lower Egypt around 3100 BCE, establishing the First Dynasty.",
+    "options": [
+      "Menes",
+      "Tutankhamun",
+      "Ramses II",
+      "Cleopatra"
+    ],
+    "correctAnswer": "Menes",
+    "tags": [
+      "Rulers",
+      "Unification"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2wjxu5vp4",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "What was the primary purpose of the Great Pyramid of Giza?",
+    "explanation": "The Great Pyramid was constructed as the burial monument for Pharaoh Khufu during the Fourth Dynasty, reflecting Egyptian beliefs about the afterlife.",
+    "options": [
+      "To serve as a tomb for Pharaoh Khufu",
+      "To store grain during famines",
+      "To observe celestial events",
+      "As a fortress for military defense"
+    ],
+    "correctAnswer": "To serve as a tomb for Pharaoh Khufu",
+    "tags": [
+      "Achievements",
+      "Architecture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "snazuendo",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Which civilization built the Sphinx of Giza?",
+    "explanation": "The Great Sphinx was carved during the reign of Pharaoh Khafre in the Fourth Dynasty, serving as a guardian for his pyramid complex.",
+    "options": [
+      "Ancient Egyptians",
+      "Mesopotamians",
+      "Indus Valley Civilization",
+      "Hittites"
+    ],
+    "correctAnswer": "Ancient Egyptians",
+    "tags": [
+      "Achievements",
+      "Geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0bu52q4o4",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "What material were Egyptian hieroglyphs commonly inscribed on for daily use?",
+    "explanation": "While some inscriptions were on stone, papyrus was the portable medium used for administrative documents and literature in daily Egyptian life.",
+    "options": [
+      "Papyrus",
+      "Stone tablets",
+      "Clay bricks",
+      "Metal plates"
+    ],
+    "correctAnswer": "Papyrus",
+    "tags": [
+      "Culture",
+      "Writing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o9d3p7ctk",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "Which factor most significantly contributed to Ancient Egypt's prosperity?",
+    "explanation": "The Nile's regular flooding deposited nutrient-rich silt, enabling agriculture to support Egypt's population and civilization development.",
+    "options": [
+      "Predictable annual Nile River floods",
+      "Abundant desert gold deposits",
+      "Strategic mountain pass control",
+      "Advanced metallurgy techniques"
+    ],
+    "correctAnswer": "Predictable annual Nile River floods",
+    "tags": [
+      "Geography",
+      "Agriculture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r2c5ke3bi",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır'ın en ünlü farao ve piramidini yapan hükümdar kimdir?",
+    "explanation": "Hafsa, Giza piramidi'nin yapımını emreden farao'dur. Kefren ise ikinci büyük piramidi inşa ettirmiştir.",
+    "options": [
+      "Ramzes II",
+      "Horus",
+      "Kefren",
+      "Hafsa"
+    ],
+    "correctAnswer": "Kefren",
+    "tags": [
+      "Antik Mısır",
+      "Piramit",
+      "Farao"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g4pi43xva",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır'ın en bilinen yazı sistemi hangisidir?",
+    "explanation": "Hiyeroglif, Antik Mısır'ın resmi yazı sistemi olarak kullanılmıştır. Duvarlarda ve taş anıtlarda görülen resimsel yazılardır.",
+    "options": [
+      "Yunanca",
+      "Mısır Hiyeroglifi",
+      "Küçük Harfler",
+      "Büyük Harfler"
+    ],
+    "correctAnswer": "Mısır Hiyeroglifi",
+    "tags": [
+      "Antik Mısır",
+      "Yazı Sistemi",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j8s83vb48",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Nil Nehri'nin kuraklık döneminde su seviyesinin yükseldiği olay ne adlandırılır?",
+    "explanation": "Nil Nehri'nin her yıl taşmasıyla oluşan selden bahsedilir. Bu sel, tarım için verimli toprak bırakır.",
+    "options": [
+      "Akış",
+      "Sel",
+      "Bölgeler",
+      "Kıyılar"
+    ],
+    "correctAnswer": "Sel",
+    "tags": [
+      "Antik Mısır",
+      "Nil Nehri",
+      "Doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d8frjui6r",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır'ın kraliyet ailesının başında yer alan kişi kimdir?",
+    "explanation": "Farao, Antik Mısır'ın kralı olarak adlandırılır. Tanrısal güç taşıyan hükümdardır.",
+    "options": [
+      "Farao",
+      "Padişah",
+      "Sultan",
+      "Vizir"
+    ],
+    "correctAnswer": "Farao",
+    "tags": [
+      "Antik Mısır",
+      "Kraliyet",
+      "Hükümdar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j7bglcyui",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'da Nil Nehri'nin kıyılarında bulunan şehirlerden hangisi bilinen bir limandır?",
+    "explanation": "Memfis, Antik Mısır'ın başkenti ve önemli limanıdır. Nil Nehri kıyısında yer alır.",
+    "options": [
+      "Memfis",
+      "Tekneler",
+      "Kıyı Şehirleri",
+      "Giza"
+    ],
+    "correctAnswer": "Memfis",
+    "tags": [
+      "Antik Mısır",
+      "Şehirler",
+      "Nil Nehri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wmsku5n6y",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Which of the following is considered one of the most famous ancient Egyptian pyramids?",
+    "explanation": "The Great Pyramid of Giza was built for Pharaoh Khufu during the Fourth Dynasty and remains one of the Seven Wonders of the Ancient World.",
+    "options": [
+      "Pyramid of Djoser",
+      "Great Pyramid of Giza",
+      "Pyramid of Khafre",
+      "Pyramid of Sneferu"
+    ],
+    "correctAnswer": "Great Pyramid of Giza",
+    "tags": [
+      "Architecture",
+      "Pharaohs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zl1zwuc5u",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Who discovered the tomb of Tutankhamun in 1922?",
+    "explanation": "Howard Carter unearthed the intact tomb of Tutankhamun in the Valley of the Kings, marking a major milestone in Egyptological history.",
+    "options": [
+      "Louis Leakey",
+      "Howard Carter",
+      "Arthur Evans",
+      "Flinders Petrie"
+    ],
+    "correctAnswer": "Howard Carter",
+    "tags": [
+      "Archaeology",
+      "Pharaohs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "plsexl6cm",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Which ancient Egyptian god was primarily associated with the afterlife and resurrection?",
+    "explanation": "Osiris was worshipped as the god of the underworld and resurrection, central to Egyptian beliefs about the soul's journey after death.",
+    "options": [
+      "Anubis",
+      "Horus",
+      "Isis",
+      "Osiris"
+    ],
+    "correctAnswer": "Osiris",
+    "tags": [
+      "Mythology",
+      "Religion"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xzmocz3tt",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "The annual flooding of which river was crucial for Ancient Egyptian agriculture?",
+    "explanation": "The Nile's predictable inundation brought fertile silt, enabling the growth of crops and sustaining Ancient Egyptian civilization.",
+    "options": [
+      "Euphrates River",
+      "Tigris River",
+      "Nile River",
+      "Jordan River"
+    ],
+    "correctAnswer": "Nile River",
+    "tags": [
+      "Geography",
+      "Agriculture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5neztrmsf",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "During which period was Thebes the political capital of Ancient Egypt?",
+    "explanation": "Thebes served as the primary political and religious center during the New Kingdom (c. 1550–1070 BCE), especially under pharaohs like Hatshepsut and Ramses II.",
+    "options": [
+      "Old Kingdom",
+      "Middle Kingdom",
+      "New Kingdom",
+      "Late Period"
+    ],
+    "correctAnswer": "New Kingdom",
+    "tags": [
+      "History",
+      "Geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zeb5bfzem",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır'da hangi firon Piramitler'in inşaatına öncülük etmiştir?",
+    "explanation": "Khufu, Giza piramitleri'nin en büyük piramidini inşa ettiren firon olarak bilinir.",
+    "options": [
+      "Hatshepsut",
+      "Kleopatra",
+      "Khufu",
+      "Ramesses II"
+    ],
+    "correctAnswer": "Khufu",
+    "tags": [
+      "Mısır",
+      "Piramitler",
+      "Fironlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ps3h4kuld",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Nil Nehri'nin Antik Mısır'daki önemi nedir?",
+    "explanation": "Nil Nehri, yıllık taşmalarıyla verimli topraklar oluşturmuş ve Mısır medeniyetinin temelini sağlamıştır.",
+    "options": [
+      "Savaşlar için yol",
+      "Su ve tarım kaynağı",
+      "Madencilik için ana kanal",
+      "Din törenleri için kutsal su"
+    ],
+    "correctAnswer": "Su ve tarım kaynağı",
+    "tags": [
+      "Nil Nehri",
+      "Tarım",
+      "Mısır Coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jhtjmjhcw",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'da 'Ra' tanrısı neyi temsil eder?",
+    "explanation": "Ra, Mısır mitolojisindeki en önemli tanrılardan biri olarak güneşi ve yaşamı temsil eder.",
+    "options": [
+      "Ay",
+      "Rüzgar",
+      "Güneş",
+      "Su"
+    ],
+    "correctAnswer": "Güneş",
+    "tags": [
+      "Tanrılar",
+      "Mısır Din",
+      "Ra Tanrısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cvwl6lo4j",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "Kleopatra'nın fironluk süresi yaklaşık kaç yıldır?",
+    "explanation": "Kleopatra, MÖ 51'de tahta çıkıp MÖ 30'de Roma'nın işgaliyle süresi yaklaşık 10 yıl sürmüştür.",
+    "options": [
+      "5 yıl",
+      "10 yıl",
+      "20 yıl",
+      "30 yıl"
+    ],
+    "correctAnswer": "10 yıl",
+    "tags": [
+      "Kleopatra",
+      "Fironlar",
+      "Antik Dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ik8tnocpi",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'da 'Osiris' tanrısı hangi kavramla ilişkilidir?",
+    "explanation": "Osiris, Mısır mitolojisinde ölüm sonrası yeniden doğuş ve ahiret hayatını temsil eden tanrıdır.",
+    "options": [
+      "Savaş",
+      "Aşkınlık",
+      "Ölüm ve Yeniden Doğuş",
+      "Zanaat"
+    ],
+    "correctAnswer": "Ölüm ve Yeniden Doğuş",
+    "tags": [
+      "Osiris Tanrısı",
+      "Mısır Din",
+      "Yeniden Doğuş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hx3vbrqyg",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Hangisi Antik Mısır'ın en ünlü firaunlarından biridir ve 1922'de keşfedilen mezarıyla bilinen kişi kimdir?",
+    "explanation": "Tutankhamun, Antik Mısır'ın Yeni İmparatorluk dönemindeki genç firaunudur. 1922'de İngiliz arkeolog Howard Carter tarafından keşfedilen ve neredeyse tam olarak korunmuş mezarıyla dünya çapında ünlü olmuştur.",
+    "options": [
+      "Ramesses II",
+      "Hatshepsut",
+      "Tutankhamun",
+      "Cleopatra"
+    ],
+    "correctAnswer": "Tutankhamun",
+    "tags": [
+      "Mısır Tarihi",
+      "Firaunlar",
+      "Arkeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uiilfhfzi",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'da piramitlerin ana malzemesi nedir?",
+    "explanation": "Antik Mısır piramitlerinin çoğunluğu kireçtuğla ve taş bloklarla inşa edilmiştir. Gize Piramidi gibi büyük yapılar taş kullanılmışken, daha küçük piramitler tuğla malzemesiyle yapılmıştır.",
+    "options": [
+      "Taş",
+      "Tuğla",
+      "Kireçtaşı",
+      "Ahşap"
+    ],
+    "correctAnswer": "Tuğla",
+    "tags": [
+      "Mimari",
+      "Piramitler",
+      "Bina Malzemeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ua96576q5",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Hangisi Antik Mısır yazı sisteminin adıdır?",
+    "explanation": "Hiyeroglif, Antik Mısır'ın resmi yazı sistemidir. 'Tapınakların sözcükleri' anlamına gelen bu yazı sistemi, hem resimli hem de alfabetik karakterlerden oluşur ve taşlar üzerine kazılırdı.",
+    "options": [
+      "Sanskrit",
+      "Yunanca",
+      "Hiyeroglif",
+      "Çince"
+    ],
+    "correctAnswer": "Hiyeroglif",
+    "tags": [
+      "Mısır Yazısı",
+      "Dilbilim",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t8ggk1md0",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır medeniyetinin gelişmesi için en kritik faktör hangisidir?",
+    "explanation": "Nil Nehri, Antik Mısır'ın medeniyeti için hayati öneme sahipti. Düzenli taşkınlarıyla verimli tarım alanı sağladı ve ulaşım yolları oluşturdu. Medeniyet Nil'in kıyılarında gelişti.",
+    "options": [
+      "Nil Nehri",
+      "Akdeniz Denizi",
+      "Sahra Çölü",
+      "Mediterranean İklim"
+    ],
+    "correctAnswer": "Nil Nehri",
+    "tags": [
+      "Coğrafya",
+      "Medeniyet Gelişimi",
+      "Ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wjjg9un25",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "Antik Mısır'da kadınların toplumsal statüsü diğer antik medeniyetlere göre nasıl tanımlanır?",
+    "explanation": "Antik Mısır'da kadınlar diğer antik medeniyetlere göre daha yüksek toplumsal statüye sahipti. Kadınlar miras alabilirdi, dükkan işletebilirdi ve bazı durumlarda hatta firaun olarak taht tutabilirdi (örn: Hatshepsut).",
+    "options": [
+      "Daha düşük",
+      "Eşit derecede yüksek",
+      "Tamamen yasaklı",
+      "Sadece saraylarda izinli"
+    ],
+    "correctAnswer": "Eşit derecede yüksek",
+    "tags": [
+      "Toplumsal Yapı",
+      "Cinsiyet Eşitliği",
+      "Kadınlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t9n8zgq1x",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'ın en ünlü piramidi olan Gize Piramit kompleksi hangi dönemden biridir?",
+    "explanation": "Gize Piramit kompleksi, Pharaonic Period'ta (Klassik Mısır) inşa edilmiş ve Eski Dünya'nın harika yedi harikasından biridir.",
+    "options": [
+      "Eski Mısır (Archaic Period)",
+      "Klassik Mısır (Pharaonic Period)",
+      "Yeni Mısır (New Kingdom)",
+      "Geç Mısır (Late Period)"
+    ],
+    "correctAnswer": "Klassik Mısır (Pharaonic Period)",
+    "tags": [
+      "piramit",
+      "Mısır tarihi",
+      "Antik Çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g4jkitzet",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır'ın kraliyet ailesinin başına kim geçmiştir?",
+    "explanation": "Antik Mısır'da en yüksek makam Firon idi, hem siyasi hem de dini otoriteyi temsil ederdi.",
+    "options": [
+      "Firon (Pharaoh)",
+      "Padişah (Sultan)",
+      "Kral (King)",
+      "Vali (Governor)"
+    ],
+    "correctAnswer": "Firon (Pharaoh)",
+    "tags": [
+      "Mısır kraliyeti",
+      "Antik Mısır",
+      "Din"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vc1bdos32",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Mısır yazı sistemi olarak ne bilinir?",
+    "explanation": "Mısır hiyeroglifleri antik çağda kullanılan resmi yazı sistemi olup taş ve papirüs üzerine kazılırdı.",
+    "options": [
+      "Hiyeroglif (Hieroglyph)",
+      "Runik alfabesi",
+      "Küçük harfler",
+      "Çin yazısı"
+    ],
+    "correctAnswer": "Hiyeroglif (Hieroglyph)",
+    "tags": [
+      "Mısır yazısı",
+      "Antik Mısır",
+      "Dil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8wuwx8jze",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'ın Nil Nehri ne zaman aktarılmıştır?",
+    "explanation": "Nil Nehri her yıl yaz mevsiminde taşar ve bu çökme tarıma olanak sağlar, bu nedenle 'hayalet' olarak bilinirdi.",
+    "options": [
+      "Yaz mevsiminde (Flood Period)",
+      "Bahar mevsiminde",
+      "Kış mevsiminde",
+      "Sonbahar mevsiminde"
+    ],
+    "correctAnswer": "Yaz mevsiminde (Flood Period)",
+    "tags": [
+      "Nil Nehri",
+      "Mısır coğrafya",
+      "Antik Mısır"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "00fota2i1",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "Tutankhamun'un mezarı hangi yıl keşfedilmiştir?",
+    "explanation": "Howard Carter tarafından 1922 yılında keşfedilen Tutankhamun'un mezarı, antik çağda önemli bir bulgu olarak kaydedilmiştir.",
+    "options": [
+      "1922",
+      "1850",
+      "1900",
+      "1750"
+    ],
+    "correctAnswer": "1922",
+    "tags": [
+      "Tutankhamun",
+      "Mısır arkeolojisi",
+      "Antik Mısır"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ssa93h80c",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır'daki en büyük piramit hangisidir?",
+    "explanation": "Giza Piramidi, Antik Mısır'da bulunan en büyük piramittir ve yaklaşık 146 metre yüksekliğe sahiptir. Bu piramit, III. Gızahun'un mezarı olarak inşa edilmiştir.",
+    "options": [
+      "Cheatahun Piramidi",
+      "Giza Piramidi",
+      "Abu Rawş Piramidi",
+      "Sakkarah Piramidi"
+    ],
+    "correctAnswer": "Giza Piramidi",
+    "tags": [
+      "Antik Mısır",
+      "Piramitler",
+      "Mimarlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b3kj4ffld",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'ın tanrılarından 'Gıb' (Ra) hangisidir?",
+    "explanation": "Ra (veya Gıb), Antik Mısır'ın en önemli tanrılarından biridir ve güneş tanrısı olarak kabul edilir. Güneş çarpanla birlikte dünyayı yönetirdi.",
+    "options": [
+      "Deniz Tanrısı",
+      "Güneş Tanrısı",
+      "Rüzgar Tanrısı",
+      "Toprak Tanrısı"
+    ],
+    "correctAnswer": "Güneş Tanrısı",
+    "tags": [
+      "Antik Mısır",
+      "Tanrılar",
+      "Din"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "76jm26sdg",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'da piramitlerin inşa ediliği dönem hangisidir?",
+    "explanation": "Piramitlerin ana inşa edilişi, Antik Mısır'ın Eski Mısır Dönemi'nde (yaklaşık MÖ 2686-2181) yapılmıştır. Bu dönem, III. Gızahun ve diğer krallar tarafından yönetilmiştir.",
+    "options": [
+      "Eski Mısır Dönemi",
+      "Orta Mısır Dönemi",
+      "Yeni Mısır Dönemi",
+      "Son Mısır Dönemi"
+    ],
+    "correctAnswer": "Eski Mısır Dönemi",
+    "tags": [
+      "Antik Mısır",
+      "Tarihçe",
+      "Mevcut Devirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h81t5fnei",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "Antik Mısır'da kadınlar hangi mesleği icra edebilirdi?",
+    "explanation": "Antik Mısır'da kadınlar doktorluk gibi meslekleri icra edebilirdi. Tıp alanında kadınlar eğitim alabilir ve hastaları tedavi edebilirler.",
+    "options": [
+      "Savaşçı",
+      "Doktor",
+      "Halk",
+      "Yönetici"
+    ],
+    "correctAnswer": "Doktor",
+    "tags": [
+      "Antik Mısır",
+      "Günlük Hayat",
+      "Meslekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9oq45hk47",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır'daki yazı sistemi hangisidir?",
+    "explanation": "Antik Mısır'da hiyeroglif adı verilen yazı sistemi kullanılırdı. Bu sistem, taş ve papirüs üzerine kazınan veya çizilen sembollerden oluşurdu.",
+    "options": [
+      "Yunanca",
+      "Mısırı Hiyeroglif",
+      "Farsça",
+      "Arapça"
+    ],
+    "correctAnswer": "Mısırı Hiyeroglif",
+    "tags": [
+      "Antik Mısır",
+      "Yazı Sistemleri",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vun4di6x8",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Hangi Mısır Fironu, Gize Piramitleri'ni inşa ettiren hükümdardı?",
+    "explanation": "Keops (Çepren), Piramit'in en büyük Mısır Fironu ve Gize Büyük Piramiti'nin inşaatını yaptıran hükümdardı. Bu piramit, dünyanın Yedinci Harikası olarak bilinir.",
+    "options": [
+      "Menkaura",
+      "Keops",
+      "Djoser",
+      "Hatshepsut"
+    ],
+    "correctAnswer": "Keops",
+    "tags": [
+      "fironlar",
+      "piramitler",
+      "Gize"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zjfs55b6j",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'da ölüleri mumiye yapmak amacıyla hangi organları kaldırmışlardır?",
+    "explanation": "Mısır mumiyeleme ritüellerinde beyin (genellikle burnundan çıkarılıyordu) ve iç organlar (bağırsaklar, karaciğer, akciğerler) çıkarılırdı. Kalp ise 'ahirette' korunduğu için çıkarılmazdı.",
+    "options": [
+      "Kalp ve beyin",
+      "Beyin ve bağırsaklar",
+      "Kanda ve karaciğer",
+      "Safra ve pankreas"
+    ],
+    "correctAnswer": "Beyin ve bağırsaklar",
+    "tags": [
+      "mumiye",
+      "ölüme",
+      "din"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xu6vnfdcv",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Hangi Mısır Fironu, kadın olarak tahta oturan tek hükümdar olarak bilinir?",
+    "explanation": "Hatshepsut, Antik Mısır'da kadın olarak tahta oturan tek Firon'dur. Babası Thutmose I ile evlenmiş ve uzun süre boyunca Mısır'ı yönetmiştir.",
+    "options": [
+      "Nefertari",
+      "Cleopatra",
+      "Hatshepsut",
+      "Isis"
+    ],
+    "correctAnswer": "Hatshepsut",
+    "tags": [
+      "fironlar",
+      "kadinlar",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tx9nucs11",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır medeniyeti hangi nehri etrafında gelişmiştir?",
+    "explanation": "Antik Mısır medeniyeti Nil Nehri'nin etrafında gelişmiştir. Nil'in yılda bir kez taşması, tarım için gerekli su ve toprak besin maddelerini getirmiştir.",
+    "options": [
+      "Nil Nehri",
+      "Davyet Nehri",
+      "Pyrus Nehri",
+      "Seyhan Nehri"
+    ],
+    "correctAnswer": "Nil Nehri",
+    "tags": [
+      "coğrafya",
+      "tarih",
+      "medeniyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ki57wql0n",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "Hangi Mısır Fironu, Piramitler döneminin sonu olan V. Din'e aittir?",
+    "explanation": "Menkaura, Gize Büyük Piramidi'nin son inşa eden Fironu ve V. Din'in son büyük piramidini inşaatı yaptıran hükümdardı. Babası Khufu ile Keops, onun öncesiydi.",
+    "options": [
+      "Menkaura",
+      "Djoser",
+      "Keops",
+      "Ramesse II"
+    ],
+    "correctAnswer": "Menkaura",
+    "tags": [
+      "fironlar",
+      "piramitler",
+      "din"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d8s8dvo2m",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EASY",
+    "question": "Antik Mısır medeniyetinin coğrafi merkezi hangi nehre dayanır?",
+    "explanation": "Antik Mısır medeniyeti Nil Nehrinin vadisinde gelişmiştir. Nil'in yıllık taşması tarıma olanak sağlamış ve bu coğrafi özellik medeniyetin kalıcılığına temel oluşturmuştur.",
+    "options": [
+      "Nil Nehri",
+      "Dicle Nehri",
+      "Fırat Nehri",
+      "Tigris Nehri"
+    ],
+    "correctAnswer": "Nil Nehri",
+    "tags": [
+      "coğrafya",
+      "Antik Mısır",
+      "Nil",
+      "medeniye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vuzofoj0h",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "İlk Antik Mısır Kraliçesi olarak tanınan kişi kimdir?",
+    "explanation": "Hatshepsut, MÖ 1479-1458 yılları arasında Antik Mısır'ı yöneten kraliyet hanedanından bir kraliçedir. Hem kral hem de kraliçe olarak kabul edildiği nadir liderlerden biridir.",
+    "options": [
+      "Hatshepsut",
+      "Nefertiti",
+      "Cleopatra",
+      "Isis"
+    ],
+    "correctAnswer": "Hatshepsut",
+    "tags": [
+      "kraliçe",
+      "Antik Mısır",
+      "Hatshepsut",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dp4osncao",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'da yazının ilk kaydedilen örnekleri hangi nesnede bulunur?",
+    "explanation": "Antik Mısır'da yazı papyrus bitkisinin sapından yapılmış levhalarda kaydedilmiştir. Papyrus, Nil Nehri çevresinde yetişen bu bitkinin kurutulmuş ve işlenmiş formudur.",
+    "options": [
+      "Papyrus",
+      "Kaya Dışı",
+      "Metal Levha",
+      "Deri"
+    ],
+    "correctAnswer": "Papyrus",
+    "tags": [
+      "yazı",
+      "Antik Mısır",
+      "papyrus",
+      "bilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2omtd5r9l",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır medeniyetinin en ünlü heykelinin sahibi kimdir?",
+    "explanation": "Nefertiti, Antik Mısır'ın Akhenaten hükümdarının kraliçesi olup Berlin Müzesinde bulunan ünlü heykeliyle tanınır. Bu heykel 1912'de bulunmuştur ve antik sanatın en önemli eserlerinden biridir.",
+    "options": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Cleopatra",
+      "Tutankhamun"
+    ],
+    "correctAnswer": "Nefertiti",
+    "tags": [
+      "heykel",
+      "Antik Mısır",
+      "Nefertiti",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m3hkkolqg",
+    "category": "TARİH",
+    "subcategory": "Antik Mısır",
+    "difficulty": "EXPERT",
+    "question": "Antik Mısır medeniyetinin son hükümdarlığına kim başı çeker?",
+    "explanation": "Cleopatra VII, Antik Mısır'ın son kraliçesidir. MÖ 30 yılında Roma tarafından işgal edilene kadar yönetmiş ve onunla birlikte Mısır medeniyeti Roma İmparatorluğu'nun bir parçası haline gelmiştir.",
+    "options": [
+      "Cleopatra VII",
+      "Augustus",
+      "Hadrian",
+      "Trajan"
+    ],
+    "correctAnswer": "Cleopatra VII",
+    "tags": [
+      "Cleopatra",
+      "Antik Mısır",
+      "son hükümdarlık",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

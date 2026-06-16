@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "5z549fayq",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Parthenon tapınağı hangi antik Yunan şehir-devletinde inşa edilmiştir?",
+    "explanation": "Parthenon, Antik Yunanistan'ın en ünlü mimari eseri olup Athens şehrindeki Akropolis tepesinde inşa edilmiştir. MS 432 civarında tamamlanmıştır.",
+    "options": [
+      "Sparta",
+      "Athens",
+      "Corinth",
+      "Thebes"
+    ],
+    "correctAnswer": "Athens",
+    "tags": [
+      "Mimari",
+      "Antik Yunan",
+      "Tapınaklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qbp2xsph2",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Sokrates filozofu hangi yöntemle ünlüdür?",
+    "explanation": "Sokrates, Sokratik yöntemle veya 'İlginci Yöntem' ile bilinir. Bu yöntemde sorularla karşıt düşünceleri eleştirel olarak sorgulama yapar.",
+    "options": [
+      "İlginci Yöntem",
+      "Eleştirel Sorgulama",
+      "Gözlemci Yaklaşım",
+      "Deneyci Metodu"
+    ],
+    "correctAnswer": "Eleştirel Sorgulama",
+    "tags": [
+      "Felsefe",
+      "Antik Yunan",
+      "Sokrates"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f7nxc1zl6",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Atina ve Sparta şehir-devletleri arasındaki temel farklılık nedir?",
+    "explanation": "Atina, Antik Yunanistan'daki en gelişmiş demokratik sistemle ünlüken, Sparta ise krallık sistemiyle idare edilen askerî şehir-devletti.",
+    "options": [
+      "Atina demokrasi, Sparta krallık",
+      "Atina krallık, Sparta demokrasi",
+      "Her ikisi de demokrasi",
+      "Her ikisi de krallık"
+    ],
+    "correctAnswer": "Atina demokrasi, Sparta krallık",
+    "tags": [
+      "Antik Yunan",
+      "Şehir Devletleri",
+      "Demokrasi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jtaobfot6",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Aristoteles filozofu hangi alanlarda çalışmıştır?",
+    "explanation": "Aristoteles, Platon'un öğrencisi olarak felsefe, politika bilimi, biyoloji, fizik ve diğer birçok alanda çalışmıştır. Büyük encüpedikası 'Metaphysics' yazmıştır.",
+    "options": [
+      "Felsefe, Politika, Bilim",
+      "Sadece Felsefe",
+      "Sadece Politika",
+      "Sadece Bilim"
+    ],
+    "correctAnswer": "Felsefe, Politika, Bilim",
+    "tags": [
+      "Felsefe",
+      "Antik Yunan",
+      "Aristoteles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nukpnszym",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Antik Yunanistan'da demokrasi sistemi ilk kez hangi şehir-devlette uygulanmıştır?",
+    "explanation": "Antik Yunanistan'daki ilk demokratik sistem Atina'da uygulanmıştır. MS 508-507 yıllarında Klistenes'in reformlarıyla modern demokrasi'nin kökleri Atina'da başlamıştır.",
+    "options": [
+      "Sparta",
+      "Corinth",
+      "Athens",
+      "Rome"
+    ],
+    "correctAnswer": "Athens",
+    "tags": [
+      "Demokrasi",
+      "Antik Yunan",
+      "Kıyaslama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5udi13xvx",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Antik Yunan'da demokrasi sisteminin en geliştiği şehir devleti hangisidir?",
+    "explanation": "Atina, Antik Yunan'da demokrasi sisteminin en geliştiği şehir devletiydi. Sparta ise oligarşik ve asırlık bir yönetim sistemine sahipti.",
+    "options": [
+      "Sparta",
+      "Atina",
+      "Korint",
+      "Tebe"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "demokrasi",
+      "şehir devletleri",
+      "Antik Yunan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "znlyg6f2h",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Hangi lider MÖ 336-323 yılları arasında büyük bir imparatorluk kurdu?",
+    "explanation": "Alexander Büyük (İskender), MÖ 336-323 yılları arasında Pers imparatorluğu ve daha fazlasını birleştirerek büyük bir imparatorluk kurdu.",
+    "options": [
+      "Alexander Büyük",
+      "Perikles",
+      "Sölon",
+      "Pisistratos"
+    ],
+    "correctAnswer": "Alexander Büyük",
+    "tags": [
+      "imparatorluklar",
+      "liderler",
+      "MÖ 3. yy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lpnnmqmra",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Antik Yunan felsefesinin önemli isimlerinden biri olan Sokrates'in ölüm nedeni nedir?",
+    "explanation": "Sokrates, Atina'da yargılandı ve zehirle öldürüldü. Felsefesinin 'bilgi' üzerine olduğunu savunması suç sayıldı.",
+    "options": [
+      "Savaş",
+      "Cinayet",
+      "Yargılanma ve zehirlenme",
+      "Suçlama"
+    ],
+    "correctAnswer": "Yargılanma ve zehirlenme",
+    "tags": [
+      "felsefe",
+      "Sokrates",
+      "Antik Yunan düşünce"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v7aqpaeyz",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Hangi şehir devletleri Antik Yunan'da en büyük askeri çatışmalara neden olmuştur?",
+    "explanation": "Atina ve Sparta arasındaki Peloponnes Savaşı, Antik Yunan tarihinin en uzun ve önemli askeri çatışmasıydı.",
+    "options": [
+      "Atina-Sparta",
+      "Korint-Karistos",
+      "Tebe-Fırtına",
+      "Atina-Makedonya"
+    ],
+    "correctAnswer": "Atina-Sparta",
+    "tags": [
+      "askeri çatışmalar",
+      "şehir devletleri",
+      "Peloponnes Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d18difh07",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Antik Yunan Olimpiyatları hangi şehirde düzenlenirdi?",
+    "explanation": "Antik Yunan Olimpiyatları, Olimpos dağının yakınındaki Olympia şehrinde düzenlenirdi ve her dört yılda bir yapılırdı.",
+    "options": [
+      "Atina",
+      "Korint",
+      "Ölüm Dağı (Olimpos)",
+      "Sparta"
+    ],
+    "correctAnswer": "Ölüm Dağı (Olimpos)",
+    "tags": [
+      "Olimpiyatlar",
+      "spor",
+      "Antik Yunan kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cse7oos12",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "İlk Yunan Olimpiyatları nerede düzenlenmiştir?",
+    "explanation": "İlk Yunan Olimpiyatları MÖ 776'da Olimpia şehrinde düzenlenen Panhellenik Oyun olarak başlamıştır.",
+    "options": [
+      "Atina",
+      "Sparta",
+      "Korinth",
+      "Olimpia"
+    ],
+    "correctAnswer": "Olimpia",
+    "tags": [
+      "Tarih",
+      "Yunan Antik",
+      "Olimpiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "as7j342wc",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Atina demokrasisinin kurucusu kabul edilen kişi kimdir?",
+    "explanation": "Perikles, Atina'nın altın çağı döneminde demokrasiyi güçlendiren önemli bir lider olarak kabul edilir.",
+    "options": [
+      "Perikles",
+      "Sofokles",
+      "Eskiya",
+      "Theron"
+    ],
+    "correctAnswer": "Perikles",
+    "tags": [
+      "Tarih",
+      "Yunan Antik",
+      "Demokrasi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n7sn8vbn1",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Hangi Yunan filozof 'Ben düşünürüm, o halde ben varım' sözünü söylemiştir?",
+    "explanation": "Bu ifade Aristoteles'e atfedilir ve düşünce teorisi üzerine önemli görüşler sunar.",
+    "options": [
+      "Sokrates",
+      "Platon",
+      "Aristoteles",
+      "Diogenes"
+    ],
+    "correctAnswer": "Aristoteles",
+    "tags": [
+      "Tarih",
+      "Yunan Antik",
+      "Felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zyit99utz",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Parthenon hangi yapı tipi olarak bilinir?",
+    "explanation": "Parthenon, Atina Akropolisi'nde bulunan Zeus'a adanmış önemli bir tapınaktır.",
+    "options": [
+      "Tapınak",
+      "Saray",
+      "Tiyatro",
+      "Kale"
+    ],
+    "correctAnswer": "Tapınak",
+    "tags": [
+      "Tarih",
+      "Yunan Antik",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yjjyh49g7",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Sparta ve Atina arasındaki ana askeri çatışma hangisidir?",
+    "explanation": "Peloponez Savaşı (MÖ 431-404), Sparta ve Atina arasında 27 yıl süren büyük bir çatışmaydı.",
+    "options": [
+      "Peloponez Savaşı",
+      "Troya Savaşı",
+      "Makedonya Savaşı",
+      "Korinth Savaşı"
+    ],
+    "correctAnswer": "Peloponez Savaşı",
+    "tags": [
+      "Tarih",
+      "Yunan Antik",
+      "Savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0mxbw9i9c",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Antik Yunan tarihinin en bilinen iki şehir devleti hangileridir?",
+    "explanation": "Atina, demokrasi ile bilinen ve Sparta, askerî güçle ünlü iki şehir devletidir.",
+    "options": [
+      "Atina ve Sparta",
+      "Roma ve Kartaca",
+      "Mısır ve Babil",
+      "Pers ve Lidya"
+    ],
+    "correctAnswer": "Atina ve Sparta",
+    "tags": [
+      "Antik Yunan",
+      "Şehir Devletleri",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgsw32s5i",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Olimpiyat Oyunları ilk kez hangi şehirde düzenlendi?",
+    "explanation": "Olimpiyat Oyunları ilk kez Olympia şehrindeki tapınakta düzenlendi.",
+    "options": [
+      "Atina",
+      "Olympia",
+      "Sparta",
+      "Korint"
+    ],
+    "correctAnswer": "Olympia",
+    "tags": [
+      "Antik Yunan",
+      "Olimpiyatlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7a0prtjao",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Sokrates'in en ünlü öğrencisi kimdir?",
+    "explanation": "Sokrates, Platon'un öğretmeniydi. Platon ise Aristoteles'in öğretmeniydi.",
+    "options": [
+      "Aristo",
+      "Platon",
+      "Epikuros",
+      "Stoacılar"
+    ],
+    "correctAnswer": "Platon",
+    "tags": [
+      "Antik Yunan",
+      "Felsefe",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uzcu5eskg",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Partenon hangi şehirde inşa edildi?",
+    "explanation": "Partenon, Atina'daki Akropol tepesinde inşa edilen Antik Yunan tapınağıdır.",
+    "options": [
+      "Atina",
+      "Roma",
+      "Sparta",
+      "Korint"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "Antik Yunan",
+      "Mimari",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tpcaqfs72",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EXPERT",
+    "question": "Büyük İskender'in önde gelen generalinden biri olan Perdi-kas hangi savaşta önemli rol oynadı?",
+    "explanation": "Perdi-kas, Büyük İskender'in en sadık generaliydi ve İştil Savaşı'nda önemli rol oynadı.",
+    "options": [
+      "Gavga",
+      "İştil",
+      "Makedon Savaşı",
+      "Larissa Savaşı"
+    ],
+    "correctAnswer": "İştil",
+    "tags": [
+      "Antik Yunan",
+      "Büyük İskender",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "23c049up6",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Antik Yunan'da 'Demokrasinin' en gelişmiş örneği hangi şehir-devlettir?",
+    "explanation": "Atina, Antik Yunan'da en gelişmiş demokrasi sistemi olan polis-devletti. Her vatandaş oy hakkına sahipti ve halk meclisi (Ekklaziya) kararları alırdı.",
+    "options": [
+      "Atina",
+      "Sparta",
+      "Korinto",
+      "Tirinya"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "Antik Yunan",
+      "Demokrasi",
+      "Şehir Devletleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zd1zbygue",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Kral Büyük İskender'in doğum yeri neresidir?",
+    "explanation": "Kral Büyük İskender, Makedonya'nın Pella şehrinde doğdu. Babası Filippos II idi ve Antik Dünyanın en geniş imparatorluğunu kurdu.",
+    "options": [
+      "Makedonya",
+      "Atina",
+      "Sparta",
+      "Foinike"
+    ],
+    "correctAnswer": "Makedonya",
+    "tags": [
+      "Antik Yunan",
+      "Büyük İskender",
+      "Tarih Kişileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3gbk3x3g7",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Antik Yunan'daki 'Olimpiyat Oyunları' ne kadar sürede bir kez düzenlenirdi?",
+    "explanation": "Antik Olimpiyat Oyunları, her 4 yılda bir kez düzenlenen bayram niteliğindeki uluslararası spor yarışmalarıydı ve Atina'da düzenlenirdi.",
+    "options": [
+      "Yılda 1",
+      "Her 4 yılda 1",
+      "Her 8 yılda 1",
+      "Her 5 yılda 1"
+    ],
+    "correctAnswer": "Her 4 yılda 1",
+    "tags": [
+      "Antik Yunan",
+      "Olimpiyat Oyunları",
+      "Spor Tarihçisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d5xfpc9ga",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Hangi filozof 'Bilgiye açlık' ve 'akıl yürütme' üzerine çalışmıştır?",
+    "explanation": "Aristoteles, Platon'un öğrencisiydi ve bilgiye açlık, mantık bilimi, biyoloji üzerine çalışmıştır. Antik Yunan'da en kapsamlı sistemci filozoftur.",
+    "options": [
+      "Platon",
+      "Aristoteles",
+      "Sokrates",
+      "Epikuros"
+    ],
+    "correctAnswer": "Aristoteles",
+    "tags": [
+      "Antik Yunan",
+      "Felsefe",
+      "Akademik Düşünce"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ub4jrcen",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Antik Yunan'daki 'Peloponnes Savaşı' hangi iki şehir devleti arasında gerçekleşti?",
+    "explanation": "Peloponnes Savaşı, Atina'nın lider olduğu Delos Birliği ile Sparta'nın lider olduğu Peloponnes Birliği arasında 431-404 MS yılları arasında gerçekleşti.",
+    "options": [
+      "Atina ve Sparta",
+      "Atina ve Korinto",
+      "Sparta ve Tirinya",
+      "Korinto ve Makedonya"
+    ],
+    "correctAnswer": "Atina ve Sparta",
+    "tags": [
+      "Antik Yunan",
+      "Savaşlar",
+      "Şehir Devletleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7r9ejptpm",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Antik Yunan coğrafyası hangi deniz etrafında yer alır?",
+    "explanation": "Antik Yunan şehirleri ve devletler Akdeniz'in kuzey kesimi etrafında yer alırdı. Yunanistan, Ege Denizi ile çevrili bir coğrafyaya sahipti.",
+    "options": [
+      "Akdeniz",
+      "Baltık Denizi",
+      "Karadeniz",
+      "Marmara Denizi"
+    ],
+    "correctAnswer": "Akdeniz",
+    "tags": [
+      "coğrafya",
+      "Antik Yunan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jgkltpq5b",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Demokratideki ilk kökler nereden gelir?",
+    "explanation": "Demokratinin ilk kökleri Antik Yunan'daki Atina şehir devletinde bulunur. 'Demos' halk, 'kratos' güç anlamına gelir.",
+    "options": [
+      "Roma",
+      "Antik Yunan",
+      "Mısır",
+      "Babil"
+    ],
+    "correctAnswer": "Antik Yunan",
+    "tags": [
+      "siyaset",
+      "demokrasi",
+      "Antik Yunan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f7be8on3g",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Filozof Sokrates kim tarafından öldürüldü?",
+    "explanation": "Sokrates Antik Yunan Atina'sında bir mahkeme tarafından 'düşüncelerinin şehre zarar verdiği' gerekçesiyle 399'da intihar suçuyla yargılandı ve öldürüldü.",
+    "options": [
+      "Roma İmparatoru",
+      "Antik Yunan mahkemesi",
+      "Mısır Fironu",
+      "Pers Kralı"
+    ],
+    "correctAnswer": "Antik Yunan mahkemesi",
+    "tags": [
+      "filozof",
+      "Sokrates",
+      "Antik Yunan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iwcmrh982",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EXPERT",
+    "question": "Parthenon hangi tanrı için inşa edildi?",
+    "explanation": "Parthenon Atina kalesindeki Akropolis'te Athena'ya (bilgelik tanrıçası) adlı bir tapınak olarak inşa edildi. MS 5. yüzyılda yapıldı.",
+    "options": [
+      "Zeus",
+      "Poseidon",
+      "Afrodite",
+      "Athena"
+    ],
+    "correctAnswer": "Athena",
+    "tags": [
+      "mimarlık",
+      "Antik Yunan",
+      "tanrılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "onl5v6vnt",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EXPERT",
+    "question": "Platon'un en bilinen eseri nedir?",
+    "explanation": "Platon 'Antik Yunan' filozofu olarak bilinir. En bilinen eseri 'Cevahir' (The Republic) idi. Ayrıca 'Mevsimler', 'Farelerin Kralı' gibi eserleri de vardır.",
+    "options": [
+      "Antik Yunan",
+      "Mısır",
+      "Roma",
+      "Babil"
+    ],
+    "correctAnswer": "Antik Yunan",
+    "tags": [
+      "filozof",
+      "Platon",
+      "Antik Yunan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "suiqmsfbf",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Hangi şehir devleti 'Atina' olarak bilinir ve Yunanistan'daki demokrasi sisteminin merkezi olmuştur?",
+    "explanation": "Atina, Antik Yunanistan'ın en ünlü şehir devletidir ve burada geliştirilen demokrasi sistemi günümüze kadar etkili olmuştur.",
+    "options": [
+      "Sparta",
+      "Atina",
+      "Korint",
+      "Tebe"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "Antik Yunan",
+      "Şehir Devletleri",
+      "Demokrasi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g2ix9tm8n",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Hangi filozof 'Önce ben bilmiyorum' diyerek meşhur olmuş ve Sokrat'ın öğrencisi olmuştur?",
+    "explanation": "Platon, Sokrat'ın ünlü öğrencisi olarak biliniyor ve 'Ben bilmiyorum' ifadesiyle meşhurdur. Aristoteles ise Platon'un öğrencisidir.",
+    "options": [
+      "Platon",
+      "Aristoteles",
+      "Sokrates",
+      "Pikolo"
+    ],
+    "correctAnswer": "Platon",
+    "tags": [
+      "Antik Yunan",
+      "Felsefe",
+      "Filozoflar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i7wflj7qp",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Hangi yapı Antik Yunanistan'da bulunan Parthenon'a ev sahipliği yapmaktadır?",
+    "explanation": "Parthenon, Atina'daki Akropolis tepesinde bulunan ve Athena Tapınağı olarak bilinen ünlü yapıdır.",
+    "options": [
+      "Deli Apollon Tapınağı",
+      "Parthenon",
+      "Hera Tapınağı",
+      "Zeus Tapınağı"
+    ],
+    "correctAnswer": "Parthenon",
+    "tags": [
+      "Antik Yunan",
+      "Mimari",
+      "Atina"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hdvdrebd2",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Hangi şehir devleti 'Sparta' olarak bilinir ve askeri eğitim sistemiyle meşhurdur?",
+    "explanation": "Sparta, Antik Yunanistan'ın en disiplinli şehir devleti olarak bilinir ve askerlik eğitimiyle ünlüdür.",
+    "options": [
+      "Atina",
+      "Sparta",
+      "Korint",
+      "Troya"
+    ],
+    "correctAnswer": "Sparta",
+    "tags": [
+      "Antik Yunan",
+      "Şehir Devletleri",
+      "Askeri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "alcayfznz",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EXPERT",
+    "question": "Antik Yunanistan'da hangi oyunlar Olimpiyat Oyunları için bilinen yerleşim yeri olarak kabul edilir?",
+    "explanation": "Olimpiyat Oyunları, Antik Yunanistan'ın Olympia şehrinde düzenlenirdi ve Zeus tapınağına ev sahipliği yapardı.",
+    "options": [
+      "Atina",
+      "Olmpia",
+      "Sparta",
+      "Korint"
+    ],
+    "correctAnswer": "Olmpia",
+    "tags": [
+      "Antik Yunan",
+      "Olimpiyatlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x6923qpvf",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Hangi şehir devleti, Eski Yunan'da en zengin ticaret merkezi olarak bilinir ve Kızıl Liman'ın (Cherston) ana merkezidir?",
+    "explanation": "Korint, Eski Yunan'da en zengin ticaret merkeziydi ve Korinthos deniz limanı (Cherston) ana merkezine sahipti. Bu şehir, iki yarımada arasında stratejik konumda bulunuyordu.",
+    "options": [
+      "Atina",
+      "Sparta",
+      "Korint",
+      "Milet"
+    ],
+    "correctAnswer": "Korint",
+    "tags": [
+      "Eski Yunan",
+      "Şehir Devletleri",
+      "Ticaret"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kaxe095b8",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Eski Yunan felsefesinde 'Bilgiyi aramak' ilkesiyle bilinen ve Sokrates'in en önemli öğrencisi kimdir?",
+    "explanation": "Platon, Sokrates'in en önemli öğrencisidir ve 'Bilgiyi aramak' ilkesiyle tanınırdı. Atina Akademi'sini kurmuş ve felsefenin görselleştirilmiş formunu geliştirmiştir.",
+    "options": [
+      "Platon",
+      "Aristoteles",
+      "Diogenes",
+      "Sofokles"
+    ],
+    "correctAnswer": "Platon",
+    "tags": [
+      "Eski Yunan",
+      "Felsefe",
+      "Soyunluklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gw2t8x8v9",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Eski Yunan'da Sparta ile Atina arasındaki önemli savaşlar hangi yüzyılın ortalarında gerçekleşmiştir?",
+    "explanation": "Atina ve Sparta arasındaki önemli savaşlar (Pelopones Savaşı dahil) MÖ 5. Yüzyılın ortalarında gerçekleşmiştir. Bu savaşlar Yunanistan'ın siyasi yapısını değiştirmiştir.",
+    "options": [
+      "MÖ 5. Yüzyıl",
+      "MÖ 6. Yüzyıl",
+      "MÖ 7. Yüzyıl",
+      "MÖ 8. Yüzyıl"
+    ],
+    "correctAnswer": "MÖ 5. Yüzyıl",
+    "tags": [
+      "Eski Yunan",
+      "Savaşlar",
+      "Atina-Sparta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "di1crf2nw",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Hangi Eski Yunan şairi, Antik Yunan tiyatrosunun en önemli yazarlarından biridir ve 'Antigone' adlı oyununu yazmıştır?",
+    "explanation": "Sophokles, Antik Yunan tiyatrosunun en önemli yazarlarından biridir ve 'Antigone' gibi meşhur eserleri yazmıştır. Atina'da 24 oyun yazdığı bilinmektedir.",
+    "options": [
+      "Euripides",
+      "Aristofanes",
+      "Sophokles",
+      "Hesiodos"
+    ],
+    "correctAnswer": "Sophokles",
+    "tags": [
+      "Eski Yunan",
+      "Tiyatro",
+      "Şiir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mfe8aqpl3",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Eski Yunan'da 'Demokrasi' teriminin ilk kullanıldığı şehir devleti hangisidir?",
+    "explanation": "Atina, Eski Yunan'da 'Demokrasi' teriminin ilk kullanıldığı şehir devletidir. Bu sistemde halkın doğrudan katılımı ve eşitlik ilkesi uygulanmıştır.",
+    "options": [
+      "Atina",
+      "Sparta",
+      "Korint",
+      "Milet"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "Eski Yunan",
+      "Demokrasi",
+      "Politika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2x2u4mpz3",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Eski Yunan'da ilk olimpiyat oyunlarının başladığı yıl nedir?",
+    "explanation": "Antik Yunanistan'da ilk kayıtlı olimpiyat oyunları, MÖ 776 yılında Atina kenti yakınlarında başladı. Bu tarihten itibaren her dört yılda bir düzenlenen oyunlar yaklaşık 1200 yıl sürmüştür.",
+    "options": [
+      "776 MÖ",
+      "800 MÖ",
+      "750 MÖ",
+      "760 MÖ"
+    ],
+    "correctAnswer": "776 MÖ",
+    "tags": [
+      "antik-yunan",
+      "olimpiyat",
+      "spor-tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1gegn8eej",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi Eski Yunan felsefesinin kurucularından biri değildir?",
+    "explanation": "Confucius (Konfüçyüs) Çinli filozofdur, Eski Yunan felsefesinin kurucusu değildir. Sokrates, Platon ve Aristoteles ise Eski Yunan felsefesinin en önemli temsilcileridir.",
+    "options": [
+      "Sokrates",
+      "Platon",
+      "Aristoteles",
+      "Confucius"
+    ],
+    "correctAnswer": "Confucius",
+    "tags": [
+      "antik-yunan",
+      "felsefe",
+      "tarihi-kişiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ejyidp1sg",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Eski Yunan'da Parthenon yapısının bulunduğu şehir hangisidir?",
+    "explanation": "Parthenon, Eski Yunanistan'ın başkenti olan Atina kentinin Akropolis tepesinde bulunan en ünlü antik yapıdır. MÖ 5. yüzyılda inşa edilen bu tapın, Athena koruma perisine adanmıştır.",
+    "options": [
+      "Atina",
+      "Sparta",
+      "Korinthos",
+      "Makedonya"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "antik-yunan",
+      "mimari",
+      "parthenon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "48aqwq760",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Eski Yunan demokrasisi hangi şehirde ilk olarak kurulmuştur?",
+    "explanation": "Eski Yunanistan'da demokrasi ilk kez Atina'da, MÖ 6. yüzyılda kurulmuştur. Sparta ise aristokratik bir yönetim sistemiyle tanınırdı ve gerçek demokrasiden farklıydı.",
+    "options": [
+      "Atina",
+      "Sparta",
+      "Tera",
+      "Korinthos"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "antik-yunan",
+      "demokrasi",
+      "siyasi-sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cpu59em8g",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Eski Yunan ile Pers İmparatorluğu arasında gerçekleşen ünlü savaş hangisidir?",
+    "explanation": "MÖ 490 yılında Atina ile Maraton arasında gerçekleşen bu savaş, Eski Yunan'ın Pers İmparatorluğu'na karşı aldığı ilk büyük zaferdir. Sokrates'in öğrencisi olan Philostratus'tan esinlenilen Platon'un öğrencisi Xenophon tarafından yazılan eserlerd",
+    "options": [
+      "Maraton Savaşı",
+      "Troya Savaşı",
+      "Gaza Savaşı",
+      "Kartaca Savaşı"
+    ],
+    "correctAnswer": "Maraton Savaşı",
+    "tags": [
+      "antik-yunan",
+      "savaşlar",
+      "pers-imp"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mxbfaptg7",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Antik Yunan'da felsefenin merkezi olarak kabul edilen şehir hangisidir?",
+    "explanation": "Atina, Antik Yunan'da felsefenin en önemli merkeziydi ve Sokrates, Platon gibi büyük düşünürler burada yaşamışlardır.",
+    "options": [
+      "Atina",
+      "Sparta",
+      "Korint",
+      "Tebe"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "felsefe",
+      "Antik Yunan",
+      "Atina"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3c2q2o273",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Sparta'nın yönetim yapısı nasıl tanımlanır?",
+    "explanation": "Sparta, az sayıdaki elitlerin yönetiminde olduğu oligarşik bir yapıya sahipti ve askeri disiplin ön plandaydı.",
+    "options": [
+      "Demokrasî",
+      "Oligarşi",
+      "Monarşi",
+      "Anarşi"
+    ],
+    "correctAnswer": "Oligarşi",
+    "tags": [
+      "Sparta",
+      "Antik Yunan",
+      "yönetim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "76z49a33b",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Peloponnes Savaşı'nın tarafları hangileridir?",
+    "explanation": "Peloponnes Savaşı, Atina demokrasisi ile Sparta oligarşisi arasında 431-404 MS yılları arasında gerçekleşti.",
+    "options": [
+      "Atina-Lisedas",
+      "Atina-Sparta",
+      "Sparta-Korint",
+      "Atina-Thebe"
+    ],
+    "correctAnswer": "Atina-Sparta",
+    "tags": [
+      "savaş",
+      "Antik Yunan",
+      "Peloponnes Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t0eqmjtzz",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "EASY",
+    "question": "Parthenon tapınağı nerede yer alır?",
+    "explanation": "Parthenon, Atina'nın Akropolis tepesinde bulunan en ünlü antik tapınaktır ve Athena adına inşa edilmiştir.",
+    "options": [
+      "Atina-Akropolis",
+      "Sparta",
+      "Korint",
+      "Mısır"
+    ],
+    "correctAnswer": "Atina-Akropolis",
+    "tags": [
+      "mimari",
+      "Antik Yunan",
+      "Parthenon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "985duyozz",
+    "category": "TARİH",
+    "subcategory": "Antik Yunan",
+    "difficulty": "GENERAL",
+    "question": "Antik Yunan'da Olimpiya Oyunları her kaç yılda bir düzenlenirdi?",
+    "explanation": "Antik Yunan'daki Olimpiya Oyunları, her 4 yılda bir düzenlenirdi ve Atina dışında Olympia'da yapılırdı.",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "4 yıl",
+      "8 yıl"
+    ],
+    "correctAnswer": "4 yıl",
+    "tags": [
+      "spor",
+      "Antik Yunan",
+      "Olimpiya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

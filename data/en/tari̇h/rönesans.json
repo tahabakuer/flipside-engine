@@ -1,0 +1,112 @@
+[
+  {
+    "id": "57a05xmd5",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EASY",
+    "question": "Rönesans Dönemi hangi yıllar arasında yaşanmıştır?",
+    "explanation": "Rönesans Dönemi, 1450 ile 1650 yılları arasında, Orta Çağ'ın sonu ile Yeni Çağ'ın başlangıcı arasında yaşanmıştır. İtalya'da başlayıp Avrupa'nın geri kalanına yayılmıştır.",
+    "options": [
+      "1300-1500",
+      "1450-1650",
+      "1500-1700",
+      "1350-1550"
+    ],
+    "correctAnswer": "1450-1650",
+    "tags": [
+      "rönesans",
+      "zaman-periyodu",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dw5ls3hwy",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans sanatının en önemli temsilcisi olan 'Leonardo da Vinci'nin ünlü eseri nedir?",
+    "explanation": "Leonardo da Vinci'nin en tanınan eseri 'Mona Lisa'dır. Ayrıca Vitruvius Adamı ve son yemeği gibi önemli çalışmalar yapmıştır.",
+    "options": [
+      "Mona Lisa",
+      "David heykeli",
+      "Vitruvius Adamı",
+      "Kampania manzarası"
+    ],
+    "correctAnswer": "Mona Lisa",
+    "tags": [
+      "sanat",
+      "Leonardo da Vinci",
+      "rönesans-eserleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h65v8ehzu",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans Dönemi felsefesinde 'İnsancılık' (Humanizm) akımı hangi düşünürle özdeşleşmiştir?",
+    "explanation": "Erasmus, Rönesans İnsançılık akımının en önemli temsilcilerinden biridir. İnsan merkezli düşünce yapısını ve klasik kültürün önemini vurgulamıştır.",
+    "options": [
+      "Thomas More",
+      "Erasmus",
+      "Machiavelli",
+      "Montaigne"
+    ],
+    "correctAnswer": "Erasmus",
+    "tags": [
+      "felsefe",
+      "insancılık",
+      "rönesans-düşüncesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j0kjkxdmp",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans Dönemi mimarisinde 'Sante' (Doktor) olarak bilinen ve anatomik çalışmalarıyla ünlü kişi kimdir?",
+    "explanation": "Andreas Vesalius, Rönesans Dönemi tıp biliminde anatomik çalışmalarla ünlüdür. 'De humani corporis fabrica' adlı eseriyle modern anatomi temellerini atmıştır.",
+    "options": [
+      "Andreas Vesalius",
+      "Paracelsus",
+      "Galen",
+      "Hipokrat"
+    ],
+    "correctAnswer": "Andreas Vesalius",
+    "tags": [
+      "anatomı",
+      "tıp",
+      "rönesans-bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1k0a26dnj",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans Dönemi'de İtalya'nın en önemli şehirlerinden ve Rönesans sanatının merkezi olan yer neresidir?",
+    "explanation": "Floransa, Rönesans Dönemi İtalya'nın en önemli şehridir. Leonardo da Vinci, Michelangelo gibi sanatçıların yetiştiği ve Rönesans sanatının doğduğu yerdir.",
+    "options": [
+      "Floransa",
+      "Venedik",
+      "Milano",
+      "Roma"
+    ],
+    "correctAnswer": "Floransa",
+    "tags": [
+      "İtalya",
+      "şehirler",
+      "rönesans-sanat-merkezi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

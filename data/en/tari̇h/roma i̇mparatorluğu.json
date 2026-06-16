@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "h7i2kqck3",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun kuruluşu hangi yıl kabul edilir?",
+    "explanation": "Roma İmparatorluğu'nun resmî kuruluşu 27 M yılında kabul edilir. Bu yıl Octavianus (sonraki ismi Augustus) Roma'yı imparator ilan edildi ve 27 yılından itibaren Roma bir imparatorluğa dönüştü.",
+    "options": [
+      "27 M",
+      "31 M",
+      "476 M",
+      "500 M"
+    ],
+    "correctAnswer": "27 M",
+    "tags": [
+      "kuruluş",
+      "yıl",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w9pl0kvlk",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Augustus kimdir?",
+    "explanation": "Augustus (Octavianus), Roma İmparatorluğu'nun ilk imparatorudur. 27 M - 14 M yılları arasında hüküm sürmüştür ve Roma'yı bir imparatorluğa dönüştürerek yaklaşık 200 yıl boyunca devam eden bir sistem kurmuştur.",
+    "options": [
+      "Roma'nın ilk imparatoru",
+      "Roma'nın son imparatoru",
+      "Atina'nın hükümdarı",
+      "Karadeniz'in prensi"
+    ],
+    "correctAnswer": "Roma'nın ilk imparatoru",
+    "tags": [
+      "imparator",
+      "Augustus",
+      "siyaset"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4e98ff4cf",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu'nun batısı hangi yıl çöktü?",
+    "explanation": "Roma İmparatorluğu'nun batısı 476 M yılında çöktü. Bu yıl Ostrogothlar imparatorluk başkenti Roma'yı ele geçirdi ve Romalı imparatoru deposede etti.",
+    "options": [
+      "31 M",
+      "476 M",
+      "500 M",
+      "750 M"
+    ],
+    "correctAnswer": "476 M",
+    "tags": [
+      "çöküş",
+      "tarih",
+      "batı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j6uqj2rv2",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Kara Devri (Dark Ages) hangi dönemde başladı?",
+    "explanation": "Kara Devri (Dark Ages) Roma İmparatorluğu'nun batısı 476 M yılında çöktüğünde başladı. Bu dönem yaklaşık 1000 yıl boyunca Avrupa kültür ve medeniyetin gerilediği bir zaman dilimi kabul edilir.",
+    "options": [
+      "Roma'nın kuruluşuyla",
+      "Roma'nın batısı çöktüğünde",
+      "İslam'ın doğuşuyla",
+      "Byzans'ın kurulmasıyla"
+    ],
+    "correctAnswer": "Roma'nın batısı çöktüğünde",
+    "tags": [
+      "Kara Devri",
+      "çöküş",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9bxcllg9x",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Roma İmparatorluğu'nun doğusu hangi isimle bilinir?",
+    "explanation": "Roma İmparatorluğu'nun doğusu 476 M yılında çöktüğünde Roma'nın batısı çöktükten sonra varlığını devam ettirdi ve 1453 yılına kadar varlığını sürdürdü. Bu dönem Byzans İmparatorluğu olarak bilinir.",
+    "options": [
+      "Byzans",
+      "Fransa",
+      "İngilterer",
+      "İspanya"
+    ],
+    "correctAnswer": "Byzans",
+    "tags": [
+      "doğu",
+      "Byzans",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e3t5t64x4",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun ilk imparatoru kimdir?",
+    "explanation": "Augustus, Roma'nın ilk imparatoru olup MÖ 27'de iktidara gelmiştir. Julius Caesar ise Cumhuriyet döneminin önemli figürlerinden biridir ve Augustus'un atasıdır.",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Caligula"
+    ],
+    "correctAnswer": "Augustus",
+    "tags": [
+      "Roma İmparatorluğu",
+      "İmparatorlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fxu4ws8ir",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu hangi yıllarda kurulup yıkılmıştır?",
+    "explanation": "Roma İmparatorluğu, Augustus'un MÖ 27'de imparator ilan edilmesiyle Roma Cumhuriyetinden geçiş yapmış ve MS 476 yılında Ostrogothlar tarafından yıkılmıştır.",
+    "options": [
+      "MS 27 - MS 476",
+      "MS 1 - MS 500",
+      "MS 31 - MS 476",
+      "MS 27 - MS 527"
+    ],
+    "correctAnswer": "MS 27 - MS 476",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Yıllar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "clvyiqnlv",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi imparator Roma İmparatorluğu'nun doğu batı ayrılmasını gerçekleştirmiştir?",
+    "explanation": "Diocletian, 286'da imparatorluğun doğu ve batı olmak üzere iki ayrı yönetim bölgesine bölünmesini gerçekleştirmiştir. Bu ayrım MS 395'te son bulmuştur.",
+    "options": [
+      "Diocletian",
+      "Constantine",
+      "Trajan",
+      "Hadrian"
+    ],
+    "correctAnswer": "Diocletian",
+    "tags": [
+      "Roma İmparatorluğu",
+      "İmparatorlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9cedlvn5p",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu'nun en geniş sınırları hangi imparatorluk döneminde olmuştur?",
+    "explanation": "Trajan döneminde Roma İmparatorluğu en geniş sınırlarına ulaşmıştır. MS 106'da Britanya, Dakkia ve Arap Yarımadası topraklarına eklendi.",
+    "options": [
+      "Augustus",
+      "Trajan",
+      "Nero",
+      "Commodus"
+    ],
+    "correctAnswer": "Trajan",
+    "tags": [
+      "Roma İmparatorluğu",
+      "İmparatorlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fs2c8of4h",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Hangi imparator Roma İmparatorluğu'nun resmi dinini Hristiyanlık olarak değiştirmiştir?",
+    "explanation": "Constantine, 313'te Milian Edicti ile Hristiyanlığa resmi tolerans getirmiş ve Roma'nın başkenti Constantinopolis'i kurarak Hristiyanlığı resmi din haline gelmesine zemin hazırlamıştır.",
+    "options": [
+      "Augustus",
+      "Constantine",
+      "Julian",
+      "Theodosius"
+    ],
+    "correctAnswer": "Constantine",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Din",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wpxv8yf80",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi dönem Roma İmparatorluğu'nun en geniş sınırlara ulaştığı ve 'Altın Çağı' olarak bilinen dönemdir?",
+    "explanation": "Antonius Hanedanı döneminde Roma, tarihinin en geniş sınırlarına ulaştı ve yaklaşık 200 yıl boyunca 'Pax Romana' (Roma Barışı) sağlandı. Bu dönem özellikle istikrar ve refah ile bilinir.",
+    "options": [
+      "Cumhuriyet Dönemi",
+      "Severus Hanedanı",
+      "Antonius (Pax Romana) Dönemi",
+      "İç Savaşlar Dönemi"
+    ],
+    "correctAnswer": "Antonius (Pax Romana) Dönemi",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Dönemler",
+      "Pax Romana"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ubimcxec",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "İkinci Romalı İmparatorluk'un kurucusu ve ilk imparator kimdir?",
+    "explanation": "Augustus (Oктаvian), ilk Romalı İmparator olarak kabul edilir. Julius Caesar'dan sonra Cumhuriyet sona erdi ve Augustus 27 MS yılında imparator ilan edildi.",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Trajan"
+    ],
+    "correctAnswer": "Augustus",
+    "tags": [
+      "Roma İmparatorluğu",
+      "İmparatorlar",
+      "Augustus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8i83l5xh3",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi imparator Roma'yı Şanlı Savaşlar döneminin en büyük genişletici olarak bilinir?",
+    "explanation": "Trajan, Dacia Savaşı'nda zafer kazanarak Roma'yı en geniş sınırlarına ulaştırdı. Trajan Köprüsü ve Forum'u da inşa ederek kültürel mirasa katkı sağladı.",
+    "options": [
+      "Hadrian",
+      "Vespasian",
+      "Trajan",
+      "Nerva"
+    ],
+    "correctAnswer": "Trajan",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Genişlemeler",
+      "İmparatorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "66uukupr2",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun batı kısmının çöküşü ne zaman gerçekleşti?",
+    "explanation": "Batı Roma İmparatorluğu 476 MS yılında, son imparator Romulus Augustulus'un tahttan indirilmesiyle resmi olarak çöktü. Bu tarih genellikle Batı Roma'nın bitişine işaret eder.",
+    "options": [
+      "395 MS",
+      "476 MS",
+      "410 MS",
+      "455 MS"
+    ],
+    "correctAnswer": "476 MS",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Çöküş",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pi1vo6ywg",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Hangi imparator Roma'yı Doğu ve Batı'ya ikiye bölerek yönetti?",
+    "explanation": "Diocletian, 286 MS yılında Roma'yı Doğu (Bizans) ve Batı'ya ikiye bölerek yönetim daha verimli hale getirdi. Bu karar imparatorluğun çöküşünü yavaşlattı.",
+    "options": [
+      "Constantine",
+      "Diocletian",
+      "Julian",
+      "Theodosius"
+    ],
+    "correctAnswer": "Diocletian",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Bölünme",
+      "İmparatorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1v5mfrw75",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun kuruluşu ve erken Cumhuriyet dönemi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Augustus (Octavianus), Roma İmparatorluğu'nun ilk imparatoruydu ve MS 27'de iktidara geldi. Batı Roma İmparatorluğu MS 476'da Odoacer tarafından, doğu ise daha geç bir tarihte yıkıldı.",
+    "options": [
+      "Roma İmparatorluğu MS 27'de Octavianus tarafından kurulmuştur.",
+      "Roma İmparatorluğu'nun ilk imparatoru Augustus'tur.",
+      "Roma İmparatorluğu MS 476'da Karl Martel tarafından yıkılmıştır.",
+      "Roma İmparatorluğu sadece batı Roma ile sınırlı idi."
+    ],
+    "correctAnswer": "Roma İmparatorluğu'nun ilk imparatoru Augustus'tur.",
+    "tags": [
+      "Roma Tarihçesi",
+      "İmparatorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g5rlwkzbn",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi savaşı kazanarak Roma İmparatorluğu'nun sınırını genişletmiştir?",
+    "explanation": "Zenta Savaşı (1702), Osmanlı ve Avusturya arasında gerçekleşen önemli bir savaştır. Roma'nın sınır genişletme savaşları arasında Teuthran Savaşı da yer alır.",
+    "options": [
+      "Teuthran Savaşı",
+      "Kanlı Çarşamba",
+      "Zenta Savaşı",
+      "Mactan Savaşı"
+    ],
+    "correctAnswer": "Zenta Savaşı",
+    "tags": [
+      "Savaşlar",
+      "Roma Genişlemesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "54jpmop6k",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu'nun en ünlü imparatorlarından biri olan Trajanus'un başkenti neresidir?",
+    "explanation": "Trajanus, Roma İmparatorluğu'nun 9. imparatoru olup başkent Roma'da hüküm sürmüştür. Trajanus döneminde imparatorluk en geniş sınırlarına ulaşmıştır.",
+    "options": [
+      "Antalya",
+      "İstanbul",
+      "Ankara",
+      "Rome"
+    ],
+    "correctAnswer": "Rome",
+    "tags": [
+      "İmparatorlar",
+      "Başkentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "le6vkksvo",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Hangi olaylar sonucu Roma İmparatorluğu'nu iki parçaya bölünmüş ve batı ile doğu arasındaki ayrılık başlamıştır?",
+    "explanation": "Teodosius I, MS 395'te öldüğünde imparatorluğu oğulları Arcadius ve Honorius arasında ikiye bölündü. Bu ayrılık Roma İmparatorluğu'nun batı ve doğu parçalarından oluşmasına neden oldu.",
+    "options": [
+      "MS 395 - Teodosius'un ölümü",
+      "MS 476 - Karl Martel'in zaferi",
+      "MS 284 - Diocletianus'un tahta çıkışı",
+      "MS 1453 - Fatih Sultan Mehmed"
+    ],
+    "correctAnswer": "MS 395 - Teodosius'un ölümü",
+    "tags": [
+      "Roma Bölünmesi",
+      "Tarih Süreci"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2aoilao87",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi imparator döneminde Roma İmparatorluğu'nda Hristiyanlık resmi din ilan edilmiştir?",
+    "explanation": "Constantinus (Konstantin), MS 313'te Milano Edict'i ile Hristiyanlığa tolerans gösterdi ve daha sonra imparatorlukta resmi din olarak kabul edildi. Bu dönüm Roma tarihinin önemli bir noktasıdır.",
+    "options": [
+      "Augustus",
+      "Constantinus",
+      "Trajanus",
+      "Septimius Severus"
+    ],
+    "correctAnswer": "Constantinus",
+    "tags": [
+      "Hristiyanlık",
+      "Din Dönüşümü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "68gwc0nmt",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun ilk imparatoru kimdir?",
+    "explanation": "Augustus (MS 27-14), Roma'nın ilk imparatoru ve resmi olarak Res Publicae Princeps'tir. Julius Caesar'dan sonra iktidara gelmiştir.",
+    "options": [
+      "Augustus",
+      "Julius Caesar",
+      "Nero",
+      "Caligula"
+    ],
+    "correctAnswer": "Augustus",
+    "tags": [
+      "imparatorlar",
+      "Roma tarihi",
+      "eski çağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j9tja25kd",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi yapı Roma İmparatorluğu'nun en ünlü mimari eseri olarak kabul edilir?",
+    "explanation": "Colosseum (Flavian Amphitheatre), Roma'nın en ünlü yapısı olup gladyatör savaşları ve halk eğlenceleri için inşa edilmiştir.",
+    "options": [
+      "Panteon",
+      "Kolosaeum",
+      "Pantheon",
+      "Colosseum"
+    ],
+    "correctAnswer": "Colosseum",
+    "tags": [
+      "mimari",
+      "Roma anıtları",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "996gsohjz",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Roma İmparatorluğu'nun batıdaki son imparatoru kimdir?",
+    "explanation": "Romulus Augustulus (MS 476), Batı Roma İmparatorluğu'nun son imparatorudur. Otho tarafından tahttan indirilmiş ve bu tarih Roma'nın resmi olarak sona erdiği kabul edilir.",
+    "options": [
+      "Romulus Augustulus",
+      "Constantine I",
+      "Theodosius I",
+      "Valentinian III"
+    ],
+    "correctAnswer": "Romulus Augustulus",
+    "tags": [
+      "imparatorlar",
+      "Roma'nın çöküşü",
+      "Batı Roma İmparatorluğu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8sgk65p02",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi savaşta Romalılar Kartaca'yı tamamen yok etmiş ve Akdeniz kontrolünü sağlamıştır?",
+    "explanation": "Pun Savaşları (MS 264-146) üç savaştan oluşmuş olup, özellikle İkinci Pun Savaşı'nda Roma Kartaca'yı tamamen yok etmiş ve Akdeniz'in kontrolünü sağlamıştır.",
+    "options": [
+      "Pun Savaşları",
+      "Makedonya Savaşları",
+      "Gallic Savaşı",
+      "Parthian Savaşı"
+    ],
+    "correctAnswer": "Pun Savaşları",
+    "tags": [
+      "savaşlar",
+      "Kartaca",
+      "Akdeniz tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8qa31jyny",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Roma İmparatorluğu'nun en geniş dönemi hangisidir?",
+    "explanation": "Trajan (MS 98-117) hükümdarlığı sırasında Roma İmparatorluğu tarihinin en geniş alanını kapsamıştır. Dacia, Pannonia ve Britanya'ya kadar genişlemiştir.",
+    "options": [
+      "Marcus Aurelius",
+      "Trajan",
+      "Hadrian",
+      "Antoninus Pius"
+    ],
+    "correctAnswer": "Trajan",
+    "tags": [
+      "imparatorlar",
+      "Roma'nın en geniş dönemi",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fd0kgdjhi",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun kuruluşu hangi yüzyıla tarihlenir?",
+    "explanation": "Roma İmparatorluğu'nun kuruluşu MÖ 753 civarına, yani MÖ 8. yüzyılda tarihlenir ve Romalıların kurduğu ilk imparatorluk olarak kabul edilir.",
+    "options": [
+      "MÖ 8. Yüzyıl",
+      "MÖ 6. Yüzyıl",
+      "MS 1. Yüzyıl",
+      "MS 5. Yüzyıl"
+    ],
+    "correctAnswer": "MÖ 6. Yüzyıl",
+    "tags": [
+      "kuruluş",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "amouefr7a",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangisi Roma İmparatorluğu'nun en önemli emperatörlerinden biridir?",
+    "explanation": "Trajan, Roma İmparatorluğu'nun en başarılı emperatörlerinden biri olarak kabul edilir ve imparatorluğun sınırlarını genişletmiştir.",
+    "options": [
+      "Neron",
+      "Trajan",
+      "Hıristiyan",
+      "Julius Caesar"
+    ],
+    "correctAnswer": "Trajan",
+    "tags": [
+      "emperatörler",
+      "siyaset"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kb3v0turg",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun resmi dili hangisidir?",
+    "explanation": "Roma İmparatorluğu'nun resmi dili Latince idi ve bu dil günümüzün birçok Avrupa dilinin atasıdır.",
+    "options": [
+      "Yunanca",
+      "Latince",
+      "Farsça",
+      "İbranice"
+    ],
+    "correctAnswer": "Latince",
+    "tags": [
+      "dil",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "axpq7ys5i",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Hangisi Roma İmparatorluğu'nun son dönemine ait bir olaydır?",
+    "explanation": "Roma İmparatorluğu MS 476 yılında batıda (Batı Roma) çöktü, bu tarihe imparatorluğun sonu olarak işaret edilir.",
+    "options": [
+      "İmparatorluğun sınırlarının genişlemesi",
+      "İmparatorluğun batıda çökmesi",
+      "İmparatorluğun doğuda yükselmesi",
+      "İmparatorluğun birleşmesi"
+    ],
+    "correctAnswer": "İmparatorluğun batıda çökmesi",
+    "tags": [
+      "çöküş",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n53wo8dzk",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangisi Roma İmparatorluğu'nun büyük bir askeri başarıyla ilişkilidir?",
+    "explanation": "Roma İmparatorluğu Galya'ya (günümüz Fransa'sı) hakimiyet kurarak büyük bir askeri başarı elde etmiştir.",
+    "options": [
+      "Parslara karşı zafer",
+      "Galya'ya (Fransa) hakimiyet",
+      "Yunanca konuşulan bölgelere hakimiyet",
+      "Afrika kıtasının tamamen fethi"
+    ],
+    "correctAnswer": "Galya'ya (Fransa) hakimiyet",
+    "tags": [
+      "askeri",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7la290s1b",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Who became the first emperor of Rome after Julius Caesar's assassination?",
+    "explanation": "Augustus, originally named Octavian, was the first Roman emperor, establishing the Empire in 27 BC after Caesar's assassination.",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Trajan"
+    ],
+    "correctAnswer": "Augustus",
+    "tags": [
+      "Empire",
+      "Emperor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "865tcncly",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Which city-state was Rome's main adversary during the Punic Wars?",
+    "explanation": "The Punic Wars were fought between Rome and Carthage, with Carthage being the primary adversary in these conflicts over Mediterranean dominance.",
+    "options": [
+      "Carthage",
+      "Athens",
+      "Sparta",
+      "Alexandria"
+    ],
+    "correctAnswer": "Carthage",
+    "tags": [
+      "Empire",
+      "Battle"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "etailwmg1",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "In which year did the Western Roman Empire fall?",
+    "explanation": "The Western Roman Empire officially ended in 476 AD when the last emperor, Romulus Augustulus, was deposed by Odoacer.",
+    "options": [
+      "476 AD",
+      "1453 AD",
+      "800 AD",
+      "1291 AD"
+    ],
+    "correctAnswer": "476 AD",
+    "tags": [
+      "Empire",
+      "Decline"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tlub9tqis",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Which emperor moved the Roman capital to Byzantium (modern-day Istanbul)?",
+    "explanation": "Constantine founded Constantinople in 330 AD as the new capital, shifting focus from Rome to a strategic eastern location.",
+    "options": [
+      "Augustus",
+      "Constantine",
+      "Diocletian",
+      "Nero"
+    ],
+    "correctAnswer": "Constantine",
+    "tags": [
+      "Emperor",
+      "Empire"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4biv9h60y",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Which emperor commissioned the construction of the Colosseum in Rome?",
+    "explanation": "The Colosseum was begun by Vespasian in 70 AD and completed by his son Titus. It became a central venue for public games.",
+    "options": [
+      "Vespasian",
+      "Nero",
+      "Trajan",
+      "Hadrian"
+    ],
+    "correctAnswer": "Vespasian",
+    "tags": [
+      "Empire",
+      "Architecture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r1gcvul5c",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Roma İmparatorluğu resmi olarak MS 27 yılında Augustus tarafından kurulmuştur. Gaius Julius Caesar ise cumhuriyet döneminin sonundaki önemli figürdür ancak imparatorluğu kurmamıştır.",
+    "options": [
+      "Gaius Julius Caesar",
+      "Augustus (Octavian)",
+      "Nero",
+      "Trajan"
+    ],
+    "correctAnswer": "Augustus (Octavian)",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Kuruluş",
+      "İmparatorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qjne6ksis",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi Roma İmparatoru Hristiyanlığı resmi din olarak kabul ettirmiştir?",
+    "explanation": "Theodosius I (379-395), Hristiyanlığı Roma İmparatorluğu'nun resmi dini olarak kabul ettirmiş ve paganizmi yasallaştırmıştır.",
+    "options": [
+      "Constantine I",
+      "Theodosius I",
+      "Julian the Apostate",
+      "Diocletian"
+    ],
+    "correctAnswer": "Theodosius I",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Din",
+      "Hristiyanlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hiwi7iltr",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu hangi yıllarda var olmuştur?",
+    "explanation": "Roma İmparatorluğu MS 27 yılında Augustus ile başlayıp, Batı Roma İmparatorluğu MS 476 yılında Odoacer tarafından yıkılmıştır.",
+    "options": [
+      "MS 27 - MS 476 (Batı)",
+      "MS 30 - MS 150",
+      "MS 100 - MS 600",
+      "MS 50 - MS 800"
+    ],
+    "correctAnswer": "MS 27 - MS 476 (Batı)",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Tarih",
+      "Dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7muqcqbw2",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi olayla Roma İmparatorluğu'na 'Altın Çağ' dönemi başlamıştır?",
+    "explanation": "Pax Romana (Roma Huzuru), MS 27-180 yılları arasında Augustus'dan Trajan'a kadar devam eden, imparatorluğun genişlediği ve istikrarlı olduğu dönemi ifade eder.",
+    "options": [
+      "Pax Romana",
+      "Kızıl Kule'nin inşası",
+      "Pantheon'un tamamlanması",
+      "Tiber Nehri'nin temizlenmesi"
+    ],
+    "correctAnswer": "Pax Romana",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Altın Çağ",
+      "Huzur Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "60qx3ndwr",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Hangi Roma İmparatoru 'Kızıl Kule' (Colosseum)'nun inşasına başlatmıştır?",
+    "explanation": "Kızıl Kule (Colosseum), Vespasian tarafından MS 70-80 yılları arasında inşa ettirilmiş ve Flavianların simgesi olarak kabul edilmiştir.",
+    "options": [
+      "Vespasian",
+      "Nerva",
+      "Hadrian",
+      "Commodus"
+    ],
+    "correctAnswer": "Vespasian",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Colosseum",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k47kp1qvx",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun başkenti hangisidir?",
+    "explanation": "Roma İmparatorluğu'nun başkenti Roma şehridir. Konstantinopolis daha sonra İmparatorluk döneminde başkent yapılmıştır ancak klasik Roma'da başkent Roma'dır.",
+    "options": [
+      "Kurt",
+      "Antalya",
+      "Konstantinopolis",
+      "Roma"
+    ],
+    "correctAnswer": "Roma",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Başkentler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1bgeu4eb5",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "İmparator Vespasianus hangi dönemde yaşamıştır?",
+    "explanation": "Vespasianus, MS 69 yılında iktidara gelmiş ve MS 79 yılında ölmüştür. Fırsatçı bir dönemde Roma'yı yöneten önemli bir imparatordur.",
+    "options": [
+      "MS 27-MS 41",
+      "MS 69-MS 79",
+      "MS 305-MS 337",
+      "MS 383-MS 455"
+    ],
+    "correctAnswer": "MS 69-MS 79",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Vespasianus",
+      "İmparatorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2uuvgpap5",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu'nun en güçlü dönemi hangi yüzyılda yaşanmıştır?",
+    "explanation": "Roma İmparatorluğu'nun en güçlü ve geniş dönemi 1-2 yüzyıllarda, özellikle Trajanus ve Hadrianus dönemlerinde yaşanmıştır.",
+    "options": [
+      "1. Yüzyıl",
+      "2. Yüzyıl",
+      "3. Yüzyıl",
+      "4. Yüzyıl"
+    ],
+    "correctAnswer": "2. Yüzyıl",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Güçlü Dönem",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f1nr1ww6a",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Hangisi Roma İmparatorluğu'nda yaşayan bir imparator değildir?",
+    "explanation": "Constantinus Doğu Roma döneminde yaşamıştır. Augustus, Julianus ve Caracalla ise Klasik Roma'da yaşayan imparatorlardır.",
+    "options": [
+      "Julianus",
+      "Constantinus",
+      "Augustus",
+      "Caracalla"
+    ],
+    "correctAnswer": "Constantinus",
+    "tags": [
+      "Roma İmparatorluğu",
+      "İmparatorlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qrtn75kf0",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu'nun batı kısmının çöküşü hangi yıl gerçekleşmiştir?",
+    "explanation": "Batı Roma İmparatorluğu MS 476 yılında Odoaker tarafından yıkılmış ve çökmüştür. Doğu Roma ise daha uzun süre yaşamıştır.",
+    "options": [
+      "MS 395",
+      "MS 476",
+      "MS 800",
+      "MS 1453"
+    ],
+    "correctAnswer": "MS 476",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Çöküş",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfl3qsb4r",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Roma İmparatorluğu'nun kurucusu ve efsanevi ilk imparator kimdir?",
+    "explanation": "Augustus (Oktavyan), Roma'nın kurucu imparatoru ve ilk imparator olarak kabul edilir. MÖ 27'de resmiyet kazandı ve 'Pater Patriae' (Babalar Babası) unvanı aldı.",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Trajan"
+    ],
+    "correctAnswer": "Augustus",
+    "tags": [
+      "Roma İmparatorluğu",
+      "İmparatorlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ktqova0wg",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu hangi iki kıtayı kapsıyordu?",
+    "explanation": "Roma İmparatorluğu'nun en geniş dönemlerinde Avrupa ve Asya kıtalarını kapsıyordu. Ayrıca Afrika topraklarına da sahipti (Mısır, Kuzey Afrika bölgeleri).",
+    "options": [
+      "Avrupa ve Afrika",
+      "Avrupa ve Asya",
+      "Asya ve Amerika",
+      "Avustralya ve Avrupa"
+    ],
+    "correctAnswer": "Avrupa ve Asya",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Coğrafya",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kc9dkcpqr",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi imparator Roma İmparatorluğu'nu resmen ikiye böldü?",
+    "explanation": "Theodosius I (395'te öldü), Roma İmparatorluğu'nu resmen Doğu ve Batı Roma İmparatorluğu olarak ikiye böldü. Bu bölünme, oğlu tarafından onaylandı.",
+    "options": [
+      "Diocletian",
+      "Constantine",
+      "Theodosius I",
+      "Julian"
+    ],
+    "correctAnswer": "Theodosius I",
+    "tags": [
+      "Roma İmparatorluğu",
+      "İmparatorlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3qyybbdez",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Roma İmparatorluğu'nun en ünlü mimari eseri olan Koloseum hangi yüzyılda inşa edildi?",
+    "explanation": "Koloseum (Flavian Amphitheatre), M.S. 70-80 yılları arasında Flavyan imparatorları tarafından inşa edildi ve Roma'nın en büyük amphiteatresi olarak bilinir.",
+    "options": [
+      "1. Yüzyıl",
+      "2. Yüzyıl",
+      "3. Yüzyıl",
+      "4. Yüzyıl"
+    ],
+    "correctAnswer": "1. Yüzyıl",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Mimarlık",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oseri8qmp",
+    "category": "TARİH",
+    "subcategory": "Roma İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Hangi olay Roma İmparatorluğu'nun Batı Roma'nın çöküşüne yol açtı?",
+    "explanation": "Batı Roma İmparatorluğu, 476 yılında Odoaker'in Romulus Augustulus'u tahttan indirmesiyle resmen çöktü. Gotlar ve diğer Germen kabilelerinin saldırıları bu süreci hızlandırdı.",
+    "options": [
+      "Viking Baskıları",
+      "Gotların ve Diğer Germen Kabilelerin Saldırıları",
+      "İslami Fetihler",
+      "Selçuklu İstilası"
+    ],
+    "correctAnswer": "Gotların ve Diğer Germen Kabilelerin Saldırıları",
+    "tags": [
+      "Roma İmparatorluğu",
+      "Çöküş",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

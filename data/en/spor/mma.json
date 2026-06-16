@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "1zrxkx9cf",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What does MMA stand for in the context of combat sports?",
+    "explanation": "MMA stands for Mixed Martial Arts, which is a full-contact combat sport that allows fighters to use various martial arts techniques including striking and grappling.",
+    "options": [
+      "Modern Martial Arts",
+      "Mixed Martial Arts",
+      "Martial Mastery Academy",
+      "Maximum Martial Arts"
+    ],
+    "correctAnswer": "Mixed Martial Arts",
+    "tags": [
+      "combat-sports",
+      "mma",
+      "basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0n6jw3f7c",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is NOT typically allowed in MMA competitions?",
+    "explanation": "Eye gouging is prohibited in MMA competitions as it poses serious safety risks, while punches, knees, and elbows are legal striking techniques within the rules.",
+    "options": [
+      "Punches",
+      "Knees",
+      "Eye Gouges",
+      "Elbows"
+    ],
+    "correctAnswer": "Eye Gouges",
+    "tags": [
+      "mma-rules",
+      "safety",
+      "competition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ybp6y7ef",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What is the primary objective of a fighter in MMA?",
+    "explanation": "MMA fighters aim to win through three main methods: knockout (striking), submission (grappling holds that force tap-out), or decision (judges' score after the fight ends without a stoppage).",
+    "options": [
+      "To score points only",
+      "To win by knockout, submission, or decision",
+      "To fall down first",
+      "To avoid contact entirely"
+    ],
+    "correctAnswer": "To win by knockout, submission, or decision",
+    "tags": [
+      "mma-objective",
+      "winning",
+      "fundamentals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g0g5o4grv",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which grappling technique involves wrapping an opponent's limb with your own?",
+    "explanation": "The Kimura is a submission hold that involves using your arm to wrap around and apply pressure to the opponent's shoulder joint, derived from Judo techniques.",
+    "options": [
+      "Stranglehold",
+      "Armbar",
+      "Kimura",
+      "Triangle Choke"
+    ],
+    "correctAnswer": "Kimura",
+    "tags": [
+      "grappling",
+      "judo",
+      "technique"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ejggrjd8",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What type of training helps MMA fighters develop both striking and grappling skills?",
+    "explanation": "MMA fighters typically cross-train in various martial arts (like boxing, wrestling, BJJ, Muay Thai) to develop comprehensive striking and grappling abilities needed for competition.",
+    "options": [
+      "Boxing only",
+      "Brazilian Jiu-Jitsu only",
+      "Cross-training in multiple martial arts",
+      "Meditation practices"
+    ],
+    "correctAnswer": "Cross-training in multiple martial arts",
+    "tags": [
+      "training-methods",
+      "cross-training",
+      "skill-development"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nfxrbqwh4",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is the primary energy system used during an MMA fight's explosive movements?",
+    "explanation": "The ATP-PCr (phosphagen) system provides immediate energy for explosive movements like takedowns and strikes, lasting 5-10 seconds before the anaerobic lactic system takes over.",
+    "options": [
+      "Aerobic",
+      "Anaerobic Lactic",
+      "ATP-PCr System",
+      "Phosphagen"
+    ],
+    "correctAnswer": "ATP-PCr System",
+    "tags": [
+      "SPOR-MMA",
+      "Physiology",
+      "Energy Systems"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "81s0ogplp",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "Which nutrient is most critical for MMA fighters during weight cuts?",
+    "explanation": "Complex carbohydrates are essential during weight cuts as they provide sustained energy and help maintain glycogen stores while allowing for controlled dehydration.",
+    "options": [
+      "Complex Carbohydrates",
+      "Simple Sugars",
+      "Protein Only",
+      "Fats"
+    ],
+    "correctAnswer": "Complex Carbohydrates",
+    "tags": [
+      "SPOR-MMA",
+      "Nutrition",
+      "Weight Management"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kstcrvnqa",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EXPERT",
+    "question": "What percentage of fighters typically experience lower body injuries in MMA?",
+    "explanation": "Research shows 35-40% of MMA fighters experience lower body injuries, primarily from kicks, takedowns, and ground-and-pound techniques.",
+    "options": [
+      "10-15%",
+      "20-25%",
+      "35-40%",
+      "50-60%"
+    ],
+    "correctAnswer": "35-40%",
+    "tags": [
+      "SPOR-MMA",
+      "Injury Prevention",
+      "Statistics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w691ichxt",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "How does anaerobic capacity correlate with fight performance in MMA?",
+    "explanation": "Higher anaerobic capacity correlates with better fight performance as it allows fighters to maintain intensity and recover between exchanges of strikes.",
+    "options": [
+      "Negative correlation",
+      "No correlation",
+      "Positive correlation",
+      "Inverse relationship"
+    ],
+    "correctAnswer": "Positive correlation",
+    "tags": [
+      "SPOR-MMA",
+      "Performance",
+      "Training"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jpuk02xpt",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EXPERT",
+    "question": "What is the recommended weekly training volume for elite MMA fighters?",
+    "explanation": "Elite MMA fighters typically train 25-35 hours weekly, balancing skill development, conditioning, and recovery to prevent overtraining.",
+    "options": [
+      "15-20 hours",
+      "25-35 hours",
+      "40-50 hours",
+      "60+ hours"
+    ],
+    "correctAnswer": "25-35 hours",
+    "tags": [
+      "SPOR-MMA",
+      "Training Volume",
+      "Periodization"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fnr4h30i8",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What does 'MMA' stand for in the context of combat sports?",
+    "explanation": "MMA stands for Mixed Martial Arts, which is a full-contact combat sport that allows striking and grappling techniques from various martial arts styles.",
+    "options": [
+      "Mixed Martial Arts",
+      "Major Military Athletics",
+      "Modern Melee Arena",
+      "Master Martial Academy"
+    ],
+    "correctAnswer": "Mixed Martial Arts",
+    "tags": [
+      "terminology",
+      "basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1esgkeu5t",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which weight class in MMA corresponds to approximately 155 lbs?",
+    "explanation": "In MMA weight classes, Lightweight typically corresponds to around 155 lbs (70.3 kg) for men's divisions.",
+    "options": [
+      "Featherweight",
+      "Lightweight",
+      "Welterweight",
+      "Middleweight"
+    ],
+    "correctAnswer": "Lightweight",
+    "tags": [
+      "weights",
+      "classes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1qc478qfb",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is the typical duration of each round in a standard MMA fight?",
+    "explanation": "Most professional MMA fights consist of 3-minute rounds, though some organizations use 5-minute rounds for championship bouts.",
+    "options": [
+      "2 minutes",
+      "5 minutes",
+      "10 minutes",
+      "15 minutes"
+    ],
+    "correctAnswer": "5 minutes",
+    "tags": [
+      "rules",
+      "time"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b4h81q4bm",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which strike is NOT typically allowed in most MMA rulesets?",
+    "explanation": "Eye pokes are generally prohibited in most MMA rulesets as they can cause severe injury and are considered dangerous strikes.",
+    "options": [
+      "Punch to the head",
+      "Knee to the body",
+      "Eye poke",
+      "Elbow to the torso"
+    ],
+    "correctAnswer": "Eye poke",
+    "tags": [
+      "rules",
+      "striking"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "deb5ttdb6",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EXPERT",
+    "question": "What is the primary purpose of a 'sparring' session in MMA training?",
+    "explanation": "Sparring in MMA training is done to test and refine techniques, timing, and strategy while allowing fighters to experience fight-like scenarios in a controlled environment.",
+    "options": [
+      "To score points",
+      "To practice without full contact",
+      "To test technique under controlled conditions",
+      "To compete for belt titles"
+    ],
+    "correctAnswer": "To test technique under controlled conditions",
+    "tags": [
+      "training",
+      "technique"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kncc2viaw",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is one of the primary safety requirements for fighters participating in MMA competitions?",
+    "explanation": "MMA fighters are required to wear protective equipment including mouthguards, groin protectors, and hand wraps for safety during competition.",
+    "options": [
+      "Wear mouthguard and groin protector",
+      "Compete barefoot only",
+      "No hand wraps allowed",
+      "Fight in a standing position only"
+    ],
+    "correctAnswer": "Wear mouthguard and groin protector",
+    "tags": [
+      "SPOR-MMA",
+      "Safety",
+      "Equipment"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9pmkyt5zi",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which position involves a fighter on the bottom trying to escape while the opponent is attempting submissions from above?",
+    "explanation": "The guard position is when a fighter is on their back with legs wrapped around the opponent, attempting to escape and defend against submissions.",
+    "options": [
+      "Guard position",
+      "Mount position",
+      "Back control",
+      "Side control"
+    ],
+    "correctAnswer": "Guard position",
+    "tags": [
+      "SPOR-MMA",
+      "Positioning",
+      "Technique"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hm2ekerqu",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What is the typical duration of each round in amateur MMA competitions?",
+    "explanation": "Most amateur MMA competitions have rounds lasting 3 minutes with standard rest periods between rounds.",
+    "options": [
+      "3 minutes",
+      "5 minutes",
+      "10 minutes",
+      "15 minutes"
+    ],
+    "correctAnswer": "3 minutes",
+    "tags": [
+      "SPOR-MMA",
+      "Rules",
+      "Competition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vhlut1npa",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "Which of these is NOT considered a major striking technique in Mixed Martial Arts?",
+    "explanation": "Grappling involves holds and submissions rather than striking, while punches, kicks, and knees are all major striking techniques.",
+    "options": [
+      "Punches",
+      "Kicks",
+      "Grappling",
+      "Knees"
+    ],
+    "correctAnswer": "Grappling",
+    "tags": [
+      "SPOR-MMA",
+      "Techniques",
+      "Striking"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bverclpsm",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is the primary objective of the 'kimura' submission technique?",
+    "explanation": "The kimura is an arm submission where the fighter wraps their arms around the opponent's arm and applies pressure to hyperextend or break it.",
+    "options": [
+      "Break the opponent's arm by wrapping around it",
+      "Choke the opponent using their own body",
+      "Takedown the opponent to the ground",
+      "Trap the opponent in a corner"
+    ],
+    "correctAnswer": "Break the opponent's arm by wrapping around it",
+    "tags": [
+      "SPOR-MMA",
+      "Submissions",
+      "Technique"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "878ep5b9w",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What is the primary conditioning benefit of shadowboxing in MMA training?",
+    "explanation": "Shadowboxing improves cardiovascular endurance through continuous movement, enhances footwork and defensive reflexes via real-time reaction practice, and develops punching power by simulating fight scenarios.",
+    "options": [
+      "Increased cardiovascular endurance",
+      "Improved footwork and defensive reflexes",
+      "Enhanced punching power generation",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "tags": [
+      "conditioning",
+      "training-methods",
+      "technique"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "toyx6uf0t",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which nutritional component is most critical for a fighter's recovery between training sessions?",
+    "explanation": "Protein is essential for muscle repair and recovery after intense training sessions, helping fighters maintain lean mass and reduce soreness while preparing for competition.",
+    "options": [
+      "High protein intake",
+      "Excessive carbohydrate consumption",
+      "Large amounts of caffeine",
+      "Low-fat diet"
+    ],
+    "correctAnswer": "High protein intake",
+    "tags": [
+      "nutrition",
+      "recovery",
+      "training"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fyweo11ei",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is the main purpose of grappling drilling in MMA preparation?",
+    "explanation": "Grappling drills specifically focus on developing defensive skills against submissions and improving resistance to takedowns, which are crucial aspects of MMA competition.",
+    "options": [
+      "To build upper body strength",
+      "To develop submission defense and takedown resistance",
+      "To improve striking accuracy",
+      "To enhance speed"
+    ],
+    "correctAnswer": "To develop submission defense and takedown resistance",
+    "tags": [
+      "grappling",
+      "defense",
+      "training-methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5m6rg4gtq",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EXPERT",
+    "question": "Which striking combination is commonly used to set up a clinch in MMA?",
+    "explanation": "MMA fighters use various striking combinations to close distance and set up clinch work, depending on their game plan and opponent's weaknesses.",
+    "options": [
+      "Low kick followed by jab",
+      "Body shot followed by head kick",
+      "Two-punch combo followed by knee strike",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "tags": [
+      "striking",
+      "combination",
+      "fight-strategy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uu0q23hmw",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is the recommended fight camp duration for a professional MMA fighter?",
+    "explanation": "Most professional MMA fighters train in fight camp for 4-8 weeks before competition, allowing adequate time for skill refinement while avoiding burnout or injury.",
+    "options": [
+      "2-3 weeks",
+      "4-8 weeks",
+      "10-12 weeks",
+      "3-6 months"
+    ],
+    "correctAnswer": "4-8 weeks",
+    "tags": [
+      "fight-camp",
+      "competition",
+      "training-planning"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rcqyr1cs5",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What does MMA stand for in the context of modern combat sports?",
+    "explanation": "MMA stands for Mixed Martial Arts, which combines various fighting disciplines including boxing, wrestling, Brazilian Jiu-Jitsu, Muay Thai, and other martial arts into one comprehensive combat sport.",
+    "options": [
+      "Mixed Martial Arts",
+      "Master of Martial Arts",
+      "Modern Martial Academy",
+      "Martial Methods Association"
+    ],
+    "correctAnswer": "Mixed Martial Arts",
+    "tags": [
+      "SPOR-MMA",
+      "Fundamentals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5imdm95l9",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which organization is most commonly associated with professional MMA competitions in the United States?",
+    "explanation": "The UFC is the largest and most prestigious MMA organization in the world, based in Las Vegas with fighters from around the globe competing under standardized rules.",
+    "options": [
+      "Ultimate Fighting Championship (UFC)",
+      "Professional Fighters League (PFL)",
+      "Bellator MMA",
+      "ONE Championship"
+    ],
+    "correctAnswer": "Ultimate Fighting Championship (UFC)",
+    "tags": [
+      "SPOR-MMA",
+      "Organizations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6uzizsvhi",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum number of rounds in a standard professional MMA fight?",
+    "explanation": "Standard professional MMA fights consist of 3 rounds of 5 minutes each, while title fights have 5 rounds. The maximum is therefore 5 rounds.",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "SPOR-MMA",
+      "Rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "27kwqswgv",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which striking discipline involves knee and elbow strikes from a standing position?",
+    "explanation": "Muay Thai is known as the 'Art of Eight Limbs' because fighters use fists, elbows, knees, and shins. It emphasizes close-range striking including knee and elbow attacks.",
+    "options": [
+      "Muay Thai",
+      "Kickboxing",
+      "Boxing",
+      "Taekwondo"
+    ],
+    "correctAnswer": "Muay Thai",
+    "tags": [
+      "SPOR-MMA",
+      "Striking"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vhuukdw1g",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What type of grappling involves techniques performed on the ground?",
+    "explanation": "Brazilian Jiu-Jitsu (BJJ) focuses primarily on ground fighting, submission holds, and positional control, making it essential for MMA fighters who need to defend in the clinch and on the ground.",
+    "options": [
+      "Brazilian Jiu-Jitsu",
+      "Wrestling",
+      "Judo",
+      "Sambo"
+    ],
+    "correctAnswer": "Brazilian Jiu-Jitsu",
+    "tags": [
+      "SPOR-MMA",
+      "Grappling"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "59q91i96j",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What does 'MMA' stand for in the context of combat sports?",
+    "explanation": "MMA stands for Mixed Martial Arts, which is a full-contact combat sport that allows fighters to use various techniques from different martial arts disciplines including striking and grappling.",
+    "options": [
+      "Mixed Martial Arts",
+      "Modern Martial Academy",
+      "Multiple Martial Applications",
+      "Martial Masters Association"
+    ],
+    "correctAnswer": "Mixed Martial Arts",
+    "tags": [
+      "terminology",
+      "basics",
+      "combat-sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lu8su5w8v",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "Which organization is considered the premier MMA promotion in the United States?",
+    "explanation": "The UFC is widely regarded as the premier MMA promotion in the United States and globally, featuring the world's top fighters across multiple weight divisions.",
+    "options": [
+      "UFC (Ultimate Fighting Championship)",
+      "Bellator MMA",
+      "ONE Championship",
+      "PFL (Professional Fighters League)"
+    ],
+    "correctAnswer": "UFC (Ultimate Fighting Championship)",
+    "tags": [
+      "organizations",
+      "promotions",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vt10sj14q",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is the most common way for an MMA fight to end?",
+    "explanation": "According to MMA statistics, decisions (including unanimous, split, and majority) are the most common way fights end, followed by TKOs and submissions.",
+    "options": [
+      "Knockout",
+      "Submission",
+      "Decision/TKO",
+      "Split Decision"
+    ],
+    "correctAnswer": "Decision/TKO",
+    "tags": [
+      "rules",
+      "fight-outcomes",
+      "statistics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "txzmnw82o",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What equipment is mandatory for all fighters in professional MMA?",
+    "explanation": "Professional MMA fighters must wear gloves (4-6 oz), competition shorts, and a mouthguard for safety. Other gear like shin guards or helmets are not allowed in standard MMA bouts.",
+    "options": [
+      "Gloves, shorts, mouthguard",
+      "Helmet, shin guards, gloves",
+      "MMA boots, wraps, gloves only",
+      "None - bare minimum"
+    ],
+    "correctAnswer": "Gloves, shorts, mouthguard",
+    "tags": [
+      "safety",
+      "equipment",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nlak5dovv",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EXPERT",
+    "question": "Which striking technique is NOT typically legal in traditional Muay Thai but IS common in MMA?",
+    "explanation": "In traditional Muay Thai, head kicks (especially above the waist to the head) are rarely used and often considered illegal in competition. In MMA, head kicks are legal and commonly employed by kickboxers who transition to MMA.",
+    "options": [
+      "Elbow strikes",
+      "Knee strikes",
+      "Head kicks",
+      "None - all are legal"
+    ],
+    "correctAnswer": "Head kicks",
+    "tags": [
+      "techniques",
+      "striking",
+      "disciplines"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0q161rsyy",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What is the primary purpose of wearing mouthguards in MMA training and competition?",
+    "explanation": "Mouthguards are essential protective gear in MMA designed to prevent dental injuries, reduce the risk of concussions by absorbing impact force on the jaw, and protect teeth from being knocked out during strikes.",
+    "options": [
+      "To improve breathing capacity",
+      "To protect teeth and jaw from impact injuries",
+      "To enhance taste sensation during fights",
+      "To keep competitors warm"
+    ],
+    "correctAnswer": "To protect teeth and jaw from impact injuries",
+    "tags": [
+      "Safety",
+      "Equipment",
+      "MMA-Rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "djprcrwr9",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which of the following techniques is NOT typically used in Mixed Martial Arts?",
+    "explanation": "While MMA incorporates techniques from various martial arts, sumo wrestling is a distinct Japanese sport with its own specialized rules and techniques not designed for the full-contact nature of MMA competition.",
+    "options": [
+      "Punching",
+      "Kicking",
+      "Sumo wrestling throws",
+      "Elbow strikes"
+    ],
+    "correctAnswer": "Sumo wrestling throws",
+    "tags": [
+      "Techniques",
+      "MMA-Styles",
+      "Combat-Sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "54at1ps0w",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is the typical round structure for an amateur MMA fight?",
+    "explanation": "Amateur MMA fights typically consist of 3 rounds, each lasting 3 minutes with 1 minute rest between rounds. Professional fights use 5 rounds of 5 minutes for championship bouts.",
+    "options": [
+      "3 rounds of 5 minutes each",
+      "3 rounds of 3 minutes each",
+      "5 rounds of 3 minutes each",
+      "2 rounds of 10 minutes each"
+    ],
+    "correctAnswer": "3 rounds of 3 minutes each",
+    "tags": [
+      "Rules",
+      "Competition-Structure",
+      "MMA-Format"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nawpfkmg5",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which training component is essential for improving a fighter's ability to absorb and deliver powerful strikes?",
+    "explanation": "Resistance training builds the muscle strength and power necessary for fighters to deliver impactful strikes while also conditioning their bodies to absorb incoming blows without injury.",
+    "options": [
+      "Cardiovascular conditioning",
+      "Flexibility work",
+      "Resistance training",
+      "Nutritional planning"
+    ],
+    "correctAnswer": "Resistance training",
+    "tags": [
+      "Training",
+      "Strength-and-Conditioning",
+      "Fighter-Preparation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bzhywfl2z",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EXPERT",
+    "question": "What is the official weight limit for a bantamweight division in professional MMA?",
+    "explanation": "In professional MMA organizations like the UFC, bantamweight is a weight class with fighters competing at 135 lbs (approximately 61 kg). Featherweight starts at 145 lbs and lightweight at 155 lbs.",
+    "options": [
+      "126 lbs (57 kg)",
+      "135 lbs (61 kg)",
+      "145 lbs (66 kg)",
+      "155 lbs (70 kg)"
+    ],
+    "correctAnswer": "135 lbs (61 kg)",
+    "tags": [
+      "Weight-Classifications",
+      "MMA-Rules",
+      "Professional-Divisions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "adx4293pp",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What is the primary function of a postural assessment in MMA training?",
+    "explanation": "Postural assessments help identify skeletal misalignments such as forward head posture or rounded shoulders, which are common in fighters and can predispose athletes to injuries during combat training.",
+    "options": [
+      "To measure muscle mass",
+      "To identify skeletal alignment issues that could lead to injury",
+      "To determine cardiovascular fitness levels",
+      "To assess nutritional deficiencies"
+    ],
+    "correctAnswer": "To identify skeletal alignment issues that could lead to injury",
+    "tags": [
+      "assessment",
+      "injury-prevention",
+      "sports-medicine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wstlujduh",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "Which type of injury is most commonly associated with repeated punching in boxing and MMA?",
+    "explanation": "Repeated punching, especially on hard surfaces or with poor technique, can cause forceful impact to the knuckles, leading to fractures of the fourth and fifth metacarpals.",
+    "options": [
+      "Ligament sprain",
+      "Knuckle fracture (boxer's fracture)",
+      "Tendon rupture",
+      "Muscle strain"
+    ],
+    "correctAnswer": "Knuckle fracture (boxer's fracture)",
+    "tags": [
+      "injury",
+      "boxing",
+      "combat-sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k1eaq16f3",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What is a key component of concussion management in combat sports?",
+    "explanation": "Concussion management requires a step-by-step return-to-play protocol that includes cognitive rest, gradual increase in activity, and medical clearance before returning to combat sports.",
+    "options": [
+      "Immediate return to fight",
+      "Gradual cognitive and physical recovery protocol",
+      "Ignoring symptoms for faster healing",
+      "Only treating headaches"
+    ],
+    "correctAnswer": "Gradual cognitive and physical recovery protocol",
+    "tags": [
+      "concussion",
+      "recovery",
+      "sports-medicine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6il5yldqo",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which muscle group is most important for hip stability during kicking techniques in MMA?",
+    "explanation": "The gluteus medius stabilizes the hip during dynamic movements like kicking, helping maintain balance and proper form while reducing injury risk.",
+    "options": [
+      "Gluteus medius",
+      "Pectoralis major",
+      "Deltoid",
+      "Trapezius"
+    ],
+    "correctAnswer": "Gluteus medius",
+    "tags": [
+      "kicking",
+      "hip-stability",
+      "strength-training"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zz2kbfb8y",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EXPERT",
+    "question": "What is the recommended timeframe for returning to sparring after a minor elbow dislocation in MMA athletes?",
+    "explanation": "Minor elbow dislocations require rehabilitation focusing on ligament healing, strength restoration, and stability before returning to sparring, typically 4-6 weeks with medical clearance.",
+    "options": [
+      "1-2 days",
+      "4-6 weeks with physical therapy clearance",
+      "3 months minimum",
+      "Immediate return if no pain"
+    ],
+    "correctAnswer": "4-6 weeks with physical therapy clearance",
+    "tags": [
+      "rehabilitation",
+      "dislocation",
+      "sports-medicine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yrfak9qhd",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "What does MMA stand for in the context of combat sports?",
+    "explanation": "MMA stands for Mixed Martial Arts, which is a full-contact combat sport that allows both striking and grappling techniques from various disciplines.",
+    "options": [
+      "Mixed Martial Arts",
+      "Maximum Match Arena",
+      "Modern Martial Academy",
+      "Multi-Movement Athletics"
+    ],
+    "correctAnswer": "Mixed Martial Arts",
+    "tags": [
+      "terminology",
+      "basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "417g5ccbc",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EASY",
+    "question": "Which organization is considered the premier MMA promotion in the United States?",
+    "explanation": "The UFC is widely recognized as the largest and most prestigious MMA organization in the United States, featuring top fighters from around the world.",
+    "options": [
+      "Ultimate Fighting Championship (UFC)",
+      "Bellator MMA",
+      "ONE Championship",
+      "Pride FC"
+    ],
+    "correctAnswer": "Ultimate Fighting Championship (UFC)",
+    "tags": [
+      "organizations",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v3e438a17",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "What type of protective gear must a fighter wear during an MMA bout?",
+    "explanation": "MMA fighters must wear 4-ounce or 8-ounce gloves and a mouthguard, with additional protective equipment like shin guards in some cases.",
+    "options": [
+      "Gloves and mouthguard at minimum",
+      "Full face shield and helmet",
+      "Heavy padded gloves only",
+      "No protective gear required"
+    ],
+    "correctAnswer": "Gloves and mouthguard at minimum",
+    "tags": [
+      "rules",
+      "equipment"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "svoabybr3",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "GENERAL",
+    "question": "Which grappling style is commonly used to control opponents on the ground in MMA?",
+    "explanation": "Brazilian Jiu-Jitsu is a popular grappling discipline used in MMA for ground control, submissions, and positional dominance.",
+    "options": [
+      "Brazilian Jiu-Jitsu",
+      "Karate",
+      "Boxing",
+      "Taekwondo"
+    ],
+    "correctAnswer": "Brazilian Jiu-Jitsu",
+    "tags": [
+      "techniques",
+      "training"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9hu2c2wiv",
+    "category": "SPOR",
+    "subcategory": "MMA",
+    "difficulty": "EXPERT",
+    "question": "What is the standard weight class range for a lightweight fighter in UFC?",
+    "explanation": "In UFC weight classes, lightweight is officially defined as fighters weighing between 145 lbs and 155 lbs (66 kg to 70 kg).",
+    "options": [
+      "125 lbs - 145 lbs",
+      "135 lbs - 155 lbs",
+      "145 lbs - 160 lbs",
+      "155 lbs - 170 lbs"
+    ],
+    "correctAnswer": "155 lbs - 170 lbs",
+    "tags": [
+      "weight-classes",
+      "rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

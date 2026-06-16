@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "qn79hjzao",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sında feodalizm sisteminin temelini oluşturan anahtar kavram nedir?",
+    "explanation": "Feodalizm sisteminde, toprak sahipleri (soylular) diğerlerini koruma karşılığında sadakat beklerdi. Bu sistem Orta Çağ Avrupa'sının sosyal ve ekonomik yapısını belirledi.",
+    "options": [
+      "Toprak ve sadakat",
+      "Para ve ticaret",
+      "Demokrasi ve hukuk",
+      "Savaşlar ve istila"
+    ],
+    "correctAnswer": "Toprak ve sadakat",
+    "tags": [
+      "feodalizm",
+      "sosyal yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r1prtdb0i",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sındaki Karanlık Çağ'dan sonraki en önemli teknolojik gelişme hangisidir?",
+    "explanation": "Orta Çağ'da Johannes Gutenberg'in yazıcı makinesi icadı (15. yüzyıl), bilgi yayılımını hızlandırdı ve Rönesans'a zemin hazırladı.",
+    "options": [
+      "Yazıcı makinesi",
+      "Demiryolu",
+      "Elektrik",
+      "Uçak"
+    ],
+    "correctAnswer": "Yazıcı makinesi",
+    "tags": [
+      "teknoloji",
+      "bilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ba99fpow",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EXPERT",
+    "question": "Haçlı Seferleri'nin başladığı yıl hangisidir?",
+    "explanation": "Papa Urban II. tarafından 1095 yılında Clermont'ta ilan edilen Haçlı Seferleri, Orta Çağ Avrupası'nın en önemli askeri hareketlerinden biriydi.",
+    "options": [
+      "1095",
+      "1204",
+      "1347",
+      "1453"
+    ],
+    "correctAnswer": "1095",
+    "tags": [
+      "Haçlı Seferleri",
+      "Orta Çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "or624rzf8",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sında kilisenin sosyal ve ekonomik gücü neden o kadar büyüktü?",
+    "explanation": "Orta Çağ Avrupası'nda Kilise, devletin büyük topraklarına sahipti ve eğitim kurumlarını (manastırlar) kontrol ediyordu. Bu da onun gücünü sağlıyordu.",
+    "options": [
+      "Sadece dini inanç",
+      "Toprak sahipliği ve eğitim yetkisi",
+      "Para birikimi",
+      "Savaş güçleri"
+    ],
+    "correctAnswer": "Toprak sahipliği ve eğitim yetkisi",
+    "tags": [
+      "Kilise",
+      "sosyal yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vdc4h0bc6",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EXPERT",
+    "question": "14. yüzyılda Orta Çağ Avrupası'nı etkileyen en felaket olaylardan biri hangisidir?",
+    "explanation": "1347-1351 yılları arasında gerçekleşen Kara Veba, Orta Çağ Avrupası'nın yaklaşık %25'ini yok etti ve sosyo-ekonomik yapıda köklü değişikliklere neden oldu.",
+    "options": [
+      "Yazıcı makinesi",
+      "Siyah Veba (Veba)",
+      "Demiryolu",
+      "Elektrik"
+    ],
+    "correctAnswer": "Siyah Veba (Veba)",
+    "tags": [
+      "Kara Veba",
+      "Orta Çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y04b1pqnf",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Siyah Veba salgını Orta Çağ Avrupa'sında hangi yüzyılda yayıldı?",
+    "explanation": "Siyah Veba (Yunanca: Pestis) 1347'den 1351'e kadar Orta Çağ Avrupa'sında büyük ölçekli bir salgın şeklinde yayıldı. Bu dönemde Avrupa nüfusunun yaklaşık yarısı öldü.",
+    "options": [
+      "10. Yüzyıl",
+      "13-14. Yüzyıl",
+      "16. Yüzyıl",
+      "18. Yüzyıl"
+    ],
+    "correctAnswer": "13-14. Yüzyıl",
+    "tags": [
+      "Siyah Veba",
+      "Demografi",
+      "Salgınlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sqnzazfro",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa feudalizm sisteminde toprağı yöneten ve askerî yükümlülük üstlenen sınıf hangisidir?",
+    "explanation": "Feodaller, kral veya büyük lordlardan toprak (feodalik) karşılığında askerî hizmet ve sadakat yükümlülüğü üstlenen soylu sınıftır. Bu sistem Orta Çağ Avrupa'sının temel siyasi organizasyon modeliydi.",
+    "options": [
+      "Feodal",
+      "Kral",
+      "Manastır",
+      "Serf"
+    ],
+    "correctAnswer": "Feodal",
+    "tags": [
+      "Feudalizm",
+      "Toplumsal Yapı",
+      "Askerlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "53c57jeoc",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Birinci Haçlı Seferi sırasında kurulan ilk Haçlı devletleri hangi bölgede kuruldu?",
+    "explanation": "İlk Haçlı Seferi (1096-1099) sırasında Kilikya ve İskenderon gibi bölgelerdeki devletler kuruldu. Bu, Orta Çağ'daki Doğu Akdeniz'deki en önemli siyasi oluşumlardandı.",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "Kutsal Topraklar/Heyet Devletleri",
+      "İngiltere"
+    ],
+    "correctAnswer": "Kutsal Topraklar/Heyet Devletleri",
+    "tags": [
+      "Haçlı Seferleri",
+      "Doğu Akdeniz",
+      "Askerî Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8nwkhj4b3",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Notre Dame Katedrali hangi mimari tarzın en iyi örneklerinden biridir?",
+    "explanation": "Notre Dame Katedrali 12. yüzyılda Paris'te inşa edildi ve Gotik mimarinin en önemli örneklerinden biridir. Yüksek pencereleri, sivri kuleleri ve iç mekanındaki ışık oyunları bu tarzın temel özellikleridir.",
+    "options": [
+      "Roma",
+      "Byzans",
+      "Gotik",
+      "Renesans"
+    ],
+    "correctAnswer": "Gotik",
+    "tags": [
+      "Mimari",
+      "Gothik Mimari",
+      "Katedral"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "292fb0lnq",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EXPERT",
+    "question": "Orta Çağ Avrupa'sında Kutsal Roma Cermen İmparatorluğu'nun lideri olarak görev yapan en ünlü imparator hangisidir?",
+    "explanation": "Frederick Barbarossa (1152-1190) Kutsal Roma Cermen İmparatorluğu'nun en güçlü ve bilinen imparatorlarından biridir. Almanya'nın unifikasyonu için çalıştı ve Haçlı Seferleri'ne katıldı.",
+    "options": [
+      "Frederick Barbarossa",
+      "Charles Martel",
+      "Henry II",
+      "Lothair I"
+    ],
+    "correctAnswer": "Frederick Barbarossa",
+    "tags": [
+      "Kutsal Roma Cermen İmparatorluğu",
+      "Frederick Barbarossa",
+      "İmparatorluklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ca8lsfo8d",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Orta Çağ Avrupa'daki feodalizm sistemi neyi tanımlar?",
+    "explanation": "Feodalizm, Orta Çağ Avrupa'sında kralın toprakları baronlara, baronların da şövalyelere verdiği ve karşılıklı sadakat关系的 sistemidir.",
+    "options": [
+      "Piskoposların kilise topraklarını yönetmesi",
+      "Kral, baronlar ve şövalyeler arasındaki hiyerarşik yapı",
+      "İmparatorluğun tüm bölgelerine eşit dağılımı",
+      "Şehirlerin bağımsız ticaret birimleri olması"
+    ],
+    "correctAnswer": "Kral, baronlar ve şövalyeler arasındaki hiyerarşik yapı",
+    "tags": [
+      "feodalizm",
+      "siyaset",
+      "sosyal yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tdhnyyfwh",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "1347-1351 yılları arasında Avrupa'ya yayılan kara veba neden önemli bir kriz oluşturdu?",
+    "explanation": "Kara veba, Orta Çağ Avrupa'sında nüfusun önemli ölçüde azalmasına neden oldu ve ekonomiyi derinden etkiledi.",
+    "options": [
+      "Ortaya çıkan yeni teknolojik gelişmeler",
+      "Tarım verimliliğinin artması",
+      "Nüfusun %30-60 oranında azalması",
+      "Kültürel değişimin hızlanması"
+    ],
+    "correctAnswer": "Nüfusun %30-60 oranında azalması",
+    "tags": [
+      "kara veba",
+      "nüfus",
+      "kriz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5a0d2iipw",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "İlk Haç Seferleri (1095-1099) sırasında kutsal toprakları geri kazanmak için hangi gruplar katıldı?",
+    "explanation": "Haç Seferleri, Papa'nın çağrısı üzerine Hıristiyan şövalyelerin kutsal toprakları geri kazanmak için düzenlediği askeri seferlerdir.",
+    "options": [
+      "Yahudi ve Müslüman tüccarları",
+      "Siyasi liderler ve diplomatlar",
+      "Hıristiyan şövalyeler ve piyadiler",
+      "Kraliyet aile üyeleri ve aristokratlar"
+    ],
+    "correctAnswer": "Hıristiyan şövalyeler ve piyadiler",
+    "tags": [
+      "Haç seferleri",
+      "dindarlık",
+      "savunma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9gr1mlzwt",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Gotik mimari hangi yüzyılda Orta Çağ Avrupa'sında yaygınlaşmaya başladı?",
+    "explanation": "Gotik mimari, 12. yüzyılda Fransa'da başladı ve Orta Çağ Avrupa'sında kilise ve saray inşaatlarında yaygın bir üslup haline geldi.",
+    "options": [
+      "6. yüzyıl",
+      "8. yüzyıl",
+      "12. yüzyıl",
+      "15. yüzyıl"
+    ],
+    "correctAnswer": "12. yüzyıl",
+    "tags": [
+      "mimari",
+      "gotik",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9bf64g2f7",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EXPERT",
+    "question": "Orta Çağ Avrupası'nda şehirlerin büyümesine katkıda bulunan temel faktör nedir?",
+    "explanation": "Orta Çağ Avrupası'nda ticaretin yeniden canlanması ve zanaatların gelişmesi şehirlerin büyümesinde en önemli faktör oldu.",
+    "options": [
+      "Tarım topraklarının genişlemesi",
+      "Ticaretin canlanması ve zanaatların gelişmesi",
+      "Kara vebanın sona ermesi",
+      "Haç Seferlerinin başarıları"
+    ],
+    "correctAnswer": "Ticaretin canlanması ve zanaatların gelişmesi",
+    "tags": [
+      "şehirleşme",
+      "ticaret",
+      "ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yccbt770j",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Feodalizm sisteminin Orta Çağ Avrupa'sında temel işlevi nedir?",
+    "explanation": "Feodalizm, Orta Çağ Avrupa'sında toprağın kral tarafından bağışlanması ve bu arazileri yöneten feodal ailelerin hiyerarşik yapısını kurmayı amaçlar.",
+    "options": [
+      "Toplumsal hiyerarşi ve toprak yönetimini organize etmek",
+      "Kraliyet saraylarını inşa etmek",
+      "Dini ritüelleri standartlaştırmak",
+      "Deniz ticaretini geliştirmek"
+    ],
+    "correctAnswer": "Toplumsal hiyerarşi ve toprak yönetimini organize etmek",
+    "tags": [
+      "Feodalizm",
+      "Orta Çağ",
+      "Avrupa Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "urwqdcfp4",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Milan 1096-1099 yılları arasında gerçekleşen Haçlı Seferlerinin ana hedefi nedir?",
+    "explanation": "Birinci Haçlı Seferi'nin temel amacı, Müslümanların kontrolündeki Yeruşalem'i kiliseye geri kazandırmak ve Kutsal Toprakları korumaktı.",
+    "options": [
+      "Kutsal Toprakları (Yeruşalem) kurtarmak",
+      "İngiltere'yi ele geçirmek",
+      "Fransa'nın sınırlarını genişletmek",
+      "İskandinavya'yı colonize etmek"
+    ],
+    "correctAnswer": "Kutsal Toprakları (Yeruşalem) kurtarmak",
+    "tags": [
+      "Haçlı Seferleri",
+      "Orta Çağ",
+      "Din Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gn0k2f6k8",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Orta Çağ Avrupa'sında en etkili manevi otorite nedir?",
+    "explanation": "Orta Çağ Avrupa'sında Katolik Kilisesi, feodal aristokrasinin yanı sıra en büyük ve etkili manevi kurumdur.",
+    "options": [
+      "Katolik Kilisesi",
+      "İslam Dünyası",
+      "Byzans İmparatorluğu",
+      "Anglo-Sakson Krallığı"
+    ],
+    "correctAnswer": "Katolik Kilisesi",
+    "tags": [
+      "Kilise Tarihi",
+      "Orta Çağ",
+      "Manevi Otorite"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "th1qnu9sw",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "1453 yılında Constantinopolis (İstanbul) hangi güç tarafından ele geçirilmiştir?",
+    "explanation": "Byzans İmparatorluğu'nun sonu olan 1453'te Osmanlı Padişahı II. Mehmet tarafından Constantinopolis (İstanbul) ele geçirilmiştir.",
+    "options": [
+      "Osmanlı İmparatorluğu",
+      "Byzans İmparatorluğu",
+      "Venedik Cumhuriyeti",
+      "Fransa Krallığı"
+    ],
+    "correctAnswer": "Osmanlı İmparatorluğu",
+    "tags": [
+      "Orta Çağ Sonu",
+      "İstanbul",
+      "Osmanlı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w452tevsq",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sında 'Yerleşik tarım' döneminde en yaygın kültür nedir?",
+    "explanation": "Orta Çağ Avrupa'sında buğday, temel ekmek ve gıda kaynağı olarak en yaygın üretilen tarım kültürüdür.",
+    "options": [
+      "Buğday",
+      "Pirinç",
+      "Mısır",
+      "Arpa"
+    ],
+    "correctAnswer": "Buğday",
+    "tags": [
+      "Tarım Tarihi",
+      "Orta Çağ",
+      "Ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e0hkm4fym",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'daki feodalizm sisteminde, toprak sahipleri kim olarak adlandırılır?",
+    "explanation": "Feodalizm sisteminde, toprak sahipleri 'saydılar' (lords) olarak adlandırılır. Saydılar, topraklarını aracılar aracılığıyla yönetirler ve bu sistem Orta Çağ Avrupa'sının temelini oluşturur.",
+    "options": [
+      "Bakıcılar",
+      "Saydılar",
+      "Sıradanlar",
+      "Sözleşmeli"
+    ],
+    "correctAnswer": "Saydılar",
+    "tags": [
+      "Feodalizm",
+      "Orta Çağ",
+      "Avrupa Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5sf3i1nm2",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Hangi olay 1066 yılında İngiltere'de Norman Seferi ile sonuçlandı?",
+    "explanation": "1066 yılında William Dük (Duke of Normandy) liderliğinde Norman Seferi gerçekleşti ve bu sefer İngiltere tahtını değiştirdi. Bu olay Orta Çağ Avrupa tarihinde önemli bir dönüm noktasıdır.",
+    "options": [
+      "Çarlık",
+      "Haraplaşma",
+      "Norman Seferi",
+      "Kırım"
+    ],
+    "correctAnswer": "Norman Seferi",
+    "tags": [
+      "İngiltere Tarihi",
+      "Normanlar",
+      "1066"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5xldowmnv",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Orta Çağ Avrupa'sında en güçlü kilise kurumu hangisidir?",
+    "explanation": "Orta Çağ Avrupa'sında en güçlü kilise kurumu Roma Katolik Kilisesi'dir. Kilise, hem dini hem de siyasi açıdan büyük güç sahibidir ve feodalizm sistemine entegredir.",
+    "options": [
+      "Roma Katolik Kilisesi",
+      "Anglikan Kilisesi",
+      "Protestan Kilisesi",
+      "Yahudi Din Kurumu"
+    ],
+    "correctAnswer": "Roma Katolik Kilisesi",
+    "tags": [
+      "Kilise Tarihi",
+      "Orta Çağ",
+      "Avrupa Dini Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gsk8lhb1n",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Hangi şehir Orta Çağ Avrupa'sının ticaret merkezi olarak bilinir?",
+    "explanation": "Venedik, Orta Çağ Avrupa'sının önemli ticaret merkezlerinden biridir. Denizaşırı ticareti ve gübre ticareti ile ünlüdür ve şehrin ekonomisi bu ticaret üzerine kuruludur.",
+    "options": [
+      "Londra",
+      "Paris",
+      "Venedik",
+      "Berlin"
+    ],
+    "correctAnswer": "Venedik",
+    "tags": [
+      "Ticaret Tarihi",
+      "Avrupa Şehirleri",
+      "Orta Çağ Ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t78w5hlnk",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Hangi savaş 476 yılında Batı Roma İmparatorluğu'nun çökmesine neden olur?",
+    "explanation": "476 yılında Batı Roma İmparatorluğu, Barbarian Savaşları'nın sonucunda çöktü. Bu olay Orta Çağ Avrupa'sının başlangıcını işaret eder ve feodalizm sisteminin gelişmesine zemin hazırlar.",
+    "options": [
+      "Goth Savaşı",
+      "Barbarian Savaşları",
+      "Hun Savaşı",
+      "Frank Savaşı"
+    ],
+    "correctAnswer": "Barbarian Savaşları",
+    "tags": [
+      "Batı Roma İmparatorluğu",
+      "Çöküş Tarihi",
+      "Orta Çağ Başlangıcı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "020szixkn",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Orta Çağ Avrupa'daki Feodal Sistemin temel bileşeni nedir?",
+    "explanation": "Feodal sistemde toprak sahibi lordlar, araziyi koruyan askerlere (vassallar) karşılıklılık ilkesiyle devreder ve onlardan hizmet beklerlerdi.",
+    "options": [
+      "Toprak üzerindeki mülkiyet ve karşılıklı bağlılık",
+      "Merkezi otorite ve vergi sistemi",
+      "Demokratik seçimler ve hukuk",
+      "Sömürge ticareti ağı"
+    ],
+    "correctAnswer": "Toprak üzerindeki mülkiyet ve karşılıklı bağlılık",
+    "tags": [
+      "feodalizm",
+      "toprak",
+      "sosyal yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nte3iwfep",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Hangi Orta Çağ dönemi kralı 1066 yılında İngiltere'ye geçerek Norman Fethini gerçekleştirdi?",
+    "explanation": "Vilhelm I, 1066'da Hastings Muharebesi'ni kazanarak İngiltere Kralı oldu ve İngilizceye Norman Fransızesini ekledi.",
+    "options": [
+      "Harald Harefoot",
+      "Vilhelm I (Fetihçi)",
+      "Edgar",
+      "Alfred Büyük"
+    ],
+    "correctAnswer": "Vilhelm I (Fetihçi)",
+    "tags": [
+      "İngiltere tarihi",
+      "Norman fetih",
+      "1066"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2bwgsbmn6",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Kutsal Roma İmparatorluğu'nun kurucusu olan Otto I (962), hangi bölgeyi kontrol altına alarak topraklarını genişletti?",
+    "explanation": "Otto I, 962'de Kutsal Roma İmparatoru oldu ve Saksonya ile Bavarya gibi toprakları kontrol ederek imparatorluğun gücünü artırdı.",
+    "options": [
+      "Saksonya ve Bavarya",
+      "Fransa ve İspanya",
+      "İngiltere ve İskoçya",
+      "Polonya ve Macaristan"
+    ],
+    "correctAnswer": "Saksonya ve Bavarya",
+    "tags": [
+      "Kutsal Roma İmparatorluğu",
+      "Otto I",
+      "İtalya tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0qsuq20ep",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sında 'Yüz Yıl Savaşı' olarak bilinen çatışma hangi iki ülke arasında gerçekleşti?",
+    "explanation": "Yüz Yıl Savaşı, 1337-1453 yılları arasında İngiltere ve Fransa arasında gerçekleşti; sonucunda Fransa zafer kazandı.",
+    "options": [
+      "İngiltere ve Fransa",
+      "İspanya ve Portekiz",
+      "Macaristan ve Polonya",
+      "Almanya ve Fransa"
+    ],
+    "correctAnswer": "İngiltere ve Fransa",
+    "tags": [
+      "Yüz Yıl Savaşı",
+      "1337-1453",
+      "Avrupa Çatışmaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mb3hf25gt",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EXPERT",
+    "question": "Orta Çağ Avrupa'sında bilimsel ilerleme sağlayan 'Kartüzyenler' hangi tür kurumlar kurmuşlardır?",
+    "explanation": "Kartüzyenler, Orta Çağ'da bilimsel araştırmalar ve eğitim için okullar kurmuş; matematik ve fen alanlarında önemli katkılarda bulunmuşlardır.",
+    "options": [
+      "Bilim ve eğitim okulları",
+      "Sömürge ticaret şirketleri",
+      "Askeri kamp alanları",
+      "Vergi toplayıcı ofisleri"
+    ],
+    "correctAnswer": "Bilim ve eğitim okulları",
+    "tags": [
+      "Kartüzyenler",
+      "bilimsel ilerleme",
+      "eğitim kurumları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "leick8wot",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sında Kutsal Roma Cermen İmparatorluğu'nun kurucusu ve en etkili hükümdarı kimdir?",
+    "explanation": "Charlemagne (800-814), Fransa kralı olarak tahta çıktı ve Roma İmparatorluğu'nun yeniden kurulmasıyla tanındı. 'Karl Mançlı' olarak da bilinir.",
+    "options": [
+      "Karl Mançlı",
+      "Charlemagne",
+      "Frederick Barbarossa",
+      "Otto I"
+    ],
+    "correctAnswer": "Charlemagne",
+    "tags": [
+      "Orta Çağ",
+      "İmparatorluklar",
+      "Avrupa Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yp33gs9ab",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sında Feodal Sistem'in temel özelliği nedir?",
+    "explanation": "Feodal sistemde toprak sahipleri (feodalar) vasallara toprak verirdi, karşılığında askeri destek ve sadakat beklerlerdi.",
+    "options": [
+      "Merkezi yönetim",
+      "Toprak sahibi aristokratlar ve vasallar",
+      "Demokratik seçimler",
+      "Tek parti sistemi"
+    ],
+    "correctAnswer": "Toprak sahibi aristokratlar ve vasallar",
+    "tags": [
+      "Feodalizm",
+      "Sosyal Yapı",
+      "Orta Çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8vga1uh11",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EXPERT",
+    "question": "Haçlı Seferleri'nde ilk kez 1095'de hangi piskopos tarafından çağrıldı?",
+    "explanation": "Pope Urbanus II, 1095'de Clermont'taki konsil'de Haçlı Seferi'nin çağrıldığını duyurdu ve Kudüs'ü fethetmek için askeri destek istedi.",
+    "options": [
+      "Gregorius VII",
+      "Urbanus II",
+      "Innocentius III",
+      "Leo IX"
+    ],
+    "correctAnswer": "Urbanus II",
+    "tags": [
+      "Haçlı Seferleri",
+      "Din Tarihi",
+      "Orta Çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x7p7wubie",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sında Paris Üniversitesi kaç yılında kurulmuştur?",
+    "explanation": "Paris Üniversitesi 1150 civarında kuruluştu, Orta Çağ'daki ilk modern üniversite olarak kabul edilir.",
+    "options": [
+      "1100",
+      "1150",
+      "1200",
+      "1230"
+    ],
+    "correctAnswer": "1150",
+    "tags": [
+      "Akademi",
+      "Tarih",
+      "Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "40hk5wo7w",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupa'sında Kara Ölüm (Black Death) hangi yüzyılda büyük ölçekli salgın yaptı?",
+    "explanation": "Kara Ölüm 1347-1351 yılları arasında Avrupa'da büyük ölçekli olarak yayıldı ve nüfusun yaklaşık %30'unu kaybetti.",
+    "options": [
+      "12. Yüzyıl",
+      "13. Yüzyıl",
+      "14. Yüzyıl",
+      "15. Yüzyıl"
+    ],
+    "correctAnswer": "14. Yüzyıl",
+    "tags": [
+      "Salgın",
+      "Demografi",
+      "Orta Çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mc96iogql",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupasında feodal sistemin temelini oluşturan karşılıklı yükümlülüklerden hangisi doğrudur?",
+    "explanation": "Feodal sistemin temelinde, toprak sahibi lord ile toprağı işleyen vasallar arasında karşılıklı sadakat ve askerlik hizmetleri bulunurdu.",
+    "options": [
+      "Kral toprağı, köylü koruma",
+      "Eliyalı (soydan gelen) soylu lorda sadakat ve askerlik hizmeti",
+      "Şehirler devlet yönetimine katılır",
+      "Din görevlileri tüm topraklara sahip"
+    ],
+    "correctAnswer": "Eliyalı (soydan gelen) soylu lorda sadakat ve askerlik hizmeti",
+    "tags": [
+      "feodalizm",
+      "orta çağ",
+      "Avrupa tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b5bzsmx6h",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupasında en güçlü kurum olarak kabul edilen yapı hangisidir?",
+    "explanation": "Orta Çağ Avrupasında Kilise en güçlü kurumdu, kraliyet yetkisine bile sahip olabilirdi ve günlük yaşamı yönlendirirdi.",
+    "options": [
+      "Siyaset kurumu",
+      "Din kurumu (Kilise)",
+      "Şehirler yönetimi",
+      "Askeri birlik"
+    ],
+    "correctAnswer": "Din kurumu (Kilise)",
+    "tags": [
+      "kilise",
+      "orta çağ",
+      "Avrupa tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "etgpivcz4",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupasında şehirlerin gelişmesine katkı sağlayan faktörlerden hangisi doğrudur?",
+    "explanation": "Feodal sistemin zayıflaması ile ticaret arttı ve bu da şehirlerin gelişmesini sağladı. Ticaret merkezleri oluştu.",
+    "options": [
+      "Tarım teknolojilerinde ilerleme",
+      "Feodal sistemin çöküşü ve ticaretin artması",
+      "Din kurumu ile anlaşmazlık",
+      "Askeri birliklerin dağılması"
+    ],
+    "correctAnswer": "Feodal sistemin çöküşü ve ticaretin artması",
+    "tags": [
+      "şehirler",
+      "ticaret",
+      "orta çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nfht9e399",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EXPERT",
+    "question": "Orta Çağ Avrupasında din kurumu en büyük geliri nasıl elde ederdi?",
+    "explanation": "Orta Çağ Avrupasında kiliselerin en büyük geliri, üyelerinin (%10) gelirlerinden kesilen ondalık vergi (dîş) ile sağlanırdı.",
+    "options": [
+      "Toprak vergisi",
+      "Kiliseler için ödenen ondalık vergi (dîş)",
+      "Askerlik ücretleri",
+      "Dış ticaret kârı"
+    ],
+    "correctAnswer": "Kiliseler için ödenen ondalık vergi (dîş)",
+    "tags": [
+      "kilise",
+      "vergiler",
+      "orta çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6i05fdbm8",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupasında köylülük sisteminde toprak sahibi kimdir?",
+    "explanation": "Orta Çağ Avrupasında feodal sisteminde toprak sahibi lord, köylerde yaşayan köylüleri yönetirdi ve onlardan vergi alırdu.",
+    "options": [
+      "Köylü",
+      "Lord",
+      "Şehircilik",
+      "Din görevlisi"
+    ],
+    "correctAnswer": "Lord",
+    "tags": [
+      "feodalizm",
+      "köylülük",
+      "orta çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6om8ms8ie",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupasında feodalizm sisteminin temel özelliği nedir?",
+    "explanation": "Feodalizm, Orta Çağ Avrupasında toprağın büyük ölçüde soylular tarafından kontrol edildiği ve kulların (serflerin) bu araziler üzerinde çalıştığı bir sosyal sistemdir.",
+    "options": [
+      "Toprak eşitsizliği ve soylu-kul ilişkisi",
+      "Demokratik yönetim yapısı",
+      "Birleşik imparatorluk sistemi",
+      "Teknolojik ilerleme"
+    ],
+    "correctAnswer": "Toprak eşitsizliği ve soylu-kul ilişkisi",
+    "tags": [
+      "feodalizm",
+      "toprak",
+      "siyasi-sosyal yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2yuf67h4j",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Haçlı Seferleri'nin başlatıldığı tarih nedir?",
+    "explanation": "İmparator I. Alexios Komnenos'un Papa Urban II'ye dönerek yardım istemesi üzerine Papa, 1095 yılında Haçlı Seferlerini başlattı.",
+    "options": [
+      "1095",
+      "1204",
+      "1356",
+      "1453"
+    ],
+    "correctAnswer": "1095",
+    "tags": [
+      "haçlı seferleri",
+      "tarih",
+      "krallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "94lttu9b0",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupasında siyah veba salgını (Büyük Veba) hangi yüzyılarda yoğunlaşmıştır?",
+    "explanation": "Büyük Veba, özellikle 1347-1351 yılları arasında Orta Çağ Avrupasında en yoğun şekilde görülmüş ve Avrupa nüfusunun yaklaşık üçte birini etkilemiştir.",
+    "options": [
+      "13. ve 14. yüzyıllar",
+      "11. ve 12. yüzyıllar",
+      "15. ve 16. yüzyıllar",
+      "17. ve 18. yüzyıllar"
+    ],
+    "correctAnswer": "13. ve 14. yüzyıllar",
+    "tags": [
+      "siyah veba",
+      "salgınlar",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q88llvtep",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupasında kraliyet gücünü artıran önemli bir gelişme nedir?",
+    "explanation": "Orta Çağ Avrupasında kraliyet gücünün artması ve merkezî yönetimlerin güçlenmesi, feodal sistemin yavaşça zayıflaması anlamına gelir.",
+    "options": [
+      "Merkezî yönetimin güçlenmesi",
+      "Toplumsal eşitliğin sağlanması",
+      "Feodal sistemin tamamen ortadan kalkması",
+      "Dış ticaretin yasaklanması"
+    ],
+    "correctAnswer": "Merkezî yönetimin güçlenmesi",
+    "tags": [
+      "kraliyet gücü",
+      "merkezi yönetim",
+      "siyasi yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "srju4xu8k",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EXPERT",
+    "question": "Orta Çağ Avrupasında 'Siyah Veba' adında bir salgın olmuştur. Bu salgının adı neden bu şekildedir?",
+    "explanation": "Siyah Veba, hastaların vücudunda çıkan siyah lekelerden ve kanamanın artmasından dolayı bu şekilde adlandırılmıştır.",
+    "options": [
+      "Veba hastalığından dolayı siyah cilt çıkması",
+      "Veba hastalığının semptomlarından biri olan siyah lekeler",
+      "Vebayı taşıyan böceklerin rengi siyah olması",
+      "Tüm Avrupa halkının siyah renk giymesi"
+    ],
+    "correctAnswer": "Veba hastalığının semptomlarından biri olan siyah lekeler",
+    "tags": [
+      "siyah veba",
+      "tıp",
+      "semptomlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jovxivlro",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Feodal sistemin temelini oluşturan ve manastırların tarım faaliyetleri için kullandığı toprak türü hangisidir?",
+    "explanation": "Manastır arazileri, Orta Çağ Avrupa'da kilisenin toprak sahibi olmasıyla oluşturulan ve manastırların tarım faaliyetleri için kullandığı özel toprak türüdür.",
+    "options": [
+      "Manastır arazisi",
+      "Girişimci topraklar",
+      "Fahişe arazisi",
+      "Kraliyet toprakları"
+    ],
+    "correctAnswer": "Manastır arazisi",
+    "tags": [
+      "feodalizm",
+      "manastırlar",
+      "tarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mv1jniwst",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Kraliyet saraylarında hizmet eden ve feodal sistemin gelişimine önemli katkı sağlayan kişi kimdir?",
+    "explanation": "Şövalyeler, Orta Çağ Avrupa'da kraliyet saraylarında hizmet eden ve feodal sistemin gelişimine önemli katkı sağlayan aristokratik sınıfın mensuplarıdır.",
+    "options": [
+      "Kral",
+      "Dük",
+      "Şövalye",
+      "Babba"
+    ],
+    "correctAnswer": "Şövalye",
+    "tags": [
+      "feodalizm",
+      "saraylar",
+      "sosyal yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0rqq6pc8o",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupası'nın en ünlü keşiflerinden biri olan Roma İmparatorluğu'nun yeniden kurulması hangi yüzyılda gerçekleşmiştir?",
+    "explanation": "Orta Çağ Avrupası'nın en ünlü keşiflerinden biri olan Roma İmparatorluğu'nun yeniden kurulması 8. yüzyılda gerçekleşmiştir.",
+    "options": [
+      "7. Yüzyıl",
+      "8. Yüzyıl",
+      "9. Yüzyıl",
+      "10. Yüzyıl"
+    ],
+    "correctAnswer": "8. Yüzyıl",
+    "tags": [
+      "keşifler",
+      "Roma İmparatorluğu",
+      "yüzyıllar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a126qxuk8",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "EASY",
+    "question": "Orta Çağ Avrupası'nda feodal sistemin gelişimi sırasında kilisenin toprak sahibi olması hangi kavramla ifade edilir?",
+    "explanation": "Orta Çağ Avrupası'nda feodal sistemin gelişimi sırasında kilisenin toprak sahibi olması, manastır arazileri kavramıyla ifade edilir.",
+    "options": [
+      "Feodalizm",
+      "Manastır arazileri",
+      "Kraliyet toprakları",
+      "Girişimci topraklar"
+    ],
+    "correctAnswer": "Manastır arazileri",
+    "tags": [
+      "feodalizm",
+      "kilise",
+      "topraklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "04y735kni",
+    "category": "TARİH",
+    "subcategory": "Orta Çağ Avrupa",
+    "difficulty": "GENERAL",
+    "question": "Orta Çağ Avrupası'nın sosyal hiyerarşisinde en yüksek kademede yer alan ve kraliyet saraylarında hizmet eden sınıf hangisidir?",
+    "explanation": "Orta Çağ Avrupası'nın sosyal hiyerarşisinde en yüksek kademede yer alan ve kraliyet saraylarında hizmet eden sınıf, şövalye sınıfıdır.",
+    "options": [
+      "Kral",
+      "Dük",
+      "Şövalye",
+      "Manastır arazileri"
+    ],
+    "correctAnswer": "Şövalye",
+    "tags": [
+      "sosyal yapı",
+      "saraylar",
+      "feodalizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

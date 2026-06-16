@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "o40nwyeas",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "1. Modern Olimpiyat Oyunları ilk kez hangi yılda ve hangi şehirde düzenlenmiştir?",
+    "explanation": "Modern Olimpiyat Oyunları 1896 yılında Yunanistan'ın başkenti Atina'da düzenlenmiş ve bu sayede Olimpiyatların ilk modern oyunları başlamıştır.",
+    "options": [
+      "1896 - Paris",
+      "1896 - Atina",
+      "1900 - Londra",
+      "1894 - Roma"
+    ],
+    "correctAnswer": "1896 - Atina",
+    "tags": [
+      "Olimpiyat Tarihçesi",
+      "Atina"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vpae4kdzy",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "2. Olimpiyat Bayrağındaki halkaların anlamı nedir?",
+    "explanation": "Olimpiyat Bayrağındaki beş halka (mavi, sarı, siyah, yeşil ve kırmızı), dünyadaki beş kıtayı temsil eder: Avrupa, Asya, Afrika, Amerika ve Okyanusya.",
+    "options": [
+      "Beş kıtayı temsil eder",
+      "Dört kıtayı temsil eder",
+      "Altı kıtayı temsil eder",
+      "Yedi kıtayı temsil eder"
+    ],
+    "correctAnswer": "Beş kıtayı temsil eder",
+    "tags": [
+      "Olimpiyat Sembolleri",
+      "Bayrak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7yqxu5p9i",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "3. Kim olimpiyatlarda en çok madalya kazanan Türk sporcudur?",
+    "explanation": "Atilla Taşçı, 1872-1935 yılları arasında yaşamış bir Türk sporcu ve olimpiyat tarihinde en çok madalya kazanan Türklerden biridir.",
+    "options": [
+      "Atilla Taşçı",
+      "Ece Tanrıverdi",
+      "Cemil Arslan",
+      "Fatih Terim"
+    ],
+    "correctAnswer": "Atilla Taşçı",
+    "tags": [
+      "Türk Sporcuları",
+      "Madalya Kazançları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a1b49bzp2",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "4. Olimpiyat Oyunları hangi yıl Paris'te düzenlenmiştir?",
+    "explanation": "Paris, 1924 yılında düzenlediği Olimpiyat Oyunları ile tanınır ve bu olimpiyatlarda birçok önemli spor dalı gösterilmiştir.",
+    "options": [
+      "1900",
+      "1924",
+      "1984",
+      "1996"
+    ],
+    "correctAnswer": "1924",
+    "tags": [
+      "Olimpiyat Tarihçesi",
+      "Paris"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2dfsdhpaj",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "5. Hangi yıl Londra'da düzenlenen yaz olimpiyat oyunlarıdır?",
+    "explanation": "Londra 1948 yılında düzenlediği yaz olimpiyatları ile tanınır ve bu olimpiyatlarda birçok önemli spor dalı gösterilmiştir.",
+    "options": [
+      "1896",
+      "1908",
+      "1948",
+      "1984"
+    ],
+    "correctAnswer": "1948",
+    "tags": [
+      "Olimpiyat Tarihçesi",
+      "Londra"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ozdoaglf",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Olimpiyat Oyunları'nın kuruluşu hangi yıl gerçekleşmiştir?",
+    "explanation": "Olimpiyat Oyunları'nın modern dönemi 1894 yılında Fransa'da Pierre de Coubertin tarafından kurulmuştur.",
+    "options": [
+      "1894",
+      "1904",
+      "1884",
+      "1914"
+    ],
+    "correctAnswer": "1894",
+    "tags": [
+      "sporu",
+      "olimpiyat",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nwc7vd4dk",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "İlk resmi Olimpiyat Oyunları hangi yıl yapılmıştır?",
+    "explanation": "İlk resmi Olimpiyat Oyunları 1896 yılında Yunanistan'ın Atina kentinde yapılmıştır.",
+    "options": [
+      "1896",
+      "1900",
+      "1892",
+      "1898"
+    ],
+    "correctAnswer": "1896",
+    "tags": [
+      "sporu",
+      "olimpiyat",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "axfigq6u1",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat Bayrağı ne zaman açılmıştır?",
+    "explanation": "Olimpiyat Bayrağı 1913 yılında Coubertin tarafından tasarlanıp açılmıştır.",
+    "options": [
+      "1913",
+      "1920",
+      "1910",
+      "1916"
+    ],
+    "correctAnswer": "1913",
+    "tags": [
+      "sporu",
+      "olimpiyat",
+      "bayrak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ifrgirzs1",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Altın, gümüş ve bronz madalya kazanma sıralaması nedir?",
+    "explanation": "Altın madalya birincilik, gümüş ikinci ve bronz üçüncülük için verilir.",
+    "options": [
+      "1.lik, 2.lik, 3.lik",
+      "2.lik, 1.lik, 3.lik",
+      "3.lik, 2.lik, 1.lik",
+      "1.lik, 3.lik, 2.lik"
+    ],
+    "correctAnswer": "1.lik, 2.lik, 3.lik",
+    "tags": [
+      "sporu",
+      "olimpiyat",
+      "madalya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5gvccpc0e",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat Oyunları kaç yılda bir düzenlenir?",
+    "explanation": "Olimpiyat Oyunları her 4 yılda bir, kış ve yaz olimpiyatları sırayla düzenlenir.",
+    "options": [
+      "4 yıl",
+      "5 yıl",
+      "3 yıl",
+      "6 yıl"
+    ],
+    "correctAnswer": "4 yıl",
+    "tags": [
+      "sporu",
+      "olimpiyat",
+      "periyot"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rzznk89vr",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Olimpiyat Oyunları hangi yıl ilk kez düzenlenmiştir?",
+    "explanation": "Modern Olimpiyat Oyunları, 1896'da Yunanistan'ın Atina şehrinde ilk kez düzenlenmiştir.",
+    "options": [
+      "1894",
+      "1896",
+      "1900",
+      "1904"
+    ],
+    "correctAnswer": "1896",
+    "tags": [
+      "Tarih",
+      "Olimpiyat Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yk8oymhsx",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat Bayrağı hangi yıl ilk kez açılmıştır?",
+    "explanation": "Olimpiyat Bayrağı, 1920'de Belçika'nın Antwerp şehrindeki Olimpiyat Oyunları'nda ilk kez açılmıştır.",
+    "options": [
+      "1920",
+      "1924",
+      "1928",
+      "1932"
+    ],
+    "correctAnswer": "1920",
+    "tags": [
+      "Simgeler",
+      "Olimpiyat Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ilk99evx2",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Altın madalya kim tarafından tasarlanmıştır?",
+    "explanation": "Pierre de Coubertin, modern Olimpiyat hareketinin kurucusu ve 1894'te Uluslararası Olimpik Komiteyi kurmuştur.",
+    "options": [
+      "Pierre de Coubertin",
+      "Baron de Coubertin",
+      "Coubertin",
+      "Jean de Coubertin"
+    ],
+    "correctAnswer": "Pierre de Coubertin",
+    "tags": [
+      "Kişiler",
+      "Olimpiyat Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jni163wjv",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Hangi şehir 2016 Yaz Olimpiyat Oyunlarını düzenlemiştir?",
+    "explanation": "2016 Yaz Olimpiyat Oyunları, Brezilya'nın Rio de Janeiro şehrinde düzenlenmiştir.",
+    "options": [
+      "Atina",
+      "Berlin",
+      "Rio de Janeiro",
+      "Londra"
+    ],
+    "correctAnswer": "Rio de Janeiro",
+    "tags": [
+      "Şehirler",
+      "Olimpiyat Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a92fbyc8f",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat oyunlarında kaç farklı spor dalı vardır?",
+    "explanation": "Modern Olimpiyat Oyunları'nda yaklaşık 38 farklı spor dalı bulunmaktadır.",
+    "options": [
+      "32",
+      "35",
+      "38",
+      "40"
+    ],
+    "correctAnswer": "38",
+    "tags": [
+      "Spor Dalları",
+      "Olimpiyat Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c7v3g9b5v",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Antik Olimpiyat Oyunları hangi dönemde düzenlenirdi?",
+    "explanation": "Antik Olimpiyat Oyunları MÖ 776'de düzenlenmeye başlanmış ve MÖ 394'te son bulmuştur. Bu dönemde yaklaşık 1200 yıl boyunca olimpiyat oyunları Antik Yunanistan'da gerçekleşmiştir.",
+    "options": [
+      "MÖ 776 - MÖ 394",
+      "MS 776 - MS 394",
+      "MÖ 500 - MÖ 100",
+      "MS 500 - MS 100"
+    ],
+    "correctAnswer": "MÖ 776 - MÖ 394",
+    "tags": [
+      "Olimpiyat Tarihçesi",
+      "Antik Yunanistan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ypir7yibd",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Modern Olimpiyat Oyunları'nın kurucusu kimdir?",
+    "explanation": "Modern Olimpiyat Oyunları Baron Pierre de Coubertin tarafından 1894'te yeniden canlandırılmıştır. Fransa'lı eğitimci ve aristokrat, olimpiyat hareketini kurtarmak için büyük çaba sarf etmiştir.",
+    "options": [
+      "Baron Pierre de Coubertin",
+      "Thomas Bach",
+      "Jesse Owens",
+      "Usain Bolt"
+    ],
+    "correctAnswer": "Baron Pierre de Coubertin",
+    "tags": [
+      "Olimpiyat Kurucu",
+      "Olimpiyat Sembolleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g5y6m7eyx",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Olimpiyat bayrağındaki halka sayısı kaçtır?",
+    "explanation": "Olimpiyat bayrağındaki beş halka, beş kıtanın birlikteliğini temsil eder. Halkaların renkleri (mavi, sarı, siyah, yeşil, kırmızı) her zaman beyaz zemin üzerinde bulunur.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "Olimpiyat Bayrağı",
+      "Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6z4omja2l",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi olimpiyat oyunlarında Jesse Owens altın madalya kazandı?",
+    "explanation": "African-American atlet Jesse Owens, 1936 Berlin Olimpiyatları'nda dört altın madalya kazanarak tarihe geçti. Bu olimpiyatlarda Nazi Almanyası'nın ırkçı iddialarına karşı büyük bir sembol oldu.",
+    "options": [
+      "1932 Los Angeles",
+      "1920 Antverpen",
+      "1936 Berlin",
+      "1948 Londra"
+    ],
+    "correctAnswer": "1936 Berlin",
+    "tags": [
+      "Jesse Owens",
+      "Berlin 1936",
+      "Derece Madalyalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0c6dnf5pv",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat ateşi hangi mevsimde yakılır?",
+    "explanation": "Olimpiyat ateşi her zaman Yaz Olimpiyat Oyunları'nda yakılır ve ana olimpiyat stadyumunda ritüel olarak yakılma传统udur. Modern Olimpiyatlarda, Yunanistan'daki antik ateş ritüelinden sonra ateş yakılır.",
+    "options": [
+      "Kış",
+      "İlkbahar",
+      "Yaz",
+      "Sonbahar"
+    ],
+    "correctAnswer": "Yaz",
+    "tags": [
+      "Olimpiyat Sembolleri",
+      "Ateş Ritüeli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgqdhjvty",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Modern Olimpiyat Oyunlarının ilk düzenlendiği yıl hangisidir?",
+    "explanation": "Modern Olimpiyat Oyunları 1896 yılında Yunanistan'ın Atina şehrinde düzenlendi. Bu, Pierre de Coubertin tarafından başlatılmış modern olimpiyat hareketinin ilk büyük organizasyonuydu.",
+    "options": [
+      "1896",
+      "1904",
+      "1920",
+      "1984"
+    ],
+    "correctAnswer": "1896",
+    "tags": [
+      "history",
+      "olympics",
+      "general-knowledge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kdqr5neib",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Olimpiyat Bayrağındaki halka sayısı kaçtır?",
+    "explanation": "Olimpiyat Bayrağındaki 5 halka (değil 4) olmakla birlikte, soru 4 seçeneği doğru cevaptır. Olimpiyat bayrağında mavi, sarı, siyah renklerdeki 5 halka vardır ve her biri kıtaları temsil eder.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "flag",
+      "olympics",
+      "symbols"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l1oqbbg3y",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyatların kurucusu kimdir?",
+    "explanation": "Baron Pierre de Coubertin, 1894 yılında modern Olimpiyat Oyunlarını yeniden başlatmak için Paris'te kongre düzenledi ve Atina'da ilk modern olimpiyatı (1896) organize etmek için çaba gösterdi.",
+    "options": [
+      "Baron Pierre de Coubertin",
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Werner Heisenberg"
+    ],
+    "correctAnswer": "Baron Pierre de Coubertin",
+    "tags": [
+      "founder",
+      "history",
+      "olympics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bto39y1vw",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat Oyunları hangi kıtalar arasında bağlantı kurar?",
+    "explanation": "Olimpiyat bayrağındaki 5 halka 5 kıtayı temsil eder: Avrupa, Asya, Afrika, Amerika ve Okyanusya. Bu da Olimpiyatların küresel bir spor etkinliği olduğunu gösterir.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "continents",
+      "olympics",
+      "general-knowledge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6b4usm956",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Kış Olimpiyat Oyunları ilk kez hangi yıl düzenlendi?",
+    "explanation": "İlk Kış Olimpiyat Oyunları 1924 yılında Fransa'nın Şamonyi kasabasında düzenlendi. Bu olimpiyatlar, kış sporlarının uluslararası organizasyonla başlamasını işaret eder.",
+    "options": [
+      "1908",
+      "1924",
+      "1960",
+      "1992"
+    ],
+    "correctAnswer": "1924",
+    "tags": [
+      "winter-olympics",
+      "history",
+      "olympics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7jkrnd4ys",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Modern Olimpiyat Oyunları hangi yıl başlamıştır?",
+    "explanation": "Modern Olimpiyat Oyunları 1896 yılında Yunanistan'ın Atina kentinde başlamıştır. Bu, Baron Pierre de Coubertin tarafından organize edilen ilk modern oyunlardı.",
+    "options": [
+      "1896",
+      "1904",
+      "1920",
+      "1952"
+    ],
+    "correctAnswer": "1896",
+    "tags": [
+      "Olimpiyat Tarih",
+      "Modern Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xh64k32es",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Olimpiyat bayrağında kaç halka bulunur?",
+    "explanation": "Olimpiyat bayrağında 5 farklı renkli halka bulunur. Bu halkalar, dünyadaki beş kıtayı temsil eder.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "Olimpiyat Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d0gko0zn7",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi Olimpiyat Oyunları Atina'da düzenlenmiştir?",
+    "explanation": "2004 Olimpiyat Oyunları Yunanistan'ın Atina kentinde düzenlenmiştir. Bu, modern olimpiyatlarda Atina'nın ikinci kez ev sahipliği yaptığı oyundur.",
+    "options": [
+      "2004",
+      "1984",
+      "1960",
+      "1996"
+    ],
+    "correctAnswer": "2004",
+    "tags": [
+      "Olimpiyat Ev Sahipliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fh3latwrd",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat madalyaları hangi renklerde verilir?",
+    "explanation": "Birinci olan sporcuya altın madalya, ikinciye gümüş madalya ve üçüncüye bronz madalya verilir.",
+    "options": [
+      "Gümüş, Altın, Bronz",
+      "Altın, Bakır, Gümüş",
+      "Bronz, Çelik, Pirinç",
+      "Altın, Gümüş, Titanyum"
+    ],
+    "correctAnswer": "Gümüş, Altın, Bronz",
+    "tags": [
+      "Olimpiyat Madalyalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9bkdsm0d8",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "İlk Türk Olimpiyat Şampiyonu kimdir?",
+    "explanation": "İlk Türk Olimpiyat Şampiyonu Ali Yalçın'dır. 1960 Roma Olimpiyat Oyunları'nda güreş dalında bronz madalya kazanmıştır.",
+    "options": [
+      "Ali Yalçın",
+      "Hüseyin Sümer",
+      "Şenol Güneş",
+      "Yusuf Çelik"
+    ],
+    "correctAnswer": "Ali Yalçın",
+    "tags": [
+      "Tarih",
+      "Sporcular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nzg68p8gx",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl ilk modern Olimpiyat Oyunları düzenlenmiştir?",
+    "explanation": "İlk modern Olimpiyat Oyunları 1896 yılında Yunanistan'ın Atina kentinde düzenlenmiştir.",
+    "options": [
+      "1896",
+      "1900",
+      "1904",
+      "1892"
+    ],
+    "correctAnswer": "1896",
+    "tags": [
+      "Olimpiyat Tarihi",
+      "Modern Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rildlbhvg",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülke en fazla Olimpiyat Altın Madalyasını kazanmıştır?",
+    "explanation": "Amerika Birleşik Devletleri toplamda en fazla Olimpiyat Altın Madalyasını kazanmıştır.",
+    "options": [
+      "ABD",
+      "Rusya",
+      "Çin",
+      "Almanya"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "Madalya Sıralaması",
+      "Kayıt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qzv8rw25w",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat ateşi hangi olayda yakılır?",
+    "explanation": "Olimpiyat ateşi her yıl Atina'daki Antik Panathenaic Stadyumu'nda yakılır ve diğer bölgelere taşınır.",
+    "options": [
+      "Atina'daki Panathenaic Stadyumu",
+      "Londra'daki Wembley Stadyumu",
+      "Paris'teki Champs de Mars",
+      "Roma'daki Colosseum"
+    ],
+    "correctAnswer": "Atina'daki Panathenaic Stadyumu",
+    "tags": [
+      "Olimpiyat Ateşi",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ktfz2but4",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi spor dalında ilk Olimpiyat madalya 1904 yılında verilmiştir?",
+    "explanation": "İlk Olimpiyat Atletizm madalyası 1904 yılında St. Louis, ABD'de düzenlenmiş olan Oyunlar'ında verilmiştir.",
+    "options": [
+      "Yüzme",
+      "Atletizm",
+      "Judo",
+      "Boks"
+    ],
+    "correctAnswer": "Atletizm",
+    "tags": [
+      "Spor Dalları",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e60ayepn9",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi olimpiyatlarda 'Olimpiyat Şifresi' kullanılmıştır?",
+    "explanation": "Pekin 2008 Olimpiyatlarda 'Olimpiyat Şifresi' sistemi kullanılmıştır.",
+    "options": [
+      "2008 Pekin",
+      "2016 Rio",
+      "2020 Tokyo",
+      "2022 Winter"
+    ],
+    "correctAnswer": "2008 Pekin",
+    "tags": [
+      "Olimpiyat Şifresi",
+      "Güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wo8y02d76",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "İlk Modern Olimpiyat Oyunları hangi yıl ve şehirde düzenlendi?",
+    "explanation": "İlk Modern Olimpiyat Oyunları 1896 yılında Yunistan'ın Atina şehrinde düzenlendi. Baron Pierre de Coubertin'in öncülüğünde modern spor hareketi başladı.",
+    "options": [
+      "1896 - Paris",
+      "1896 - Atina",
+      "1900 - Londra",
+      "1892 - Roma"
+    ],
+    "correctAnswer": "1896 - Atina",
+    "tags": [
+      "tarih",
+      "olimpiyat",
+      "modern olimpiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rhu1lby8m",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat sembolünün beş halkası neyi temsil eder?",
+    "explanation": "Olimpiyat bayrakındaki beş renkli halka (mavi, sarı, siyah, yeşil, kırmızı) dünyadaki beş kıtanın birliğini ve barışını temsil eder.",
+    "options": [
+      "Beş kıtayı",
+      "Beş farklı spor dalını",
+      "Beş olimpiyat şampiyonunu",
+      "Beş yıl aralığı"
+    ],
+    "correctAnswer": "Beş kıtayı",
+    "tags": [
+      "sembol",
+      "beş halka",
+      "olimpiyat bayrağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7vk2hzf2q",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi spor dalında Olimpiyat Oyunları'nda altın madalya kazanan ilk kadın Yunan atletti?",
+    "explanation": "1896 Atina Olimpiyatları'nda 200 metrede altın madalya kazanan Kornelia Spychalka, ilk modern olimpiyatlarda madalya alan kadın sporcuydu.",
+    "options": [
+      "Hürriyet koşusu",
+      "Disk atma",
+      "Kısa mesafe koşusu",
+      "Sabit platform"
+    ],
+    "correctAnswer": "Kısa mesafe koşusu",
+    "tags": [
+      "kadın atletler",
+      "Yunanistan",
+      "olimpiyat başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2tf08bfab",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Hangi şehir 2016 Yaz Olimpiyat Oyunlarını düzenledi?",
+    "explanation": "2016 Yaz Olimpiyat Oyunları Brezilya'nın Rio de Janeiro şehrinde düzenlendi ve bu kıtasal olarak ilk Latin Amerika Olimpiyatları oldu.",
+    "options": [
+      "Londra",
+      "Rio de Janeiro",
+      "Atina",
+      "Paris"
+    ],
+    "correctAnswer": "Rio de Janeiro",
+    "tags": [
+      "2016 olimpiyat",
+      "şehirler",
+      "güncel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x99zn7rmh",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat ateşi hangi şehirde her yıl yeniden alevlendirilir?",
+    "explanation": "Olimpiyat ateşi her yıl Yunanistan'ın Atina kentindeki Panathenaic Stadyumu'nda alevlendirilir ve antik Olimpiyatların devamı olarak kabul edilir.",
+    "options": [
+      "İstanbul",
+      "Atina",
+      "Londra",
+      "Berlin"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "ateş",
+      "antik sporlar",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lvsv5ldi7",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "İlk modern Olimpiyat Oyunları hangi şehirde ve hangi yıl düzenlenmiştir?",
+    "explanation": "İlk modern Olimpiyat Oyunları 1896 yılında Atina'da düzenlenmiştir. Bu oyunlar, antik Yunanistan'ın Olimpiyat geleneğini yeniden canlandırmayı amaçlamıştır.",
+    "options": [
+      "Atina, 1896",
+      "Paris, 1900",
+      "Londra, 1908",
+      "Roma, 1906"
+    ],
+    "correctAnswer": "Atina, 1896",
+    "tags": [
+      "Tarih",
+      "Olimpiyat",
+      "SPOR-Olimpiyat Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "19hjvd6dn",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Olimpiyat Şampiyonu olarak kabul edilen 'Altın Madalya' hangi branşta verilmemektedir?",
+    "explanation": "Olimpiyat Şampiyonasında Pencik (Mücadele) branşı madalya ile değerlendirilmemektedir. Olimpiyatlarda geleneksel olarak Altın, Gümüş ve Bronz madalyalar verilir.",
+    "options": [
+      "Yüzme",
+      "Atletizm",
+      "Boks",
+      "Pencik"
+    ],
+    "correctAnswer": "Pencik",
+    "tags": [
+      "Madalya Sistemi",
+      "SPOR-Olimpiyat Oyunları",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9zvnt8f1b",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin Olimpiyat Bayrağı üzerinde '5' adet halk bulunmaktadır?",
+    "explanation": "Türkiye'nin Olimpiyat Bayrağı üzerinde 5 adet halk bulunmaktadır. Bu, tüm olimpiyat branşlarının temsil edildiği anlamına gelir.",
+    "options": [
+      "Türkiye",
+      "Fransa",
+      "İtalya",
+      "Yunanistan"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "Bayrak",
+      "SPOR-Olimpiyat Oyunları",
+      "Olimpiyat Sembolleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "80jxa2n3s",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Antik Olimpiyat Oyunları hangi yüzyılda başlamıştır?",
+    "explanation": "Antik Olimpiyat Oyunları MÖ 8. yüzyılda başlamıştır. Bu oyunlar, Yunanistan'ın Peloponez yarımadasında düzenlenmiştir.",
+    "options": [
+      "MÖ 8. Yüzyıl",
+      "MÖ 6. Yüzyıl",
+      "MÖ 4. Yüzyıl",
+      "MÖ 2. Yüzyıl"
+    ],
+    "correctAnswer": "MÖ 8. Yüzyıl",
+    "tags": [
+      "Antik Tarih",
+      "SPOR-Olimpiyat Oyunları",
+      "Olimpiyat Kökeni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bfnod98la",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "Olimpiyat Ateşi hangi şehirde ilk kez yakılmıştır?",
+    "explanation": "Olimpiyat Ateşi ilk kez Atina'da yakılmıştır. Bu ateş, her Olimpiyat Oyunu başlamadan önce Antik Yunanistan'daki Gazela Tapınağı'ndan alınarak taşınır.",
+    "options": [
+      "Atina",
+      "Londra",
+      "Paris",
+      "Roma"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "Olimpiyat Ateşi",
+      "SPOR-Olimpiyat Oyunları",
+      "Törenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6w6y1j259",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "What year did the first modern Olympic Games take place?",
+    "explanation": "The first modern Olympic Games were held in Athens, Greece in 1896, organized by Pierre de Coubertin.",
+    "options": [
+      "1896",
+      "1904",
+      "1920",
+      "1900"
+    ],
+    "correctAnswer": "1896",
+    "tags": [
+      "Olympic History",
+      "General Knowledge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b4y5cljd8",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Which country has won the most gold medals in Olympic history?",
+    "explanation": "The United States leads all-time with over 1,000 gold medals won across Summer and Winter Olympics.",
+    "options": [
+      "United States",
+      "China",
+      "Soviet Union",
+      "Great Britain"
+    ],
+    "correctAnswer": "United States",
+    "tags": [
+      "Olympic Records",
+      "Sports Statistics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "77fu39q1d",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EASY",
+    "question": "What is the official motto of the Olympic Games?",
+    "explanation": "The Latin phrase 'Citius, Altius, Fortius' means 'Faster, Higher, Stronger', adopted as the Olympic motto.",
+    "options": [
+      "Citius, Altius, Fortius",
+      "Fair Play",
+      "Unity in Diversity",
+      "Excellence"
+    ],
+    "correctAnswer": "Citius, Altius, Fortius",
+    "tags": [
+      "Olympic Traditions",
+      "General Knowledge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gp74lh7l3",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Which city hosted the most recent Summer Olympics as of 2024?",
+    "explanation": "Paris hosted the 2024 Summer Olympics, becoming the first city to host three times after Los Angeles.",
+    "options": [
+      "Paris",
+      "Tokyo",
+      "Los Angeles",
+      "Berlin"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "Olympic Hosts",
+      "Recent Events"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ufbqxjes",
+    "category": "SPOR",
+    "subcategory": "Olimpiyat Oyunları",
+    "difficulty": "EXPERT",
+    "question": "In which Olympic year was the 'Miracle on Ice' hockey game played?",
+    "explanation": "The 'Miracle on Ice' occurred during the 1980 Winter Olympics in Lake Placid when the US defeated the Soviet Union.",
+    "options": [
+      "1980",
+      "1984",
+      "1988",
+      "1982"
+    ],
+    "correctAnswer": "1980",
+    "tags": [
+      "Olympic Moments",
+      "Ice Hockey History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

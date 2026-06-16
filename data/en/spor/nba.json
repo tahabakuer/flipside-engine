@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "cn6unrgoy",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which NBA team has won the most championships all-time?",
+    "explanation": "The Boston Celtics have won 17 NBA championships, the most of any team in league history.",
+    "options": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Golden State Warriors"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "nba",
+      "championships",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pmlw4ptzc",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Who is known as 'Magic' and played for the Los Angeles Lakers?",
+    "explanation": "Earvin 'Magic' Johnson is a legendary point guard who played his entire career with the Lakers.",
+    "options": [
+      "Larry Bird",
+      "Kareem Abdul-Jabbar",
+      "Magic Johnson",
+      "Isiah Thomas"
+    ],
+    "correctAnswer": "Magic Johnson",
+    "tags": [
+      "nba",
+      "players",
+      "nicknames"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bmqwfxr5l",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "In which year did Michael Jordan lead the Chicago Bulls to their first six-peat?",
+    "explanation": "The Chicago Bulls completed their second three-peat in 1998, finishing with six consecutive championships from 1991-1998.",
+    "options": [
+      "1996",
+      "1997",
+      "1998",
+      "1999"
+    ],
+    "correctAnswer": "1998",
+    "tags": [
+      "nba",
+      "history",
+      "championships"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y8l5iyzez",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which player wore number 23 for the Chicago Bulls during their championship years?",
+    "explanation": "Michael Jordan famously wore number 23 for the Bulls during their championship run, making it one of the most iconic jersey numbers in NBA history.",
+    "options": [
+      "Kareem Abdul-Jabbar",
+      "Scottie Pippen",
+      "Michael Jordan",
+      "Derrick Rose"
+    ],
+    "correctAnswer": "Michael Jordan",
+    "tags": [
+      "nba",
+      "jersey numbers",
+      "players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zv13er6kv",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "Who holds the record for most points scored in a single NBA game?",
+    "explanation": "Wilt Chamberlain scored an incredible 100 points in a single game on March 2, 1962, while playing for the Philadelphia Warriors.",
+    "options": [
+      "Wilt Chamberlain",
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan",
+      "LeBron James"
+    ],
+    "correctAnswer": "Wilt Chamberlain",
+    "tags": [
+      "nba",
+      "records",
+      "statistics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n911ablf6",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which NBA team has won the most championships in league history?",
+    "explanation": "The Boston Celtics have won 17 NBA championships, the most of any franchise in league history, including titles in the 1950s-60s with Bill Russell and later with Larry Bird.",
+    "options": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Golden State Warriors"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "NBA",
+      "Championships",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v3g1odm9n",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Who is known as 'The Great White Shark' and played for multiple NBA teams?",
+    "explanation": "Dwight Howard earned the nickname 'The Great White Shark' during his time with the Orlando Heat and other teams, though Shaquille O'Neal is more commonly known as 'Shaq'.",
+    "options": [
+      "LeBron James",
+      "Shaquille O'Neal",
+      "Dwight Howard",
+      "Kevin Durant"
+    ],
+    "correctAnswer": "Dwight Howard",
+    "tags": [
+      "NBA",
+      "Players",
+      "Nicknames"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s4m06hbjd",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which NBA team has won the most NBA championships in league history?",
+    "explanation": "The Boston Celtics hold the record with 17 NBA championships, more than any other team in league history.",
+    "options": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Golden State Warriors"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "NBA",
+      "Championships",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "osh51xtxr",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Who is widely considered the greatest player in NBA history (GOAT)?",
+    "explanation": "Michael Jordan is the most commonly cited GOAT in NBA history, having won 6 championships and retired twice with unprecedented success.",
+    "options": [
+      "Michael Jordan",
+      "Kareem Abdul-Jabbar",
+      "Magic Johnson",
+      "LeBron James"
+    ],
+    "correctAnswer": "Michael Jordan",
+    "tags": [
+      "NBA",
+      "Players",
+      "GOAT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m8sqxh8wj",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "In which year did Michael Jordan's Chicago Bulls first win an NBA championship?",
+    "explanation": "The Chicago Bulls won their first NBA championship in 1991, led by Michael Jordan's exceptional performance that season.",
+    "options": [
+      "1985",
+      "1990",
+      "1991",
+      "1996"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "NBA",
+      "Championships",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qvv92nntk",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "Which player held the record for most points scored in a single NBA game (100 points)?",
+    "explanation": "Wilt Chamberlain scored 100 points in a game on March 2, 1962, against the New York Knicks - a record that still stands after 60+ years.",
+    "options": [
+      "Kareem Abdul-Jabbar",
+      "Wilt Chamberlain",
+      "Elgin Baylor",
+      "Jerry West"
+    ],
+    "correctAnswer": "Wilt Chamberlain",
+    "tags": [
+      "NBA",
+      "Records",
+      "Statistics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tm0otjpc9",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "How many players have been selected to the NBA All-Star team during their career?",
+    "explanation": "More than 700 players have been selected to the NBA All-Star team throughout league history, with some teams having multiple selections in a single season.",
+    "options": [
+      "Over 500",
+      "Over 700",
+      "Over 900",
+      "Over 1000"
+    ],
+    "correctAnswer": "Over 700",
+    "tags": [
+      "NBA",
+      "All-Star",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m2bzb2n2u",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which NBA team has won the most championships in league history?",
+    "explanation": "The Boston Celtics have won 17 NBA championships, the most in league history, with their first title coming in 1957 and last in 2008.",
+    "options": [
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Golden State Warriors",
+      "Chicago Bulls"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "NBA",
+      "Championships",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "opnobvtd6",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Who holds the record for most points scored in a single NBA regular season?",
+    "explanation": "Wilt Chamberlain scored 100.4 points per game in the 1961-62 season and finished with 3,865 total points that season, a regular season record.",
+    "options": [
+      "Michael Jordan",
+      "Kareem Abdul-Jabbar",
+      "Wilt Chamberlain",
+      "LeBron James"
+    ],
+    "correctAnswer": "Wilt Chamberlain",
+    "tags": [
+      "NBA",
+      "Records",
+      "Scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xehwp5mdj",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which city is home to the NBA's headquarters?",
+    "explanation": "NBA headquarters is located at 1270 Avenue of the Americas in Midtown Manhattan, New York City.",
+    "options": [
+      "Los Angeles",
+      "Chicago",
+      "New York City",
+      "Boston"
+    ],
+    "correctAnswer": "New York City",
+    "tags": [
+      "NBA",
+      "Headquarters",
+      "Location"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k5g6kjlfq",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum number of players allowed on an NBA team's active roster during regular season?",
+    "explanation": "During the regular season, NBA teams can have up to 15 players on their active roster. During playoffs, this is reduced to 12.",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswer": "15",
+    "tags": [
+      "NBA",
+      "Roster",
+      "Rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7hwu7fytm",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "Which player won the NBA MVP award for seven consecutive seasons?",
+    "explanation": "LeBron James won NBA MVP awards in 2009, 2010, and 2018-2023. The question refers to his remarkable seven consecutive MVP seasons from 2009-2014 and 2018-2023.",
+    "options": [
+      "LeBron James",
+      "Michael Jordan",
+      "Karl Malone",
+      "Magic Johnson"
+    ],
+    "correctAnswer": "LeBron James",
+    "tags": [
+      "NBA",
+      "MVP",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9jbi3qdye",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which player is widely considered one of the greatest NBA players of all time?",
+    "explanation": "LeBron James, Kareem Abdul-Jabbar, and Michael Jordan are all widely recognized as among the greatest NBA players in history.",
+    "options": [
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "tags": [
+      "NBA",
+      "History",
+      "Greatest Players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jb51owo9p",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "What is the current number of teams in the NBA?",
+    "explanation": "The NBA currently has 30 teams, divided into Eastern and Western Conferences.",
+    "options": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "correctAnswer": "30",
+    "tags": [
+      "NBA",
+      "Teams",
+      "League Structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2s78mx14d",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "Which player won the most MVP awards in NBA history?",
+    "explanation": "Kareem Abdul-Jabbar holds the record with 6 NBA MVP awards.",
+    "options": [
+      "Stephen Curry",
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Bill Russell"
+    ],
+    "correctAnswer": "Kareem Abdul-Jabbar",
+    "tags": [
+      "NBA",
+      "Records",
+      "MVP Awards"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e0okwjewt",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "What percentage of players in the NBA are African American?",
+    "explanation": "Approximately 68% of NBA players are African American.",
+    "options": [
+      "58%",
+      "62%",
+      "68%",
+      "72%"
+    ],
+    "correctAnswer": "68%",
+    "tags": [
+      "NBA",
+      "Demographics",
+      "Statistics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "msytsn94z",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which team is known as 'The Big Three' in terms of player talent?",
+    "explanation": "The Miami Heat is famous for its 'Big Three' era featuring LeBron James, Chris Bosh, and Dwyane Wade.",
+    "options": [
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Miami Heat",
+      "Los Angeles Lakers"
+    ],
+    "correctAnswer": "Miami Heat",
+    "tags": [
+      "NBA",
+      "Teams",
+      "Big Three"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "873210ar7",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which player won back-to-back NBA championships with LeBron James in 2013-2014?",
+    "explanation": "LeBron James and Chris Bosh were both on the Miami Heat when they won consecutive NBA championships in 2013 and 2014.",
+    "options": [
+      "Kevin Durant",
+      "Carmelo Anthony",
+      "Dwyane Wade",
+      "Chris Bosh"
+    ],
+    "correctAnswer": "Chris Bosh",
+    "tags": [
+      "NBA",
+      "Championships",
+      "Miami Heat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kl93rlq1o",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "What is the point value of a three-point shot in NBA basketball?",
+    "explanation": "In NBA basketball, a successful shot from beyond the three-point line is worth 3 points.",
+    "options": [
+      "1 point",
+      "2 points",
+      "3 points",
+      "5 points"
+    ],
+    "correctAnswer": "3 points",
+    "tags": [
+      "NBA",
+      "Scoring",
+      "Rules"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2c7u1phhd",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which team has won the most NBA championships in league history?",
+    "explanation": "The Boston Celtics have won 17 NBA championships, the most in league history.",
+    "options": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Golden State Warriors",
+      "Chicago Bulls"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "NBA",
+      "Championships",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pyllz6nld",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "Who was the first player to be drafted into the NBA from a college team?",
+    "explanation": "George Mikan was drafted from the University of Kansas in 1943, making him one of the first college players to be drafted into the NBA.",
+    "options": [
+      "Oscar Robertson",
+      "Bill Russell",
+      "Jerry West",
+      "George Mikan"
+    ],
+    "correctAnswer": "George Mikan",
+    "tags": [
+      "NBA",
+      "Draft",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6iteqrmuj",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which NBA team plays in Toronto?",
+    "explanation": "The Toronto Raptors are the NBA team based in Toronto, Canada.",
+    "options": [
+      "Toronto Raptors",
+      "Indiana Pacers",
+      "Detroit Pistons",
+      "Cleveland Cavaliers"
+    ],
+    "correctAnswer": "Toronto Raptors",
+    "tags": [
+      "NBA",
+      "Teams",
+      "Locations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qstbnn2wi",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which team was founded in 1967 as part of the NBA's expansion and is nicknamed 'The Celtics'?",
+    "explanation": "The Boston Celtics were established in 1967 through NBA expansion and are one of the most successful franchises in league history with numerous championships.",
+    "options": [
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Miami Heat"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "NBA",
+      "Teams",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qe7ufhszj",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which NBA player is widely considered to be the greatest of all time (GOAT) and spent his entire career with the Chicago Bulls?",
+    "explanation": "Michael Jordan played his entire 15-year career with the Chicago Bulls and is universally recognized as one of basketball's greatest players.",
+    "options": [
+      "Michael Jordan",
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Shaquille O'Neal"
+    ],
+    "correctAnswer": "Michael Jordan",
+    "tags": [
+      "NBA",
+      "Players",
+      "GOAT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kao3cucrf",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "In what city is the Los Angeles Lakers based?",
+    "explanation": "The Los Angeles Lakers are one of two professional basketball teams in Los Angeles, alongside the Clippers.",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "Philadelphia"
+    ],
+    "correctAnswer": "Los Angeles",
+    "tags": [
+      "NBA",
+      "Teams",
+      "Locations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tzinrf64v",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "Which NBA conference won more championships during Jordan's prime with the Bulls (1991-1998)?",
+    "explanation": "During Michael Jordan's Bulls dynasty, the team won 6 championships in 8 years, all representing the Eastern Conference.",
+    "options": [
+      "Eastern Conference",
+      "Western Conference",
+      "Neither",
+      "Both equally"
+    ],
+    "correctAnswer": "Eastern Conference",
+    "tags": [
+      "NBA",
+      "Conferences",
+      "Bulls Era"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qs5oxlsyh",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "What is the NBA's official name before it was known as 'National Basketball Association'?",
+    "explanation": "The NBA was originally named the United States Basketball Federation when it was founded in 1946 before adopting its current name in 1975.",
+    "options": [
+      "American Basketball League",
+      "United States Basketball Federation",
+      "International Basketball Union",
+      "Professional Basketball Alliance"
+    ],
+    "correctAnswer": "United States Basketball Federation",
+    "tags": [
+      "NBA",
+      "History",
+      "Names"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iufhuqd8q",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which NBA team has won the most championships in league history?",
+    "explanation": "The Boston Celtics have won 17 NBA championships, the most in league history, with their first title in 1956 and last in 2008.",
+    "options": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Golden State Warriors"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "NBA",
+      "Championships",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b66eidwg5",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Who is widely considered the greatest basketball player of all time?",
+    "explanation": "While opinions vary, Michael Jordan is most commonly cited as the GOAT due to his 6 championships, scoring prowess, and cultural impact during his career.",
+    "options": [
+      "Michael Jordan",
+      "Kobe Bryant",
+      "LeBron James",
+      "Magic Johnson"
+    ],
+    "correctAnswer": "Michael Jordan",
+    "tags": [
+      "NBA",
+      "Players",
+      "GOAT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1krjiyucz",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which NBA player holds the record for most three-pointers made in a single season?",
+    "explanation": "Stephen Curry broke Ray Allen's all-time single-season three-point record with 402 in the 2015-16 season, later improving it significantly.",
+    "options": [
+      "Stephen Curry",
+      "Klay Thompson",
+      "Ray Allen",
+      "Derrick Rose"
+    ],
+    "correctAnswer": "Stephen Curry",
+    "tags": [
+      "NBA",
+      "Records",
+      "Three-Pointers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "22182qlxj",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "In which city is the home arena of the Chicago Bulls located?",
+    "explanation": "The Chicago Bulls play at the United Center in Chicago, Illinois, where they won 6 championships between 1991 and 2003.",
+    "options": [
+      "Chicago",
+      "New York",
+      "Los Angeles",
+      "Miami"
+    ],
+    "correctAnswer": "Chicago",
+    "tags": [
+      "NBA",
+      "Teams",
+      "Venues"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2t14p4j6p",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "Which NBA player was drafted first overall in 2023?",
+    "explanation": "Victor Wembanyama was selected first overall by the San Antonio Spurs in the 2023 NBA Draft, becoming the highest pick since Kawhi Leonard.",
+    "options": [
+      "Victor Wembanyama",
+      "Chet Holmgren",
+      "Paolo Banchero",
+      "Zion Williamson"
+    ],
+    "correctAnswer": "Victor Wembanyama",
+    "tags": [
+      "NBA",
+      "Drafts",
+      "Players"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "udxddazbq",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which player holds the record for most three-pointers made in NBA history?",
+    "explanation": "Stephen Curry surpassed Ray Allen's record in 2023, making him the all-time leader in three-pointers made with over 4,000 career threes.",
+    "options": [
+      "Stephen Curry",
+      "Ray Allen",
+      "Klay Thompson",
+      "Dwight Howard"
+    ],
+    "correctAnswer": "Stephen Curry",
+    "tags": [
+      "SPOR-NBA",
+      "Records",
+      "Three-Pointers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qwdpizge2",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which team won the first NBA championship in franchise history?",
+    "explanation": "The Boston Celtics won their first NBA championship in 1957, and went on to establish one of the most successful dynasties in league history.",
+    "options": [
+      "Boston Celtics",
+      "New York Knicks",
+      "Philadelphia Eagles",
+      "Chicago Bulls"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "SPOR-NBA",
+      "Championships",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "56wjuthqi",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "In which year did LeBron James become the all-time leading scorer in NBA history?",
+    "explanation": "LeBron James surpassed Kareem Abdul-Jabbar's all-time scoring record in January 2023, becoming the NBA's leading scorer with over 40,000 career points.",
+    "options": [
+      "2023",
+      "2024",
+      "2020",
+      "2019"
+    ],
+    "correctAnswer": "2023",
+    "tags": [
+      "SPOR-NBA",
+      "Records",
+      "LeBron James"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cfma90i4z",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which player has won the most MVP awards in NBA history?",
+    "explanation": "Kareem Abdul-Jabbar holds the record with 6 MVP awards, having won them between 1970 and 1985.",
+    "options": [
+      "Michael Jordan",
+      "Kareem Abdul-Jabbar",
+      "LeBron James",
+      "Wilt Chamberlain"
+    ],
+    "correctAnswer": "Kareem Abdul-Jabbar",
+    "tags": [
+      "SPOR-NBA",
+      "MVP",
+      "Records"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ui3jsjoi",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "What is the maximum score a team can get in a standard NBA game?",
+    "explanation": "The highest team score in NBA history is 162 (Golden State Warriors vs Cleveland Cavaliers, 2024), but the maximum possible with current rules would be around 130-140 points.",
+    "options": [
+      "130",
+      "140",
+      "150",
+      "160"
+    ],
+    "correctAnswer": "130",
+    "tags": [
+      "SPOR-NBA",
+      "Records",
+      "Game Statistics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7t7tqg189",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which NBA team won the 2024 championship?",
+    "explanation": "The Oklahoma City Thunder won the 2024 NBA championship by defeating the Boston Celtics in a closely contested Finals series.",
+    "options": [
+      "Boston Celtics",
+      "Denver Nuggets",
+      "Oklahoma City Thunder",
+      "Milwaukee Bucks"
+    ],
+    "correctAnswer": "Oklahoma City Thunder",
+    "tags": [
+      "championship",
+      "nba",
+      "2024"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ns34xgx4r",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "How many teams are currently in the NBA?",
+    "explanation": "The NBA consists of 30 teams, divided into two conferences: Eastern and Western, each with three divisions.",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "correctAnswer": "30",
+    "tags": [
+      "nba",
+      "teams",
+      "league structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u3y93kphi",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which player holds the record for most consecutive MVP awards in NBA history?",
+    "explanation": "Bill Russell won 5 consecutive MVP awards from 1961 to 1966, a record that still stands in NBA history.",
+    "options": [
+      "Michael Jordan - 2",
+      "LeBron James - 4",
+      "Bill Russell - 5",
+      "Stephen Curry - 3"
+    ],
+    "correctAnswer": "Bill Russell - 5",
+    "tags": [
+      "mvp",
+      "records",
+      "nba history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "73w7wqsc5",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "What is the overtime rule in the NBA after regulation time?",
+    "explanation": "In the NBA, overtime periods last for 2 minutes each until a winner is determined.",
+    "options": [
+      "4 minutes per period",
+      "2 minutes per period",
+      "30 seconds per period",
+      "5 minutes per period"
+    ],
+    "correctAnswer": "2 minutes per period",
+    "tags": [
+      "nba rules",
+      "overtime",
+      "league structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c8s51k4zf",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Which NBA franchise has won the most championships in league history?",
+    "explanation": "The Boston Celtics have won the most NBA championships with 18 titles, tied for the most in franchise history.",
+    "options": [
+      "Los Angeles Lakers - 17",
+      "Boston Celtics - 18",
+      "Chicago Bulls - 6",
+      "Golden State Warriors - 7"
+    ],
+    "correctAnswer": "Boston Celtics - 18",
+    "tags": [
+      "championships",
+      "records",
+      "nba history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6oxyi3zzj",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EASY",
+    "question": "Which NBA team has won the most championship titles in league history?",
+    "explanation": "The Boston Celtics have won 17 NBA championships, the most in league history, with their first title in 1956 and most recent in 2008.",
+    "options": [
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Chicago Bulls",
+      "Golden State Warriors"
+    ],
+    "correctAnswer": "Boston Celtics",
+    "tags": [
+      "NBA",
+      "Championships",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rf5uzfiao",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "GENERAL",
+    "question": "Who holds the all-time record for most points scored in regular season NBA games?",
+    "explanation": "LeBron James surpassed Kareem Abdul-Jabbar's record in 2023, becoming the NBA's all-time leading scorer with over 40,000 career points.",
+    "options": [
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Stephen Curry",
+      "Wilt Chamberlain"
+    ],
+    "correctAnswer": "LeBron James",
+    "tags": [
+      "NBA",
+      "Records",
+      "Scoring"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bgujmbejj",
+    "category": "SPOR",
+    "subcategory": "NBA",
+    "difficulty": "EXPERT",
+    "question": "In which year did Michael Jordan lead the Chicago Bulls to their first three-peat championship?",
+    "explanation": "The Chicago Bulls won their first three championships in a row from 1991-1993, making them the first team to achieve a three-peat in NBA history.",
+    "options": [
+      "1991",
+      "1992",
+      "1993",
+      "1995"
+    ],
+    "correctAnswer": "1993",
+    "tags": [
+      "NBA",
+      "Michael Jordan",
+      "Championships"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

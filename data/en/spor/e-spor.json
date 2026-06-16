@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "6i85zmdor",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What does 'SPOR' most commonly refer to in an educational context?",
+    "explanation": "SPOR is most commonly used as an abbreviation for Sports and Physical Education programs in schools and educational institutions.",
+    "options": [
+      "Sports and Physical Education",
+      "Student Program for Research",
+      "School Performance Outcomes Report",
+      "Specialized Online Resource Platform"
+    ],
+    "correctAnswer": "Sports and Physical Education",
+    "tags": [
+      "education",
+      "sports",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yilm9x4j1",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is a key benefit of incorporating SPOR activities in physical education?",
+    "explanation": "The primary benefit of sports and physical education (SPOR) activities is improving students' physical health, cardiovascular fitness, and overall well-being.",
+    "options": [
+      "Improved academic test scores",
+      "Enhanced cardiovascular health and fitness",
+      "Better classroom management skills",
+      "Increased enrollment numbers"
+    ],
+    "correctAnswer": "Enhanced cardiovascular health and fitness",
+    "tags": [
+      "health",
+      "fitness",
+      "physical education"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eyixptn7i",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "In educational planning, what is considered a fundamental goal of SPOR programs?",
+    "explanation": "Beyond physical fitness, SPOR programs aim to develop important life skills such as teamwork, leadership, communication, and discipline.",
+    "options": [
+      "Developing teamwork and leadership skills",
+      "Creating competitive sports tournaments",
+      "Minimizing recess time",
+      "Reducing physical activity requirements"
+    ],
+    "correctAnswer": "Developing teamwork and leadership skills",
+    "tags": [
+      "skill development",
+      "education goals",
+      "teamwork"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n3butnsa5",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which age group typically benefits most from structured SPOR activities in schools?",
+    "explanation": "Structured sports and physical education programs are most commonly designed for elementary through secondary school students who need both physical activity and skill development.",
+    "options": [
+      "Early childhood (ages 3-5)",
+      "Elementary to secondary school (ages 6-18)",
+      "Adult learners only",
+      "University students exclusively"
+    ],
+    "correctAnswer": "Elementary to secondary school (ages 6-18)",
+    "tags": [
+      "age groups",
+      "school programs",
+      "developmental stages"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dvq778xzh",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EXPERT",
+    "question": "What is a common misconception about SPOR programs in educational settings?",
+    "explanation": "A common misconception is that SPOR programs are solely about competition and winning; in reality, they emphasize physical health, skill development, teamwork, fair play, and overall student well-being.",
+    "options": [
+      "They only focus on winning games",
+      "They include health education components",
+      "They improve student-teacher relationships",
+      "They require parental involvement"
+    ],
+    "correctAnswer": "They only focus on winning games",
+    "tags": [
+      "misconceptions",
+      "educational philosophy",
+      "common myths"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsvo3ge2n",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What does 'education methodology' refer to in modern learning systems?",
+    "explanation": "Education methodology encompasses the various teaching strategies, pedagogical approaches, and instructional methods that educators use to effectively facilitate student learning outcomes.",
+    "options": [
+      "The teaching strategies and approaches used to facilitate student learning",
+      "A specific subject taught in schools",
+      "Student assessment techniques only",
+      "Administrative procedures for schools"
+    ],
+    "correctAnswer": "The teaching strategies and approaches used to facilitate student learning",
+    "tags": [
+      "education",
+      "methodology",
+      "learning"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ie4od1pu",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which of these is considered an active learning technique?",
+    "explanation": "Active learning techniques engage students in doing things and thinking about what they are doing. Collaborative group problem-solving requires active participation, discussion, and application of knowledge.",
+    "options": [
+      "Collaborative group problem-solving",
+      "Lecture-only instruction",
+      "Memorization drills",
+      "Standardized testing"
+    ],
+    "correctAnswer": "Collaborative group problem-solving",
+    "tags": [
+      "active-learning",
+      "collaboration",
+      "instructional-methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wef79ctjm",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "What is the primary purpose of formative assessment?",
+    "explanation": "Formative assessment focuses on monitoring student learning and providing timely, constructive feedback that helps both teachers and students improve during the instructional process.",
+    "options": [
+      "To provide ongoing feedback to improve learning during instruction",
+      "To assign final grades at term's end",
+      "To compare students with standardized norms",
+      "To evaluate administrative performance"
+    ],
+    "correctAnswer": "To provide ongoing feedback to improve learning during instruction",
+    "tags": [
+      "assessment",
+      "feedback",
+      "instructional-evaluation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uw3pe5wr8",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which educational principle states that instruction should match learner development levels?",
+    "explanation": "Vygotsky's Zone of Proximal Development refers to the range between what learners can do independently and what they can achieve with guidance, emphasizing instruction should match developmental readiness.",
+    "options": [
+      "Zone of Proximal Development",
+      "Classical Conditioning",
+      "Operant Conditioning",
+      "Observational Learning"
+    ],
+    "correctAnswer": "Zone of Proximal Development",
+    "tags": [
+      "developmental-psychology",
+      "instructional-design",
+      "learning-theory"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5obzhuzq1",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EXPERT",
+    "question": "What distinguishes summative assessment from formative assessment?",
+    "explanation": "The key distinction is timing and purpose: summative assessment evaluates student achievement at the end of an instructional period (for grading), while formative assessment provides continuous feedback to improve learning during instruction.",
+    "options": [
+      "Summative evaluates learning at the end of a period; formative provides ongoing feedback during learning",
+      "They are interchangeable terms for the same process",
+      "Formative uses standardized tests; summative uses teacher-created items",
+      "Both evaluate administrative performance"
+    ],
+    "correctAnswer": "Summative evaluates learning at the end of a period; formative provides ongoing feedback during learning",
+    "tags": [
+      "assessment-types",
+      "educational-evaluation",
+      "instructional-methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "brumj0oiy",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What does 'SPOR-E-Spor' primarily refer to in educational contexts?",
+    "explanation": "SPOR-E-Spor represents a structured educational initiative focused on integrating sports knowledge with learning objectives.",
+    "options": [
+      "A sports education program",
+      "An international sports competition",
+      "A fitness certification course",
+      "A sports equipment brand"
+    ],
+    "correctAnswer": "A sports education program",
+    "tags": [
+      "sports",
+      "education",
+      "program"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uanlo26py",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is a key benefit of participating in SPOR-E-Spor activities?",
+    "explanation": "The program emphasizes developing essential interpersonal and collaborative abilities through sports-based learning.",
+    "options": [
+      "Improved physical fitness",
+      "Enhanced teamwork and communication skills",
+      "Access to professional coaching only",
+      "Winning medals exclusively"
+    ],
+    "correctAnswer": "Enhanced teamwork and communication skills",
+    "tags": [
+      "skills",
+      "teamwork",
+      "communication"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r9ert4wa0",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What level of expertise is typically expected for SPOR-E-Spor participants?",
+    "explanation": "The program is designed to be accessible to those with beginner to intermediate knowledge, making it inclusive for various skill levels.",
+    "options": [
+      "Beginner to intermediate",
+      "Advanced only",
+      "Professional athlete status",
+      "No prior experience needed"
+    ],
+    "correctAnswer": "Beginner to intermediate",
+    "tags": [
+      "expertise",
+      "participants",
+      "level"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2bxiaee6m",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which component is NOT typically part of SPOR-E-Spor curriculum?",
+    "explanation": "The curriculum focuses on educational and sports-related topics rather than specialized medical training.",
+    "options": [
+      "Sports theory and principles",
+      "Physical training exercises",
+      "Advanced medical procedures",
+      "Team building activities"
+    ],
+    "correctAnswer": "Advanced medical procedures",
+    "tags": [
+      "curriculum",
+      "education",
+      "components"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gor3o2k1v",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EXPERT",
+    "question": "What is the primary goal of SPOR-E-Spor program implementation?",
+    "explanation": "The core objective is fostering a healthy lifestyle by combining educational content with sports-based activities for holistic development.",
+    "options": [
+      "To promote healthy lifestyle through sports education",
+      "To create professional sports teams",
+      "To compete in international tournaments",
+      "To sell sports equipment"
+    ],
+    "correctAnswer": "To promote healthy lifestyle through sports education",
+    "tags": [
+      "goal",
+      "implementation",
+      "health"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p0roj28el",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What does 'SPOR-E-Spor' primarily focus on in educational settings?",
+    "explanation": "SPOR-E-Spor is an educational program that emphasizes physical activity, sports, and health awareness in schools.",
+    "options": [
+      "Physical fitness and health education",
+      "Mathematics and problem solving",
+      "Language arts and literature",
+      "Science experimentation"
+    ],
+    "correctAnswer": "Physical fitness and health education",
+    "tags": [
+      "education",
+      "sports",
+      "health"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p7wa3df05",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which component is NOT part of the SPOR-E-Spor curriculum?",
+    "explanation": "SPOR-E-Spor focuses on physical and health-related topics rather than advanced mathematical content.",
+    "options": [
+      "Team building activities",
+      "Nutrition education",
+      "Advanced calculus",
+      "Sports safety training"
+    ],
+    "correctAnswer": "Advanced calculus",
+    "tags": [
+      "curriculum",
+      "mathematics",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h1o7iokyr",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "What is a primary benefit of participating in SPOR-E-Spor programs?",
+    "explanation": "Research shows that regular physical activity in programs like SPOR-E-Spor can enhance cognitive function and academic outcomes.",
+    "options": [
+      "Improved academic performance through physical activity",
+      "Better coding skills",
+      "Enhanced artistic abilities",
+      "Increased social media presence"
+    ],
+    "correctAnswer": "Improved academic performance through physical activity",
+    "tags": [
+      "benefits",
+      "academic",
+      "physical activity"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "istpspfan",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EXPERT",
+    "question": "Which of the following is an age-appropriate activity in SPOR-E-Spor?",
+    "explanation": "SPOR-E-Spor tailors activities to age groups, with elementary students starting with basic coordination and fundamental movement skills.",
+    "options": [
+      "Elementary students learning basic coordination games",
+      "High school students competing in professional leagues",
+      "Middle school students studying advanced sports medicine",
+      "Kindergarten children learning team strategies"
+    ],
+    "correctAnswer": "Elementary students learning basic coordination games",
+    "tags": [
+      "age-appropriate",
+      "elementary",
+      "coordination"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aigxk9zmm",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What role do teachers play in SPOR-E-Spor implementation?",
+    "explanation": "In SPOR-E-Spor programs, teachers are responsible for guiding students through physical activities while maintaining a safe environment.",
+    "options": [
+      "Facilitating physical activities and ensuring safety",
+      "Grading written mathematics tests",
+      "Managing financial budgets only",
+      "Creating art projects"
+    ],
+    "correctAnswer": "Facilitating physical activities and ensuring safety",
+    "tags": [
+      "teachers",
+      "safety",
+      "facilitation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qxnv4we67",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "What does the 'Spor' in SPOR-E-Spor primarily represent?",
+    "explanation": "SPOR-E-Spor is an educational framework where 'Spor' represents Sports and Physical Education components in the curriculum.",
+    "options": [
+      "Sports and Physical Education",
+      "Science and Technology",
+      "Safety and Protection",
+      "Social and Political"
+    ],
+    "correctAnswer": "Sports and Physical Education",
+    "tags": [
+      "education",
+      "acronym",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1tsj2ol1p",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which element is typically included in SPOR-E-Spor assessment methods?",
+    "explanation": "SPOR-E-Spor emphasizes performance-based assessment to evaluate students' practical skills and physical abilities.",
+    "options": [
+      "Performance-based evaluation",
+      "Written examination only",
+      "Practical demonstration only",
+      "Peer review only"
+    ],
+    "correctAnswer": "Performance-based evaluation",
+    "tags": [
+      "assessment",
+      "evaluation",
+      "education"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3acoiz28h",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What is the main purpose of SPOR-E-Spor in educational institutions?",
+    "explanation": "The primary goal of SPOR-E-Spor is to foster comprehensive student growth through both academic and physical education integration.",
+    "options": [
+      "To develop holistic student development",
+      "To focus solely on academic scores",
+      "To replace traditional curriculum",
+      "To eliminate physical activities"
+    ],
+    "correctAnswer": "To develop holistic student development",
+    "tags": [
+      "purpose",
+      "development",
+      "curriculum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4b6wga25q",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which component of SPOR-E-Spor focuses on skill acquisition?",
+    "explanation": "Practical training sessions are the core element of SPOR-E-Spor designed for hands-on skill development and mastery.",
+    "options": [
+      "Practical training sessions",
+      "Lecture-based learning",
+      "Research projects only",
+      "Textbook study"
+    ],
+    "correctAnswer": "Practical training sessions",
+    "tags": [
+      "skill-acquisition",
+      "training",
+      "practical"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fbny2am98",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EXPERT",
+    "question": "How does SPOR-E-Spor integrate with traditional education?",
+    "explanation": "SPOR-E-Spor serves as a complementary educational framework that enhances rather than replaces traditional academic instruction.",
+    "options": [
+      "As a complementary framework",
+      "As a replacement system",
+      "As an optional extra",
+      "Not integrated at all"
+    ],
+    "correctAnswer": "As a complementary framework",
+    "tags": [
+      "integration",
+      "framework",
+      "complementary"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8x5y1rxmd",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What does the 'S' in SPOR-E-Spor typically stand for in educational contexts?",
+    "explanation": "In SPOR-E-Spor, the 'S' represents Skills, which are a core component of personal development and learning objectives.",
+    "options": [
+      "Science",
+      "Sports",
+      "Students",
+      "Skills"
+    ],
+    "correctAnswer": "Skills",
+    "tags": [
+      "SPOR-E-Spor",
+      "Education",
+      "Basic Concepts"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vl1uk1bni",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which difficulty level is most appropriate for introductory SPOR-E-Spor concepts?",
+    "explanation": "Introductory concepts in SPOR-E-Spor are designed at an EASY difficulty level to help learners build foundational knowledge.",
+    "options": [
+      "GENERAL",
+      "EASY",
+      "EXPERT",
+      "ADVANCED"
+    ],
+    "correctAnswer": "EASY",
+    "tags": [
+      "SPOR-E-Spor",
+      "Difficulty Levels",
+      "Learning Progression"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4osycf3u4",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What is the primary purpose of SPOR-E-Spor educational frameworks?",
+    "explanation": "The primary purpose of SPOR-E-Spor frameworks is to develop essential skills through structured learning approaches.",
+    "options": [
+      "Entertainment",
+      "Skill Development",
+      "Competition",
+      "Physical Exercise"
+    ],
+    "correctAnswer": "Skill Development",
+    "tags": [
+      "SPOR-E-Spor",
+      "Educational Frameworks",
+      "Purpose"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e8x1h3pyo",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "In the context of SPOR-E-Spor, which tag would best categorize advanced assessment questions?",
+    "explanation": "Advanced assessment questions in SPOR-E-Spor are typically categorized under the EXPERT difficulty and tag for appropriate learner placement.",
+    "options": [
+      "EXPERT",
+      "GENERAL",
+      "EASY",
+      "INTERMEDIATE"
+    ],
+    "correctAnswer": "EXPERT",
+    "tags": [
+      "SPOR-E-Spor",
+      "Assessment Categories",
+      "Question Types"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7po7yzmuu",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "What is a key benefit of using SPOR-E-Spor quiz-based learning methods?",
+    "explanation": "A key benefit of SPOR-E-Spor quiz-based learning is providing immediate feedback to help learners understand and correct misconceptions quickly.",
+    "options": [
+      "Immediate Feedback",
+      "Delayed Grading",
+      "Group Competition",
+      "Randomized Testing"
+    ],
+    "correctAnswer": "Immediate Feedback",
+    "tags": [
+      "SPOR-E-Spor",
+      "Learning Methods",
+      "Quiz Benefits"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r5ggl09fk",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "What does 'SPOR-E-Spor' typically refer to in educational contexts?",
+    "explanation": "SPOR-E-Spor is commonly associated with Sports Education Programs that focus on teaching physical activity and health education.",
+    "options": [
+      "Sports Education Program",
+      "Physical Recreation Studies",
+      "Athletic Training Certification",
+      "Sports Psychology Course"
+    ],
+    "correctAnswer": "Sports Education Program",
+    "tags": [
+      "education",
+      "sports",
+      "programs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1mlqay2dr",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "Which of the following is a key objective of Sports Education?",
+    "explanation": "Sports Education aims to foster sustainable physical activity patterns that continue throughout a person's life.",
+    "options": [
+      "Developing athletic skills only",
+      "Promoting lifelong physical activity habits",
+      "Creating professional athletes",
+      "Reducing classroom learning time"
+    ],
+    "correctAnswer": "Promoting lifelong physical activity habits",
+    "tags": [
+      "objectives",
+      "health",
+      "education"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iei9nuldd",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "What is the primary focus of SPOR-E-Spor curriculum?",
+    "explanation": "The curriculum emphasizes holistic health education including physical fitness, nutrition, and mental well-being.",
+    "options": [
+      "Advanced biomechanics analysis",
+      "Comprehensive health and wellness education",
+      "Professional coaching certification",
+      "Elite competition strategies"
+    ],
+    "correctAnswer": "Comprehensive health and wellness education",
+    "tags": [
+      "curriculum",
+      "health",
+      "wellness"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "68kr75qm2",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "Which assessment method is commonly used in Sports Education programs?",
+    "explanation": "Sports Education uses practical assessments like activity tracking and skill development measurements.",
+    "options": [
+      "Written exams only",
+      "Physical activity participation logs and skill evaluations",
+      "Video game performance metrics",
+      "Financial investment analysis"
+    ],
+    "correctAnswer": "Physical activity participation logs and skill evaluations",
+    "tags": [
+      "assessment",
+      "evaluation",
+      "methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "byx3vtrzy",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "What is an expected outcome for students completing SPOR-E-Spor?",
+    "explanation": "Students gain foundational knowledge in health education and physical literacy to lead active lifestyles.",
+    "options": [
+      "Becoming Olympic athletes",
+      "Understanding health education and physical literacy",
+      "Learning advanced sports marketing",
+      "Earning professional coaching licenses"
+    ],
+    "correctAnswer": "Understanding health education and physical literacy",
+    "tags": [
+      "outcomes",
+      "literacy",
+      "health"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w3zd4p6d6",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Apa yang dimaksud dengan SPOR-E-Spor dalam konteks pendidikan olahraga?",
+    "explanation": "SPOR-E-Spor merujuk pada sistem kurikulum pendidikan jasmani yang terintegrasi dalam pendidikan olahraga modern.",
+    "options": [
+      "Sistem pelatihan atlet profesional",
+      "Kurikulum pendidikan jasmani terpadu",
+      "Program pengembangan skill olahraga digital",
+      "Asosiasi olahraga nasional"
+    ],
+    "correctAnswer": "Kurikulum pendidikan jasmani terpadu",
+    "tags": [
+      "olahraga",
+      "pendidikan",
+      "kurikulum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5jpk17yjs",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Manakah dari berikut ini yang merupakan prinsip dasar dalam SPOR-E-Spor?",
+    "explanation": "Prinsip dasar SPOR-E-Spor menekankan pada keseimbangan tubuh, kecepatan reaksi, dan koordinasi motorik.",
+    "options": [
+      "Kecepatan dan kekuatan",
+      "Fleksibilitas dan ketahanan",
+      "Keseimbangan, kecepatan, dan koordinasi",
+      "Endurance dan power"
+    ],
+    "correctAnswer": "Keseimbangan, kecepatan, dan koordinasi",
+    "tags": [
+      "olahraga",
+      "prinsip",
+      "fisik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6qu6cjqa6",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Seberapa sering latihan fisik direkomendasikan dalam program SPOR-E-Spor?",
+    "explanation": "Program SPOR-E-Spor menyarankan latihan fisik 3-4 kali seminggu untuk optimalisasi perkembangan jasmani.",
+    "options": [
+      "1-2 kali seminggu",
+      "2-3 kali seminggu",
+      "3-4 kali seminggu",
+      "5-6 kali seminggu"
+    ],
+    "correctAnswer": "3-4 kali seminggu",
+    "tags": [
+      "olahraga",
+      "latihan",
+      "rekomendasi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "matz8nwbe",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "Apa tujuan utama dari implementasi SPOR-E-Spor di sekolah?",
+    "explanation": "Tujuan utama SPOR-E-Spor di sekolah adalah meningkatkan kesehatan, kebugaran jasmani, dan kesadaran gerak siswa.",
+    "options": [
+      "Menyiapkan atlet profesional",
+      "Meningkatkan kesehatan dan kebugaran siswa",
+      "Mengembangkan skill olahraga spesifik",
+      "Persiapan kompetisi tingkat nasional"
+    ],
+    "correctAnswer": "Meningkatkan kesehatan dan kebugaran siswa",
+    "tags": [
+      "pendidikan",
+      "sekolah",
+      "kesehatan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gi2vjbmko",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EXPERT",
+    "question": "Komponen evaluasi dalam program SPOR-E-Spor meliputi?",
+    "explanation": "Evaluasi SPOR-E-Spor bersifat komprehensif meliputi aspek fisik, pemahaman kognitif tentang olahraga, dan interaksi sosial.",
+    "options": [
+      "Hanya tes fisik",
+      "Tes fisik, kognitif, dan sosial",
+      "Hanya penilaian skill olahraga",
+      "Evaluasi psikologis saja"
+    ],
+    "correctAnswer": "Tes fisik, kognitif, dan sosial",
+    "tags": [
+      "evaluasi",
+      "pendidikan",
+      "komprehensif"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l193m2x55",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What does SPOR-E-Spor primarily relate to?",
+    "explanation": "SPOR-E-Spor is a specialized educational program that combines traditional sports concepts with electronic/digital learning methods.",
+    "options": [
+      "Electronic sports education",
+      "Traditional physical fitness programs",
+      "Sports psychology and nutrition",
+      "Medical rehabilitation techniques"
+    ],
+    "correctAnswer": "Electronic sports education",
+    "tags": [
+      "SPOR-E-Spor",
+      "education",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mhi5yy3qo",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which component is NOT part of SPOR-E-Spor curriculum?",
+    "explanation": "SPOR-E-Spor focuses on sports-related digital and physical training, not artistic or creative performance assessment.",
+    "options": [
+      "Digital sports analytics",
+      "Physical athletic training",
+      "Esports gaming strategies",
+      "Artistic performance evaluation"
+    ],
+    "correctAnswer": "Artistic performance evaluation",
+    "tags": [
+      "SPOR-E-Spor",
+      "curriculum",
+      "sports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nikz7jdf9",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What is the main objective of SPOR-E-Spor programs?",
+    "explanation": "The primary goal is to provide holistic education for athletes combining traditional and digital sports knowledge.",
+    "options": [
+      "To develop comprehensive athlete education",
+      "To create professional coaches only",
+      "To design sports facilities exclusively",
+      "To administer sports competitions"
+    ],
+    "correctAnswer": "To develop comprehensive athlete education",
+    "tags": [
+      "SPOR-E-Spor",
+      "athlete",
+      "education"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b3ui760v4",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which technology integration characterizes SPOR-E-Spor?",
+    "explanation": "SPOR-E-Spor utilizes modern AI and digital tools to track and enhance athletic performance.",
+    "options": [
+      "AI-powered athletic performance tracking",
+      "Manual observation techniques",
+      "Paper-based assessment methods",
+      "Traditional coaching methodologies"
+    ],
+    "correctAnswer": "AI-powered athletic performance tracking",
+    "tags": [
+      "SPOR-E-Spor",
+      "technology",
+      "AI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ne2cnv263",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EXPERT",
+    "question": "What level of expertise is required for SPOR-E-Spor instructors?",
+    "explanation": "Instructors must hold appropriate sports education certifications to teach SPOR-E-Spor programs effectively.",
+    "options": [
+      "Sports education certification",
+      "Medical doctorate degree",
+      "Artistic performance license",
+      "Business management qualification"
+    ],
+    "correctAnswer": "Sports education certification",
+    "tags": [
+      "SPOR-E-Spor",
+      "instructor",
+      "certification"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ipdriwrve",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "What does the acronym 'SPOR' commonly represent in an educational sports context?",
+    "explanation": "SPOR typically stands for Sports Program Organization and Regulation in educational contexts, focusing on how sports programs are structured and managed.",
+    "options": [
+      "Sports Performance and Operations Research",
+      "Student Physical Orientation and Recreation",
+      "Sports Program Organization and Regulation",
+      "School Physical Activity and Outdoor Recreation"
+    ],
+    "correctAnswer": "Sports Program Organization and Regulation",
+    "tags": [
+      "sports",
+      "acronym",
+      "education"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ty2vy3l8k",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is a key component of effective SPOR program implementation?",
+    "explanation": "Effective SPOR programs prioritize student involvement and active participation, which leads to better learning outcomes and program success.",
+    "options": [
+      "Regular equipment upgrades only",
+      "Student participation and engagement",
+      "Limited faculty oversight",
+      "Focus solely on competitive outcomes"
+    ],
+    "correctAnswer": "Student participation and engagement",
+    "tags": [
+      "sports",
+      "program",
+      "implementation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dir2xsc64",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EASY",
+    "question": "In the context of 'E-Spor' (Electronic Sports), what is a primary difference from traditional sports?",
+    "explanation": "E-Spor (electronic sports) is defined by being played on digital/video game platforms, distinguishing it from traditional physical sports.",
+    "options": [
+      "It requires physical exercise",
+      "It is played entirely on digital platforms",
+      "It cannot have rules or regulations",
+      "It excludes team collaboration"
+    ],
+    "correctAnswer": "It is played entirely on digital platforms",
+    "tags": [
+      "e-sports",
+      "electronic",
+      "digital"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jx0iq3xxf",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "GENERAL",
+    "question": "What is an important consideration when integrating SPOR with E-Spor activities in a curriculum?",
+    "explanation": "When combining traditional sports (SPOR) and e-sports, it's crucial to balance digital engagement with physical activity for overall student wellness.",
+    "options": [
+      "Eliminating all competitive elements",
+      "Balancing screen time with physical activity",
+      "Restricting student participation",
+      "Focusing only on individual achievements"
+    ],
+    "correctAnswer": "Balancing screen time with physical activity",
+    "tags": [
+      "curriculum",
+      "integration",
+      "health"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "giyb6fej9",
+    "category": "SPOR",
+    "subcategory": "E-Spor",
+    "difficulty": "EXPERT",
+    "question": "Which outcome is most likely associated with successful SPOR program development?",
+    "explanation": "Successful SPOR program development typically results in better organizational structures, increased student participation, and improved overall program effectiveness.",
+    "options": [
+      "Decreased student enrollment",
+      "Improved organizational efficiency and participation",
+      "Reduced faculty involvement",
+      "Limited resource allocation"
+    ],
+    "correctAnswer": "Improved organizational efficiency and participation",
+    "tags": [
+      "outcomes",
+      "development",
+      "organization"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

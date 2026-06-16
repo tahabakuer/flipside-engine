@@ -1,44 +1,36 @@
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
-import { generateQuestion } from './generator';
+import { generateBatch } from './generator'; // Batch generator'ı kullanıyoruz
 import { appendQuestionsToFile } from './fileHandler';
-import { CATEGORY_CONFIG } from './config';
+import { CATEGORY_CONFIG, CategoryKey } from './config';
 
 const argv = yargs(hideBin(process.argv))
   .option('category', { type: 'string', demandOption: true, description: 'Kategori adı' })
   .option('sub', { type: 'string', demandOption: true, description: 'Alt kategori adı' })
+  .option('count', { type: 'number', default: 5, description: 'Soru sayısı' })
   .parseSync();
 
 async function runEngine() {
-  const cat = argv.category as keyof typeof CATEGORY_CONFIG;
+  const cat = argv.category as CategoryKey;
   const sub = argv.sub;
+  const count = argv.count;
 
-  // Validasyon
   if (!CATEGORY_CONFIG[cat] || !CATEGORY_CONFIG[cat].includes(sub)) {
     console.error(`❌ HATA: '${cat}' veya '${sub}' bulunamadı!`);
-    console.log("Mevcut kategoriler:", Object.keys(CATEGORY_CONFIG));
     return;
   }
 
-  console.log(` Üretim: ${cat} -> ${sub}`);
+  console.log(`🛠️ Manuel Üretim: ${cat} -> ${sub} (${count} soru)`);
 
-  const distribution = [
-    { difficulty: 'EASY', count: 2 },
-    { difficulty: 'GENERAL', count: 1 },
-    { difficulty: 'EXPERT', count: 2 }
-  ];
-
-  const batch = [];
-  for (const item of distribution) {
-    for (let i = 0; i < item.count; i++) {
-      console.log(`Üretiliyor: ${item.difficulty}...`);
-      const q = await generateQuestion(cat, sub, item.difficulty);
-      batch.push(q);
-    }
+  try {
+    // Toplu üretim yaparak hızı artırıyoruz
+    const batch = await generateBatch(cat, sub, count);
+    
+    appendQuestionsToFile(batch, cat);
+    console.log(`✅ ${batch.length} soru başarıyla eklendi.`);
+  } catch (e) {
+    console.error("❌ Üretim başarısız:", e);
   }
-
-  appendQuestionsToFile(batch, cat);
-  console.log(`✅ ${batch.length} soru başarıyla eklendi.`);
 }
 
 runEngine();
