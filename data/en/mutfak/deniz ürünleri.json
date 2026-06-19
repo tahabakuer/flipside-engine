@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "zj26r2v7h",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi deniz ürünü, 'lokma balığı' ile birlikte tüketildiğinde besleyicilik açısından daha zenginleşir?",
+    "explanation": "Lokma balığı ve kırlangıç, birlikte tüketildiğinde omega-3 ve protein açısından daha zengin bir besin kombinasyonu oluşturur.",
+    "options": [
+      "İstakoz",
+      "Çipura",
+      "Hamsi",
+      "Kırlangıç"
+    ],
+    "correctAnswer": "Kırlangıç",
+    "tags": [
+      "deniz_ürünleri",
+      "beslenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "batnjlr3y",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Which of the following is a cold water fish that is highly valued for its rich omega-3 fatty acids?",
+    "explanation": "Somon, soğuk sulara yetişen ve yüksek miktarda omega-3 yağ asitleri içeren değerli bir balıktır.",
+    "options": [
+      "Tuna (Ton Balığı)",
+      "Salmon (Somon)",
+      "Trout (Palamut)",
+      "Carp (Alabalık)"
+    ],
+    "correctAnswer": "Salmon (Somon)",
+    "tags": [
+      "Deniz Ürünleri",
+      "Balık Türleri",
+      "Besin Değeri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wi20vy7t2",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Mediterranean Sea Products - Which shellfish is commonly used in Turkish cuisine and has a distinctive sweet flavor?",
+    "explanation": "Midyeler, Türk mutfağında yaygın olarak kullanılan ve tatlı bir tada sahip kabuklu hayvandır.",
+    "options": [
+      "Mussel (Midye)",
+      "Clam (Kabak)",
+      "Oyster (Istiridye)",
+      "Scallop (Çatı)"
+    ],
+    "correctAnswer": "Mussel (Midye)",
+    "tags": [
+      "Deniz Ürünleri",
+      "Turkish Cuisine",
+      "Kabuklu Hayvanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l7913apu3",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Which type of seafood is considered a sustainable choice and is often recommended by environmental organizations?",
+    "explanation": "Sardinalar, çevre dostu bir seçenek olarak kabul edilir ve sürdürülebilir deniz ürünleri listesinde yer alır.",
+    "options": [
+      "Tuna (Ton Balığı)",
+      "Sardine (Sardalya)",
+      "Shrimp (Karides)",
+      "Eel (Köfte)"
+    ],
+    "correctAnswer": "Sardine (Sardalya)",
+    "tags": [
+      "Deniz Ürünleri",
+      "Sürdürülebilirlik",
+      "Çevre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xm07mgszi",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Which sea product is known for its high protein content and low saturated fat?",
+    "explanation": "Kalamar, yüksek proteinli ve düşük doymuş yağ içeren sağlıklı bir deniz ürünüdür.",
+    "options": [
+      "Crab (Kangur)",
+      "Lobster (İstiridye)",
+      "Squid (Kalamar)",
+      "Eel (Köfte)"
+    ],
+    "correctAnswer": "Squid (Kalamar)",
+    "tags": [
+      "Deniz Ürünleri",
+      "Besin Değeri",
+      "Protein Kaynakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "28wvrkgb5",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "What is the primary conservation concern for Bluefin Tuna?",
+    "explanation": "Beyaz ton balıklarının ana sorunları aşırı avlamadan kaynaklanan popülasyon azalmasıdır.",
+    "options": [
+      "Overfishing (Aşırı Avlama)",
+      "Pollution (Kirlilik)",
+      "Habitat Loss (Yaşam Alanı Kaybı)",
+      "Disease (Hastalık)"
+    ],
+    "correctAnswer": "Overfishing (Aşırı Avlama)",
+    "tags": [
+      "Deniz Ürünleri",
+      "Sürdürülebilirlik",
+      "Koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "61hefk09a",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz Ürünleri arasında hangisi en yüksek omega-3 içeriğine sahiptir?",
+    "explanation": "Kırmızı balıklar (somon, uskumru gibi) daha yüksek miktarda omega-3 yağ asidi içerir.",
+    "options": [
+      "Kırmızı Balık",
+      "Beyaz Balık",
+      "Yengeç",
+      "Midye"
+    ],
+    "correctAnswer": "Kırmızı Balık",
+    "tags": [
+      "Deniz Ürünleri",
+      "Beslenme",
+      "Sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r9wvrthkk",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Taze deniz ürünlerini muhafaza etmek için uygun sıcaklık kaç derecedir?",
+    "explanation": "Taze deniz ürünleri 0-4°C arasında saklanmalıdır, bu da bakterilerin büyümesini yavaşlatır.",
+    "options": [
+      "0-4°C",
+      "10-15°C",
+      "-8°C",
+      "20-25°C"
+    ],
+    "correctAnswer": "0-4°C",
+    "tags": [
+      "Muhafaza",
+      "Gıda Güvenliği",
+      "Sıcaklık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zjnxjh090",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Deniz Ürünleri'nden hangisi pişirmeden önce mutlaka yıkanmalı ve temizlenmelidir?",
+    "explanation": "Midyeler, yengeçler gibi kabuklu deniz ürünleri pişirmeden önce iyi temizlenmeli ve yıkanmalıdır.",
+    "options": [
+      "Midye",
+      "Muzırla",
+      "Yengeç",
+      "Tavuk"
+    ],
+    "correctAnswer": "Midye",
+    "tags": [
+      "Hazırlık",
+      "Temizlik",
+      "Deniz Ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q8vzvk7ko",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz Ürünleri'nden hangisi düşük kalorilidir?",
+    "explanation": "İstiridyeler 100 grda yaklaşık 68 kalori içerir, diğerlerine göre daha az kalorilidir.",
+    "options": [
+      "Uskumru",
+      "Ton Balığı",
+      "Kırmızı Ton",
+      "İstiridye"
+    ],
+    "correctAnswer": "İstiridye",
+    "tags": [
+      "Kalori",
+      "Beslenme",
+      "Deniz Ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k11g4d52t",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Deniz Ürünleri'nden hangisi 'sushi' yapımında sıklıkla kullanılır?",
+    "explanation": "Somon, sushi ve sashimi yapımında en yaygın kullanılan deniz ürünlerinden biridir.",
+    "options": [
+      "Somon",
+      "Karides",
+      "Kırmızı Ton",
+      "İstiridye"
+    ],
+    "correctAnswer": "Somon",
+    "tags": [
+      "Mutfak",
+      "Yemekler",
+      "Deniz Ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2njlcld04",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Deniz Ürünleri arasında en yüksek omega-3 yağ asidi içeren balık hangisidir?",
+    "explanation": "Somon balığı, diğer deniz ürünlerine kıyasla en yüksek miktarda omega-3 yağ asidini içerir ve kalp sağlığı için önemli bir besindir.",
+    "options": [
+      "Tunç",
+      "Somon",
+      "Levrek",
+      "Çıltık"
+    ],
+    "correctAnswer": "Somon",
+    "tags": [
+      "deniz ürünleri",
+      "beslenme",
+      "omega-3"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r32bq7as4",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz Ürünleri'nde pişirme öncesi doğru tuzlama yöntemi nedir?",
+    "explanation": "Deniz ürünlerini pişirmeden önce yaklaşık 1 saat tuzlamak, etin yumuşamasını ve lezzetinin artmasını sağlar.",
+    "options": [
+      "Aşırı tuzlama",
+      "Tuzsuz bırakma",
+      "Önceden 1 saat tuzlamak",
+      "Pişirme esnasında tuzlamak"
+    ],
+    "correctAnswer": "Önceden 1 saat tuzlamak",
+    "tags": [
+      "deniz ürünleri",
+      "pişirme teknikleri",
+      "tuzlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p7wy78zo1",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi deniz ürünü çiğ olarak tüketilmemeli ve iyi pişirilmeden saklanmamalıdır?",
+    "explanation": "Tatlı su balıkları parazit ve bakteri taşıma riski nedeniyle iyi pişirilmeden tüketilmemelidir.",
+    "options": [
+      "Midye",
+      "Kalamar",
+      "İstiridye",
+      "Tatlı Su Balığı"
+    ],
+    "correctAnswer": "Tatlı Su Balığı",
+    "tags": [
+      "deniz ürünleri",
+      "gıda güvenliği",
+      "sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r33zyjcfo",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Deniz Ürünleri'nde hangisi en yüksek protein kaynağıdır?",
+    "explanation": "Ton balığı, deniz ürünleri arasında en yüksek protein içeriğine sahip olup düşük yağlı bir proteindir.",
+    "options": [
+      "Ton Balığı",
+      "Kıtır Mantar",
+      "Patates",
+      "Salatalık"
+    ],
+    "correctAnswer": "Ton Balığı",
+    "tags": [
+      "deniz ürünleri",
+      "protein",
+      "besin değerleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lv22ff7ak",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Deniz Ürünleri'nde hangisi glutamati bakımından zengindir ve umami lezzetini artırır?",
+    "explanation": "Ton balığı, yüksek glutamat içeriği sayesinde doğal umami lezzeti verir ve yemeklerde aromayı artırır.",
+    "options": [
+      "Ton Balığı",
+      "Somon",
+      "Levrek",
+      "Çıltık"
+    ],
+    "correctAnswer": "Ton Balığı",
+    "tags": [
+      "deniz ürünleri",
+      "umami",
+      "lezzet bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u4me6skas",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "What is a common seafood product found in Deniz Ürünleri (Seafood)?",
+    "explanation": "Salmon is a well-known seafood product commonly found in Deniz Ürünleri, while chicken, pork, and beef are land-based meats.",
+    "options": [
+      "Chicken Breast",
+      "Salmon Fish",
+      "Pork Belly",
+      "Beef Steak"
+    ],
+    "correctAnswer": "Salmon Fish",
+    "tags": [
+      "MUTFAK",
+      "DENEZ ÜRÜNLERİ",
+      "SEAFOOD",
+      "KITCHEN"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6b3nmzyj8",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Which cooking method is best for preparing fresh seafood like mutfak-deniz ürünleri?",
+    "explanation": "Grilling or baking with light oil preserves the natural flavor of seafood without overwhelming it, making it ideal for mutfak-deniz ürünleri.",
+    "options": [
+      "Deep Frying at High Temp Slowly",
+      "Grilling or Baking with Light Oil",
+      "Boiling Water Over 90 Degrees",
+      "Microwaving Without Seasoning"
+    ],
+    "correctAnswer": "Grilling or Baking with Light Oil",
+    "tags": [
+      "MUTFAK",
+      "KULLANIM",
+      "COOKING METHOD",
+      "PREPARATION"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fevslugtn",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "What is the typical shelf life of fresh Deniz Ürünleri (Seafood)?",
+    "explanation": "Fresh seafood typically has a short shelf life of 1-2 days to maintain quality and safety, unlike longer-lived meats.",
+    "options": [
+      "1-2 Days",
+      "7-10 Days",
+      "30-45 Days",
+      "60-90 Days"
+    ],
+    "correctAnswer": "1-2 Days",
+    "tags": [
+      "MUTFAK",
+      "KAYDIRMA",
+      "STORAGE LIFESPAN",
+      "PRECAUTIONS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "logb6jobr",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Which nutrient is particularly high in Deniz Ürünü (Seafood) products?",
+    "explanation": "Seafood products are rich in Omega-3 fatty acids, which support heart health and brain function, making them valuable in mutfak-deniz ürünleri.",
+    "options": [
+      "Iron",
+      "Omega-3 Fatty Acids",
+      "Sugar",
+      "Starch"
+    ],
+    "correctAnswer": "Omega-3 Fatty Acids",
+    "tags": [
+      "MUTFAK",
+      "SALGIYATMA",
+      "NUTRIENT CONTENT",
+      "HEALTH BENEFITS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o67gh8c1t",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "What is a common pairing for Deniz Ürünleri in Mediterranean-style mutfak cuisine?",
+    "explanation": "White wine and olive oil are classic Mediterranean pairings that complement the delicate flavors of seafood in mutfak-deniz ürünleri cuisine.",
+    "options": [
+      "Red Wine and Garlic",
+      "White Wine and Olive Oil",
+      "Dark Chocolate and Cinnamon",
+      "Mushroom and Soy Sauce"
+    ],
+    "correctAnswer": "White Wine and Olive Oil",
+    "tags": [
+      "MUTFAK",
+      "YAPRAK",
+      "REGIONAL PAIRING",
+      "MEDITEERRANEAN CUISINE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ftf9xi2q",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz ürünlerinden hangisi, taze ve soğuk olarak tüketilmesi gereken en önemli gruplardan biridir?",
+    "explanation": "Balık, deniz ürünlerinin en temel ve önemli grubudur. Taze ve soğuk olarak tüketilmesi gereken balıklar, vitamin ve protein açısından zengindir.",
+    "options": [
+      "Balık",
+      "Muz",
+      "Ekmek",
+      "Çay"
+    ],
+    "correctAnswer": "Balık",
+    "tags": [
+      "deniz ürünleri",
+      "taze gıda",
+      "balık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dtfe8y6uc",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "İzmir'de ünlü bir balık türü olan Hangisi?",
+    "explanation": "Hamsi, Ege Denizi'nde ve özellikle İzmir'de ünlü olarak tüketilen taze bir balık türüdür.",
+    "options": [
+      "Hamsi",
+      "Mantar",
+      "Elma",
+      "Peynir"
+    ],
+    "correctAnswer": "Hamsi",
+    "tags": [
+      "deniz ürünleri",
+      "izmir",
+      "balık türü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ww3vrccrz",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz ürünlerinde hangisi en yüksek Omega-3 yağ asitlerini içerir?",
+    "explanation": "Deniz balıkları, Omega-3 yağ asitlerinin en zengin kaynaklarıdır ve kalp sağlığı için önemlidir.",
+    "options": [
+      "Balık",
+      "Et",
+      "Sebzeler",
+      "Meyveler"
+    ],
+    "correctAnswer": "Balık",
+    "tags": [
+      "deniz ürünleri",
+      "omega-3",
+      "sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "algry7tc1",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de Deniz Ürünleri'nin başlıca ithalatçısı olan Hangisi?",
+    "explanation": "ABD, Türkiye'nin deniz ürünleri ithalatında önemli bir pazardır ve dünya genelinde büyük tüketici olarak bilinir.",
+    "options": [
+      "ABD",
+      "Kanada",
+      "Avustralya",
+      "Japonya"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "deniz ürünleri",
+      "ithalat",
+      "ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8if6ffqo3",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz Ürünleri'ne ait Hangisi en çok kurutularak saklanır?",
+    "explanation": "Hamsi, Ege Denizi'nde kurutularak saklanır ve geleneksel bir yöntemle tüketilir.",
+    "options": [
+      "Somon",
+      "Karides",
+      "Hamsi",
+      "Tilapia"
+    ],
+    "correctAnswer": "Hamsi",
+    "tags": [
+      "deniz ürünleri",
+      "kuru gıda",
+      "saklama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xcvtv1lhn",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Which of the following is NOT considered a common seafood product?",
+    "explanation": "Beef steak is a land-based meat product, while salmon, tuna, and shrimp are all seafood products commonly used in kitchens.",
+    "options": [
+      "Salmon",
+      "Tuna",
+      "Beef Steak",
+      "Shrimp"
+    ],
+    "correctAnswer": "Beef Steak",
+    "tags": [
+      "seafood",
+      "kitchen-products",
+      "protein"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hlislqzb6",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "What is the primary cooking method for fresh fish fillets to maintain their nutritional value?",
+    "explanation": "Grilling or baking fish fillets helps preserve their natural nutrients and healthy omega-3 fatty acids better than heavy frying methods.",
+    "options": [
+      "Deep Frying",
+      "Grilling or Baking",
+      "Smoking",
+      "Canning"
+    ],
+    "correctAnswer": "Grilling or Baking",
+    "tags": [
+      "cooking-methods",
+      "nutrition",
+      "seafood-preparation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ek9acow5",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Which sea product is highest in Omega-3 fatty acids?",
+    "explanation": "Sardines are one of the highest sources of Omega-3 fatty acids among seafood, making them excellent for heart health.",
+    "options": [
+      "Cod",
+      "Sardines",
+      "Clams",
+      "Mussels"
+    ],
+    "correctAnswer": "Sardines",
+    "tags": [
+      "nutrition",
+      "omega-3",
+      "seafood-health"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kre5h35wr",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "What is the shelf life of fresh frozen shrimp compared to fresh frozen fish?",
+    "explanation": "Both fresh frozen shrimp and fish have similar shelf lives when properly stored at appropriate temperatures, typically 6-12 months.",
+    "options": [
+      "Longer",
+      "Shorter",
+      "About the same",
+      "Depends on packaging"
+    ],
+    "correctAnswer": "About the same",
+    "tags": [
+      "storage",
+      "shelf-life",
+      "seafood-handling"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dxap5bji8",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Which of these is a sustainable seafood choice for kitchen use?",
+    "explanation": "MSC (Marine Stewardship Council) certified salmon indicates sustainable fishing practices, unlike overfished tuna or endangered shark species.",
+    "options": [
+      "Overfished Tuna",
+      "Bluefin Shark",
+      "MSC Certified Salmon",
+      "All of the above"
+    ],
+    "correctAnswer": "MSC Certified Salmon",
+    "tags": [
+      "sustainability",
+      "eco-friendly",
+      "kitchen-products"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9a32do83g",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Hangi Deniz Ürünü soğuk suyun altında en iyi şekilde yenir?",
+    "explanation": "Karides soğuk suyun altında en iyi şekilde yenir ve genellikle çiğ olarak tüketilir.",
+    "options": [
+      "Karides",
+      "Tavuk",
+      "Köfte",
+      "Salatalık"
+    ],
+    "correctAnswer": "Karides",
+    "tags": [
+      "deniz ürünleri",
+      "mutfak",
+      "yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f4f7fw948",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz Ürünlerinden hangisi Omega-3 yağ asitleri açısından zengindir?",
+    "explanation": "Ton balığı gibi yağlı balıklar Omega-3 yağ asitleri açısından zengindir.",
+    "options": [
+      "Ton Balığı",
+      "Ekmek",
+      "Pirinç",
+      "Mısır"
+    ],
+    "correctAnswer": "Ton Balığı",
+    "tags": [
+      "deniz ürünleri",
+      "beslenme",
+      "sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2p3akds3a",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfakta Deniz Ürünlerini hangi sebzelerle sunmak daha uygundur?",
+    "explanation": "Brokoli ve asparagus gibi yeşil sebzeler deniz ürünleriyle uyumlu bir yemek sunar.",
+    "options": [
+      "Brokoli ve Asparagus",
+      "Domates ve Patates",
+      "Havuç ve Kabak",
+      "Biber ve Salatalık"
+    ],
+    "correctAnswer": "Brokoli ve Asparagus",
+    "tags": [
+      "mutfak",
+      "deniz ürünleri",
+      "yemek sunumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5jnt4iq43",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Deniz Ürünü çiğ olarak tüketilir?",
+    "explanation": "Karides, özellikle soğuk suyun altında çiğ olarak tüketilir.",
+    "options": [
+      "Karides",
+      "Somon",
+      "İstiridye",
+      "Tire"
+    ],
+    "correctAnswer": "Karides",
+    "tags": [
+      "deniz ürünleri",
+      "mutfak",
+      "yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lw016iaxg",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Deniz Ürünlerinin pişirme süresi hangi faktöre bağlıdır?",
+    "explanation": "Deniz ürünlerinin pişirme süresi genellikle ürünün boyutuna ve kalınlığına bağlıdır.",
+    "options": [
+      "Ürünün Boyutu",
+      "Mutfak Rengi",
+      "Su Sıcaklığı",
+      "Bulaşık Makinesi"
+    ],
+    "correctAnswer": "Ürünün Boyutu",
+    "tags": [
+      "deniz ürünleri",
+      "pişirme",
+      "mutfak teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uqmakos9p",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi deniz ürünleri arasında değildir?",
+    "explanation": "Tavuk bir kuş eti olup deniz ürünü değildir. Yengeç, karides ve istiridye ise sualtı canlılarıdır.",
+    "options": [
+      "Yengeç",
+      "Karides",
+      "Tavuk",
+      "İstiridy"
+    ],
+    "correctAnswer": "Tavuk",
+    "tags": [
+      "deniz ürünleri",
+      "gıda",
+      "tavuk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aaewvrk5p",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz ürünlerini pişirmeden önce en önemli hazırlık nedir?",
+    "explanation": "Deniz ürünlerini pişirmeden önce iyi temizlemek, tuzlu su ve diğer kirlerden arındırmak en önemli adımıdır.",
+    "options": [
+      "Dondurmak",
+      "Temizlemek",
+      "Kurutmak",
+      "Tuzlamak"
+    ],
+    "correctAnswer": "Temizlemek",
+    "tags": [
+      "deniz ürünleri",
+      "pişirme hazırlığı",
+      "gıda güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f3wgfi9kr",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi deniz ürünü yüksek omega-3 içerir?",
+    "explanation": "Somon balığı gibi yağlı balıklar omega-3 açısından zengindir ve sağlıklı birer besindir.",
+    "options": [
+      "Somon balığı",
+      "Bıldırcın",
+      "Kuzu eti",
+      "Tavuk göğsü"
+    ],
+    "correctAnswer": "Somon balığı",
+    "tags": [
+      "deniz ürünleri",
+      "sağlık",
+      "omega-3"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cjs6vpap1",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz ürünlerini dondurulmuş olarak saklarken ideal sıcaklık nedir?",
+    "explanation": "Dondurulmuş gıdaların kalitesini korumak için -18°C sıcaklık ideal bir saklama koşuluğudur.",
+    "options": [
+      "-18°C",
+      "-5°C",
+      "0°C",
+      "+5°C"
+    ],
+    "correctAnswer": "-18°C",
+    "tags": [
+      "deniz ürünleri",
+      "saklama",
+      "dondurma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cutx0k293",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki deniz ürünlerinden hangisi en çok tuzlu sudan beslenir?",
+    "explanation": "Yengeç, karides ve istiridye gibi tüm deniz ürünleri tuzlu sudan beslenen canlılardır.",
+    "options": [
+      "Yengeç",
+      "Karides",
+      "İstiridy",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "deniz ürünleri",
+      "beslenme",
+      "okyanus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wqr5ao3i2",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Which of the following is NOT typically considered a Deniz Ürünleri (sea product)?",
+    "explanation": "Potatoes are land-based vegetables, while the others are all fish or shellfish products commonly associated with coastal cuisine.",
+    "options": [
+      "Kalkan (mullet)",
+      "Midye (clam)",
+      "Patates (potato)",
+      "Hamsi (anchovy)"
+    ],
+    "correctAnswer": "Patates (potato)",
+    "tags": [
+      "Deniz Ürünleri",
+      "Mutfak Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gl3h94pqs",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EASY",
+    "question": "Which seafood is known for being used in traditional Midye Dolma (stuffed mussels)?",
+    "explanation": "Midye dolma literally means stuffed mussels, making midye the primary ingredient in this traditional dish.",
+    "options": [
+      "Kalkan",
+      "Midye",
+      "Karides",
+      "Balık"
+    ],
+    "correctAnswer": "Midye",
+    "tags": [
+      "Deniz Ürünleri",
+      "Türk Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "krdn9yfb1",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "What is the Turkish name for anchovies that are commonly consumed along Mediterranean coast?",
+    "explanation": "Hamsi is the Turkish word for anchovies, which are a staple in Mediterranean coastal cuisine.",
+    "options": [
+      "Hamsi",
+      "Sardalya",
+      "Kalkan",
+      "İstiridye"
+    ],
+    "correctAnswer": "Hamsi",
+    "tags": [
+      "Deniz Ürünleri",
+      "Mediterranean Cuisine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o4e1m0a8p",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Which of these sea products is primarily a shellfish rather than a fish?",
+    "explanation": "Midye (mussels) are bivalve shellfish, while the others are all fish or crustaceans.",
+    "options": [
+      "Hamsi",
+      "Kalkan",
+      "Karides",
+      "Midye"
+    ],
+    "correctAnswer": "Midye",
+    "tags": [
+      "Deniz Ürünleri",
+      "Kabuklu Hayvanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7c72zrazu",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Which traditional Turkish dish features Hamsi cooked with olive oil and often includes tomatoes?",
+    "explanation": "Hamsi sote is the traditional preparation of anchovies cooked in olive oil with tomatoes and other seasonings, common along the Mediterranean coast.",
+    "options": [
+      "Hamsi Dolmu",
+      "Hamsi Sote",
+      "Hamsi Pazarı",
+      "Hamsi Balık"
+    ],
+    "correctAnswer": "Hamsi Sote",
+    "tags": [
+      "Deniz Ürünleri",
+      "Türk Mutfağı",
+      "Yemek Hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ouiu2kka",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi deniz ürünü 'MUTFAK' konseptinde en çok kullanılan taze balık türüdür?",
+    "explanation": "MUTFAK konseptinde Ton Balığı en sık kullanılan taze balık türüdür çünkü hem kolay pişirilir hem de evde erişilebilir bir deniz ürünüdür.",
+    "options": [
+      "Lobster",
+      "Ton Balığı",
+      "İstakoz",
+      "Hamsi"
+    ],
+    "correctAnswer": "Ton Balığı",
+    "tags": [
+      "deniz ürünleri",
+      "balık",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x56xnm68i",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "EXPERT",
+    "question": "Deniz ürünleri arasında hangisi 'MUTFAK' menüsü için uygun olmayan bir seçenektir?",
+    "explanation": "Balina eti, deniz ürünleri arasında MUTFAK menüsü için uygun olmayan bir seçenektir çünkü sürdürülebilirlik açısından sorunlu ve birçok yerde tüketime izin verilmez.",
+    "options": [
+      "Midye",
+      "Karides",
+      "Balina Etı",
+      "Beyaz Balık"
+    ],
+    "correctAnswer": "Balina Etı",
+    "tags": [
+      "deniz ürünleri",
+      "sürdürülebilirlik",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hf189xi7x",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "'MUTFAK-Deniz Ürünleri' konseptinde hangisi en çok tercih edilen deniz kabuğu türüdür?",
+    "explanation": "MUTFAK konseptinde Yengeç, en çok tercih edilen deniz kabuğu türüdür çünkü hem lezzetli hem de özel menülerde sıkça kullanılır.",
+    "options": [
+      "Yengeç",
+      "Somon",
+      "Tavuk",
+      "Palamut"
+    ],
+    "correctAnswer": "Yengeç",
+    "tags": [
+      "deniz ürünleri",
+      "kabuklu",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d34n81a6k",
+    "category": "MUTFAK",
+    "subcategory": "Deniz Ürünleri",
+    "difficulty": "GENERAL",
+    "question": "Deniz ürünleri pişirme yöntemlerinde hangisi 'MUTFAK' için önerilen sağlıklı bir yöntemdir?",
+    "explanation": "MUTFAK için Gril yöntemi en sağlıklı pişirme yöntemidir çünkü az yağ kullanır ve deniz ürünlerinin doğal lezzetini korur.",
+    "options": [
+      "Derin Kızartma",
+      "Gril",
+      "Dumanlama",
+      "Haşlama"
+    ],
+    "correctAnswer": "Gril",
+    "tags": [
+      "deniz ürünleri",
+      "pişirme",
+      "sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

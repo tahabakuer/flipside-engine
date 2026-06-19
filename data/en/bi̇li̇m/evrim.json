@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "5wcmuuoyx",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Charles Darwin'ın evrim teorisini desteklemek için hangi kanıtı en çok kullanmıştır?",
+    "explanation": "Darwin, fosil kayıtlarından türlerin zaman içinde değiştiğini ve yeni türlerin ortaya çıktığını gösteren güçlü kanıtları kullanmıştır. Örneğin, atların modern hayvanlara dönüşümünün fosilleri bu teoriyi destekler.",
+    "options": [
+      "Tüm canlıların aynı DNA yapısına sahip olması",
+      "Fosil kayıtları ve türlerin zamanla değişimi",
+      "Yapay seçimin sonuçları ve laboratuvar deneyleri",
+      "Evrenin genişlemesi ve kozmolojik kanıtlar"
+    ],
+    "correctAnswer": "Fosil kayıtları ve türlerin zamanla değişimi",
+    "tags": [
+      "evrim",
+      "darwin",
+      "bilimsel kanıt",
+      "fosil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sdnwoq8ru",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim teorisinin temel mekanizması olan doğal seçilim nasıl işler?",
+    "explanation": "Doğal seçilimde, çevreye daha iyi uyum sağlayan bireyler hayatta kalır ve çoğalır. Bu sayede faydalı genler sonraki nesillere aktarılır ve tür zamanla değişir.",
+    "options": [
+      "En zayıf bireylerin üreme yeteneği daha yüksek",
+      "Uyum sağlayan bireylerin daha fazla yavrulama şansı",
+      "Tüm türlerin aynı anda değişmesi",
+      "Çevre koşullarının tamamen sabit kalması"
+    ],
+    "correctAnswer": "Uyum sağlayan bireylerin daha fazla yavrulama şansı",
+    "tags": [
+      "doğal seçilim",
+      "adaptasyon",
+      "evrimsel mekanizma",
+      "genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ovo29isn",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Modern evrimsel teorisinin en önemli gelişmelerinden biri nedir?",
+    "explanation": "Modern evrimsel teori, genetik biliminin gelişmesiyle birlikte evrimin DNA ve gen aktarımı üzerinden açıklanmasını sağlar. Tüm canlıların ortak bir atası olduğu bu teoriyle desteklenir.",
+    "options": [
+      "Sadece fosil kayıtlarına güven",
+      "Genetik bilgisi ile evrimin molekül bazlı açıklaması",
+      "Tüm canlıların sabit kalan türler olduğu fikri",
+      "Evrenin yaşının çok daha kısa olduğu varsayımı"
+    ],
+    "correctAnswer": "Genetik bilgisi ile evrimin molekül bazlı açıklaması",
+    "tags": [
+      "genetik",
+      "modern evrim",
+      "DNA",
+      "bilimsel gelişme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i3wfs62zn",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Biyolojik çeşitliliğin oluşumunda evrimsel süreçler nasıl rol alır?",
+    "explanation": "Evrim süreci sırasında türler zamanla birbirlerinden ayrılar ve farklı çevre koşullarına uyum sağlayarak yeni özellikler kazanır. Bu süreç biyolojik çeşitliliği oluşturur.",
+    "options": [
+      "Sadece coğrafi olaylarla sınırlı",
+      "Türlerin zamanla birbirinden ayrışması ve yeni özellik kazanması",
+      "Canlıların sabit kalması ve değişmemesi",
+      "Tek bir türün tüm dünyaya yayılması"
+    ],
+    "correctAnswer": "Türlerin zamanla birbirinden ayrışması ve yeni özellik kazanması",
+    "tags": [
+      "biyolojik çeşitlilik",
+      "türleşme",
+      "evrim",
+      "coğrafi izole"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g2az3iibr",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim teorisini destekleyen en güçlü kanıtlardan biri nedir?",
+    "explanation": "Evrimi destekleyen en güçlü kanıtlar fosil kayıtları, genetik benzerlikler ve karşılaştırmalı anatomidir. Tüm canlıların ortak bir atası olduğu bu kanıtlarla gösterilir.",
+    "options": [
+      "Fosil kayıtları, genetik veriler ve karşılaştırmalı anatomi",
+      "Sadece gözlemlenen çevre değişiklikleri",
+      "Tek bir türün DNA dizisi",
+      "Canlıların sabit kaldığına dair tarihçi kayıtları"
+    ],
+    "correctAnswer": "Fosil kayıtları, genetik veriler ve karşılaştırmalı anatomi",
+    "tags": [
+      "evrim kanıtı",
+      "genetik",
+      "fosil",
+      "karşılaştırmalı anatomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a1wr8ylgh",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EASY",
+    "question": "Charles Darwin'ın evrim teorisinin temel kanıtı olarak sunduğu nedir?",
+    "explanation": "Charles Darwin, 1859'da yayımladığı 'Türlerin Kökeni' kitabında fosil kayıtlarını evrin temel kanıtı olarak sundu. Fosiller, zaman içindeki değişimi ve türlerin soydan gelişimini gösterir.",
+    "options": [
+      "Kromozom yapıları",
+      "Fosil kayıtları",
+      "Hücre bölünmesi",
+      "Genetik kod"
+    ],
+    "correctAnswer": "Fosil kayıtları",
+    "tags": [
+      "Darwin",
+      "Evrim Teorisi",
+      "Bilim Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2leolht2g",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim ağacındaki dallanma olayına ne ad verilir?",
+    "explanation": "Spestrasyon (türleşme), bir popülasyonun yalıtılması ve zamanla farklı türlerin ortaya çıkması olayıdır. Bu, evrim ağacındaki dallanmayı temsil eder.",
+    "options": [
+      "Mutasyon",
+      "Seleksiyon",
+      "Spestrasyon",
+      "Kromozom ayrımı"
+    ],
+    "correctAnswer": "Spestrasyon",
+    "tags": [
+      "Evrim Ağacı",
+      "Türleşme",
+      "Bilim Terminolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b80efv93k",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Modern sentezde evriliğin moleküler düzeyde temel mekanizmaları nelerdir?",
+    "explanation": "Modern sentez (evrimsel sentez), evriliğin üç temel moleküler mekanizmasını içerir: mutasyon (yeni varyasyonlar), gen akışı (varyasyonların yayılması) ve doğal seçilim (uyumlu varyasyonların korunması).",
+    "options": [
+      "Mutasyon, Gen akışı, Doğal seçilim",
+      "Sadece mutasyon",
+      "Sadece gen akışı",
+      "Sadece doğal seçilim"
+    ],
+    "correctAnswer": "Mutasyon, Gen akışı, Doğal seçilim",
+    "tags": [
+      "Modern Sentez",
+      "Moleküler Evrim",
+      "Genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9c5sy3vba",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Evrimin insan gelişimi sürecinde hangi tür kanıtları en az destekler?",
+    "explanation": "Evrimin insan gelişimi sürecinde fosiller, genetik karşılaştırma ve anatomik benzerlikler güçlü kanıtlardır. Teknolojik cihazlar ise doğrudan evrimsel süreçleri destekleyen bilimsel veri sağlamaz.",
+    "options": [
+      "Fosiller",
+      "Genetik karşılaştırma",
+      "Anatomik benzerlikler",
+      "Teknolojik cihazlar"
+    ],
+    "correctAnswer": "Teknolojik cihazlar",
+    "tags": [
+      "İnsan Evrimi",
+      "Bilimsel Kanıtlar",
+      "Arkeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aauscd2nm",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Panda'nın ön ayak parmakları, hangi evrim kavramını gösterir?",
+    "explanation": "Panda'nın ön ayak parmakları, bir zamanlar ağaçlarda tırmanma görevi gören ancak güncel işlevi olmayan kalıntı organlardır. Bu, evrimsel tarihteki geçmişi gösterir.",
+    "options": [
+      "Adaptasyon",
+      "Homojini kalıntı organlar",
+      "Spestrasyon",
+      "Genetik mutasyon"
+    ],
+    "correctAnswer": "Homojini kalıntı organlar",
+    "tags": [
+      "Evrim Kanıtları",
+      "Anatomik Evrim",
+      "Panda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rgfjwrstb",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Charles Darwin'ın evrim teorisinin temelini oluşturan kavram hangisidir?",
+    "explanation": "Charles Darwin, 1859'da yayımladığı 'Atalar Türleri' eserinde doğal seçilim kavramını evrim mekanizmasının temelini olarak tanımlamıştır. Doğal seçilim, çevreye uyum sağlayan bireylerin hayatta kalma ve üreme şansının daha yüksek olduğu teoridir",
+    "options": [
+      "Doğal seçilim",
+      "Bölünme",
+      "Genetik sürükleme",
+      "Ata tür"
+    ],
+    "correctAnswer": "Doğal seçilim",
+    "tags": [
+      "evrim",
+      "darwin",
+      "doğal seçilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qgc2k1xrp",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrimin fosil kayıtlarına nasıl kanıt sağlanır?",
+    "explanation": "Fosil kayıtları, zaman içinde canlıların fiziksel özelliklerinin nasıl değiştiğini gösteren en önemli evrim kanıtıdır. Örneğin, uçan sürüngen fosilleri ve kuş geçiş formu bu değişimi açıkça ortaya koyar.",
+    "options": [
+      "Tüm canlıların aynı anda fosilleştiği",
+      "Zaman içindeki biyolojik değişimlerin gösterilmesi",
+      "Fosillerin kimyasal analizi",
+      "Ata türün hemen bulunması"
+    ],
+    "correctAnswer": "Zaman içindeki biyolojik değişimlerin gösterilmesi",
+    "tags": [
+      "evrim",
+      "fosiller",
+      "bilimsel kanıt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3t83gp43q",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Evrim teorisi modern sentezle birlikte hangi alanları birleştirir?",
+    "explanation": "Modern sentez (1930-40), evrimi genetiği, doğal seçilim ve popülasyon biyolojisi ile birleştirerek daha kapsamlı bir teori oluşturdu. Bu sentez, Darwin'in doğal seçilim fikrini Mendelci genetikle entegre etmiştir.",
+    "options": [
+      "Sadece genetiği",
+      "Genetik, doğal seçilim ve popülasyon biyolojisi",
+      "Fosiller ve kimyasal analiz",
+      "Sadece paleontoloji"
+    ],
+    "correctAnswer": "Genetik, doğal seçilim ve popülasyon biyolojisi",
+    "tags": [
+      "modern sentez",
+      "evrim",
+      "genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nap8r72d7",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "DNA dizileme teknolojisinden evrim kanıtı olarak ne elde edilir?",
+    "explanation": "DNA dizileme teknolojisi, farklı canlı türlerinin genetik benzerliklerini analiz ederek ortak ata türleri belirlemeyi sağlar. İnsan ve şempanze DNA'sının %98-99 benzerliği bu şekilde kanıtlanmıştır.",
+    "options": [
+      "Ata türlerin belirlenmesi",
+      "Canlıların görsel benzerliği",
+      "Popülasyon büyüklüğü",
+      "Canlıların boyutları"
+    ],
+    "correctAnswer": "Ata türlerin belirlenmesi",
+    "tags": [
+      "DNA",
+      "genetik",
+      "bilimsel kanıt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "97t6ezfys",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim teorisinde 'doğal seçilim' sürecinin sonucu nedir?",
+    "explanation": "Doğal seçilim süreci, çevreye daha iyi uyum sağlayan bireylerin kalıtsal özelliklerini sonraki nesillere aktarmasını sağlar. Bu süreçte değişen özellikler kalıtsal olmalıdır ve zaman içinde popülasyonda birikmelidir.",
+    "options": [
+      "Canlıların kalıtsal değişiklik göstermesi",
+      "Tüm canlıların aynı anda değişmesi",
+      "Canlıların hemen yeni özellik kazanması",
+      "Sadece çevre koşullarının değişmesi"
+    ],
+    "correctAnswer": "Canlıların kalıtsal değişiklik göstermesi",
+    "tags": [
+      "doğal seçilim",
+      "kalıtım",
+      "evrim mekanizması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2cgq1kb3",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Charles Darwin'ın Evrim Teorisi'nde doğal seçilimin temel mekanizması nedir?",
+    "explanation": "Darwin'ın doğal seçilim mekanizmasında, popülasyon içinde rekabet nedeniyle uyumlu özelliklere sahip bireyler hayatta kalır ve ürer.",
+    "options": [
+      "Rastgele genetik mutasyonlar",
+      "Popülasyon içi rekabet ve uyum sağlayabilen bireylerin hayatta kalması",
+      "Dışarıdan gelen çevresel faktörlerin yönlendirme etkisi",
+      "Tek türden çoklu türe dönüşüm"
+    ],
+    "correctAnswer": "Popülasyon içi rekabet ve uyum sağlayabilen bireylerin hayatta kalması",
+    "tags": [
+      "Darwin",
+      "Doğal Seçilim",
+      "Evrim Teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "00cisanoq",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Fosil kayıtlarında evrimsel geçişin en iyi örneği hangi canlı grubunda görülür?",
+    "explanation": "Archaeopteryx fosili, sürüngenlerden kuşlara geçişi gösteren en önemli evrimsel geçiş örneğidir.",
+    "options": [
+      "Bitkiler",
+      "Sürüngenler",
+      "Tümeyik (Worm)",
+      "Kuşlar ve Sürüngenler"
+    ],
+    "correctAnswer": "Kuşlar ve Sürüngenler",
+    "tags": [
+      "Fosiller",
+      "Evrimsel Geçiş",
+      "Archaeopteryx"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "asvzgvov9",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Modern Evrim Sentezi'nde genetik varyasyonun kaynağı nedir?",
+    "explanation": "Genetik mutasyonlar ve eşeyli üreme sırasında gerçekleşen rekombinasyon, genetik varyasyonun temel kaynaklarıdır.",
+    "options": [
+      "Çevresel adaptasyon",
+      "Genetik mutasyon ve rekombinasyon",
+      "Doğal seçilim",
+      "Yapay seçilim"
+    ],
+    "correctAnswer": "Genetik mutasyon ve rekombinasyon",
+    "tags": [
+      "Genetik",
+      "Varyasyon",
+      "Modern Evrim Sentezi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yfdldkwfu",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Evrim teorisi kapsamında 'biyolojik tür' tanımına göre iki popülasyon ne zaman ayrı türe evrilmiş sayılır?",
+    "explanation": "Biyolojik tür kavramında, gen akışı kesildiğinde popülasyonlar genetik olarak yeterince farklılaşarak ayrı türe dönüşür.",
+    "options": [
+      "Fiziksel olarak birbirinden uzaklaşırlarsa",
+      "Gen akışı (gen flow) durduğunda ve genetik farklılaşma gerçekleştiğinde",
+      "Rastgele mutasyonlar birikdiğinde",
+      "Çevresel koşullar değiştiğinde"
+    ],
+    "correctAnswer": "Gen akışı (gen flow) durduğunda ve genetik farklılaşma gerçekleştiğinde",
+    "tags": [
+      "Biyolojik Tür",
+      "Gen Akışı",
+      "Popülasyon Genetiği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qxfwnzvf9",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim kanıtı olarak DNA ve protein karşılaştırmaları hangi evrimsel süreci gösterir?",
+    "explanation": "DNA ve protein karşılaştırmaları, canlıların ortak atasal kaynağı ve akrabalık ilişkilerini moleküler düzeyde gösterir.",
+    "options": [
+      "Doğal seçilim",
+      "Genetik benzerlik ve akrabalık derecesi",
+      "Rastgele mutasyonlar",
+      "Yapay seçilim"
+    ],
+    "correctAnswer": "Genetik benzerlik ve akrabalık derecesi",
+    "tags": [
+      "DNA",
+      "Protein Karşılaştırması",
+      "Moleküler Evrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tullayasa",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EASY",
+    "question": "Doğal seçilim sürecinde türlerin çevreye uyum sağlamasında hangi mekanizma temel rol oynar?",
+    "explanation": "Doğal seçilimde, çevreye daha iyi uyum sağlayan bireyler hayatta kalır ve ürer. Bu mekanizma türlerin zamanla evrimleşmesini sağlar.",
+    "options": [
+      "Rastgele genetik mutasyonlar",
+      "Çevresel koşullara en iyi uyumu sağlayan bireylerin yaşam süresi",
+      "Popülasyon büyüklüğünün artışı",
+      "Türlerin göç etme becerileri"
+    ],
+    "correctAnswer": "Çevresel koşullara en iyi uyumu sağlayan bireylerin yaşam süresi",
+    "tags": [
+      "Doğal Seçilim",
+      "Uyumlanma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q9il7fpen",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim kanıtı olarak hangi fosil kaydı bilinen bir örnek değildir?",
+    "explanation": "Archaeopteryx, Tiktaalik ve Homo habilis evrim geçiş formlarıdır. Kuşların doğrudan dinozorlardan türediğine dair fosil kanıtı henüz tam olarak bulunmamıştır.",
+    "options": [
+      "Archaeopteryx (Kuşlar ve sürüngenler arasında geçiş)",
+      "Tiktaalik (Balıklar ve dört ayaklılar arasında geçiş)",
+      "Homo habilis (İnsan türü geçmişi)",
+      "Dinozorlardan doğrudan kuşlara dönüşen fosiller"
+    ],
+    "correctAnswer": "Dinozorlardan doğrudan kuşlara dönüşen fosiller",
+    "tags": [
+      "Fosil Kanıtları",
+      "Geçiş Formları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1g8f8ax5s",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Evrim teorisinde türlerin ortak atadan geldiği fikrine hangi terimle ifade edilir?",
+    "explanation": "Ortak Ancestry, tüm canlıların tek bir atadan geldiğini savunur. Adaptif radyasyon ve türleşme bu teoriye bağlı süreçlerdir.",
+    "options": [
+      "Adaptif radyasyon",
+      "Türleşme",
+      "Ortak Ancestry",
+      "Genetik Drift"
+    ],
+    "correctAnswer": "Ortak Ancestry",
+    "tags": [
+      "Evrim Teorisi",
+      "Ancestry Kavramı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5rrbenejo",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi evrimde genetik varyasyonun önemini vurgular?",
+    "explanation": "Genetik çeşitlilik, doğal seçilimin işlemesi için gerekli olan temel malzeme oluşturur. Mutasyonlar bazen faydalı olabilir.",
+    "options": [
+      "Genetik çeşitlilik, doğal seçilim için temel malzeme sağlar",
+      "Popülasyonlar homojen olmalı",
+      "Mutasyonlar her zaman zararlıdır",
+      "Evrim sadece çevresel faktörlerle gerçekleşir"
+    ],
+    "correctAnswer": "Genetik çeşitlilik, doğal seçilim için temel malzeme sağlar",
+    "tags": [
+      "Genetik Varyasyon",
+      "Doğal Seçilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vt9zu3dwf",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Adaptif radyasyonun en iyi örneği hangisidir?",
+    "explanation": "Galapagos adalarındaki fincanlar, farklı beslenme ortamlarına uyum sağlayan çeşitlilik göstererek adaptif radyasyon örneğidir.",
+    "options": [
+      "Galapagos adalarındaki fincanların çeşitliliği",
+      "İnsan türlerinin evrimi",
+      "Dinozorların soyunun tükenmesi",
+      "Bakterilerin hızlı çoğalması"
+    ],
+    "correctAnswer": "Galapagos adalarındaki fincanların çeşitliliği",
+    "tags": [
+      "Adaptif Radyasyon",
+      "Evrim Örnekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cp7l9ykof",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EASY",
+    "question": "Evrim teorisinin kurucusu kimdir?",
+    "explanation": "Charles Darwin 1859'da yayımladığı 'Doğanın Türlerin Kökeni' kitabıyla evrim teorisini geliştirmiştir.",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Jean-Baptiste Lamarck",
+      "Alfred Russel Wallace"
+    ],
+    "correctAnswer": "Charles Darwin",
+    "tags": [
+      "evrim",
+      "bilim tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w1zh9jbcs",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Doğal seçilimin temel koşulu nedir?",
+    "explanation": "Doğal seçilim için bireyler arasında genetik farklılıkların olması gerekir; bu farklılıklar çevreye uyum sağlamayı sağlar.",
+    "options": [
+      "Genetik varyasyon",
+      "Çevresel sabitlik",
+      "Rastgele mutasyonlar",
+      "Üreme oranı"
+    ],
+    "correctAnswer": "Genetik varyasyon",
+    "tags": [
+      "doğal seçim",
+      "genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w1ldwttfz",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Hangisi homolog yapıların bir örneğidir?",
+    "explanation": "Homolog yapılar ortak atadan gelmiş ancak farklı fonksiyonlara uyarlanmıştır; insan kol ve yunus yüzgeci aynı kemik yapısına sahiptir.",
+    "options": [
+      "İnsan kol ile yunus yüzgeci",
+      "Kaktüs ile euphorbia kanatları",
+      "Kuş kanadı ile kelebek kanatları",
+      "Farklı organizmalarda bulunan benzer DNA dizilimleri"
+    ],
+    "correctAnswer": "İnsan kol ile yunus yüzgeci",
+    "tags": [
+      "homolog yapılar",
+      "evrimsel kanıtlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o19iij6ba",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Konvergent evrimsel süreçte ne tür bir yapı gelişir?",
+    "explanation": "Konvergent evrimde, farklı ataya sahip türler benzer çevresel koşullar nedeniyle benzer adaptasyonlar geliştirir; örneğin Kaktüs (Amerika) ve Euphorbia (Afrika).",
+    "options": [
+      "Ortak ataya sahip benzer organlar",
+      "Farklı atadan gelen ancak çevresel baskılar nedeniyle benzer fonksiyonlu organlar",
+      "Aynı genetik mutasyonları içeren farklı türler",
+      "Aynı ekosistemdeki tüm organizmaların paylaştığı yapılar"
+    ],
+    "correctAnswer": "Farklı atadan gelen ancak çevresel baskılar nedeniyle benzer fonksiyonlu organlar",
+    "tags": [
+      "konvergent evrim",
+      "benzer yapılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a6xzruyc1",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EASY",
+    "question": "Evrimsel kanıtları destekleyen fosil kaydı neyi gösterir?",
+    "explanation": "Geçişsel fosiller (örneğin Archaeopteryx), bir türe diğerine geçişi göstererek evrimsel değişimi destekler.",
+    "options": [
+      "Türlerin sabit kalması",
+      "Geçişsel formların varlığı",
+      "Tüm canlıların aynı anda evrimleşmesi",
+      "Fosillerin sadece modern türleri içeriyor olması"
+    ],
+    "correctAnswer": "Geçişsel formların varlığı",
+    "tags": [
+      "fosil kayıtları",
+      "evrim kanıtları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3f607umq1",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EASY",
+    "question": "Evrim teorisinin temelini oluşturan doğal seçilim kavramı kim tarafından öne sürülmüştür?",
+    "explanation": "Charles Darwin, 1859'da yayımladığı 'Türlerin Kökeni' eserinde doğal seçilim teorisini detaylandırmış ve modern evrim teorisinin temellerini atmıştır.",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Thomas Hunt Morgan"
+    ],
+    "correctAnswer": "Charles Darwin",
+    "tags": [
+      "evrim",
+      "doğal-seçilim",
+      "bilim-tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "20jzoe73b",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim kanıtları arasında fosil kayıtlarının önemi nedir?",
+    "explanation": "Fosil kayıtları, canlıların milyonlarca yıl içinde nasıl değiştiğini ve aracı formların (örneğin Archaeopteryx) varlığını göstererek evrimin gerçekliğini destekler.",
+    "options": [
+      "Sadece güncel türleri gösterir",
+      "Türlerin zamanla değişimini ve geçiş formlarını ortaya koyar",
+      "Evrim karşıtı deliller sunar",
+      "Genetik varyasyonu açıklamaz"
+    ],
+    "correctAnswer": "Türlerin zamanla değişimini ve geçiş formlarını ortaya koyar",
+    "tags": [
+      "evrim",
+      "fosil-kanıtları",
+      "jeolojik-tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3h2pfqwys",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim teorisinde genetik varyasyonun kaynağı nedir?",
+    "explanation": "Genetik varyasyon, DNA'daki mutasyonlar (kalıtsal değişiklikler) ve eşeyli üreme sırasında gerçekleşen genetik rekombinasyon yoluyla oluşur.",
+    "options": [
+      "Mutasyonlar ve rekombinasyon",
+      "Sadece çevresel faktörler",
+      "Yapay seçilim",
+      "Hücre bölünmesi"
+    ],
+    "correctAnswer": "Mutasyonlar ve rekombinasyon",
+    "tags": [
+      "evrim",
+      "genetik",
+      "mutasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tt76ohp5j",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Doğal seçilim sürecinde en uygun bireyler neden hayatta kalır?",
+    "explanation": "Doğal seçilimde, çevreye en iyi uyum sağlayan bireyler hayatta kalma ve üreme şansları daha yüksektir; bu özellikler nesillere aktarılır.",
+    "options": [
+      "Çevresel koşullara daha iyi uyum sağladıkları için",
+      "En güçlü oldukları için",
+      "En hızlı oldukları için",
+      "Genetik olarak aynı oldukları için"
+    ],
+    "correctAnswer": "Çevresel koşullara daha iyi uyum sağladıkları için",
+    "tags": [
+      "evrim",
+      "doğal-seçilim",
+      "uyum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "27jcez16g",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Modern sintetik evrim teorisinin temel prensibi nedir?",
+    "explanation": "Modern sintetik evrim teorisı, Darwin'in doğal seçilim fikrini Mendel'in kalıtım yasalarıyla birleştirerek genetik ve evrimin sentezini oluşturur.",
+    "options": [
+      "Darwin ve Mendel'in fikirlerini sentez eder",
+      "Sadece çevresel faktörlere odaklanır",
+      "Evrimin gerçekleşmediğini savunur",
+      "Yapay seçilimi doğal seçilim yerine koyar"
+    ],
+    "correctAnswer": "Darwin ve Mendel'in fikirlerini sentez eder",
+    "tags": [
+      "evrim",
+      "modern-sentetik-teori",
+      "genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xplavly5n",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EASY",
+    "question": "Evolüsyon nedir?",
+    "explanation": "Evrolüsyon, canlı popülasyonlarının nesiller boyunca genetik özelliklerinin değişerek yeni türlerin ortaya çıkması sürecidir.",
+    "options": [
+      "Popülasyonların zaman içinde değişme süreci",
+      "Canlıların hemen ölmesi",
+      "Tüm canlıların aynı şekilde doğması",
+      "İnsanların evrenin merkezinde olması"
+    ],
+    "correctAnswer": "Popülasyonların zaman içinde değişme süreci",
+    "tags": [
+      "evrim",
+      "temel kavramlar",
+      "biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tm1cqxfs7",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EASY",
+    "question": "Doğal seçilim teorisinin temelini kim atmıştır?",
+    "explanation": "Charles Darwin, 1859'da yayımladığı 'Türlerin Kökeni' kitabında doğal seçilim teorisini ortaya atmıştır.",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Isaac Newton"
+    ],
+    "correctAnswer": "Charles Darwin",
+    "tags": [
+      "evrim",
+      "Darwin",
+      "doğal seçilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z7wwp9jrv",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrimin delillerinden hangisi değildir?",
+    "explanation": "Evrimin delilleri arasında fosiller, DNA benzerlikleri ve anatomik yapılar bulunur; canlıların yok olması evrim delili değildir.",
+    "options": [
+      "Fossiller (kayaç içinde kalan kalıntılar)",
+      "Genetik benzerlikler",
+      "Anatomik yapılar",
+      "Canlıların hemen yok olması"
+    ],
+    "correctAnswer": "Canlıların hemen yok olması",
+    "tags": [
+      "evrim delilleri",
+      "fossiller",
+      "genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2s5xnreyj",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Hangisi doğal seçilimin doğru tanımıdır?",
+    "explanation": "Doğal seçilim, çevreye uyum sağlayan bireylerin daha fazla üremesi ve bu özelliklerin nesiller arasında aktarılmasıdır.",
+    "options": [
+      "Çevreye en uygun özelliklere sahip bireylerin hayatta kalması",
+      "Rastgele gen değişimleri",
+      "Tüm canlıların eşit şekilde üremesi",
+      "İnsanların tür değiştirme yeteneği"
+    ],
+    "correctAnswer": "Çevreye en uygun özelliklere sahip bireylerin hayatta kalması",
+    "tags": [
+      "doğal seçilim",
+      "hayatta kalma",
+      "adaptasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "prda8h7t5",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Modern sentez (Neodarwinizm) hangi teorileri birleştirmiştir?",
+    "explanation": "Modern sentez, Darwin'in doğal seçilim ile birlikte Mendel'in kalıtsal faktörler (gen) kurallarını birleştirerek gelişmiştir.",
+    "options": [
+      "Darwin'in doğal seçilim teorisini ve Mendel'in genetik kurallarını",
+      "Sadece Darwin'in evrim teorisini",
+      "Kuantum fiziğini ve biyolojisi",
+      "İnsan yaratılışını ve evrimi"
+    ],
+    "correctAnswer": "Darwin'in doğal seçilim teorisini ve Mendel'in genetik kurallarını",
+    "tags": [
+      "modern sentez",
+      "neodarwinizm",
+      "genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dl14oktep",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EASY",
+    "question": "Charles Darwin'ın türlerin kökeni üzerine yazdığı eser hangisidir?",
+    "explanation": "Charles Darwin, 1859 yılında 'Türlerin Kökeni' adlı kitabını yayımladı ve evrim teorisini ortaya attı.",
+    "options": [
+      "İnsan ve Evren",
+      "Türlerin Kökeni",
+      "Doğal Seçilim",
+      "Hayvanlar Alemi"
+    ],
+    "correctAnswer": "Türlerin Kökeni",
+    "tags": [
+      "darwin",
+      "bilim-tarih",
+      "evrim-nedensiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dygxrju32",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim teorisi temelinde doğal seçilim kavramını kim geliştirmiştir?",
+    "explanation": "Charles Darwin, evrim teorisinin temelini doğal seçilim kavramı ile attı ve bu teoriyi destekledi.",
+    "options": [
+      "Jean-Baptiste Lamarck",
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Thomas Malthus"
+    ],
+    "correctAnswer": "Charles Darwin",
+    "tags": [
+      "doğal-seçilim",
+      "darwin",
+      "evrim-teorisiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "puqp8cws3",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Hangi bilim insanı evrim konusunda 'kullanılan organlar gelişir' teorisini öne sürmüştür?",
+    "explanation": "Jean-Baptiste Lamarck, evrim konusunda 'kullanılan organlar gelişir' teorisini öne sürmüştür.",
+    "options": [
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck",
+      "Alfred Russel Wallace",
+      "Sigmund Freud"
+    ],
+    "correctAnswer": "Jean-Baptiste Lamarck",
+    "tags": [
+      "lamarck",
+      "evrim-kavramları",
+      "bilim-tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "crk89koad",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Evrim sürecinde DNA değişimini hangi terimle ifade edilir?",
+    "explanation": "Evrim sürecinde DNA değişimini mutasyon terimi ile ifade ederiz. Mutasyonlar genetik çeşitliliği sağlar.",
+    "options": [
+      "Mutasyon",
+      "Seleksiyon",
+      "Adaptasyon",
+      "Fenotip"
+    ],
+    "correctAnswer": "Mutasyon",
+    "tags": [
+      "dna",
+      "mutasyon",
+      "moleküler-evrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dp66lcdpk",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Modern sentez hangi dönemin evrim anlayışını birleştirir?",
+    "explanation": "Modern sentez, Darwin'in doğal seçilim anlayışı ile Mendel'in genetik kurallarını birleştirir.",
+    "options": [
+      "Lamarckçı",
+      "Darwinist ve Genetik",
+      "Tasarımcılık",
+      "Kaos Teorisi"
+    ],
+    "correctAnswer": "Darwinist ve Genetik",
+    "tags": [
+      "modern-sentez",
+      "genetik-evrim",
+      "bilim-felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rmr58pibu",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Darwin'ın Evrim Teorisi'ne göre, türlerin değişiminin temel mekanizması nedir?",
+    "explanation": "Darwin'ın evrim teorisinde doğal seleksiyon, çevreye daha uyumlu bireylerin hayatta kalıp üreme sağladığı mekanizmadır.",
+    "options": [
+      "Yapay Seçim",
+      "Doğal Seleksiyon (Büyüme ve Seçilim)",
+      "Moleküler Değişim",
+      "Geolojik Süreçler"
+    ],
+    "correctAnswer": "Doğal Seleksiyon (Büyüme ve Seçilim)",
+    "tags": [
+      "evrim",
+      "darwin",
+      "doğal-seleksiyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "074ie8urf",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Evrim Ağacı (Phylogenetic Tree) kavramı aşağıdakilerden hangisi ile ilgilidir?",
+    "explanation": "Evrim ağacı, canlıların tarihsel gelişim süreçlerinde paylaştıkları ortak atalar üzerinden birbirlerine olan evrimsel ilişkiyi gösterir.",
+    "options": [
+      "Türlerin birbirine benzerliği",
+      "Türlerin ortak atalarına olan ilişkisi",
+      "Genetik değişim hızı",
+      "Mevcut türlerin sayısı"
+    ],
+    "correctAnswer": "Türlerin ortak atalarına olan ilişkisi",
+    "tags": [
+      "evrim-ağacı",
+      "ortak-ata",
+      "filogenetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s3kjn6dfl",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "GENERAL",
+    "question": "Fosil kayıtları evrim teorisinde nasıl bir kanıt niteliği taşır?",
+    "explanation": "Fosiller, canlıların geçmişte yaşadığını ve zaman içinde evrimsel değişim geçirdiğinin somut kanıtlarını oluşturur.",
+    "options": [
+      "Türlerin geçmişte var olduğunu ve zamanla değiştiğini gösterir",
+      "Sadece mevcut türlerin bilgisini verir",
+      "Genetik yapıyı değiştirir",
+      "Çevresel faktörleri etkiler"
+    ],
+    "correctAnswer": "Türlerin geçmişte var olduğunu ve zamanla değiştiğini gösterir",
+    "tags": [
+      "fosil-kayıtları",
+      "arkeolojik-kanıt",
+      "zaman-değişimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "po0r5lc1k",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Moleküler Evrim (DNA dizilimi karşılaştırması) hangi tür kanıt olarak kabul edilir?",
+    "explanation": "Moleküler evrim, türlerin DNA dizilimlerini karşılaştırarak genetik benzerlik ve farklılıkları ortaya koyar.",
+    "options": [
+      "Türlerin genetik benzerlik ve farklılıklarını gösterir",
+      "Sadece çevresel koşulları açıklar",
+      "Geolojik katmanları belirler",
+      "Yapay seçimi destekler"
+    ],
+    "correctAnswer": "Türlerin genetik benzerlik ve farklılıklarını gösterir",
+    "tags": [
+      "moleküler-evrim",
+      "dna-dizilimi",
+      "genetik-kanıt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mjvtptl3s",
+    "category": "BİLİM",
+    "subcategory": "Evrim",
+    "difficulty": "EXPERT",
+    "question": "Evrimin modern sentezi hangi bilim dallarını birleştirir?",
+    "explanation": "Evrimin modern sentezi, genetik bilimi ile doğal seleksiyon mekanizmasını birleştirerek evrim teorisini günceller.",
+    "options": [
+      "Genetiği ve Doğal Seleksiyonu",
+      "Sadece Genetiği",
+      "Geolojideki katmanları",
+      "Yapay Seçim mekanizmasını"
+    ],
+    "correctAnswer": "Genetiği ve Doğal Seleksiyonu",
+    "tags": [
+      "modern-sentez",
+      "genetik-seleksiyon-birleşimi",
+      "evrim-teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

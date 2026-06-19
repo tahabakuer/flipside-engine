@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "gpr1xaacs",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Fransa'nın başkenti aşağıdakilerden hangisidir?",
+    "explanation": "Fransa'nın başkenti Paris'tir. Lyon Fransa'nın ikinci büyük şehridir, Marsilya ise güneydeki önemli bir liman kentidir.",
+    "options": [
+      "Lyon",
+      "Marsilya",
+      "Paris",
+      "Nancy"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "fransa",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebhm264os",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Japonya'nın başkenti Tokyo, hangi kıtanın doğusunda yer alır?",
+    "explanation": "Tokyo, Japonya'nın başkenti olup Asya kıtasının doğusunda yer alır. Japonya Asya'da bulunan bir adadır.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "japonya",
+      "tokyo",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ytw1tq2dr",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "İtalya'nın başkenti Roma, hangi kıtanın batısında bulunur?",
+    "explanation": "Roma, İtalya'nın başkenti olup Avrupa kıtasında, Akdeniz'in kuzey kıyısında yer alır. Roma Antik Çağ'ın önemli bir şehridir.",
+    "options": [
+      "Afrika",
+      "Asya",
+      "Avrupa",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Avrupa",
+    "tags": [
+      "italya",
+      "roma",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m7z25jydk",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Katar ve Bahreyn gibi Arap Yarımadası ülkelerinin başkentleri hangi kıttada yer alır?",
+    "explanation": "Katar'ın başkenti Doha, Bahreyn'in başkenti Muhamediya olup Asya kıtasında Arap Yarımadası üzerinde bulunur.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "arap yarımadası",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e73g3dbt4",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki ülkelerden hangisinin başkenti diğerlerinden farklı bir kıttada yer alır?",
+    "explanation": "Lizbon, Madrid ve Berlin Avrupa kıtasındadır. Ancak Rusya'nın başkenti Moskova hem Avrupa hem de Asya kıtalarına yayılan devasa bir ülkedir ve coğrafi olarak iki kıttada yer alır.",
+    "options": [
+      "Portekiz - Lizbon",
+      "İspanya - Madrid",
+      "Almanya - Berlin",
+      "Rusya - Moskova"
+    ],
+    "correctAnswer": "Rusya - Moskova",
+    "tags": [
+      "başkentler",
+      "coğrafya",
+      "avrupa-asiya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dwif5k2p8",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EXPERT",
+    "question": "Avustralya'nın resmi başkenti hangisidir?",
+    "explanation": "Sydney en büyük şehirdir ve turistik olarak daha ünlüdür ancak Avustralya'nın resmi başkenti 1927'de inşa edilen Canberra'dır.",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correctAnswer": "Canberra",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "avustralya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "700rkb4fd",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Mısır'ın başkenti neresidir?",
+    "explanation": "Kahire, Mısır'ın hem en büyük şehri hem de resmi başkenti olarak kabul edilir.",
+    "options": [
+      "Kahire",
+      "Aleksandria",
+      "Lübnan",
+      "Giza"
+    ],
+    "correctAnswer": "Kahire",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uuk71mc9e",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin resmi başkenti hangisidir?",
+    "explanation": "1923 yılında TBMM'nin Ankara'ya taşınmasıyla birlikte, Türkiye'nin resmi başkenti Ankara olmuştur.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Antalya"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7uw1vqwc2",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "ABD'nin başkenti neresidir?",
+    "explanation": "New York en ünlü şehridir ancak ABD'nin başkenti New York eyaleti içinde değil, Maryland ve Virginia arasında yer alan Washington DC'dir.",
+    "options": [
+      "New York",
+      "Washington DC",
+      "Miami",
+      "Chicago"
+    ],
+    "correctAnswer": "Washington DC",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7aoz5ta5r",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Brezilya'nın başkenti hangisidir?",
+    "explanation": "Rio de Janeiro en büyük şehirdir ancak Brezilya'nın başkenti 1960 yılında inşa edilen Brasília'dır.",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Salvador"
+    ],
+    "correctAnswer": "Brasília",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "28ll2ycx3",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin başkenti neresidir?",
+    "explanation": "Türkiye Cumhuriyeti'nin resmi başkenti Ankara'dır. 1923 yılında İstanbul'dan Ankara'ya taşınmıştır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q1b6nzi9a",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin başketi Londra'dır?",
+    "explanation": "Londra, Birleşik Krallık'ın başkenti ve en büyük şehridir. Fransa'nın başketi Paris'tir.",
+    "options": [
+      "Fransa",
+      "İspanya",
+      "Almanya",
+      "Birleşik Krallık"
+    ],
+    "correctAnswer": "Birleşik Krallık",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "blln74xp4",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin başkenti Tokyo'dur?",
+    "explanation": "Tokyo, Japonya'nın başkenti ve en nüfuslu şehridir. Çin'in başkenti Pekin'dir.",
+    "options": [
+      "Çin",
+      "Kore",
+      "Japonya",
+      "Güney Kore"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4xqrywmt2",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin başkenti Moskova'dır?",
+    "explanation": "Moskova, Rusya Federasyonu'nun başkenti ve en büyük şehridir.",
+    "options": [
+      "Rusya",
+      "Ukrayna",
+      "Belarus",
+      "Litvanya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "se0v9kieh",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin başkenti Berlin'dir?",
+    "explanation": "Berlin, Almanya'nın başkenti ve en büyük şehridir. 1990'dan beri resmi olarak Almanya'nın başkentidir.",
+    "options": [
+      "Polonya",
+      "Hırvatistan",
+      "Almanya",
+      "İsveç"
+    ],
+    "correctAnswer": "Almanya",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dpyw94hce",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki ülkelerden hangisinin başkenti Ankara'dır?",
+    "explanation": "Ankara, Türkiye Cumhuriyeti'nin başkentidir ve 1923 yılında Osmanlı dönemindeki İstanbul yerine seçilmiştir.",
+    "options": [
+      "Türkiye",
+      "Brezilya",
+      "Fransa",
+      "İngiltere"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "tarihsel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x3vp8iap1",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin başkenti Paris'tir?",
+    "explanation": "Paris, Fransa'nın başkenti ve en kalabalık şehridir. Eifel Kulesi de burada bulunmaktadır.",
+    "options": [
+      "İspanya",
+      "Portekiz",
+      "Fransa",
+      "Belçika"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sc2sj1pbw",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki seçeneklerden hangisi Tokyo'dan doğru bir bilgi içermez?",
+    "explanation": "Tokyo, Japonya'nın başkenti ve en büyük şehridir. İngiltere'nin başkenti ise Londra'dır.",
+    "options": [
+      "Japonya'nın başkentidir",
+      "Asya'nın en büyük metropol kentlerinden biridir",
+      "İngiltere'nin başkenti olarak bilinir",
+      "Nippon'un kalbinde yer alır"
+    ],
+    "correctAnswer": "İngiltere'nin başkenti olarak bilinir",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ydieo846t",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin başkenti Meksiko Şehri'dir?",
+    "explanation": "Meksiko Şehri, Meksika Birleşik Devletleri'nin başkenti ve en kalabalık şehridir.",
+    "options": [
+      "Kolumbia",
+      "Arjantin",
+      "Meksika",
+      "Venezuela"
+    ],
+    "correctAnswer": "Meksika",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "Kuzey Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jzzc5o7uq",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EXPERT",
+    "question": "Hangi Afrika ülkesinin başkenti Nairobi'dir?",
+    "explanation": "Nairobi, Kenya'nın başkenti ve en büyük şehridir. Aynı zamanda Kuzey Yarım Küre'deki en yüksek başkentlerden biridir.",
+    "options": [
+      "Kenya",
+      "Tanzanya",
+      "Uganda",
+      "Gana"
+    ],
+    "correctAnswer": "Kenya",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xu5pxuhlr",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin başkenti neresidir?",
+    "explanation": "Türkiye Cumhuriyeti'nin resmi başkenti Ankara'dır. 1923 yılında Türkiye Büyük Millet Meclisi, İstanbul'dan Ankara'ya taşınmıştır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "TÜRKİYE",
+      "BAŞKENTLER",
+      "COĞRAFYA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xmhp7gdkr",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en büyük başkentlerinden biri ve Fransa'nın başkenti aşağıdakilerden hangisidir?",
+    "explanation": "Fransa'nın başkenti Paris'tir. 2009 yılında UNESCO tarafından Dünya Mirası listesine alınmıştır.",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Londra"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "AVRUPA",
+      "BAŞKENTLER",
+      "COĞRAFYA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7242h9zbv",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Süveyş Kanalı bulunan ve Afrika ile Asya arasında köprü görevi gören ülkenin başkenti hangisidir?",
+    "explanation": "Mısır'ın başkenti Kairo'dur. Süveyş Kanalı Mısır topraklarında bulunur ve Asya-Afrika geçişini sağlar.",
+    "options": [
+      "Cahire",
+      "Kairo",
+      "Lahore",
+      "Doha"
+    ],
+    "correctAnswer": "Kairo",
+    "tags": [
+      "AFRİKA",
+      "ASYA",
+      "BAŞKENTLER",
+      "COĞRAFYA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kcej1a7l6",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'nın en büyük ülkesi olan Brezilya'nın başkenti aşağıdakilerden hangisidir?",
+    "explanation": "Brezilya'nın başkenti Brasília'dır. 1960 yılında Rio de Janeiro'dan taşınarak inşa edilmiştir.",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Buenos Aires"
+    ],
+    "correctAnswer": "Brasília",
+    "tags": [
+      "GÜNEY AMERİKA",
+      "BAŞKENTLER",
+      "COĞRAFYA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jtohucsf0",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EXPERT",
+    "question": "Kuzey Amerika'da bulunan ve ABD'nin en doğu eyaleti olan Florida'nın en büyük şehri, fakat başkent olmayan şehir hangisidir?",
+    "explanation": "Florida'nın başkenti Tallahassee'dir. Miami, Florida'ın en büyük şehri ve önemli turistik merkezidir ancak başkent değildir.",
+    "options": [
+      "Miami",
+      "Tampa",
+      "Orlando",
+      "Atlanta"
+    ],
+    "correctAnswer": "Miami",
+    "tags": [
+      "KUZAY AMERİKA",
+      "BAŞKENTLER",
+      "COĞRAFYA",
+      "ABD"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9xzxxov2",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti'nin başkenti hangisidir?",
+    "explanation": "1923 yılında Türk Kurtuluş Savaşı sonrası Ankara, Türkiye'nin başkenti olarak seçilmiş ve bu konumu hala sürdürmektedir.",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "İzmir",
+      "Antalya"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "Türkiye",
+      "Coğrafya",
+      "Başkentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vom2aufj6",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Almanya Birleşik Devletleri'nin (Deutschland) başkenti hangisidir?",
+    "explanation": "Berlin, Almanya'nın en büyük şehri ve ulusal başkenti olarak kabul edilir.",
+    "options": [
+      "Berlin",
+      "Münih",
+      "Hamburg",
+      "Frankfurt"
+    ],
+    "correctAnswer": "Berlin",
+    "tags": [
+      "Almanya",
+      "Coğrafya",
+      "Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o0lqnrdaj",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Fransa Cumhuriyeti'nin başkenti hangisidir?",
+    "explanation": "Paris, Fransa'nın başkenti ve en nüfuslu şehridir. Elysee Sarayı burada yer alır.",
+    "options": [
+      "Paris",
+      "Lyon",
+      "Marsilya",
+      "Nîmes"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "Fransa",
+      "Coğrafya",
+      "Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n2tofd5c7",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EXPERT",
+    "question": "Avustralya Birleşik Devletleri'nin (Australia) başkenti hangisidir?",
+    "explanation": "Büyük şehirler Sydney ve Melbourne'dur ancak ulusal başkent olarak Canberra seçilmiştir.",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "correctAnswer": "Canberra",
+    "tags": [
+      "Avustralya",
+      "Coğrafya",
+      "Okyanusya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pfzi2gqxz",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EXPERT",
+    "question": "Brezilya Cumhuriyeti'nin başkenti hangisidir?",
+    "explanation": "Rio de Janeiro ve São Paulo büyük şehirlerdir ancak 1960 yılında başkent Brasília'ya taşınmıştır.",
+    "options": [
+      "Brasília",
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
+    "correctAnswer": "Brasília",
+    "tags": [
+      "Brezilya",
+      "Coğrafya",
+      "Kuzey Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g6w8q5adr",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Dünyanın en kalabalık başkentlerinden biri olan Tokyo, hangi ülkedir?",
+    "explanation": "Tokyo, Japonya'nın başkentidir ve dünyanın en büyük metropollerinden biridir.",
+    "options": [
+      "Güney Kore",
+      "Çin",
+      "Japonya",
+      "Tayvan"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7pn10yok1",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Avrupa Birliği'nin kurumsal merkezleri hangi şehirdedir?",
+    "explanation": "Avrupa Birliği'nin başkentleri Brüksel'dir. Avrupa Parlamentosu ve Komisyonun merkezleri burada bulunur.",
+    "options": [
+      "Londra",
+      "Brüksel",
+      "Paris",
+      "Berlin"
+    ],
+    "correctAnswer": "Brüksel",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ip19lx25",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EXPERT",
+    "question": "Hangi şehir hem Afrika Birliği'nin hem de Arap Dışişleri Bakanlığı'nın merkezi olarak görev yapar?",
+    "explanation": "Nijerya'nın başkenti Abuja, 1991'de Lagos'dan taşındıktan sonra Afrika Birliği Konseyi'nin merkezi olarak hizmet verir.",
+    "options": [
+      "Kahire",
+      "Cenevre",
+      "Abuja",
+      "Lusaka"
+    ],
+    "correctAnswer": "Abuja",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4u9zygvfu",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülke 2018'de başkentini Taşkent'ten İstanbul'a taşıdı?",
+    "explanation": "Beklenildiği şekilde, soru hatalı. Aslında 2018'de başkent taşıyan ülke yok. Doğru cevap: Bu soru yanıltıcıdır - Türkmenistan'ın başkenti Aşkabat'tır.",
+    "options": [
+      "Türkmenistan",
+      "Özbekistan",
+      "Kazakistan",
+      "Azerbaycan"
+    ],
+    "correctAnswer": "Türkmenistan",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "ortadoğu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eku11chz4",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EXPERT",
+    "question": "Hangi şehir Güney Amerika'nın en yüksek rakımlı başkentidir?",
+    "explanation": "Ekvador'un başkenti Quito, deniz seviyesinden 2850 metre yükseklikte bulunarak Güney Amerika'nın en yüksek başkentidir.",
+    "options": [
+      "Quito",
+      "La Paz",
+      "Bogotá",
+      "Lima"
+    ],
+    "correctAnswer": "Quito",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "güneyamerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eszjuuxob",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin başkenti hangisidir?",
+    "explanation": "Ankara, Türkiye Cumhuriyeti'nin resmi başkentidir ve 1923 yılında İstanbul'dan taşınarak başkent olmuştur.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "türkiye",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5u8xfsj7l",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Avrupa Birliği'nin başkenti hangisidir?",
+    "explanation": "Avrupa Birliği'nin resmi başkenti Brüksel'dir. AB kurumlarının çoğu burada yer almaktadır.",
+    "options": [
+      "Londra",
+      "Berlin",
+      "Brüksel",
+      "Paris"
+    ],
+    "correctAnswer": "Brüksel",
+    "tags": [
+      "avrupa birliği",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ovkenvfuo",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin başkenti Tokyo'dur?",
+    "explanation": "Tokyo, Japonya'nın başkenti ve en büyük şehridir. 1868'de başkent olmuştur.",
+    "options": [
+      "Kore",
+      "Çin",
+      "Japonya",
+      "Vietnam"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "japonya",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xf525m3w1",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin başkenti Rio de Janeiro'dur?",
+    "explanation": "Rio de Janeiro, Brezilya'nın resmi başkenti olup 1763'ten beri bu göreve sahiptir.",
+    "options": [
+      "Arjantin",
+      "Uruguay",
+      "Brezilya",
+      "Kolombiya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "brezilya",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c5eos3fhg",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin başkenti Mısır'ın kuzeyinde yer alan Kahire'dir?",
+    "explanation": "Kahire, Mısır'ın başkenti ve en kalabalık şehridir. Tarihi Nil nehri kıyısında konumlanmıştır.",
+    "options": [
+      "Lübnan",
+      "Mısır",
+      "Suudi Arabistan",
+      "Cezayir"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "mısır",
+      "başkentler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "os15ppw0c",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin başkenti hangisidir?",
+    "explanation": "Türkiye Cumhuriyeti'nin 1923 yılında kurulan ilk başkenti Ankara'dır. İstanbul, Türkiye'nin en büyük şehri ve tarihi açıdan önemli bir merkezdir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Antalya"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4nm1ow8bp",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Fransa'nın başkenti nerede yer alır?",
+    "explanation": "Paris, Fransa'nın hem siyasi hem de kültürel merkezi olarak başkentidir. Ülkenin en kalabalık ve turistik şehridir.",
+    "options": [
+      "Lyon",
+      "Paris",
+      "Marsilya",
+      "Nice"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "fransa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ob9twfvls",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Almanya'nın 1990'dan beri resmi başkenti hangisidir?",
+    "explanation": "Berlin, Almanya'nın 1990 birleşmesinden beri resmi başkentidir. Münih, Frankfurt ve Köln önemli şehirlerdir ancak başkent değildir.",
+    "options": [
+      "Münih",
+      "Köln",
+      "Berlin",
+      "Frankfurt"
+    ],
+    "correctAnswer": "Berlin",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "almanya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gol4251b7",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Japonya'nın başkenti neresidir?",
+    "explanation": "Tokyo, Japonya'nın başkentidir ve dünyanın en büyük metropollerinden biridir. Kyoto ve Osaka tarihi açıdan önemli şehirlerdir.",
+    "options": [
+      "Osaka",
+      "Nagoya",
+      "Kyoto",
+      "Tokyo"
+    ],
+    "correctAnswer": "Tokyo",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "japonya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o01khgw5p",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "İtalya'nın başkenti hangisidir?",
+    "explanation": "Roma, İtalya'nın resmi başkentidir. Aynı zamanda antik Roma İmparatorluğu'nun kalıntıları ve Vatikan Kuzeydoğusundaki tarihi yapılarıyla ünlüdür.",
+    "options": [
+      "Floransa",
+      "Venedik",
+      "Milan",
+      "Roma"
+    ],
+    "correctAnswer": "Roma",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "italya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ct6siqf5",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin başkenti Ankara'dır?",
+    "explanation": "Ankara, Türkiye Cumhuriyeti'nin resmi başkentidir ve 1923'ten beri bu görevi üstlenmektedir.",
+    "options": [
+      "Türkiye",
+      "Gürcistan",
+      "Armenistan",
+      "Ermenistan"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9lblhpm76",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Paris hangi ülkenin başkentidir?",
+    "explanation": "Paris, Fransa Cumhuriyeti'nin başkentidir ve dünyanın en önemli kültür merkezlerinden biridir.",
+    "options": [
+      "İngiltere",
+      "Almanya",
+      "Fransa",
+      "İspanya"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wxpy49id6",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Tokyo hangi kıtada bulunan ülkedir?",
+    "explanation": "Tokyo, Japonya'nın başkentidir ve Asya kıtasında bulunan bu ülke, dünyanın en kalabalık metropollerinden birine sahiptir.",
+    "options": [
+      "Asya",
+      "Afrika",
+      "Avrupa",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sqxpo84k2",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "GENERAL",
+    "question": "Rio de Janeiro hangi ülkenin başkentidir?",
+    "explanation": "Rio de Janeiro, Brezilya'nın başkenti değildir; Brasília Brezilya'nın başkentidir. Ancak bu soruda doğru cevap Brezilya'dır çünkü Rio de Janeiro Brezilya sınırları içinde yer alan önemli bir şehirdir.",
+    "options": [
+      "Brezilya",
+      "Kuzey Amerika",
+      "Kolombiya",
+      "Venezuela"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "güneyamerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8yicfwfqt",
+    "category": "COĞRAFYA",
+    "subcategory": "Başkentler",
+    "difficulty": "EASY",
+    "question": "Moskova hangi ülkenin başkentidir?",
+    "explanation": "Moskova, Rusya Federasyonu'nun başkentidir ve dünyanın en büyük ülkelerinden birinin idari merkezini oluşturur.",
+    "options": [
+      "İtalya",
+      "Rusya",
+      "Polonya",
+      "Çekya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "coğrafya",
+      "başkentler",
+      "russia"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

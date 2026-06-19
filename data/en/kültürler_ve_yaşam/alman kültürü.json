@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "h5hb1o424",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Which traditional German festival celebrates the changing seasons and features bonfires in many regions?",
+    "explanation": "Sonnwendfest is a traditional German midsummer festival that celebrates the changing of seasons with bonfires and folk dancing, particularly in Bavaria.",
+    "options": [
+      "Christmas",
+      "Midsummer Night (Sonnwendfest)",
+      "Carnival",
+      "Oktoberfest"
+    ],
+    "correctAnswer": "Midsummer Night (Sonnwendfest)",
+    "tags": [
+      "festivals",
+      "traditions",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kdw6np5ig",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "What is 'Bratwurst' in German culture?",
+    "explanation": "Bratwurst is one of the most popular traditional German sausages, often grilled and served with mustard and bread.",
+    "options": [
+      "A type of bread",
+      "A traditional sausage",
+      "A fermented drink",
+      "A ceremonial dagger"
+    ],
+    "correctAnswer": "A traditional sausage",
+    "tags": [
+      "food",
+      "cuisine",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fw0hukczo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which German cultural value emphasizes punctuality in social interactions?",
+    "explanation": "Being on time is highly valued in German culture, reflecting the cultural emphasis on reliability and respect for others' time.",
+    "options": [
+      "Flexibility",
+      "Punctuality (Pünktlichkeit)",
+      "Spontaneity",
+      "Late arrivals"
+    ],
+    "correctAnswer": "Punctuality (Pünktlichkeit)",
+    "tags": [
+      "social values",
+      "customs",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0oesnspoz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What is 'Abendessen' in traditional German dining?",
+    "explanation": "Abendessen means evening dinner in German. Traditional German meals often follow specific times with the main daily meal at midday.",
+    "options": [
+      "Morning breakfast",
+      "Midday lunch",
+      "Evening dinner",
+      "Late-night snack"
+    ],
+    "correctAnswer": "Evening dinner",
+    "tags": [
+      "food",
+      "dining customs",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zybt9jon3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Which traditional German craft is associated with 'Bavarian culture' and features intricate wood carving?",
+    "explanation": "Traditional wood carving is an important artisanal craft in Bavarian culture, particularly associated with folk art and religious sculptures.",
+    "options": [
+      "Glassblowing",
+      "Wood carving (Holzschnitzerei)",
+      "Pottery making",
+      "Weaving"
+    ],
+    "correctAnswer": "Wood carving (Holzschnitzerei)",
+    "tags": [
+      "crafts",
+      "Bavaria",
+      "traditions",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "88oyc4jgj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangi yemek Alman mutfakının en önemli ve geleneksel yemeği olarak kabul edilir?",
+    "explanation": "Schnitzel (özellikle Wiener Schnitzel), Avusturya kökenli olmasına rağmen Alman mutfak kültürünün önemli parçasıdır ve sebzeli veya patatesli olarak servis edilir.",
+    "options": [
+      "Manti",
+      "Schwabenkuchen",
+      "Schnitzel",
+      "Lahmacun"
+    ],
+    "correctAnswer": "Schnitzel",
+    "tags": [
+      "Alman Kültürü",
+      "Mutfak",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g0tigeig6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'da geleneksel olarak hangi festivali kutlamak için Oktoberfest organizasyonu yapılır?",
+    "explanation": "Oktoberfest, Almanya'nın Münih şehrinde her yıl sonbaharda düzenlenen dünyanın en büyük halk festivalidir ve geleneksel olarak bayram kutlamaları yapılır.",
+    "options": [
+      "Münih",
+      "Berlin",
+      "Hamburg",
+      "Frankfurt"
+    ],
+    "correctAnswer": "Münih",
+    "tags": [
+      "Alman Kültürü",
+      "Festival",
+      "Oktoberfest"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gglegldrh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe hangi renk bayrak üzerinde bulunur?",
+    "explanation": "Alman bayrağı, yatay olarak kırmızı, beyaz ve siyah renklerden oluşur ve 1949'dan beri resmî bayrak olarak kullanılır.",
+    "options": [
+      "Beyaz-Mavi-Kırmızı",
+      "Sarı-Mavi-Çivit",
+      "Kırmızı-Beyaz-Mavi",
+      "Yeşil-Siyah-Kırmızı"
+    ],
+    "correctAnswer": "Kırmızı-Beyaz-Mavi",
+    "tags": [
+      "Alman Kültürü",
+      "Bayrak",
+      "Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e4p8uwmpn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'da geleneksel olarak hangi ayda Noel (Weihnachten) tatili yapılır?",
+    "explanation": "Weihnachten, Almanya'da her yıl Aralık ayının 24-25 günlerinde kutlanır ve Noel ağacı kurulması, aile toplanması ile yapılır.",
+    "options": [
+      "Aralık",
+      "Kasım",
+      "Ocak",
+      "Ekim"
+    ],
+    "correctAnswer": "Aralık",
+    "tags": [
+      "Alman Kültürü",
+      "Noel",
+      "Tatil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c1z9tbdt8",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Alman kültüründe 'Mensch sei brav' deyimi neyi ifade eder?",
+    "explanation": "'Mensch sei brav' Almanca'da 'kötülük yapma, iyi ol' veya 'iyi davrandı' anlamına gelir ve geleneksel ahlaki değerleri ifade eder.",
+    "options": [
+      "Zengin ol",
+      "İyi davran",
+      "Çok çalış",
+      "Gece geç kalma"
+    ],
+    "correctAnswer": "İyi davran",
+    "tags": [
+      "Alman Kültürü",
+      "Deyimler",
+      "Ahlak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7xsqs3uae",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Almanya'nın resmi dili nedir?",
+    "explanation": "Almanya'nın resmi ve ana dili Almancası'dır. İngiltere, Fransa ve İspanya farklı ülkelerdir.",
+    "options": [
+      "İngilizce",
+      "Almancası",
+      "Fransızca",
+      "İspanyolca"
+    ],
+    "correctAnswer": "Almancası",
+    "tags": [
+      "dil",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e3379db4r",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe hangi bayram özellikle önemlidir?",
+    "explanation": "Alman kültüründe Paskalya ve Noel gibi geleneksel bayramlar büyük önem taşır. Almanlar bu bayramları aileleriyle kutlar.",
+    "options": [
+      "Valentine's Day",
+      "Paskalya (Easter)",
+      "Halloween",
+      "Çin Yeni Yılı"
+    ],
+    "correctAnswer": "Paskalya (Easter)",
+    "tags": [
+      "bayramlar",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0nfab5pmr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Almanya'daki başkent hangisidir?",
+    "explanation": "Almanya'nın 1991'den beri başkenti Berlinsdir. Münih, Frankfurt ve Hamburg önemli şehirlerdir ancak başkent değillerdir.",
+    "options": [
+      "Munih",
+      "Frankfurt",
+      "Berlin",
+      "Hamburg"
+    ],
+    "correctAnswer": "Berlin",
+    "tags": [
+      "coğrafya",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0qzax1ogr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe 'Zweiback' veya 'Schwarzwald' hangi coğrafi bölgeyi temsil eder?",
+    "explanation": "Schwarzwald (Siyah Orman), Almanya'nın güneyinde bulunan önemli bir orman bölgesidir. Karadeniz ve Balkan farklı bölgelerdir.",
+    "options": [
+      "Doğu Almanya",
+      "Karadeniz Bölgesi",
+      "Siyah Orman (Karst)",
+      "Balkan Yarımadası"
+    ],
+    "correctAnswer": "Siyah Orman (Karst)",
+    "tags": [
+      "coğrafya",
+      "kültürel miras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "img7x5m0t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman halkının geleneksel elbisesi 'Dirndl' hangi cinsiyet için kullanılır?",
+    "explanation": "Dirndl, Alman kadınlarının geleneksel elbisesidir. Erkeklerin geleneksel kıyafeti ise 'Lederhosen'dur.",
+    "options": [
+      "Erkekler",
+      "Kadınlar",
+      "Çocuklar",
+      "Yaşlılar"
+    ],
+    "correctAnswer": "Kadınlar",
+    "tags": [
+      "geleneksel kıyafet",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2r2njzwxk",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "What is a traditional German Christmas market called?",
+    "explanation": "A Weihnachtsmarkt (Christmas market) is a traditional German Christmas market featuring food, crafts, and holiday decorations.",
+    "options": [
+      "Kirmes",
+      "Weihnachtsmarkt",
+      "Volksfest",
+      "Brautmesse"
+    ],
+    "correctAnswer": "Weihnachtsmarkt",
+    "tags": [
+      "German Culture",
+      "Traditions",
+      "Christmas"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4alkmfaul",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which German festival celebrates the arrival of spring with flower crowns?",
+    "explanation": "The Verblümenfest (flower festival) is associated with spring traditions in some German regions, celebrating the arrival of flowers and nature.",
+    "options": [
+      "Oktoberfest",
+      "Wachablumefest",
+      "Sommersonnenwende",
+      "Verblümenfest"
+    ],
+    "correctAnswer": "Verblümenfest",
+    "tags": [
+      "German Culture",
+      "Festivals",
+      "Spring Traditions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fy8c2ftz6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What type of bread is traditionally served at German breakfast?",
+    "explanation": "Weizenbrot (wheat bread) is commonly served at German breakfast, though regional variations exist with Pumpernickel also popular in some areas.",
+    "options": [
+      "Pumpernickel",
+      "Dinkelbrot",
+      "Weizenbrot",
+      "Schwarzbrot"
+    ],
+    "correctAnswer": "Weizenbrot",
+    "tags": [
+      "German Food",
+      "Breakfast Traditions",
+      "Cultural Life"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "su4zlqq0s",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which German custom involves leaving shoes by the door before a guest visits?",
+    "explanation": "Schuhputzen (shoe cleaning) is a traditional German custom where guests clean their shoes before entering, showing respect for the home.",
+    "options": [
+      "Schuhputzen",
+      "Bodenreinigung",
+      "Gastfreundschaft",
+      "Besuchstradition"
+    ],
+    "correctAnswer": "Schuhputzen",
+    "tags": [
+      "German Customs",
+      "Guest Etiquette",
+      "Cultural Life"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4azbgtuq3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EXPERT",
+    "question": "What is 'Tag der Deutschen Einheit' and when is it celebrated?",
+    "explanation": "Tag der Deutschen Einheit (German Unity Day) is celebrated on October 3rd, commemorating the reunification of East and West Germany in 1990.",
+    "options": [
+      "Reunification Day - October 3rd",
+      "National Day - January 1st",
+      "Christmas Day - December 25th",
+      "Labor Day - May 1st"
+    ],
+    "correctAnswer": "Reunification Day - October 3rd",
+    "tags": [
+      "German History",
+      "National Holidays",
+      "Political Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1hh01y3up",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Almanya'da yılbaşı gecesi (Silvester) sırasında ne tür bir gelenek vardır?",
+    "explanation": "Almanya'da Silvester gecesinde gökyüzü ateşleri (Feuerwerk) ve kilisedeki çanlar geleneksel bir şekilde duyulur. Bu, yılın eski zamanını vedalaşma ve yeni yılı kutlama anlamına gelir.",
+    "options": [
+      "Aileler birlikte pasta yer",
+      "Gökyüzü ateşleri ve çanlar duyulur",
+      "Sadece film izlenir",
+      "Okullar tatil olur"
+    ],
+    "correctAnswer": "Gökyüzü ateşleri ve çanlar duyulur",
+    "tags": [
+      "festival",
+      "gelenek",
+      "yılbaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rsmi6flvx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman mutfağında hangi yemek Silvester gecesinde popüler bir tatlıdır?",
+    "explanation": "Stollen, Almanya'nın Dresden şehri ile ilişkilendirilen geleneksel bir tatlıdır ve özellikle Noeller'de (Advent) ve yılbaşı zamanında popülerdir.",
+    "options": [
+      "Kartoffelpuffer",
+      "Schwarzwälder Kirsch",
+      "Stollen",
+      "Schnitzel"
+    ],
+    "correctAnswer": "Stollen",
+    "tags": [
+      "mutlak",
+      "tatlı",
+      "yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ky43dq1oa",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe 'Feierabend' ne ifade eder?",
+    "explanation": "Feierabend, Almanca'da işten çıkıp dinlenme veya keyifli vakit geçirme anlamına gelen yaygın bir ifadedir ve çalışma hayatı ile ilgili kültürü yansıtır.",
+    "options": [
+      "Okul başlangıcı",
+      "İşten çıkış/aşamak",
+      "Hafta sonu",
+      "Yemek zamanı"
+    ],
+    "correctAnswer": "İşten çıkış/aşamak",
+    "tags": [
+      "çalışma",
+      "gelenek",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xptyn41w3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Almanya'daki 'Oktoberfest' festivali hangi şehirde düzenlenir?",
+    "explanation": "Oktoberfest, Almanya'nın Münih şehrinde düzenlenir ve dünyanın en büyük folk festivalidir. Bu festival'da geleneksel yemekler ve danslar sunulur.",
+    "options": [
+      "Munih",
+      "Frankfurt",
+      "Hamburg",
+      "Köln"
+    ],
+    "correctAnswer": "Munih",
+    "tags": [
+      "festival",
+      "geography",
+      "yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3igv523zu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe 'Schadenfreude' ne anlama gelir?",
+    "explanation": "Schadenfreude, Almanca'da başkalarının zorluklarından veya acısından duyulan keyif anlamına gelir ve Alman kültüründe sıklıkla kullanılan bir ifadedir.",
+    "options": [
+      "Mutluluk",
+      "Başkalarının acısından keyif alma",
+      "Üzgünlük",
+      "Nefret"
+    ],
+    "correctAnswer": "Başkalarının acısından keyif alma",
+    "tags": [
+      "duygu",
+      "kültür",
+      "dil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ins4aiwzf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'da geleneksel bir 'Oktoberfest' bayramı hangi şehirde düzenlenir?",
+    "explanation": "Oktoberfest, Almanya'nın Münih şehrinde düzenlenen dünyaca ünlü geleneksel bayramdır ve 1618 yılından beri her yıl sonbahar aylarında düzenlenmektedir.",
+    "options": [
+      "Munih",
+      "Bonn",
+      "Frankfurt",
+      "Köln"
+    ],
+    "correctAnswer": "Munih",
+    "tags": [
+      "Bayramlar",
+      "Gelenekler",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u65uk28ro",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe 'Schadenfreude' kelimesi ne anlama gelir?",
+    "explanation": "Schadenfreude, Almanca bir kelimedir ve başkalarının uğraştığı zorluklardan veya kötü olaylardan duyulan haz anlamına gelir.",
+    "options": [
+      "Başkalarının başına gelen kötü olaylardan duyulan haz",
+      "Yardımseverlik ve iyilik",
+      "Hüzün ve melankoli",
+      "Şükran ve minnet"
+    ],
+    "correctAnswer": "Başkalarının başına gelen kötü olaylardan duyulan haz",
+    "tags": [
+      "Kelimeler",
+      "Duygular",
+      "Psikoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j0h1vptw0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Almanya'da geleneksel 'Bratwurst' salamı hangi bölgeyle ilişkilidir?",
+    "explanation": "Bratwurst, Almanya'nın Bavyera bölgesiyle özdeşleşmiş geleneksel salam türüdür ve özellikle Münih'de popülerdir.",
+    "options": [
+      "Bavyera",
+      "Saksonya",
+      "Hessen",
+      "Tübingen"
+    ],
+    "correctAnswer": "Bavyera",
+    "tags": [
+      "Gastronomi",
+      "Yemekler",
+      "Bölge Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "obajz0406",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Alman düşünür 'Gottfried Wilhelm Leibniz'in hangi alanda yaptığı çalışmalarla bilinir?",
+    "explanation": "Leibniz, hem matematik alanında (biner sistem) hem de felsefe alanında önemli çalışmalar yapmış ünlü Alman düşünürdür.",
+    "options": [
+      "Matematik ve Felsefe",
+      "Tarih ve Siyaset",
+      "Edebiyat ve Sanat",
+      "Bilim ve Teknoloji"
+    ],
+    "correctAnswer": "Matematik ve Felsefe",
+    "tags": [
+      "Düşünürler",
+      "Felsefe",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qgfr1z0ba",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman Noel geleneklerinde 'Christkind' figürü neyi temsil eder?",
+    "explanation": "Christkind, Almanya'da Noel geleneklerinde çocuklara hediyeler getiren yarı tanrısal bir figürdür ve genellikle 'Sinterklaas' ile özdeşleştirilir.",
+    "options": [
+      "Noel Baba'nın çocuklara hediye getiren yarı tanrısal varlık",
+      "Şeytan ve kötü ruhlar",
+      "Manastır rahipleri",
+      "Aile üyeleri"
+    ],
+    "correctAnswer": "Noel Baba'nın çocuklara hediye getiren yarı tanrısal varlık",
+    "tags": [
+      "Bayramlar",
+      "Gelenekler",
+      "Din"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ofh0i1q2l",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'nın ulusal mutfak geleneğinde 'Sauerbraten' nedir?",
+    "explanation": "Sauerbraten, Alman mutfak geleneğindeki geleneksel et yemeğidir. Genellikle sosis veya dana eti, asidik sos (rakı, şarap sirkesi) ile pişirilir.",
+    "options": [
+      "Et yemeği",
+      "Sebzeli çorba",
+      "Tatlı çeşidi",
+      "Ekmek türü"
+    ],
+    "correctAnswer": "Et yemeği",
+    "tags": [
+      "Mutfak",
+      "Gelenekler",
+      "Alman Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f4zsun3h9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'da hangi gün 'Oktoberfest' bayramı kutlanır?",
+    "explanation": "Oktoberfest, Almanya'nın Münih kentinde her yıl Ekim ayının başında kutlanan dünyanın en büyük bayramlarından biridir. 1612'den beri sürmektedir.",
+    "options": [
+      "Eylül ayı",
+      "Ekim ayı",
+      "Kasım ayı",
+      "Aralık ayı"
+    ],
+    "correctAnswer": "Ekim ayı",
+    "tags": [
+      "Bayramlar",
+      "Törenler",
+      "Alman Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4rccfrioq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Alman dilinin yazı karakterleri arasında 'Ö' harfinin kullanımıyla ilgili doğru bilgi nedir?",
+    "explanation": "Öz, Alman dilinde ünlü harflerin özel duruşunu göstermek için kullanılır. Özellikle Latince kök kelimelerde 'özel' anlamında kullanılır.",
+    "options": [
+      "Sadece Alfabetikte bulunur",
+      "Latince kök kelimelerde kullanılır",
+      "Yazımda özel duruşla işaretlenir",
+      "Resmi dökümanlarda zorunludur"
+    ],
+    "correctAnswer": "Latince kök kelimelerde kullanılır",
+    "tags": [
+      "Dil",
+      "Alfabe",
+      "Alman Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ng2a7jsh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'da geleneksel 'Schlossberg' neyi ifade eder?",
+    "explanation": "Schlossberg, Almanya'daki birçok kentin tarihi kale ve saray yapısının bulunduğu tepedir. Özellikle Nuremberg gibi şehirlerde bulunur.",
+    "options": [
+      "Kale tepesi",
+      "Orman bölgesi",
+      "Nehir kenarı",
+      "Şehir meydanı"
+    ],
+    "correctAnswer": "Kale tepesi",
+    "tags": [
+      "Coğrafya",
+      "Tarihi Yapılar",
+      "Alman Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ywqh4muzv",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Alman kültüründe 'Gemütlichkeit' kavramı neyi ifade eder?",
+    "explanation": "Gemütlichkeit, Alman kültüründeki 'huzur, konfor, rahatlık' anlamındaki kavramdır. Özellikle sosyal ortamlarda kullanılan önemli bir terimdir.",
+    "options": [
+      "Mutluluk",
+      "Huzur ve konfor",
+      "Güç ve cesaret",
+      "Zenginlik ve başarı"
+    ],
+    "correctAnswer": "Huzur ve konfor",
+    "tags": [
+      "Kavramlar",
+      "Sosyal Yaşam",
+      "Alman Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7i47eeyvj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Almanya'da kutlanan en önemli geleneksel bayramlardan biri olan 'Kış Bayramı' hangi tarihte kutlanır?",
+    "explanation": "Almanya'da Kış Bayramı olarak bilinen Noel (Weihnachten) 24-25 Aralık tarihlerinde kutlanır ve en önemli geleneksel bayramdır.",
+    "options": [
+      "24 Aralık - Noel",
+      "1 Ocak - Yeni Yıl",
+      "30 Kasım - Reformasyon Günü",
+      "17 Ağustos - Alman Birliği Günü"
+    ],
+    "correctAnswer": "24 Aralık - Noel",
+    "tags": [
+      "Alman Kültürü",
+      "Bayramlar",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "heqf6h56y",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman mutfağında 'Schnitzel' adlı yemeğin hangi et türünden hazırlanır?",
+    "explanation": "Schnitzel geleneksel olarak dana eti kullanılarak hazırlanır, ancak tavuk etli versiyonları da popülerdir.",
+    "options": [
+      "Tavuk",
+      "Dana Eti",
+      "Kuzu Eti",
+      "Balık"
+    ],
+    "correctAnswer": "Dana Eti",
+    "tags": [
+      "Alman Kültürü",
+      "Mutfak",
+      "Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9r72d252j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'da 'Okul sonrası' (Nach der Schule) sosyal hayatın önemli bir parçası olan ne yapılır?",
+    "explanation": "Almancada 'Nach der Schule' sosyal hayatın önemli bir parçası olan spor kulübü faaliyetleri (Turniere, Training) yapılır.",
+    "options": [
+      "Kafeterya gezintisi",
+      "Spor kulübü faaliyetleri",
+      "Aile yemekleri",
+      "Kitap okuma"
+    ],
+    "correctAnswer": "Spor kulübü faaliyetleri",
+    "tags": [
+      "Alman Kültürü",
+      "Sosyal Yaşam",
+      "Gençlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z7dmbed43",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'nın en büyük eyaletlerinden biri olan ve Berlin'in bulunduğu eyalet hangisidir?",
+    "explanation": "Berlin, Almanya'nın en büyük eyaletlerinden biri olup aynı zamanda Almanya'nın başkentidir.",
+    "options": [
+      "Bavyera",
+      "Hessen",
+      "Brandenburg",
+      "Berlin"
+    ],
+    "correctAnswer": "Berlin",
+    "tags": [
+      "Alman Kültürü",
+      "Jeografi",
+      "Eyaletler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ayq6dgbu0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Alman kültüründe 'Zamanın önemli olduğu' (Zeit ist Geld) ifadesi hangi değer yargısını temsil eder?",
+    "explanation": "'Zeit ist Geld' ifadesi Alman kültüründe punctualite (zamanına saygı) değerini temsil eder.",
+    "options": [
+      "Punktlülük",
+      "Esneklik",
+      "Mizah",
+      "Yaratıcılık"
+    ],
+    "correctAnswer": "Punktlülük",
+    "tags": [
+      "Alman Kültürü",
+      "Değerler",
+      "Sosyal Normlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hzh3a08s9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Alman kültüründe geleneksel olarak hangi yemek, bayramlarda ve özel günlerde sıklıkla tüketilir?",
+    "explanation": "Bratwurst (İtalyan kökenli Alman sosisi) geleneksel olarak ekmek ile birlikte tüketilir ve Alman bayramlarında, özellikle Oktoberfest gibi etkinliklerde vazgeçilmez bir yemeğe dönüşür.",
+    "options": [
+      "Tost",
+      "Bratwurst ve Ekmek",
+      "Sebzeli Çorba",
+      "Makarna"
+    ],
+    "correctAnswer": "Bratwurst ve Ekmek",
+    "tags": [
+      "Alman Kültürü",
+      "Yemek",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sgk8z9t07",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe 'Oktoberfest' ne zaman kutlanır?",
+    "explanation": "Oktoberfest, Münih'te her yıl Eylül sonu ile Ekim başı arasında kutlanan dünyanın en büyük halk bayramdır. Kökeni 1810 yılına dayanır.",
+    "options": [
+      "Eylül sonu - Ekim başı",
+      "Kasım ayı",
+      "Haziran ayı",
+      "Şubat ayı"
+    ],
+    "correctAnswer": "Eylül sonu - Ekim başı",
+    "tags": [
+      "Alman Kültürü",
+      "Bayram",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w1ffgsxyo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe geleneksel olarak hangi dans türü, folklorik gösterilerde yer alır?",
+    "explanation": "Ländler, Alman folklor müziğinin ve dansının en temel türlerinden biridir. Özellikle güney Almanya ve Avusturya sınırlarında yaygın olarak oynanır.",
+    "options": [
+      "Samba",
+      "Ländler",
+      "Bachata",
+      "Kizomba"
+    ],
+    "correctAnswer": "Ländler",
+    "tags": [
+      "Alman Kültürü",
+      "Dans",
+      "Folklor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "69q7k20me",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe 'Weihnachtsmarkt' (Noel Pazarı) hangi ayda kutlanır?",
+    "explanation": "Weihnachtsmarkt, Almanya'da genellikle Ekim'in sonu ile Aralık'ın başı arasında kurulur ve Noel sezonu boyunca (genelde 24 Aralık'a kadar) devam eder.",
+    "options": [
+      "Ağustos",
+      "Eylül",
+      "Ekim-Kasım-Aralık",
+      "Nisan"
+    ],
+    "correctAnswer": "Ekim-Kasım-Aralık",
+    "tags": [
+      "Alman Kültürü",
+      "Noel",
+      "Pazarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b777o4gy3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Alman kültüründe 'Muttertag' (Anne Günü) hangi ayda kutlanır?",
+    "explanation": "Muttertag (Anne Günü), Almanya'da genellikle Mart ayının ikinci Pazar günü kutlanır. Bu gün anne figürüne saygı göstermek için çiçekler, kartlar ve hediyeler verilir.",
+    "options": [
+      "Mart ayı",
+      "Mayıs ayı",
+      "Temmuz ayı",
+      "Ağustos ayı"
+    ],
+    "correctAnswer": "Mart ayı",
+    "tags": [
+      "Alman Kültürü",
+      "Anne Günü",
+      "Bayramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9zwayfm8z",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EASY",
+    "question": "Alman kültüründe hangi gün haftanın en önemli dinlenme günü olarak kabul edilir?",
+    "explanation": "Almanya'da hafta sonu (Cuma akşamı ve Cumartesi/Pazar) aile zamanı, dinlenme ve sosyal aktivite için en önemli günlerdir.",
+    "options": [
+      "Pazartesi",
+      "Salı",
+      "Hafta Sonu",
+      "Çarşamba"
+    ],
+    "correctAnswer": "Hafta Sonu",
+    "tags": [
+      "Alman Kültürü",
+      "Haftalık Düzen",
+      "Dinlenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9qzbpqpyl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman restoran kültüründe 'Gemütsvoll' ifadesi ne anlama gelir?",
+    "explanation": "'Gemütsvoll' Almanca 'duygusal zenginlik' veya 'sıcak misafirperverlik' anlamına gelir ve Alman kültüründe nezaket ifadesi olarak kullanılır.",
+    "options": [
+      "Hızlı servis",
+      "Yavaş konuşma",
+      "Duygusal zenginlik",
+      "Sıcak misafirperverlik"
+    ],
+    "correctAnswer": "Sıcak misafirperverlik",
+    "tags": [
+      "Alman Kültürü",
+      "İletişim",
+      "Misafirperverlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ti09xjvn1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Almanya'da geleneksel olarak hangi tatlı Paskalya bayramında yenir?",
+    "explanation": "Almanya'da Paskalya bayramında geleneksel olarak 'Osterhase' (Paskalya tavşanı) ve çeşitli tatlılar yenir, özellikle Semizörtlü yaygındır.",
+    "options": [
+      "Easter Cake",
+      "Pangala",
+      "Semizörtlü",
+      "Tiramisu"
+    ],
+    "correctAnswer": "Semizörtlü",
+    "tags": [
+      "Alman Kültürü",
+      "Bayramlar",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "okkhn8brb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Alman kültüründe iş görüşmelerinde ne zaman saatte en uygun kabul edilir?",
+    "explanation": "Alman iş kültüründe sabah saatleri (09:00-12:00) iş görüşmeleri için en uygun zaman dilimi olarak kabul edilir.",
+    "options": [
+      "09:00-12:00",
+      "13:00-16:00",
+      "17:00-20:00",
+      "Çalışma günleri dışında"
+    ],
+    "correctAnswer": "09:00-12:00",
+    "tags": [
+      "Alman Kültürü",
+      "İş Dünyası",
+      "Zaman Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jfo8q2fnt",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Alman Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Almanya'da 'Spatz' kelimesi hangi kavramla ilişkilidir?",
+    "explanation": "'Spatz' Almanca 'güvercin' veya küçük yerleşim birimi anlamında kullanılır, bazen küçük memleketer veya kasabalar için de kullanılır.",
+    "options": [
+      "Büyük şehir",
+      "Küçük memleketer",
+      "İnsanlar",
+      "Hayvanlar"
+    ],
+    "correctAnswer": "Küçük memleketer",
+    "tags": [
+      "Alman Kültürü",
+      "Geography",
+      "Terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

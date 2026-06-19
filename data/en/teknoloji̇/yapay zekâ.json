@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "mryi96k46",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Yapay zeka (AI) kavramı neyi ifade eder?",
+    "explanation": "Yapay zeka, makinelerin insanlardaki öğrenme, akıl yürütme ve problem çözme yeteneklerini taklit etmesini sağlayan sistemleri tanımlar.",
+    "options": [
+      "İnsan benzeri zeki davranışların simülasyonu",
+      "Sadece fiziksel robotların hareket yeteneği",
+      "Veritabanlarının hızlı sorgulanması",
+      "Sadece matematiksel hesaplamaların otomasyonu"
+    ],
+    "correctAnswer": "İnsan benzeri zeki davranışların simülasyonu",
+    "tags": [
+      "Yapay Zeka",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3bjqeal3l",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Makine öğrenmesinde, hem giriş hem de çıkış verilerinin etiketlenmiş olması durumu hangi türü ifade eder?",
+    "explanation": "Gözetimli öğrenmede model, zaten etiketlenmiş veri seti üzerinde eğitilir ve hem girdi hem de çıktı (etiket) verisi vardır.",
+    "options": [
+      "Gözetimsiz Öğrenme (Unsupervised Learning)",
+      "Yarı Gözetimli Öğrenme (Semi-supervised Learning)",
+      "Gözetimli Öğrenme (Supervised Learning)",
+      "Peftiştirme Öğrenmesi (Reinforcement Learning)"
+    ],
+    "correctAnswer": "Gözetimli Öğrenme (Supervised Learning)",
+    "tags": [
+      "Makine Öğrenmesi",
+      "Veri Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uv7udtm6e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Derin öğrenme (Deep Learning) mimarisinin temel bileşeni ve yapı taşı nedir?",
+    "explanation": "Derin öğrenme, çok katmanlı yapay sinir ağlarını kullanarak veri işler ve alt düzeyden üst düzeye özellik çıkarır.",
+    "options": [
+      "Sinir Ağları",
+      "Karar Ağaçları",
+      "K-Medians Algoritması",
+      "Lineer Regresyon"
+    ],
+    "correctAnswer": "Sinir Ağları",
+    "tags": [
+      "Derin Öğrenme",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "heqb1x08o",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Büyük Dil Modelleri (LLM) 'nin temel mimarisi hangi yapıya dayanır?",
+    "explanation": "Modern LLM'ler, dikkati mekanizmasını kullanan Transformer mimarisi üzerine kuruludur ve bu yapı dil işleme yeteneğini maksimize eder.",
+    "options": [
+      "Transformer",
+      "CNN (Convolutional Neural Networks)",
+      "RNN (Recurrent Neural Networks)",
+      "Markov Zinciri"
+    ],
+    "correctAnswer": "Transformer",
+    "tags": [
+      "Büyük Dil Modeli",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2pgb6ui5v",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Yapay zeka sistemlerinde 'Hallüsinasyon' neyi ifade eder?",
+    "explanation": "LLM'lerdeki hata türü olarak, model kendi bilgisine dayanarak yanlış veya uydurma bilgiler üretir ve bunları gerçekmiş gibi sunar.",
+    "options": [
+      "Sistem donduğunda yaşanır",
+      "Sistem gerçek olmayan bilgi üretip sunar",
+      "Sistem veri yetersizliği yaşar",
+      "Sistem etik kısıtlamaları ihlal eder"
+    ],
+    "correctAnswer": "Sistem gerçek olmayan bilgi üretip sunar",
+    "tags": [
+      "Yapay Zeka Etiği",
+      "Model Davranışı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vewcvphfk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka sistemlerinin öğrenme yeteneği için hangi veri yapısı en çok kullanılır?",
+    "explanation": "Nöral ağlar, insan beyninin yapısını taklit eden ve verilerden öğrenme yeteneği sağlayan temel yapıdır.",
+    "options": [
+      "Sabit yapı",
+      "Çağrı ağacı",
+      "Nöral ağlar",
+      "Blok zincir"
+    ],
+    "correctAnswer": "Nöral ağlar",
+    "tags": [
+      "Yapay Zeka",
+      "Makine Öğrenmesi",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fuw4kuai7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Hangi yapay zeka türü belirli bir görev için programlanmış sistemleri ifade eder?",
+    "explanation": "Dar Alışkanlıklara Sahip Yapay Zeka (Narrow AI), belirli bir görev veya alanda uzmanlaşmış sistemlerdir.",
+    "options": [
+      "Genel Yapay Zeka",
+      "Dar Alışkanlıklara Sahip Yapay Zeka",
+      "Super Yapay Zeka",
+      "Kuantum Yapay Zeka"
+    ],
+    "correctAnswer": "Dar Alışkanlıklara Sahip Yapay Zeka",
+    "tags": [
+      "Yapay Zeka",
+      "Sınıflandırma",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oyb13qvsc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka destekli görsel tanıma teknolojisi hangisidir?",
+    "explanation": "Computer Vision, makinelere görsellerden anlam çıkarma ve nesneleri tanıma yeteneği sağlar.",
+    "options": [
+      "OCR",
+      "NLP",
+      "Computer Vision",
+      "RPA"
+    ],
+    "correctAnswer": "Computer Vision",
+    "tags": [
+      "Yapay Zeka",
+      "Görsel İşleme",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bhjzm8wnl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka sistemlerinin etik kullanımı için hangi ilke önemlidir?",
+    "explanation": "Veri gizliliği, yapay zeka sistemlerinin kişisel verileri koruma ilkesidir ve etik kullanımı için kritiktir.",
+    "options": [
+      "Veri gizliliği",
+      "Kullanıcı memnuniyeti",
+      "Sistem hızı",
+      "Donanım maliyeti"
+    ],
+    "correctAnswer": "Veri gizliliği",
+    "tags": [
+      "Yapay Zeka",
+      "Etik",
+      "Gizlilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ltydqz3ps",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Hangi yapay zeka uygulaması doğal dil işleme (NLP) alanında kullanılır?",
+    "explanation": "Konuşma asistanları, NLP teknolojisi kullanılarak insan sesini anlamayı ve yanıtlamayı sağlar.",
+    "options": [
+      "Yüz tanıma",
+      "Konuşma asistanları",
+      "Otonom araçlar",
+      "Tıbbi görüntüleme"
+    ],
+    "correctAnswer": "Konuşma asistanları",
+    "tags": [
+      "Yapay Zeka",
+      "NLP",
+      "Doğal Dil İşleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgtqc3p72",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Yapay zeka (AI) nedir?",
+    "explanation": "Yapay zeka, bilgisayarların insan benzeri zihinsel işlevleri gerçekleştirmesini sağlayan alandır. Öğrenme, çıkarım, problem çözme ve dil anlama gibi yetenekler içerir.",
+    "options": [
+      "İnsanların yerine geçen robotlar",
+      "Bilgisayar sistemlerinin kendiliğinden öğrenme ve problem çözme yeteneği",
+      "Sadece oyun yapma programları",
+      "Veri tabanı yönetim sistemleri"
+    ],
+    "correctAnswer": "Bilgisayar sistemlerinin kendiliğinden öğrenme ve problem çözme yeteneği",
+    "tags": [
+      "yapay-zeka",
+      "temel-kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5vjqyy930",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Machine Learning (Makine Öğrenimi) ile ilgili hangi ifade doğrudur?",
+    "explanation": "Makine öğrenimi, algoritmanın verilerden kendiliğinden desenler çıkararak tahmin yapabilmesini sağlar. İnsan müdahalesi olmadan veri üzerinde çalışır.",
+    "options": [
+      "Programlanmadan veri analiz edemez",
+      "Veri üzerinden otomatik öğrenir",
+      "Sadece görsel işleme yapar",
+      "İnsan müdahalesi gerektirmez"
+    ],
+    "correctAnswer": "Veri üzerinden otomatik öğrenir",
+    "tags": [
+      "machine-learning",
+      "yapay-zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qj6mwwxpj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Derin Öğrenme (Deep Learning) hangi alana aittir?",
+    "explanation": "Derin öğrenme, yapay sinir ağları kullanarak makine öğrenimi problemlerini çözen bir yaklaşımdır. Büyük veri ve karmaşık işlemlerde başarılıdır.",
+    "options": [
+      "Sadece veri tabanı yönetimi",
+      "Makine öğreniminin alt kolu",
+      "Robotik motorları",
+      "Ağ güvenliği"
+    ],
+    "correctAnswer": "Makine öğreniminin alt kolu",
+    "tags": [
+      "derin-ogrenme",
+      "yapay-zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lmnil7wpv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Hangi teknoloji doğal dil işleme (NLP) için kullanılır?",
+    "explanation": "Doğal dil işleme, makinenin insan dilini anlamasını ve üretmesini sağlar. Bunun için yapay sinir ağları kullanılır (örn: BERT, GPT modelleri).",
+    "options": [
+      "Sadece görsel tanıma",
+      "Yapay sinir ağları",
+      "Veri şifreleme",
+      "Bulut depolama"
+    ],
+    "correctAnswer": "Yapay sinir ağları",
+    "tags": [
+      "nlp",
+      "yapay-zeka",
+      "dil-isleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fqri42stp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Yapay zekâ etiği neden önemlidir?",
+    "explanation": "Yapay zekâ etiği, veri gizliliğini korumak, algoritmalarda önyargıları önlemek ve şeffaf karar mekanizmaları oluşturmak için kritiktir.",
+    "options": [
+      "Maliyet düşürmek için",
+      "Veri gizliliği ve önyargıları önlemek için",
+      "Sistem hızını artırmak için",
+      "Donanım tasarrufu sağlamak için"
+    ],
+    "correctAnswer": "Veri gizliliği ve önyargıları önlemek için",
+    "tags": [
+      "yapay-zeka-etigi",
+      "veri-gizlilik",
+      "oyun-coklugu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m84afqy1o",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Yapay zeka terimi neyi ifade eder?",
+    "explanation": "Yapay zeka, insan gibi düşünme ve öğrenme yeteneklerinin bilgisayar algoritmaları ile simüle edilmesidir.",
+    "options": [
+      "Bilgisayarların elektrik akımı yeteneği",
+      "İnsan bilişsel süreçlerini taklit eden sistemler",
+      "Sadece robotik cihazların kolektifi",
+      "Veri depolama teknolojisi"
+    ],
+    "correctAnswer": "İnsan bilişsel süreçlerini taklit eden sistemler",
+    "tags": [
+      "Tanım",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l2mntzort",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Günlük hayatta 'Doğal Dil İşleme' (NLP) teknolojisi hangi alanda kullanılır?",
+    "explanation": "NLP, bilgisayarların insan dilini işleme yeteneği sağlar; örneğin Google Translate veya Chatbot'lar.",
+    "options": [
+      "Araba lastik üretimi",
+      "Metin çeviri ve asistanlar",
+      "Şarj cihazları tasarımı",
+      "Ağ kablosu bakımı"
+    ],
+    "correctAnswer": "Metin çeviri ve asistanlar",
+    "tags": [
+      "NLP",
+      "Uygulamalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ud4ithjl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Makine öğrenmesinde 'Gözetimli Öğrenme' (Supervised Learning) hangi veri türü kullanır?",
+    "explanation": "Gözetimli öğrenmede model, doğru cevapları (etiketler) içeren veri setleriyle eğitilir.",
+    "options": [
+      "Etiketsiz veriler",
+      "Etiketli veriler",
+      "Gerçek zamanlı akışkanlar",
+      "Sadece görsel veriler"
+    ],
+    "correctAnswer": "Etiketli veriler",
+    "tags": [
+      "Makine Öğrenmesi",
+      "Veri Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ccndqo1x9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Modern Büyük Dil Modellerinin (LLM) temel mimari yapısı nedir?",
+    "explanation": "GPT ve benzeri modeller, dikkat mekanizması kullanan Transformer mimarisine dayanır.",
+    "options": [
+      "Convolutional Neural Network",
+      "Transformer",
+      "Decision Tree",
+      "Markov Chain"
+    ],
+    "correctAnswer": "Transformer",
+    "tags": [
+      "Mimari",
+      "LLM",
+      "Derin Öğrenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmui6caim",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Yapay zeka sistemlerindeki 'önyargı' sorunu genellikle nereden kaynaklanır?",
+    "explanation": "Eğer eğitim seti belirli grupları yeterince temsil etmiyorsa, model bu önyargıları öğrenip aktarır.",
+    "options": [
+      "Donanım soğutma sistemi",
+      "Eğitim verisindeki temsilsizlik",
+      "Yazılım güncellemesi hızı",
+      "İnternet bağlantısı kesintileri"
+    ],
+    "correctAnswer": "Eğitim verisindeki temsilsizlik",
+    "tags": [
+      "Etik",
+      "Güvenlik",
+      "Sistem Mühendisliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9zt5ps4ft",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Yapay zeka sistemlerinin temelinde hangi teknoloji bulunur?",
+    "explanation": "Makine öğrenimi, yapay zeka sistemlerinin veriden öğrenmesini sağlayan temel teknolojidir. Sistemler büyük veri setleri üzerinde eğitilerek karar alma yetisi kazanır.",
+    "options": [
+      "Veri madenciliği",
+      "Makine öğrenimi",
+      "Bulut bilişim",
+      "IoT ağları"
+    ],
+    "correctAnswer": "Makine öğrenimi",
+    "tags": [
+      "Yapay Zeka",
+      "Temel Kavramlar",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zkxrz3d8n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Hangi yapay zeka modeli insansı konuşmayı gerçekleştirmek için kullanılır?",
+    "explanation": "NLP (Natural Language Processing), makinenin insan dilini anlayıp üretmesini sağlayan teknolojidir. Siri, Alexa gibi asistanlar bu teknolojiyi kullanır.",
+    "options": [
+      "NLP (Doğal Dil İşleme)",
+      "Kümeleme",
+      "Sinir ağı sınıflandırma",
+      "Regresyon"
+    ],
+    "correctAnswer": "NLP (Doğal Dil İşleme)",
+    "tags": [
+      "Yapay Zeka",
+      "Konuşma Sistemleri",
+      "Giriş Seviyesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s57qqfup8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Yapay zeka algoritmalarının gelişimi için hangi veri seti türü kritiktir?",
+    "explanation": "Modern yapay zeka sistemleri, yüksek kaliteli ve büyük miktarda eğitilmiş veri üzerinde çalışarak daha iyi performans gösterir. Veri kalitesi model başarısını doğrudan etkiler.",
+    "options": [
+      "Eğitilmiş büyük veri",
+      "Küçük ölçekli veri",
+      "Gerçek zamanlı veri",
+      "Şifrelenmiş veri"
+    ],
+    "correctAnswer": "Eğitilmiş büyük veri",
+    "tags": [
+      "Yapay Zeka",
+      "Veri Bilimi",
+      "Algoritma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgb4jijp6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Hangi şirketin GPT dizi modelleri yapay zeka alanında öncüdür?",
+    "explanation": "OpenAI, GPT (Generative Pre-trained Transformer) serisi modelleri geliştiren öncü yapay zeka araştırma şirketidir. ChatGPT bu serinin popüler örneğidir.",
+    "options": [
+      "Google",
+      "Microsoft",
+      "OpenAI",
+      "IBM"
+    ],
+    "correctAnswer": "OpenAI",
+    "tags": [
+      "Yapay Zeka",
+      "Şirketler",
+      "LLM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l6ckor9js",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka etiği kapsamında hangi kavram en çok tartışılır?",
+    "explanation": "Yapay zeka etiğinde veri gizliliği, algoritmik önyargı ve tarafsızlık en çok tartışılan konulardır. Sistemlerin adil çalışması için bu faktörler kritiktir.",
+    "options": [
+      "Veri gizliliği ve algoritmik tarafsızlık",
+      "Donanım maliyeti",
+      "İnternet hızı",
+      "Kullanıcı arayüzü"
+    ],
+    "correctAnswer": "Veri gizliliği ve algoritmik tarafsızlık",
+    "tags": [
+      "Yapay Zeka Etiği",
+      "Toplum",
+      "Giriş Seviyesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dk77g1xvw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka alanında 'Derin Öğrenme' kavramı hangi tür ağ yapısını kullanır?",
+    "explanation": "Derin öğrenme, çok katmanlı yapay sinir ağları kullanır ve her katmanda farklı özellikler öğrenerek karmaşık patternleri tanımlar.",
+    "options": [
+      "Düzlemsel Sinir Ağları",
+      "Çok Katmanlı Algılma Ağları (Neural Network)",
+      "Tek Katmanlı Linear Ağlar",
+      "Basit Karar Ağları"
+    ],
+    "correctAnswer": "Çok Katmanlı Algılma Ağları (Neural Network)",
+    "tags": [
+      "derin-öğrenme",
+      "sinir-ağı",
+      "yapay-zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2tamsm9yc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Hangi yapay zeka sistemi 'Generative AI' (Üretici Yapay Zeka) kategorisine girer?",
+    "explanation": "Generative AI, mevcut verilerden yola çıkarak yeni içerikler (metin, görsel, ses, video) üreten yapay zeka sistemleridir.",
+    "options": [
+      "Sadece veri analizi yapan sistemler",
+      "Tahmin edici modeller (Predictive Models)",
+      "Yeni içerik üreten sistemler (Görsel, metin, ses)",
+      "Klasifikasyon algoritmaları"
+    ],
+    "correctAnswer": "Yeni içerik üreten sistemler (Görsel, metin, ses)",
+    "tags": [
+      "generative-ai",
+      "üretici-sistemler",
+      "yapay-zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "71z0w71l6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Yapay zeka etikinde 'Algoritmik Karşılık Verme' (Algorithmic Accountability) neyi ifade eder?",
+    "explanation": "Algoritmik Karşılık Verme, yapay zeka kararlarının nasıl alındığını açıklayabilmesi ve sorumluluk taşıyabilmesi gerekliliğidir.",
+    "options": [
+      "Sistemlerin hızlı çalışması",
+      "Karar alma süreçlerinin şeffaf ve izlenebilir olması",
+      "Veri miktarının artırılması",
+      "Sistemin karmaşık yapısı"
+    ],
+    "correctAnswer": "Karar alma süreçlerinin şeffaf ve izlenebilir olması",
+    "tags": [
+      "yapay-zeka-etik",
+      "algoritmik-karşılık-verme",
+      "şeffaflık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7awpx28sj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "NLP (Natural Language Processing) yapay zekasının temel uygulaması nedir?",
+    "explanation": "NLP, bilgisayarların insan dilini anlama, yorumlama ve üretme yeteneği sağlar (Siri, Alexa gibi sistemler).",
+    "options": [
+      "Sesli asistanlar ve dil işleme",
+      "Görsel tanımlama sistemleri",
+      "Robotik kontrol mekanizmaları",
+      "Veritabanı optimizasyonu"
+    ],
+    "correctAnswer": "Sesli asistanlar ve dil işleme",
+    "tags": [
+      "nlp",
+      "doğal-dil-işleme",
+      "yapay-zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qjpdxg4k2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka modellerinde 'Transfer Learning' neyi ifade eder?",
+    "explanation": "Transfer Learning, önceden eğitilmiş bir modelin yeni görevlerde daha az veriyle hızlı öğrenmesini sağlar.",
+    "options": [
+      "İki farklı veritabanı arasında veri aktarımı",
+      "Bir modelin öğrenilen bilgilerini yeni görevlere uyarlaması",
+      "Veri setinin tamamının silinmesi",
+      "Sistemin yeniden başlatılması"
+    ],
+    "correctAnswer": "Bir modelin öğrenilen bilgilerini yeni görevlere uyarlaması",
+    "tags": [
+      "transfer-learning",
+      "derin-öğrenme",
+      "yapay-zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lp82ut5hy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Yapay Zeka (YZ) nedir?",
+    "explanation": "Yapay Zeka, bilgisayar sistemlerinin insan zekasına benzer şekilde düşünüp karar verebilmesi için tasarlandığı bir alandır. Görüntü işleme, veri analizi ve fiziksel robotlar bu alanın alt kategorileridir.",
+    "options": [
+      "Yapay zekâ, insan benzeri davranışlar sergileyen bilgisayar sistemlerinin oluşturulmasıdır",
+      "Yapay zekâ, sadece görüntü işleme yapabilen bir yazılımdır",
+      "Yapay zekâ, yalnızca veri analizi yapan bir tablodur",
+      "Yapay zekâ, fiziksel robotların üretimidir"
+    ],
+    "correctAnswer": "Yapay zekâ, insan benzeri davranışlar sergileyen bilgisayar sistemlerinin oluşturulmasıdır",
+    "tags": [
+      "temel",
+      "tanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y77x2u3vs",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay Zeka'da 'Derin Öğrenme' (Deep Learning) nedir?",
+    "explanation": "Derin Öğrenme, makine öğrenmesinin alt kümesidir ve çok katmanlı yapay sinir ağları kullanarak karmaşık örüntüleri öğrenebilir. Görüntü tanıma, doğal dil işleme gibi birçok alanda kullanılır.",
+    "options": [
+      "Makine öğrenmesinin en gelişmiş formu, çok katmanlı yapay sinir ağları kullanır",
+      "Basit bir veri tabanı sorgulama yöntemidir",
+      "Yalnızca doğal dil işleme için kullanılan bir algoritmadır",
+      "Sadece görüntü tanıma için kısıtlı bir yazılımdır"
+    ],
+    "correctAnswer": "Makine öğrenmesinin en gelişmiş formu, çok katmanlı yapay sinir ağları kullanır",
+    "tags": [
+      "algoritmalar",
+      "derin-öğrenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tz8wihjwl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi Yaptır Zeka'nın etik endişeleri arasında yer almaz?",
+    "explanation": "Yapay Zeka'nın etik endişeleri arasında algoritmik ayrımcılık, veri gizliliği ve istihdam değişiklikleri yer alır. Bilgisayarların kendi kendine enerji üretmesi şu anda teknolojik olarak mümkün değildir.",
+    "options": [
+      "Yanlıs veri setleri nedeniyle algoritmik ayrımcılık",
+      "Gizlilik ve veri güvenliği sorunları",
+      "İstihdam alanındaki değişiklikler",
+      "Bilgisayarın kendi kendine enerji üretmesi"
+    ],
+    "correctAnswer": "Bilgisayarın kendi kendine enerji üretmesi",
+    "tags": [
+      "etik",
+      "sosyal-sorunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mdfiv6mxx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "NLP (Doğal Dil İşleme) nedir?",
+    "explanation": "NLP (Natural Language Processing), bilgisayarların insan dili anlamasını, yorumlayabilmesini ve üretmesini sağlayan yapay zeka alanıdır. Siri, Google Assistant gibi asistanlar NLP kullanır.",
+    "options": [
+      "Bilgisayarın insan dilini anlayıp cevap verebilmesini sağlayan alan",
+      "Sadece ses tanıma teknolojisi",
+      "Veri tabanı yönetim sistemi",
+      "Görüntü işleme algoritması"
+    ],
+    "correctAnswer": "Bilgisayarın insan dilini anlayıp cevap verebilmesini sağlayan alan",
+    "tags": [
+      "nlp",
+      "dil-işleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i5xd7zwqg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Hangi Yaptır Zeka teknolojisi görüntü tanıma için kullanılır?",
+    "explanation": "Convolutional Neural Networks (CNN), görüntü işleme ve tanıma için özel olarak tasarlanmış derin öğrenme mimarisidir. Linear Regression, Decision Trees ve K-Means farklı amaçlar için kullanılır.",
+    "options": [
+      "Convolutional Neural Networks (CNN)",
+      "Linear Regression",
+      "Decision Trees",
+      "K-Means Clustering"
+    ],
+    "correctAnswer": "Convolutional Neural Networks (CNN)",
+    "tags": [
+      "derin-öğrenme",
+      "görüntü-işleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2fqpgki1p",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Yapay zeka nedir?",
+    "explanation": "Yapay zeka, bilgisayar sistemlerinin insan düşüncesi ve davranışı gibi işlevleri taklit etmesini sağlayan bir teknolojidir.",
+    "options": [
+      "Bilgisayarların insan benzeri zekâ yeteneklerini taklit etmesidir.",
+      "Sadece robotlar için geliştirilen bir teknolojidir.",
+      "İnsanları bilgisayar kullanmaya zorlayan bir sistemdir.",
+      "Verileri silmek için kullanılan bir yazılımdır."
+    ],
+    "correctAnswer": "Bilgisayarların insan benzeri zekâ yeteneklerini taklit etmesidir.",
+    "tags": [
+      "yapay-zeka",
+      "tanım",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1iue8el2e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Hangi yapay zeka modeli daha gelişmiştir?",
+    "explanation": "AGI (Artificial General Intelligence), tüm insan zekâ alanlarında yetkin olan en gelişmiş yapay zeka modelidir.",
+    "options": [
+      "Gelişmiş Yapay Zeka (AGI)",
+      "Basit Yapay Zeka (NAI)",
+      "Sınırlandırılmış Yapay Zeka (ANI)",
+      "Yoktan Yapay Zeka (ZERO)"
+    ],
+    "correctAnswer": "Gelişmiş Yapay Zeka (AGI)",
+    "tags": [
+      "yapay-zeka",
+      "modeller",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lslkz0f2i",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zekanın sağlık alanında hangi kullanımından biri YANLIŞTIR?",
+    "explanation": "Yapay zeka sadece veri saklamak değil, hastalık teşhisi ve analiz de yapabilir.",
+    "options": [
+      "Hastalık teşhisi koyma",
+      "İlaç geliştirme",
+      "Sadece veri saklama",
+      "Klinik karar destek sistemi"
+    ],
+    "correctAnswer": "Sadece veri saklama",
+    "tags": [
+      "yapay-zeka",
+      "sağlık",
+      "kullanım-alanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "12cckd2ex",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Derin Öğrenme (Deep Learning) nedir?",
+    "explanation": "Derin öğrenme, yapay zekanın makine öğrenmesinin daha gelişmiş bir alt dalıdır ve sinir ağları kullanır.",
+    "options": [
+      "Makine öğrenmesinin alt kümesidir.",
+      "Sadece yazılım geliştirme için kullanılır.",
+      "İnsanları eğitmek için kullanılır.",
+      "Verileri şifrelemek içindir."
+    ],
+    "correctAnswer": "Makine öğrenmesinin alt kümesidir.",
+    "tags": [
+      "yapay-zeka",
+      "derin-öğrenme",
+      "makine-öğrenmesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gir1jnmsd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka etiği ile ilgili aşağıdakilerden hangisi doğru?",
+    "explanation": "Yapay zekâ algoritmalarında önyargı oluşabilir ve bu adalet sorunlarına yol açabilir.",
+    "options": [
+      "Sadece teknoloji şirketleri sorumludur.",
+      "Algoritmik önyargı sorun olabilir.",
+      "Her zaman insan çıkarını güder.",
+      "Veri güvenliği önemsizdir."
+    ],
+    "correctAnswer": "Algoritmik önyargı sorun olabilir.",
+    "tags": [
+      "yapay-zeka",
+      "etik",
+      "sorunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xe4qlzk1u",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Yapay zeka sistemlerinin çalışmasını sağlayan temel veri nedir?",
+    "explanation": "Yapay zeka sistemleri, öğrenme ve karar verme yeteneklerini geliştirmek için büyük miktarda veriye ihtiyaç duyar. Büyük veri (Big Data), yapay zekanın temel çalışma kaynağıdır.",
+    "options": [
+      "Küçük veri setleri",
+      "Büyük veri (Big Data)",
+      "Görsel sanatlar",
+      "Mekanik parçalar"
+    ],
+    "correctAnswer": "Büyük veri (Big Data)",
+    "tags": [
+      "yapay-zeka",
+      "veri",
+      "temel-kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i2ofavny6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Hangi yapay zeka türü insanlarla etkileşime girerek sohbet edebilir?",
+    "explanation": "Sanal asistanlar ve chatbotlar, doğal dil işleme (NLP) teknolojisi kullanarak insanlarla sohbet edebilir, sorulara cevap verebilir ve görevleri tamamlayabilir.",
+    "options": [
+      "Nesnel robotlar",
+      "Sanal asistanlar (Chatbot)",
+      "Otomatik yazıcılar",
+      "Basit hesap makineleri"
+    ],
+    "correctAnswer": "Sanal asistanlar (Chatbot)",
+    "tags": [
+      "yapay-zeka",
+      "chatbot",
+      "etkileşim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qcpl4i3gq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka algoritmalarında kullanılan 'Derin Öğrenme' neye dayanır?",
+    "explanation": "Derin öğrenme, çok katmanlı yapay sinir ağları (neural networks) kullanılarak geliştirilir. Bu sistemler karmaşık örüntüleri algılayabilir ve öğrenebilir.",
+    "options": [
+      "Geleneksel istatistik",
+      "Sinir ağları (Neural Networks)",
+      "Mekanik hesaplamalar",
+      "El yazması veriler"
+    ],
+    "correctAnswer": "Sinir ağları (Neural Networks)",
+    "tags": [
+      "yapay-zeka",
+      "derin-ogrenme",
+      "sinir-aglari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ynvxlceg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Hangi teknoloji, yapay zeka görsel işleme yeteneğini sağlar?",
+    "explanation": "Bilgisayarlı gör teknolojisi, yapay zekanın görselleri işleyebilmesini, nesneleri tanıyabilmesini ve videolardan bilgi çıkarabilmesini sağlar.",
+    "options": [
+      "Bilgisayarlı gör (Computer Vision)",
+      "Veri tabanı",
+      "Mekanik armatürler",
+      "Elektrik devreleri"
+    ],
+    "correctAnswer": "Bilgisayarlı gör (Computer Vision)",
+    "tags": [
+      "yapay-zeka",
+      "bilgisayarli-gor",
+      "gorsel-isleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r3hfsa2et",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Yapay zeka etiği kapsamında aşağıdakilerden hangisi önemli bir konudur?",
+    "explanation": "Yapay zeka etiğinde algısal önyargılar, sistemlerin belirli gruplara karşı ayrımcılık yapma riskini oluşturur. Bu nedenle veri setlerinin dengeli olması ve şeffaf algoritmalar geliştirilmesi kritiktir.",
+    "options": [
+      "Algısal önyargı (Bias)",
+      "Mekanik hız",
+      "Elektrik tüketimi",
+      "Fiziksel boyut"
+    ],
+    "correctAnswer": "Algısal önyargı (Bias)",
+    "tags": [
+      "yapay-zeka",
+      "etik",
+      "oyun-bias"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pnbgux2hi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EASY",
+    "question": "Yapay zekânın temel amacı nedir?",
+    "explanation": "Yapay zeka (AI), insan zekasını taklit eden makine sistemlerinin geliştirilmesidir.",
+    "options": [
+      "Doğal zeka süreçlerini taklit etmek",
+      "Sadece veri saklamak",
+      "İnsanları değiştirmek",
+      "Fiziksel gücü artırmak"
+    ],
+    "correctAnswer": "Doğal zeka süreçlerini taklit etmek",
+    "tags": [
+      "temel",
+      "tanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebokk4rhs",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Makine öğrenmesi ve derin öğrenme arasındaki ilişki nasıldır?",
+    "explanation": "Derin öğrenme, makine öğrenmesi tekniklerinin önde gelen ve en başarılı bir alt dalıdır.",
+    "options": [
+      "Karşılıklı bağımsızdırlar",
+      "Derin öğrenme makine öğrenmesinin bir alt kümesidir",
+      "Makine öğrenmesi derin öğrenmenin bir alt kümesidir",
+      "Aynı şeydir"
+    ],
+    "correctAnswer": "Derin öğrenme makine öğrenmesinin bir alt kümesidir",
+    "tags": [
+      "algoritma",
+      "tipler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y1lkem8we",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "GENERAL",
+    "question": "Doğal Dil İşleme (NLP) teknolojisi aşağıdakilerden hangisinde kullanılır?",
+    "explanation": "NLP, makinelerin insan dilini anlama ve üretme yeteneğini sağlar, bu yüzden Siri veya Google Çeviri'de kullanılır.",
+    "options": [
+      "Sadece matematiksel hesaplamalar",
+      "Sadece görsel analiz",
+      "Sesli asistanlar ve çeviri sistemleri",
+      "Fiziksel robot kontrolleri"
+    ],
+    "correctAnswer": "Sesli asistanlar ve çeviri sistemleri",
+    "tags": [
+      "NLP",
+      "uygulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j5pcdutqg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "\"Transformer\" mimarisi yapay zeka tarihinde hangi alanda büyük bir devrim yaratmıştır?",
+    "explanation": "Transformer mimarisi, GPT gibi büyük dil modellerinin temelini oluşturarak üretken AI'ı güçlendirmiştir.",
+    "options": [
+      "Güvenlik siber koruması",
+      "Üretken yapay zeka ve Büyük Dil Modelleri",
+      "Veritabanı yönetimi",
+      "Blockchain şifreleme"
+    ],
+    "correctAnswer": "Üretken yapay zeka ve Büyük Dil Modelleri",
+    "tags": [
+      "mimari",
+      "LLM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3hghgnlqv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Yapay Zekâ",
+    "difficulty": "EXPERT",
+    "question": "Yapay zeka sistemlerindeki \"önyargı\" (bias) sorunu nereden kaynaklanır?",
+    "explanation": "AI modelleri eğitildikleri verideki önyargıları öğrenerek sonuçlarında tekrar eder.",
+    "options": [
+      "Sadece donanımsal hatalardan",
+      "Veri setlerindeki dengesizlik ve eğitimden",
+      "Yazılımcının kişisel tercihlerinden bağımsızdır",
+      "Makinenin rastgele seçim yapmasından"
+    ],
+    "correctAnswer": "Veri setlerindeki dengesizlik ve eğitimden",
+    "tags": [
+      "etik",
+      "riskler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

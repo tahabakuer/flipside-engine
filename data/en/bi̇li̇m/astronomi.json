@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "xrb7n78bi",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Dünya'nın Güneş etrafında tam bir turunu kaç günde tamamladığına ne ad verilir?",
+    "explanation": "Dünya'nın Güneş etrafında tam bir devri (365 gün 6 saat) 'Güneş yılı' olarak adlandırılır. Ay yılı ise Dünya-Ay-Sembol sistemiyle hesaplanır.",
+    "options": [
+      "Ay yılı",
+      "Güneş yılı",
+      "Havza yılı",
+      "Mevsim yılı"
+    ],
+    "correctAnswer": "Güneş yılı",
+    "tags": [
+      "astronomi",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c4z9hb74q",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki yıldızlardan hangisi bize en yakın olan yıldız sistemidir?",
+    "explanation": "Proxima Centauri, Güneş'e en yakın yıldızdır ve yaklaşık 4.24 ışık yılı uzaklıktadır.",
+    "options": [
+      "Sirius",
+      "Proxima Centauri",
+      "Vega",
+      "Betelgeuse"
+    ],
+    "correctAnswer": "Proxima Centauri",
+    "tags": [
+      "astronomi",
+      "yıldız"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ti7gya6tq",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Güneş'in çekirdeğinde gerçekleşen nükleer füzyon sonucu hangi element oluşur?",
+    "explanation": "Güneş'in çekirdeğinde hidrojen nükleer füzyonu sonucunda helyum elementi oluşur.",
+    "options": [
+      "Helyum",
+      "Karbon",
+      "Oksijen",
+      "Azot"
+    ],
+    "correctAnswer": "Helyum",
+    "tags": [
+      "astronomi",
+      "güneş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rrymbntyd",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Galaksilerimizin merkezinde yer alan ve devasa kütleli cisimlere ne ad verilir?",
+    "explanation": "Süpernova patlamaları veya yıldızların çökmesi sonucu galaksilerin merkezlerinde kara delikler bulunur.",
+    "options": [
+      "Kara delik",
+      "Nötron yıldızı",
+      "Beyaz cüce",
+      "Güneş"
+    ],
+    "correctAnswer": "Kara delik",
+    "tags": [
+      "astronomi",
+      "galaksi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lwg9tcezt",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki astronomik cisimlerden hangisi kendi etrafında dönmeyen ve Güneş'in çekirdeğinde bulunan gazlardan oluşur?",
+    "explanation": "Jüpiter, Güneş sistemindeki en büyük gezegendir ve kendi etrafında döner.",
+    "options": [
+      "Mars",
+      "Jüpiter",
+      "Satürn",
+      "Dünya"
+    ],
+    "correctAnswer": "Jüpiter",
+    "tags": [
+      "astronomi",
+      "gezegen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ca2a9vv7y",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+    "explanation": "Jüpiter, Güneş Sistemi'ndeki en büyük gezegendir ve kütlesi diğer tüm gezegenlerin toplam kütlelerinden daha fazladır.",
+    "options": [
+      "Dünya",
+      "Jüpiter",
+      "Satürn",
+      "Mars"
+    ],
+    "correctAnswer": "Jüpiter",
+    "tags": [
+      "gezegensiz",
+      "güneş_sistemi",
+      "astronomi_basit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hp621553a",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Işığın Dünya ile Ay arasında geçiş süresi yaklaşık olarak ne kadardır?",
+    "explanation": "Işığın Güneş'ten Dünya'ya ulaşması yaklaşık 8.3 dakika sürer, bu da Güneş Sistemi'nin boyutunu gösterir.",
+    "options": [
+      "1.3 saniye",
+      "8.3 dakika",
+      "1 saat",
+      "24 saat"
+    ],
+    "correctAnswer": "8.3 dakika",
+    "tags": [
+      "ışık_sihir",
+      "ay_güneş",
+      "astronomi_orta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ldl1l49k",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Hangi yıldızın adı 'Kırmızı Dev' olarak bilinir?",
+    "explanation": "Betelgeuse, Takım Yıldızı'nın bir parçası olan ve aşırı genişlemiş kırmızı dev yıldızıdır.",
+    "options": [
+      "Proxima Centauri",
+      "Sirius",
+      "Betelgeuse",
+      "Vega"
+    ],
+    "correctAnswer": "Betelgeuse",
+    "tags": [
+      "yıldızlar",
+      "kırmızı_dev",
+      "astronomi_ileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kutmgqweb",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Güneş'in merkezindeki sıcaklık yaklaşık olarak ne kadardır?",
+    "explanation": "Güneş'in çekirdeği yaklaşık 15 milyon derece Celsius sıcaklığına sahiptir ve nükleer füzyon gerçekleşir.",
+    "options": [
+      "5.800°C",
+      "15.700.000°C",
+      "30.200.000°C",
+      "10.000°C"
+    ],
+    "correctAnswer": "15.700.000°C",
+    "tags": [
+      "güneş_fizik",
+      "sıcaklık",
+      "astronomi_ileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tzoppe58i",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangi astronomik olayda 'Karanlık Yıl' olarak adlandırılır?",
+    "explanation": "Ay Tutulması sırasında Ay'ın Dünya'nın gölgesine girmesi ve karanlıklaşması gerçekleşir.",
+    "options": [
+      "Güneş Tutulması",
+      "Ay Tutulması",
+      "Yıldız Tutulması",
+      "Kara Delik"
+    ],
+    "correctAnswer": "Ay Tutulması",
+    "tags": [
+      "tutulma",
+      "ay_güneş",
+      "astronomi_orta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ipchoteqw",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Güneş sisteminin en büyük gezegeni hangisidir?",
+    "explanation": "Jüpiter, Güneş sistemindeki tüm gezegenlerin toplam kütlelerinden yaklaşık 2.5 katına eşit olup en büyük gezegendir.",
+    "options": [
+      "Dünya",
+      "Mars",
+      "Jüpiter",
+      "Satürn"
+    ],
+    "correctAnswer": "Jüpiter",
+    "tags": [
+      "Astronomi",
+      "Güneş Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "945g72q0a",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Karanlık madde Nedir?",
+    "explanation": "Karanlık madde, elektromanyetik radyasyon ile etkileşmediği için görünmez ancak kütleçekimsel etkileri gözlemlenebilen hipotetik bir maddedir.",
+    "options": [
+      "Yeraltı suyu",
+      "Görünmeyen ve çekim etkisi olan madde",
+      "Uzaydaki yıldız tozu",
+      "Kozmik ışınlar"
+    ],
+    "correctAnswer": "Görünmeyen ve çekim etkisi olan madde",
+    "tags": [
+      "Astronomi",
+      "Karanlık Madde"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "awns9pl5q",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Andromeda Galaksisi bizim galaksimizle kaç yıl içinde çarpışması beklenmektedir?",
+    "explanation": "Andromeda Galaksisi ile Samanyolu yaklaşık 4.5-5 milyar yıl içinde çarpışıp birleşmesi beklenmektedir.",
+    "options": [
+      "200 milyon",
+      "4.5 milyar",
+      "8 milyar",
+      "13 milyar"
+    ],
+    "correctAnswer": "4.5 milyar",
+    "tags": [
+      "Astronomi",
+      "Galaksi Çarpışması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lwvp8vuzh",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Kırmızıya kayma Nedir?",
+    "explanation": "Kırmızıya kayma, evrenin genişlemesi sonucu uzak cisimlerden gelen ışığın dalga boyunun uzamasını ifade eder ve Hubble yasası ile ilişkilidir.",
+    "options": [
+      "Yıldızların renginin kırmızılaşması",
+      "Uzaktaki galaksilerin ışığının dalga boyunun uzaması",
+      "Güneşin iç sıcaklığına yükselmesi",
+      "Ay'ın hareketiyle ilgili bir olay"
+    ],
+    "correctAnswer": "Uzaktaki galaksilerin ışığının dalga boyunun uzaması",
+    "tags": [
+      "Astronomi",
+      "Kozmoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "grf5d31va",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Nötron yıldızları nasıl oluşur?",
+    "explanation": "Nötron yıldızları, 8-20 Güneş kütlesi arası yıldızlar son evrelerinde çekirdeklerinin çökmesiyle oluşur ve yoğunluğu çok yüksektir.",
+    "options": [
+      "Büyük patlama sırasında",
+      "Orta kütleli yıldızların çekirdek çökmesi",
+      "Güneş benzeri yıldızlar normal sona ererken",
+      "Siyah deliklerden kaçan madde"
+    ],
+    "correctAnswer": "Orta kütleli yıldızların çekirdek çökmesi",
+    "tags": [
+      "Astronomi",
+      "Nötron Yıldızı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ochwmzpej",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Hangi gök cismi Güneş'in etrafında en hızlı döner?",
+    "explanation": "Dünya, Güneş'in etrafında 8 dakika içinde en hızlı hızda döner ve bu da o zamana kadar keşfedilen en yüksek hızla gerçekleşen bir dördür.",
+    "options": [
+      "Dünya",
+      "Mars",
+      "Jüpiter",
+      "Venüs"
+    ],
+    "correctAnswer": "Dünya",
+    "tags": [
+      "Astronomi",
+      "Güneş Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9rgzx22nt",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıldız sistemi Dünya'nın evrensel merkezi olarak kabul edilir?",
+    "explanation": "Antik çağdan beri insanlar, Güneş'in etrafında Dünya'nın döndüğünü ve bunun evrenin merkezini oluşturduğunu düşündüler.",
+    "options": [
+      "Andromeda",
+      "Kıyafet Galaksisi",
+      "Güneş Sistemi",
+      "Dünya Galaksisi"
+    ],
+    "correctAnswer": "Güneş Sistemi",
+    "tags": [
+      "Astronomi",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ojsc9uw5",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangi teleskop uzaydaki en uzak galaksileri görebilir?",
+    "explanation": "James Webb Uzay Teleskopu, Hubble'dan 10 kat daha güçlüdür ve uzaktaki en eski yıldızları görebilir.",
+    "options": [
+      "Hubble Uzay Teleskopu",
+      "James Webb Uzay Teleskopu",
+      "Kepler Teleskopu",
+      "Spitzer Uzay Teleskopu"
+    ],
+    "correctAnswer": "James Webb Uzay Teleskopu",
+    "tags": [
+      "Astronomi",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l9i5bd4yc",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Hangi gezegenin yüzeyinde su buzları bulunur?",
+    "explanation": "Dünya'nın kutup bölgelerinde ve denizlerinde su buzları bulunur, ancak Mars'ta da küçük miktarlarda buzlar vardır.",
+    "options": [
+      "Mars",
+      "Dünya",
+      "Jüpiter",
+      "Satürn"
+    ],
+    "correctAnswer": "Dünya",
+    "tags": [
+      "Astronomi",
+      "Jeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mjjbhc404",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangi galaksi bizim evrenin merkezini oluşturur?",
+    "explanation": "Milky Way, bizim evrenin merkezini oluşturur ve yaklaşık 100.000 ışık yılı büyüklüğündedir.",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Triangulum",
+      "Sombrero"
+    ],
+    "correctAnswer": "Milky Way",
+    "tags": [
+      "Astronomi",
+      "Galaksiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hzab6s80m",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+    "explanation": "Jüpiter, Güneş Sistemi'ndeki en büyük gezegendir ve kütlesi diğer tüm gezegenlerin toplam kütlesinden bile fazladır.",
+    "options": [
+      "Dünya",
+      "Jüpiter",
+      "Satürn",
+      "Mars"
+    ],
+    "correctAnswer": "Jüpiter",
+    "tags": [
+      "Astronomi",
+      "Güneş Sistemi",
+      "Gezegenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdarsjajg",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Kırmızı dev yıldızlar hangi aşamada bulunurlar?",
+    "explanation": "Kırmızı devler, yıldızların hidrojen yakıtını tükettikten sonra aşırı kütle kaybetmeye başladıkları ve genişleyen evredir.",
+    "options": [
+      "Göreceli gençlik",
+      "Hidrojen yakan ana evre",
+      "Milyarlarca yıl sonra kütle kaybı",
+      "Yıldızın ömrünün sonu"
+    ],
+    "correctAnswer": "Milyarlarca yıl sonra kütle kaybı",
+    "tags": [
+      "Astronomi",
+      "Yıldızlar",
+      "Gelişim Döngüsü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jhaiedk7w",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangi bilimsel araç ışık hızında uzak gezegenleri inceler?",
+    "explanation": "Teleskoplar, ışık hızında gelen uzaktaki cisimleri gözlemlemek ve detaylı görüntüler almak için kullanılır.",
+    "options": [
+      "Teleskop",
+      "Radyo teleskobu",
+      "Uzay sondası",
+      "Spektroskop"
+    ],
+    "correctAnswer": "Teleskop",
+    "tags": [
+      "Astronomi",
+      "Gözlem Araçları",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9tk7cucu5",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Ay tutulması hangi zaman diliminde gerçekleşir?",
+    "explanation": "Ay tutulması, Ay'ın Dünya'nın gölgesine girdiği ve Güneş ışığının Dünya'dan geçerken engellenmesiyle gerçekleşir.",
+    "options": [
+      "Güneş ile Dünya arasında",
+      "Dünya'nın gölgeli kısmında",
+      "Aylar geçtikten sonra",
+      "Uydu hareketi"
+    ],
+    "correctAnswer": "Dünya'nın gölgeli kısmında",
+    "tags": [
+      "Astronomi",
+      "Ay Tutulması",
+      "Gökyüzü Olayları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t2bk1e5ij",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangi galaksi kuzey yarımküredeki en yakın büyük galaksidir?",
+    "explanation": "Andromeda Galaksisi, Samanyolu'ndan yaklaşık 2.5 milyon ışık yılı uzaklıktadır ve en yakın büyük galaksidir.",
+    "options": [
+      "Andromeda",
+      "Samanyolu",
+      "Triangulum",
+      "Milky Way"
+    ],
+    "correctAnswer": "Andromeda",
+    "tags": [
+      "Astronomi",
+      "Galaksiler",
+      "Uzay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "76q5kioe6",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+    "explanation": "Jüpiter, Güneş Sistemi'nin en büyük gezegenidir ve kütlesi diğer tüm gezegenlerin toplamından bile büyüktür.",
+    "options": [
+      "Dünya",
+      "Mars",
+      "Jüpiter",
+      "Satürn"
+    ],
+    "correctAnswer": "Jüpiter",
+    "tags": [
+      "Gezegenler",
+      "Güneş Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r2emaqgnz",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Ay'ın Dünya etrafındaki dolanma süresi yaklaşık kaç gündür?",
+    "explanation": "Ay, Dünya etrafında yaklaşık 29.5 günde dolanır ve bu süre ayın evrelerini belirler.",
+    "options": [
+      "7 gün",
+      "29.5 gün",
+      "365 gün",
+      "400 gün"
+    ],
+    "correctAnswer": "29.5 gün",
+    "tags": [
+      "Ay",
+      "Dolanma Süresi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kgju43zml",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangisi bir yıldızdır?",
+    "explanation": "Proxima Centauri, Güneş'e en yakın yıldızdır ve bir kırmızı cüce yıldızdır.",
+    "options": [
+      "Uranüs",
+      "Proxima Centauri",
+      "Plüton",
+      "Neptün"
+    ],
+    "correctAnswer": "Proxima Centauri",
+    "tags": [
+      "Yıldızlar",
+      "Kırmızı Cüce"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j2lpsmhvt",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Güneş'in çekirdeğinde gerçekleşen füzyon sonucu hangi parçacık açığa çıkar?",
+    "explanation": "Güneş'in çekirdeğinde hidrojen füzyonu sırasında enerji fotonları (ışık) olarak açığa çıkar.",
+    "options": [
+      "Elektron",
+      "Proton",
+      "Nötron",
+      "Foton"
+    ],
+    "correctAnswer": "Foton",
+    "tags": [
+      "Güneş",
+      "Nükleer Füzyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8h6zjl7ar",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangisi bir gök cisim değil?",
+    "explanation": "Radyo dalga bir elektromanyetik radyasyon türüdür, gök cismi değildir.",
+    "options": [
+      "Galaksi",
+      "Kuyruklu Yıldız",
+      "Meteor",
+      "Radyo Dalga"
+    ],
+    "correctAnswer": "Radyo Dalga",
+    "tags": [
+      "Gök Cisimleri",
+      "Elektromanyetik Dalgalarda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "haa1ruw8l",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+    "explanation": "Jüpiter, Güneş Sistemi'nin en büyük gezegenidir ve kütlesi diğer tüm gezegenlerin toplam kütlesinden daha büyüktür.",
+    "options": [
+      "Dünya",
+      "Mars",
+      "Jüpiter",
+      "Satürn"
+    ],
+    "correctAnswer": "Jüpiter",
+    "tags": [
+      "Gezegenler",
+      "Güneş Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2uofvm4iz",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Astronomide 'paralaks' yöntemini kullanarak hangi uzaklık ölçülebilir?",
+    "explanation": "Paralaks yöntemi, Dünya'nın Güneş etrafındaki hareketi sırasında yıldızların pozisyonundaki değişimi kullanılarak güneş sistemi içindeki uzaklıklar ölçülür.",
+    "options": [
+      "Yıldızlararası mesafeler",
+      "Güneş Sistemi içi mesafeler",
+      "Galaksiler arası mesafeler",
+      "Karanlık maddelerin dağılımı"
+    ],
+    "correctAnswer": "Güneş Sistemi içi mesafeler",
+    "tags": [
+      "Astronomik Yöntemler",
+      "Mesafe Ölçümü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1yycshppu",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangi astronomik olayda bir gezegen Güneş'in tam karşısına geçer?",
+    "explanation": "Konjüksiyon, bir gezegenin Güneş'e göre gökyüzündeki konumu olarak tanımlanır. Gezegenin Güneş'in tam karşısına geçmesi transit (geçiş) olayıdır.",
+    "options": [
+      "Yıldız tutulması",
+      "Ayl tutulması",
+      "Dönüş",
+      "Konjüksiyon"
+    ],
+    "correctAnswer": "Konjüksiyon",
+    "tags": [
+      "Göktutulumlar",
+      "Gezegen Hareketleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cwl3y7lhj",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Hangi yıldız türü en sıcak ve parlak yıldızlardır?",
+    "explanation": "Mavi dev yıldızları, O ve B spektral sınıflarına ait olup çok yüksek yüzey sıcaklığına (10.000-50.000 K) ve parlaklığa sahiptir.",
+    "options": [
+      "Kırmızı cüce",
+      "Beyaz cüce",
+      "Mavi dev",
+      "Mor süperdev"
+    ],
+    "correctAnswer": "Mavi dev",
+    "tags": [
+      "Yıldız Türleri",
+      "Spektrum Sınıflandırması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mqwwmc9aw",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Güneş'in yerçekimi alanındaki sapma hangi olayla açıklanır?",
+    "explanation": "Einstein'ın Genel Görelilik Teorisi'ne göre, Güneş'in yerçekimi alanındaki ışık sapması 1919 yılında gözlemlenmiş ve Einstein teorisini doğrulamıştır.",
+    "options": [
+      "Karanlık madde",
+      "Görelilikçil sapma",
+      "Zaman genişlemesi",
+      "Kozmik ışınlar"
+    ],
+    "correctAnswer": "Görelilikçil sapma",
+    "tags": [
+      "Genel Görelilik",
+      "Yıldız Yerçekimi Sapması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q622u4se3",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "What is the largest planet in our solar system?",
+    "explanation": "Jupiter is the largest planet in our solar system with a diameter of approximately 142,984 km and more than twice the mass of all other planets combined.",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswer": "Jupiter",
+    "tags": [
+      "Solar System",
+      "Planets"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "986ocehs9",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "What does astronomy primarily study?",
+    "explanation": "Astronomy focuses on observing and understanding celestial bodies like stars, planets, galaxies, and cosmic events, distinct from astrology or practical space exploration.",
+    "options": [
+      "Life on other planets",
+      "Celestial objects and space phenomena",
+      "Space travel technologies",
+      "Astrological predictions"
+    ],
+    "correctAnswer": "Celestial objects and space phenomena",
+    "tags": [
+      "Basics",
+      "Definitions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4pnmk8263",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "How many natural moons orbit the Earth?",
+    "explanation": "Earth has exactly one natural satellite, commonly known as the Moon, which significantly influences tides and has co-evolved with Earth.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "Solar System",
+      "Moons"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0dd80ldnr",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "What causes day and night on Earth?",
+    "explanation": "Day and night occur due to Earth rotating on its axis every 24 hours, while its orbit around the Sun causes seasonal changes.",
+    "options": [
+      "Earth's orbit around the Sun",
+      "Moon's phases",
+      "Earth's rotation on its axis",
+      "Tilt of Earth's axis"
+    ],
+    "correctAnswer": "Earth's rotation on its axis",
+    "tags": [
+      "Earth",
+      "Rotation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n8q7695bc",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Which space telescope was launched in December 2021?",
+    "explanation": "The James Webb Space Telescope (JWST) launched in December 2021, succeeding Hubble with advanced infrared capabilities for deep space observation.",
+    "options": [
+      "James Webb Space Telescope",
+      "Hubble Space Telescope",
+      "Chandra X-ray Observatory",
+      "Spitzer Space Telescope"
+    ],
+    "correctAnswer": "James Webb Space Telescope",
+    "tags": [
+      "Space Exploration",
+      "Telescopes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a892eufd2",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Dünya'daki en yakın gök cismi hangisidir?",
+    "explanation": "Dünya'nın en yakın gök cismi Ay'dır. Güneş ve diğer gezegenler daha uzaktadır.",
+    "options": [
+      "Güneş",
+      "Ay",
+      "Mars",
+      "Venüs"
+    ],
+    "correctAnswer": "Ay",
+    "tags": [
+      "Astronomi",
+      "Gök Cisimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z6hfup2gx",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Güneş Sistemi'nde en büyük gezegen hangisidir?",
+    "explanation": "Jüpiter, Güneş Sistemi'ndeki en büyük gezegendir. Kütle ve yarıçap açısından diğer gezegenlerden daha büyüktür.",
+    "options": [
+      "Mars",
+      "Jüpiter",
+      "Venüs",
+      "Uranüs"
+    ],
+    "correctAnswer": "Jüpiter",
+    "tags": [
+      "Astronomi",
+      "Gezegenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "er69lpdpn",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Yıldızların oluşumunun ilk aşamasında hangi yapıdan bahsedilir?",
+    "explanation": "Yıldızlar, büyük gaz ve toz bulutları olan nebulalardan oluşur. Protoster ise yıldızın erken evresidir, ancak oluşumun ilk aşaması nebula'dır.",
+    "options": [
+      "Protoster",
+      "Nebula",
+      "Kara delik",
+      "Pulsar"
+    ],
+    "correctAnswer": "Nebula",
+    "tags": [
+      "Astronomi",
+      "Yıldız Oluşumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z0d9cy78h",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki takımyıldızlardan hangisi Güney Yarım Küre'de bulunur?",
+    "explanation": "Centaurus Takımyıldızı Güney Yarım Küre'de konumlanmıştır. Diğer seçenekler Kuzey Yarım Küre'dedir.",
+    "options": [
+      "Orion",
+      "Centaurus",
+      "Cassiopeia",
+      "Ursa Major"
+    ],
+    "correctAnswer": "Centaurus",
+    "tags": [
+      "Astronomi",
+      "Takımyıldızlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rk0gaapdu",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Güneş'in fotosfer katmanındaki yüzey sıcaklığı yaklaşık kaç derecedir?",
+    "explanation": "Güneş'in fotosfer katmanındaki yüzey sıcaklığı yaklaşık 5500-6000°C'dir. Bu nedenle 5000°C doğru bir yaklaşımdır.",
+    "options": [
+      "3000°C",
+      "5000°C",
+      "10000°C",
+      "15000°C"
+    ],
+    "correctAnswer": "5000°C",
+    "tags": [
+      "Astronomi",
+      "Güneş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xnctcbwbd",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Güneş Sistemi'nin en büyük gezegeni ve halkalarıyla bilinen gezegen hangisidir?",
+    "explanation": "Satürn, Güneş Sistemi'nin en büyük halkalı gezegenidir ve kendi özel halkalarıyla tanınır.",
+    "options": [
+      "Dünya",
+      "Jüpiter",
+      "Satürn",
+      "Mars"
+    ],
+    "correctAnswer": "Satürn",
+    "tags": [
+      "Güneş Sistemi",
+      "Gezegenler",
+      "Astronomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y8xohxqbw",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EASY",
+    "question": "Işığın evrendeki en hızlı hızı nedir?",
+    "explanation": "Işığın evrendeki en hızlı hızı vakumda saniyede 300.000 kilometredir.",
+    "options": [
+      "300.000 km/saniye",
+      "150.000 km/saniye",
+      "600.000 km/saniye",
+      "450.000 km/saniye"
+    ],
+    "correctAnswer": "300.000 km/saniye",
+    "tags": [
+      "Fizik",
+      "Işık Hızı",
+      "Evren Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9x4hou5e6",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Kara deliklerin merkezinde bulunan nesne nedir?",
+    "explanation": "Kara deliklerin merkezinde siyah bir delik bulunur ve hiçbir şey, ışık bile içinden çıkamaz.",
+    "options": [
+      "Beyaz cüce",
+      "Siyah delik",
+      "Mavi dev",
+      "Güneş"
+    ],
+    "correctAnswer": "Siyah delik",
+    "tags": [
+      "Kara Delikler",
+      "Astrofizik",
+      "Evren"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "higg43yr8",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıldız Güneş Sistemi'nin en yakın yıldızıdır?",
+    "explanation": "Proxima Centauri, Güneş'e en yakın yıldızdır ve 4.2 ışık yılı uzaklıktadır.",
+    "options": [
+      "Proxima Centauri",
+      "Sirius",
+      "Betelgeuse",
+      "Vega"
+    ],
+    "correctAnswer": "Proxima Centauri",
+    "tags": [
+      "Yıldızlar",
+      "Güneş Sistemi",
+      "Kuzey Yıldızı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vz9mlys9h",
+    "category": "BİLİM",
+    "subcategory": "Astronomi",
+    "difficulty": "EXPERT",
+    "question": "Evrenin genişlemesi teorisini ortaya atan bilim insanı kimdir?",
+    "explanation": "Edwin Hubble, evrenin genişlediğini ilk kez gözlemleyerek bu teoriyi ortaya atmıştır.",
+    "options": [
+      "Albert Einstein",
+      "Edwin Hubble",
+      "Niels Bohr",
+      "Isaac Newton"
+    ],
+    "correctAnswer": "Edwin Hubble",
+    "tags": [
+      "Kozmoloji",
+      "Evren Teorisi",
+      "Bilim Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

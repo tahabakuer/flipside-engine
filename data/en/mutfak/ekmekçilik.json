@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "zhxkyepot",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte en yaygın kullanılan maya türü hangisidir?",
+    "explanation": "Ekmekçilikte en yaygın kullanılan maya türü kuru mayadır. Taze maya da kullanılabilir ancak saklama ve kullanım açısından kuru maya daha pratiktir.",
+    "options": [
+      "Kuru maya",
+      "Taze maya",
+      "Bira mayası",
+      "Sıvı maya"
+    ],
+    "correctAnswer": "Kuru maya",
+    "tags": [
+      "ekmekcilik",
+      "maya",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7y4ef8k94",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmek hamurunun fermente edilmesi için uygun sıcaklık aralığı nedir?",
+    "explanation": "Ekmek hamurunun ideal fermente olması için 20-25°C arası sıcaklık uygundur. Bu sıcaklık mayanın aktif çalışmasını sağlar.",
+    "options": [
+      "15-20°C",
+      "20-25°C",
+      "30-35°C",
+      "40-45°C"
+    ],
+    "correctAnswer": "20-25°C",
+    "tags": [
+      "ekmekcilik",
+      "fermentasyon",
+      "sıcaklık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0uhyqepl1",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte 'kızarmış ekmek' denilen ürün ne ile yapılır?",
+    "explanation": "Kızarmış ekmek (toast) genellikle beyaz veya tam buğday ekmeğin kızartılmasıyla yapılır.",
+    "options": [
+      "Beyaz ekmek",
+      "Tost ekmek",
+      "Dovdurmaya eklenen",
+      "Simit"
+    ],
+    "correctAnswer": "Tost ekmek",
+    "tags": [
+      "ekmekcilik",
+      "ürünler",
+      "tost"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "81ls4oe6w",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte hamurun ele yapışmaması için ne eklenir?",
+    "explanation": "Hamurun ele yapışmaması için yağ kullanılır. Yağ hamuru yumuşatır ve çalışmayı kolaylaştırır.",
+    "options": [
+      "Su",
+      "Yumurta",
+      "Yağ",
+      "Tuz"
+    ],
+    "correctAnswer": "Yağ",
+    "tags": [
+      "ekmekcilik",
+      "hamur",
+      "malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a9y0ng468",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte 'simit' yapımında en önemli malzeme nedir?",
+    "explanation": "Simit yapımında beyaz un kullanılır ve üzerine simit tozu (karanfil, tarçın gibi) eklenir.",
+    "options": [
+      "Yerli buğday",
+      "Beyaz un",
+      "Kırmızı un",
+      "Gri un"
+    ],
+    "correctAnswer": "Beyaz un",
+    "tags": [
+      "ekmekcilik",
+      "simit",
+      "malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8qxu34kj8",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte temel hamur tipi hangi malzemelerden oluşur?",
+    "explanation": "Temel ekmek hamuru dört ana malzemeden oluşur: un (protein kaynağı), su (hidrasyon), maya (fermentasyon), ve tuz (tat dengesi).",
+    "options": [
+      "Un, su, maya, tuz",
+      "Un, şeker, süt, yumurta",
+      "Mısır unu, yağı, tuz, sofra",
+      "Buğday, arpa, çavdar, yulaf"
+    ],
+    "correctAnswer": "Un, su, maya, tuz",
+    "tags": [
+      "malzeme",
+      "hamur",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fibymqare",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Mayalı ekmeklerde 'kalkma süresi' neyi ifade eder?",
+    "explanation": "Kalkma süresi, maya eklenmiş hamurun fermente olması ve şişmesi için gereken zamandır. Bu süreç ekmek kalitesini etkiler.",
+    "options": [
+      "Hamurun mayalanarak şişme işlemi",
+      "Ekmenin fırına konuluş süresi",
+      "Pirinçin pişme süresi",
+      "Unun serbest kalma süresi"
+    ],
+    "correctAnswer": "Hamurun mayalanarak şişme işlemi",
+    "tags": [
+      "fermantasyon",
+      "process",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ppd7ispu",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Fırınlanmış ekmeklerin kabuğunun renk aralığı hangisidir?",
+    "explanation": "İyi fırınlanmış ekmeklerin kabuğu altın sarısı ile koyu kahverengi arasında olmalıdır. Bu renk, doğru pişirme süresini gösterir.",
+    "options": [
+      "Altın sarısı - kahverengi",
+      "Beyaz - krem rengi",
+      "Koyu siyah - gri",
+      "Yeşil - mavi"
+    ],
+    "correctAnswer": "Altın sarısı - kahverengi",
+    "tags": [
+      "kalite",
+      "renk",
+      "fırınlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yzjqfxnim",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Sıvı maya yerine kuru maya kullanıldığında oran ne kadar değişir?",
+    "explanation": "Sıvı maya %10-20 oranında iken, kuru maya genellikle %1-3 oranında kullanılır. Kuru maya daha yoğun mayadur.",
+    "options": [
+      "Kuru maya daha az miktarda kullanılır",
+      "Kuru maya daha fazla miktarda kullanılır",
+      "Oran aynı kalır",
+      "Kuru maya hiç kullanılmaz"
+    ],
+    "correctAnswer": "Kuru maya daha az miktarda kullanılır",
+    "tags": [
+      "maya",
+      "malzeme",
+      "oran"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wxab70usc",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte 'serbest asit' analizi neyi kontrol eder?",
+    "explanation": "Serbest asit analizi, hamurun yeterince fermente olup olmadığını ve ideal pH değerine ulaşıp ulaşmadığını gösterir. Bu da ekmek kalitesi için önemlidir.",
+    "options": [
+      "Hamurun fermente olma durumunu",
+      "Ekmenin tazeliğini ve kalitesini",
+      "Fırın ısısını",
+      "Unun protein oranını"
+    ],
+    "correctAnswer": "Hamurun fermente olma durumunu",
+    "tags": [
+      "kontrol",
+      "kalite",
+      "analiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dzjg22db5",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EASY",
+    "question": "Which type of flour is most commonly used for making traditional Turkish bread (Pide)?",
+    "explanation": "All-purpose flour provides the right balance of gluten and starch needed for puffy, soft Turkish pide dough.",
+    "options": [
+      "Whole wheat flour",
+      "All-purpose flour",
+      "Semolina flour",
+      "Rye flour"
+    ],
+    "correctAnswer": "All-purpose flour",
+    "tags": [
+      "ingredients",
+      "traditional bread"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "318cuket4",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "In breadmaking, what is the primary function of yeast?",
+    "explanation": "Yeast metabolizes sugars and produces CO2 gas, which causes the dough to rise by creating air pockets.",
+    "options": [
+      "To add saltiness to the dough",
+      "To create carbon dioxide through fermentation",
+      "To improve crust color",
+      "To increase water absorption"
+    ],
+    "correctAnswer": "To create carbon dioxide through fermentation",
+    "tags": [
+      "leavening agents",
+      "fermentation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mhbje04f8",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "What is the typical temperature range for proofing bread dough before baking?",
+    "explanation": "Proofing at 25-35°C ensures optimal yeast activity without over-fermentation, allowing dough to double in size.",
+    "options": [
+      "15-20°C",
+      "25-35°C",
+      "40-50°C",
+      "60-70°C"
+    ],
+    "correctAnswer": "25-35°C",
+    "tags": [
+      "processes",
+      "temperature control"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "txw92c6ri",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Which ingredient acts as a natural preservative and enhances gluten strength in bread?",
+    "explanation": "Salt strengthens gluten bonds, controls yeast activity, and acts as a natural preservative in bread dough.",
+    "options": [
+      "Sugar",
+      "Vinegar",
+      "Salt",
+      "Oil"
+    ],
+    "correctAnswer": "Salt",
+    "tags": [
+      "ingredients",
+      "gluten development"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ilp9vuhn7",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "What is the main difference between sourdough starter and commercial yeast?",
+    "explanation": "Sourdough relies on naturally occurring wild yeast and lactic acid bacteria, unlike refined commercial yeast.",
+    "options": [
+      "Sourdough contains only sugar",
+      "Commercial yeast is alive and active",
+      "Sourdough uses natural wild yeast and bacteria, while commercial yeast is pure cultured strain",
+      "Sourdough requires no flour"
+    ],
+    "correctAnswer": "Sourdough uses natural wild yeast and bacteria, while commercial yeast is pure cultured strain",
+    "tags": [
+      "leavening agents",
+      "sourdough"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ezvlbevdz",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EASY",
+    "question": "What is the primary function of a deck oven in professional bakery?",
+    "explanation": "Deck ovens are designed with multiple stone decks to provide consistent, radiant heat essential for proper bread crust and crumb development.",
+    "options": [
+      "A) Bake pastries quickly",
+      "B) Provide even heat for bread",
+      "C) Steam injection only",
+      "D) Control humidity"
+    ],
+    "correctAnswer": "B) Provide even heat for bread",
+    "tags": [
+      "equipment",
+      "baking techniques"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "njyra9j92",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Which ingredient is most critical in determining the hydration level of a dough?",
+    "explanation": "Hydration percentage is calculated based on water weight relative to flour, directly impacting dough texture and handling.",
+    "options": [
+      "A) Flour type",
+      "B) Water content",
+      "C) Salt amount",
+      "D) Yeast quantity"
+    ],
+    "correctAnswer": "B) Water content",
+    "tags": [
+      "ingredients",
+      "dough science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32h722138",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "During the baking process, at what stage should final shaping be performed?",
+    "explanation": "Shaping occurs after bulk fermentation to allow the dough to relax and rise again during proofing, ensuring proper volume and texture.",
+    "options": [
+      "A) Before bulk fermentation",
+      "B) After bulk fermentation but before proofing",
+      "C) After oven spring",
+      "D) Immediately after mixing"
+    ],
+    "correctAnswer": "B) After bulk fermentation but before proofing",
+    "tags": [
+      "process",
+      "fermentation stages"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ot1zltwaf",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "What is a key safety consideration when maintaining commercial baking equipment?",
+    "explanation": "Accumulated grease and flour in ovens can ignite at high temperatures, making regular cleaning essential for fire prevention.",
+    "options": [
+      "A) Regular cleaning of ovens to prevent fire hazards",
+      "B) Using water-based lubricants only",
+      "C) Avoiding temperature checks",
+      "D) Storing chemicals near electrical panels"
+    ],
+    "correctAnswer": "A) Regular cleaning of ovens to prevent fire hazards",
+    "tags": [
+      "safety",
+      "maintenance"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m0tzjub39",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "Which certification is typically required for a professional bakery operator in Turkey?",
+    "explanation": "In Turkey, operating a bakery often requires completion of vocational training programs specific to bakery operations, such as MUTFAK-Ekmekçilik.",
+    "options": [
+      "A) High school diploma",
+      "B) Vocational training certificate from MUTFAK-Ekmekçilik program",
+      "C) University degree in food science",
+      "D) No formal certification needed"
+    ],
+    "correctAnswer": "B) Vocational training certificate from MUTFAK-Ekmekçilik program",
+    "tags": [
+      "regulations",
+      "certification"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lsa2izxqs",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EASY",
+    "question": "Ekmekçilikte hamurun mayalanma süresi hangi faktöre en çok bağlıdır?",
+    "explanation": "Hamurun mayalanma süreci sıcaklık ve ortam nemine doğrudan bağlıdır. İdeal koşullar 25-30°C arası sıcaklık ve %70-75 nem oranıdır.",
+    "options": [
+      "Sıcaklık ve nem oranı",
+      "Unun markası",
+      "Mutfak rengi",
+      "Şefin deneyimi"
+    ],
+    "correctAnswer": "Sıcaklık ve nem oranı",
+    "tags": [
+      "ekmekcilik",
+      "hamur",
+      "mayalanma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tw85x2swa",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte kullanılan unun protein oranı hangi etkiye sahiptir?",
+    "explanation": "Unun protein oranı hamurdaki gluten ağırlığının gelişimine direkt etki eder. Yüksek proteinli un daha güçlü gluten ağ oluşturur.",
+    "options": [
+      "Hamurun gluten gelişimini etkiler",
+      "Ekmeğin rengini belirler",
+      "Mutfak ekipmanını korur",
+      "Mayanın türünü değiştirir"
+    ],
+    "correctAnswer": "Hamurun gluten gelişimini etkiler",
+    "tags": [
+      "un",
+      "gluten",
+      "hamur-kalitesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xyqy9y99c",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte fırın sıcaklığı ekmeğin kabuk katmanını nasıl etkiler?",
+    "explanation": "Fırın sıcaklığı 230-250°C arası olduğunda ekmeğin kabuğu daha hızlı kurur ve çıtır bir yapı kazanır.",
+    "options": [
+      "Yüksek sıcaklık daha kuru ve çıtır kabuk sağlar",
+      "Düşük sıcaklık daha yumuşak kabuk verir",
+      "Sıcaklık etkisi yoktur",
+      "Kabuk rengini değiştirmez"
+    ],
+    "correctAnswer": "Yüksek sıcaklık daha kuru ve çıtır kabuk sağlar",
+    "tags": [
+      "firin",
+      "kabuk",
+      "pişirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mgcqjfc1z",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "Mutfak-Ekmekçilik'te hijyen standartları hangi belgede detaylandırılır?",
+    "explanation": "Mutfak-Ekmekçilik tesislerinde gıda hijyeni standartları TSE'nin ilgili belgelerinde detaylandırılır ve düzenli denetimler yapılır.",
+    "options": [
+      "TSE Gıda Hijyeni Standardı",
+      "İş Güvenliği Kanunu",
+      "Veri Koruma Yasası",
+      "Nüfus Müdürlüğü"
+    ],
+    "correctAnswer": "TSE Gıda Hijyeni Standardı",
+    "tags": [
+      "hijyen",
+      "mutfak-standardi",
+      "gida-guvenligi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "04xw3y2se",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "Ekmekçilikte maya türü ekmeğin lezzet profilini nasıl etkiler?",
+    "explanation": "Saccharomyces cerevisiae ve diğer maya türleri, fermentasyon süresine göre farklı aroma bileşikleri oluşturarak lezzet profilini belirler.",
+    "options": [
+      "Fermentasyon süresine bağlı olarak farklı tatlar üretir",
+      "Ekmeğin boyutunu belirler",
+      "Kullanılan ekipmana etkisi vardır",
+      "Mutfak sıcaklığına etki etmez"
+    ],
+    "correctAnswer": "Fermentasyon süresine bağlı olarak farklı tatlar üretir",
+    "tags": [
+      "maya",
+      "lezzet",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7lg25pdyw",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte kullanılan temel hamur malzemesi olan unun en yüksek protein oranına sahip çeşidi hangisidir?",
+    "explanation": "Tam buğday unu, tam buğday çekirdeğinin tüm katmanlarını içerir ve beyaz una göre daha yüksek protein (gluten) oranına sahiptir. Bu özellik ekmek hamurunun mayalanma ve kabarma kapasitesini artırır.",
+    "options": [
+      "Beyaz un",
+      "Tam buğday unu",
+      "Glikozlu un",
+      "Daldızılmış un"
+    ],
+    "correctAnswer": "Tam buğday unu",
+    "tags": [
+      "malzeme",
+      "un"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xnhzd6i42",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "Türk mutfağındaki geleneksel pide türünden hangisi İslamiyet öncesi Anadolu'dan beri kullanılan en eski ekmek çeşididir?",
+    "explanation": "Pide, Anadolu'da binlerce yıldır kullanılan geleneksel ekmek çeşididir. İslamiyet öncesi dönemden beri bilinen bu ekmek tipi, özellikle pide kepiği ile mayalanır ve tuzlu veya şekerli olarak hazırlanabilir.",
+    "options": [
+      "Simit",
+      "Pide",
+      "Balıkçı",
+      "Köfte"
+    ],
+    "correctAnswer": "Pide",
+    "tags": [
+      "eşek",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "so31fwdqk",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte hamur işi ürünlerinin hijyenik üretimi sırasında hangi sıcaklık aralığında bakteri çoğalması en hızlı gerçekleşir?",
+    "explanation": "Gıda zehirlenmesine neden olan bakterilerin çoğu 20-45°C sıcaklık aralığında aktif olarak çoğalır. Bu nedenle ekmek üretiminde bu sıcaklığı aşmak hijyen için önemlidir.",
+    "options": [
+      "0-5°C",
+      "20-45°C",
+      "60-80°C",
+      "90-100°C"
+    ],
+    "correctAnswer": "20-45°C",
+    "tags": [
+      "hijyen",
+      "gıda güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z5ra61txa",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "Ekmekçilikte mayalanma süresini kısaltmak ve kabarma kapasitesini artırmak için hangisi eklenir?",
+    "explanation": "Mısır nişastası, hamurun yapısını güçlendirerek mayalanma süresini kısaltır ve ekmeğin kabarma kapasitesini artırır. Ayrıca ekmek yüzeyinin parlaklığını da iyileştirir.",
+    "options": [
+      "Tuz",
+      "Yoğurt",
+      "Mısır nişastası",
+      "Dondurulmuş maya"
+    ],
+    "correctAnswer": "Mısır nişastası",
+    "tags": [
+      "mayalanma",
+      "hamur"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cmetb2jz5",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EASY",
+    "question": "Türk mutfağında 'Simit' adlı halka şeklindeki ekmek ürününün en belirgin özelliği nedir?",
+    "explanation": "Simit, yüzeyinde susam, kimyon veya diğer baharatlarla kaplı halka şeklindeki ekmektir. Tuzlu ve lezzetli olduğu için Anadolu'da çok popülerdir.",
+    "options": [
+      "İçerisinde peynir bulunması",
+      "Yüzeyinde susam veya kimyon ile kaplanması",
+      "Balık yağı ile hazırlanması",
+      "Sadece su ile mayalanması"
+    ],
+    "correctAnswer": "Yüzeyinde susam veya kimyon ile kaplanması",
+    "tags": [
+      "simit",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l9l55x1dp",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EASY",
+    "question": "Geleneksel Türk ekmeğinin ana malzemesi hangisidir?",
+    "explanation": "Buğday unu, gluten yapısı sayesinde hamurun elastikiyetini sağlar ve ekmeğin kabuklanmasını destekler.",
+    "options": [
+      "Buğday Unu",
+      "Rice Unu",
+      "Mısır Nişastası",
+      "Yulaf"
+    ],
+    "correctAnswer": "Buğday Unu",
+    "tags": [
+      "malzemeler",
+      "temel bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wn1ny94q5",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Hangi ekmek türü simit benzeri halka şeklinde ve susamla kaplıdır?",
+    "explanation": "Simit, ortası boş halka şeklinde olup susamla kaplıdır ve genellikle kahvaltı veya ara öğün olarak tüketilir.",
+    "options": [
+      "Simit",
+      "Poğaça",
+      "Ekşi Ekmek",
+      "Pide"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "ekmek tipleri",
+      "geleneksel ürünler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "52cw11rnl",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "Hamurun mayalandığı optimal sıcaklık kaç derecedir?",
+    "explanation": "Yeast aktivitesi 25-30°C arası optimumdur; aşırı sıcaklık mayayı öldürür, düşük sıcaklık ise mayalanmayı yavaşlatır.",
+    "options": [
+      "25°C",
+      "35°C",
+      "45°C",
+      "15°C"
+    ],
+    "correctAnswer": "25°C",
+    "tags": [
+      "teknikler",
+      "mayalanma koşulları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6iipzbwr3",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Türk ekmeğinde tuzun temel işlevi nedir?",
+    "explanation": "Tuz, gluten ağının dayanıklılığını artırır ve maya aktivitesini dengeler.",
+    "options": [
+      "Gluten yapısını güçlendirir",
+      "Ekmeğin lezzetini artırır",
+      "Yenilmesi için gerekli değildir",
+      "Hamuru daha yumuşak yapar"
+    ],
+    "correctAnswer": "Gluten yapısını güçlendirir",
+    "tags": [
+      "malzemeler",
+      "hamur teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "suypu81il",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EASY",
+    "question": "Ekmeğin kabarmasını sağlayan temel ajan hangisidir?",
+    "explanation": "Maya, hamur içinde gaz üretir ve bu gazlar ekmeğin kabarmasını sağlar.",
+    "options": [
+      "Maya",
+      "Tuz",
+      "Şeker",
+      "Su"
+    ],
+    "correctAnswer": "Maya",
+    "tags": [
+      "malzemeler",
+      "temel bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ei32u94fk",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EASY",
+    "question": "Ekmek yapımında en temel hamuru oluşturan maddeler nelerdir?",
+    "explanation": "Ekmek hamuru temel olarak un, su, maya ve tuz ile yapılır. Bu dört malzeme ekmeğin yapımında en kritik rolü oynar.",
+    "options": [
+      "Un, su, maya, tuz",
+      "Şeker, un, yağ, süt",
+      "Beyazı, karabiber, tuz, soğan",
+      "Et, sebze, makarna, pirinç"
+    ],
+    "correctAnswer": "Un, su, maya, tuz",
+    "tags": [
+      "ekmek-hamuru",
+      "temel-maddeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ud545uule",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Mayanın ekmek hamurunda ne işlevi vardır?",
+    "explanation": "Maya, hamurdaki şekerleri fermente ederek gaz (CO2) üretir ve bu da ekmeğin kabarmasını sağlar.",
+    "options": [
+      "Hamuru kabartır ve fermentasyonu sağlar",
+      "Ekmeği daha sert hale getirir",
+      "Rengi koyulaştırır",
+      "Pişirme süresini kısaltır"
+    ],
+    "correctAnswer": "Hamuru kabartır ve fermentasyonu sağlar",
+    "tags": [
+      "maya-fonksiyonu",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15xo1ii7o",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmek pişirme fırınlarında ideal içerik sıcaklığı nedir?",
+    "explanation": "Ekmek fırınlarında tipik pişirme sıcaklığı 180-220°C arasıdır, bu da hamurun doğru şekilde pişmesini sağlar.",
+    "options": [
+      "180-220°C",
+      "50-100°C",
+      "300-400°C",
+      "100-150°C"
+    ],
+    "correctAnswer": "180-220°C",
+    "tags": [
+      "fırın-sıcaklığı",
+      "pişirme-kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qzvm3hyez",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmek hamuru dinlendirme (karma) süresinin ne kadar olması önerilir?",
+    "explanation": "Hamuru dinlendirme süresi genellikle 30 dakika ile 2 saat arası olmalıdır, bu da mayanın aktif çalışmasını sağlar.",
+    "options": [
+      "30 dakika - 2 saat",
+      "10 dakika",
+      "4-6 saat",
+      "8-12 saat"
+    ],
+    "correctAnswer": "30 dakika - 2 saat",
+    "tags": [
+      "dinlendirme-süresi",
+      "ekmek-teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ymlon89ph",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "Ekmek yapımında 'kıtır' (crust) tabakasını oluşturmak için ne yapılır?",
+    "explanation": "Ekmek hamuru fırına girmeden önce su veya beyazı püskürtülerek kabuk (crust) oluşumu ve renklendirme sağlanır.",
+    "options": [
+      "Hamuru fırına girmeden önce su veya beyazı püskürtülür",
+      "Ekmeği daha az pişirilir",
+      "Fırın sıcaklığı düşürülür",
+      "Hamura daha fazla şeker eklenir"
+    ],
+    "correctAnswer": "Hamuru fırına girmeden önce su veya beyazı püskürtülür",
+    "tags": [
+      "kıtır-havuzu",
+      "ekmek-teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uv7of7glq",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "MUTFAK-Ekmekçilik programında yer alan temel kimyasal madde olarak ekşinin (sorbitan-1,4-tetrol) ana işlevi nedir?",
+    "explanation": "Ekmekçilikte kullanılan bazı kimyasal maddeler nem kontrolü ve saklama sürelerini uzatmak amacıyla kullanılır.",
+    "options": [
+      "Lezzet artırmak",
+      "Nem koruyucu sağlamak",
+      "Gıda katkı maddesi olarak kullanılmak",
+      "Tatlandırıcı özelliği göstermek"
+    ],
+    "correctAnswer": "Nem koruyucu sağlamak",
+    "tags": [
+      "kimya",
+      "gıda-eksküsyon",
+      "temel-kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xss7qdoyx",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmek yapımında maya kullanımının en önemli avantajı nedir?",
+    "explanation": "Maya, karbonhidratları parçalayarak CO2 gazı oluşturur ve bu gaz hamuru şişerek ekmek yapısını belirler.",
+    "options": [
+      "Daha hızlı pişirme",
+      "Glucan içeren hamur oluşturmak",
+      "Karbonhidrat parçalanması ve gaz üretimi",
+      "Lezzet artışı sağlar"
+    ],
+    "correctAnswer": "Karbonhidrat parçalanması ve gaz üretimi",
+    "tags": [
+      "mayalar",
+      "hamur-teknolojisi",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7snbgaw9f",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte kullanılan suyun sıcaklığı hangi faktöre etkiler?",
+    "explanation": "Sıcak su mayanın aktivitesini artırarak hamurun daha hızlı mayalanmasını sağlar.",
+    "options": [
+      "Hamurun rengi",
+      "Mayalanma süreci hızı",
+      "Koku oluşumu",
+      "Şeker içeriği"
+    ],
+    "correctAnswer": "Mayalanma süreci hızı",
+    "tags": [
+      "su-temperatürü",
+      "fermantasyon",
+      "proses-kontrol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "14hxy502f",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte glutenun ana işlevi nedir?",
+    "explanation": "Gluten, hamurun elastik ve mukavemetli bir yapı oluşturmasını sağlar.",
+    "options": [
+      "Lezzet vermeyi sağlamak",
+      "Hamur yapısını desteklemek",
+      "Şeker içeriğini artırmak",
+      "Renk verimini sağlayarak"
+    ],
+    "correctAnswer": "Hamur yapısını desteklemek",
+    "tags": [
+      "gluten",
+      "hamur-yapısı",
+      "protein-fonksiyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3706qi2tf",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilik programında iş güvenliği açısından en kritik önlem hangisidir?",
+    "explanation": "Ekmekçilikte iş güvenliği için hijyen, yönetmeliklere uyum ve personel eğitimi hepsi kritik öneme sahiptir.",
+    "options": [
+      "Mutfak hijyeni kuralları",
+      "Yerel yönetmeliklere uyum",
+      "Personel eğitimi",
+      "Tüm seçenekler doğrudur"
+    ],
+    "correctAnswer": "Tüm seçenekler doğrudur",
+    "tags": [
+      "iş-güvenliği",
+      "hijyen",
+      "regülasyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "by8sbr52c",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte hamur işlerinde kullanılan unun temel amacı nedir?",
+    "explanation": "Un, ekmekçilikte en temel hammaddedir ve gluten içeriği hamurun elastik yapısını ve dayanıklılığını oluşturur.",
+    "options": [
+      "Hamurun rengini açmak",
+      "Hamurun yapısını ve dayanıklılığını sağlamak",
+      "Ekonomik maliyeti düşürmek",
+      "Hamuru daha hızlı pişirmesi için"
+    ],
+    "correctAnswer": "Hamurun yapısını ve dayanıklılığını sağlamak",
+    "tags": [
+      "MUTFAK-Ekmekçilik",
+      "Un türleri",
+      "Hamur teknolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3bvi90xlx",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte mayalanma sürecinde kullanılan ana mayanın türü nedir?",
+    "explanation": "Ekmekçilikte en yaygın kullanılan maya türü kuru mayadır, saklama ve kullanım kolaylığı sağlar.",
+    "options": [
+      "Kuru maya",
+      "Yeni maya",
+      "Sıvı maya",
+      "Doğal maya"
+    ],
+    "correctAnswer": "Kuru maya",
+    "tags": [
+      "MUTFAK-Ekmekçilik",
+      "Maya türleri",
+      "Fermentasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jzl5lohdh",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Hamurun ikinci mayalanma (dinlendirme) süresi ne kadar olmalıdır?",
+    "explanation": "İkinci mayalanma, hamurun şekil alması ve gaz üretmesi için 30-60 dakika arasında sürmelidir.",
+    "options": [
+      "10-20 dakika",
+      "30-60 dakika",
+      "2-4 saat",
+      "8-12 saat"
+    ],
+    "correctAnswer": "30-60 dakika",
+    "tags": [
+      "MUTFAK-Ekmekçilik",
+      "Hamur teknolojisi",
+      "Mayalanma süresi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n01e0gqct",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "EXPERT",
+    "question": "Ekmekçilikte gluten içeriği yüksek un hangisidir?",
+    "explanation": "Ekmekçilikte yüksek gluten içeren 0.75 un, iyi hamur yapısı ve dayanıklılık sağlar.",
+    "options": [
+      "0.45 un",
+      "0.55 un",
+      "0.75 un",
+      "1.00 un"
+    ],
+    "correctAnswer": "0.75 un",
+    "tags": [
+      "MUTFAK-Ekmekçilik",
+      "Un türleri",
+      "Gluten oranı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "daxnk973f",
+    "category": "MUTFAK",
+    "subcategory": "Ekmekçilik",
+    "difficulty": "GENERAL",
+    "question": "Ekmekçilikte pişirme sıcaklığı genellikle kaç derecedir?",
+    "explanation": "Ekmekçi fırınlarında pişirme sıcaklığı 200-230°C arasında tutulur, buhar ile desteklenir.",
+    "options": [
+      "160-180°C",
+      "180-200°C",
+      "200-230°C",
+      "230-250°C"
+    ],
+    "correctAnswer": "200-230°C",
+    "tags": [
+      "MUTFAK-Ekmekçilik",
+      "Pişirme teknikleri",
+      "Ocak ayarı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

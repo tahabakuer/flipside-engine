@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "ofrjmpdx6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "What is traditionally served during the British 'Afternoon Tea'?",
+    "explanation": "Afternoon tea is a British tradition where light refreshments like scones, sandwiches, and pastries are served. Scones with clotted cream and jam (Cornish or Devonshire cream) are the iconic accompaniment.",
+    "options": [
+      "Roasted chicken and potatoes",
+      "Scones with clotted cream and jam",
+      "Spaghetti carbonara",
+      "Rice pilaf"
+    ],
+    "correctAnswer": "Scones with clotted cream and jam",
+    "tags": [
+      "food_traditions",
+      "tea_culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xecsiap01",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Which sport is traditionally associated with English public schools and is very popular in England?",
+    "explanation": "Cricket is traditionally associated with English public schools and has deep historical roots in British culture. The Ashes Test between England and Australia is one of the most famous cricket matches.",
+    "options": [
+      "Soccer",
+      "Cricket",
+      "Tennis",
+      "Volleyball"
+    ],
+    "correctAnswer": "Cricket",
+    "tags": [
+      "sports_traditions",
+      "cultural_heritage"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c3k02xjra",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "What traditional greeting custom involves shaking hands among formal occasions in England?",
+    "explanation": "In formal English occasions, handshaking with direct eye contact is the standard greeting custom. This reflects British values of politeness and respect in social interactions.",
+    "options": [
+      "Kissing on both cheeks",
+      "Bowing deeply",
+      "Handshaking with eye contact",
+      "Nodding without speaking"
+    ],
+    "correctAnswer": "Handshaking with eye contact",
+    "tags": [
+      "social_etiquette",
+      "greeting_customs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jhe12v3yp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Which traditional English dish features roast beef as its main component?",
+    "explanation": "Beef Wellington is a traditional English dish featuring tender roast beef wrapped in puff pastry, typically with mushroom duxelles and often foie gras inside. It represents classic British culinary tradition.",
+    "options": [
+      "Shepherd's Pie",
+      "Beef Wellington",
+      "Fish and Chips",
+      "Chicken Tikka Masala"
+    ],
+    "correctAnswer": "Beef Wellington",
+    "tags": [
+      "food_traditions",
+      "culinary_heritage"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "30lr3vk32",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "What traditional English holiday celebrates the birth of Jesus Christ?",
+    "explanation": "Christmas is the traditional English holiday that celebrates the birth of Jesus Christ. It is marked by decorations, gift-giving, family gatherings, and special meals like turkey or roast beef with Yorkshire pudding.",
+    "options": [
+      "Easter",
+      "Halloween",
+      "Christmas",
+      "St. Patrick's Day"
+    ],
+    "correctAnswer": "Christmas",
+    "tags": [
+      "holidays_traditions",
+      "religious_culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "odk2qkn08",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiltere'de geleneksel olarak hangi içecek, 'Tea Time' sırasında tüketilir?",
+    "explanation": "İngiltere'de 'Tea Time' sırasında geleneksel olarak siyah çay (Black Tea) tüketilir. Bu, İngiliz kültürünün en önemli sembollerinden biridir.",
+    "options": [
+      "Coffee",
+      "Black Tea",
+      "Green Tea",
+      "Herbal Tea"
+    ],
+    "correctAnswer": "Black Tea",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Tea Culture",
+      "Food & Drink"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8jtbhuode",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngilizlerde doğum günlerinde ne zaman pastayı keser?",
+    "explanation": "İngilizlerde doğum günü pastası, kişinin yaşı sıralı (örn: 21 yaş) olduğunda ilk rakamına göre kesilir. Bu gelenek kültürel bir kurallardır.",
+    "options": [
+      "Hemen",
+      "Sıralı yaşına göre ilk rakamı",
+      "Sonra",
+      "Kesmezler"
+    ],
+    "correctAnswer": "Sıralı yaşına göre ilk rakamı",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Birthday Traditions",
+      "Cultural Customs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fjmjf56pn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiltere'de Noel gecesi hangi gün kutlanır?",
+    "explanation": "İngiltere'de Noel gecesi (Christmas Eve) 24 Aralık'ta, ancak resmi kutlama 25 Aralık'ta yapılır. Bu gün aile toplanır ve yemekler paylaşılır.",
+    "options": [
+      "24 Aralık",
+      "25 Aralık",
+      "26 Aralık",
+      "1 Ocak"
+    ],
+    "correctAnswer": "25 Aralık",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Christmas Traditions",
+      "Holidays"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "igpplf0y7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "İngiliz evliliklerinde geleneksel olarak ne zaman kuyruğu kesilir?",
+    "explanation": "İngiliz evliliklerinde geleneksel olarak düğün kuyruğu (wedding train) kesilir. Bu, İngiliz geleneği ve kültürel bir semboldür.",
+    "options": [
+      "Ampullu",
+      "Geleneksel",
+      "Kesmez",
+      "Sıralı yaşa göre"
+    ],
+    "correctAnswer": "Geleneksel",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Wedding Traditions",
+      "Cultural Customs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mvvjy1pzg",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngiltere'de günlük yaşamda hangi hitap şekli daha yaygındır?",
+    "explanation": "İngiltere'de günlük yaşamda 'Hello' hitabı daha yaygındır. Bu, İngiliz kültürel nezaket ve iletişim tarzının bir parçasıdır.",
+    "options": [
+      "Hi",
+      "Hello",
+      "Goodbye",
+      "Bye"
+    ],
+    "correctAnswer": "Hello",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Daily Etiquette",
+      "Greetings"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8jea4d9nn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngiliz kültüründe 'Boxing Day' (kutlama günleri) ne zaman kutlanır?",
+    "explanation": "Boxing Day, 25 Aralık (Noel) gününden sonra gelen 26 Aralık'ta kutlanır. Bu gelenek, çalışanların Noel hediye almaları için mağazalarda beklemeleri ve evlerin temizlenmesi anlamına gelir.",
+    "options": [
+      "Yılın ilk pazarında",
+      "25 Aralık'tan sonra gelen ilk pazartesi",
+      "26 Aralık'ta",
+      "Tüm yıl boyunca"
+    ],
+    "correctAnswer": "26 Aralık'ta",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Kültürler ve Yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ed7ggd2cz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngilizler 'Afternoon Tea' (öğleden sonra çay) geleneğinde genellikle hangi tür yiyecekler tüketir?",
+    "explanation": "Afternoon Tea geleneğinde, üç katlı bir tabakta tuzlu sandviçler (turta, balık), tatlılar ve kekler bulunur. Bu gelenek, 1840'ların Victoria döneminden beri devam eder.",
+    "options": [
+      "Sadece tatlılar",
+      "Tatlı, tuzlu sandviç ve kek",
+      "Sadece hamur işi",
+      "Sadece meyve"
+    ],
+    "correctAnswer": "Tatlı, tuzlu sandviç ve kek",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Yemek Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pgn6ve25w",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiliz kültüründe 'Easter Monday' (Paskalya Pazartesi) hangi gün kutlanır?",
+    "explanation": "Easter Monday, Paskalya (Yılbaşı) gününden sonra gelen haftanın ilk pazartesi olarak kutlanır. Bu, İngiltere'de resmi tatil günlerinden biridir.",
+    "options": [
+      "Pazar günü",
+      "Haftanın ilk pazartesi",
+      "Tüm hafta sonu boyunca",
+      "Sadece cuma"
+    ],
+    "correctAnswer": "Haftanın ilk pazartesi",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Dinî Tatiller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x31r8f8ba",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "İngiliz geleneğinde 'Guy Fawkes Night' (15 Kasım) hangi olayı anmak için kutlanır?",
+    "explanation": "Guy Fawkes Night, 1605 yılında Parlamentoya bomba atmak isteyen Guy Fawkes'in başarısız olmasıyla anılır. Bu gece, İngiltere'de ateşli bombalar ve roketlerle kutlanır.",
+    "options": [
+      "Bir kralın tahta çıkışı",
+      "Bir isyanın başarısız olması",
+      "Bir dini festival",
+      "İngilizlerin Avrupa'ya girmesi"
+    ],
+    "correctAnswer": "Bir isyanın başarısız olması",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Tarihi Olaylar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8i9kyd83p",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngiliz geleneğinde 'Burns Night' (25 Kasım) hangi kişiyi anmak için kutlanır?",
+    "explanation": "Burns Night, İskoç şair Robert Burns'ı anmak için 25 Kasım'da kutlanır. Bu gece, 'Haggis' yemeği ve şiir okumaları yapılır. İskoç kültürünün bir parçasıdır.",
+    "options": [
+      "William Shakespeare",
+      "Robert Burns",
+      "Charles Dickens",
+      "George Orwell"
+    ],
+    "correctAnswer": "Robert Burns",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vw37prjbu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiltere'de geleneksel olarak öğleden sonra çay ikramı yapılan etkinin adı nedir?",
+    "explanation": "Afternoon Tea, İngiltere'de öğleden sonra hafif atıştırmalıklarla yapılan geleneksel bir çay etkinidir.",
+    "options": [
+      "A) Morning Tea",
+      "B) Afternoon Tea",
+      "C) Evening Tea",
+      "D) Night Tea"
+    ],
+    "correctAnswer": "B) Afternoon Tea",
+    "tags": [
+      "İngiliz Mutfağı",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8nlmzwl0m",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngiltere'nin kutsal günü olan St. George'un anısına hangi tarihte kutlama yapılır?",
+    "explanation": "St. George'ün adı, İngiltere'nin ulusal günü olan St. George's Day'de 23 Nisan'da anılır.",
+    "options": [
+      "A) 1 Nisan",
+      "B) 4 Temmuz",
+      "C) 23 Nisan",
+      "D) 25 Aralık"
+    ],
+    "correctAnswer": "C) 23 Nisan",
+    "tags": [
+      "Ulusal Kutlamalar",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q82s2acqw",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiliz sabah kahvaltısının temel bileşenlerinden biri aşağıdakilerden hangisidir?",
+    "explanation": "Pişmiş fasulye, İngiliz sabah kahvaltısının geleneksel bir bileşenidir.",
+    "options": [
+      "A) Avokado",
+      "B) Pişmiş Fasulye",
+      "C) Sushi",
+      "D) Pancake"
+    ],
+    "correctAnswer": "B) Pişmiş Fasulye",
+    "tags": [
+      "İngiliz Mutfağı",
+      "Sabah Yemeği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a6zhzv10p",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Kutlama günlerinde hediye olarak kutu çanta ve diğer hediyeler verilen 'Boxing Day' hangi tarihte gerçekleşir?",
+    "explanation": "Boxing Day, Noel'den bir sonraki gün olan 26 Aralık'ta kutlanır ve geleneksel olarak hediyeler verilir.",
+    "options": [
+      "A) Noel Günü",
+      "B) Yeni Yıl Gece",
+      "C) 26 Aralık",
+      "D) Şükran Gününe"
+    ],
+    "correctAnswer": "C) 26 Aralık",
+    "tags": [
+      "Gelenekler",
+      "Kutlamalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "75yeetlc6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Charles III Kral'ın taç giyme töreninde Kilise İngiltere ile ilgili hangi yemin alındı?",
+    "explanation": "Taç giyme töreninde, Kilise İngiltere'nin rolünün korunacağına dair yemin alındı.",
+    "options": [
+      "A) Kalkışması",
+      "B) Koruyucusu Olması",
+      "C) İhmal Etmesi",
+      "D) Dönüşmesi"
+    ],
+    "correctAnswer": "B) Koruyucusu Olması",
+    "tags": [
+      "Tarihsel Gelenekler",
+      "Kraliyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8527gn4cj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngiliz geleneklerinde 'High Tea' ne zaman tüketilir?",
+    "explanation": "High Tea, İngiliz geleneksel olarak akşam saatlerinde (genellikle saat 6-8 arası) tüketilen daha ağır bir çay içimi ve yemeği ifade eder.",
+    "options": [
+      "Sabah saatlerinde",
+      "Öğle vakti",
+      "Akşam saatlerinde",
+      "Gece yarısı"
+    ],
+    "correctAnswer": "Akşam saatlerinde",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Yemek Kültürü",
+      "Kültürler ve Yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t9k7xic6f",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiltere'de Noel gecesi hangi gelenekle kutlanır?",
+    "explanation": "İngiltere'de Noel gecesi, evlerin önüne çam ağacı kurulması ve altına hediyeler konarak kutlanır.",
+    "options": [
+      "Çikolata yumurtaları",
+      "Yıldızlı şampanya",
+      "Ağacın altına hediye koymak",
+      "Meydana çelenk bırakmak"
+    ],
+    "correctAnswer": "Ağacın altına hediye koymak",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Noel",
+      "Kültürler ve Yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bfgzlrfep",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiliz kültüründe 'Afternoon Tea' hangi öğündür?",
+    "explanation": "Afternoon Tea, İngiliz kültüründe öğleden sonra saat 2-4 arası tüketilen çay, kraker, muffin ve tatlılardan oluşan geleneksel bir öğündür.",
+    "options": [
+      "Sahur yemeği",
+      "Çay, kraker ve tatlılardan oluşan öğün",
+      "Türk kahvesi içimi",
+      "Gece atıştırmalığı"
+    ],
+    "correctAnswer": "Çay, kraker ve tatlılardan oluşan öğün",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Çay Kültürü",
+      "Kültürler ve Yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fhpstfbel",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngilizlerde 'Halloween' hangi ayda kutlanır?",
+    "explanation": "Halloween, İngiliz kültüründe her yıl Ekimin son Cuma günü (Pumpkin ayı) kutlanır.",
+    "options": [
+      "Şubat",
+      "Mayıs",
+      "Ekim",
+      "Kasım"
+    ],
+    "correctAnswer": "Ekim",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Bayramlar",
+      "Kültürler ve Yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "naw3yb9sn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiltere'de 'Fish and Chips' hangi yemek türüdür?",
+    "explanation": "Fish and Chips, İngiliz mutfağının en popüler geleneksel yemeklerinden biri olup, kızartılmış balık ve patates kızartmasından oluşur.",
+    "options": [
+      "Baharatlı et yemeği",
+      "Balık ve patates kızartması yemeği",
+      "Makarna yemeği",
+      "Tatlı yemeği"
+    ],
+    "correctAnswer": "Balık ve patates kızartması yemeği",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Yemek Kültürü",
+      "Kültürler ve Yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8sdxnb5v6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "İngiliz kültüründe geleneksel olarak hangi içecek, 'tea time' veya 'afternoon tea' adı verilen özel bir törenle tüketilir?",
+    "explanation": "İngiltere'de çay, özellikle 'afternoon tea' törenlerinde gelenekseldir. Bu kültür, 19. yüzyılda Victoria döneminde başlatılmış ve bugün hala popülerdir.",
+    "options": [
+      "Kahve",
+      "Çay",
+      "Şarap",
+      "Bira"
+    ],
+    "correctAnswer": "Çay",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "İçecekler",
+      "Social Customs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7byg4dr8s",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngiliz halkının sosyal hayatında önemli bir yer tutan 'pub' (kafeler) kültüründe genellikle hangi içeceğin servis edildiği bilinir?",
+    "explanation": "İngiltere'deki publar, geleneksel olarak bira, whisky ve diğer alkollü içeceklerin servis edildiği sosyal mekanlardır.",
+    "options": [
+      "Kahve",
+      "Şarap",
+      "Bira ve Whisky",
+      "Ayran"
+    ],
+    "correctAnswer": "Bira ve Whisky",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Pub Kültürü",
+      "İçecekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zahywuvwe",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "İngiliz kültüründe 'Guy Fawkes Night' veya 'Bonfire Night' adı verilen bayram hangi tarihte kutlanır?",
+    "explanation": "Guy Fawkes Night, 5 Kasım'da kutlanır ve Guy Fawkes'in parlamento bombası girişimini (1605) anmak içindir. Her yıl Londra'da ateşler yakılır.",
+    "options": [
+      "31 Ekim",
+      "25 Aralık",
+      "5 Kasım",
+      "1 Mayıs"
+    ],
+    "correctAnswer": "5 Kasım",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Bayramlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0dsmbo8cx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "İngiliz ailelerinde geleneksel olarak hangi yemek, 'Sunday roast' veya 'pazar gününün rostiti' olarak bilinir?",
+    "explanation": "Sunday roast, İngiltere'de ailelerin pazar günlerinde et, havuç, brokoli ve rosti patatesin servis edildiği gelenekseldir.",
+    "options": [
+      "Salata",
+      "Etli sebzeler ve patates",
+      "Sıcak çorba",
+      "Dondurulmuş pizza"
+    ],
+    "correctAnswer": "Etli sebzeler ve patates",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Yemek Kültürü",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9nd53mq4q",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "İngiliz kültüründe 'Black Friday' veya siyah Cuma hangi alışveriş günüdür?",
+    "explanation": "Black Friday, 25 Aralık'tan (Christmas) sonra gelen Cuma günüdür ve büyük alışveriş dönemini işaret eder. ABD'de başlatılmış, İngiltere'de de benimsenmiştir.",
+    "options": [
+      "Yılbaşı sonrası",
+      "Okul dönemi bitiminde",
+      "Kışın ortasında",
+      "Yazın başında"
+    ],
+    "correctAnswer": "Yılbaşı sonrası",
+    "tags": [
+      "İngiliz Gelenekleri",
+      "Alışveriş",
+      "Modern Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w3611data",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "What is the traditional gift given to servants and staff in Britain after Christmas Day?",
+    "explanation": "Boxing Day is the day after Christmas in Britain when servants and staff traditionally receive gifts. The name comes from 'Christmas boxes' that were left for them.",
+    "options": [
+      "New Year's Box",
+      "Boxing Day Presents",
+      "December Gifts",
+      "Christmas Stockings"
+    ],
+    "correctAnswer": "Boxing Day Presents",
+    "tags": [
+      "English Traditions",
+      "Boxing Day",
+      "British Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ytn9ft00",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "In British wedding tradition, what item does the bride typically wear as one of her accessories?",
+    "explanation": "The English wedding rhyme includes 'something old, something new, something borrowed, and something blue' as traditional accessories for the bride.",
+    "options": [
+      "White Gloves",
+      "Something Blue",
+      "Silver Rings",
+      "Gold Brooch"
+    ],
+    "correctAnswer": "Something Blue",
+    "tags": [
+      "English Traditions",
+      "Wedding Customs",
+      "British Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4thuiwh61",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "What popular British beverage is traditionally consumed in afternoon tea ceremonies?",
+    "explanation": "Afternoon tea in Britain traditionally features black tea (like Earl Grey, English Breakfast) served with sandwiches and pastries.",
+    "options": [
+      "Coffee Latte",
+      "Green Tea",
+      "Black Tea",
+      "Herbal Infusion"
+    ],
+    "correctAnswer": "Black Tea",
+    "tags": [
+      "English Traditions",
+      "Tea Culture",
+      "British Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zflb5d4c6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Which day of the week is traditionally known as 'St. Stephen's Day' in British culture?",
+    "explanation": "St. Stephen's Day is the Tuesday after Christmas (December 27th), historically associated with Boxing Day traditions in Britain.",
+    "options": [
+      "Tuesday after Christmas",
+      "Wednesday after Christmas",
+      "Thursday after Christmas",
+      "Friday after Christmas"
+    ],
+    "correctAnswer": "Tuesday after Christmas",
+    "tags": [
+      "English Traditions",
+      "Boxing Day History",
+      "British Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xy4rno9eu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "What British tradition involves eating a specific food on Guy Fawkes Night?",
+    "explanation": "Guy Fawkes Night (November 5th) involves lighting bonfires and eating traditional foods like toad in the hole as part of British celebrations.",
+    "options": [
+      "Hot Cross Buns",
+      "Pancakes",
+      "Bonfire and Toad in the Hole",
+      "Roast Chicken"
+    ],
+    "correctAnswer": "Bonfire and Toad in the Hole",
+    "tags": [
+      "English Traditions",
+      "Guy Fawkes Day",
+      "British Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mlyc9o5sh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "What is a traditional English breakfast commonly known as?",
+    "explanation": "A Full English Breakfast includes items like sausages, bacon, eggs, beans, toast and sometimes mushrooms or tomatoes. It's a traditional morning meal in England.",
+    "options": [
+      "Brunch",
+      "Full English Breakfast",
+      "Continental Breakfast",
+      "Japanese Breakfast"
+    ],
+    "correctAnswer": "Full English Breakfast",
+    "tags": [
+      "food",
+      "traditions",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6uh8ovjnq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "At what time is afternoon tea traditionally served in England?",
+    "explanation": "Afternoon tea is typically served between 3:00 PM and 5:00 PM, though some sources say 2-4 PM. It's a light meal with tea, sandwiches, scones, and pastries.",
+    "options": [
+      "10:00 AM",
+      "2:00 PM - 4:00 PM",
+      "6:00 PM",
+      "9:00 PM"
+    ],
+    "correctAnswer": "2:00 PM - 4:00 PM",
+    "tags": [
+      "tea",
+      "traditions",
+      "social customs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fclxrgfna",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Which English king is famous for being the first to wear a monocle?",
+    "explanation": "King Edward VII is credited with being the first person to wear a monocle (single eyeglass). This was a fashionable accessory among English royalty in the early 20th century.",
+    "options": [
+      "King Edward VII",
+      "King Charles II",
+      "King Henry VIII",
+      "King James I"
+    ],
+    "correctAnswer": "King Edward VII",
+    "tags": [
+      "royal family",
+      "history",
+      "traditions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s7t4yca0a",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "What traditional English dessert is made with fruit, sugar and breadcrumbs?",
+    "explanation": "Spotted Dick is a traditional English steamed pudding made with suet, breadcrumbs, sugar and dried fruit (usually currants). The name comes from the 'spots' of fruit in the cake.",
+    "options": [
+      "Sticky Toffee Pudding",
+      "Spotted Dick",
+      "Eton Mess",
+      "Apple Crumble"
+    ],
+    "correctAnswer": "Spotted Dick",
+    "tags": [
+      "dessert",
+      "food",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3xae9vvgh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Which English holiday is celebrated on December 25th and features Christmas trees?",
+    "explanation": "Christmas is celebrated on December 25th in England and features traditions like Christmas trees, gifts, carols, and a festive meal. It's one of the most important holidays for English families.",
+    "options": [
+      "St. Patrick's Day",
+      "Easter",
+      "Christmas",
+      "Halloween"
+    ],
+    "correctAnswer": "Christmas",
+    "tags": [
+      "holidays",
+      "traditions",
+      "celebrations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sb7tpkout",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "In British tea culture, what is traditionally placed FIRST in the teapot when making afternoon tea?",
+    "explanation": "In traditional British afternoon tea, loose leaf tea is placed in the teapot first before adding hot water. Milk is added to the cup after pouring tea.",
+    "options": [
+      "Loose leaf tea",
+      "Tea bags",
+      "Hot water",
+      "Milk"
+    ],
+    "correctAnswer": "Loose leaf tea",
+    "tags": [
+      "tea culture",
+      "British customs",
+      "afternoon tea"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3h5bfa1q6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "What is Boxing Day celebrated on in England?",
+    "explanation": "Boxing Day is celebrated on December 26th, the day after Christmas. It was traditionally when servants and tradespeople received their annual gifts.",
+    "options": [
+      "December 25th",
+      "December 26th",
+      "January 1st",
+      "December 31st"
+    ],
+    "correctAnswer": "December 26th",
+    "tags": [
+      "Boxing Day",
+      "holidays",
+      "traditions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "54hxvmdc0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "At a formal British dinner party, which etiquette rule is traditionally followed?",
+    "explanation": "At formal British dinners, soup is traditionally eaten with a spoon. Wine glasses are held by the stem, not the bowl, to prevent fingerprints.",
+    "options": [
+      "Milk should be added to tea before pouring",
+      "Bread should be buttered with fingers",
+      "Soup should be eaten with fork only",
+      "Wine glasses should be held by the bowl"
+    ],
+    "correctAnswer": "Soup should be eaten with fork only",
+    "tags": [
+      "dining etiquette",
+      "formal dinner",
+      "British customs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i1lpov699",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "What traditional item is commonly worn during royal coronation ceremonies?",
+    "explanation": "During royal coronation ceremonies, attendees traditionally wear formal evening wear including top hats and tailcoats for men.",
+    "options": [
+      "Top hat and tails",
+      "School uniform",
+      "Sports jersey",
+      "Casual clothing"
+    ],
+    "correctAnswer": "Top hat and tails",
+    "tags": [
+      "royal ceremonies",
+      "coronation",
+      "formal attire"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5rpwjfmx9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Which traditional British pub activity involves a 'round'?",
+    "explanation": "In British pub culture, a 'round' means everyone buys one drink for the person to their right in a circular manner.",
+    "options": [
+      "Singing at midnight",
+      "Everyone buying drinks for the person to their right",
+      "Tossing bottles in water",
+      "Dancing around tables"
+    ],
+    "correctAnswer": "Everyone buying drinks for the person to their right",
+    "tags": [
+      "pub culture",
+      "social drinking",
+      "British pubs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hojuvqaxk",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "What is traditionally served with scones in British afternoon tea?",
+    "explanation": "Scones with jam and clotted cream are a classic part of British afternoon tea, especially at places like the Royal Horticultural Society.",
+    "options": [
+      "Bread and butter",
+      "Crumpets",
+      "Jam and clotted cream",
+      "Cottage cheese"
+    ],
+    "correctAnswer": "Jam and clotted cream",
+    "tags": [
+      "British Culture",
+      "Food Traditions",
+      "Tea Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4sai2gapq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Which day is celebrated as National Day in United Kingdom to mark the anniversary of the Great Fire of London?",
+    "explanation": "September 2nd is observed as National Day in the UK, commemorating various historical events including those related to the Great Fire of London.",
+    "options": [
+      "1st January",
+      "2nd September (National Day)",
+      "30th April",
+      "15th August"
+    ],
+    "correctAnswer": "2nd September (National Day)",
+    "tags": [
+      "British History",
+      "National Celebrations",
+      "United Kingdom"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e1a7184yj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "What type of food is traditionally eaten on Christmas Eve in British households?",
+    "explanation": "Christmas pudding is a traditional sweet dish served on Christmas Eve in British homes, often containing dried fruits soaked in spirits.",
+    "options": [
+      "Turkey and stuffing",
+      "Christmas pudding with brandy sauce",
+      "Fish and chips",
+      "Roast beef"
+    ],
+    "correctAnswer": "Christmas pudding with brandy sauce",
+    "tags": [
+      "Christmas Traditions",
+      "British Food",
+      "Holidays"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "409rrbgwb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Which expression is commonly used when meeting friends for tea in British culture?",
+    "explanation": "'Cuppa' is British slang for tea, and 'have a cuppa' is the typical invitation when meeting friends for afternoon tea.",
+    "options": [
+      "Have a cuppa?",
+      "Need some coffee?",
+      "Want to grab dinner?",
+      "How about lunch?"
+    ],
+    "correctAnswer": "Have a cuppa?",
+    "tags": [
+      "British Slang",
+      "Social Customs",
+      "Daily Life"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qr5zu7v8t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İngiliz Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "What tradition involves wearing red clothing on New Year's Day in some British families?",
+    "explanation": "Some British families wear red clothing on New Year's Day, following the tradition that red brings good luck for the coming year.",
+    "options": [
+      "Wearing black for mourning",
+      "Wearing white for purity",
+      "Wearing red as good luck symbol",
+      "Wearing green for health"
+    ],
+    "correctAnswer": "Wearing red as good luck symbol",
+    "tags": [
+      "New Year Traditions",
+      "British Customs",
+      "Good Luck Beliefs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

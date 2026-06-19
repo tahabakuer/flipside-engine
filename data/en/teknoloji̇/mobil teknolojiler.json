@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "mzsixn1xy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "5G teknolojisi, mobil iletişim tarihinde hangi nesildir?",
+    "explanation": "5G, 5. Nesil mobil iletişim teknolojisi olarak adlandırılır ve daha yüksek veri hızı, düşük gecikme süresi ile karakterizedir.",
+    "options": [
+      "Dördüncü",
+      "Beşinci",
+      "Altıncı",
+      "Üçüncü"
+    ],
+    "correctAnswer": "Beşinci",
+    "tags": [
+      "Mobil Teknolojiler",
+      "İletişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cbjmu4q56",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil cihazlarda NFC teknolojisi temel olarak ne işe yarar?",
+    "explanation": "NFC (Near Field Communication), cihazların birbirine çok yakın durarak veri aktarmasını veya mobil ödeme yapmasını sağlar.",
+    "options": [
+      "Sadece kablosuz şarj için",
+      "Kısa mesafe iletişim ve temassız ödeme için",
+      "Konum belirleme (GPS) için",
+      "Sesli asistan kontrolü için"
+    ],
+    "correctAnswer": "Kısa mesafe iletişim ve temassız ödeme için",
+    "tags": [
+      "Mobil Teknolojiler",
+      "NFC"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "03q58kbrr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Modern akıllı telefonlarda veriyi işleyen ana bileşen hangisidir?",
+    "explanation": "CPU veya System on Chip (SoC), telefonun temel işlemlerini, uygulamaları çalıştırma ve veriyi işlemeyi sorumluluk alanıdır.",
+    "options": [
+      "GPU (Grafik İşleme Birimi)",
+      "CPU (Merkezi İşlemci) / SoC",
+      "RAM (Bellek)",
+      "ROM (Kalıcı Bellek)"
+    ],
+    "correctAnswer": "CPU (Merkezi İşlemci) / SoC",
+    "tags": [
+      "Mobil Teknolojiler",
+      "Donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g5xjnlyjx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "Mobil uygulamalarla sunucu arasındaki güvenli veri aktarımını sağlayan protokol hangisidir?",
+    "explanation": "HTTPS, HTTP'in güvenli versiyonudur ve SSL/TLS şifreleme kullanarak verilerin gizliliğini korur.",
+    "options": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "correctAnswer": "HTTPS",
+    "tags": [
+      "Mobil Teknolojiler",
+      "Güvenlik",
+      "Protokoller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eiqpq1hyy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil cihazların çevreyle etkileşimde bulunduğu 'Akıllı Nesneler' konseptinin kısaltması nedir?",
+    "explanation": "IoT (Internet of Things), nesnelerin interneti olarak bilinir ve mobil teknolojilerle bağlantılı akıllı cihazları içerir.",
+    "options": [
+      "IT",
+      "IoT",
+      "AI",
+      "VR"
+    ],
+    "correctAnswer": "IoT",
+    "tags": [
+      "Mobil Teknolojiler",
+      "IoT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "79aen259u",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Dünyada en yaygın kullanılan mobil işletim sistemi hangisidir?",
+    "explanation": "Android, Google tarafından geliştirilen ve dünya genelindeki akıllı telefon pazarının büyük kısmını elinde tutan açık kaynaklı işletim sistemidir.",
+    "options": [
+      "iOS",
+      "Android",
+      "Windows Phone",
+      "BlackBerry"
+    ],
+    "correctAnswer": "Android",
+    "tags": [
+      "Mobil OS",
+      "İşletim Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "we0mep1bs",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "4G/LTE ağlarında 'LTE' kısaltması ne anlama gelir?",
+    "explanation": "LTE, İngilizce 'Long Term Evolution' (Uzun Vadeli Evrim) anlamına gelir ve mobil veri hızını artırmak için geliştirilmiş bir standarttır.",
+    "options": [
+      "Light Transfer Evolution",
+      "Long Term Evolution",
+      "Local Telecom Extension",
+      "Low Energy Transmission"
+    ],
+    "correctAnswer": "Long Term Evolution",
+    "tags": [
+      "Ağ Teknolojisi",
+      "Mobil İletişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "97vofmpqx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Bir akıllı telefonun temel işleme görevlerinden hangisi CPU'nun sorumluluğundadır?",
+    "explanation": "CPU (Central Processing Unit), telefonun genel işleme ve program çalıştırma süreçlerinden sorumludur.",
+    "options": [
+      "Veri depolama",
+      "Sistem işlemcisi (CPU)",
+      "Grafik işlemci (GPU)",
+      "RAM Belleği"
+    ],
+    "correctAnswer": "Sistem işlemcisi (CPU)",
+    "tags": [
+      "Donanım",
+      "Mobil Teknolojiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "83y0gua57",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "Mobil cihazlarda dokunmatik ödeme ve hızlı veri aktarımı için hangi teknoloji kullanılır?",
+    "explanation": "Near Field Communication (NFC), çok kısa mesafeli kablosuz iletişim sağlar ve özellikle mobil ödeme (Apple Pay, Google Wallet) ve hızlı dosya aktarımı için kullanılır.",
+    "options": [
+      "Bluetooth",
+      "NFC (Near Field Communication)",
+      "Wi-Fi Direct",
+      "Zigbee"
+    ],
+    "correctAnswer": "NFC (Near Field Communication)",
+    "tags": [
+      "NFC",
+      "Mobil Ödeme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hli6te91l",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "OLED ekran teknolojisi hangi malzeme grubunu içerir?",
+    "explanation": "OLED (Organic Light-Emitting Diode) teknolojisi, organik malzemelerden oluşan ışık yayan diyotları içerir ve daha derin siyah tonlar sunar.",
+    "options": [
+      "Inorganik",
+      "Organik",
+      "Sentetik",
+      "Metalik"
+    ],
+    "correctAnswer": "Organik",
+    "tags": [
+      "Ekran Teknolojisi",
+      "Donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ocjlng30g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil cihazlarda kullanılan en yaygın işletim sistemi hangisidir?",
+    "explanation": "Android, mobil cihazlarda en yaygın kullanılan işletim sistemidir ve Google tarafından geliştirilmiştir.",
+    "options": [
+      "Windows",
+      "macOS",
+      "Android",
+      "Linux"
+    ],
+    "correctAnswer": "Android",
+    "tags": [
+      "mobil-operatim-sistemi",
+      "akilli-cihaz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r6t1tdcxm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "5G teknolojisi mobil ağlarda neyi ifade eder?",
+    "explanation": "5G, beşinci nesil mobil iletişim teknolojisidir ve daha yüksek veri hızları ile düşük gecikme sağlar.",
+    "options": [
+      "Dördüncü nesil",
+      "Beşinci nesil",
+      "Altıncı nesil",
+      "Birinci nesil"
+    ],
+    "correctAnswer": "Beşinci nesil",
+    "tags": [
+      "mobil-ağ-teknolojisi",
+      "5g"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ds7e6t5t",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil ödeme sistemlerinde kullanılan NFC teknolojisi neyi ifade eder?",
+    "explanation": "NFC (Near Field Communication), mobil cihazlar ve kartlar arasında kısa mesafe iletişimi sağlar.",
+    "options": [
+      "Near Field Communication",
+      "Network Field Communication",
+      "Near Frequency Communication",
+      "None of above"
+    ],
+    "correctAnswer": "Near Field Communication",
+    "tags": [
+      "mobil-odeme",
+      "nfc"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mv7lkvr17",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil uygulamaların geliştirildiği en popüler platform hangisidir?",
+    "explanation": "Swift, iOS ve macOS uygulamaları geliştirmek için kullanılan modern programlama dilidir.",
+    "options": [
+      "Java",
+      "Python",
+      "Swift",
+      "C++"
+    ],
+    "correctAnswer": "Swift",
+    "tags": [
+      "mobil-gelismesi",
+      "ios-app"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vbsdz5pwk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil cihazlarda yerleşik sensörlerden biri olan GPS ne işe yarar?",
+    "explanation": "GPS (Global Positioning System), mobil cihazların coğrafi konumunu belirlemek için kullanılır.",
+    "options": [
+      "Mekan konumlandırma",
+      "İşlemci hızı ölçme",
+      "Battarya seviyesi kontrolü",
+      "Ekran parlaklığı ayarı"
+    ],
+    "correctAnswer": "Mekan konumlandırma",
+    "tags": [
+      "mobil-sensorler",
+      "gps"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cytctmsmt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil cihazlarda kullanılan en yaygın ekran teknolojisi nedir?",
+    "explanation": "OLED (Organic Light-Emitting Diode) teknolojisinde her piksel kendi ışığını üretir ve mobil cihazlarda yüksek kontrast, canlı renkler ve ince tasarım sağlar.",
+    "options": [
+      "LCD",
+      "OLED",
+      "Plasma",
+      "CRT"
+    ],
+    "correctAnswer": "OLED",
+    "tags": [
+      "mobil-teknoloji",
+      "ekran",
+      "donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7y8f35f3r",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "iOS işletim sistemi hangi şirket tarafından geliştirilmiştir?",
+    "explanation": "iOS, Apple tarafından geliştirilen ve iPhone, iPad gibi cihazlarda kullanılan kapalı bir mobil işletim sistemidir.",
+    "options": [
+      "Google",
+      "Apple",
+      "Samsung",
+      "Microsoft"
+    ],
+    "correctAnswer": "Apple",
+    "tags": [
+      "mobil-teknoloji",
+      "işletim-sistemi",
+      "iOS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bo9ecn0cn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "5G teknolojisinin temel avantajı nedir?",
+    "explanation": "5G teknolojisi, daha yüksek veri hızları, çok daha düşük gecikme süreleri (latency) ve aynı anda bağlanabilen çok sayıda cihaz kapasitesi sunar.",
+    "options": [
+      "Daha düşük veri hızı",
+      "Daha yüksek bağlantı kapasitesi ve gecikme süresi",
+      "Daha büyük cihaz boyutu",
+      "Daha az enerji tüketimi"
+    ],
+    "correctAnswer": "Daha yüksek bağlantı kapasitesi ve gecikme süresi",
+    "tags": [
+      "mobil-teknoloji",
+      "5G",
+      "iletişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lym8v1deo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Android işletim sistemi hangi açık kaynak projesi kullanır?",
+    "explanation": "AOSP (Android Open Source Project), Android işletim sisteminin açık kaynak kodlu temelidir ve farklı cihaz üreticileri tarafından özelleştirilir.",
+    "options": [
+      "AOSP",
+      "iOS SDK",
+      "Windows Driver",
+      "macOS Framework"
+    ],
+    "correctAnswer": "AOSP",
+    "tags": [
+      "mobil-teknoloji",
+      "Android",
+      "açık-kaynak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xhxyscwyi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "Mobil cihazlarda biyometrik kimlik doğrulama için hangi teknoloji yaygın kullanılır?",
+    "explanation": "Mobil cihazlarda en yaygın biyometrik kimlik doğrulama yöntemi parmak izi okuyucudur, ancak bazı cihazlar yüz tanıma ve diğer yöntemleri de destekler.",
+    "options": [
+      "Parmak izi okuyucu",
+      "Yüz tanıma",
+      "Dokunmatik ID",
+      "Şifreli bellek"
+    ],
+    "correctAnswer": "Parmak izi okuyucu",
+    "tags": [
+      "mobil-teknoloji",
+      "biyometrik",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "veypyhn3n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil cihazlarda enerji tasarrufu sağlamak için hangi teknoloji kullanılır?",
+    "explanation": "Deep Sleep teknolojisi, cihazın aktif kullanım dışı olduğunda düşük güç moduna geçerek enerji tüketimini önemli ölçüde azaltır.",
+    "options": [
+      "Deep Sleep",
+      "Fast Charging",
+      "Touchscreen",
+      "NFC"
+    ],
+    "correctAnswer": "Deep Sleep",
+    "tags": [
+      "mobil teknolojiler",
+      "enerji tasarrufu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lq1ah0qji",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "5G network'ün temel avantajı nedir?",
+    "explanation": "5G teknolojisi, önceki nesillere göre 10-100 kat daha yüksek veri hızları ve milisaniyeler düzeyinde daha düşük gecikme süreleri sunar.",
+    "options": [
+      "Düşük veri hızı",
+      "Yüksek gecikme süresi",
+      "Bileşen yoğunluğu",
+      "Daha yüksek veri hızı ve daha düşük gecikme"
+    ],
+    "correctAnswer": "Daha yüksek veri hızı ve daha düşük gecikme",
+    "tags": [
+      "5G",
+      "mobil ağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qdlk9605m",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil cihazlarda biyometrik kimlik doğrulama hangi teknoloji kullanır?",
+    "explanation": "Face ID teknolojisi, cihazın kamerasını kullanarak yüz tanıma ile kullanıcıyı kimlik doğrular.",
+    "options": [
+      "Face ID",
+      "NFC",
+      "Bluetooth",
+      "Wi-Fi"
+    ],
+    "correctAnswer": "Face ID",
+    "tags": [
+      "biyometrik",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nkkavi2t2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil uygulama geliştirme için hangi işletim sistemi kullanılır?",
+    "explanation": "Android ve iOS, mobil cihazların en yaygın işletim sistemleridir ve bu platformlar için özel uygulama geliştirme araçları mevcuttur.",
+    "options": [
+      "Windows",
+      "Linux",
+      "Android ve iOS",
+      "macOS"
+    ],
+    "correctAnswer": "Android ve iOS",
+    "tags": [
+      "mobil uygulama geliştirme",
+      "işletim sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ghvcrdbl6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "Mobil cihazlarda gerçek zamanlı çeviri hangi teknoloji sağlar?",
+    "explanation": "Gerçek zamanlı çeviri uygulamaları, büyük dil modellerini barındıran bulut altyapısını kullanarak anlık çeviri hizmeti sunar.",
+    "options": [
+      "Voice Recognition",
+      "AR",
+      "Cloud Computing",
+      "Blockchain"
+    ],
+    "correctAnswer": "Cloud Computing",
+    "tags": [
+      "çeviri teknolojisi",
+      "mobil bulut"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9zc0rnhfw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil teknolojilerde en yaygın kullanılan işletim sistemlerinden biri hangisidir?",
+    "explanation": "iOS (Apple) ve Android (Google) mobil cihazlarda en yaygın kullanılan işletim sistemleridir.",
+    "options": [
+      "Windows Mobile",
+      "iOS ve Android",
+      "BlackBerry OS",
+      "Tizen"
+    ],
+    "correctAnswer": "iOS ve Android",
+    "tags": [
+      "mobil",
+      "işletim sistemi",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bgphm3uef",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "5G teknolojisi hangi özellik sunar?",
+    "explanation": "5G teknolojisi daha yüksek veri hızı, geniş ağ kapasitesi ve düşük gecikme (latency) sunar.",
+    "options": [
+      "Daha düşük veri hızı",
+      "Yüksek kapasite ve düşük gecikme süresi",
+      "Sadece ses iletişimi",
+      "Kablosuz şarj"
+    ],
+    "correctAnswer": "Yüksek kapasite ve düşük gecikme süresi",
+    "tags": [
+      "5G",
+      "teknoloji",
+      "iletişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z61w7kw0i",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil cihazlarda NFC teknolojisinin ana kullanım amacı nedir?",
+    "explanation": "NFC (Near Field Communication) dokunmatik ödemeler, kart okuma ve hızlı veri transferi için kullanılır.",
+    "options": [
+      "Video çalma",
+      "Kablosuz internet",
+      "Dokunmatik ekran kontrolü",
+      "Ödeme işlemleri ve veri aktarımı"
+    ],
+    "correctAnswer": "Ödeme işlemleri ve veri aktarımı",
+    "tags": [
+      "NFC",
+      "mobil",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d9irec2zv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Hangi mobil uygulama kategorisi en çok kullanıcıya sunulan hizmetleri içerir?",
+    "explanation": "WhatsApp, Instagram gibi sosyal medya ve iletişim uygulamaları en çok kullanılan kategoridir.",
+    "options": [
+      "Sadece oyun uygulamaları",
+      "Sosyal medya ve iletişim",
+      "Tek tek fotoğraf filtreleri",
+      "Yazılım geliştirme araçları"
+    ],
+    "correctAnswer": "Sosyal medya ve iletişim",
+    "tags": [
+      "mobil uygulama",
+      "sosyal medya",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jqjr9dvpj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "Mobil teknolojide IoT (Nesnelerin İnterneti) ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "IoT, sensör ve bağlantı teknolojisi ile fiziksel cihazların internete bağlanmasını sağlar.",
+    "options": [
+      "Sadece mobil cihazlar arasında bağlantı",
+      "Fiziksel nesnelerin internete bağlanması",
+      "Dokunmatik ekranlı cihazlar için kullanılır",
+      "Yapay zeka için gereklidir"
+    ],
+    "correctAnswer": "Fiziksel nesnelerin internete bağlanması",
+    "tags": [
+      "IoT",
+      "mobil teknoloji",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ut5hqufg7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil teknolojilerde 'smartphone' terimi hangi cihazı ifade eder?",
+    "explanation": "Smartphone (akıllı telefon), hem sesli arama hem de veri işleme, dokunmatik ekran, işletim sistemi (Android/iOS) ve çeşitli uygulama desteği sunan mobil cihazdır.",
+    "options": [
+      "Sadece arama yapabilen telefon",
+      "İşlemci, ekran ve işletim sistemi içeren akıllı telefon",
+      "Tüm özellikleri olan tablet bilgisayar",
+      "Dijital fotoğraf makinesi"
+    ],
+    "correctAnswer": "İşlemci, ekran ve işletim sistemi içeren akıllı telefon",
+    "tags": [
+      "temel-bilgi",
+      "donanım",
+      "mobil-terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ywbufq9fr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil cihazlarda kullanılan en yaygın işlemci mimarisi hangisidir?",
+    "explanation": "ARM mimarisi, mobil cihazlarda enerji verimliliği ve performans dengesi nedeniyle en yaygın kullanılan işlemci mimarisidir. Apple A/M serisi ve Qualcomm Snapdragon çipleri ARM tabanlıdır.",
+    "options": [
+      "x86",
+      "ARM",
+      "RISC-V",
+      "MIPS"
+    ],
+    "correctAnswer": "ARM",
+    "tags": [
+      "işlemci",
+      "donanım-mimari",
+      "mobil-çip"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q40rkr7fh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "Mobil uygulama güvenliğini artırmak için hangi yöntem önerilir?",
+    "explanation": "Mobil uygulamalarda kullanıcı verileri şifreli olarak (SSL/TLS) iletilmeli, bu sayede veri sızıntıları ve kötü amaçlı erişimler önlenir. Ayrıca uygulama içi yetkilendirme (OAuth) de önemlidir.",
+    "options": [
+      "Şifreli veri iletimi (SSL/TLS)",
+      "Açık kaynaklı kod paylaşımı",
+      "İnternet bağlantısı gerektirmemesi",
+      "Kullanıcı sayısının azaltılması"
+    ],
+    "correctAnswer": "Şifreli veri iletimi (SSL/TLS)",
+    "tags": [
+      "güvenlik",
+      "mobil-uygulama",
+      "veri-gizliliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fo9v1vbfz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "5G teknolojisinin mobil cihazlarda sağladığı temel avantaj nedir?",
+    "explanation": "5G teknolojisi, 4G'e kıyasla 10-100 kat daha yüksek veri hızı ve milisaniyelerce düşük gecikme süresi sağlar. Bu, akıllı şehirler, IoT cihazları ve otonom sistemler için kritiktir.",
+    "options": [
+      "Sadece daha büyük ekran",
+      "Daha yüksek veri hızı ve düşük gecikme süresi",
+      "Daha uzun pil ömrü",
+      "Daha fazla uygulama desteği"
+    ],
+    "correctAnswer": "Daha yüksek veri hızı ve düşük gecikme süresi",
+    "tags": [
+      "5G-teknoloji",
+      "iletişim-ağları",
+      "mobil-gelecek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j9wikmfzt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil cihazlarda depolama teknolojisi olarak en yaygın kullanılan hangisidir?",
+    "explanation": "Mobil cihazlarda eMMC (entegre Memory Card) ve UFS (Universal Flash Storage) teknolojileri kullanılır. UFS, daha yüksek bant genişliği ve performans sunar; modern akıllı telefonlarda tercih edilir.",
+    "options": [
+      "SD Kart",
+      "eMMC/UFS Flash Bellek",
+      "HDD Sabit Disk",
+      "CD-ROM"
+    ],
+    "correctAnswer": "eMMC/UFS Flash Bellek",
+    "tags": [
+      "depolama",
+      "bellek-teknolojisi",
+      "mobil-donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6j0m1aem7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil cihazlarda en yaygın kullanılan işletim sistemi hangisidir?",
+    "explanation": "Android, Google tarafından geliştirilen ve dünya genelinde en çok tercih edilen mobil işletim sistemidir.",
+    "options": [
+      "iOS",
+      "Android",
+      "Windows",
+      "Linux"
+    ],
+    "correctAnswer": "Android",
+    "tags": [
+      "mobil-os",
+      "işletim-sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tg31zd86y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "5G teknolojisinin mobil ağlarda sağladığı temel avantajlardan biri aşağıdakilerden hangisidir?",
+    "explanation": "5G, mevcut nesillere kıyasla daha yüksek veri transfer hızları ve çok daha düşük ağ gecikmeleri sunar.",
+    "options": [
+      "Daha düşük veri hızı",
+      "Artan bağlantı gecikmesi",
+      "Yüksek veri hızı ve düşük gecikme",
+      "Sadece sesli arama desteği"
+    ],
+    "correctAnswer": "Yüksek veri hızı ve düşük gecikme",
+    "tags": [
+      "mobil-ağlar",
+      "5G-teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "il5nf6ubh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "Mobil cihazlarda güvenlik ihlallerine neden olan yaygın bir tehdit türü hangisidir?",
+    "explanation": "Kötü amaçlı mobil uygulamalar, kullanıcı verilerini çalmak veya cihazı kontrol etmek için tasarlanmıştır.",
+    "options": [
+      "Fiziksel hasar",
+      "Şifreli dosyalar",
+      "Kötü amaçlı uygulamalar",
+      "Yanlış şarj adapter kullanımı"
+    ],
+    "correctAnswer": "Kötü amaçlı uygulamalar",
+    "tags": [
+      "mobil-güvenlik",
+      "uygulama-tehditleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "27yrcwrzx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil teknolojiler ile entegre çalışarak nesnelerin internetini (IoT) destekleyen bir örnek aşağıdakilerden hangisidir?",
+    "explanation": "Akıllı saatler, mobil cihazlarla senkronize çalışarak IoT ekosisteminin bir parçası olarak veri alışverişi yapar.",
+    "options": [
+      "Akıllı saat",
+      "Mobil oyun konsolu",
+      "Dijital fotoğraf makinesi",
+      "Geleneksel cep telefonu"
+    ],
+    "correctAnswer": "Akıllı saat",
+    "tags": [
+      "IoT",
+      "mobil-entegrasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ewsr13agq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil teknolojilerde kullanılan ve ödeme işlemlerini hızlandıran bir teknoloji aşağıdakilerden hangisidir?",
+    "explanation": "NFC (Near Field Communication), mobil cihazlarla fiziksel kartlar veya başka cihazlarla güvenli ve hızlı iletişim kurarak ödemeler yapılmasını sağlar.",
+    "options": [
+      "Bluetooth",
+      "NFC",
+      "Wi-Fi Direct",
+      "4G"
+    ],
+    "correctAnswer": "NFC",
+    "tags": [
+      "mobil-ödeme",
+      "teknoloji-standardları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sl0fa6185",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Mobil teknolojide hangi işletim sistemi en yaygın olarak akıllı telefonlarda kullanılır?",
+    "explanation": "iOS (Apple) ve Android (Google) günümüzde dünyadaki en yaygın akıllı telefon işletim sistemleridir.",
+    "options": [
+      "Windows Mobile",
+      "iOS ve Android",
+      "BlackBerry OS",
+      "Symbian"
+    ],
+    "correctAnswer": "iOS ve Android",
+    "tags": [
+      "Mobil Teknolojiler",
+      "İşletim Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qu6w72tda",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "5G teknolojisi mobil iletişim için hangi nesil teknolojidir?",
+    "explanation": "5G, 4G/LTE'den sonra gelen ve beşinci nesil mobil iletişim teknolojisidir.",
+    "options": [
+      "1. Nesil",
+      "2. Nesil",
+      "3. Nesil",
+      "4. Nesilden sonraki nesil"
+    ],
+    "correctAnswer": "4. Nesilden sonraki nesil",
+    "tags": [
+      "Mobil Teknolojiler",
+      "5G",
+      "İletişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6z9ej1ii4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil cihazlarda 'biometrik güvenlik' hangi yöntemleri içerir?",
+    "explanation": "Biometrik güvenlik fiziksel özelliklere (parmak izi, yüz) dayanan kimlik doğrulama yöntemleridir.",
+    "options": [
+      "Şifre",
+      "PIN kodu",
+      "Parmak izi ve yüz tanıma",
+      "Kart okuyucu"
+    ],
+    "correctAnswer": "Parmak izi ve yüz tanıma",
+    "tags": [
+      "Mobil Güvenlik",
+      "Biometri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ohjj025z4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Mobil teknolojide 'IoT' neye kısaltılmıştır?",
+    "explanation": "IoT (Internet of Things), nesnelerin interneti anlamına gelir ve mobil teknolojilerle entegre çalışır.",
+    "options": [
+      "Internet of Things",
+      "Information of Technology",
+      "Intelligent Operating Tools",
+      "Internal Online Transfer"
+    ],
+    "correctAnswer": "Internet of Things",
+    "tags": [
+      "Mobil Teknolojiler",
+      "IoT",
+      "Ağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32xg98fqi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "Ekranda 'touchscreen' teknolojisi hangi prensibe dayanır?",
+    "explanation": "Modern ekranlar kondüktif (iletken) veya kapasitif dokunma teknolojisi kullanır.",
+    "options": [
+      "Işık yansıma",
+      "Kondüktif ve kapasitif dokunma",
+      "Ses dalgaları",
+      "Magnetik alan"
+    ],
+    "correctAnswer": "Kondüktif ve kapasitif dokunma",
+    "tags": [
+      "Mobil Teknolojiler",
+      "Touchscreen",
+      "Donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xvhjh7oij",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Hangi akıllı telefon işletim sistemi Google tarafından geliştirilmiştir?",
+    "explanation": "Android, Google tarafından 2008 yılında geliştirilmiş açık kaynaklı mobil işletim sistemidir.",
+    "options": [
+      "iOS",
+      "Windows Phone",
+      "Android",
+      "HarmonyOS"
+    ],
+    "correctAnswer": "Android",
+    "tags": [
+      "Mobil Teknolojiler",
+      "İşletim Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9dxo8bo2d",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "5G teknolojisi hangi alanda önemli bir gelişmedir?",
+    "explanation": "5G, nesil 5 mobil iletişim teknolojisi olup daha yüksek veri hızları ve düşük gecikme süreleri sağlar.",
+    "options": [
+      "Elektrik Dağıtımı",
+      "Mobil İnternet Hızı ve Bağlantı",
+      "Uzay Araştırması",
+      "Nükleer Enerji"
+    ],
+    "correctAnswer": "Mobil İnternet Hızı ve Bağlantı",
+    "tags": [
+      "5G Teknolojisi",
+      "Mobil Ağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tl773w8py",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EASY",
+    "question": "Apple'ın geliştirdiği mobil işletim sistemi hangisidir?",
+    "explanation": "iOS, Apple tarafından iPhone ve iPad cihazları için geliştirilmiş kapalı kaynaklı işletim sistemidir.",
+    "options": [
+      "Android",
+      "iOS",
+      "Windows",
+      "Symbian"
+    ],
+    "correctAnswer": "iOS",
+    "tags": [
+      "Mobil Teknolojiler",
+      "Apple"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fur7ny3a1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "GENERAL",
+    "question": "Hangi teknoloji mobil cihazlarda parmak izi okuma özelliği sağlar?",
+    "explanation": "Biometrik teknolojiler, parmak izi gibi kişisel fiziksel özellikleri kullanarak kimlik doğrulama sağlar.",
+    "options": [
+      "Biometrik",
+      "Optik",
+      "Elektromanyetik",
+      "Akustik"
+    ],
+    "correctAnswer": "Biometrik",
+    "tags": [
+      "Mobil Güvenlik",
+      "Biometrik Kimlik Doğrulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "afkrz1xwr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Mobil Teknolojiler",
+    "difficulty": "EXPERT",
+    "question": "IoT (Nesnelerin İnterneti) mobil teknolojilerle hangi cihazları birbirine bağlar?",
+    "explanation": "IoT, mobil cihazlar üzerinden akıllı ev cihazları, sensörler ve diğer nesnelerin birbirine bağlanmasını sağlar.",
+    "options": [
+      "Sadece Bilgisayarlar",
+      "Akıllı Ev Cihazları ve Sensörler",
+      "Sadece Telefonlar",
+      "Sadece Arabalar"
+    ],
+    "correctAnswer": "Akıllı Ev Cihazları ve Sensörler",
+    "tags": [
+      "IoT",
+      "Mobil Teknolojiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

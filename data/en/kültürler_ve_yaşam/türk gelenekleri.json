@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "23iwtnset",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Turk geleneklerinde hangi bayram, Osmanlı dönemindeki sonbahar kurbanı ve yeni yıl kutlamalarını birleştirir?",
+    "explanation": "Kurban Bayramı (İdi Festivali), Osmanlı'da hem sonbahar kurbanı hem de yeni yıl kutlamalarını içeren önemli gelenekseldir.",
+    "options": [
+      "Ramazan Bayramı",
+      "Kurban Bayramı",
+      "Noel",
+      "Şeker Bayramı"
+    ],
+    "correctAnswer": "Kurban Bayramı",
+    "tags": [
+      "Turk Gelenekleri",
+      "Bayramlar",
+      "Osmanlı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "odko1dkgq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında 'lokma' adlı tatlı hangi özel günlerde servis edilir?",
+    "explanation": "Lokma, Türk mutfağında Ramazan Bayramı, Kurban Bayramı, düğünler ve diğer özel günlerde servis edilen geleneksel tatlıdır.",
+    "options": [
+      "Adeta",
+      "Bayramlar",
+      "Düğünler",
+      "Hepsi"
+    ],
+    "correctAnswer": "Hepsi",
+    "tags": [
+      "Turk Mutfağı",
+      "Lokma",
+      "Özel Günler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kgx9tlnj6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk kültüründe 'Teşekkür' ifadesi yerine hangi geleneksel söz kullanılır?",
+    "explanation": "Türk kültüründe biri ayrıldığında 'Allah'a emanet' ifadesi, teşekkür ve iyi dilekler için kullanılır.",
+    "options": [
+      "Amin",
+      "Allah'a emanet",
+      "Süper",
+      "Şükür"
+    ],
+    "correctAnswer": "Allah'a emanet",
+    "tags": [
+      "Turk Dili",
+      "Geleneksel Sözler",
+      "Teşekkür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfpoi2of3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Hangi Türk geleneksel oyunu, topu havada tutmak amacıyla oynanır?",
+    "explanation": "Türk geleneksel oyunlarında 'Top', topu havada tutmak amacıyla oynanır ve sosyal bağları güçlendirir.",
+    "options": [
+      "Zon",
+      "Top",
+      "Köy",
+      "Dünya"
+    ],
+    "correctAnswer": "Top",
+    "tags": [
+      "Turk Oyunları",
+      "Geleneksel Top",
+      "Hava Tutma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1p7srfr3a",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk bayrağında beyaz renkli hilal sembolü ne ifade eder?",
+    "explanation": "Türk bayrağında beyaz renkli hilal, barış ve huzur sembolü olarak kullanılır.",
+    "options": [
+      "Barış",
+      "Düğün",
+      "Ramazan",
+      "Hepsi"
+    ],
+    "correctAnswer": "Barış",
+    "tags": [
+      "Turk Bayrağı",
+      "Hilal",
+      "Simgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v3kauxjti",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk geleneksel kadın kıyafetlerinden biri olan 'çarşaf' ve 'peçe' hangi dönemde kullanılırdı?",
+    "explanation": "Çarşaf ve peçe, Osmanlı döneminden kalan Türk kadınlarının geleneksel örtü kıyafetleriydi. Bu kıyafetler, hem günlük yaşamda hem de dini törenlerde kullanılırdı.",
+    "options": [
+      "Osmanlı dönemi",
+      "Cumhuriyet dönemi",
+      "Antik dönem",
+      "İslamiyet sonrası"
+    ],
+    "correctAnswer": "Osmanlı dönemi",
+    "tags": [
+      "kılık-kiyafet",
+      "tarih",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "crjbu7pzb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Türk mutfağının milli yemeği olarak kabul edilen 'kebab' hangi bölgeye özeldir?",
+    "explanation": "Kebab, Türk mutfağının en önemli yemeği olarak kabul edilir ve her bölgede farklı şekillerde (Adana kebabı, Urfa kebabı, Şiş kebabı) hazırlanır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Güneydoğu Anadolu",
+      "Her yöre"
+    ],
+    "correctAnswer": "Her yöre",
+    "tags": [
+      "mutfak",
+      "yemek",
+      "kebab"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zj81knbwx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk halk müziğinde 'halay' ritmik dansı hangi enstrüman eşliğinde yapılır?",
+    "explanation": "Halay, zurna ve davul eşliğinde yapılan en yaygın Türk halk dansıdır. Genellikle düğünlerde ve bayramlarda oynanır.",
+    "options": [
+      "Zurna ve davul",
+      "Saz ve bağlama",
+      "Keman ve def",
+      "Ney ve kanun"
+    ],
+    "correctAnswer": "Zurna ve davul",
+    "tags": [
+      "müzik",
+      "dans",
+      "halay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tg3gv69bm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Türk geleneksel misafirperverlik anlayışında 'misafire su ikram etmek' ne anlama gelir?",
+    "explanation": "Türk kültüründe misafire su ikram etmek, ona saygı duyulduğunun ve değer verildiğinin önemli bir göstergesidir.",
+    "options": [
+      "Saygı göstermek",
+      "Dostluk bağını kurmak",
+      "İkram ve nezaket",
+      "Heçbiri"
+    ],
+    "correctAnswer": "Saygı göstermek",
+    "tags": [
+      "misafirperverlik",
+      "adab-ı muamele",
+      "nezaket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ya2jhisy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Kurban Bayramı'nda Türk geleneklerinde 'şükür yemeği' olarak bilinen hangi yemek yer?",
+    "explanation": "Kurban Bayramı'nda kurban edilen hayvanların eti pişirilerek aileler ve komşular arasında paylaşılır, bu gelenek 'şükür yemeği' olarak bilinir.",
+    "options": [
+      "Et yemekleri",
+      "Pilav",
+      "Manti",
+      "Sütlü tatlılar"
+    ],
+    "correctAnswer": "Et yemekleri",
+    "tags": [
+      "bayram",
+      "kurban",
+      "yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oyxrrb3ap",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Türklerin geleneksel ev yapımında kullanılan ve içi ahşap sepetlerle ayrılmış odaların adı nedir?",
+    "explanation": "Türklerin geleneksel ev yapımında kullanılan, içi ahşap sepetlerle ayrılmış odaların adı 'Hane'dir. Bu yapılar Türk kültürünün önemli bir parçasıdır.",
+    "options": [
+      "Hane",
+      "Köy",
+      "Mekan",
+      "Yurt"
+    ],
+    "correctAnswer": "Hane",
+    "tags": [
+      "Türk Gelenekleri",
+      "Ev Yapısı",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "di03j217c",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Hangisi Türklerin geleneksel bayramları arasında yer almaz?",
+    "explanation": "Ramazan Bayramı ve Kurban Bayramı Türklerin geleneksel bayramlarıdır. Noel ise Kristiyan bayramı olup Türk gelenekleri arasında yer almaz.",
+    "options": [
+      "Ramazan Bayramı",
+      "Kurban Bayramı",
+      "Yıl Dönümü",
+      "Noel"
+    ],
+    "correctAnswer": "Noel",
+    "tags": [
+      "Türk Gelenekleri",
+      "Bayramlar",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1zaksbpsv",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında geleneksel olarak yapılan ve çay ile eşlik edilen tatlı hangisidir?",
+    "explanation": "Lokum, Türk mutfağında geleneksel olarak yapılan ve çay ile eşlik edilen meşhur tatlıdır. Osmanlı döneminde dünya çapında tanınmıştır.",
+    "options": [
+      "Lokum",
+      "Baklava",
+      "Simit",
+      "Ekmek"
+    ],
+    "correctAnswer": "Lokum",
+    "tags": [
+      "Türk Mutfağı",
+      "Tatlılar",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jk8qzobvs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türklerin geleneksel giyiminde kullanılan ve başa konulan eşyanın adı nedir?",
+    "explanation": "Fes, Türklerin geleneksel giyiminde kullanılan ve başa konulan eşyanın adıdır. Osmanlı döneminde yaygın olarak kullanılmıştır.",
+    "options": [
+      "Şapka",
+      "Fes",
+      "Pelerin",
+      "Nefes"
+    ],
+    "correctAnswer": "Fes",
+    "tags": [
+      "Türk Gelenekleri",
+      "Giyim",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "77i82irrf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Türklerin aile yapısında geleneksel olarak büyüklerin yerine neyi koyarlar?",
+    "explanation": "Türklerin aile yapısında geleneksel olarak büyüklerin yerine Baba'yı koyarlar. Bu, Türk kültüründe saygı ve hiyerarşinin önemli bir parçasıdır.",
+    "options": [
+      "Değme",
+      "Baba",
+      "Anne",
+      "Kardeş"
+    ],
+    "correctAnswer": "Baba",
+    "tags": [
+      "Türk Ailesi",
+      "Gelenekler",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g15eguiwq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Türk kültüründe çay içme geleneğiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Türk kültüründe çay, geleneksel olarak şeffaf cam bardaklarda demlenir ve genellikle şekerli olarak sunulur. Bu içecek sosyal buluşmalarda merkezi rol oynar.",
+    "options": [
+      "Çay genellikle cam bardakta ve şekerli olarak içilir",
+      "Çay demlenmesi için en az 4 saat bekletilir",
+      "Türk çayı siyah çay değil yeşil çay kullanılır",
+      "Çay sadece sıcak olarak sunulur, buzlu tercih edilmez"
+    ],
+    "correctAnswer": "Çay genellikle cam bardakta ve şekerli olarak içilir",
+    "tags": [
+      "çay",
+      "gelenek",
+      "sosyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "abco2vhfe",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk tatlısı, kurabiye benzeri katlı yapıda ve fındıklı olarak bilinir?",
+    "explanation": "Baklava, ince hamur katları arasında fındık veya ceviz dolgu bulunan ve şerbetle demlenmiş geleneksel Türk tatlısıdır.",
+    "options": [
+      "Baklava",
+      "Sütlaç",
+      "Künefe",
+      "Halva"
+    ],
+    "correctAnswer": "Baklava",
+    "tags": [
+      "tatlı",
+      "mutfağı",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m6gzh96pc",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Ramazan Bayramı'nın Türk toplumu içindeki önemi nedir?",
+    "explanation": "Ramazan Bayramı, İslam ayının sonu ve Ramazan orucunun bitişini kutlar. Türk kültüründe ailelerin bir araya gelmesi ve birbirlerini ziyareti önemli geleneklerdir.",
+    "options": [
+      "Sadece dini bir gün, işler durur",
+      "Ailelerin bir araya geldiği, ziyaretlerin yapıldığı kutlama",
+      "Yalnızca camide ibadet yapılır",
+      "İş yerlerinde mola verilir"
+    ],
+    "correctAnswer": "Ailelerin bir araya geldiği, ziyaretlerin yapıldığı kutlama",
+    "tags": [
+      "ramazan",
+      "bayram",
+      "aile"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "66fixlnbc",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk misafirperverliği geleneğinde aşağıdakilerden hangisi yer alır?",
+    "explanation": "Türk kültüründe misafirperverlik, geleneksel olarak misafirlere çay, kahve, şerbet ve yemeğin ikram edilmesiyle ifade edilir.",
+    "options": [
+      "Misafirlere sadece su sunulur",
+      "Misafirler evin her yerine girer",
+      "Misafirlere içecek ve yemeğin ikram edilmesi beklenir",
+      "Misafirlerin kendileri yemek sipariş eder"
+    ],
+    "correctAnswer": "Misafirlere içecek ve yemeğin ikram edilmesi beklenir",
+    "tags": [
+      "misafirperverlik",
+      "gelenek",
+      "sosyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1tg8tfwqu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi Türk halk oyunu Anadolu'da en yaygın oynanan danslardan biridir?",
+    "explanation": "Horo, Anadolu'da köylüler ve halk arasında yaygın oynanan geleneksel Türk halk oyunudur. Özellikle düğünlerde ve toplu buluşmalarda icra edilir.",
+    "options": [
+      "Horo",
+      "Vals",
+      "Samba",
+      "Tango"
+    ],
+    "correctAnswer": "Horo",
+    "tags": [
+      "halk müziği",
+      "dans",
+      "geleneksel sanatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ob8bu9vu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "What is the traditional Turkish tea cup called 'çay bardağı' known for?",
+    "explanation": "Traditional Turkish tea cups are designed with a narrow opening to concentrate the tea's rich flavor and aroma, making each sip more flavorful.",
+    "options": [
+      "Its narrow shape that concentrates tea flavor",
+      "Its large size suitable for sharing among family",
+      "Its ability to maintain temperature better than other cups",
+      "Its decorative patterns representing regional art"
+    ],
+    "correctAnswer": "Its narrow shape that concentrates tea flavor",
+    "tags": [
+      "tea culture",
+      "türk gelenekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b45qxkb2b",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Which traditional practice involves applying henna to the bride's hands before a Turkish wedding?",
+    "explanation": "The Henna Night (Kına Gecesi) is a pre-wedding tradition where henna is applied to the bride's hands, symbolizing beauty, fertility, and protection from evil.",
+    "options": [
+      "Kına gecesi",
+      "Tören başı",
+      "Gelin düğünü",
+      "Düğün şarkısı"
+    ],
+    "correctAnswer": "Kına gecesi",
+    "tags": [
+      "wedding customs",
+      "henna ceremony"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ja8y7rij",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "What is 'misafirperverlik' in Turkish culture?",
+    "explanation": "Misafirperverlik refers to the Turkish tradition of welcoming and caring for guests with generosity, often serving food and tea without expecting anything in return.",
+    "options": [
+      "A traditional cooking method",
+      "The art of hospitality toward guests",
+      "A type of regional dance",
+      "Traditional wedding attire"
+    ],
+    "correctAnswer": "The art of hospitality toward guests",
+    "tags": [
+      "hospitality",
+      "social values"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "doml4pg2b",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Which traditional Turkish coffee ritual involves reading fortune from coffee grounds?",
+    "explanation": "Fal Bakma is the traditional practice of fortune-telling by examining the patterns left in coffee grounds after drinking Turkish coffee.",
+    "options": [
+      "Tahmin",
+      "Fal bakma",
+      "Şans oyunu",
+      "Kader tahmini"
+    ],
+    "correctAnswer": "Fal bakma",
+    "tags": [
+      "coffee culture",
+      "fortune telling"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uh18hphs2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "What does 'bayram' celebrate in Turkish tradition?",
+    "explanation": "Bayram in Turkish tradition primarily refers to religious Islamic festivals including Eid al-Fitr (Ramadan ending) and Eid al-Adha, celebrated with family gatherings, prayers, and traditional foods.",
+    "options": [
+      "A national holiday",
+      "Religious festivals like Eid al-Fitr and Eid al-Adha",
+      "Traditional sports competitions",
+      "Regional cultural events"
+    ],
+    "correctAnswer": "Religious festivals like Eid al-Fitr and Eid al-Adha",
+    "tags": [
+      "religious holidays",
+      "cultural celebrations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "631ak0y70",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Türklerin en yaygın geleneksel içeceği hangisidir?",
+    "explanation": "Ayran, Türk mutfağının en temel içeceklerinden biri olup, tuzlu süt ve su karışımı olarak halk arasında yaygın tüketilir.",
+    "options": [
+      "Ayran",
+      "Kahve",
+      "Çay",
+      "Şarap"
+    ],
+    "correctAnswer": "Ayran",
+    "tags": [
+      "kültür",
+      "içecekler",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2oqmmxw4s",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk bayramları arasında hangisi Kurban Bayramı'dan farklı olarak 'Karaçomak' geleneğiyle bilinir?",
+    "explanation": "Bu soru Türk kültüründeki geleneksel hamur işi türlerini test eder. Şeker Hamuru, özellikle Ramazan Bayramı'nda yaygın tüketilir.",
+    "options": [
+      "Şeker Hamuru",
+      "Süt Hamuru",
+      "Yarım Hamuru",
+      "Kırk Yüz"
+    ],
+    "correctAnswer": "Şeker Hamuru",
+    "tags": [
+      "bayramlar",
+      "gelenekler",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tbodp13xr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türklerin evlerinde ziyaretçilere sundukları geleneksel tatlı hangisidir?",
+    "explanation": "Lokma, Türk mutfağının en popüler tatlılarından biri olup, süt ve un karışımıyla hazırlanır ve ziyaretçilere sıkça sunulur.",
+    "options": [
+      "Künefe",
+      "Lokma",
+      "Baklava",
+      "Düğün Tava"
+    ],
+    "correctAnswer": "Lokma",
+    "tags": [
+      "tatlılar",
+      "gelenekler",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o4clmldr4",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Türk kültüründe 'Kızıltuğ' geleneği neyi ifade eder?",
+    "explanation": "Kızıltuğ, Türk kültüründe yeni evli çiftlere özel olarak sunulan geleneksel bir törendir ve düğünlerde önemli yer tutar.",
+    "options": [
+      "Yeni evli çiftlere sunulan gelenek",
+      "Bayramlarda yediği yemekler",
+      "Ziyaretçilere verilen hediyeler",
+      "Halk oyunları"
+    ],
+    "correctAnswer": "Yeni evli çiftlere sunulan gelenek",
+    "tags": [
+      "düğün",
+      "gelenekler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "75oge737o",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Türklerin geleneksel dansı hangisidir?",
+    "explanation": "Horo, Türk kültürünün en yaygın halk danslarından biri olup, özellikle Karadeniz bölgesinde popüler bir törendir.",
+    "options": [
+      "Sizil",
+      "Horo",
+      "Zeybek",
+      "Folklor"
+    ],
+    "correctAnswer": "Horo",
+    "tags": [
+      "dans",
+      "kültür",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wddbsmsm2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında 'baklava' geleneği hangi tarihten beri bilinmektedir?",
+    "explanation": "Baklava geleneği Osmanlı mutfağında 16. yüzyıldan beri bilinmektedir ve özellikle İstanbul'da popüler hale gelmiştir.",
+    "options": [
+      "14. yüzyıldan beri",
+      "16. yüzyıldan beri",
+      "18. yüzyıldan beri",
+      "20. yüzyıldan beri"
+    ],
+    "correctAnswer": "16. yüzyıldan beri",
+    "tags": [
+      "Mutfağın Tarihi",
+      "Kültürel Miras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lhr3u8zlj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk geleneksel giyiminde erkekler için 'fes' hangi dönemde kullanılmaya başlanmıştır?",
+    "explanation": "Fes, Osmanlı Devleti'nin kuruluşundan beri Türk geleneksel giyiminin önemli bir parçası olarak kullanılmıştır.",
+    "options": [
+      "Osmanlı Devleti döneminden",
+      "Cumhuriyet'ten sonra",
+      "19. yüzyıl sonlarında",
+      "20. yüzyıl başlarında"
+    ],
+    "correctAnswer": "Osmanlı Devleti döneminden",
+    "tags": [
+      "Geleneksel Giyim",
+      "Tarihi Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ybfp6hzyy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Türk kültüründe 'Nevruz Bayramı' hangi mevsim başlangıcını simgeler?",
+    "explanation": "Nevruz Bayramı, yılın başlangıcını ve ilkbaharı simgeler; Türk kültüründe binlerce yıldır kutlanmaktadır.",
+    "options": [
+      "İlkbahar",
+      "Yaz",
+      "Sonbahar",
+      "Kış"
+    ],
+    "correctAnswer": "İlkbahar",
+    "tags": [
+      "Bayramlar",
+      "Mevsimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b8kp7fc2t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında 'çay' geleneği hangi tarihte İstanbul'da popülerleşmiştir?",
+    "explanation": "Çay geleneği 18. yüzyılda İstanbul'da popülerleşmiş ve Türk kültürünün olmazsa olmazlarından biri haline gelmiştir.",
+    "options": [
+      "17. yüzyıl",
+      "18. yüzyıl",
+      "19. yüzyıl",
+      "20. yüzyıl"
+    ],
+    "correctAnswer": "18. yüzyıl",
+    "tags": [
+      "Mutfağın Tarihi",
+      "Çay Geleneği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vns3x5gvx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Türk geleneksel ev yapımında 'ahşap' kullanımı hangi bölgede daha yaygındır?",
+    "explanation": "Karadeniz Bölgesi'nde ahşap kullanımı geleneksel ev yapımında yaygındır; özellikle ahşap çubuklardan inşa edilen 'ahşap evler' bölgedeki kültürün önemli bir parçasıdır.",
+    "options": [
+      "Karadeniz Bölgesi",
+      "Akdeniz Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "Güneydoğu Anadolu Bölgesi"
+    ],
+    "correctAnswer": "Karadeniz Bölgesi",
+    "tags": [
+      "Geleneksel Mimari",
+      "Bölgesel Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0k7oa8126",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk kültüründe hangi bayramda aileler bir araya gelerek yemenin en önemli öğesi olarak kabul edilen yemek hazırlanır?",
+    "explanation": "Ramazan Bayramında aileler bir araya gelerek yemenin önemli öğesi olarak kabul edilen yemekler hazırlanır.",
+    "options": [
+      "A) Ramazan Bayramı",
+      "B) Kurban Bayramı",
+      "C) Çiftçilik Bayramı",
+      "D) Yeni Yıl Bayramı"
+    ],
+    "correctAnswer": "A) Ramazan Bayramı",
+    "tags": [
+      "Türk Gelenekleri",
+      "Bayramlar",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0t1wqf3rx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağının en meşhur tatlılarından biri olan baklava hangi özel günlerde sıklıkla yenir?",
+    "explanation": "Baklava Türk mutfağının en meşhur tatlılarından biri olup, Ramazan ve Kurban Bayramlarında sıkça yenir.",
+    "options": [
+      "A) Ramazan Bayramı ve Kurban Bayramı",
+      "B) Sadece Yılbaşı",
+      "C) Sadece Düğünler",
+      "D] Sadece Doğum Günleri"
+    ],
+    "correctAnswer": "A) Ramazan Bayramı ve Kurban Bayramı",
+    "tags": [
+      "Türk Mutfağı",
+      "Tatlılar",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kfwd034p9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk kültüründe hangi gelenekte kına töreni yapılır?",
+    "explanation": "Kına töreni Türk kültüründe düğünlerinde yapılır ve neşeli bir gelenektir.",
+    "options": [
+      "A) Düğünlerde",
+      "B) Doğum günlerinde",
+      "C) Mezar taşında",
+      "D] Bayramlarda"
+    ],
+    "correctAnswer": "A) Düğünlerde",
+    "tags": [
+      "Türk Gelenekleri",
+      "Kına Töreni",
+      "Düğünler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "feg81u8h3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında hangi et türü en sık kullanılan besin kaynağıdır?",
+    "explanation": "Türk mutfağında kuzu et türü en sık kullanılan besin kaynağıdır.",
+    "options": [
+      "A) Kuzu",
+      "B) Tavuk",
+      "C) Balık",
+      "D] Sığır"
+    ],
+    "correctAnswer": "A) Kuzu",
+    "tags": [
+      "Türk Mutfağı",
+      "Et Türleri",
+      "Beslenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ao9f89e9i",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk kültüründe hangi bayramda aileler bir araya gelerek yemenin önemli öğesi kabul edilen yemek hazırlanır?",
+    "explanation": "Ramazan Bayramında aileler bir araya gelerek yemenin önemli öğesi olarak kabul edilen yemekler hazırlanır.",
+    "options": [
+      "A) Ramazan Bayramı",
+      "B) Kurban Bayramı",
+      "C) Çiğdem Bayramı",
+      "D] Gül Bayramı"
+    ],
+    "correctAnswer": "A) Ramazan Bayramı",
+    "tags": [
+      "Türk Gelenekleri",
+      "Bayramlar",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xkex427bd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk geleneklerinde Yeni Yıl kutlaması sırasında hangi renk daha çok tercih edilir?",
+    "explanation": "Türk kültüründe yeni yıl kutlamalarında kırmızı renk şans ve mutluluk sembolü olarak tercih edilir.",
+    "options": [
+      "Kırmızı",
+      "Yeşil",
+      "Mavi",
+      "Sarı"
+    ],
+    "correctAnswer": "Kırmızı",
+    "tags": [
+      "Yeni Yıl",
+      "Türk Gelenekleri",
+      "Renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kkepk6c4s",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında hangi yemek 'Kara Tatlı' olarak bilinir?",
+    "explanation": "Kara tatlı, Türk mutfağında özel bir yer tutan geleneksel bir tatlıdır.",
+    "options": [
+      "Baklava",
+      "Sütlaç",
+      "Kara Tatlı",
+      "Peynirli Yufka"
+    ],
+    "correctAnswer": "Kara Tatlı",
+    "tags": [
+      "Mutfak",
+      "Türk Yemekleri",
+      "Tatlılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a9s2rcwih",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk bayramlarında 'Ramazan Bayramı' kaç gün sürer?",
+    "explanation": "Ramazan Bayramı geleneksel olarak 3 gün süren bir bayramdır.",
+    "options": [
+      "3 gün",
+      "7 gün",
+      "15 gün",
+      "20 gün"
+    ],
+    "correctAnswer": "3 gün",
+    "tags": [
+      "Bayramlar",
+      "Ramazan",
+      "Dinî Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jzmprs916",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk kültüründe 'Kurban Bayramı' sırasında hangi hayvan kurban edilmez?",
+    "explanation": "Türk ve İslam kültüründe domuz kurban edilmemektedir.",
+    "options": [
+      "İnek",
+      "Koyun",
+      "Domuz",
+      "At"
+    ],
+    "correctAnswer": "Domuz",
+    "tags": [
+      "Kurban Bayramı",
+      "Hayvanlar",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cvqoziko8",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "Türk geleneklerinde 'Zeybek' hangi bölgeyle ilişkilidir?",
+    "explanation": "Zeybek, Ege Bölgesi'ne özgü geleneksel bir folk müziği ve dans türüdür.",
+    "options": [
+      "Trakya",
+      "Ege",
+      "Doğu Anadolu",
+      "Kızılçay"
+    ],
+    "correctAnswer": "Ege",
+    "tags": [
+      "Müzik",
+      "Dance",
+      "Bölgesel Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lnwwl814g",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk geleneklerinde 'Nevruz Bayramı' hangi takvimde kutlanır ve ne anlama gelir?",
+    "explanation": "Nevruz Bayramı, Türk kültüründe her yıl 21 Mart'ta Gregoryen takvimde kutlanan ve baharın başlangıcını simgeleyen önemli bir bayramdır. Anadolu'da yüzyıllardır sürdürülen bu gelenek, yaşamın yeniden başladığını temsil eder.",
+    "options": [
+      "Gregoryen takvim, bahar başlangıcı",
+      "Hicri takvim, kış sonu",
+      "İslami takvim, ramazan öncesi",
+      "Jülyen takvim, yaz başlangıcı"
+    ],
+    "correctAnswer": "Gregoryen takvim, bahar başlangıcı",
+    "tags": [
+      "bayramlar",
+      "nevruz",
+      "türk gelenekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d6swebu46",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında 'lokanta kültürü' hangi döneme tarihlenir ve ne özelliği vardır?",
+    "explanation": "Lokanta kültürü, Türkiye Cumhuriyeti'nin 1930-40'lu yıllarında gelişmiş halk yemeği kültürüdür. Özellikle İstanbul'da meşhur lokantalarla başlayan bu gelenek, Türk ev yemeklerini toplulukta paylaşmayı temsil eder.",
+    "options": [
+      "Osmanlı dönemi, lüks yemekler",
+      "Cumhuriyet dönemi, halk yemeği",
+      "Selçuklu dönemi, şık restoranlar",
+      "İslami dönem, dini yemekler"
+    ],
+    "correctAnswer": "Cumhuriyet dönemi, halk yemeği",
+    "tags": [
+      "lokanta",
+      "mutfağımız",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g8k5lx6xg",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EASY",
+    "question": "Türk bayramlarında 'dilek tutma' geleneği hangi ayda en yoğun yaşanır?",
+    "explanation": "Türk bayramlarında dilek tutma geleneği, özellikle Ramazan ayı ve Bayram günlerinde yoğunlaşır. İnsanlar bayrak açan meşhur yerlerde veya evlerinde yeni yıla veya bayrama dair dileklerini gerçekleştirir.",
+    "options": [
+      "Ramazan",
+      "Şevval",
+      "Cemaziyelevvel",
+      "Muharrem"
+    ],
+    "correctAnswer": "Ramazan",
+    "tags": [
+      "dilek tutma",
+      "ramazan",
+      "bayramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "57glmju7m",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "GENERAL",
+    "question": "'Aşı' geleneği hangi Türk kültüründe daha yaygındır ve ne anlama gelir?",
+    "explanation": "Aşı geleneği, Anadolu Türk kültüründe yaygın olarak bilinen bir kahramanlık ve geleneksel yemek ritüelidir. Özellikle 'Kılıç Ali' gibi figürlerle anılan bu gelenek, toplulukta birlik ve beraberlik sembolüdür.",
+    "options": [
+      "Kırım Tatarları, savaş sonrası",
+      "Anadolu Türkleri, kahramanlık",
+      "Doğu Türkleri, bereket",
+      "Batı Türkleri, sevgi"
+    ],
+    "correctAnswer": "Anadolu Türkleri, kahramanlık",
+    "tags": [
+      "aşı",
+      "kahramanlık",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "crdnapi8c",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Türk Gelenekleri",
+    "difficulty": "EXPERT",
+    "question": "'Televizyon programlarındaki halk oyunları' hangi döneme tarihlenir ve ne özelliği vardır?",
+    "explanation": "Türk televizyonlarında halk oyunları programları, 1970'lerde yoğunlaştı ve Anadolu'daki geleneksel dansları (Halay, Horon, Doyran) popüler hale getirdi. Bu programlar Türk kültürünün dünyaya tanıtılmasında önemli rol oynadı.",
+    "options": [
+      "1970'ler, folklorik danslar",
+      "1980'ler, modern müzik",
+      "1960'lar, eğlence programları",
+      "1990'lar, spor programları"
+    ],
+    "correctAnswer": "1970'ler, folklorik danslar",
+    "tags": [
+      "folklor",
+      "televizyon",
+      "danslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

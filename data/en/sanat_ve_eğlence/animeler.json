@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "yjc88ya63",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Animelerde 'isekai' (başka dünya) türünün en bilinen özelliği nedir?",
+    "explanation": "Isekai türünde anahtar özellik, genellikle protagonist'in gerçek dünyadan alternatif bir evrene (fantastik, teknolojik veya büyülü) geçiş yapmasıdır.",
+    "options": [
+      "Gerçek dünyada geçen hikayeler",
+      "Bir karakterin başka bir dünyaya taşınması",
+      "Sadece çocuklara yönelik içerikler",
+      "Teknoloji odaklı senaryolar"
+    ],
+    "correctAnswer": "Bir karakterin başka bir dünyaya taşınması",
+    "tags": [
+      "isekai",
+      "tür",
+      "animeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "las5e4n9a",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Gundam serisinin ilk anime filmi hangi yılda yayınlandı?",
+    "explanation": "Gundam serisinin ilk filmi 'Mobile Suit Gundam: The Movie' 1981'de, ancak TV serisi 1979'da başladı ve bu yıl mecha animelerinin dönüm noktası olarak kabul edilir.",
+    "options": [
+      "1979",
+      "1980",
+      "1981",
+      "1978"
+    ],
+    "correctAnswer": "1979",
+    "tags": [
+      "gundam",
+      "film tarihi",
+      "mecha"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0e7znw7qg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Neon Genesis Evangelion'un temel teması nedir?",
+    "explanation": "Evangelion sadece aksiyon değil, aynı zamanda karakterlerin içsel travmaları, yalnızlık ve insanlığın kırılganlığı gibi derin psikolojik temaları işler.",
+    "options": [
+      "Romantik komedi",
+      "Psikolojik travma ve insanlık krizi",
+      "Bilim kurgu aksiyonu",
+      "Okul draması"
+    ],
+    "correctAnswer": "Psikolojik travma ve insanlık krizi",
+    "tags": [
+      "evangelion",
+      "tema",
+      "psikoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ccd1geww",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "\"Anime\" kelimesinin etimolojik kökeni nedir?",
+    "explanation": "\"Anime\" kelimesi 1957 yılında ABD'de yapılan bir animasyon festivalinde \"animation\" kelimesinin Japonca telaffuzundan (アニメ) türemiştir.",
+    "options": [
+      "Japonca 'animasyon' sözcüğünden",
+      "İngilizce 'animation'dan",
+      "Fransızca 'anima'dan",
+      "Çince karakterden"
+    ],
+    "correctAnswer": "İngilizce 'animation'dan",
+    "tags": [
+      "etimoloji",
+      "kelime tarihi",
+      "animasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7w3wbfcgj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Spirited Away'un (Bağırışlı Yoldan Geçen) Oscar ödülü hangi kategoride kazandı?",
+    "explanation": "2003 yılında Hayao Miyazaki'nin yönettiği Spirited Away, 76. Akademi Ödülleri'nde En İyi Animasyon Film dalında Oscar kazandı.",
+    "options": [
+      "En İyi Animasyon Film",
+      "En İyi Yönetmen",
+      "En İyi Senaryo",
+      "En İyi Görsel Efektler"
+    ],
+    "correctAnswer": "En İyi Animasyon Film",
+    "tags": [
+      "spirited away",
+      "oscar ödülleri",
+      "hayao miyazaki"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dssct7mty",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Animelerde en çok kullanılan ve 'shonen' olarak adlandırılan hedef kitle nedir?",
+    "explanation": "Shonen, Japonya'da genellikle 12-15 yaş arası erkek çocukları hedefleyen manga ve anime türüdür.",
+    "options": [
+      "Kız çocuklar",
+      "Erkek çocuklar ve gençler",
+      "Kadınlar",
+      "Yaşlılar"
+    ],
+    "correctAnswer": "Erkek çocuklar ve gençler",
+    "tags": [
+      "Animeler",
+      "Hedef Kitle",
+      "Shonen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v37exuzyj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Hangi anime dizisi 1980'lerin başında yayınlanarak modern animenin temellerini atmıştır?",
+    "explanation": "Astro Boy (1963), Osamu Tezuka tarafından yapılmış ve Japonya'nın ilk uzun metrajlı animesidir.",
+    "options": [
+      "Dragon Ball",
+      "Sailor Moon",
+      "Astro Boy",
+      "One Piece"
+    ],
+    "correctAnswer": "Astro Boy",
+    "tags": [
+      "Animeler",
+      "Tarih",
+      "Osamu Tezuka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5g6fha8d7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "'Seiyuu' terimi anime dünyasında ne ifade eder?",
+    "explanation": "Seiyuu, Japonca 'ses oyuncusu' anlamına gelir ve anime/manga karakterlerini seslendiren kişilerdir.",
+    "options": [
+      "Animasyon çizim stüdyosu",
+      "Anime seslendirme sanatçısı",
+      "Manga yazarı",
+      "Anime distribütörü"
+    ],
+    "correctAnswer": "Anime seslendirme sanatçısı",
+    "tags": [
+      "Animeler",
+      "Seslendirme",
+      "Seiyuu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "19btuj2i0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi anime türü genellikle romantik komedi ve günlük hayat hikayelerini içerir?",
+    "explanation": "Slice of Life, karakterlerin günlük yaşamlarını ve ilişkilerini anlatan anime türüdür.",
+    "options": [
+      "Shonen",
+      "Isekai",
+      "Slice of Life",
+      "Horror"
+    ],
+    "correctAnswer": "Slice of Life",
+    "tags": [
+      "Animeler",
+      "Türler",
+      "Romantik Komedi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4id8cjf5p",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Kimihiro Oda'nın 'Death Note' adlı manga/animesi hangi türden bir yapıttır?",
+    "explanation": "Death Note, Tsugumi Ohba tarafından yazılmış ve Yoh Yoshida tarafından çizilmiş psikolojik gerilim anime/mangasıdır.",
+    "options": [
+      "Makoto Shinkai",
+      "Yoshiyuki Sadamoto",
+      "Tsugumi Ohba",
+      "Naoki Urasawa"
+    ],
+    "correctAnswer": "Tsugumi Ohba",
+    "tags": [
+      "Animeler",
+      "Death Note",
+      "Yazarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sl9upjp8f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EASY",
+    "question": "Hangi anime türü, 1960'lardan beri Japonya'da genç kitleye hitap eder?",
+    "explanation": "Shonen anime, özellikle 1960'lardan beri Japonya'da genç kitleye hitap eden ve popüler bir türdür.",
+    "options": [
+      "Shonen",
+      "Seinen",
+      "Mecha",
+      "Slice of Life"
+    ],
+    "correctAnswer": "Shonen",
+    "tags": [
+      "anime_history",
+      "tür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jksqx7alc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Naruto serisinin ana karakteri kimdir?",
+    "explanation": "Naruto Uzumaki, Naruto serisinin baş karakteri olup ninja dünyasında önemli bir figürdür.",
+    "options": [
+      "Sasuke",
+      "Naruto Uzumaki",
+      "Sakura",
+      "Kakashi"
+    ],
+    "correctAnswer": "Naruto Uzumaki",
+    "tags": [
+      "characters",
+      "naruto"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n4h8u41hm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi anime, 1995 yılında yayınlanmış ve 'Mecha' türündedir?",
+    "explanation": "Neon Genesis Evangelion, 1995'te yayınlanmış mecha türündeki klasik bir anime seriye örnektir.",
+    "options": [
+      "Neon Genesis Evangelion",
+      "Attack on Titan",
+      "Fullmetal Alchemist",
+      "Demon Slayer"
+    ],
+    "correctAnswer": "Neon Genesis Evangelion",
+    "tags": [
+      "mecha",
+      "anime_history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ivz59thsq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi anime karakteri 'Saitama' olarak adlandırılır?",
+    "explanation": "Saitama, One Punch Man serisinin ana karakteridir ve 2015'te yayınlanmıştır.",
+    "options": [
+      "One Punch Man",
+      "Tokyo Ghoul",
+      "Attack on Titan",
+      "Haikyuu"
+    ],
+    "correctAnswer": "One Punch Man",
+    "tags": [
+      "characters",
+      "one_punch_man"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "itf74zehy",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Hangi anime, 2016 yılında yayınlanmış ve 'Isekai' türündedir?",
+    "explanation": "Re:Zero - Starting Life in Another World, 2016'da yayınlanmış ve Isekai türündeki popüler bir anime serisidir.",
+    "options": [
+      "Re:Zero",
+      "Sword Art Online",
+      "Konosuba",
+      "No Game No Life"
+    ],
+    "correctAnswer": "Re:Zero",
+    "tags": [
+      "isekai",
+      "anime_history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l9m0jad2f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Hangi anime serisi 'Kadının Dünyası' (Girls Frontline) ile ilgili olarak gerçek bir şirketin yapay zeka projesini konu almaktadır?",
+    "explanation": "Steins;Gate, zaman yolculuğu temalı anime serisi olup yapay zeka ve bilim kurgu unsurlarını barındırır.",
+    "options": [
+      "Steins;Gate",
+      "Attack on Titan",
+      "Fullmetal Alchemist: Brotherhood",
+      "Code Geass"
+    ],
+    "correctAnswer": "Steins;Gate",
+    "tags": [
+      "anime",
+      "gizem",
+      "bilim kurgu",
+      "maceradan korunmuş teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a4v1huodg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Animeler dünyada 'Otaku' kelimesi hangi ifadeyi tanımlamak için kullanılır?",
+    "explanation": "Otaku, Japon kültüründe anime ve manga ile derin ilgi gösteren kişileri ifade eder.",
+    "options": [
+      "Anime izleyen kişi",
+      "Manga okuyan kişi",
+      "Karakter tasarımcısı",
+      "Aniye prodüksiyon yönetmeni"
+    ],
+    "correctAnswer": "Anime izleyen kişi",
+    "tags": [
+      "anime",
+      "kültür",
+      "japonya",
+      "otaku"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pseicrj74",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "'Naruto' anime serisinde ana karakter Naruto Uzumaki'nin 'Kulaklı' (Jinchūriki) olarak hangi yaratıcıyla birleşmesi?",
+    "explanation": "Naruto Uzumaki, Nine-Tails (Kurama) adlı tırsız yaratıcı ile birleşir ve Jinchūriki olur.",
+    "options": [
+      "Tailed Beast Nine-Tails",
+      "Two Tails",
+      "Three-Tails",
+      "Zero-Tails"
+    ],
+    "correctAnswer": "Tailed Beast Nine-Tails",
+    "tags": [
+      "naruto",
+      "karakter",
+      "animasyon",
+      "gizem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sqwmzq2hd",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi anime serisi 'Kadının Dünyası' temalı olup kadın karakterlerin güçlerini geliştirmesini konu alır?",
+    "explanation": "Puella Magi Madoka Magica, kadın karakterlerin büyücü güçlerini geliştirip anime dünyasını koruduğu temalı seridir.",
+    "options": [
+      "Puella Magi Madoka Magica",
+      "Attack on Titan",
+      "Death Note",
+      "One Piece"
+    ],
+    "correctAnswer": "Puella Magi Madoka Magica",
+    "tags": [
+      "anime",
+      "karakter",
+      "kadın,güç,simge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f9912np81",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "'One Piece' anime serisinin yazarı ve senaristi kimdir?",
+    "explanation": "One Piece anime ve manga serisinin yaratıcısı, senaristi ve çizimci Eiichiro Oda'dır.",
+    "options": [
+      "Eiichiro Oda",
+      "Tite Kubo",
+      "Masashi Kishimoto",
+      "Hajime Isayama"
+    ],
+    "correctAnswer": "Eiichiro Oda",
+    "tags": [
+      "anime",
+      "yazar",
+      "one piece",
+      "manga"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o60g2643x",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EASY",
+    "question": "Which Japanese animation studio is best known for producing films that often focus on environmental themes and fantasy worlds?",
+    "explanation": "Studio Ghibli, founded by Hayao Miyazaki and Isao Takahata, is renowned for films like 'Spirited Away' that explore environmentalism and fantasy.",
+    "options": [
+      "Toei Animation",
+      "Studio Ghibli",
+      "Madhouse",
+      "Sunrise"
+    ],
+    "correctAnswer": "Studio Ghibli",
+    "tags": [
+      "Studio",
+      "Film",
+      "Themes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ojd09mpo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "In the anime series 'One Piece,' what is the name of the protagonist's devil fruit?",
+    "explanation": "The protagonist Monkey D. Luffy ate the Gomu Gomu no Mi (Rubber-Rubber Fruit), granting him rubber-like abilities.",
+    "options": [
+      "Gomu Gomu no Mi",
+      "Hito Hito no Mi",
+      "Tori Tori no Mi",
+      "Mera Mera no Mi"
+    ],
+    "correctAnswer": "Gomu Gomu no Mi",
+    "tags": [
+      "Character",
+      "Devil Fruit",
+      "Power"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8tp4ps0cl",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EASY",
+    "question": "Which anime genre typically features supernatural elements, mecha battles, and a focus on military or space warfare?",
+    "explanation": "The Mecha genre centers around giant robots and often includes battles with a focus on technology and warfare.",
+    "options": [
+      "Isekai",
+      "Mecha",
+      "Slice of Life",
+      "Shonen"
+    ],
+    "correctAnswer": "Mecha",
+    "tags": [
+      "Genre",
+      "Themes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "176vxn9fg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "What was the primary animation technique used in Japanese anime until the 1990s?",
+    "explanation": "Cel animation involved hand-drawn frames on transparent cels, which was the standard before digital tools became prevalent in the 1990s.",
+    "options": [
+      "Cel Animation",
+      "Digital Animation",
+      "Stop Motion",
+      "Traditional Painting"
+    ],
+    "correctAnswer": "Cel Animation",
+    "tags": [
+      "Production",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gjviglii3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Which of the following anime has been credited with significantly boosting global interest in Japanese culture and cuisine?",
+    "explanation": "'Food Wars!' (Shokugeki no Soma) focuses on culinary arts, leading to increased international interest in Japanese cooking and food culture.",
+    "options": [
+      "'Dragon Ball Z'",
+      "'Food Wars!'",
+      "'Sailor Moon'",
+      "'Neon Genesis Evangelion'"
+    ],
+    "correctAnswer": "'Food Wars!'",
+    "tags": [
+      "Cultural Impact",
+      "Genre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q8bhgc6ui",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi animé, ilk kez 1970 yılında yayınlanan ve Japon animasyon tarihinin en eski popüler yapımlarından biri olarak kabul edilir?",
+    "explanation": "Astro Boy (Tetsuwan Atom), Osamu Tezuka tarafından 1963 yılında ilk kez yayınlanmış ve 1970'lerde yeniden yapımlanmıştır. Japon animasyon tarihinin en köklü yapımlarından biridir.",
+    "options": [
+      "Dragon Ball",
+      "Astro Boy (Tetsuwan Atom)",
+      "Sailor Moon",
+      "Pokemon"
+    ],
+    "correctAnswer": "Astro Boy (Tetsuwan Atom)",
+    "tags": [
+      "animé tarihçesi",
+      "klasik animasyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z8w4spwst",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi animé, Shonen Jump dergisinde yayınlanan ve genç erkek kitlelerine yönelik popüler bir türdür?",
+    "explanation": "Shonen, Japonya'da genç erkekler için tasarlanmış animasyon türüdür. Shonen Jump gibi dergilerde yayınlanır ve Dragon Ball, Naruto gibi popüler örneklerini içerir.",
+    "options": [
+      "Ghibli Filmleri",
+      "Shōnen (Kahraman) Animeleri",
+      "Josei (Yetişkin) Animeleri",
+      "Mecha Animeleri"
+    ],
+    "correctAnswer": "Shōnen (Kahraman) Animeleri",
+    "tags": [
+      "animé türleri",
+      "hedef kitle"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bdh25hxyx",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi animé yapım stüdyosu, Hayao Miyazaki'nin çalıştığı ve Studio Ghibli filmlerini üreten şirkettir?",
+    "explanation": "Studio Ghibli, Hayao Miyazaki ve Isao Takahata tarafından 1985 yılında kurulmuş, Spirited Away, Princess Mononoke gibi Oscar adaylı filmlerini üretmiştir.",
+    "options": [
+      "Madhouse",
+      "Toei Animation",
+      "Studio Ghibli",
+      "Sunrise"
+    ],
+    "correctAnswer": "Studio Ghibli",
+    "tags": [
+      "animé stüdyoları",
+      "Hayao Miyazaki"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n7bpfhw01",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "\"Mecha\" türünde animelerde genellikle hangi konsept öne çıkar?",
+    "explanation": "Mecha animeleri, devasa robotlar veya mekanizmaların ana karakterler olduğu bilimkurgu temalı yapımlardır. Gundam ve Eva gibi örneklerini içerir.",
+    "options": [
+      "Kahramanların büyülü yetenekleri",
+      "Dev boyutlu robotlar ve makineler",
+      "Okul hayatı ve dramatik hikayeler",
+      "Romantik ilişkiler"
+    ],
+    "correctAnswer": "Dev boyutlu robotlar ve makineler",
+    "tags": [
+      "animé türleri",
+      "mecha konsepti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7sttg2x6j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Hangi animé, Guinness Rekorları'na girmiş ve toplamda 1000'den fazla bölüm yayınlanan en uzun-running animé serisidir?",
+    "explanation": "One Piece, 1999'dan beri yayınlanan ve 1000+ bölüme ulaşan Guinness Rekoru'nu elinde tutan en uzun-running animé serisidir.",
+    "options": [
+      "Sailor Moon",
+      "One Piece",
+      "Pokémon",
+      "Naruto"
+    ],
+    "correctAnswer": "One Piece",
+    "tags": [
+      "animé rekorları",
+      "en uzun seriler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vivfwqxy1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EASY",
+    "question": "Hayao Miyazaki'nin yönettiği ve 2003 yılında Akademi Ödülü'ne (Oscar) kazanan anime filmi hangisidir?",
+    "explanation": "Spirited Away (Hayalet Şehir), 2001 yılında Japonya'da yayınlanmış ve 2003 Akademi Ödülleri'nde En İyi Uzun Metrajlı Animasyon filmi dalında kazanan ilk anime filmidir.",
+    "options": [
+      "The Wind Rises",
+      "Spirited Away",
+      "Princess Mononoke",
+      "My Neighbor Totoro"
+    ],
+    "correctAnswer": "Spirited Away",
+    "tags": [
+      "anime",
+      "oscar",
+      "miyazaki"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0xxgtff00",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Anime türleri arasında 'Shonen' kategorisinin hedeflediği temel kitle kimlerdir?",
+    "explanation": "'Shonen' Japonya'da genç erkekleri hedefleyen dergiler ve serileri ifade eder. Naruto, One Piece gibi popüler yapımlar bu kategoriye aittir.",
+    "options": [
+      "Yetişkin kadınlar",
+      "Genç erkekler",
+      "Çocuk kızlar",
+      "Geleneksel sanat meraklıları"
+    ],
+    "correctAnswer": "Genç erkekler",
+    "tags": [
+      "anime",
+      "tür",
+      "kitle"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rbpwrcpln",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Makoto Shinkai'nin yönettiği ve dünya çapında büyük bir başarı elde eden 'Kimi no Na Wa' filminin yayın yılı hangisidir?",
+    "explanation": "Kimi no Na Wa (Sen Çiğneme), 2016 yılında Japonya'da ve uluslararası platformlarda yayınlanarak animasyon sinemasında önemli bir dönüm noktası oluşturmuştur.",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correctAnswer": "2016",
+    "tags": [
+      "anime",
+      "film",
+      "yıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "to2v9cihl",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "'Neon Genesis Evangelion' serisindeki ana karakterlerden biri olan pilotun tam adı nedir?",
+    "explanation": "Neon Genesis Evangelion'un protagonist pilotu Shinji Ikari'dir. Gendo Ikari onun babasıdır ve diğer isimler serideki önemli karakterlerin yanı sıra hayalüştülerdir.",
+    "options": [
+      "Shinji Ikari",
+      "Kensuke Shinji",
+      "Satoshi Katsuragi",
+      "Gendo Ikari"
+    ],
+    "correctAnswer": "Shinji Ikari",
+    "tags": [
+      "anime",
+      "evangelion",
+      "karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x6jwian4j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EASY",
+    "question": "Japonya'da 1963 yılında yayına giren ve 'anime' kelimesinin dünyada popülerleşmesine katkı sağlayan ilk TV dizisinden biri hangisidir?",
+    "explanation": "Tetsuwan Atom, Astro Boy'un Japonya'daki ilk TV serisi olup 1963'te yayınlanarak animasyonun uluslararası alana açılmasında öncü rol oynamıştır.",
+    "options": [
+      "Dragon Ball",
+      "Sailor Moon",
+      "Tetsuwan Atom",
+      "One Piece"
+    ],
+    "correctAnswer": "Tetsuwan Atom",
+    "tags": [
+      "anime",
+      "tarih",
+      "astro boy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0vfdhnu4o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EASY",
+    "question": "Anime terimi hangi dil kökenini taşır ve ne anlama gelir?",
+    "explanation": "Anime terimi Japonca kökenlidir ve genellikle animasyonlu çizgi filmleri ifade eder. Japan'da anime, hem yerel hem de uluslararası olarak üretilen animasyonları kapsar.",
+    "options": [
+      "Japonca - 'animasyon' anlamına gelir",
+      "İngilizce - 'karikatür' anlamına gelir",
+      "Fransızca - 'resim' anlamına gelir",
+      "Çince - 'çizgi film' anlamına gelir"
+    ],
+    "correctAnswer": "Japonca - 'animasyon' anlamına gelir",
+    "tags": [
+      "anime",
+      "kültür",
+      "tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "riz3hkjl1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi anime serisi 1990'larda yayınlanarak modern anime endüstrisine büyük katkı sağlamıştır?",
+    "explanation": "Dragon Ball Z, 1989-1996 yılları arasında yayınlanmış ve anime endüstrisinin global başarısına önemli ölçüde katkıda bulunmuştur. Karakter tasarımları ve dövüş sahnesi stilleri modern animelere etki etmiştir.",
+    "options": [
+      "Pokémon",
+      "Dragon Ball Z",
+      "Naruto",
+      "One Piece"
+    ],
+    "correctAnswer": "Dragon Ball Z",
+    "tags": [
+      "klasik",
+      "eğlence",
+      "maceradan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zjnscrzz4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Anime endüstrisinde 'shonen' terimi hangi tür animeyi ifade eder?",
+    "explanation": "Shonen, Japonca'da 'genç adam' anlamına gelir ve genellikle genç erkek hedef kitle için tasarlanmış aksiyon, macera ve dostluk temalı anime serilerini ifade eder. Örnekler: Naruto, One Piece, Bleach.",
+    "options": [
+      "Genç kızlar için hikaye",
+      "Genç erkekler için aksiyon ve macera",
+      "Eğitici ve bilimsel anime",
+      "Aile dostu anime"
+    ],
+    "correctAnswer": "Genç erkekler için aksiyon ve macera",
+    "tags": [
+      "tür",
+      "kategorizasyon",
+      "anime_bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ucm16cd1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Hangi animasyon stili daha çok geleneksel Japon çizim tekniklerini kullanır?",
+    "explanation": "Cel Animation (Çizim Animasyonu), geleneksel Japon animasyon endüstrisinin temel tekniğidir. Her kare elle çizilir ve cel filmi üzerine transfer edilir. Dragon Ball, Sailor Moon gibi klasik anime'ler bu teknikle yapılmıştır.",
+    "options": [
+      "Cel Animation",
+      "CGI Animation",
+      "Stop Motion",
+      "3D Rendering"
+    ],
+    "correctAnswer": "Cel Animation",
+    "tags": [
+      "teknoloji",
+      "animasyon_stilleri",
+      "tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bz1y7h5e4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Animelerin 'manga uyarlama' olarak yayınlanmasının en büyük avantajı nedir?",
+    "explanation": "Manga uyarlamalarında, orijinal manga'daki derinlikli karakter gelişimi ve hikaye detayları anime'ye aktarılır. Bu da izleyicinin karakterlerle daha fazla bağ kurmasını sağlar.",
+    "options": [
+      "Manga okuyan kitlenin genişlemesi",
+      "Karakterlerin daha iyi geliştirilmesi",
+      "Hikaye anlatımının sürmesi",
+      "Animasyon maliyetinin düşmesi"
+    ],
+    "correctAnswer": "Karakterlerin daha iyi geliştirilmesi",
+    "tags": [
+      "manga",
+      "anime",
+      "hikaye_yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijpjg6naj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EASY",
+    "question": "Hangi animede 'Naruto Uzumaki' karakteri başrolde yer alır ve Jutsu öğretilerini geliştirir?",
+    "explanation": "Naruto Uzumaki, 'Naruto Shippuden' anime serisinin başrol karakteridir ve ninja jutsu tekniklerini öğrenerek gelişir.",
+    "options": [
+      "Dragon Ball Z",
+      "One Piece",
+      "Naruto Shippuden",
+      "Attack on Titan"
+    ],
+    "correctAnswer": "Naruto Shippuden",
+    "tags": [
+      "anime",
+      "karşılama",
+      "japonya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nl4hjfmqg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EASY",
+    "question": "'One Piece' animesindeki ana kahramanın ismi nedir?",
+    "explanation": "Monkey D. Luffy, 'One Piece' animenin ve mangasının başrolünde yer alan ana kahramandır.",
+    "options": [
+      "Monkey D. Luffy",
+      "Sabo",
+      "Roronoa Zoro",
+      "Nami"
+    ],
+    "correctAnswer": "Monkey D. Luffy",
+    "tags": [
+      "anime",
+      "one piece",
+      "kahramanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h4dxgoli7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi anime türü karanlık temalar ve yetişkinlere yönelik içerikler içerir?",
+    "explanation": "Seinen animeleri genellikle 18+ yaş grubuna yönelik karanlık temalar ve yetişkinlere uygun içerikler barındırır.",
+    "options": [
+      "Seinen",
+      "Shojo",
+      "Shonen",
+      "Josei"
+    ],
+    "correctAnswer": "Seinen",
+    "tags": [
+      "anime türleri",
+      "kategori",
+      "yaş grubu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "moqhcf3we",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "'Attack on Titan' anime serisindeki ana düşman kimdir?",
+    "explanation": "'Attack on Titan' serisinde insanlığın en büyük düşmanı dev boyutunda ve tehditkâr olan Titanlardır.",
+    "options": [
+      "Eren Yeager",
+      "Mikasa Ackerman",
+      "Ymir Fritz",
+      "Titanlar"
+    ],
+    "correctAnswer": "Titanlar",
+    "tags": [
+      "anime",
+      "attack on titan",
+      "düşman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9llyidhmc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Hangi anime 'Gundam' mekaniğine odaklanarak robot savaşlarını içerir?",
+    "explanation": "'Mobile Suit Gundam' serisi meşhur Gundam robotları ve mekaniğini barındıran en bilinen anime franchise'larından biridir.",
+    "options": [
+      "Neon Genesis Evangelion",
+      "Mobile Suit Gundam",
+      "Sailor Moon",
+      "Code Geass"
+    ],
+    "correctAnswer": "Mobile Suit Gundam",
+    "tags": [
+      "anime",
+      "gundam",
+      "robot"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i8c1drdeo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi anime serisi, ilk kez 1979 yılında yayınlanan ve robotik teknoloji üzerine kurulu bir bilim-kurgu animedir?",
+    "explanation": "Mazinger Z, 1979 yılında yayınlanan ve robotik temalı ilk büyük anime serilerinden biridir. Dr. Juzo Kabuto tarafından tasarlanmış bu devasa robot, meşhur anime tarihinin önemli kilometre taşlarından biridir.",
+    "options": [
+      "Mazinger Z",
+      "Gundam",
+      "Patlabor",
+      "Evangelion"
+    ],
+    "correctAnswer": "Mazinger Z",
+    "tags": [
+      "anime-tarihi",
+      "bilim-kurgu",
+      "robotlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mo7eah685",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi animasyon stüdyosu, Ghibli'nin kurucularından Hayao Miyazaki ile birlikte anime dünyasında en çok ödüller kazanan stüdyolardan biridir?",
+    "explanation": "Studio Ghibli, 1985 yılında Hayao Miyazaki ve Isao Takahata tarafından kurulmuş ve Spirited Away, My Neighbor Totoro gibi ödüller kazanan çok sayıda film üretmiştir.",
+    "options": [
+      "Toei Animation",
+      "Sunrise Studio",
+      "Studio Ghibli",
+      "Madhouse"
+    ],
+    "correctAnswer": "Studio Ghibli",
+    "tags": [
+      "anime-stüdyoları",
+      "ödüller",
+      "Hayao Miyazaki"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "900f3bvn7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "EXPERT",
+    "question": "Evangelion serisinin meşhur açılış sahnesinde kullanılan robotik varlık hangisidir?",
+    "explanation": "AT Field (Attack Field), Evangelion robotlarının sahip olduğu ve düşmanın fiziksel saldırısını engellenmesini sağlayan özel bir kalkan teknolojisidir. Bu kavram anime tarihinin en ikonik detaylarından biridir.",
+    "options": [
+      "Eva Unit-01",
+      "AT Field",
+      "Spear of Longinus",
+      "Adam"
+    ],
+    "correctAnswer": "AT Field",
+    "tags": [
+      "Evangelion",
+      "robot-teknolojisi",
+      "anime-detal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u3l9rb81g",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi anime karakteri, 'Naruto Uzumaki' nin ana rakibi olarak kabul edilir?",
+    "explanation": "Sasuke Uchiha, Naruto Uzumaki nin en önemli rakibi ve arkadaşının dönüşümü için gereken ana karakterdir. İkili arasındaki ilişki anime tarihinin en meşhur dinamiklerinden biridir.",
+    "options": [
+      "Sasuke Uchiha",
+      "Gaara",
+      "Sakura Haruno",
+      "Kakashi Hatake"
+    ],
+    "correctAnswer": "Sasuke Uchiha",
+    "tags": [
+      "Naruto",
+      "anime-karakterleri",
+      "rakip-dinamiği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q9w29q97e",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Animeler",
+    "difficulty": "GENERAL",
+    "question": "Hangi animasyon filmi, 2001 yılında yayınlanan ve bilim-kurgu temalı 'Inception' filmi ile aynı yılın en çok ödül kazanan anime filmlerinden biridir?",
+    "explanation": "Princess Mononoke, 2001 yılında yayınlanmış ve animasyon dünyasında büyük başarı elde eden bir film olmuştur. Spirited Away ile birlikte Ghibli stüdyosunun en önemli eserlerinden biri olarak kabul edilir.",
+    "options": [
+      "Spirited Away",
+      "Grave of the Fireflies",
+      "Princess Mononoke",
+      "Howl's Moving Castle"
+    ],
+    "correctAnswer": "Princess Mononoke",
+    "tags": [
+      "anime-filmleri",
+      "2001",
+      "ödüller",
+      "Hayao Miyazaki"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

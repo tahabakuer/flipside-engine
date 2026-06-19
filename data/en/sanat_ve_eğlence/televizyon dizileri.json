@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "kgscfccs4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Hangi televizyon dizisi türü genellikle günlük yaşam olaylarını ve ilişkileri konu alır?",
+    "explanation": "Dram dizileri genellikle günlük yaşam olayları, karakter gelişimi ve insan ilişkilerini ana tema olarak içerir. Korku, bilim kurgu ve komedi ise farklı türlerdir.",
+    "options": [
+      "Korku Dizisi",
+      "Dram Dizisi",
+      "Bilim Kurgu Dizisi",
+      "Komedi Dizisi"
+    ],
+    "correctAnswer": "Dram Dizisi",
+    "tags": [
+      "televizyon",
+      "dizi türleri",
+      "sanat eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sxhcww9a4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Netflix'in 'Stranger Things' adlı popüler dizisi hangi türde bir yapımdır?",
+    "explanation": "Stranger Things, 80'ler estetiği, süper güçler ve gizemli olaylar içeren bilim kurgu/dram türündedir. Netflix'in en başarılı yapımlarından biridir.",
+    "options": [
+      "Tarih Dizisi",
+      "Komedi Dizisi",
+      "Bilim Kurgu/Dram Dizisi",
+      "Müzik Dizisi"
+    ],
+    "correctAnswer": "Bilim Kurgu/Dram Dizisi",
+    "tags": [
+      "streaming",
+      "popüler dizi",
+      "sanat eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zle2dcyvc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Televizyon dizisi endüstrisinde 'telif hakkı' konusu neden önemlidir?",
+    "explanation": "Telif hakları dizi içeriklerinin yaratıcıların ve üreticilerin mülkiyetini korumak için yasal olarak önemlidir. Bu, izinsiz kopyalanmasını önler.",
+    "options": [
+      "Dizi içeriklerinin yasal korunması için",
+      "Yıldızların maaşlarını belirlemek için",
+      "Reklam yerlerini artırmak için",
+      "Görsel efektleri iyileştirmek için"
+    ],
+    "correctAnswer": "Dizi içeriklerinin yasal korunması için",
+    "tags": [
+      "televizyon endüstrisi",
+      "telif hakkı",
+      "yapım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rf68roc8a",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "'Breaking Bad' adlı dizi hangi türde bir yapımdır?",
+    "explanation": "Breaking Bad, bir kimya öğretmeninin uyuşturucu işine girmesini konu alan suç/dram türündedir. Karakter gelişimi ve gerilim ön plandadır.",
+    "options": [
+      "Romantik Komedi",
+      "Suç/Dram Dizisi",
+      "Aile Dramı",
+      "Gerçeklik Dizi"
+    ],
+    "correctAnswer": "Suç/Dram Dizisi",
+    "tags": [
+      "popüler dizi",
+      "drama",
+      "sanat eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3hdhhshb0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi platform 'House of the Dragon' dizisini yayınlamaktadır?",
+    "explanation": "House of the Dragon, Game of Thrones evreninin devamı olarak HBO Max'te yayınlanmaktadır. Fantastik ve politik dram türündedir.",
+    "options": [
+      "HBO Max",
+      "Netflix",
+      "Amazon Prime",
+      "Disney+"
+    ],
+    "correctAnswer": "HBO Max",
+    "tags": [
+      "streaming platformları",
+      "fantastik dizi",
+      "sanat eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "61euuyzv3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk dizisi, Osmancığın kurucusu Osman Bey'in hayatını konu alır?",
+    "explanation": "Kuruluş: Osman dizisi, Osman Bey'in hayatını ve Osmanlı Devleti'nin kuruluşunu konu alan popular bir Türk tarihi dizisidir.",
+    "options": [
+      "Kuruluş: Osman",
+      "Diriliş: Ertuğrul",
+      "Poyraz Karayel",
+      "Muhteşem Yüzyıl"
+    ],
+    "correctAnswer": "Kuruluş: Osman",
+    "tags": [
+      "Türk Dizileri",
+      "Osman Tarihi",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wnfwiy10j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi dizi, Ertuğrul Gazi'nin hayatını anlatan Diriliş serisinin devamıdır?",
+    "explanation": "Kuruluş: Osman, Diriliş: Ertuğrul dizisinin devam serisidir ve Osman Bey'in hayatını konu alır.",
+    "options": [
+      "Kuruluş: Osman",
+      "Diriliş: Beylerbeyi",
+      "Ertuğrul: Dönüş",
+      "Yavuz Sultan Selim"
+    ],
+    "correctAnswer": "Kuruluş: Osman",
+    "tags": [
+      "Türk Dizileri",
+      "Diriliş Serisi",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u1tny8rrc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi dizi, Türk sinemasında 'aşk' temasıyla bilinen ve Enis Turan'ın romanından uyarlanan bir eserdir?",
+    "explanation": "Aşk-ı Memnu, Enis Turan'ın ünlü romanından uyarlanan ve Türk televizyonlarında çok kez çekilen klasik bir dizi eseridir.",
+    "options": [
+      "Aşk-ı Memnu",
+      "Bir Zamanlar Çukurova",
+      "Kurtlar Vadisi",
+      "Yalı Çapkını"
+    ],
+    "correctAnswer": "Aşk-ı Memnu",
+    "tags": [
+      "Türk Dizileri",
+      "Aşk Romanları",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "adnko7wd3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi dizi, Çukurova bölgesinde geçen ve uzun süredir izlenen popular bir aile dramasıdır?",
+    "explanation": "Bir Zamanlar Çukurova, Akdeniz'in Çukurova bölgesinde geçen ve 2016'dan beri izlenen popular bir Türk aile draması dizisidir.",
+    "options": [
+      "Bir Zamanlar Çukurova",
+      "Diriliş: Ertuğrul",
+      "Kuruluş: Osman",
+      "Yalı Çapkını"
+    ],
+    "correctAnswer": "Bir Zamanlar Çukurova",
+    "tags": [
+      "Türk Dizileri",
+      "Aile Dramaları",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gzuixmn8o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi dizi, İstanbul'daki yalı evlerinde geçen modern bir dramatik seri olarak bilinir?",
+    "explanation": "Yalı Çapkını, İstanbul'daki yalı evlerinde geçen ve 2023'te yayınlanan modern bir Türk dramatik seri olarak bilinen popüler bir dizidir.",
+    "options": [
+      "Yalı Çapkını",
+      "Aşk-ı Memnu",
+      "Kuruluş: Osman",
+      "Diriliş: Beylerbeyi"
+    ],
+    "correctAnswer": "Yalı Çapkını",
+    "tags": [
+      "Türk Dizileri",
+      "Modern Dramalar",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eem30e768",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk televizyon dizisi, dünya çapında yayınlanarak uluslararası alanda büyük bir başarı elde etmiştir?",
+    "explanation": "Diriliş: Ertuğrul, Netflix ve diğer platformlarda yayınlanarak Türkiye'den çok izlenen ilk dizi oldu ve dünya çapında büyük bir kitleye ulaştı.",
+    "options": [
+      "Yalı Çapkını",
+      "Diriliş: Ertuğrul",
+      "Kuzey Güney",
+      "Lale Devri"
+    ],
+    "correctAnswer": "Diriliş: Ertuğrul",
+    "tags": [
+      "televizyon dizileri",
+      "uluslararası başarı",
+      "Türk dizi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iyzr0gh5r",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Bir TV dizisinin 'senaryo' bölümünde genellikle hangi kişiler çalışır?",
+    "explanation": "Senaryo bölümünde dizi için hikaye, bölümler ve diyaloglar yazmakla ilgilenen senaristler ve yazarlar çalışır.",
+    "options": [
+      "Yönetmen ve Sanat Yönetmeni",
+      "Senarist ve Yazar",
+      "Müzik Direktörü ve Kostüm Tasarımcısı",
+      "Kameraman ve Işıkçılar"
+    ],
+    "correctAnswer": "Senarist ve Yazar",
+    "tags": [
+      "televizyon dizileri",
+      "senaryo",
+      "yapım ekibi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "flrpv6top",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Hangi tür TV dizisi, genellikle tarihî olayları ve kahramanların maceralarını anlatır?",
+    "explanation": "Tarihî tür TV dizileri, geçmiş dönemleri ve kahramanların maceralarını gerçek veya kurgusal olaylarla anlatır.",
+    "options": [
+      "Korku",
+      "Tarihî",
+      "Romantik Komedi",
+      "Drama"
+    ],
+    "correctAnswer": "Tarihî",
+    "tags": [
+      "televizyon dizileri",
+      "türler",
+      "tarihî dizi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sboyqoe5t",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Bir televizyon dizisinin 'kadro' bölümünde kim görev alır?",
+    "explanation": "Kadro bölümünde diziye katılan ana oyuncular ve yönetmen gibi ana ekip üyeleri görev alır.",
+    "options": [
+      "Oyuncular ve Yönetmen",
+      "Yapım Asistanları",
+      "Kostüm Tasarımcıları",
+      "Müzik Direktörleri"
+    ],
+    "correctAnswer": "Oyuncular ve Yönetmen",
+    "tags": [
+      "televizyon dizileri",
+      "kadro",
+      "ekip"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "723iqllsb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi platform, Netflix ile birlikte Türk TV dizilerinin uluslararası yayınına öncülük etmiştir?",
+    "explanation": "Netflix ve Amazon Prime Video, Türk dizilerinin dünya çapında yayınında önemli bir rol oynamıştır.",
+    "options": [
+      "YouTube TV",
+      "Hulu",
+      "Amazon Prime Video",
+      "Tubi"
+    ],
+    "correctAnswer": "Amazon Prime Video",
+    "tags": [
+      "televizyon dizileri",
+      "platformlar",
+      "uluslararası yayın"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1z00wa7ty",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Hangi Türk televizyon dizisi 2021-2022 yılları arasında EN çok izlenen yapımlardan biri olmuştur?",
+    "explanation": "Yalı Çapkını 2021-2022 sezonlarında büyük ilgi gören ve yüksek reyting alan Türk televizyon dizisidir.",
+    "options": [
+      "Altın Efendi",
+      "Yalı Çapkını",
+      "Kurtlar Vadisi Pusu",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Yalı Çapkını",
+    "tags": [
+      "televizyon dizileri",
+      "türk yapımı",
+      "popüler kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ftd7x1wm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de televizyon dizileri yayınlanırken hangi platform EN ÖNEMLİ faktördür?",
+    "explanation": "Türkiye'de televizyon dizilerinin başarısı ve yayın süreleri genellikle reytingler üzerinden belirlenir.",
+    "options": [
+      "Dijital yayıncılık",
+      "Televizyon reytingleri",
+      "Sinema bilet satışı",
+      "Radyo dinleyicisi sayısı"
+    ],
+    "correctAnswer": "Televizyon reytingleri",
+    "tags": [
+      "televizyon",
+      "reyting",
+      "yayın"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ncu26rscn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EXPERT",
+    "question": "Hangi uluslararası platform, Türk dizilerini DÜNYAYA tanıtmasında ANLAMA rol oynamıştır?",
+    "explanation": "Netflix, Türk televizyon dizilerini (Mesut Yılmaz filmleri, Beyaz esmalar vb.) dünya çapında tanıtmada önemli rol oynamıştır.",
+    "options": [
+      "Netflix",
+      "Disney+",
+      "Amazon Prime",
+      "Apple TV+"
+    ],
+    "correctAnswer": "Netflix",
+    "tags": [
+      "uluslararası platformlar",
+      "türk dizileri",
+      "dijital yayıncılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0vcwcxo0h",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Türk televizyon dizileri arasında EN UZUN süren yapımlardan biri hangisidir?",
+    "explanation": "Kurtlar Vadisi 2008-2019 yılları arasında toplam 4 sezon ve özel bölümlerle yayımlanmış, en uzun Türk TV dizisidir.",
+    "options": [
+      "Kurtlar Vadisi",
+      "Aşk-ı Memnu",
+      "Muhteşem Yüzyıl",
+      "Diriliş Ertuğrul"
+    ],
+    "correctAnswer": "Kurtlar Vadisi",
+    "tags": [
+      "televizyon dizileri",
+      "türk yapımı",
+      "uzun süreli yapımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hyq7bcgoc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Hangi türde televizyon dizileri TÜRKİYE'de GENEL KÜLTÜR için EN ÖNEMLİ rol oynamıştır?",
+    "explanation": "Türk televizyon dizileri arasında dram türü, en çok izlenen ve kültürel etki yaratan yapımların ana kategorisidir.",
+    "options": [
+      "Dram",
+      "Komedi",
+      "Belgesel",
+      "Animasyon"
+    ],
+    "correctAnswer": "Dram",
+    "tags": [
+      "televizyon türleri",
+      "dram",
+      "türk yapımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0fifdqzfy",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "What is the primary historical setting of the Turkish series 'Diriliş: Ertuğrul'?",
+    "explanation": "The series depicts the life of Ertuğrul Bey and his descendants during the founding of the Ottoman dynasty.",
+    "options": [
+      "Modern Turkey",
+      "Early Ottoman Empire",
+      "Byzantine Empire",
+      "19th Century Europe"
+    ],
+    "correctAnswer": "Early Ottoman Empire",
+    "tags": [
+      "television",
+      "history",
+      "ottoman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o7g8c6yhw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish romantic drama series was famously broadcast on Star TV?",
+    "explanation": "Aşk-ı Memnu is a well-known romantic drama series that aired on Star TV and gained significant popularity.",
+    "options": [
+      "Diriliş: Ertuğrul",
+      "Kuruluş: Osman",
+      "Aşk-ı Memnu",
+      "Muhteşem Yüzyıl"
+    ],
+    "correctAnswer": "Aşk-ı Memnu",
+    "tags": [
+      "television",
+      "romance",
+      "star tv"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dk6zywo3g",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish historical series features Osman Bey as the protagonist?",
+    "explanation": "Kuruluş: Osman centers on Osman Bey and his role in establishing the early Ottoman state.",
+    "options": [
+      "Diriliş: Ertuğrul",
+      "Kuruluş: Osman",
+      "Muhteşem Yüzyıl",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Kuruluş: Osman",
+    "tags": [
+      "television",
+      "history",
+      "ottoman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ltrln90ku",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EXPERT",
+    "question": "What TV channel originally broadcast 'Muhteşem Yüzyıl' in Turkey?",
+    "explanation": "Muhteşem Yüzyıl premiered on Show TV in 2014 and became a cultural phenomenon.",
+    "options": [
+      "Show TV",
+      "Star TV",
+      "TRT 1",
+      "ATV"
+    ],
+    "correctAnswer": "Show TV",
+    "tags": [
+      "television",
+      "ottoman",
+      "show tv"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rtnym102w",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "What historical period does 'Muhteşem Yüzyıl' primarily depict?",
+    "explanation": "The series focuses on the life and times of Sultan Mehmed II during the 16th century Ottoman Empire.",
+    "options": [
+      "The reign of Sultan Mehmed II",
+      "Modern Turkish politics",
+      "Byzantine Empire",
+      "Late Ottoman Era"
+    ],
+    "correctAnswer": "The reign of Sultan Mehmed II",
+    "tags": [
+      "television",
+      "history",
+      "ottoman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ps7nhavwp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Türk televizyon dizilerinin en çok izlenen türlerinden biri hangisidir?",
+    "explanation": "Türk televizyon dizileri arasında drama ve aile temalı diziler en çok izlenen türdür. Örnek olarak 'Aşk-ı Memnu', 'Diriliş Ertuğrul' gibi yapımlar bu kategoride yer alır.",
+    "options": [
+      "Bilim Kurgu",
+      "Dram / Aile Dizisi",
+      "Animasyon",
+      "Mizah"
+    ],
+    "correctAnswer": "Dram / Aile Dizisi",
+    "tags": [
+      "televizyon",
+      "türler",
+      "popülerlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dsca2ndty",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "'Kuruluş Osman' adlı Türk televizyon dizisinin hangi kanal tarafından yayınlandı?",
+    "explanation": "'Kuruluş Osman' dizisi, Türk televizyon tarihinin önemli yapımlarından biri olarak ATV kanalı tarafından yayınlanmıştır.",
+    "options": [
+      "Star TV",
+      "Show TV",
+      "ATV",
+      "Kanal D"
+    ],
+    "correctAnswer": "ATV",
+    "tags": [
+      "kuruluş osman",
+      "kanallar",
+      "yayın"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dr48vabus",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk dizisi 'Çıplak Adam' adlı film ile ilişkilidir?",
+    "explanation": "'Kurtlar Vadisi' dizisinin devam filmleri arasında 'Çıplak Adam' adlı film bulunur. Bu seri Türk sinemasında önemli bir yere sahiptir.",
+    "options": [
+      "Aşk-ı Memnu",
+      "Kurtlar Vadisi",
+      "Yalı Çapkını",
+      "Diriliş Ertuğrul"
+    ],
+    "correctAnswer": "Kurtlar Vadisi",
+    "tags": [
+      "kurtlar vadisi",
+      "film ilişkileri",
+      "seri türü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "un4jn397c",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Türk televizyon dizileri genellikle hangi saat diliminde yayınlanır?",
+    "explanation": "Türk televizyon dizileri izleyicilerin en yoğun olduğu akşam saatlerinde (19:00-23:00) yayınlanarak daha çok izlenme sağlar.",
+    "options": [
+      "Gece 02:00 - 04:00",
+      "Hafta sonu sabahı",
+      "Akşam 19:00 - 23:00",
+      "Öğle 12:00 - 14:00"
+    ],
+    "correctAnswer": "Akşam 19:00 - 23:00",
+    "tags": [
+      "yayın saatleri",
+      "televizyon programlama",
+      "izleyici"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ggoyilz3e",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EXPERT",
+    "question": "'Yalı Çapkını' dizisinin hangi türde bir yapım olduğunu belirtiniz?",
+    "explanation": "'Yalı Çapkını', İstanbul'un yalılarındaki yaşamı ve aşk temalarını işleyen günlük hayat / romantik dram türündedir.",
+    "options": [
+      "Tarihi Dram",
+      "Komedi Dizisi",
+      "Günlük Hayat / Aşk Dramı",
+      "Suç ve Gizem"
+    ],
+    "correctAnswer": "Günlük Hayat / Aşk Dramı",
+    "tags": [
+      "yalı çapkını",
+      "dizi türleri",
+      "konsept"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k9sx8bowc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk dizisi 'Magnus' (Magnetik) adlı karakterin hikayesini anlatır ve 2019-2020 yılları arasında yayınlanmıştır?",
+    "explanation": "Muhteşem Yüzyıl, Osmanlı Sultanı II. Bayezid'in (Beyazıt) ve karısı Hürrem Sultan'ın hikayesini anlatan popüler Türk tarihi dizisidir.",
+    "options": [
+      "Kuzeyli",
+      "Tatlı",
+      "Aşk-ı Memnu",
+      "Muhteşem Yüzyıl"
+    ],
+    "correctAnswer": "Muhteşem Yüzyıl",
+    "tags": [
+      "televizyon dizileri",
+      "türk dizileri",
+      "muhteşem yüzyıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hloak5quw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk dizisi 'Kuzeyli'nin aşkını konu alır ve 2013-2015 yılları arasında yayınlanmıştır?",
+    "explanation": "Kuzeyli, modern bir aşk romanının televizyon dizisi uyarlamasıdır ve 2013-2015 yılları arasında yayınlanmıştır.",
+    "options": [
+      "Kuzeyli",
+      "Tatlı",
+      "Aşk-ı Memnu",
+      "Muhteşem Yüzyıl"
+    ],
+    "correctAnswer": "Kuzeyli",
+    "tags": [
+      "televizyon dizileri",
+      "türk dizileri",
+      "aşk dizileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8quozs8j1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Hangi Türk dizisi 'Yıldız' adlı karakterin hikayesini anlatır ve 2019 yılında yayınlanmıştır?",
+    "explanation": "Tatlı, romantik bir Türk televizyon dizisidir ve 2019 yılında yayınlanmıştır.",
+    "options": [
+      "Tatlı",
+      "Kuzeyli",
+      "Muhteşem Yüzyıl",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Tatlı",
+    "tags": [
+      "televizyon dizileri",
+      "türk dizileri",
+      "romantik diziler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6d6magvam",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk dizisi 'Osmanlı İmparatorluğu'nun kuruluşunu konu alır ve 2020-2022 yılları arasında yayınlanmıştır?",
+    "explanation": "Muhteşem Yüzyıl, Osmanlı İmparatorluğu'nun kuruluş dönemini ve Hürrem Sultan'ın hikayesini konu alır.",
+    "options": [
+      "Muhteşem Yüzyıl",
+      "Kuzeyli",
+      "Tatlı",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Muhteşem Yüzyıl",
+    "tags": [
+      "televizyon dizileri",
+      "türk dizileri",
+      "tarihi diziler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ojhlmtny",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EXPERT",
+    "question": "Hangi Türk dizisi 'Aşk-ı Memnu'dan esinlenerek 2019 yılında yayınlanmıştır?",
+    "explanation": "Aşk-ı Memnu, Türk edebiyatının klasiklerinden biri olan aynı adlı romanın televizyon dizisi uyarlamasıdır.",
+    "options": [
+      "Muhteşem Yüzyıl",
+      "Kuzeyli",
+      "Tatlı",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Aşk-ı Memnu",
+    "tags": [
+      "televizyon dizileri",
+      "türk dizileri",
+      "tarihi roman uyarlamaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "447baopb0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk dizisi, 2013-2017 yılları arasında yayınlanmış ve 'Aşk-ı Memnu' adlı roman üzerine uyarlanmıştır?",
+    "explanation": "Aşk-ı Memnu, 2013-2017 yılları arasında yayınlanan ve Osmanlı roman yazarı Ahmet Mithat Efendi'nin aynı adlı eserini uyarlayan Türk dizisidir.",
+    "options": [
+      "Kış Uykusu",
+      "Muhteşem Yüzyıl",
+      "Aşk-ı Memnu",
+      "Diriliş: Ertuğrul"
+    ],
+    "correctAnswer": "Aşk-ı Memnu",
+    "tags": [
+      "Türk Dizileri",
+      "Roman Uyarlamaları",
+      "2013-2017"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8x3ne315s",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Televizyon dizileri kategorisinde, 'Muhteşem Yüzyıl' dizisinin hangi tarihi dönemi konu alır?",
+    "explanation": "Muhteşem Yüzyıl, Osmanlı İmparatorluğu'nun yükseliş dönemini ve II. Selim ile III. Murat dönemindeki olayları konu alan tarihi bir dizi dir.",
+    "options": [
+      "Osmanlı İmparatorluğu'nun kuruluşu",
+      "Osmanlı'nın yükselişi ve II. Selim Dönemi",
+      "İslam Coğrafyası'nın fethi",
+      "Türkiye Cumhuriyeti dönemi"
+    ],
+    "correctAnswer": "Osmanlı'nın yükselişi ve II. Selim Dönemi",
+    "tags": [
+      "Muhteşem Yüzyıl",
+      "Osmanlı Tarihi",
+      "Televizyon Dizileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z3tqdxqt7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk dizisi, 'Kurtlar Valsi' adıyla da bilinir ve 2013-2017 yılları arasında 5 sezon yayınlanmıştır?",
+    "explanation": "Kurtlar Valsi, 2013-2017 yılları arasında yayınlanan ve aynı adla bilinen Türk dizisidir. 5 sezon boyunca izleyicileriyle buluşmuştur.",
+    "options": [
+      "Diplomat",
+      "Kurtlar Valsi",
+      "Diriliş: Ertuğrul",
+      "Muhteşem Yüzyıl"
+    ],
+    "correctAnswer": "Kurtlar Valsi",
+    "tags": [
+      "Türk Dizileri",
+      "5 Sezon",
+      "2013-2017"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4kyb3h0pn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Televizyon dizileri alanında, 'Diriliş: Ertuğrul' dizisinin konusu hangi tarihsel dönemdir?",
+    "explanation": "Diriliş: Ertuğrul, Osmanlı Devleti'nin kuruluş dönemi ve Anadolu Beylikleri ile ilgili tarihi bir dizidir.",
+    "options": [
+      "Osmanlı'nın kuruluş dönemi",
+      "İslam Coğrafyası'nın fethi dönemi",
+      "Türk Devletleri'nin yükselişi",
+      "Beylikler Dönemi"
+    ],
+    "correctAnswer": "Osmanlı'nın kuruluş dönemi",
+    "tags": [
+      "Diriliş: Ertuğrul",
+      "Osmanlı Tarihi",
+      "Türk Dizileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "byjrnlfls",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EXPERT",
+    "question": "Hangi Türk dizisi, 'Aşk-ı Memnu' romanını uyarlayan ilk Türk dizi projesidir?",
+    "explanation": "Aşk-ı Memnu, Ahmet Mithat Efendi'nin aynı adlı romanını uyarlayan ve 2013-2017 yılları arasında yayınlanan ilk Türk dizi projesidir.",
+    "options": [
+      "Muhteşem Yüzyıl",
+      "Kış Uykusu",
+      "Aşk-ı Memnu",
+      "Diriliş: Ertuğrul"
+    ],
+    "correctAnswer": "Aşk-ı Memnu",
+    "tags": [
+      "Roman Uyarlamaları",
+      "Türk Dizileri",
+      "İlk Proje"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wkcdvl60n",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi televizyon dizisi, 2013-2014 yılları arasında yayınlanan ve 'Büyük Şahane' olarak bilinen Türk yapımı dizi?",
+    "explanation": "Diriliş: Ertuğrul, 2013-2014 yılları arasında TRT 1'de yayınlanan Osmanlı dizi ve büyük kült dizi olarak bilinir.",
+    "options": [
+      "Alparslan - Büyük Selçuklu",
+      "Diriliş: Ertuğrul",
+      "Kurtlar Vadisi",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Diriliş: Ertuğrul",
+    "tags": [
+      "televizyon dizileri",
+      "türk dizileri",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ra0lepmq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi dizi, ABD yapımı ve 'Breaking Bad' olarak bilinen, kimyasal maddelerle uyuşturucu üretmek üzerine kurgulanmış dizidir?",
+    "explanation": "Breaking Bad, Emmy ödüllü ABD yapımı ve uyuşturucu ticareti üzerine kurgulanmış dizi olarak ünlüdür.",
+    "options": [
+      "Game of Thrones",
+      "The Sopranos",
+      "Breaking Bad",
+      "Better Call Saul"
+    ],
+    "correctAnswer": "Breaking Bad",
+    "tags": [
+      "televizyon dizileri",
+      "abd dizileri",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jrp379jvc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi televizyon dizisi, 2018'de başlayan ve 'Stranger Things' adını taşıyan, 80'ler nostaljisi üzerine kurgulanmış dizidir?",
+    "explanation": "Stranger Things, 80'ler nostaljisi ve gizem üzerine kurgulanmış ABD yapımı dizi olarak bilinir.",
+    "options": [
+      "The Office",
+      "Friends",
+      "Stranger Things",
+      "Lost"
+    ],
+    "correctAnswer": "Stranger Things",
+    "tags": [
+      "televizyon dizileri",
+      "nostalji",
+      "amerikan dizileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nxt6kopvl",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk televizyon dizisi, 'Kızım' adını taşıyan ve evlilik üzerine kurgulanmış popüler dizidir?",
+    "explanation": "Kızım, evlilik ve aile üzerine kurgulanmış Türk yapımı popüler dizi olarak bilinir.",
+    "options": [
+      "Yalı Çapkını",
+      "Kuzey Güney",
+      "Kızım",
+      "Dil Eşekleri"
+    ],
+    "correctAnswer": "Kızım",
+    "tags": [
+      "televizyon dizileri",
+      "türk dizileri",
+      "evlilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iq0yrsewy",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi televizyon dizisi, 'Game of Thrones' olarak bilinen ve taht savaşı üzerine kurgulanmış ünlü dizidir?",
+    "explanation": "Game of Thrones, taht savaşı ve siyasi intrigue üzerine kurgulanmış ABD yapımı ünlü dizi olarak bilinir.",
+    "options": [
+      "The Mandalorian",
+      "Westworld",
+      "Game of Thrones",
+      "Fargo"
+    ],
+    "correctAnswer": "Game of Thrones",
+    "tags": [
+      "televizyon dizileri",
+      "taht savaşı",
+      "amerikan dizileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hwllyzgy9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk dizisi 2019-2020 yılları arasında Netflix'te yayınlanarak uluslararası başarı kazandı?",
+    "explanation": "Yalı Çapkını 2023 yılında Netflix'te yayınlanarak global platformlarda büyük ilgi gördü ve uluslararası başarı kazandı.",
+    "options": [
+      "Leyla ile Mecnun",
+      "Aşk-ı Memnu",
+      "Yalı Çapkını",
+      "Kuzey Güney"
+    ],
+    "correctAnswer": "Yalı Çapkını",
+    "tags": [
+      "Netflix",
+      "Türk Dizileri",
+      "Uluslararası Başarı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mu8x7uzno",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Hangi dizi, 2018-2020 yılları arasında TRT'de yayımlanmış kült bir Türk dizisidir?",
+    "explanation": "Diriliş Ertuğrul 2014-2019 yılları arasında TRT'de yayınlanmış, Osmanlı dönemini konu alan kült bir Türk dizisidir.",
+    "options": [
+      "Muhteşem Yüzyıl",
+      "Diriliş Ertuğrul",
+      "Kurtlar Vadisi",
+      "Çukur"
+    ],
+    "correctAnswer": "Diriliş Ertuğrul",
+    "tags": [
+      "TRT",
+      "Kült Diziler",
+      "Osmansal Dizi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o1uu50tfp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "EASY",
+    "question": "Hangi dizi, Kuzey ve Güney karakterleri etrafında şekillenir?",
+    "explanation": "Kuzey Güney (2013-2014) gençlik ve arkadaşlık ilişkilerini konu alan, Kuzey ve Güney karakterleri etrafında şekillenir.",
+    "options": [
+      "Yalı Çapkını",
+      "Kuzey Güney",
+      "Aşk-ı Memnu",
+      "Deli Gelin"
+    ],
+    "correctAnswer": "Kuzey Güney",
+    "tags": [
+      "Karakter Dizileri",
+      "Türk Dizileri",
+      "Gençlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d896mgm6y",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi dizi, 'Muhteşem Yüzyıl' evreninin bir devamı olarak gösterilmişti?",
+    "explanation": "Kara Sevda (2017-2019) Muhteşem Yüzyıl evreninin bir devam dizisi olarak konseptlenmiş, İstanbul'un eski dönemini konu almıştır.",
+    "options": [
+      "Yalı Çapkını",
+      "Kara Sevda",
+      "Diriliş Ertuğrul",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Kara Sevda",
+    "tags": [
+      "Muhteşem Yüzyıl",
+      "Türk Dizileri",
+      "Romantik Dizi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zdmw4czbm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Televizyon Dizileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi dizi, TRT'de yayımlanmış ve 'Çingenelik' tema etrafında şekillenir?",
+    "explanation": "Deli Gelin (2017-2018) TRT'de yayınlanmış, çingenelik ve aşk teması etrafında şekillenmiş bir Türk dizisidir.",
+    "options": [
+      "Muhteşem Yüzyıl",
+      "Aşk-ı Memnu",
+      "Deli Gelin",
+      "Yalı Çapkını"
+    ],
+    "correctAnswer": "Deli Gelin",
+    "tags": [
+      "Çingenelik",
+      "TRT Dizileri",
+      "Karakter Dizileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

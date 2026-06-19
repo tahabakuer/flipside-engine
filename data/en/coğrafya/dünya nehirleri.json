@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "mkhl44t9v",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünya'nın en uzun nehri olarak kabul edilen Amazon Nehri hangi kıtalarda bulunur?",
+    "explanation": "Amazon Nehri sadece Güney Amerika'da bulunur. Dünyanın en uzun nehri Nil Nehri (Afrika) olarak kabul edilir.",
+    "options": [
+      "Güney Amerika ve Kuzey Amerika",
+      "Asya ve Afrika",
+      "Avrupa ve Asya",
+      "Sadece Güney Amerika"
+    ],
+    "correctAnswer": "Avrupa ve Asya",
+    "tags": [
+      "Amazon Nehri",
+      "Dünya Coğrafyası",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8xpxz2nl8",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Nil Nehri, hangi iki Afrika ülkesinde başlar ve Akdeniz'e dökülür?",
+    "explanation": "Nil Nehri Mısır ve Sudan'dan geçer ve dünyanın en uzun nehri olarak kabul edilir.",
+    "options": [
+      "Mısır ve Sudan",
+      "Nijerya ve Kamerun",
+      "Kongo ve Angola",
+      "Zambiya ve Tanzanya"
+    ],
+    "correctAnswer": "Mısır ve Sudan",
+    "tags": [
+      "Nil Nehri",
+      "Afrika Coğrafyası",
+      "Akdeniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hmxuoqtrp",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Yangtze Nehri (Çang) hangi ülkenin en uzun nehridir?",
+    "explanation": "Yangtze Nehri, Çin'in en uzun nehridir ve Asya'da bulunur.",
+    "options": [
+      "Japonya",
+      "Çin",
+      "Tayvan",
+      "Kore"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Yangtze Nehri",
+      "Asya Coğrafyası",
+      "Çin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ygomabdb5",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Don Nehri hangi kıtalarda bulunur?",
+    "explanation": "Don Nehri hem Avrupa hem de Asya kıtalarında bulunur ve Rusya'dan geçer.",
+    "options": [
+      "Avrupa ve Asya",
+      "Afrika ve Avrupa",
+      "Kuzey Amerika ve Güney Amerika",
+      "Sadece Asya"
+    ],
+    "correctAnswer": "Avrupa ve Asya",
+    "tags": [
+      "Don Nehri",
+      "Avrupa Coğrafyası",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bepzj7k2v",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Volga Nehri, hangi ülkenin en uzun nehridir?",
+    "explanation": "Volga Nehri, dünyanın en uzun nehri olarak kabul edilen Amazon'dan sonra gelir ve Rusya'nın en uzun nehridir.",
+    "options": [
+      "Rusya",
+      "Ukrayna",
+      "Beyaz Rusya",
+      "Moldova"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Volga Nehri",
+      "Rusya Coğrafyası",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lje8bonq8",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Dünyanın en uzun nehri olarak kabul edilen Nil Nehri hangi kıta üzerinde yer alır?",
+    "explanation": "Nil Nehri, Afrika kıtasında bulunan ve yaklaşık 6.650 kilometre uzunluğunda dünyanın en uzun nehridir.",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "Nil Nehri",
+      "Uzunluk",
+      "Kıta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nubfpscsb",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en büyük su kütlesi olarak bilinen Amazon Nehri hangi nehirler ağına bağlıdır?",
+    "explanation": "Amazon Nehri, Amazon Havzası'nın merkezinde yer alır ve dünyanın en büyük nehir ağına ev sahipliği yapar.",
+    "options": [
+      "Mississippi",
+      "Rio de la Plata",
+      "Amazon Havzası",
+      "Nil Havzası"
+    ],
+    "correctAnswer": "Amazon Havzası",
+    "tags": [
+      "Amazon Nehri",
+      "Havza",
+      "Su Kütlesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3lp9f5hp6",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en derin nehri olarak kabul edilen Ganges Nehri hangi ülkenin başkentinden doğar?",
+    "explanation": "Ganges Nehri Nepal'in başkenti Katmandu yakınındaki yerlerden doğar ve Hindistan ile Bangladeş'te birleşir.",
+    "options": [
+      "Hindistan - Delhi",
+      "Bangladeş - Dhaka",
+      "Nepal - Kathmandu",
+      "Bhutan - Thimphu"
+    ],
+    "correctAnswer": "Nepal - Kathmandu",
+    "tags": [
+      "Ganges Nehri",
+      "Kaynak",
+      "Ülke"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bp4g58yk7",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en uzun nehriden sonra ikinci sırada yer alan Mississippi Nehri hangi kıta üzerinde bulunur?",
+    "explanation": "Mississippi Nehri Kuzey Amerika kıtasında bulunur ve Amazon'dan sonra dünyanın ikinci büyük nehridir.",
+    "options": [
+      "Avrupa",
+      "Afrika",
+      "Asya",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Kuzey Amerika",
+    "tags": [
+      "Mississippi Nehri",
+      "Sıralama",
+      "Kıta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6nlg3q5uc",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EXPERT",
+    "question": "Dünya'nın en uzun nehiri olan Nil'in kaynağı hangi gölden çıkar?",
+    "explanation": "Nil Nehri'nin ana kaynağı Afrika'nın büyük gölleri arasında yer alan Victoria Gölü'dür.",
+    "options": [
+      "Tana Gölü",
+      "Victoria Gölü",
+      "Turkana Gölü",
+      "Albert Gölü"
+    ],
+    "correctAnswer": "Victoria Gölü",
+    "tags": [
+      "Nil Nehri",
+      "Kaynak",
+      "Göl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sdwv3wgwf",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünya'nın en uzun nehir hangisidir ve hangi kıtada yer alır?",
+    "explanation": "Amazon Nehri, yaklaşık 6.400 km ile dünyanın en uzun nehiridir ve Güney Amerika kıtasında yer alır.",
+    "options": [
+      "Amazon Nehri - Güney Amerika",
+      "Nil Nehri - Afrika",
+      "Yangtze Nehri - Asya",
+      "Mississippi Nehri - Kuzey Amerika"
+    ],
+    "correctAnswer": "Amazon Nehri - Güney Amerika",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o6ena6cjn",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Nil Nehri hangi ülkelerden geçerek Akdeniz'e dökülür?",
+    "explanation": "Nil Nehri, Mısır ve Sudan ülkelerinden geçerek Akdeniz'e dökülür.",
+    "options": [
+      "Nijerya - Kamerun",
+      "Mısır - Sudan",
+      "Libya - Cezayir",
+      "Tunus - Fas"
+    ],
+    "correctAnswer": "Mısır - Sudan",
+    "tags": [
+      "coğrafya",
+      "Nil Nehri",
+      "Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3bj80nh6n",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Yangtze Nehri hangi ülkenin en uzun nehidir?",
+    "explanation": "Yangtze Nehri, Çin'in en uzun nehidir ve yaklaşık 6.300 km uzunluğundadır.",
+    "options": [
+      "Çin",
+      "Japonya",
+      "Hindistan",
+      "Kore"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "coğrafya",
+      "Yangtze Nehri",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tueys9y0z",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Parana Nehri hangi kıta üzerinde yer alır?",
+    "explanation": "Parana Nehri, Güney Amerika kıtasında yer alır ve Amazon ile birlikte bu kıtanın en büyük nehirlerindendir.",
+    "options": [
+      "Avrupa",
+      "Güney Amerika",
+      "Kuzey Amerika",
+      "Afrika"
+    ],
+    "correctAnswer": "Güney Amerika",
+    "tags": [
+      "coğrafya",
+      "Parana Nehri",
+      "Sahra dışı Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wpri7dcyg",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EXPERT",
+    "question": "Nile Nehrinin en önemli kollarından biri olan Atbara Nehri hangi ülkede doğar?",
+    "explanation": "Atbara Nehri Etiyopya'da doğar ve Nil'in en önemli kollarından biridir.",
+    "options": [
+      "Etiyopya",
+      "Sudan",
+      "Libya",
+      "Çad"
+    ],
+    "correctAnswer": "Etiyopya",
+    "tags": [
+      "coğrafya",
+      "Atbara Nehri",
+      "Nil Kolları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a6dosvrog",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Dünyanın en uzun nehiri olarak kabul edilen Nil Nehri hangi kıtada yer alır?",
+    "explanation": "Nil Nehri Afrika kıtasında yer alır ve yaklaşık 6.650 km uzunluğundadır. Asya, Güney Amerika ve Kuzey Amerika'da bulunan Amazon, Mississippi gibi nehirler Nil'den daha kısa veya farklı kıtalarda konumlanmıştır.",
+    "options": [
+      "Asya",
+      "Afrika",
+      "Güney Amerika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "Dünya Nehirleri",
+      "Nil Nehri",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4mukeboxw",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en büyük akış hacmine sahip nehiri hangisidir?",
+    "explanation": "Amazon Nehri Güney Amerika'da yer alır ve yaklaşık 209.000 km² akış alanına sahiptir. Dünyanın en büyük akış hacmine sahip nehirdir ve Amazon'un debisi Nil'in 20 katından fazladır.",
+    "options": [
+      "Nil Nehri",
+      "Yangtze Nehri",
+      "Amazon Nehri",
+      "Mississippi Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "Dünya Nehirleri",
+      "Amazon Nehri",
+      "Akış Hacmi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vqdsk706m",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Asya kıtasında bulunan Yangtze Nehri hangi ülkenin sınırları içinden akar?",
+    "explanation": "Yangtze Nehri Çin'in sınırları içinde akıp denize dökülür. Yaklaşık 6.300 km uzunluğundadır ve dünyanın en uzun nehirlerinden biridir.",
+    "options": [
+      "Hindistan",
+      "Çin",
+      "Japonya",
+      "Moğolistan"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Dünya Nehirleri",
+      "Yangtze Nehri",
+      "Asya Coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2rjm9t74v",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Mississippi Nehri Kuzey Amerika kıtasında bulunan hangi ülkenin en önemli nehridir?",
+    "explanation": "Mississippi Nehri ABD'nin en uzun ve önemli nehridir. Yaklaşık 6.275 km uzunluğundadır ve Mississippi-Ohio havzası üzerinden Mississippi Denizi'ne dökülür.",
+    "options": [
+      "Meksika",
+      "Kanada",
+      "ABD",
+      "Küba"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "Dünya Nehirleri",
+      "Mississippi Nehri",
+      "Kuzey Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5mglid7kx",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi nehir dünyanın en büyük gölü olan Baikal Gölü'ne doğrudan akmaz?",
+    "explanation": "Volga Nehri Avrupa'da yer alır ve Kızıl Deniz'e dökülür. Baikal Gölü ile doğrudan bağlantılı değildir. Ob, Amur ve Lena nehirleri ise Sibirya kıtasında bulunur.",
+    "options": [
+      "Volga Nehri",
+      "Amur Nehri",
+      "Ob Nehri",
+      "Lena Nehri"
+    ],
+    "correctAnswer": "Volga Nehri",
+    "tags": [
+      "Dünya Nehirleri",
+      "Baikal Gölü",
+      "Asya Coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fwqhd5q20",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki nehirlerden hangisi, dünyanın en uzun nehridir?",
+    "explanation": "Nil Nehri, yaklaşık 6.650 kilometre uzunluğunda olup dünyanın en uzun nehridir ve Afrika kıtasından geçer.",
+    "options": [
+      "Amazon Nehri",
+      "Nil Nehri",
+      "Yangtze Nehri",
+      "Mississippi Nehri"
+    ],
+    "correctAnswer": "Nil Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fip30vf60",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en büyük akım hacmine sahip nehrinin adı nedir?",
+    "explanation": "Amazon Nehri, yılda yaklaşık 209.000 km³ su taşıyan dünyanın en büyük akım hacmine sahip nehridir.",
+    "options": [
+      "Nil Nehri",
+      "Kongo Nehri",
+      "Amazon Nehri",
+      "Dnipro Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "akım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yy04n1gzm",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi nehir, Asya kıtasındaki en uzun nehirdir?",
+    "explanation": "Sungay veya Yangtze Nehri, yaklaşık 6.300 kilometre uzunluğunda olup Asya'nın en uzun nehridir.",
+    "options": [
+      "Irtyş Nehri",
+      "Sungay (Yangtze) Nehri",
+      "İndus Nehri",
+      "Ganges Nehri"
+    ],
+    "correctAnswer": "Sungay (Yangtze) Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jdmg5suhu",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Dünyanın en derin nehridir ve Afrika kıtasından geçen nehir hangisidir?",
+    "explanation": "Kongo Nehri, yaklaşık 4.70 metre derinliğe sahip olup dünyanın en derin nehridir.",
+    "options": [
+      "Niger Nehri",
+      "Zambezi Nehri",
+      "Kongo Nehri",
+      "Omo Nehri"
+    ],
+    "correctAnswer": "Kongo Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "derinlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t6863ftmo",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki nehirlerden hangisi Güney Amerika kıtasında yer alır?",
+    "explanation": "Amazon Nehri, Güney Amerika kıtasında bulunan ve Brezilya'dan kaynaklanan dünyanın en büyük nehridir.",
+    "options": [
+      "Nil Nehri",
+      "Mississippi Nehri",
+      "Amazon Nehri",
+      "Dnipro Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "kıta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xn3v6vb2t",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Dünyanın en uzun nehri olarak kabul edilen Amazon Nehri hangi kıta üzerinde yer alır?",
+    "explanation": "Amazon Nehri Güney Amerika kıtasında yer alır ve yaklaşık 6.400 km ile dünyanın en uzun nehridir.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Güney Amerika",
+      "Afrika"
+    ],
+    "correctAnswer": "Güney Amerika",
+    "tags": [
+      "Amazon Nehri",
+      "Kıtalardan Dünya",
+      "Nehir Uzunluğu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rwflalout",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Nil Nehri hangi iki Afrika ülkesini geçerek Akdeniz'e dökülür?",
+    "explanation": "Nil Nehri önce Sudan'dan sonra Mısır'a geçerek Akdeniz'e dökülür.",
+    "options": [
+      "Mısır, Sudan",
+      "Nijerya, Kamerun",
+      "Kongo, Angola",
+      "Çad, Ekvator"
+    ],
+    "correctAnswer": "Mısır, Sudan",
+    "tags": [
+      "Nil Nehri",
+      "Afrika Coğrafyası",
+      "Akdeniz'e Dökülen Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tg2cx6nbi",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Yangtze Nehri Asya'nın en uzun nehridir ve hangi ülkenin topraklarından geçer?",
+    "explanation": "Yangtze Nehri Çin'in topraklarından geçer ve Asya kıtasının en uzun nehridir.",
+    "options": [
+      "Hindistan",
+      "Çin",
+      "Japonya",
+      "Tayvan"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Yangtze Nehri",
+      "Asya Coğrafyası",
+      "Uzun Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ng7l58vxb",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Volga Nehri hangi ülkenin başkenti Moskova'ya yakın yerleşerek Kaspia Denizi'ne dökülür?",
+    "explanation": "Volga Nehri Rusya'nın başkenti Moskova'ya yakın yerleşerek Kaspia Denizi'ne dökülür.",
+    "options": [
+      "Rusya",
+      "Ukrayna",
+      "Türkmenistan",
+      "Azerbaycan"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Volga Nehri",
+      "Küresel Coğrafya",
+      "Avrupa'dan Dünya Nehirleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yoi92uili",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EXPERT",
+    "question": "Dünyanın en büyük akarsu ağı olan Amazon Nehri sisteminin yıllık ortalama debisi ne kadar civarındadır?",
+    "explanation": "Amazon Nehri sisteminin yıllık ortalama debisi yaklaşık 35.000 m³/s civarındadır ve bu onu dünyanın en büyük su taşıyan nehridir.",
+    "options": [
+      "10.000 m³/s",
+      "35.000 m³/s",
+      "75.000 m³/s",
+      "120.000 m³/s"
+    ],
+    "correctAnswer": "35.000 m³/s",
+    "tags": [
+      "Amazon Nehri",
+      "Nehir Debi",
+      "Coğrafi Veriler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pcnsrignw",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Dünya üzerindeki en uzun nehir hangisidir?",
+    "explanation": "Nil, geleneksel olarak dünyanın en uzun nehri kabul edilir.",
+    "options": [
+      "Amazon",
+      "Nil",
+      "Yangtze",
+      "Mississippi-Niagara"
+    ],
+    "correctAnswer": "Nil",
+    "tags": [
+      "Dünyanın Uzun Nehirleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zbf16gj7k",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "En geniş drenaj havzasına sahip nehir hangisidir?",
+    "explanation": "Amazon nehri, dünyadaki en büyük drenaj havzasına sahiptir.",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Dnipro",
+      "Mekong"
+    ],
+    "correctAnswer": "Amazon",
+    "tags": [
+      "Dünyanın Geniş Nehir Havzaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1p9isz07j",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Asya kıtasında en uzun nehir hangisidir?",
+    "explanation": "Yangtze, Asya kıtasındaki en uzun nehirdir.",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mekong"
+    ],
+    "correctAnswer": "Yangtze",
+    "tags": [
+      "Asya'nın Uzun Nehirleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4pu0f29d2",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Kuzey Amerika kıtasında en uzun nehir sistemi hangisidir?",
+    "explanation": "Mississippi-Missouri sistemi, Kuzey Amerika'da en uzun nehirdir.",
+    "options": [
+      "Missisipi-Missouri",
+      "Rio de la Plata",
+      "Colorado",
+      "Yukon"
+    ],
+    "correctAnswer": "Missisipi-Missouri",
+    "tags": [
+      "Kuzey Amerika'nın Nehir Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iidhlf010",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Güney Asya'da en çok tarımsal sulamaya katkı sağlayan nehir hangisidir?",
+    "explanation": "Ganges-Brahmaputra nehirleri, Güney Asya'da tarımsal sulamada kritik rol oynar.",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Ganges-Brahmaputra",
+      "Senegal"
+    ],
+    "correctAnswer": "Ganges-Brahmaputra",
+    "tags": [
+      "Dünyanın Tarım Nehirleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cn5k64615",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Dünyanın en uzun nehiri hangisidir?",
+    "explanation": "Tradicional olarak Nil Nehri, yaklaşık 6.650 km uzunluğuyla dünyanın en uzun nehiri kabul edilir.",
+    "options": [
+      "Amazon Nehri",
+      "Nil Nehri",
+      "Yangtze Nehri",
+      "Mississippi Nehri"
+    ],
+    "correctAnswer": "Nil Nehri",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6c6n4hfxx",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Amazon Nehri'nin akıştığı bölgeye ne ad verilir?",
+    "explanation": "Amazon Nehri Güney Amerika kıtasındaki Amazon Havzası'ndan geçer ve dünyanın en büyük nehir ağıdır.",
+    "options": [
+      "Orta Amerika",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Asya"
+    ],
+    "correctAnswer": "Güney Amerika",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "bölgesel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ptkb4fc82",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Yangtze Nehri hangi ülkenin en uzun nehridir?",
+    "explanation": "Yangtze Nehri yaklaşık 6.300 km uzunluğuyla Çin'in en uzun nehridir.",
+    "options": [
+      "Hindistan",
+      "Çin",
+      "Japonya",
+      "Vietnam"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ljetuefj0",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Kuzey Amerika'daki en uzun nehir sistemi hangisidir?",
+    "explanation": "Mississippi-Missouri Sistemi, yaklaşık 6.275 km uzunluğuyla Kuzey Amerika'nın en uzun nehir sistemidir.",
+    "options": [
+      "Colorado Nehri",
+      "Mississippi-Missouri Sistemi",
+      "Yukon Nehri",
+      "Rio Grande"
+    ],
+    "correctAnswer": "Mississippi-Missouri Sistemi",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "kuzey_amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dwbjzr02e",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EXPERT",
+    "question": "Dünyanın en derin nehri olarak bilinen hangisidir?",
+    "explanation": "Kongo Nehri, Ortalama 220-230 metre derinliğiyle dünyanın en derin nehridir ve Afrika'da akışır.",
+    "options": [
+      "Nil Nehri",
+      "Amazon Nehri",
+      "Kongo Nehri",
+      "Volga Nehri"
+    ],
+    "correctAnswer": "Kongo Nehri",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "jeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e47a22tss",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en uzun nehri hangisidir ve hangi kıtada yer alır?",
+    "explanation": "Nil Nehri, yaklaşık 6.650 km uzunluğunda dünyanın en uzun nehridir ve Akdeniz'e dökülen bir nehirdir.",
+    "options": [
+      "Nil Nehri - Afrika",
+      "Amazon Nehri - Güney Amerika",
+      "Yangtze Nehri - Asya",
+      "Mississippi Nehri - Kuzey Amerika"
+    ],
+    "correctAnswer": "Nil Nehri - Afrika",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n1nc2noou",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en büyük akım hacmine sahip nehir sistemi hangisidir?",
+    "explanation": "Amazon Nehri, yıllık 2.090 km³ akım hacmiyle dünyanın en büyük su taşıma kapasitesine sahip nehridir.",
+    "options": [
+      "Nil Nehri",
+      "Amazon Nehri",
+      "Yangtze Nehri",
+      "Volga Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "amazon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n7vmi5n33",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Asya kıtasında bulunan ve Çin'e dökülen en uzun nehir hangisidir?",
+    "explanation": "Yangtze Nehri, yaklaşık 6.300 km uzunluğunda Asya'nın en uzun nehridir ve Çin'e dökülen bir nehirdir.",
+    "options": [
+      "Yong River",
+      "Mississippi Nehri",
+      "Yangtze Nehri",
+      "Ganges Nehri"
+    ],
+    "correctAnswer": "Yangtze Nehri",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "çin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ve0ee3dq",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa kıtasında bulunan ve Kuzey Denizi'ne dökülen önemli nehir hangisidir?",
+    "explanation": "Rhein Nehri, yaklaşık 1.230 km uzunluğunda Avrupa'nın önemli ticaret nehridir ve Kuzey Denizi'ne dökülür.",
+    "options": [
+      "Don Nehri",
+      "Danube (Tuna) Nehri",
+      "Elbe Nehri",
+      "Rhine (Rhein) Nehri"
+    ],
+    "correctAnswer": "Rhine (Rhein) Nehri",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eu7s9jp6r",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en büyük kıta nehri sistemi olarak kabul edilen Mississippi-Missouri birligi hangi kıtadadır?",
+    "explanation": "Mississippi-Missouri nehri sistemi, yaklaşık 6.275 km uzunluğunda Kuzey Amerika kıtasında bulunan en büyük nehirdir.",
+    "options": [
+      "Afrika",
+      "Asya",
+      "Avustralya",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Kuzey Amerika",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "kuzey amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1a8lbybqb",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Dünya'nın en uzun nehri olarak kabul edilen Nil Nehri hangi kıtada yer alır?",
+    "explanation": "Nil Nehri yaklaşık 6.650 km uzunluğunda olup Afrika kıtasında yer alır ve dünyanın en uzun nehridir.",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "Nil Nehri",
+      "Dünya Coğrafyası",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wwj4cwumb",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EASY",
+    "question": "Dünya'nın en büyük su hacmine sahip nehir aşağıdakilerden hangisidir?",
+    "explanation": "Amazon Nehri dünyanın en büyük su hacmine ve en geniş ağıza sahiptir. Güney Amerika'da bulunur.",
+    "options": [
+      "Nil Nehri",
+      "Amazon Nehri",
+      "Mississippi Nehri",
+      "Yangtze Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "Amazon Nehri",
+      "Dünya Coğrafyası",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x7lrwmrt1",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Mississippi Nehri hangi ülkenin başlıca nehridir?",
+    "explanation": "Mississippi Nehri Amerika Birleşik Devletleri'nin en uzun ve önemli nehridir, yaklaşık 6.275 km uzunluğundadır.",
+    "options": [
+      "Meksika",
+      "Kanada",
+      "ABD",
+      "Brazilya"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "Mississippi Nehri",
+      "Amerika",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hs5w1ibze",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi nehir Asya kıtasında yer alır ve dünyanın en uzun nehridir?",
+    "explanation": "Yangtze Nehri Asya kıtasında yer alır ve yaklaşık 6.300 km ile Çin'in en uzun nehridir.",
+    "options": [
+      "Yangtze Nehri",
+      "Sarı Nehir",
+      "İndus Nehri",
+      "Ganges Nehri"
+    ],
+    "correctAnswer": "Yangtze Nehri",
+    "tags": [
+      "Yangtze Nehri",
+      "Asya Coğrafyası",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "21o87nbzg",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Nehirleri",
+    "difficulty": "EXPERT",
+    "question": "Ganges Nehri Hindistan'da ne işlev görür?",
+    "explanation": "Ganges Nehri Hindistan'da dini açıdan kutsal kabul edilir ve milyonlarca insan tarafından tapınma amaçlı kullanılır.",
+    "options": [
+      "Sadece sulama",
+      "Dini önemi taşıyan kutsal nehir",
+      "Sanayi atıkları için kullanılır",
+      "Turizm amaçlı değildir"
+    ],
+    "correctAnswer": "Dini önemi taşıyan kutsal nehir",
+    "tags": [
+      "Ganges Nehri",
+      "Hindistan",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

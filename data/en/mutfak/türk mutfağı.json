@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "pz7gn29ie",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "What is the primary base ingredient for the famous Turkish breakfast dish 'Menemen'?",
+    "explanation": "Menemen is a popular Turkish breakfast dish consisting of scrambled eggs cooked with tomatoes, green peppers, onions, and spices.",
+    "options": [
+      "Eggs and Tomatoes",
+      "Rice and Lentils",
+      "Potatoes and Onions",
+      "Spinach and Eggs"
+    ],
+    "correctAnswer": "Eggs and Tomatoes",
+    "tags": [
+      "Breakfast",
+      "Antalya",
+      "Dishes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zr5g9nol7",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which city in Turkey does the 'Adana Kebab' get its name from?",
+    "explanation": "Adana Kebab is a traditional Turkish dish named after the city of Adana, known for its spicy ground meat skewer.",
+    "options": [
+      "Istanbul",
+      "Ankara",
+      "Adana",
+      "Samsun"
+    ],
+    "correctAnswer": "Adana",
+    "tags": [
+      "Kebab",
+      "Regional Cuisine",
+      "Meat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9dwpj7yem",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What type of seeds are traditionally sprinkled on top of 'Simit'?",
+    "explanation": "Simit is a sesame-seed-covered Turkish baguette-style bread, widely eaten as street food in Turkey.",
+    "options": [
+      "Poppy",
+      "Pine Nuts",
+      "Sesame",
+      "Walnuts"
+    ],
+    "correctAnswer": "Sesame",
+    "tags": [
+      "Bread",
+      "Street Food",
+      "Ingredients"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jt4yg8s74",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Which flavoring is essential for authentic 'Turkish Delight' (Lokum)?",
+    "explanation": "Traditional Turkish Delight is flavored with rosewater or mint, and often filled or topped with pistachios, almonds, or walnuts.",
+    "options": [
+      "Mint",
+      "Rosewater or Pistachio",
+      "Cinnamon and Sugar",
+      "Vanilla and Almond"
+    ],
+    "correctAnswer": "Rosewater or Pistachio",
+    "tags": [
+      "Sweets",
+      "Traditional Confectionery",
+      "Ingredients"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lozbnc079",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "What is the primary grain used to make the fermented Turkish beverage 'Boza'?",
+    "explanation": "Boza is a traditional thick, sweet, fermented drink made primarily from sorghum or rice in Turkey.",
+    "options": [
+      "Barley",
+      "Sorghum or Rice",
+      "Wheat",
+      "Millet"
+    ],
+    "correctAnswer": "Sorghum or Rice",
+    "tags": [
+      "Drinks",
+      "Fermented Beverages",
+      "Grains"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vvky4ehun",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "What is the distinctive shape of a traditional Turkish tea glass (çay)?",
+    "explanation": "Turkish tea is traditionally served in tulip-shaped glasses to preserve the aroma and temperature of the hot beverage.",
+    "options": [
+      "Round and wide",
+      "Tulip-shaped",
+      "Square",
+      "Rectangular"
+    ],
+    "correctAnswer": "Tulip-shaped",
+    "tags": [
+      "Beverage",
+      "Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y45plvw0e",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is a key filling ingredient for Turkish Baklava?",
+    "explanation": "Baklava is a dessert made of thin filo pastry filled with chopped nuts and sweetened with syrup or honey.",
+    "options": [
+      "Pineapple",
+      "Ground Walnuts or Pistachios",
+      "Chocolate",
+      "Dates"
+    ],
+    "correctAnswer": "Ground Walnuts or Pistachios",
+    "tags": [
+      "Dessert",
+      "Sweet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "esd92fz0y",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What is the primary base for a traditional Turkish Menemen dish?",
+    "explanation": "Menemen is a famous Anatolian breakfast consisting of eggs cooked with tomatoes, green peppers, onions, and garlic.",
+    "options": [
+      "Rice",
+      "Potatoes",
+      "Tomatoes and Eggs",
+      "Pasta"
+    ],
+    "correctAnswer": "Tomatoes and Eggs",
+    "tags": [
+      "Breakfast",
+      "Main Course"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8toravyaz",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which regional kebab is known for its spicy flavor and use of red pepper paste in marinades?",
+    "explanation": "Adana kebab originates from the city of Adana and is famous for its spicy flavor derived from red pepper paste or specific spices.",
+    "options": [
+      "Şiş Kebabı",
+      "Iskender Kebabı",
+      "Adana Kebabı",
+      "Urfa Kebabı"
+    ],
+    "correctAnswer": "Adana Kebabı",
+    "tags": [
+      "Meat",
+      "Regional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wvsjqda94",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "What is the traditional dumpling dish consisting of minced meat wrapped in thin dough?",
+    "explanation": "Mantı is a small dumpling (often called 'Turkish ravioli') filled with spiced minced meat, boiled in broth and served with yogurt.",
+    "options": [
+      "Köfte",
+      "Mantı",
+      "Hamburger",
+      "Döner"
+    ],
+    "correctAnswer": "Mantı",
+    "tags": [
+      "Dumplings",
+      "Meat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6zdmzeuoj",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Which of these is considered a national dish of Turkey?",
+    "explanation": "Kebap is widely recognized as one of Turkey's national dishes, with various regional styles including İskender, Adana, and Şiş Kebap.",
+    "options": [
+      "Döner",
+      "Kebap",
+      "Menemen",
+      "Pide"
+    ],
+    "correctAnswer": "Kebap",
+    "tags": [
+      "traditional",
+      "national-dish",
+      "grilled"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qh6ywn6kl",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What region is Baklava most famously associated with in Turkish cuisine?",
+    "explanation": "Baklava has its origins in Central Anatolia, particularly in Damascus and Aleppo regions, but became famous throughout Turkey with many regional variations.",
+    "options": [
+      "Mediterranean",
+      "Black Sea",
+      "Aegean",
+      "Central Anatolia"
+    ],
+    "correctAnswer": "Central Anatolia",
+    "tags": [
+      "dessert",
+      "pastry",
+      "regional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fmblxuc6o",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Which ingredient is essential for making traditional Turkish Ayran?",
+    "explanation": "Ayran is a traditional Turkish yogurt-based drink made by mixing yogurt with water and salt, often served with meals.",
+    "options": [
+      "Lemon juice",
+      "Mint leaves",
+      "Yogurt",
+      "Tomato paste"
+    ],
+    "correctAnswer": "Yogurt",
+    "tags": [
+      "drink",
+      "yogurt",
+      "refreshing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6n1tf9kqx",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What is the primary meat used in Turkish İskender Kebap?",
+    "explanation": "İskender Kebap from Bursa traditionally uses lamb or beef, but lamb is more authentic and commonly used in the original recipe.",
+    "options": [
+      "Lamb",
+      "Chicken",
+      "Beef",
+      "Fish"
+    ],
+    "correctAnswer": "Lamb",
+    "tags": [
+      "kebap",
+      "meat-dish",
+      "Istanbul"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n370yjtsn",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Which traditional Turkish tea preparation method involves steeping tea leaves twice?",
+    "explanation": "Turkish black tea is typically brewed twice - first to concentrate the flavor, then diluted with hot water for serving, a traditional practice in Turkish households.",
+    "options": [
+      "Black Tea (Kara Çay)",
+      "Green Tea (Yeşil Çay)",
+      "Herbal Tea",
+      "Fruit Tea"
+    ],
+    "correctAnswer": "Black Tea (Kara Çay)",
+    "tags": [
+      "tea",
+      "beverage",
+      "traditional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uo1r8bp5z",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Hangi sebze Türk mutfağında dolmalar için özel olarak kullanılır ve kabuğu genellikle soyulmadan pişirilir?",
+    "explanation": "Patlıcan, Türk mutfağında en çok dolmalar (patlıcan dolması) ve bazı pilavlarda kullanılır. Kabuğu genellikle soyulmadan pişirilir.",
+    "options": [
+      "Patates",
+      "Patlıcan",
+      "Havuç",
+      "Kereviz"
+    ],
+    "correctAnswer": "Patlıcan",
+    "tags": [
+      "sebze",
+      "dolma",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7g7ze48s8",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi kebap türü Adana yöresine özgüdür ve kırmızı acı biberle pişirilen etin yerel bir lezzetidir?",
+    "explanation": "Adana kebabı, Adana yöresine özgü, kırmızı acı biber ile pişirilen dana veya kuzu etiyle yapılan meşhur bir kebaptır.",
+    "options": [
+      "İskender",
+      "Manisa",
+      "Adana",
+      "Urfa"
+    ],
+    "correctAnswer": "Adana",
+    "tags": [
+      "kebap",
+      "yöre",
+      "et"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rqik6xvxl",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvaltısı için en popüler ve geleneksel içecek hangisidir?",
+    "explanation": "Türk kahvaltısı kültüründe, sabahların en önemli lezzeti olarak çay (demlikte demlenmiş yeşil çay) vazgeçilmezdir.",
+    "options": [
+      "Çay",
+      "Ayran",
+      "Şalgam",
+      "Kahve"
+    ],
+    "correctAnswer": "Çay",
+    "tags": [
+      "içecek",
+      "kahvaltı",
+      "tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mqt3xshiw",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi tatlı Türk mutfağında pirinç ve süt kullanılarak yapılan geleneksel bir tatlıdır?",
+    "explanation": "Sütlaç (veya Pirinç Sütlaç), pirinç ve süt kullanılarak yapılan, Osmanlı mutfağının klasiklerinden biri olan tatlıdır.",
+    "options": [
+      "Baklava",
+      "Sütlaç",
+      "Tatlısı",
+      "Güllaş"
+    ],
+    "correctAnswer": "Sütlaç",
+    "tags": [
+      "tatlı",
+      "pirinç",
+      "süt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pgh605409",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharat Türk mutfağında yemeklerin üzerine dökülmek için kullanılan ve ekşi bir lezzet katmasıyla bilinir?",
+    "explanation": "Sumak, Türk mutfağında ekşi-tuzlu lezzeti veren ve yemeklerin üzerine veya sosların içine sıkça kullanılan kırmızı-beyaz toz baharattır.",
+    "options": [
+      "Sumak",
+      "Tarçın",
+      "Nanelik",
+      "Zencefil"
+    ],
+    "correctAnswer": "Sumak",
+    "tags": [
+      "baharat",
+      "sos",
+      "lezzet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qazdzstxc",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "What is the name of the traditional green tea widely consumed in Turkey?",
+    "explanation": "Turkish Çay is a staple beverage, typically served in tulip-shaped glasses and consumed throughout the day.",
+    "options": [
+      "Ayran",
+      "Çay",
+      "Kahve",
+      "Şalgam"
+    ],
+    "correctAnswer": "Çay",
+    "tags": [
+      "drinks",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c4y8xt3os",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What grain is primarily used as the stuffing for \"Dolma\"?",
+    "explanation": "Dolma consists of vegetables stuffed with a mixture of rice and herbs, sometimes including minced meat.",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Pasta",
+      "Bread"
+    ],
+    "correctAnswer": "Rice",
+    "tags": [
+      "ingredients",
+      "dishes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "72eiucg4r",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which nut is traditionally associated with Konya Baklava?",
+    "explanation": "While walnuts are common in many regions, Konya baklava is famous for its pistachio filling and phyllo dough.",
+    "options": [
+      "Almond",
+      "Pistachio",
+      "Walnut",
+      "Hazelnut"
+    ],
+    "correctAnswer": "Pistachio",
+    "tags": [
+      "dessert",
+      "ingredients"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qphelixcu",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What is the traditional Turkish appetizer spread known as?",
+    "explanation": "Meze refers to a selection of small dishes served with raki or çay, typically consisting of dips, salads, and grilled items.",
+    "options": [
+      "Meze",
+      "Mezze",
+      "Tatar",
+      "Şerbet"
+    ],
+    "correctAnswer": "Meze",
+    "tags": [
+      "culture",
+      "appetizers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m40ss6h3l",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Which dish is a combination of grilled lamb, yogurt, and tomato sauce?",
+    "explanation": "İskender kebap consists of thinly sliced meat on pide bread with a topping of yogurt, tomato sauce, and butter.",
+    "options": [
+      "Menemen",
+      "İskender",
+      "Kebab Dolması",
+      "Simit"
+    ],
+    "correctAnswer": "İskender",
+    "tags": [
+      "dishes",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k21ef9pua",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Menemen is a traditional Turkish breakfast dish. Which ingredients are essential to its preparation?",
+    "explanation": "Menemen is primarily made with eggs, tomatoes, green peppers, and onions, often cooked in a pot.",
+    "options": [
+      "Egg, Tomato, Bell Pepper",
+      "Rice, Beef, Onion",
+      "Potato, Egg, Cheese",
+      "Lentils, Yogurt, Mint"
+    ],
+    "correctAnswer": "Egg, Tomato, Bell Pepper",
+    "tags": [
+      "Cuisine",
+      "Breakfast",
+      "MUTFAK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lgv6il16w",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which city is most famous for producing high-quality Baklava?",
+    "explanation": "Gaziantep is renowned internationally for its thin phyllo dough and rose syrup baklava.",
+    "options": [
+      "Gaziantep",
+      "Istanbul",
+      "Ankara",
+      "Bursa"
+    ],
+    "correctAnswer": "Gaziantep",
+    "tags": [
+      "Dessert",
+      "Geography",
+      "MUTFAK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ehjlce1o",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Ayran, a popular Turkish drink, is made by mixing which ingredients?",
+    "explanation": "Ayran is a salty yogurt-based drink, typically served with meals in Turkey.",
+    "options": [
+      "Yogurt, Water, Salt",
+      "Milk, Sugar, Honey",
+      "Tea, Milk, Lemon",
+      "Juice, Ice, Mint"
+    ],
+    "correctAnswer": "Yogurt, Water, Salt",
+    "tags": [
+      "Drink",
+      "Breakfast",
+      "MUTFAK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "buqzyby6h",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Adana Kebap is a type of kebab primarily made from which meat and preparation method?",
+    "explanation": "Adana Kebap consists of coarsely minced meat (usually beef or lamb) and spices, grilled on a skewer.",
+    "options": [
+      "Minced Beef/Lamb Skewered",
+      "Whole Chicken Roasted",
+      "Ground Meat Piled on Bread",
+      "Fish Fillet Grilled"
+    ],
+    "correctAnswer": "Minced Beef/Lamb Skewered",
+    "tags": [
+      "Meat",
+      "Street Food",
+      "MUTFAK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wva46nhxv",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "The Turkish dish 'Hünkar Beğendi' literally translates to what in English?",
+    "explanation": "The name comes from the phrase 'Hünkar Beğendi', meaning 'the Sultan likes it' or 'Sultan's Favorite'.",
+    "options": [
+      "Sultan's Favorite",
+      "King's Bread",
+      "Emperor's Delight",
+      "Prince's Meal"
+    ],
+    "correctAnswer": "Sultan's Favorite",
+    "tags": [
+      "History",
+      "Etymology",
+      "MUTFAK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pn6rxezpa",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Türk mutfağına özgü ve özellikle meşhur bir baharat karışımı hangisidir?",
+    "explanation": "Pul biber, Türk mutfağında en yaygın kullanılan baharatlardan biridir ve et yemeklerinde, pilavlarda ve salçalarda sıklıkla kullanılır.",
+    "options": [
+      "A) Biber salçası",
+      "B) Pul biber",
+      "C) Karabiber",
+      "D) Tereyağ"
+    ],
+    "correctAnswer": "B) Pul biber",
+    "tags": [
+      "baharatlar",
+      "temel malzemeler",
+      "Türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ru3vve3o3",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi yemek, Anadolu'nun hemen her yöresinde bulabileceğiniz, köfteye benzer ancak içi doldurulmuş veya katmanlı bir yapıya sahiptir?",
+    "explanation": "Mantı, küçük hamur parçalarıyla doldurulmuş veya içli köftesine benzer şekilde hazırlanan, pilav gibi pişen ve bol soslu servis edilen bir yemektir.",
+    "options": [
+      "A) Dolma",
+      "B) İmam bayıldı",
+      "C) Mantı",
+      "D) Kebap"
+    ],
+    "correctAnswer": "C) Mantı",
+    "tags": [
+      "Anadolu mutfağı",
+      "doldurulmuş yemekler",
+      "pilav aileleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zzrbk277p",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında 'hünkar beğendi' adlı yemekte kullanılan ana malzeme nedir?",
+    "explanation": "Hünkar beğendi, kızarmış patlıcanların üzerine balık veya et sosu gezdirip yumuşak bir patlıcan ezmesi (beğendi) ile servis edilen geleneksel bir yemektir.",
+    "options": [
+      "A) Tavuk",
+      "B) Patlıcan",
+      "C) Balık",
+      "D) Kuzu"
+    ],
+    "correctAnswer": "B) Patlıcan",
+    "tags": [
+      "patlıcan yemekleri",
+      "Osmanlı mutfağı",
+      "kremalı yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xwbkjc1va",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Türk mutfağına ait 'sütlah' adlı içecek hangisidir?",
+    "explanation": "Ayran, Türk mutfağında en yaygın görülen fermente süt içeceğidir ve genellikle tuzlu olarak servis edilir.",
+    "options": [
+      "A) Ayran",
+      "B) Kahve",
+      "C) Tereyağ",
+      "D) Şalgam"
+    ],
+    "correctAnswer": "A) Ayran",
+    "tags": [
+      "içecekler",
+      "müze",
+      "geleneksel içecekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w5je6un1b",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Türk mutfağına özgü 'lokum' veya 'şeker lokumu', hangi bölgeden orijinal olarak gelmektedir?",
+    "explanation": "Lokum, Osmanlı döneminde İzmir'de üretildiği ve burada ünlü lokumcılarla (özellikle 19. yüzyılda) meşhur olduğu bilinmektedir.",
+    "options": [
+      "A) İstanbul",
+      "B) İzmir",
+      "C) Konya",
+      "D) Erzurum"
+    ],
+    "correctAnswer": "B) İzmir",
+    "tags": [
+      "lokum tarihi",
+      "şekerleme türleri",
+      "tarihsel coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rs2u0oc84",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "What are the two primary ingredients used to make Menemen, a popular Turkish breakfast dish?",
+    "explanation": "Menemen is traditionally made by scrambling eggs with tomatoes and often onions or peppers. It is a staple of Turkish breakfast culture.",
+    "options": [
+      "Egg and Tomato",
+      "Meat and Rice",
+      "Cheese and Spinach",
+      "Lamb and Potato"
+    ],
+    "correctAnswer": "Egg and Tomato",
+    "tags": [
+      "Breakfast",
+      "Regional",
+      "Basic Ingredients"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r4r53ok2v",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which nut is most commonly used as the primary filling in traditional Baklava?",
+    "explanation": "While pistachios are used in some regions, walnuts are the classic nut filling for traditional Turkish Baklava, especially in Thrace and Konya styles.",
+    "options": [
+      "Walnuts",
+      "Cashews",
+      "Almonds",
+      "Peanuts"
+    ],
+    "correctAnswer": "Walnuts",
+    "tags": [
+      "Dessert",
+      "Sweet",
+      "Ingredients"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xua0dtbov",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What is the primary liquid base that gives Ayran its characteristic tangy taste?",
+    "explanation": "Ayran is a salty yogurt-based drink made from water, yogurt, and salt. It is a refreshing accompaniment to Turkish meals.",
+    "options": [
+      "Milk",
+      "Yogurt",
+      "Cream",
+      "Soy Milk"
+    ],
+    "correctAnswer": "Yogurt",
+    "tags": [
+      "Beverage",
+      "Dairy",
+      "Breakfast"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v9c6xbhnm",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Who is İskender Kebab traditionally named after according to culinary history?",
+    "explanation": "İskender Kebab is widely attributed to being named after Iskander Paşa, although some legends suggest it was named after a waiter named Ali Isker in Bursa.",
+    "options": [
+      "Iskander Paşa",
+      "King Iskander of Macedon",
+      "A Greek Mythology Figure",
+      "A Roman General"
+    ],
+    "correctAnswer": "Iskander Paşa",
+    "tags": [
+      "History",
+      "Main Course",
+      "Kebab"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2vnzs0brf",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which round sesame bread is commonly served with Turkish breakfast spreads?",
+    "explanation": "Simit is a circular bread topped with sesame seeds, often eaten with butter, cheese, or honey during Turkish breakfast.",
+    "options": [
+      "Simit",
+      "Borek",
+      "Yufka",
+      "Pide"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "Breakfast",
+      "Bread",
+      "Street Food"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hzr48zhb0",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında en önemli baharat hangisidir?",
+    "explanation": "Kimyon, Türk mutfağında özellikle et yemeklerinde, çorbalarda ve pilavlarda yaygın olarak kullanılan temel baharattır.",
+    "options": [
+      "Sarımsak",
+      "Zencefil",
+      "Kimyon",
+      "Karabiber"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "baharat",
+      "mutfak",
+      "türk-yemekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "shqsxbhy0",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Hangi yemek İstanbul'un simgesi olarak kabul edilir?",
+    "explanation": "Simit, İstanbul'un en meşhur simgesi ve sokak lezzetlerinden biridir; tuzlu ekmek üzerine sürülen soslarla tüketilir.",
+    "options": [
+      "Menemen",
+      "Köfte",
+      "Şiş Köfte",
+      "Simit"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "sempol",
+      "istanbul",
+      "sokak-yemeği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t9tn2z4q7",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Baklava'nın yapımında hangi malzeme temel oluşturur?",
+    "explanation": "Baklava, ince hamur katları (un ile yapılan) ve içine serpilmiş fındık ile tatlandırılmış şerbetle yapılır.",
+    "options": [
+      "Un",
+      "Mısır Nişastası",
+      "Yulaf",
+      "Arpa"
+    ],
+    "correctAnswer": "Un",
+    "tags": [
+      "tatlı",
+      "baklava",
+      "malzeme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "isk5o5s9z",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Hangi yemek 'Menemen' olarak bilinir?",
+    "explanation": "Menemen, yumurta ile domatesin ve kırmızı biberin harmanlanarak pişirilen meşhur Türk kahvaltılığıdır.",
+    "options": [
+      "Yumurta, domates ve biberli",
+      "Ezogelin",
+      "Çorba",
+      "Peynir"
+    ],
+    "correctAnswer": "Yumurta, domates ve biberli",
+    "tags": [
+      "kahvaltı",
+      "menemen",
+      "sabah-yemeği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o1wawlk7q",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Adana kebabının özelliklerinden hangisi doğrudur?",
+    "explanation": "Adana kebabı, ince dilimlenmiş koyun etinden yapılır ve Adana şehrinin meşhur lezzetidir.",
+    "options": [
+      "Koyun eti",
+      "Tavuk eti",
+      "Balık",
+      "Sığır eti"
+    ],
+    "correctAnswer": "Koyun eti",
+    "tags": [
+      "et-yemeği",
+      "kebab",
+      "adana"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p6iiyl4yl",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Türk mutfağında baklava yapımında kullanılan ince ve katmanlı hamur türü hangisidir?",
+    "explanation": "Baklava yapımında kullanılan hamur, katmanları arasında tereyağı bulunan ve ince dilimlenmiş özel bir hamur olan filo hamurudur.",
+    "options": [
+      "Yufka",
+      "Filo Hamuru",
+      "Pide Hamuru",
+      "Börek Hamuru"
+    ],
+    "correctAnswer": "Filo Hamuru",
+    "tags": [
+      "tatlı",
+      "hamur işi",
+      "baklava"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n64cqkv8g",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Lahmacun halk arasında genellikle hangi yemeğe benzetilir?",
+    "explanation": "Lahmacun, ince yufkaya yayılmış et sosu ve garnitürlerle yapılan Türk mutfağındaki popüler lezzet olup halk arasında 'Türk Pizza' olarak bilinir.",
+    "options": [
+      "Pizza",
+      "Mantı",
+      "Tandır Kebabı",
+      "Dolma"
+    ],
+    "correctAnswer": "Pizza",
+    "tags": [
+      "ana yemek",
+      "etli yufka",
+      "lahmacun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ggf88lg7f",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Rakı içeceğinin karakteristik aromasını veren ana bitki hangisidir?",
+    "explanation": "Rakı, anasonla destilasyon yapılan ve suyla karıştırıldığında 'süt' gibi bulanıklaşan (tulumba) özellik gösteren bir rakı tipi içeceğidir.",
+    "options": [
+      "Nane",
+      "Anason",
+      "Dereotu",
+      "Maydanoz"
+    ],
+    "correctAnswer": "Anason",
+    "tags": [
+      "alkollü içecek",
+      "rakı",
+      "anason"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9mtvorhul",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Geleneksel Türk çayında kullanılan fincanlar hangi şekle sahiptir?",
+    "explanation": "Geleneksel Türk çayı fincanları, el yapımı desenli ve ince saplı, tulip çiçeği andıran bir şekle sahiptir.",
+    "options": [
+      "Tulip biçimli",
+      "Silindirik",
+      "Kare",
+      "Yuvarlak"
+    ],
+    "correctAnswer": "Tulip biçimli",
+    "tags": [
+      "çay kültürü",
+      "fincan",
+      "şekil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "071q51xko",
+    "category": "MUTFAK",
+    "subcategory": "Türk Mutfağı",
+    "difficulty": "EASY",
+    "question": "Mercimek Çorbasının ana maddesi aşağıdakilerden hangisidir?",
+    "explanation": "Mercimek çorbası, adındaki gibi kırmızı veya yeşil mercimikten yapılmış geleneksel bir Türk çorbasıdır.",
+    "options": [
+      "Mercimek",
+      "Bezelye",
+      "Fasulye",
+      "Nohut"
+    ],
+    "correctAnswer": "Mercimek",
+    "tags": [
+      "çorba",
+      "sebze yemeği",
+      "mercimek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

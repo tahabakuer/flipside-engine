@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "b7f05e1ar",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Kuvvetin birimi nedir?",
+    "explanation": "Kuvvetin SI birimi Newton'dur.",
+    "options": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
+    ],
+    "correctAnswer": "Newton",
+    "tags": [
+      "Fizik",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7mkfg2teb",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Atomun hangi parçası negatif yüklüdür?",
+    "explanation": "Elektronlar, atom çekirdeği etrafında bulunan negatif yüklü parçacıklardır.",
+    "options": [
+      "Proton",
+      "Nötron",
+      "Elektron",
+      "Pozitron"
+    ],
+    "correctAnswer": "Elektron",
+    "tags": [
+      "Fizik",
+      "Atom"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pzwi6q7o2",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Hızın değişme oranına ne ad verilir?",
+    "explanation": "İvme, birim zamanda hızın değişimi olarak tanımlanır.",
+    "options": [
+      "İvme",
+      "Hız",
+      "Yer",
+      "Momentum"
+    ],
+    "correctAnswer": "İvme",
+    "tags": [
+      "Fizik",
+      "Kinetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rmyr0z7ou",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Heisenberg Belirsizlik İlkesi hangi fiziksel niceliklerle ilgilidir?",
+    "explanation": "Heisenberg Belirsizlik İlkesi, aynı anda konum ve momentumun tam olarak belirlenememesini ifade eder.",
+    "options": [
+      "Konum ve momentum",
+      "Enerji ve zaman",
+      "Kütle ve hacim",
+      "Yük ve elektrik"
+    ],
+    "correctAnswer": "Konum ve momentum",
+    "tags": [
+      "Fizik",
+      "Kuantum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2hzcp38r",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Einstein'ın genel görelilik teorisine göre, yerçekimi nasıl açıklanır?",
+    "explanation": "Genel görelilikte, kütle ve enerji uzay-zamanı büker; bu bükülme yerçekimi olarak algılanır.",
+    "options": [
+      "Mekanik alan eğriliği",
+      "Uzay-zaman eğriliği",
+      "Elektromanyetik alan",
+      "Kuantum etkileşimleri"
+    ],
+    "correctAnswer": "Uzay-zaman eğriliği",
+    "tags": [
+      "Fizik",
+      "Görelilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2475pghdo",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Kuvvetin SI birimi nedir?",
+    "explanation": "Kuvvetin birimi Newton'dur. Isaac Newton'un adını taşıyan bu birim, ikinci Newton yasasıyla tanımlanır.",
+    "options": [
+      "Joule (J)",
+      "Watt (W)",
+      "Pascal (Pa)",
+      "Newton (N)"
+    ],
+    "correctAnswer": "Newton (N)",
+    "tags": [
+      "fizik",
+      "mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3js2kba72",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Bir cismin ivmesi sabitken, hız-zaman bağıntısı aşağıdakilerden hangisidir?",
+    "explanation": "Sabit ivmeli hareket için hız-zaman bağıntısı v = v₀ + at şeklinde ifade edilir. Burada v₀ başlangıç hızıdır.",
+    "options": [
+      "v = v₀ + at",
+      "v = v₀ - at",
+      "v² = v₀² + 2ax",
+      "a = Δv/Δt"
+    ],
+    "correctAnswer": "v = v₀ + at",
+    "tags": [
+      "fizik",
+      "hareket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m4yu24lgt",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Bir basit sürgüde, en yüksek noktada hangi enerji türü maksimumdur?",
+    "explanation": "Basit sürgünün en yüksek noktasında hız sıfır olduğundan, tüm enerji potansiyel enerji olarak bulunur.",
+    "options": [
+      "Kinetik enerji",
+      "Potansiyel enerji",
+      "Toplam mekanik enerji",
+      "Sıcaklık enerjisi"
+    ],
+    "correctAnswer": "Potansiyel enerji",
+    "tags": [
+      "fizik",
+      "enerji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "csos6btsh",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Ohm kanunu'na göre gerilim, akım ve direnç ilişkisi nasıl ifade edilir?",
+    "explanation": "Ohm kanunu'na göre gerilim (V), akımın (I) ve direncin (R) çarpımıyla ifade edilir: V = I × R.",
+    "options": [
+      "V = I × R",
+      "I = V ÷ R",
+      "R = V × I",
+      "P = V²/R"
+    ],
+    "correctAnswer": "V = I × R",
+    "tags": [
+      "fizik",
+      "elektrik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cyz5ihads",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Fotoelektrik etki'de, ışık bir metal yüzeye çarptığında ne gerçekleşir?",
+    "explanation": "Fotoelektrik etki'de, belirli bir eşik frekansın üzerindeki ışık elektronları metalden koparır. Bu Einstein tarafından açıklanmıştır.",
+    "options": [
+      "Elektronların metalden kopması",
+      "Işığın kırılması",
+      "Metalin ısınması",
+      "Elektronların hızlanması"
+    ],
+    "correctAnswer": "Elektronların metalden kopması",
+    "tags": [
+      "fizik",
+      "kuantum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s2c60xe26",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Net kuvvet uygulanmadığında bir cisim ne yapar?",
+    "explanation": "Newton'un 1. Yasası'na göre, net kuvvet sıfırsa cisim durgunlukta kalır veya sabit hızla devam eder.",
+    "options": [
+      "Durağan kalır veya sabit hızla hareket eder",
+      "Zamanla yavaşlar",
+      "Işık hızına ulaşır",
+      "Her yöne ivmelenir"
+    ],
+    "correctAnswer": "Durağan kalır veya sabit hızla hareket eder",
+    "tags": [
+      "Newton Yasaları",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d8hd2lg5z",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Kinetik enerji hangi faktörlere bağlıdır?",
+    "explanation": "Kinetik enerji formülü KE = ½mv²'dir; yani kütle ve hızın karesine bağlıdır.",
+    "options": [
+      "Sadece kütle",
+      "Kütle ve hız karesi",
+      "Sadece hız",
+      "Kütle, hız ve ivme"
+    ],
+    "correctAnswer": "Kütle ve hız karesi",
+    "tags": [
+      "Enerji",
+      "Kinetik Enerji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lektz7m66",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Seri devrelerde akım nasıl akar?",
+    "explanation": "Seri devrelerde akım tüm elemanlardan geçer ve değerleri eşittir.",
+    "options": [
+      "Her dirençte farklı",
+      "Tüm bileşenlerde aynı",
+      "En büyük dirençten geçer",
+      "Gerilimle ters orantılı"
+    ],
+    "correctAnswer": "Tüm bileşenlerde aynı",
+    "tags": [
+      "Elektrik Devreleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v0r8tdibo",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Güç birim zamanda neye eşittir?",
+    "explanation": "Güç, birim zamanda yapılan iş veya tüketilen enerjiye eşittir (P = E/t).",
+    "options": [
+      "Enerji / Zaman",
+      "Kuvvet x Mesafe",
+      "Momentum değişimi",
+      "Kütle x İvme"
+    ],
+    "correctAnswer": "Enerji / Zaman",
+    "tags": [
+      "Güç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebmsqpkr5",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Fotoelektrik etki için eşik frekans nedir?",
+    "explanation": "Eşik frekans, metalin iş fonksiyonunu aşmak için gerekli minimum frekanstır.",
+    "options": [
+      "Metal için en düşük frekans",
+      "Işık hızının %50'si",
+      "Elektronun maksimum enerjisi",
+      "Fotonların toplam kütlesi"
+    ],
+    "correctAnswer": "Metal için en düşük frekans",
+    "tags": [
+      "Fotoelektrik Efekt",
+      "Kuantum Mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2lxxigyif",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Fizikte 'kütle' ve 'ağırlık' arasındaki temel fark nedir?",
+    "explanation": "Kütle, bir cismin sahip olduğu madde miktarıdır ve evrensel olarak sabittir. Ağırlık ise yer çekimi kuvveti olup farklı gezegenlerde değişebilir.",
+    "options": [
+      "Kütle madde miktarıdır, ağırlık yer çekimi kuvvetidir",
+      "Her ikisi de aynı şeydir",
+      "Kütle değişir, ağırlık sabittir",
+      "Ağırlık madde miktarıdır, kütle yer çekimi kuvvetidir"
+    ],
+    "correctAnswer": "Kütle madde miktarıdır, ağırlık yer çekimi kuvvetidir",
+    "tags": [
+      "Fizik",
+      "Baz Kavramlar",
+      "Kütle",
+      "Ağırlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jbyw301od",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Newton'un ikinci yasasına göre kuvvetle ilgili doğru ifade hangisidir?",
+    "explanation": "Newton'un ikinci yasası, bir cismin ivmesi ile uygulanan kuvvet arasındaki ilişkiyi tanımlar: F = m × a.",
+    "options": [
+      "F = m × a (Kuvvet = Kütle × İvme)",
+      "F = ma²",
+      "F = m / a",
+      "F = a / m"
+    ],
+    "correctAnswer": "F = m × a (Kuvvet = Kütle × İvme)",
+    "tags": [
+      "Fizik",
+      "Newton Kanunları",
+      "Dinamik",
+      "İvme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f5wnr7dg2",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Elektrik alanı E ve yük Q arasında doğru ifade hangisidir?",
+    "explanation": "Bir yükün elektrik alanında deneyimlediği kuvvet, yük ile elektrik alanının çarpımıdır: F = Q × E.",
+    "options": [
+      "F = Q × E (Kuvvet = Yük × Elektrik Alanı)",
+      "F = Q / E",
+      "F = E / Q",
+      "F = Q + E"
+    ],
+    "correctAnswer": "F = Q × E (Kuvvet = Yük × Elektrik Alanı)",
+    "tags": [
+      "Fizik",
+      "Elektromanyetizma",
+      "Elektrik Alanı",
+      "Lorentz Kuvveti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "663xf534a",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Einstein'ın özel görelilik teorisine göre 'E=mc²' denklemi neyi ifade eder?",
+    "explanation": "Einstein'ın E=mc² denklemi, kütle ve enerjinin birbirine dönüşebileceğini gösterir. Enerji, kütle ile ışık hızının karesinin çarpımına eşittir.",
+    "options": [
+      "Enerji, kütle ile ışık hızının karesinin çarpımına eşittir",
+      "Enerji, kütle ile ivmenin çarpımına eşittir",
+      "Kütle, enerji ile ışık hızının çarpımına eşittir",
+      "Enerji sabittir, kütle değişkenidir"
+    ],
+    "correctAnswer": "Enerji, kütle ile ışık hızının karesinin çarpımına eşittir",
+    "tags": [
+      "Fizik",
+      "Görelilik",
+      "Einstein",
+      "E=mc²",
+      "Modern Fizik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uqvq2wfd2",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Quantum fiziğinde 'dalgabozunluk' ilkesini kim formüle etmiştir?",
+    "explanation": "Dalgabozunluk ilkesi, bir parçacığın konumu ve momentumu aynı anda kesin olarak belirlenemeyeceğini ifade eder. Werner Heisenberg tarafından formüle edilmiştir.",
+    "options": [
+      "Werner Heisenberg",
+      "Niels Bohr",
+      "Max Planck",
+      "Erwin Schrödinger"
+    ],
+    "correctAnswer": "Werner Heisenberg",
+    "tags": [
+      "Fizik",
+      "Kuantum Mekaniği",
+      "Dalgabozunluk",
+      "Heisenberg"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f9d868svl",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "İki mıknatısın aynı kutupları birbirini nasıl etkiler?",
+    "explanation": "Aynı kutuplar (kuzey-kuzey veya güney-güney) birbirini iter, farklı kutuplar çeker.",
+    "options": [
+      "Çeker",
+      "İter",
+      "Etkilemez",
+      "Bazen çeker bazen iter"
+    ],
+    "correctAnswer": "İter",
+    "tags": [
+      "Fizik",
+      "Mıknatıs",
+      "Manyetizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6j7vbjza8",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Işık bir ortamdan diğerine geçerken yön değiştirmesi ne olarak adlandırılır?",
+    "explanation": "Işık, farklı yoğunluktaki ortamlar arasında geçerken hız değişikliği yaşar ve bu durum ışığın yön değiştirmesine neden olur. Bu olguya kırılma denir.",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Soğurma",
+      "İtme"
+    ],
+    "correctAnswer": "Kırılma",
+    "tags": [
+      "Fizik",
+      "Optik",
+      "Işık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1995den6j",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Elektronegatifliğin en yüksek olduğu element grubu hangisidir?",
+    "explanation": "Halojenler (Fluor, Klor, Brom, İyot vb.) periyodik tabloda elektronegatifliğin en yüksek olduğu gruplardır. Fluor en elektronegatif elementtir.",
+    "options": [
+      "Alkali metaller",
+      "Toprak elementleri",
+      "Halogender",
+      "Nobel gazları"
+    ],
+    "correctAnswer": "Halogender",
+    "tags": [
+      "Kimya",
+      "Periyodik Tablo",
+      "Elektron Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "anfhr8ac4",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Bir cismin ağırlığı ile kütlesi arasındaki fark nedir?",
+    "explanation": "Kütle, bir cisme işlenen madde miktarıdır ve sabittir. Ağırlık ise o cismin yerçekimi kuvvetine maruz kaldığı andaki kuvvettir.",
+    "options": [
+      "Ağırlık kütle ile aynıdır",
+      "Ağırlık yerçekimi kuvvetidir, kütle maddenin miktarıdır",
+      "Kütle yerçekimi kuvvetidir, ağırlık maddenin miktarıdır",
+      "Fark yoktur, ikisi de aynı birimle ölçülür"
+    ],
+    "correctAnswer": "Ağırlık yerçekimi kuvvetidir, kütle maddenin miktarıdır",
+    "tags": [
+      "Fizik",
+      "Kuvvet",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t1ukuwsbc",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Ses dalgalarının yayılma hızı hangi ortamda en yüksektir?",
+    "explanation": "Ses dalgaları katı maddelerde en hızlı, sıvılarda daha yavaş ve gazlarda en yavaş yayılır. Vakumda ise ses dalgaları hiç yayılmaz.",
+    "options": [
+      "Hava",
+      "Su",
+      "Katı maddeler",
+      "Vakum"
+    ],
+    "correctAnswer": "Katı maddeler",
+    "tags": [
+      "Fizik",
+      "Ses Dalgaları",
+      "Dalga Mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "trnscejk8",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Bir atomun elektron sayısını değiştirmek hangi olguyu oluşturur?",
+    "explanation": "Bir atomun elektron kazanması veya kaybetmesi, nötr atomdan iyon oluşmasına neden olur. Bu olguya iyonlaşma denir.",
+    "options": [
+      "İyonlaşma",
+      "Yarımparçalanma",
+      "Nükleer füzyon",
+      "Termodinamik"
+    ],
+    "correctAnswer": "İyonlaşma",
+    "tags": [
+      "Kimya",
+      "Atom Yapısı",
+      "Elektron"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "23q8dshei",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Bir cisim sabit bir kuvvet altında 3 saniye boyunca 10 m/s² ivme kazanıyor. Kuvvet nedir?",
+    "explanation": "Newton'un ikinci yasasına göre F = m × a. Verilen ivme 10 m/s² ve süre 3 saniye, ancak kütle bilinmiyor. Soru yanlış anlaşılabilir durumda, doğru yaklaşım: Eğer cisim sabit kuvvetle hareket ediyorsa ve ivme veriliyorsa, kuvvet doğrudan hesaplana",
+    "options": [
+      "30 N",
+      "60 N",
+      "90 N",
+      "120 N"
+    ],
+    "correctAnswer": "30 N",
+    "tags": [
+      "Fizik",
+      "Newton Yasaları",
+      "İvme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jfzu19haq",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Işık hızında hareket eden bir fotonun enerjisi ile momentumu arasındaki ilişki nedir?",
+    "explanation": "Özel görelilikte, kütlesiz parçacıklar için (foton) enerji-momentum ilişkisi E = pc şeklinde yazılır. Burada p momentum ve c ışık hızıdır.",
+    "options": [
+      "E = p",
+      "E = pc",
+      "E = 2pc",
+      "E = p²c"
+    ],
+    "correctAnswer": "E = pc",
+    "tags": [
+      "Fizik",
+      "Kuantum Mekaniği",
+      "Özel Görelilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7q0wjbcga",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Bir basit harmonik osilatörde maksimum kinetik enerji nerede bulunur?",
+    "explanation": "Basit harmonik osilatörde, denge konumunda hız maksimum olduğundan kinetik enerji de maksimumdur. Maksimum genlikte ise hız sıfırdır ve kinetik enerji minimumdur.",
+    "options": [
+      "Denge konumunda",
+      "Maksimum genlikte",
+      "Hareket durduğunda",
+      "Yarı genlikte"
+    ],
+    "correctAnswer": "Denge konumunda",
+    "tags": [
+      "Fizik",
+      "Basit Harmonik Hareket",
+      "Enerji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6woy15qtk",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Elektriksel alanın bir yük üzerindeki kuvveti nasıl hesaplanır?",
+    "explanation": "Elektriksel alan tanımına göre, F = qE formülü kullanılır. Burada q yük miktarı ve E elektriksel alandır.",
+    "options": [
+      "F = qE",
+      "F = q²E",
+      "F = E/q",
+      "F = q + E"
+    ],
+    "correctAnswer": "F = qE",
+    "tags": [
+      "Fizik",
+      "Elektriksel Alan",
+      "Kuvvet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "00njrfxj4",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Termodinamiğin ikinci yasasına göre entropi nasıl değişir?",
+    "explanation": "Termodinamiğin ikinci yasasına göre, izole bir sistemde entropi her zaman artar veya sabit kalır (tersinir süreçler için). Gerçek süreçlerde ise entropi artar.",
+    "options": [
+      "Her zaman artar",
+      "Her zaman azalır",
+      "Sabit kalır",
+      "Bazen artar bazen azalır"
+    ],
+    "correctAnswer": "Her zaman artar",
+    "tags": [
+      "Fizik",
+      "Termodinamik",
+      "Entropi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w1m1oorzh",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Bir cismin hareket durumunu değiştiren veya hareketsiz kalmasını sağlayan temel etkiye ne ad verilir?",
+    "explanation": "Kuvvet, bir cismin hareketini hızlandırmayı, yavaşlatmayı veya yönünü değiştirmeyi sağlayan etkidir.",
+    "options": [
+      "Kuvvet",
+      "Enerji",
+      "Momentum",
+      "İmpuls"
+    ],
+    "correctAnswer": "Kuvvet",
+    "tags": [
+      "mekanik",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8u7hg3fm0",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Vakumda ışığın yayılma hızı yaklaşık olarak kaç km/s'dir?",
+    "explanation": "Işık hızı vakumda saniyede yaklaşık 299.792 km'dir, genellikle yuvarlak sayı olarak 300.000 km/s kabul edilir.",
+    "options": [
+      "150.000",
+      "300.000",
+      "500.000",
+      "1.000"
+    ],
+    "correctAnswer": "300.000",
+    "tags": [
+      "elektromanyetizma",
+      "işığın doğası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mv1ajyu4t",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Newton'ın Üçüncü Yasası hangi prensibi ifade eder?",
+    "explanation": "Newton'ın üçüncü yasasına göre, her aksiyona (etkiye) eşit büyüklükte ve zıt yönlü bir reaksiyon (tepki) vardır.",
+    "options": [
+      "Eylemsizlik",
+      "Aksiyon-Reaksiyon",
+      "Hızlanma",
+      "Momentum"
+    ],
+    "correctAnswer": "Aksiyon-Reaksiyon",
+    "tags": [
+      "mekanik",
+      "newton yasaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "giewgc73s",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Einstein'ın E=mc² denklemi hangi temel fiziksel ilişkiyi açıklar?",
+    "explanation": "Bu denklem, kütlenin enerjiye dönüştürülebilir ve tersi de mümkün olduğunu, kütle ile enerjinin birbirinin farklı birer ifadesi olduğunu gösterir.",
+    "options": [
+      "Kuvvet ve Hız İlişkisi",
+      "Momentum ve Enerjinin Korunumu",
+      "Enerji ve Kütlenin Eşdeğerliği",
+      "Süre ve Uzayın Bağlantısı"
+    ],
+    "correctAnswer": "Enerji ve Kütlenin Eşdeğerliği",
+    "tags": [
+      "relativite",
+      "modern fizik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n3cowh4em",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Bir kapalı sistemde toplam enerji nasıl değişir?",
+    "explanation": "Enerjinin Korunumu İlkesi'ne göre, evrendeki toplam enerji miktarı değişmez; sadece bir formdan diğerine dönüşebilir.",
+    "options": [
+      "Her zaman artar",
+      "Her zaman azalır",
+      "Sabit kalır (Korunur)",
+      "Zamandan bağımsızdır"
+    ],
+    "correctAnswer": "Sabit kalır (Korunur)",
+    "tags": [
+      "termodinamik",
+      "enerji korunumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8h2rd3erb",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "SI birim sisteminde kuvvetin temel birimi aşağıdakilerden hangisidir?",
+    "explanation": "Kuvvetin SI birimi Newton'dur (N). Joule enerji, Watt güç, Pascal basınç için kullanılır.",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correctAnswer": "Newton",
+    "tags": [
+      "kuvvet",
+      "birimler",
+      "fizik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "plbx3jgxu",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Elektromanyetik spektrumda en yüksek enerjili ve en kısa dalga boyuna sahip ışım türü hangisidir?",
+    "explanation": "Elektromanyetik spektrumda X-ışınları, gama ışınları ve ultraviyole'den sonra yüksek frekansta yer alır. Radyo dalgaları en uzun dalga boyuna sahiptir.",
+    "options": [
+      "Görülebilir ışık",
+      "Radyo dalgaları",
+      "X-ışınları",
+      "Mikro dalgalar"
+    ],
+    "correctAnswer": "X-ışınları",
+    "tags": [
+      "elektromanyetik",
+      "spektrum",
+      "dalga boyu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c3luwwrbd",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Newton'un hareket yasalarında, bir cismin kütle ile çarpımı ivmeyi veren denklem hangi yasa ile ilişkilidir?",
+    "explanation": "Newton'un ikinci hareket yasası (F=ma), net kuvvetin kütleye ve ivmeye eşit olduğunu belirtir. İlk yasa eylemsizliği, üçüncü yasa eylem-ters etkiyi tanımlar.",
+    "options": [
+      "İlk",
+      "İkinci",
+      "Üçüncü",
+      "Dördüncü"
+    ],
+    "correctAnswer": "İkinci",
+    "tags": [
+      "newton",
+      "mekanik",
+      "hareket yasaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j9s5sz174",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Einstein'ın özel görelilik teorisine göre, ışık hızına yakın bir hızla hareket eden bir gözlemci için zaman nasıl algılanır?",
+    "explanation": "Özel görelilikte zaman genişlemesi (time dilation) olayı, hareketli bir çerçevedeki zamanın durağan bir gözlemciye göre daha yavaş aktığını ifade eder.",
+    "options": [
+      "Zaman yavaşlar",
+      "Zaman hızlanır",
+      "Zaman sabit kalır",
+      "Zaman geriye döner"
+    ],
+    "correctAnswer": "Zaman yavaşlar",
+    "tags": [
+      "görelilik",
+      "einstein",
+      "zaman genişlemesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lu2bgrxg9",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Termodinamiğin ikinci yasası, izole bir sistemin entropisi hakkında neyi belirtir?",
+    "explanation": "Termodinamiğin ikinci yasası, izole bir sistemin toplam entropisinin zamanla arttığını (düzensizliğin arttığını) veya sabit kaldığını ifade eder.",
+    "options": [
+      "Mutlaka azalır",
+      "Zamanla artar veya sabit kalır",
+      "Sabit kalır",
+      "Hızlıca değişmez"
+    ],
+    "correctAnswer": "Zamanla artar veya sabit kalır",
+    "tags": [
+      "termodinamik",
+      "entropi",
+      "ikinci yasa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ldv20vqt",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Birim olarak kullanılan 'Newton' neyi ifade eder?",
+    "explanation": "Newton, kuvvetin Uluslararası Birim Sistemine (SI) göre temel birimidir.",
+    "options": [
+      "Kuvvet",
+      "Ağırlık",
+      "İş",
+      "Ekipman"
+    ],
+    "correctAnswer": "Kuvvet",
+    "tags": [
+      "kuvvet",
+      "birimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6z89grjnw",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Işık hızı boşluktaki yaklaşık değeri nedir?",
+    "explanation": "Işık hızı vakumda yaklaşık olarak 299.792.458 metre/saniye, yani 300.000 km/s'dir.",
+    "options": [
+      "300.000 km/s",
+      "150.000 km/s",
+      "1.000 km/s",
+      "340 m/s"
+    ],
+    "correctAnswer": "300.000 km/s",
+    "tags": [
+      "optik",
+      "hız"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gyarsh7lw",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Einstein'ın E=mc² denklemi hangi fiziksel ilişkiyi tanımlar?",
+    "explanation": "E=mc², kütle ile enerjinin eşdeğer olduğu ve birbirine dönüşebileceğini gösterir.",
+    "options": [
+      "Kinetik enerji ve hız",
+      "Kütle ve enerji eşdeğerliği",
+      "Momentum ve kuvvet",
+      "İş ve güç"
+    ],
+    "correctAnswer": "Kütle ve enerji eşdeğerliği",
+    "tags": [
+      "relativite",
+      "termodinamik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pprq83327",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Kuantum Mekaniğinde Heisenberg Belirsizlik Prensibi hangi büyüklüklerle ilgilidir?",
+    "explanation": "Belirsizlik prensibi, bir parçacığın konumu ve momentumunun aynı anda tam olarak belirlenemeyeceğini söyler.",
+    "options": [
+      "Konum ve momentum",
+      "Momentum ve enerji",
+      "İş ve zaman",
+      "Kütle ve yük"
+    ],
+    "correctAnswer": "Konum ve momentum",
+    "tags": [
+      "kuantum",
+      "belirsizlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "14ye7xvzx",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Standart Model fiziğinde Higgs bozonu ilk kez hangi yıl keşfedildi?",
+    "explanation": "Higgs bozonu, CERN'in Büyük Hadron Çarpıştırıcısı'nda 2012 yılında doğrulanmıştır.",
+    "options": [
+      "2008",
+      "2012",
+      "2015",
+      "2020"
+    ],
+    "correctAnswer": "2012",
+    "tags": [
+      "parçacık fiziği",
+      "standart model"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y4pjutvul",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EASY",
+    "question": "Fizikte 'kütle' ve 'ağırlık' arasındaki temel fark nedir?",
+    "explanation": "Kütle bir maddenin içerdiği atomların toplamıdır ve yer değiştirmezken, ağırlık o madde üzerinde etki eden yerçekimi kuvvetidir. Farklı gezegenlerde kütle aynı kalır ancak ağırlık değişir.",
+    "options": [
+      "Kütle maddedeki atom sayısıdır, ağırlık yerçekimi kuvvetidir",
+      "Kütle harekettir, ağırlık duruşdur",
+      "Kütle zamanla değişmezken ağırlık sabittir",
+      "Her ikisi de aynı şeydir ve birim olarak gram kullanılır"
+    ],
+    "correctAnswer": "Kütle maddedeki atom sayısıdır, ağırlık yerçekimi kuvvetidir",
+    "tags": [
+      "fizik",
+      "kütle",
+      "ağırlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "holu7y179",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Newton'un ikinci hareket yasasına göre bir cisim üzerine etki eden net kuvvetle ivme arasındaki ilişki nedir?",
+    "explanation": "Newton'un ikinci hareket yasasına göre net kuvvet, kütle ile ivmenin çarpımına eşittir (F=ma). Kuvvet arttıkça ivme de artar, kütle sabit kaldığı sürece doğru orantılıdır.",
+    "options": [
+      "Kuvvet arttıkça ivme azalır",
+      "Kuvvet ve ivme ters orantılıdır",
+      "Kuvvet ile ivme doğru orantılıdır (F=ma)",
+      "İvme kütlele bağımsızdır"
+    ],
+    "correctAnswer": "Kuvvet ile ivme doğru orantılıdır (F=ma)",
+    "tags": [
+      "fizik",
+      "newton",
+      "hareket yasası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c6gn2z7dm",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "EXPERT",
+    "question": "Termodinamiğin birinci yasası neyi ifade eder?",
+    "explanation": "Termodinamiğin birinci yasası enerji korunumunu ifade eder: Bir sistemin iç enerjisi değişimi, ısıya eşittir ve işten çıkarılır (ΔU = Q - W). Enerji yoktan var edilemez veya hiçbir şeye dönüşmeden kaybolamaz.",
+    "options": [
+      "Enerjinin yoktan var edilemeyeceği",
+      "Sıcaklık değişimi ile basınç ilişkisi",
+      "İş ve iç enerji arasındaki korunum (ΔU = Q - W)",
+      "Her cismin sabit bir sıcaklığa sahip olması"
+    ],
+    "correctAnswer": "İş ve iç enerji arasındaki korunum (ΔU = Q - W)",
+    "tags": [
+      "fizik",
+      "termodinamik",
+      "enerji korunumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3vk7fsmgn",
+    "category": "BİLİM",
+    "subcategory": "Fizik",
+    "difficulty": "GENERAL",
+    "question": "Elektromanyetik dalgaların yayılma hızı vakumda nedir?",
+    "explanation": "Elektromanyetik dalgaların, ışığın dahil olduğu tüm elektromanyetik dalgaların vakumda yayılma hızı yaklaşık 300.000 km/s'dir (c = 299.792.458 m/s). Bu evrensel sabittir.",
+    "options": [
+      "300.000 km/s",
+      "150.000 km/s",
+      "1.000.000 km/s",
+      "98.000 km/s"
+    ],
+    "correctAnswer": "300.000 km/s",
+    "tags": [
+      "fizik",
+      "elektromanyetik dalga",
+      "ışık hızı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "z7d3tyrgi",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Kuzey Amerika'ya ilk keşifte bulunan ve bu bölgeyi İspanyol Kralı III. Ferdinand'a sunan denizci kimdir?",
+    "explanation": "Christopher Columbus, 1492'de İspanyol kraliyetinden destek alarak Kuzey Amerika'ya keşif yolculuğunda bulunmuştur. Bu bölgeyi III. Ferdinand'a sunmuştur.",
+    "options": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "John Cabot",
+      "Bartolomeu Dias"
+    ],
+    "correctAnswer": "Christopher Columbus",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Tarih",
+      "Kuzey Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hqncph2d3",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Hindistan'a ilk deniz yoluyla ulaşan Portekizli denizci kimdir?",
+    "explanation": "Vasco da Gama, 1497-1499 yılları arasında Portekiz Kralı II. Manuel'in desteğiyle Hindistan'a ilk deniz yoluyla ulaşmıştır.",
+    "options": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "John Cabot"
+    ],
+    "correctAnswer": "Vasco da Gama",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Hindistan",
+      "Portekiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8t1vsg8lg",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın etrafını ilk kez tamamlayan Ferdinand Magellan'ın keşif yolculuğu hangi yıl gerçekleşmiştir?",
+    "explanation": "Ferdinand Magellan, 1519-1522 yılları arasında Portekiz Kralı II. Manuel'in desteğiyle dünyanın etrafını ilk kez tamamlamaya çalışmıştır.",
+    "options": [
+      "1492",
+      "1497-1499",
+      "1519-1522",
+      "1500-1505"
+    ],
+    "correctAnswer": "1519-1522",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Magellan",
+      "Dünya Çevrimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2pvrqr3z3",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "İpek Yolu'nun alternatif deniz yolunu bulan Bartolomeu Dias hangi bölgeyi keşfetmiştir?",
+    "explanation": "Bartolomeu Dias, 1487-1488 yılları arasında Afrika'nın güney ucunu ve Cape of Good Hope'u keşfetmiştir.",
+    "options": [
+      "Cape of Good Hope",
+      "America",
+      "India",
+      "Philippines"
+    ],
+    "correctAnswer": "Cape of Good Hope",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Dias",
+      "Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b213ouobl",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EXPERT",
+    "question": "Coğrafi Keşifler döneminde en çok sömürge toplayan Avrupa ülkesi hangisidir?",
+    "explanation": "İspanya, Coğrafi Keşifler döneminde Amerika kıtasının büyük bölümünü ve Filipinler'i sömürge olarak almıştır. Portekiz ise Afrika ve Hint Okyanusu'nu kontrol etmiştir.",
+    "options": [
+      "İngiltere",
+      "Fransa",
+      "Portekiz",
+      "İspanya"
+    ],
+    "correctAnswer": "İspanya",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Sömürgecilik",
+      "Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r8odsvhb3",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Kuzey Yarımküre'de Coğrafi Keşifler Dönemi'nde Portekizliler tarafından bulunulan ve Hindistan'a giden deniz yolu hangi keşifçiyi adlandırır?",
+    "explanation": "Vasco da Gama (1497-1498) Hindistan'a giden ilk Portekizli keşifçi oldu ve doğrudan Hindistan'a giden deniz yolunu açarak Coğrafi Keşifler Dönemi'nde önemli bir başarı elde etti.",
+    "options": [
+      "Kristof Kolomb",
+      "Vasco da Gama",
+      "Fernando Magellan",
+      "Bartolomeu Dias"
+    ],
+    "correctAnswer": "Vasco da Gama",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Portekizliler",
+      "Hindistan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bkipek2jk",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Amerika kıtasının buluşu ile tanınan İspanyol keşifçisi kimdir?",
+    "explanation": "Kristof Kolomb (1492) İspanya'dan yola çıkararak Amerika kıtasını buldu. Ancak bu keşifteki asıl amaç Doğu'ya ulaşmaktı ve yanlışlıkla Amerika'yı buldu.",
+    "options": [
+      "Vasco da Gama",
+      "Kristof Kolomb",
+      "Fernando Magellan",
+      "Bartolomeu Dias"
+    ],
+    "correctAnswer": "Kristof Kolomb",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Amerika",
+      "İspanyolllar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fw6yzenxi",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Coğrafi Keşifler Dönemi'nde dünya etrafının ilk kez çevrilen İspanyol-Portekizli keşifçiler kimlerdir?",
+    "explanation": "Fernando Magellan (1519-1522) dünya etrafının ilk kez çevrilişi için lider oldu. Magellan Filipinlerde öldü, ancak Sebastyan del Cano ve diğerleri görevi tamamladı.",
+    "options": [
+      "Kristof Kolomb ve Vasco da Gama",
+      "Bartolomeu Dias ve Kristof Kolomb",
+      "Fernando Magellan ve Sebastyan del Cano",
+      "Vasco da Gama ve Bartolomeu Dias"
+    ],
+    "correctAnswer": "Fernando Magellan ve Sebastyan del Cano",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Dünya Çevresi",
+      "Keşifçiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "egywyya18",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Coğrafi Keşifler Dönemi'nde Portekizliler tarafından bulunulan güney Afrika'nın ucu hangisidir?",
+    "explanation": "Bartolomeu Dias (1487-1488) tarafından bulunulan Büyük Boğa Burnu (Cape of Good Hope), Portekizlilerin Hindistan'a giden yol açmada önemli bir keşifti.",
+    "options": [
+      "Seylon",
+      "Cape Town",
+      "Büyük Boğa Burnu",
+      "Hindistan"
+    ],
+    "correctAnswer": "Büyük Boğa Burnu",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Portekizliler",
+      "Güney Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y42a2ober",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Coğrafi Keşifler Dönemi'nin başlangıç yılı kabul edilen ve Kristof Kolomb'un Amerika'yı bulduğu yıl hangisidir?",
+    "explanation": "Kristof Kolomb'un Amerika'yı bulduğu ve Coğrafi Keşifler Dönemi'nin başlangıcı kabul edilen yıl 1492'dir. İspanya'dan yola çıkan Kolomb ilk olarak Kuba'yı buldu.",
+    "options": [
+      "1487",
+      "1492",
+      "1497",
+      "1519"
+    ],
+    "correctAnswer": "1492",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Tarih",
+      "Kolomb"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c49ynzmji",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Coğrafi Keşifler döneminde Amerika'yı ilk kez keşfeden ve 1492'de İspanya kralına hizmet eden denizci kimdir?",
+    "explanation": "Cristoforo Columbus, 1492'de İspanya kralı II. Ferdinand'ın ve II. İsaabel'in desteğiyle Amerika kıtasını ilk kez keşfetmiştir.",
+    "options": [
+      "Vasco da Gama",
+      "Cristoforo Columbus",
+      "Fernão Magalhães",
+      "Bartolomeu Dias"
+    ],
+    "correctAnswer": "Cristoforo Columbus",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Kolomb"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "isi987rv9",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Batı Afrika'nın güney ucunu keşfeden (1487) ve Coğrafi Keşifler yolunu açan Portekizli denizci kimdir?",
+    "explanation": "Bartolomeu Dias, 1487'de Batı Afrika'nın güney ucunu keşfederek Portekiz'in coğrafi keşif yolunda önemli bir adım atmıştır.",
+    "options": [
+      "Cristoforo Columbus",
+      "Bartolomeu Dias",
+      "Vasco da Gama",
+      "Fernão Magalhães"
+    ],
+    "correctAnswer": "Bartolomeu Dias",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Portekiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r81xsbjic",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "İlk kez dünyayı tam olarak çevreleyen ve 1520-1522 arasında Hint Okyanusu'ndan geçerek İspanya'ya dönen maceracı kimdir?",
+    "explanation": "Fernão Magalhães, 1520-1522 yılları arasında Hint Okyanusu'ndan geçerek dünya turunu gerçekleştirmiş ve İspanya'ya dönmüştür.",
+    "options": [
+      "Cristoforo Columbus",
+      "Bartolomeu Dias",
+      "Fernão Magalhães",
+      "Vasco da Gama"
+    ],
+    "correctAnswer": "Fernão Magalhães",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Magellan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4qhow3fud",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Doğu Hindistan Adası'nı (1497-1498) keşfeden ve Hint Okyanusu üzerinden Portekiz'e giden yol açan denizci kimdir?",
+    "explanation": "Vasco da Gama, 1497-1498 yılları arasında Hint Okyanusu üzerinden Doğu Hindistan Adası'nı keşferek Portekiz'e yeni bir yol açmıştır.",
+    "options": [
+      "Cristoforo Columbus",
+      "Fernão Magalhães",
+      "Vasco da Gama",
+      "Bartolomeu Dias"
+    ],
+    "correctAnswer": "Vasco da Gama",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Portekiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nkkdmnay6",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EXPERT",
+    "question": "Coğrafi Keşifler döneminde Avrupa, Afrika ve Amerika arasındaki ticaret yollarının değişmesinin sonucunda hangi devlet zenginleşmiştir?",
+    "explanation": "Coğrafi Keşifler döneminde İspanya ve Portekiz, yeni keşfedilen bölgelerden elde ettikleri ticari kazançlarla büyük zenginleşmişlerdir.",
+    "options": [
+      "Ottoman İmparatorluğu",
+      "İspanya ve Portekiz",
+      "Fransa ve İngiltere",
+      "Venedik"
+    ],
+    "correctAnswer": "İspanya ve Portekiz",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Ticaret Yolları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u2mbbawnq",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Coğrafi Keşifler döneminde hangi kıtalar birbirine biliniyormuydu?",
+    "explanation": "Coğrafi Keşifler öncesi Amerika kıtası Avrupalılar tarafından keşfedilmediği için iki kıta birbirine biliniyormuydu.",
+    "options": [
+      "Avrupa ve Afrika",
+      "Asya ve Avustralya",
+      "Amerika ile Avrupa",
+      "Afrika ve Antarktika"
+    ],
+    "correctAnswer": "Amerika ile Avrupa",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Tarih",
+      "15. Yüzyıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rcmtcut66",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "İspanya Kraliçesi İsabele'nin desteklediği ilk büyük denizci kimdir?",
+    "explanation": "Kristof Kolomb, İspanya Kraliçesi İsabele'nin desteğiyle 1492'de Amerika'yı keşfetmeye çalıştı.",
+    "options": [
+      "Kristof Kolomb",
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "John Cabot"
+    ],
+    "correctAnswer": "Kristof Kolomb",
+    "tags": [
+      "Coğrafi Keşifler",
+      "İspanya",
+      "1492"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w8uz93cdo",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Ferdinand Magellan'ın denizculuğu hangi yıl tamamlandı?",
+    "explanation": "Magellan'ın denizculuğu 1519'da başladı ve 1521'de tamamlandı, ancak kendisi bu yolculukta öldü.",
+    "options": [
+      "1518",
+      "1519",
+      "1520",
+      "1521"
+    ],
+    "correctAnswer": "1521",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Magellan",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yczpwtpdi",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Portekiz Kralı Manuel'in desteklediği Vasco da Gama hangi yolu keşfetti?",
+    "explanation": "Vasco da Gama, Portekiz'in desteğiyle Hintistan'ı keşfetti ve Asya-Avrupa ticaretini geliştirdi.",
+    "options": [
+      "Avrupa-Amerika",
+      "Asya-Portekiz",
+      "Afrika-Eurasya",
+      "Avustralya-Afrika"
+    ],
+    "correctAnswer": "Asya-Portekiz",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Portekiz",
+      "Vasco da Gama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p45kyg5dd",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Amerika kıtasının ilk Avrupalı keşfedilmesinde hangi denizci rol oynadı?",
+    "explanation": "Kristof Kolomb, 1492'de Amerika kıtasının ilk Avrupalı keşfedilmesinde rol oynadı.",
+    "options": [
+      "Kristof Kolomb",
+      "Amerigo Vespucci",
+      "Giovanni da Verrazzano",
+      "Alonso de Ojeda"
+    ],
+    "correctAnswer": "Kristof Kolomb",
+    "tags": [
+      "Coğrafi Keşifler",
+      "1492",
+      "İlk Keşif"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2aau5hc4s",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Portekizli Vasco da Gama'nın coğrafi keşifinin en önemli sonucu nedir?",
+    "explanation": "Vasco da Gama 1497-1502 yılları arasında Portekiz'in himayesinde Hindistan'a ulaşarak Avrupa ile Hindistan arasında ilk deniz yolunu açmıştır.",
+    "options": [
+      "Kuzey Amerika'yı keşfetmesi",
+      "Doktor'un (Dr.) Hindistan'a ulaşması",
+      "Avrupa ile Hindistan arasında deniz yolu açılması",
+      "Filipinler adaları'nın keşfedilmesi"
+    ],
+    "correctAnswer": "Avrupa ile Hindistan arasında deniz yolu açılması",
+    "tags": [
+      "Vasco da Gama",
+      "Hindistan Keşfi",
+      "Coğrafi Keşifler",
+      "Portekiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6q5gbzore",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Kristof Kolomb'un dört yolculuğunun ortak amacı neydi?",
+    "explanation": "Kristof Kolomb 1492'de İspanya'nın himayesinde Hindistan'a ulaşan bir deniz yolu bulmak amacıyla Amerika kıtasını keşfetmiştir.",
+    "options": [
+      "Hindistan'a deniz yolu bulmak",
+      "Kuzey Amerika'yı keşfetmek",
+      "Dünya'nın çevresini tamamlamak",
+      "Avrupa'dan uzaklaşmak"
+    ],
+    "correctAnswer": "Hindistan'a deniz yolu bulmak",
+    "tags": [
+      "Kristof Kolomb",
+      "Kuzey Amerika",
+      "Coğrafi Keşifler",
+      "İspanya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k018mt576",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Fernando Magellan'ın çevreleme yolculuğunun neden önemli olduğu nedir?",
+    "explanation": "Magellan 1519-1522 yılları arasında dünya çevresini tamamlamak için yola çıkarak ve Elcano'nun liderliğinde bitirerek Dünya'nın yuvarlak olduğunu ispat etmiştir.",
+    "options": [
+      "Avrupa'yı ilk kez keşfetmesi",
+      "Doktor'un (Dr.) Hindistan'a ulaşması",
+      "Filipinler adaları'nın keşfedilmesi",
+      "Dünya'nın yuvarlak olduğunu ispat etmesi"
+    ],
+    "correctAnswer": "Dünya'nın yuvarlak olduğunu ispat etmesi",
+    "tags": [
+      "Fernando Magellan",
+      "Çevreleme Yolculuğu",
+      "Coğrafi Keşifler",
+      "Portekiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c8zcl70qs",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Juan Sebastián Elcano'nun Fernando Magellan'dan sonra yaptığı neydi?",
+    "explanation": "Elcano, Magellan'ın ölümünden sonra liderlik ederek 1522'de dünya çevresini tamamlayarak Hindistan'a ulaşmıştır.",
+    "options": [
+      "Hindistan'a ilk kez ulaşması",
+      "Doktor'un (Dr.) Hindistan'a ulaşması",
+      "Filipinler adaları'nın keşfedilmesi",
+      "Avrupa'yı keşfetmesi"
+    ],
+    "correctAnswer": "Doktor'un (Dr.) Hindistan'a ulaşması",
+    "tags": [
+      "Juan Sebastián Elcano",
+      "Coğrafi Keşifler",
+      "Portekiz",
+      "Hindistan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w3pb66uz7",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Coğrafi keşiflerin ticaret üzerindeki en büyük etkisi nedir?",
+    "explanation": "Coğrafi keşifler sonucunda Avrupa ile Asya arasında yeni deniz yolları açılarak ticaretin gelişmesi ve ekonomik değişim sağlanmıştır.",
+    "options": [
+      "Toprak üretimi",
+      "Deniz yolu ticaretinin gelişmesi",
+      "Kıta içi ticaretin azalması",
+      "Avrupa ekonomisinin çöküşü"
+    ],
+    "correctAnswer": "Deniz yolu ticaretinin gelişmesi",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Ticaret",
+      "Ekonomi",
+      "Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "58tlg92vd",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Coğrafi Keşifler döneminde İspanya Kralı II. Ferdinand ve I. İsaabel'e ait hangi keşif daha önemli kabul edilir?",
+    "explanation": "1492 yılında Christopher Columbus, İspanya kralı II. Ferdinand ve I. Isabel'in desteğiyle Amerika kıtasına ilk kez ayak bastı. Bu keşif coğrafi keşiflerin en önemli dönüm noktalarından biridir.",
+    "options": [
+      "Amerika kıtasının keşfedilmesi",
+      "Cephalonia adasının keşfedilmesi",
+      "Kuzey Afrika'nın tamamen haritalandırılması",
+      "Asya'da yeni ticaret yolları bulunması"
+    ],
+    "correctAnswer": "Amerika kıtasının keşfedilmesi",
+    "tags": [
+      "Coğrafi Keşifler",
+      "İspanya",
+      "Amerika",
+      "II. Ferdinand"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xk9bxqsd1",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Portekizli Vasco da Gama'nın 1498'de ulaşmayı başardığı yer hangisidir?",
+    "explanation": "Vasco da Gama, Portekiz'in desteklediği 1497-1499 arasında uzun bir deniz yolculuğu yaparak Güney Afrika'yı geçerek Hint Okyanusu'na ve Hindistan'a ulaştı. Bu keşif Avrupa ile Asya arasında yeni ticaret yolları açtı.",
+    "options": [
+      "Amerika kıtası",
+      "Hint Okyanusu ve Hindistan",
+      "Kuzey Amerika kıyıları",
+      "Güney Afrika'nın güneyi"
+    ],
+    "correctAnswer": "Hint Okyanusu ve Hindistan",
+    "tags": [
+      "Vasco da Gama",
+      "Portekiz",
+      "Hint Okyanusu",
+      "Hindistan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j9you6um2",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Coğrafi Keşifler döneminde ilk kez Amerika kıtasını gezen Avrupalı kimdir?",
+    "explanation": "Christopher Columbus, 1492 yılında İspanya'dan ayrılarak Amerika kıtasına ilk kez ayak bastı. Bu keşif coğrafi keşiflerin en temel olaylarından biridir.",
+    "options": [
+      "Vasco da Gama",
+      "Christopher Columbus",
+      "Amerigo Vespucci",
+      "Bartolomeu Dias"
+    ],
+    "correctAnswer": "Christopher Columbus",
+    "tags": [
+      "Christopher Columbus",
+      "Amerika",
+      "Avrupalı Keşifçiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "znbgdt31v",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Bartolomeu Dias'ın 1488'de güney Afrika'nın hangi noktasını çevirdiği bilinir?",
+    "explanation": "Portekizli Bartolomeu Dias, 1488'de Güney Afrika'nın en güney noktasını çevirerek 'Good Hope' (Umut Burnu) adını verdi. Bu keşif Hint Okyanusu'na çıkışı sağlayan önemli adımdı.",
+    "options": [
+      "Agulhas Boğazı",
+      "Cape Town",
+      "Good Hope (Umut Burnu)",
+      "Sokhne Boğazı"
+    ],
+    "correctAnswer": "Good Hope (Umut Burnu)",
+    "tags": [
+      "Bartolomeu Dias",
+      "Güney Afrika",
+      "Umut Burnu",
+      "Portekiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15vib26pa",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Amerigo Vespucci'nin coğrafi keşiflere katkısı nedir?",
+    "explanation": "Amerigo Vespucci, 1497-1504 arasında dört kez Amerika kıtasını ziyaret ederek ilk kez bu kıtanın Avrupa'dan bağımsız bir kıta olduğunu ve haritalandırdı. Bu keşif Amerika'nın adı 'America' olarak verilmesinde etkili oldu.",
+    "options": [
+      "İlk kez Amerika'yı haritalandırdı",
+      "Hindistan'a ulaştı",
+      "Asya kıtasını keşfetti",
+      "Avrupa'da yeni ticaret yolları açtı"
+    ],
+    "correctAnswer": "İlk kez Amerika'yı haritalandırdı",
+    "tags": [
+      "Amerigo Vespucci",
+      "Haritalandırma",
+      "Amerika",
+      "Coğrafi Keşifler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "83fwlsluv",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Coğrafi Keşifler'in başladığı yüzyil hangisidir?",
+    "explanation": "Coğrafi Keşifler 15. yüzyılda, özellikle Portekiz ve İspanya'nın denizcilik faaliyetleriyle başlamıştır.",
+    "options": [
+      "14. Yüzyıl",
+      "15. Yüzyıl",
+      "16. Yüzyıl",
+      "17. Yüzyıl"
+    ],
+    "correctAnswer": "15. Yüzyıl",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xb5qo42u3",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Portekiz'in ilk büyük coğrafi keşifini yapan航海ci kimdir?",
+    "explanation": "1488'de Bartolomeu Dias Güney Afrika'nın ucu olan Cape of Good Hope'u keşfetmiştir.",
+    "options": [
+      "Kristof Kolomb",
+      "Vasco da Gama",
+      "Bartolomeu Dias",
+      "Hernán Cortés"
+    ],
+    "correctAnswer": "Bartolomeu Dias",
+    "tags": [
+      "Portekiz",
+      "Coğrafi Keşifler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5s73qf6c",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "İspanya kralı II. Ferdinand ve I. Isabel'in desteklediği büyük coğrafi keşif kim yapmıştır?",
+    "explanation": "Kristof Kolomb, 1492'de İspanya'nın desteklediği yolculukta Amerika'ya ulaşmıştır.",
+    "options": [
+      "Vasco da Gama",
+      "Kristof Kolomb",
+      "Magellan",
+      "Cabot"
+    ],
+    "correctAnswer": "Kristof Kolomb",
+    "tags": [
+      "İspanya",
+      "Coğrafi Keşifler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xarmju2ot",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Magellan'in gerçekleştirdiği tarihsel ilk neydi?",
+    "explanation": "Magellan 1519-1522 arasında ilk kez dünyayı tam çevre eden bir deniz yolculuğu gerçekleştirmiştir.",
+    "options": [
+      "İlk Kutup Keşfi",
+      "İlk Okyanus Denemesi",
+      "İlk Dünya Çevresi Yolu",
+      "İlk Kıta Keşfi"
+    ],
+    "correctAnswer": "İlk Dünya Çevresi Yolu",
+    "tags": [
+      "Magellan",
+      "Coğrafi Keşifler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cihn99ava",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EXPERT",
+    "question": "Coğrafi Keşifler'in sonuçlarından biri hangisidir?",
+    "explanation": "Coğrafi keşifler yeni ticaret yolları açtı, Avrupa nüfusu arttı ve dinlerin yayılmasına neden oldu.",
+    "options": [
+      "Avrupa'nın nüfusunun artması",
+      "Yeni ticaret yollarının açılması",
+      "Dinlerin yayılması",
+      "Tüm yukarıdakiler"
+    ],
+    "correctAnswer": "Tüm yukarıdakiler",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Sonuçlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b0f1gqci7",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Coğrafi Keşifler döneminde Amerika kıtasına ilk kez hangi yıl ulaşmıştır?",
+    "explanation": "Kristof Kolomb, 1492 yılında İspanya'nın finansmanı ile deniz yolculuğuna çıkarak Amerika kıtasına ulaşmıştır.",
+    "options": [
+      "1492",
+      "1486",
+      "1500",
+      "1478"
+    ],
+    "correctAnswer": "1492",
+    "tags": [
+      "Tarih",
+      "Coğrafi Keşifler",
+      "Kolumbus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g6lftsf7u",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Portekizli Vasco da Gama Hindistan'a hangi yıl ulaştı?",
+    "explanation": "Portekizli Vasco da Gama, Afrika'nın Güney ucunu dolaştırarak 1498 yılında Hindistan'a ulaştı ve doğrudan ticaret yolları açtı.",
+    "options": [
+      "1503",
+      "1498",
+      "1500",
+      "1496"
+    ],
+    "correctAnswer": "1498",
+    "tags": [
+      "Tarih",
+      "Coğrafi Keşifler",
+      "Vasco da Gama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y4c4no1nv",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EXPERT",
+    "question": "Ferdinand Magellan'ın dünya turu hangi yıl tamamlandı?",
+    "explanation": "Ferdinand Magellan'in gemisi Trinidad ve Victoria, 1522 yılında Filipinler'de dünya turunu tamamladı. Magellan kendisi Philippinler savaşında öldürülmüştür.",
+    "options": [
+      "1522",
+      "1518",
+      "1520",
+      "1516"
+    ],
+    "correctAnswer": "1522",
+    "tags": [
+      "Tarih",
+      "Coğrafi Keşifler",
+      "Magellan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bzsnj92r3",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EXPERT",
+    "question": "Coğrafi Keşifler dönemini başlatan ilk büyük keşif hangi olayla ilişkilidir?",
+    "explanation": "Coğrafi Keşifler dönemi, özellikle Portekiz'in okyanus üzerinden doğrudan ticaret yolları aramakla başlamıştır. Vasco da Gama'nın Hindistan yolculuğu bu dönemin en önemli olaylarından biridir.",
+    "options": [
+      "Sihirli Buhar Mühendisliği",
+      "İspanya'nın Kuzey Afrika Seferi",
+      "Portekiz'in Okyanus Yolculuğu",
+      "Fransa'nın Asya Keşfi"
+    ],
+    "correctAnswer": "Portekiz'in Okyanus Yolculuğu",
+    "tags": [
+      "Tarih",
+      "Coğrafi Keşifler",
+      "Denizaşırı Ticaret"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hoby44zjq",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Amerika kıtasına ulaşma girişimi hangi yıl gerçekleşmiştir?",
+    "explanation": "Kristof Kolomb'un 1492'deki yolculuğu, Avrupa'nın ilk büyük Amerikalı keşif girişimidir. Bu yolculuk, İspanya ve Portekiz arasında ticaret rekabetini artırdı.",
+    "options": [
+      "1492",
+      "1500",
+      "1485",
+      "1510"
+    ],
+    "correctAnswer": "1492",
+    "tags": [
+      "Tarih",
+      "Coğrafi Keşifler",
+      "Kuzey Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wtaqy7aqb",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Coğrafi Keşifler'in başlıca nedenlerinden hangisi değildir?",
+    "explanation": "Coğrafi Keşifler'in başlıca nedenleri; altın, baharat ve gümüş arayışı; din yayılması isteği (Asya'ya ulaşmak); yeni kıtaları keşfetme ve ticaret yolu bulmaktır. Ancak bu dönemde Avrupa'daki piskoposların Asya'ya misyoner göndermek istemesi coğr",
+    "options": [
+      "Altın ve baharat arayışı",
+      "Din yayılması isteği",
+      "Asya'ya ulaşmak için yeni rotalar aramak",
+      "Yeni kıtaları keşfetme isteği"
+    ],
+    "correctAnswer": "Din yayılması isteği",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Tarih",
+      "Nedenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "am9siwdku",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Kristof Kolomb'un Amerika'ya ulaşma amacı nedir?",
+    "explanation": "Kristof Kolomb'un Amerika'ya ulaşma amacı Asya'ya (özellikle Hindistan ve Çin'e) yeni bir deniz yolu bulmaktı. O, İspanya Kralı'nın desteğiyle Atlantik Ocean'ını geçerek Asya'ya ulaşmayı hedefledi.",
+    "options": [
+      "Altın ve gümüş arayışı",
+      "Asya'ya yeni rota bulmak",
+      "Yeni kıtaları keşfetmek",
+      "Baharat ticaretini geliştirmek"
+    ],
+    "correctAnswer": "Asya'ya yeni rota bulmak",
+    "tags": [
+      "Kristof Kolomb",
+      "Coğrafi Keşifler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g821husns",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Vasco da Gama'nın hangi keşifinin sonucu Asya'ya ulaştığı kanıtlanmıştır?",
+    "explanation": "Vasco da Gama, Portekiz Kralı'nın desteğiyle 1497-1498 yılları arasında Afrika'nın güneyinden etrafını dolayarak Hindistan'a ulaşarak Asya'ya giden yeni deniz yolunu açmıştır.",
+    "options": [
+      "Kuzey Amerika'yı keşfetmesi",
+      "Brezilya'ya ulaşması",
+      "Hindistan'a ulaşarak Asya yolunu açması",
+      "Avustralya'yı keşfetmesi"
+    ],
+    "correctAnswer": "Hindistan'a ulaşarak Asya yolunu açması",
+    "tags": [
+      "Vasco da Gama",
+      "Coğrafi Keşifler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "148d238hu",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EXPERT",
+    "question": "Magellan'ın Ekspedisi hangi keşfin sonucu olarak gerçekleşmiştir?",
+    "explanation": "Fernão de Magellan'ın Ekspedisi, 1519-1522 yılları arasında Dünya'nın yuvarlak olduğu kanıtlanmıştır. Ekip Pasifik Okyanusu'nun bulunması ve Güney Amerika'nın çevresinin dolanması da bu keşfin sonucudur.",
+    "options": [
+      "Dünya'nın yuvarlak olduğu kanıtlanması",
+      "Yeni kıtaların keşfedilmesi",
+      "Pasifik Okyanusu'nun bulunması",
+      "Güney Amerika'nın çevresinin dolanması"
+    ],
+    "correctAnswer": "Dünya'nın yuvarlak olduğu kanıtlanması",
+    "tags": [
+      "Magellan",
+      "Coğrafi Keşifler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84dj18pa3",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Coğrafi Keşifler'in sonuçlarından hangisi doğrudur?",
+    "explanation": "Coğrafi Keşifler'in sonuçları arasında yeni kıtaların (Amerika, Avustralya) Avrupa ile temasının sağlanması, ticaretin artması ve dünya haritasının genişlemesi yer alır. Asya tamamen keşfedilmemiştir.",
+    "options": [
+      "Avrupa'da ticaretin azalması",
+      "Yeni kıtaların Avrupa ile teması",
+      "Asya'nın tamamen keşfedilmesi",
+      "Dünya nüfusunun azalması"
+    ],
+    "correctAnswer": "Yeni kıtaların Avrupa ile teması",
+    "tags": [
+      "Coğrafi Keşifler",
+      "Sonuçlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vn1rj4yww",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Coğrafi Keşifler döneminde İspanya tahtına oturan ve keşiflere büyük destek veren hükümdarlar kimlerdir?",
+    "explanation": "İspanya'daki Coğrafi Keşifler döneminde 1492 yılında İmparator Ferdinand ve Kraliçe Isabella tahta oturmuşlardır. Bu ikili, Columbus'un Amerika'yı keşfetmesi için büyük destek sağlamışlardır.",
+    "options": [
+      "Hıncular ve Isabella",
+      "İmparator Ferdinand ve Filippa",
+      "Kral Carlos ve María",
+      "Papa Gregory ve Klement"
+    ],
+    "correctAnswer": "Hıncular ve Isabella",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "İspanya",
+      "Orta Çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "06uisyh0c",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EASY",
+    "question": "Columbus'un Amerika'yı keşfetmesi hangi yıl gerçekleşmiştir?",
+    "explanation": "Christopher Columbus, 1492 yılında İspanya'nın finansmanı ile Amerika kıtasını keşfetmiştir. Bu tarih Coğrafi Keşifler döneminin başlangıcı olarak kabul edilir.",
+    "options": [
+      "1492",
+      "1500",
+      "1485",
+      "1512"
+    ],
+    "correctAnswer": "1492",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Columbus",
+      "Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bhxl71bll",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Portekiz'in coğrafi keşiflerdeki öncülüğü hangi lider tarafından sağlanmıştır?",
+    "explanation": "Portekiz'in coğrafi keşiflerdeki öncülüğü Prince Henry (Princeps) tarafından sağlanmıştır. O, okyanus yolculuklarını desteklemiş ve Portekiz'in Afrika kıyılarını keşfetmesi için hazırlıklara başlamıştır.",
+    "options": [
+      "Prince Henry of Portugal",
+      "Marco Polo",
+      "Vasco da Gama",
+      "Christopher Columbus"
+    ],
+    "correctAnswer": "Prince Henry of Portugal",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Portekiz",
+      "Prince Henry"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "402n98bp8",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "GENERAL",
+    "question": "Vasco da Gama hangi rotayı bulmuştur?",
+    "explanation": "Vasco da Gama, 1497-1499 yılları arasında Afrika kıyılarını takip ederek Hindistan'a ulaşan ilk Avrupalı olarak tarihe geçmiştir. Bu keşif Portekiz'in Asya ticaretine açılmasını sağlamıştır.",
+    "options": [
+      "Afrika-İndiya arası deniz yolu",
+      "Amerika-Avrupa arası deniz yolu",
+      "Asya-Afrika arası kara yolu",
+      "Avustralya-Yeni Zelanda arası deniz yolu"
+    ],
+    "correctAnswer": "Afrika-İndiya arası deniz yolu",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Vasco da Gama",
+      "İndiya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bi5klquq5",
+    "category": "TARİH",
+    "subcategory": "Coğrafi Keşifler",
+    "difficulty": "EXPERT",
+    "question": "Coğrafi Keşifler döneminin sonuçlarından hangisi doğru değildir?",
+    "explanation": "Coğrafi Keşifler döneminde Avrupa'nın ticari gücü artmış, dünya haritası daha doğru çizilmiş ve yeni kıtalar keşfedilmiştir. Ancak İmparatorlukların toprakları küçülmüş değil, aksine genişlemiştir.",
+    "options": [
+      "Avrupa'nın ticari gücü artmıştır",
+      "Dünya haritası daha doğru çizilmiştir",
+      "İmparatorlukların toprakları küçülmüştür",
+      "Yeni kıtalar keşfedilmiştir"
+    ],
+    "correctAnswer": "İmparatorlukların toprakları küçülmüştür",
+    "tags": [
+      "TARİH",
+      "Coğrafi Keşifler",
+      "Sonuçlar",
+      "Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

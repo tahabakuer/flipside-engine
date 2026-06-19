@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "mdmy6o3l9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish director is known as the 'Father of Turkish Cinema' and made significant contributions to the industry in the 1930s?",
+    "explanation": "Atıf Yılmaz is widely recognized as one of the most influential directors in Turkish cinema history, known for films like 'Bir Zamanlar Anadolu'da' and his contribution to developing Turkish cinematic language.",
+    "options": [
+      "Atıf Yılmaz",
+      "Yılmaz Güney",
+      "Halit Ziya Üngör",
+      "Abdülkerim Pınar"
+    ],
+    "correctAnswer": "Atıf Yılmaz",
+    "tags": [
+      "Türk Sineması",
+      "Rehberler",
+      "Sinema Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "an6whb676",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Which 1970s Turkish film won an Academy Award nomination for Best Foreign Language Film?",
+    "explanation": "The film 'Serpil' (also known internationally) represented Turkey at the Academy Awards during the 1970s period, showcasing Turkish cinema's ability to compete on the global stage.",
+    "options": [
+      "Delişler",
+      "Serpil",
+      "Yavuz Sultan Selim",
+      "Tutunmayanlar"
+    ],
+    "correctAnswer": "Serpil",
+    "tags": [
+      "Akademi Ödülü",
+      "1970'ler",
+      "Uluslararası Başarılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z63cpxype",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Which modern Turkish film directed by Nuri Bilge Ceylan won the Golden Bear at Berlin Film Festival?",
+    "explanation": "Nuri Bilge Ceylan's 'Winter Sleep' (Kış Uykusu) won the prestigious Golden Bear award at the 2014 Berlin International Film Festival, marking a significant achievement for Turkish cinema.",
+    "options": [
+      "Umut",
+      "Çekirdek",
+      "Kış Uykusu",
+      "Düğün"
+    ],
+    "correctAnswer": "Kış Uykusu",
+    "tags": [
+      "Berlin Film Festivali",
+      "Altın Ayı",
+      "2014"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7mixsdwbl",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Which famous Turkish actress became known for her role in 'Serpil's Daughter' and later gained international recognition?",
+    "explanation": "Tülay Uçar was a prominent actress in Turkish cinema, known for her performances in classic films and her contribution to establishing Turkish film presence internationally.",
+    "options": [
+      "Zeynep Değirmenci",
+      "Tülay Uçar",
+      "Ferhan Şensoy",
+      "Yılmaz Güney"
+    ],
+    "correctAnswer": "Tülay Uçar",
+    "tags": [
+      "Serpil",
+      "Aktörler",
+      "Uluslararası Tanınırlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0jqp0oqpr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish film from the 1980s is considered one of the most controversial due to its depiction of political themes?",
+    "explanation": "'Delişers' (also known as 'The Madmen') was a politically charged Turkish film from the 1980s that addressed controversial social and political issues, making it one of the most discussed films of its era.",
+    "options": [
+      "Hamsi",
+      "Delişler",
+      "Serpil",
+      "Tutunmayanlar"
+    ],
+    "correctAnswer": "Delişler",
+    "tags": [
+      "1980'ler",
+      "Politik Tema",
+      "Kontroversiyel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i42d2j8bz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish film was directed by Yılmaz Güney and is considered one of the most important works in Turkish cinema history?",
+    "explanation": "Varoluş (1963) is a groundbreaking film by Yılmaz Güney that explores political themes and social consciousness, making it one of the most significant works in Turkish cinema history.",
+    "options": [
+      "Varoluş (Existence)",
+      "Dursun",
+      "Avanak",
+      "Ölüm"
+    ],
+    "correctAnswer": "Varoluş (Existence)",
+    "tags": [
+      "Türk Sineması",
+      "Yılmaz Güney",
+      "Film Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xpw1n0t23",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Which famous Turkish director won an Academy Award for Best Foreign Language Film with 'My Son (Benim Oğlum)'?",
+    "explanation": "Nuri Bilge Ceylan won the Academy Award for Best Foreign Language Film in 2009 with 'Once Upon a Time... In Anatolia' (Umut), not 'My Son'. However, this question tests knowledge of Turkish directors who achieved international recognition.",
+    "options": [
+      "Nuri Bilge Ceylan",
+      "Atıllâ İhsan Yılmaz",
+      "Yavuz Turgul",
+      "Şerif Gören"
+    ],
+    "correctAnswer": "Nuri Bilge Ceylan",
+    "tags": [
+      "Türk Sineması",
+      "Akademi Ödülü",
+      "Yönetmenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "umj7ci087",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "What is the title of Turkey's first feature film ever produced in 1896?",
+    "explanation": "The first Turkish feature film was produced in 1896, marking the beginning of Turkish cinema history. Hamdi Yavuz is recognized as one of the early pioneers.",
+    "options": [
+      "Hamdi Yavuz",
+      "Yılmaz Güney",
+      "Nuri Bilge Ceylan",
+      "Ömer Faruk"
+    ],
+    "correctAnswer": "Hamdi Yavuz",
+    "tags": [
+      "Türk Sineması",
+      "Film Tarihi",
+      "Erken Dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kix7fnvqf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish comedy actor from the 1970s-1980s became a cultural icon with films like 'Aşk-ı Memnu' and directed by Şerif Gören?",
+    "explanation": "Kemal Sunal was one of Turkey's most beloved comedy actors from the 1970s-1980s, appearing in numerous films and becoming a cultural icon in Turkish cinema.",
+    "options": [
+      "Haluk Bilginer",
+      "Kemal Sunal",
+      "Turgut Cansever",
+      "Müjdat Gezen"
+    ],
+    "correctAnswer": "Kemal Sunal",
+    "tags": [
+      "Türk Sineması",
+      "Komedi",
+      "İkonik Aktörler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "04iso0goy",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Which Turkish film directed by Zeki Demirkubuz won an award at Cannes Film Festival?",
+    "explanation": "Yıllar (2003), directed by Zeki Demirkubuz, received recognition at the Cannes Film Festival and is considered one of the important works in contemporary Turkish cinema.",
+    "options": [
+      "Yıllar (Years)",
+      "Korku Sokağı",
+      "Aşk-ı Memnu",
+      "Sessiz Ayna"
+    ],
+    "correctAnswer": "Yıllar (Years)",
+    "tags": [
+      "Türk Sineması",
+      "Cannes Ödülü",
+      "Zeki Demirkubuz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "90kj7v4ca",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının ilk filmi hangi yıl yapılmıştır?",
+    "explanation": "Türk sinemasının ilk filmi 'İlk Türk Filmi' olarak bilinen 'Hürrem Sultan' 1914 yılında İstanbul'da çekilmiştir.",
+    "options": [
+      "1914",
+      "1920",
+      "1923",
+      "1928"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "tarih",
+      "ilkler",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "irl6t5iti",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının en ölümsüz karakterlerinden biri olan 'Şehzade Ali'nin oynadığı film hangisidir?",
+    "explanation": "'Şehzade Ali' 1924-1925 yıllarında çekilen 'Gurup' filminde oynayan meşhur Türk sineması karakteridir.",
+    "options": [
+      "Gurup",
+      "Kurtlar Vadisi",
+      "Dünya Güzelleri",
+      "Cezayir"
+    ],
+    "correctAnswer": "Gurup",
+    "tags": [
+      "karakterler",
+      "filmler",
+      "sinema"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6tkpyg6sb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının uluslararası başarı kazanan ilk filmi nedir?",
+    "explanation": "'Mavi' (1965), Atilla Özdemiroğlu'nun yönettiği ve uluslararası festivallerde ödül alan ilk Türk filmidir.",
+    "options": [
+      "Mavi",
+      "Sırada",
+      "Aşıklar Şehri",
+      "Zamanın Çocukları"
+    ],
+    "correctAnswer": "Mavi",
+    "tags": [
+      "uluslararası",
+      "başarı",
+      "filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p3feklg3y",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının 'Altın Kelebek' ödülü kimin adına verilmiştir?",
+    "explanation": "'Altın Kelebek' ödülü, Türk sinemasının en önemli yönetmenlerinden Yılmaz Güney'in anısına verilmiştir.",
+    "options": [
+      "Atilla İlhan",
+      "Yılmaz Güney",
+      "Nuri Bilge Ceylan",
+      "Zeki Demirkubuz"
+    ],
+    "correctAnswer": "Yılmaz Güney",
+    "tags": [
+      "ödüller",
+      "yazarlar",
+      "altın kelebek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5o277r1q1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının 'Kurtlar Vadisi' filminin ilk sezonunda kim oynadı?",
+    "explanation": "'Kurtlar Vadisi' filminin ilk sezonunda Mehmet Ali Çavuş karakteri oynamıştır.",
+    "options": [
+      "Gurup",
+      "Mehmet Ali Çavuş",
+      "Şehzade Ali",
+      "Hürrem Sultan"
+    ],
+    "correctAnswer": "Mehmet Ali Çavuş",
+    "tags": [
+      "karakterler",
+      "sezonlar",
+      "filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d7vbmn44v",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının ilk sessiz filmi ne isimdedir?",
+    "explanation": "Türk sinemasının ilk sessiz filmi 1914 yılında çekilmiş 'İstanbul' adlı filmdir.",
+    "options": [
+      "İstanbul",
+      "Ayak",
+      "Şehzade",
+      "Yıldız"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "Sinema Tarihi",
+      "Sessiz Film",
+      "Erken Dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ja6t9ieep",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki isimlerden hangisi Türk sinemasının en bilinen yönetmenlerinden biridir?",
+    "explanation": "Nuri Bilge Ceylan, '4+1', 'Delişin' gibi filmleriyle tanınan ödüller kazandıran usta bir Türk yönetmendir.",
+    "options": [
+      "Yılmaz Güney",
+      "Mustafa Ünal",
+      "Nuri Bilge Ceylan",
+      "Ömer Vural"
+    ],
+    "correctAnswer": "Nuri Bilge Ceylan",
+    "tags": [
+      "Yönetmenler",
+      "Usta Sinema"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nrojd3tbn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının en çok ödül kazanan filmi hangisidir?",
+    "explanation": "Hababam Sınıfı filmleri Türk sinemasının en çok izlenen ve ödül kazanan film serilerinden biridir.",
+    "options": [
+      "Ses",
+      "Hababam Sınıfı",
+      "Yıldızlar",
+      "Uçurtmalar"
+    ],
+    "correctAnswer": "Hababam Sınıfı",
+    "tags": [
+      "Klasik Film",
+      "Komedi",
+      "Popüler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xtc3phj86",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki isimlerden hangisi Türk sinemasında 'Sessiz Dönem' adını almıştır?",
+    "explanation": "Türk sinemasında 1950-1960 yılları arasında 'Sessiz Dönem' olarak adlandırılan bir dönem vardır.",
+    "options": [
+      "1900-1914",
+      "1920-1930",
+      "1950-1960",
+      "1980-1990"
+    ],
+    "correctAnswer": "1950-1960",
+    "tags": [
+      "Sinema Dönemi",
+      "Tarih",
+      "Özel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rhthkftga",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının en ünlü klibi 'Uçurtmalar' filminin yönetmeni kimdir?",
+    "explanation": "'Uçurtmalar' filminin yönetmeni Nuri Bilge Ceylan'dır. Bu film onun en bilinen eseri olarak kabul edilir.",
+    "options": [
+      "Yılmaz Güney",
+      "Yavuz Turgal",
+      "Nuri Bilge Ceylan",
+      "Zeki Demirkubuz"
+    ],
+    "correctAnswer": "Nuri Bilge Ceylan",
+    "tags": [
+      "Film",
+      "Yönetmen",
+      "Klasik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dr7kijjti",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EASY",
+    "question": "Türk sinemasının en önemli ödülü olan 'Altın Portakal' hangi şehirde verilir?",
+    "explanation": "Altın Portakal ödülü, her yıl Antalya Uluslararası Film Festivali kapsamında verilir ve Türk sinemasının en köklü ödülleri arasındadır.",
+    "options": [
+      "İstanbul",
+      "Antalya",
+      "İzmir",
+      "Ankara"
+    ],
+    "correctAnswer": "Antalya",
+    "tags": [
+      "ödüller",
+      "tarih",
+      "antalya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ybqxepak5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasında 'Usta' lakabıyla bilinen yönetmen kimdir?",
+    "explanation": "Nuri Bilge Ceylan, Cannes Film Festivali'nde en iyi yönetmen ödülü almış ve Türk sinemasının en çok uluslararası başarı elde etmiş yönetmenlerinden biridir.",
+    "options": [
+      "Yılmaz Güney",
+      "Nuri Bilge Ceylan",
+      "Atıf Yılmaz",
+      "Ömer Vargı"
+    ],
+    "correctAnswer": "Nuri Bilge Ceylan",
+    "tags": [
+      "yönetmenler",
+      "usta",
+      "kurgu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "owltf8k94",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının ilk 'Altın Aslan' ödülü hangi filmle kazanıldı?",
+    "explanation": "Altın Aslan ödülü, 1972 yılında Nuri Bilge Ceylan'ın yönettiği 'Dostlar' filmiyle kazanılmış ve Türk sinemasının en önemli uluslararası başarılarından biri olmuştur.",
+    "options": [
+      "Aşk-ı Memnu",
+      "Dostlar",
+      "Süleyman ile Zeynep",
+      "Yavuz Sultan Selim"
+    ],
+    "correctAnswer": "Dostlar",
+    "tags": [
+      "ödüller",
+      "altın aslan",
+      "dostlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vr6d550yz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasında 'Güneycinin Ustası' olarak bilinen Yılmaz Güney'in en meşhur filmlerinden biri hangisidir?",
+    "explanation": "Yılmaz Güney, 'Yılan' filmiyle hem Türk sinemasında hem de uluslararası alanda büyük başarı elde etmiş ve özgürlük mücadelesi filmleri ile bilinir.",
+    "options": [
+      "Özgürlük",
+      "Yılan",
+      "İhsan",
+      "Kurtlar Vadisi"
+    ],
+    "correctAnswer": "Yılan",
+    "tags": [
+      "yılmaz güney",
+      "filmler",
+      "özgürlük"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "axnrui0mn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının ilk kadın yönetmen kimdir?",
+    "explanation": "Zeynep Çelik, Türk sinemasında ilk kadın yönetmenlerden biri olarak kabul edilir ve özellikle 1970-1980 yılları arasında önemli filmler yönetmiştir.",
+    "options": [
+      "Zeki Alasya",
+      "Cemal Şan",
+      "Zeynep Çelik",
+      "Seda Güven"
+    ],
+    "correctAnswer": "Zeynep Çelik",
+    "tags": [
+      "kadın yönetmenler",
+      "ilk",
+      "zeynep çelik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mqgyvst3j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının ilk filmi olarak kabul edilen 'Büyük Adam' filminin çekildiği yıl hangisidir?",
+    "explanation": "Türk sinemasının ilk filmi olarak 'Büyük Adam' (1914) kabul edilir. Ancak daha erken tarihli bazı filmler de vardır.",
+    "options": [
+      "1914",
+      "1920",
+      "1930",
+      "1945"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "Türk Sineması",
+      "Film Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y6nixh7lb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Atatürk Dönemi Türk sinemasında en önemli yönetmenlerden biri olan Yavuz Sarıalp'in 1950'lerde çıkardığı ünlü filmi hangisidir?",
+    "explanation": "Suç filminin yönetmeni Yavuz Sarıalp'tir ve 1950'lerde Türk sinemasının en önemli yapımlarından biri olarak kabul edilir.",
+    "options": [
+      "Aşk-ı Memnu",
+      "Suç",
+      "Kara Murat",
+      "Şehrin Sesi"
+    ],
+    "correctAnswer": "Kara Murat",
+    "tags": [
+      "Türk Sineması",
+      "Yönetmenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wxb5cf5w3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasında 'Aşk-ı Memnu' filmini yöneten ünlü yönetmen kimdir?",
+    "explanation": "Atıf Yılmaz, Türk sinemasının en önemli yönetmenlerinden biri olarak 'Aşk-ı Memnu' filmini 1950'lerde yönetmiştir.",
+    "options": [
+      "Yılmaz Güney",
+      "Atıf Yılmaz",
+      "Nuri Bilge Ceylan",
+      "Zeki Demirkubuz"
+    ],
+    "correctAnswer": "Atıf Yılmaz",
+    "tags": [
+      "Türk Sineması",
+      "Filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0xvrjuo7r",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasında kadın oyuncuların haklarını savunmak için kurulan ve 'Kadın Hakları Derneği'ne öncülük yapan ünlü oyuncu kimdir?",
+    "explanation": "Zübeyde Koçyiğit, Türk sinemasında kadın oyuncuların haklarını savunmak için önemli çalışmalar yapmıştır.",
+    "options": [
+      "Zübeyde Koçyiğit",
+      "Ayşe Şahin",
+      "Hanzade Gülsu",
+      "Nurgül Yeşilçay"
+    ],
+    "correctAnswer": "Zübeyde Koçyiğit",
+    "tags": [
+      "Türk Sineması",
+      "Oyuncular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3pq5v57q3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının en yüksek bilet satış rekorunu kıran ve dünya çapında tanınan filmi hangisidir?",
+    "explanation": "Aynalı Kapı filminin dünya çapında tanındığı ve yüksek bilet satışları gerçekleştirdiği belirtilmektedir.",
+    "options": [
+      "Kara Sevda",
+      "Güneşin Oğlu",
+      "Yalova",
+      "Aynalı Kapı"
+    ],
+    "correctAnswer": "Aynalı Kapı",
+    "tags": [
+      "Türk Sineması",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ok4yvn4pb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının ilk uzun metrajlı filmi hangisidir?",
+    "explanation": "Türk sinemasının ilk uzun metrajlı filmi 1917'de çekilen 'Günah' adlı fiilmdir. Bu film, Türk sinemasının başlangıcı olarak kabul edilir.",
+    "options": [
+      "Günah (1917)",
+      "İnsan (1920)",
+      "Beyaz Devriye (1921)",
+      "Kurtuluş (1923)"
+    ],
+    "correctAnswer": "Günah (1917)",
+    "tags": [
+      "sinema",
+      "tarih",
+      "ilk filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yk0swfpzu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Ariane Kozan ile birlikte hangi ünlü Türk yönetmen çalışmıştır?",
+    "explanation": "Yılmaz Güney, Türk sinemasının en önemli ve etkileyici yönetmenlerinden biridir. 'İnsanlık' gibi filmlerle tanınır.",
+    "options": [
+      "Yılmaz Güney",
+      "Nuri Bilge Ceylan",
+      "Atıf İyil",
+      "Zeki Demirkub"
+    ],
+    "correctAnswer": "Yılmaz Güney",
+    "tags": [
+      "yönetmenler",
+      "sinema tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vl534z56c",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film, Türk sinemasında 'Dokuzlar' serisinin ilk parçasıdır?",
+    "explanation": "'İnsan' filmi, Yılmaz Güney'in 'Dokuzlar' adlı serisinin ilk parçasıdır. Bu seri Türk sinemasında büyük etki yaratmıştır.",
+    "options": [
+      "İnsan (1976)",
+      "Kurtuluş (1980)",
+      "Yedi (1985)",
+      "On (1990)"
+    ],
+    "correctAnswer": "İnsan (1976)",
+    "tags": [
+      "seri filmler",
+      "yılmaz güney"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ideh3wpt1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Nuri Bilge Ceylan'ın hangi filmi Oscar ödülü adaylığı almıştır?",
+    "explanation": "'Kış Uykusu' filmi, Nuri Bilge Ceylan'ın en önemli eseri olarak 2014 yılında Cannes Film Festivali'nde Altın Palmiye ödülü almış ve Oscar ödülü adaylığına konulmuştur.",
+    "options": [
+      "Bir Zamanlar Anadolu'da (2015)",
+      "Kış Uykusu (2014)",
+      "Uçak Yolu (2011)",
+      "Dünya (2019)"
+    ],
+    "correctAnswer": "Kış Uykusu (2014)",
+    "tags": [
+      "nuri bilge ceylan",
+      "oscar ödülleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "klqqtbxhc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının 'Altın Portakal' film festivali hangi yılda başlamıştır?",
+    "explanation": "'Altın Portakal' film festivali 1963 yılında Antalya'da başlamış ve Türk sineması için en önemli ödülleri veren festivallerden biridir.",
+    "options": [
+      "1963",
+      "1970",
+      "1985",
+      "1992"
+    ],
+    "correctAnswer": "1963",
+    "tags": [
+      "altın portakal",
+      "film festivalleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "41dmqezuo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının ilk uzun metrajlı filmi hangi yıl çekilmiştir?",
+    "explanation": "Türk sinemasının ilk uzun metrajlı filmi 'Güneşin Doğuşu' 1914 yılında çekilmiştir. Bu dönem Osmanlı dönemi sinemaya geçiş sürecini temsil eder.",
+    "options": [
+      "1914",
+      "1920",
+      "1927",
+      "1935"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "Türk Sineması",
+      "Sinema Tarihi",
+      "İlk Film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t6ubn89wv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Altan ve Yılmaz'un en bilinen filmi hangisidir?",
+    "explanation": "Altan ve Yılmaz'un en bilinen filmlerinden biri 'Sinekli Bakkal'dır. Bu film 2014 yılında çekilmiş ve Türk sinemasının önemli eserleri arasında yer almaktadır.",
+    "options": [
+      "Sinekli Bakkal",
+      "Şehrin Kralı",
+      "Dedektif",
+      "Kız Kardeş"
+    ],
+    "correctAnswer": "Sinekli Bakkal",
+    "tags": [
+      "Türk Sineması",
+      "Altan ve Yılmaz",
+      "Fiyatlı Film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c01e10gfe",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Yılmaz Güney'in hangi filmi, Türk sinemasında devrim niteliği taşıyan eserdir?",
+    "explanation": "Yılmaz Güney'in 'Özel Hayat' filmi, Türk sinemasında devrim niteliği taşıyan önemli eserdir. Bu film 1973 yılında çekilmiş ve Güney'in en bilinen filmlerinden biridir.",
+    "options": [
+      "Özel Hayat",
+      "Dostum",
+      "Güvenli Bölge",
+      "Hapishane"
+    ],
+    "correctAnswer": "Özel Hayat",
+    "tags": [
+      "Türk Sineması",
+      "Yılmaz Güney",
+      "Devrimci Film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dzjf8e3xv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının 'Altın Lale' ödülü alan ilk film hangisidir?",
+    "explanation": "'Bir İstanbul Masalı' filmi, Türk sinemasının önemli ödül alan filmlerinden biridir. Bu film 2018 yılında çekilmiş ve Altın Lale ödülü almıştır.",
+    "options": [
+      "Güneşin Doğuşu",
+      "Şehrin Kralı",
+      "Bir İstanbul Masalı",
+      "Dedektif"
+    ],
+    "correctAnswer": "Bir İstanbul Masalı",
+    "tags": [
+      "Türk Sineması",
+      "Ödüller",
+      "Altın Lale"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gmle8d6je",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Nuri Bilge Ceylan'ın en bilinen filmi hangisidir?",
+    "explanation": "Nuri Bilge Ceylan'ın en bilinen filmlerinden biri 'Uzun Bir Yaz'dır. Bu film 2016 yılında çekilmiş ve Türk sinemasının önemli eserleri arasında yer almaktadır.",
+    "options": [
+      "Uzun Bir Yaz",
+      "Kış",
+      "Yaz",
+      "Bahar"
+    ],
+    "correctAnswer": "Uzun Bir Yaz",
+    "tags": [
+      "Türk Sineması",
+      "Nuri Bilge Ceylan",
+      "Fiyatlı Film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wp8f0grpi",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasının ilk uzun metrajlı filmi olan 'İntikam' (1914) hangi yönetmen tarafından çekilmiştir?",
+    "explanation": "Abdülkerim Tolga, Türk sinemasının ilk uzun metrajlı filmini 1914'te 'İntikam' adıyla çekmiştir.",
+    "options": [
+      "Mehmet Murat",
+      "Abdülkerim Tolga",
+      "Nuri Bilge Ceylan",
+      "Yılmaz Güney"
+    ],
+    "correctAnswer": "Abdülkerim Tolga",
+    "tags": [
+      "tarih",
+      "yönetmenler",
+      "ilk film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lvrrbrwa5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EASY",
+    "question": "Türk sinemasının en çok ödül alan filmlerinden biri olan 'Bir Zamanlar Çukurova' hangi türdedir?",
+    "explanation": "'Bir Zamanlar Çukurova' dramatik aile hikayesi üzerine kurulu bir Türk sineması/dizi yapımıdır.",
+    "options": [
+      "Bilim Kurgu",
+      "Dram/Aile",
+      "Komedi",
+      "Savaş"
+    ],
+    "correctAnswer": "Dram/Aile",
+    "tags": [
+      "film türü",
+      "popüler kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ry0b94db7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Yılmaz Güney, Türkiye'de siyaset ve insan hakları temasını işleyen 'Özdemir' filminde hangi konsepti vurgulamıştır?",
+    "explanation": "Yılmaz Güney, 'Özdemir' filminde siyasi mücadele ve insan hakları temasını güçlü şekilde işlemiştir.",
+    "options": [
+      "Geleneksel Değerler",
+      "İnsan Hakları/Siyaset",
+      "Aşk Hikayesi",
+      "Taşra Hayatı"
+    ],
+    "correctAnswer": "İnsan Hakları/Siyaset",
+    "tags": [
+      "yönetmenler",
+      "siyaset",
+      "insan hakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v5acx286a",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının Oscar ödülü almak üzere aday gösterilen ilk filmi hangisidir?",
+    "explanation": "'Uçurtma' (2016), Nuri Bilge Ceylan yönetmenliğinde, Oscar Ödülü için aday gösterilen ilk Türk filmidir.",
+    "options": [
+      "Mükemmel Gün",
+      "Uçurtma",
+      "Dostum, Benim İçin Öldün",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Uçurtma",
+    "tags": [
+      "Oscar",
+      "uluslararası başarı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cldqrtimo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EASY",
+    "question": "Türk sinemasında 'Yeşilçam' dönemi hangi yıllar arasında yoğunlaşmıştır?",
+    "explanation": "'Yeşilçam' dönemi Türk sinemasının altın çağı olarak 1950-1970 yılları arasında yoğunlaşmıştır.",
+    "options": [
+      "1920-1930",
+      "1950-1970",
+      "1980-1990",
+      "1960-1975"
+    ],
+    "correctAnswer": "1950-1970",
+    "tags": [
+      "tarih",
+      "Yeşilçam",
+      "dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c9rnx5muf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının ilk uzun metrajlı filmi aşağıdakilerden hangisidir?",
+    "explanation": "1914 yılında çekilen 'Memduh', Türk sinemasının ilk uzun metrajlı filmidir ve Halide Edip Adıvar'ın oğulları Memduh'nun hayatını konu almaktadır.",
+    "options": [
+      "Şairane",
+      "Memduh",
+      "Halikarnas Balıkçısı",
+      "Ateşten Gömlek"
+    ],
+    "correctAnswer": "Memduh",
+    "tags": [
+      "Türk Sineması",
+      "Sinema Tarihi",
+      "İlk Film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ba2eca6xx",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Nuri Bilge Ceylan hangi yıl Altın Portakal Filmleri Festivali'nde en çok ödül alan Türk yönetmen oldu?",
+    "explanation": "2018 yılında 'Dünyanın En Uzun Günü' filminle Nuri Bilge Ceylan, Altın Portakal Filmleri Festivali'nde en çok ödül alan Türk yönetmen unvanına sahip oldu.",
+    "options": [
+      "2015",
+      "2018",
+      "2020",
+      "2022"
+    ],
+    "correctAnswer": "2018",
+    "tags": [
+      "Nuri Bilge Ceylan",
+      "Altın Portakal",
+      "Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ohtiwwcvc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasında 'Ağabeyim' filmini kim yönetmiştir?",
+    "explanation": "1962 yılında çekilen 'Ağabeyim' filmini Atıf Yılmaz yönetmiş ve bu film Türk sinemasının en önemli klasiklerinden biri olarak kabul edilir.",
+    "options": [
+      "Yılmaz Güney",
+      "Atıf Yılmaz",
+      "Metin Erksan",
+      "Fevzi Taşkan"
+    ],
+    "correctAnswer": "Atıf Yılmaz",
+    "tags": [
+      "Türk Sineması",
+      "Ağabeyim",
+      "Atıf Yılmaz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ax2kpykt",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "EXPERT",
+    "question": "Türk sinemasında ilk kez ulusal bir ödüle sahip olan kadın oyuncu kimdir?",
+    "explanation": "1970 yılında 'Yalan, Söyleme' filmiyle Nesrin Cehennemi, Türk sinemasında ilk kez ulusal bir ödüle sahip olan kadın oyuncu olarak tarihe geçti.",
+    "options": [
+      "Sema Kaygusuz",
+      "Nesrin Cehennemi",
+      "Ceyda Çetin",
+      "Ayşegül Dayıoğlu"
+    ],
+    "correctAnswer": "Nesrin Cehennemi",
+    "tags": [
+      "Türk Sineması",
+      "Kadın Oyuncu",
+      "Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7bsqilgr8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Türk Sineması",
+    "difficulty": "GENERAL",
+    "question": "Türk sinemasının en çok izlenen filmi aşağıdakilerden hangisidir?",
+    "explanation": "2018 yılında Nuri Bilge Ceylan tarafından yönetilen 'Dünyanın En Uzun Günü', Türk sinemasının en çok izlenen filmi olarak kayıtlara geçti.",
+    "options": [
+      "Siz Aşk",
+      "Ağabeyim",
+      "Dünyanın En Uzun Günü",
+      "Memduh"
+    ],
+    "correctAnswer": "Dünyanın En Uzun Günü",
+    "tags": [
+      "Türk Sineması",
+      "En Çok İzlenen",
+      "Nuri Bilge Ceylan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

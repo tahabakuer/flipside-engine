@@ -1,0 +1,1085 @@
+[
+  {
+    "id": "4x0441by6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "In Python, what is the scope of a variable defined inside a function?",
+    "explanation": "Variables defined within a function are local to that function and cannot be accessed outside unless declared global.",
+    "options": [
+      "Local",
+      "Global",
+      "Module",
+      "Class"
+    ],
+    "correctAnswer": "Local",
+    "tags": [
+      "Python",
+      "Variables"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rneawrvs4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Which loop is generally preferred for iterating over elements in a list in Python?",
+    "explanation": "The for loop is more readable and efficient for iterating over sequences like lists in Python.",
+    "options": [
+      "For loop",
+      "While loop",
+      "Do-while loop",
+      "Recursive function"
+    ],
+    "correctAnswer": "For loop",
+    "tags": [
+      "Python",
+      "Loops"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0mhhg0785",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "In JavaScript, what is the purpose of rest parameters (e.g., ...args)?",
+    "explanation": "Rest parameters allow a function to accept an indefinite number of arguments as an array, improving flexibility.",
+    "options": [
+      "To accept multiple arguments",
+      "To define default values",
+      "To create a spread operator",
+      "To handle errors"
+    ],
+    "correctAnswer": "To accept multiple arguments",
+    "tags": [
+      "JavaScript",
+      "Functions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7shizlrmq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "To create a custom exception in Python, you should:",
+    "explanation": "Custom exceptions are created by subclassing the built-in Exception class to extend error handling capabilities.",
+    "options": [
+      "Inherit from the Exception class",
+      "Use a try-except block",
+      "Define a new method",
+      "Import the Exception module"
+    ],
+    "correctAnswer": "Inherit from the Exception class",
+    "tags": [
+      "Python",
+      "Exception Handling"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wrobc2pat",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is an immutable data type in Python?",
+    "explanation": "A tuple cannot be modified after creation, making it immutable, unlike lists and dictionaries.",
+    "options": [
+      "list",
+      "dict",
+      "set",
+      "tuple"
+    ],
+    "correctAnswer": "tuple",
+    "tags": [
+      "Python",
+      "Data Types"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dbj3zpixb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi Python'da değişken atama işlemi için kullanılan operatördür?",
+    "explanation": "Python'da ve genel programlama dillerinde değişkenlere değer atamak için '=' (eşit) operatörü kullanılır. Diğer seçenekler matematiksel işlemler içindir.",
+    "options": [
+      "=",
+      "+",
+      "-",
+      "*"
+    ],
+    "correctAnswer": "=",
+    "tags": [
+      "Python",
+      "Değişken",
+      "Atama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rekibbpag",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Hangi veri tipi Python'da sayısal veriler için kullanılmaz?",
+    "explanation": "'str' (string) veri tipi metin/sözel veriler içindir. 'int','float' sayısal değerler için kullanılır, 'bool' ise mantıksal (true/false) değerler içindir.",
+    "options": [
+      "int",
+      "float",
+      "str",
+      "bool"
+    ],
+    "correctAnswer": "str",
+    "tags": [
+      "Python",
+      "VeriTipleri",
+      "Sayılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s9ob8c6ni",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "JavaScript'te aşağıdakilerden hangisi bir asenkron fonksiyon çağırma yöntemidir?",
+    "explanation": "'await' ifadesi JavaScript'te Promise veya async/await kullanılarak asenkron işlemleri senkron şekilde bekleme için kullanılır.",
+    "options": [
+      "await",
+      "sync",
+      "block",
+      "serial"
+    ],
+    "correctAnswer": "await",
+    "tags": [
+      "JavaScript",
+      "Asenkron",
+      "Promise"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37buswkhd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Hangi programlama dili tip statik (compile-time) bir dildir?",
+    "explanation": "'C++' ve 'Java' gibi dillerde tip statiktir (compile-time). Python, Ruby, JavaScript ise dinamik tiplidir.",
+    "options": [
+      "Python",
+      "Ruby",
+      "JavaScript",
+      "C++"
+    ],
+    "correctAnswer": "C++",
+    "tags": [
+      "ProgramlamaDilleri",
+      "TipStatik",
+      "CompileTime"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9fkeh5zd0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi bir algoritma tasarım tekniği değildir?",
+    "explanation": "'Divide and Conquer','Dynamic Programming','Greedy Algorithm' bilinen algoritma tasarım teknikleridir. 'Random Guessing' (rastgele tahmin) ise bir algoritma tekniği değildir.",
+    "options": [
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Greedy Algorithm",
+      "Random Guessing"
+    ],
+    "correctAnswer": "Random Guessing",
+    "tags": [
+      "Algoritma",
+      "Yapı",
+      "Teknikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ttu8qir6d",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "Hangi veri tipi programlama dillerinde 'null' değerini temsil etmek için kullanılır?",
+    "explanation": "'void' tipi programlama dillerinde boş veya null değerleri temsil etmek için kullanılır, özellikle fonksiyonların hiçbir değer döndürmediğini belirtir.",
+    "options": [
+      "int",
+      "float",
+      "string",
+      "void"
+    ],
+    "correctAnswer": "void",
+    "tags": [
+      "programlama-dilleri",
+      "veri-tipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k674the3p",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "Python'da aşağıdaki kod bloğu ne çıktı verecektir: print(type(5))?",
+    "explanation": "Python'da 5 bir tam sayı (integer) olduğu için type(5) fonksiyonu '<class 'int'>' değerini döndürür.",
+    "options": [
+      "<class 'float'>",
+      "<class 'int'>",
+      "<class 'str'>",
+      "<class 'bool'>"
+    ],
+    "correctAnswer": "<class 'int'>",
+    "tags": [
+      "python",
+      "veri-tipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3flcb7q4t",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Java'da aşağıdaki hangi sınıf, programın ana giriş noktasını temsil eder?",
+    "explanation": "Java'da her programın başlangıç noktası 'public static void main(String[] args)' metodudur, bu metod çalıştırıldığında program başlar.",
+    "options": [
+      "MainClass",
+      "public static void main(String[] args)",
+      "App.java",
+      "System.out.println()"
+    ],
+    "correctAnswer": "public static void main(String[] args)",
+    "tags": [
+      "java",
+      "programlama-temelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ncz547oxb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "C++'da aşağıdaki hangi operatör döngü (loop) için kullanılır?",
+    "explanation": "'for' operatörü/sentaksı C++ ve diğer dillerde belirli sayıda tekrar yapılacak döngüler için kullanılır.",
+    "options": [
+      "while",
+      "for",
+      "if",
+      "else"
+    ],
+    "correctAnswer": "for",
+    "tags": [
+      "c++",
+      "döngüler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jx27l80go",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki algoritma neyi temsil eder: 'Eğer x > 0 ise, x = -x. Değilse, x = x + 1'?",
+    "explanation": "Bu algoritma koşullu ifadeler (if/else) kullanarak farklı durumlarda farklı işlemler yapar, bu bir kontrol akışı mantığını temsil eder.",
+    "options": [
+      "Hesaplama",
+      "Kontrol Akışı",
+      "Veri Yapısı",
+      "Fonksiyon"
+    ],
+    "correctAnswer": "Kontrol Akışı",
+    "tags": [
+      "algoritma",
+      "kontrol-akışı",
+      "mantık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x8em4jug3",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "Python'da değişken atama işleminin hangi sözdizimi kullanılır?",
+    "explanation": "Python'da değişken atama işlemi için '=' operatörü kullanılır ve sözdizimi 'variable = value' şeklindedir. Python, C++ veya Java gibi dillerdeki ';' noktalı virgül gerektirmez.",
+    "options": [
+      "= variable;",
+      "variable = value",
+      ": variable = value",
+      "-> variable = value"
+    ],
+    "correctAnswer": "variable = value",
+    "tags": [
+      "python",
+      "değişken",
+      "sözdizimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x6d4t9k0m",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Hangi veri yapısı 'LIFO' (Son Girilen İlk Çıkan) prensibini uygular?",
+    "explanation": "Yığın (Stack) veri yapısı LIFO prensibini uygular - son girilen eleman ilk çıkar. Kuyruk (Queue) ise FIFO (İlk Girilen İlk Çıkan) prensibiyle çalışır.",
+    "options": [
+      "Dizi (Array)",
+      "Kuyruk (Queue)",
+      "Yığın/Stack",
+      "Ağaç (Tree)"
+    ],
+    "correctAnswer": "Yığın/Stack",
+    "tags": [
+      "veri yapıları",
+      "algorithm",
+      "stack"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dgu9dh5ix",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Java'da 'abstract class' ile 'interface' arasındaki temel fark nedir?",
+    "explanation": "Java interface'lerinde (modern Java 8+ hariç) tüm metodlar default olarak public abstract'dir. Abstract class ise sadece bazı metodları abstract tutabilir ve constructor tanımlayabilir.",
+    "options": [
+      "Abstract class sadece bir kez implement edilebilir",
+      "Interface'te tüm metodlar varsayılan olarak public abstract'dir",
+      "Abstract class constructor içeremez",
+      "Interface sınıflar tarafından extend edilemez"
+    ],
+    "correctAnswer": "Interface'te tüm metodlar varsayılan olarak public abstract'dir",
+    "tags": [
+      "java",
+      "oop",
+      "interface"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4815d1khk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "Hangi algoritma 'Big O' notasyonunda O(n log n) zaman karmaşıklığına sahiptir?",
+    "explanation": "Quick Sort ve Merge Sort gibi divide-and-conquer algoritmaları O(n log n) zaman karmaşıklığına sahiptir. Binary Search de aynı karmaşıklıktadır ancak arama algoritmasıdır.",
+    "options": [
+      "Kontrol (Linear Search)",
+      "Bubblesort",
+      "Quick Sort",
+      "Binary Search"
+    ],
+    "correctAnswer": "Quick Sort",
+    "tags": [
+      "algoritmalar",
+      "big o",
+      "sorting"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nlvbuxmwk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "JavaScript'te 'let' ile 'var' arasındaki temel fark nedir?",
+    "explanation": "'let' değişkeni block scope'luk yapar ve temporal dead zone (TDZ) nedeniyle hoisting'e sahip değildir. 'var' ise fonksiyon scope'luk gösterir ve hoisting özelliğine sahiptir.",
+    "options": [
+      "'let' sadece global scope için kullanılabilir",
+      "'var' hoisting (yükleme) özelliğine sahiptir, 'let' daha güvenli block scope'dır",
+      "'let' fonksiyon içinde çalışmaz",
+      "'var' modern JavaScript'te önerilmez"
+    ],
+    "correctAnswer": "'var' hoisting (yükleme) özelliğine sahiptir, 'let' daha güvenli block scope'dır",
+    "tags": [
+      "javascript",
+      "scope",
+      "hoisting"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ig247udm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "Python programlama dilinde `print(\"Merhaba\")` ifadesinin temel işlevi nedir?",
+    "explanation": "`print()` fonksiyonu Python'da standart çıktıyı ekrana göndermek için kullanılır.",
+    "options": [
+      "Ekrana çıktı yazdırır",
+      "Dosya oluşturur",
+      "Değişken atar",
+      "Programı durdurur"
+    ],
+    "correctAnswer": "Ekrana çıktı yazdırır",
+    "tags": [
+      "Python",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gjxulqby7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "JavaScript'te satır içi yorumları yazmak için hangi karakter kombinasyonu kullanılır?",
+    "explanation": "JavaScript hem tek çizgi (//) hem de çok satırlı yorum (/* */) destekler.",
+    "options": [
+      "//",
+      "/* */",
+      "// veya /* */",
+      "# karakteri"
+    ],
+    "correctAnswer": "// veya /* */",
+    "tags": [
+      "JavaScript",
+      "Yorum Satırları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "frm1bo8r0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Algoritmik karmaşıklık analizinde O(n) zaman kompleksliği hangi senaryoyu ifade eder?",
+    "explanation": "O(n) karmaşıklığı, değişkenin büyüklüğüne orantılı lineer zaman gerektirir.",
+    "options": [
+      "Sabit süre (O(1))",
+      "Lineer süre (O(n))",
+      "Karesel süre (O(n^2))",
+      "Logaritmik süre (O(log n))"
+    ],
+    "correctAnswer": "Lineer süre (O(n))",
+    "tags": [
+      "Algoritmalar",
+      "Big O Notasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oxc6t1dyf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "C++'da `int` veri tipi hangi sayısal değerleri depolar?",
+    "explanation": "`int` ifadesi tam sayıları temsil ederken, `float` ondalıklı sayılar için kullanılır.",
+    "options": [
+      "Sadece ondalıklı (float) sayılar",
+      "Tam sayılar (pozitif veya negatif)",
+      "Mantık değerleri (true/false)",
+      "İşaretli karakter dizileri"
+    ],
+    "correctAnswer": "Tam sayılar (pozitif veya negatif)",
+    "tags": [
+      "C++",
+      "Veri Tipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qiusu5r4w",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Bir fonksiyonun kendisini tekrarlamaya dayalı olarak çağırması hangi yapıya örnek olur?",
+    "explanation": "Rekürsiyon, bir fonksiyonun kendi tanımını içinde kullanarak kendini çağırdığı yapıdır.",
+    "options": [
+      "Döngü (Loop)",
+      "Rekürsiyon (Recursion)",
+      "Polimorfizm",
+      "Kapsülleme"
+    ],
+    "correctAnswer": "Rekürsiyon (Recursion)",
+    "tags": [
+      "Programlama Kavramları",
+      "Fonksiyonel Programlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "na8a0g7ai",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "What is the primary purpose of a variable in programming?",
+    "explanation": "Variables are used to store and manipulate data values throughout a program.",
+    "options": [
+      "To store data",
+      "To define functions",
+      "To create classes",
+      "To manage memory"
+    ],
+    "correctAnswer": "To store data",
+    "tags": [
+      "Variables",
+      "Basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8qa78vwb7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "What does the acronym OOP stand for in programming?",
+    "explanation": "OOP stands for Object-Oriented Programming, a design paradigm using objects to encapsulate data and behavior.",
+    "options": [
+      "Object-Oriented Programming",
+      "Open Object Protocol",
+      "Operating On Process",
+      "Online Optimization Platform"
+    ],
+    "correctAnswer": "Object-Oriented Programming",
+    "tags": [
+      "Programming Paradigms",
+      "Concepts"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qmi23krvk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Which programming language is primarily used for web development with frameworks like React and Node.js?",
+    "explanation": "JavaScript is the standard language for web interactivity, used in both frontend (React) and backend (Node.js) development.",
+    "options": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "correctAnswer": "JavaScript",
+    "tags": [
+      "Programming Languages",
+      "Web Development"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a1vvxjufb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "What is the time complexity of a binary search algorithm?",
+    "explanation": "Binary search divides the problem space in half each iteration, resulting in logarithmic time complexity relative to input size.",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n²)",
+      "O(1)"
+    ],
+    "correctAnswer": "O(log n)",
+    "tags": [
+      "Algorithms",
+      "Complexity"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gvdsc8bg9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Which Git command checks the status of files in a repository?",
+    "explanation": "The 'git status' command displays the current state of the working directory and staging area, showing modified or new files.",
+    "options": [
+      "git commit",
+      "git push",
+      "git status",
+      "git log"
+    ],
+    "correctAnswer": "git status",
+    "tags": [
+      "Version Control",
+      "Git"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s558ntt8y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "Python'da aşağıdaki kod parçasının çıktısı nedir?\nx = 10\ny = 20\nprint(x + y)",
+    "explanation": "Python'da '+' operatörü iki sayıyı toplar. 10 + 20 = 30.",
+    "options": [
+      "30",
+      "200",
+      "1020",
+      "Error"
+    ],
+    "correctAnswer": "30",
+    "tags": [
+      "Python",
+      "Temel",
+      "Değişkenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1kr0jcx4f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "JavaScript'te 'closure' kavramı ne işe yarar?",
+    "explanation": "Closure, dışarıdaki değişkenlere iç fonksiyonun erişebilmesini sağlar ve bu değişkenleri korur.",
+    "options": [
+      "Sayıları çarpma",
+      "Değişkenlere erişim koruması",
+      "Dizileri sıralama",
+      "Hata yakalama"
+    ],
+    "correctAnswer": "Değişkenlere erişim koruması",
+    "tags": [
+      "JavaScript",
+      "Kapsam",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7thhnae16",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "OOP (Nesne Yönelimli Programlama) kavramı hangi dillerde bulunur?",
+    "explanation": "Python ve Java, nesne yönelimli programlama destekleyen popüler dillerdir. C ve Assembly ise OOP desteklemezler.",
+    "options": [
+      "C",
+      "Python ve Java",
+      "Bash",
+      "Assembly"
+    ],
+    "correctAnswer": "Python ve Java",
+    "tags": [
+      "OOP",
+      "Java",
+      "Python",
+      "Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sn32rcszz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki veri yapısında eleman ekleme işlemi hangi zaman karmaşıklığındadır?\narray = [1, 2, 3]\narray.append(4)",
+    "explanation": "append() işlemi dinamik dizilerde son elemanın hemen arkasına ekler, O(1) sabit zaman karmaşıklığındadır.",
+    "options": [
+      "O(1) - Sabit",
+      "O(n) - Lineer",
+      "O(log n) - Logaritmik",
+      "O(n^2) - Kareköklü"
+    ],
+    "correctAnswer": "O(1) - Sabit",
+    "tags": [
+      "Veri Yapıları",
+      "Zaman Karmaşıklığı",
+      "Array"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z6c9g88pq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "Dijkstra algoritması hangi problemi çözer?",
+    "explanation": "Dijkstra algoritması, bir graf üzerinde başlangıç düğümden diğer tüm düğümlere en kısa yolu bulmak için kullanılır.",
+    "options": [
+      "En kısa yol bulma",
+      "Sıralama yapma",
+      "Arama işlemi",
+      "Şifre kırma"
+    ],
+    "correctAnswer": "En kısa yol bulma",
+    "tags": [
+      "Algoritmalar",
+      "Dijkstra",
+      "Graf Teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nhckqub9r",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EASY",
+    "question": "Python'da aşağıdakilerden hangisi değişken tanımlamak için kullanılan doğru sözdizimidir?",
+    "explanation": "Python'da değişken tanımlamak için önceden sözdizimi kullanılmaz. Sadece 'x = 10' şeklinde doğrudan eşitleme yapılır.",
+    "options": [
+      "var x = 10",
+      "let y = 20",
+      "x = 10",
+      "int z = 5"
+    ],
+    "correctAnswer": "x = 10",
+    "tags": [
+      "Python",
+      "Değişkenler",
+      "Sözdizimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zxe2uugmo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "C++ programlama dilinde ne tür hafıza yönetimi yapar?",
+    "explanation": "C++ hem stack hem de heap hafızasını manuel olarak yönetir. Tamamen otomatik olmayan, karmaşık bir yapıdadır.",
+    "options": [
+      "Tamamen otomatik",
+      "Manuel (heap)",
+      "Karmaşık (stack/heap)",
+      "Dinamik"
+    ],
+    "correctAnswer": "Karmaşık (stack/heap)",
+    "tags": [
+      "C++",
+      "Hafıza Yönetimi",
+      "Stack/Heap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mjxyu3oci",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "JavaScript'te 'null' ile 'undefined' arasındaki temel fark nedir?",
+    "explanation": "'null' programcı tarafından bilerek verildiğinde (değer yok), 'undefined' ise değişken tanımlanmamış veya fonksiyonun varsayılan değeri olduğunda oluşur.",
+    "options": [
+      "Her ikisi de aynı",
+      "'null' bilinçli atandığında kullanılır",
+      "'undefined' sadece fonksiyon çağrısında oluşur",
+      "'null' rakamları temsil eder"
+    ],
+    "correctAnswer": "'null' bilinçli atandığında kullanılır",
+    "tags": [
+      "JavaScript",
+      "Değerler",
+      "null/undefined"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p9du22xml",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Java'da aşağıdakilerden hangisi bir sınıfla ilgili doğrudur?",
+    "explanation": "Java'da her sınıf kendi alan ve metodlarıyla bağımsız çalışabilir. Nesneler instance değişkenlerini paylaşmaz.",
+    "options": [
+      "Sınıflar kalıcı verileri tutar",
+      "Bir sınıfın tüm nesneleri aynı değişkeni paylaşır",
+      "Her sınıf tek başına çalışabilir",
+      "Sınıf sadece metodları içerir"
+    ],
+    "correctAnswer": "Her sınıf tek başına çalışabilir",
+    "tags": [
+      "Java",
+      "Nesne Yönelimli Programlama",
+      "Sınıflar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gpvhnmos3",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "Go (Golang) dilinde 'interface' nedir?",
+    "explanation": "Go'da interface, birden fazla struct veya type'un ortak metodlarını tanımlayan soyut bir yapıdır. Polimorfizm sağlar.",
+    "options": [
+      "Veri tipi",
+      "Birden fazla yapıyı tanımlayan soyut bir tip",
+      "Dinamik hafıza yönetimi",
+      "Sabit bellek alanı"
+    ],
+    "correctAnswer": "Birden fazla yapıyı tanımlayan soyut bir tip",
+    "tags": [
+      "Go",
+      "Interface",
+      "Polimorfizma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ra2bpdazx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Python'da bir dizinin son elemanını alırken hangi yöntem kullanılır?",
+    "explanation": "Python'da negatif indeksleme ile dizinin son elemanı [-1], bir önceki eleman [-2] şeklinde erişilir. Bu, listeler ve tuple'lar için geçerlidir.",
+    "options": [
+      "dizinin[0]",
+      "dizinin[-1]",
+      "dizinin.son()",
+      "dizinin.getSonElementi()"
+    ],
+    "correctAnswer": "dizinin[-1]",
+    "tags": [
+      "Python",
+      "Dizi",
+      "İndeksleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v9jkihuy4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Java'da 'static' anahtar kelimesi ne işe yarar?",
+    "explanation": "Java'da static, sınıf üyeleri (değişkenler ve yöntemler) için kullanılır. Bu üyeler herhangi bir nesne oluşturmadan erişilebilir.",
+    "options": [
+      "Sınıf seviyesinde değişken veya yöntemi belirtir",
+      "Değişkenin değerini sıfırlar",
+      "Yöntemin geri çağrılmasını engeller",
+      "Sınıfın yüklenmesini erteleyer"
+    ],
+    "correctAnswer": "Sınıf seviyesinde değişken veya yöntemi belirtir",
+    "tags": [
+      "Java",
+      "static",
+      "Sınıf Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ypjxov2k0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "Hangi veri yapısı LIFO (Last In First Out) prensibiyle çalışır?",
+    "explanation": "Yığın (Stack), LIFO prensibi ile çalışan bir veri yapısıdır. Son eklenen eleman ilk çıkar.",
+    "options": [
+      "Dizi",
+      "Kolağa",
+      "Yığın (Stack)",
+      "Sıralı Liste"
+    ],
+    "correctAnswer": "Yığın (Stack)",
+    "tags": [
+      "Veri Yapıları",
+      "Stack",
+      "LIFO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u9s5kcitl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "JavaScript'te 'var' ve 'let' arasındaki fark nedir?",
+    "explanation": "var fonksiyon scope'ında tanımlanır ve hoisting yapılabilir. let ise blok scope'unda tanımlanır ve hoisting yapılamaz.",
+    "options": [
+      "var fonksiyon scope'ı, let blok scope'ı",
+      "let fonksiyon scope'ı, var blok scope'ı",
+      "araları aynıdır",
+      "hiçbir fark yoktur"
+    ],
+    "correctAnswer": "var fonksiyon scope'ı, let blok scope'ı",
+    "tags": [
+      "JavaScript",
+      "Scope",
+      "var",
+      "let"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qhzr4e940",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "EXPERT",
+    "question": "Hangi algoritma 'Divide and Conquer' stratejisini kullanır?",
+    "explanation": "Quick Sort, Divide and Conquer stratejisi ile çalışan bir sıralama algoritmasıdır. Problem küçültülerek çözülmektedir.",
+    "options": [
+      "Bubble Sort",
+      "Binary Search",
+      "Quick Sort",
+      "Insertion Sort"
+    ],
+    "correctAnswer": "Quick Sort",
+    "tags": [
+      "Algoritmalar",
+      "Divide and Conquer",
+      "Quick Sort"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h86ulv05c",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Python'da bir liste içindeki tüm sayıların karesini alarak yeni bir liste oluşturmak için hangi yöntem kullanılır?",
+    "explanation": "Python'da map() fonksiyonu, verilen bir liste üzerinde belirtilen işlemin her eleman üzerinde uygulanmasını sağlar. Lambda ile birlikte kullanıldığında kare alma işlemi yapılır.",
+    "options": [
+      "map() ve lambda",
+      "filter()",
+      "reduce()",
+      "split()"
+    ],
+    "correctAnswer": "map() ve lambda",
+    "tags": [
+      "python",
+      "programlama",
+      "fonksiyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "grclezz3i",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "C# programlama dilinde 'using' anahtar kelimesinin temel amacı nedir?",
+    "explanation": "'using' ifadesi, namespace'in kodun geri kalanında kullanılabilmesi için projeye eklenmesini sağlar. Bu sayede ilgili classlar ve metodlar doğrudan çağrılabilir.",
+    "options": [
+      "Değişken tanımlamak",
+      "Namespace'i projeye eklemek",
+      "Sınıf oluşturmak",
+      "Yazı çıkartmak"
+    ],
+    "correctAnswer": "Namespace'i projeye eklemek",
+    "tags": [
+      "c#",
+      "programlama",
+      "namespace"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lezfab375",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "JavaScript'te 'let', 'const' ve 'var' arasındaki temel fark nedir?",
+    "explanation": "'let' ve 'const', kodun bulunduğu blok içinde sınırlı (block scope) çalışırken, 'var' tüm fonksiyon veya global scope'ta tanımlanır. 'const' ile oluşturulan değişkenler değiştirilemez.",
+    "options": [
+      "Tümü aynı işlev görür",
+      "'let' ve 'const' block scope'dur, 'var' function scope'dur",
+      "'const' değişkenleri değiştirilebilir",
+      "'let' sabittir"
+    ],
+    "correctAnswer": "'let' ve 'const' block scope'dur, 'var' function scope'dur",
+    "tags": [
+      "javascript",
+      "programlama",
+      "scope"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8phy7prc1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "SQL'de bir tablodaki belirli sütundaki en büyük değeri almak için hangi işlev kullanılır?",
+    "explanation": "'MAX()' fonksiyonu, bir sütundaki tüm değerleri tarayıp en büyük değeri döndürür. Benzer şekilde 'MIN()' en küçük değeri verir.",
+    "options": [
+      "MIN()",
+      "MAX()",
+      "AVERAGE()",
+      "COUNT()"
+    ],
+    "correctAnswer": "MAX()",
+    "tags": [
+      "sql",
+      "programlama",
+      "veritabanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jq77yb8l0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Programlama",
+    "difficulty": "GENERAL",
+    "question": "Java'da 'public static void main(String[] args)' metodunun görevi nedir?",
+    "explanation": "'main' metodu, Java programının çalışmaya başladığı giriş noktasıdır. JVM bu metodun çağrılmasını bekler ve program işlemleri buradan başlar.",
+    "options": [
+      "Sınıf oluşturmak",
+      "Programın başlangıç noktasıdır",
+      "Değişken tanımlamak",
+      "Döngü oluşturmak"
+    ],
+    "correctAnswer": "Programın başlangıç noktasıdır",
+    "tags": [
+      "java",
+      "programlama",
+      "entry-point"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

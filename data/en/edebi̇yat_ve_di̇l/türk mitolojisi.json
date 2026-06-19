@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "gq2013evu",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EASY",
+    "question": "Dede Korkut Hikayeleri'nin temel teması nedir?",
+    "explanation": "Dede Korkut Hikayeleri, Türk kültüründe soylu ve sadık kahramanların maceralarını anlatan destan türündedir.",
+    "options": [
+      "Tanrıların yaratılış efsaneleri",
+      "Geleneksel kahraman destanları",
+      "Aşk ve macera hikayeleri",
+      "Tarihi savaş anlatıları"
+    ],
+    "correctAnswer": "Geleneksel kahraman destanları",
+    "tags": [
+      "Türk Mitolojisi",
+      "Edebiyat",
+      "Destanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b3r61q3i5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Yaman-Ata karakteri hangi hikayedeki ana figürdür?",
+    "explanation": "Yaman-Ata, Dede Korkut destanlarının merkezinde yer alan kahramandır ve adalet sembolü olarak betimlenir.",
+    "options": [
+      "Koca Şemsettin",
+      "Dede Korkut",
+      "Alptigin",
+      "Göçebe"
+    ],
+    "correctAnswer": "Dede Korkut",
+    "tags": [
+      "Türk Mitolojisi",
+      "Karakterler",
+      "Destanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l1i5sus6h",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Hangi eser Türk mitolojisinin en eski yazılı kayıtlarından biridir?",
+    "explanation": "Dede Korkut Hikayeleri, 16. yüzyılda yazılan en eski Türk destan koleksiyonudur ve ağızdan dilek aktarılmıştır.",
+    "options": [
+      "Yazık Destanı",
+      "Dede Korkut Hikayeleri",
+      "Ata Destanı",
+      "Şeytan Destanı"
+    ],
+    "correctAnswer": "Dede Korkut Hikayeleri",
+    "tags": [
+      "Türk Mitolojisi",
+      "Edebiyat Tarihi",
+      "Kaynaklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i1pxzi6aj",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Alptigin figürü hangi tarihsel döneme ait bir kişiliği temsil eder?",
+    "explanation": "Alptigin, Selçuklu döneminde yaşamış bir Türk lideri olarak mitologize edilmiş ve kahraman destanlarında yer alır.",
+    "options": [
+      "İslamiyet öncesi",
+      "Osmanlı Dönemi",
+      "Selçuklu Çağı",
+      "Hun İmparatorluğu"
+    ],
+    "correctAnswer": "Selçuklu Çağı",
+    "tags": [
+      "Türk Mitolojisi",
+      "Tarihi Şahsiyeler",
+      "Destanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1vtqd1go2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Türk' kimliğini simgeleyen anahtar kavram hangisidir?",
+    "explanation": "'Ata' kavramı, Türk mitolojisinde soylu ve kahraman nesilleri temsil eder ve kültürel mirasın simgesidir.",
+    "options": [
+      "Baran",
+      "Uğur",
+      "Yar",
+      "Ata"
+    ],
+    "correctAnswer": "Ata",
+    "tags": [
+      "Türk Mitolojisi",
+      "Kavramlar",
+      "Kimlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bo5f7r78l",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Yusuf' hikâyesi hangi kavramla ilişkilendirilir?",
+    "explanation": "Yusuf hikâyesi Türk mitolojisinde özellikle aşk, sadakat ve fedakarlık temalarını işleyen önemli bir destandır. Yusuf'un sevgili kardeşi ile olan bağları ve sabrı bu hikâyenin merkezindedir.",
+    "options": [
+      "A) Aşk ve fedakarlık",
+      "B) Güneş ve ay simgeleri",
+      "C) Hayvanların konuşması",
+      "D) Kralların doğumları"
+    ],
+    "correctAnswer": "A) Aşk ve fedakarlık",
+    "tags": [
+      "türk mitolojisi",
+      "yusuf hikayesi",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q6xlhzcxd",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "'Kızıl Elma' (Red Apple) efsanesi Türk mitolojisinde hangi anlamı taşır?",
+    "explanation": "Kızıl Elma efsanesi Türk mitolojisinde yaratılışın başlangıcı, insanlığın oluşumu ve ilk eşlerin hikâyesi ile ilişkilendirilir. Bu efsane dünya mitolojilerindeki benzeri 'yasak meyve' motifini taşımaktadır.",
+    "options": [
+      "A) Yaratılışın başlangıcı",
+      "B) Aşk ve yasak meyve",
+      "C) Krallık tahtı",
+      "D) Hayvanların yaratılması"
+    ],
+    "correctAnswer": "A) Yaratılışın başlangıcı",
+    "tags": [
+      "kızıl elma",
+      "türk mitolojisi",
+      "yaratılış efsanesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v5ncl4z3a",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "'Yeraltı Dünyası' (Underworld) efsanesinde Türk mitolojisindeki önemli figür hangisidir?",
+    "explanation": "Anbar, Türk mitolojisinde yeraltı dünyasını yöneten önemli bir figürdür. Bu karakter ölüler dünyasında yaşam ve yönetim konularında rol almaktadır.",
+    "options": [
+      "A) Anbar",
+      "B) İshak",
+      "C) Uygur",
+      "D) Kayra"
+    ],
+    "correctAnswer": "A) Anbar",
+    "tags": [
+      "yeraltı dünyası",
+      "anbar",
+      "türk mitolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lmpuh0li9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "'Altın Kuş' (Golden Bird) efsanesi Türk edebiyatında neyi temsil eder?",
+    "explanation": "Altın Kuş efsanesi Türk edebiyatında ve mitolojisinde umut, mutluluk ve iyi şeylerin sembolü olarak kullanılır. Bu motif birçok destanede yer alır.",
+    "options": [
+      "A) Savaşçı ruh",
+      "B) Umut ve mutluluk",
+      "C) Kralların tahtı",
+      "D) Hayvanların yaratılması"
+    ],
+    "correctAnswer": "B) Umut ve mutluluk",
+    "tags": [
+      "altın kuş",
+      "türk edebiyatı",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "708ollk71",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "'Kartal' (Eagle) figürü Türk mitolojisinde hangi anlamda değerlendirilir?",
+    "explanation": "Kartal figürü Türk mitolojisinde ve edebiyatında askerî kahramanlık, cesaret ve güçlü liderlik sembolü olarak değerlendirilir. Özellikle destanlarda sıkça geçer.",
+    "options": [
+      "A) Güneşin simgesi",
+      "B) Askerî kahramanlık",
+      "C) Krallık tahtı",
+      "D) Hayvanların yaratılması"
+    ],
+    "correctAnswer": "B) Askerî kahramanlık",
+    "tags": [
+      "kartal",
+      "türk mitolojisi",
+      "kahramanlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r7x4f288r",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EASY",
+    "question": "Türk mitolojisinde 'Kızıl Elma' efsanesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Kızıl Elma efsanesi Türk mitolojisinde gerçek bir meyve değil, metaforik bir anlatıdır ve Anadolu'nun geçmişiyle ilişkilendirilir.",
+    "options": [
+      "Eski Anadolu'da Kızıl Elma yetiştirilirdi",
+      "Bu efsane Türklerin vatanı hakkında metaforik bir anlatıdır",
+      "Kızıl Elma gerçek bir meyve türüdür",
+      "Bununla ilgili hiçbir mit yoktur"
+    ],
+    "correctAnswer": "Eski Anadolu'da Kızıl Elma yetiştirilirdi",
+    "tags": [
+      "mitoloji",
+      "efsane",
+      "metafor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "70pp1fz15",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisindeki 'Yılan Adam' (Naga) figürleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Yılan Adam veya Naga figürleri özellikle Kuzey Türk mitolojilerinde görülen önemli yaratıklardır.",
+    "options": [
+      "Sadece Kuzey Türklerinde bulunur",
+      "Anadolu Türklerinde de yaygındır",
+      "Hristiyanlıkla bağlantılıdır",
+      "Modern bir icattır"
+    ],
+    "correctAnswer": "Sadece Kuzey Türklerinde bulunur",
+    "tags": [
+      "mitoloji",
+      "figür",
+      "Türkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rctyeab5r",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisindeki 'Karakol' (Karagöl) efsanesi aşağıdakilerden hangisidir?",
+    "explanation": "Karakol efsanesi Türk mitolojisinde su kaynakları ve doğa ile ilgili metaforik anlatılar arasında yer alır.",
+    "options": [
+      "Bir su kaynağı metaforu",
+      "Gökyüzü ile ilgili bir anlatı",
+      "Altınla bağlantılıdır",
+      "Efsanevi bir hayvan türüdür"
+    ],
+    "correctAnswer": "Bir su kaynağı metaforu",
+    "tags": [
+      "mitoloji",
+      "metafor",
+      "su kaynağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rtlhazdkb",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisindeki 'Yunus Emre'nin' destanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Yunus Emre'nin destanı Türk mitolojisinde ve edebiyatında önemli bir yer tutar.",
+    "options": [
+      "Eski Yunan mitolojisinden alınmıştır",
+      "Türk edebiyatının önemli parçasıdır",
+      "Modern bir icattır",
+      "Halk efsanesi değildir"
+    ],
+    "correctAnswer": "Türk edebiyatının önemli parçasıdır",
+    "tags": [
+      "edebiyat",
+      "mitoloji",
+      "Yunus Emre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f4yzop8ra",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Türk mitolojisindeki 'Karakol' efsanesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Karakol efsanesi Kuzey Türk mitolojilerinde özel bir yere sahiptir ve Anadolu'da yaygın değildir.",
+    "options": [
+      "Sadece Kuzey Türklerinde bulunur",
+      "Anadolu Türklerinde de yaygındır",
+      "Hristiyanlıkla bağlantılıdır",
+      "Modern bir icattır"
+    ],
+    "correctAnswer": "Sadece Kuzey Türklerinde bulunur",
+    "tags": [
+      "mitoloji",
+      "efsane",
+      "Karakol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xy5hfms89",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Kutlu Han' veya 'Kayıhan' olarak bilinen tanrı figürünün temel işlevi nedir?",
+    "explanation": "Kayıhan/Kutlu Han, Türk mitolojisinde insanlığın koruyucu ve yol gösterici tanrı figürüdür. Güneş ışığı sembolü olarak da görülen bu tanrı, halkın refahı için duaları yapar.",
+    "options": [
+      "A) Yeraltı dünyasının yöneticisi",
+      "B) Güneş ve ışığın sembolü",
+      "C) İnsanların koruyucusu ve yol göstericisi",
+      "D) Hayvanların efendisi"
+    ],
+    "correctAnswer": "C) İnsanların koruyucusu ve yol göstericisi",
+    "tags": [
+      "mitoloji",
+      "tanrılar",
+      "Türk kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8pch61ytj",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk efsanelerindeki 'Yusuf Züleyha' hikayesinin temel teması nedir?",
+    "explanation": "Yusuf Züleyha, Türk mitolojisinde en bilinen aşk efsanesidir. Hikaye, iki主人公之间的 uzun ve zorlu ayrılık sürecini ve nihayetindeki buluşmayı anlatır.",
+    "options": [
+      "A) Savaş ve zafer",
+      "B) Aşk ve ayrılık",
+      "C) Bilgelik ve bilgi",
+      "D) Doğallık ve uyum"
+    ],
+    "correctAnswer": "B) Aşk ve ayrılık",
+    "tags": [
+      "efsane",
+      "aşk hikayesi",
+      "Türk kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0b315w33x",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Türk mitolojisinde 'Anatolyan' veya 'Kıbrıs' kökenli tanrı figürü 'Yarlunga' ile ilgili doğru bilgi hangisidir?",
+    "explanation": "Yarlunga, Türk mitolojisinde ateş ve güneş ile ilişkilendirilen önemli bir tanrı figürüdür. Güneş ışığını insanlara yayan bu figür, yaşamın sembolüdür.",
+    "options": [
+      "A) Denizlerin efendisi",
+      "B) Ateşin ve güneşin tanrısı",
+      "C) Yeraltı tanrısı",
+      "D) Rüzgarların yöneticisi"
+    ],
+    "correctAnswer": "B) Ateşin ve güneşin tanrısı",
+    "tags": [
+      "tanrı figürü",
+      "mitoloji",
+      "Türk kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2f4b6jwba",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk efsanelerindeki 'Araplar ve Türkler' hikayesindeki ortak inanış nedir?",
+    "explanation": "Türk mitolojisinde 'Araplar ve Türkler' hikayesi, iki halkın aynı soydan (Kutlu Han'ın torunları) geldiğine dair inanışı içerir.",
+    "options": [
+      "A) Hem Arap hem Türk halkının aynı kökten geldiğine",
+      "B) Sadece Türklerin kutsal bir yere sahip olduğuna",
+      "C) Arapların mitolojik tanrıların soyundan geldiğine",
+      "D) Türklerin diğer halklardan üstün olduğuna"
+    ],
+    "correctAnswer": "A) Hem Arap hem Türk halkının aynı kökten geldiğine",
+    "tags": [
+      "mitoloji",
+      "Türk-Arap ilişkileri",
+      "köken efsanesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k07tvva27",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Yusuf' figürünün hangi özelliği öne çıkar?",
+    "explanation": "Yusuf, Türk mitolojisindeki Yusuf Züleyha efsanesi ile bilinen aşk hikayesinin erkek主人公udur. Hikaye ayrılık ve buluşma temasını işler.",
+    "options": [
+      "A) Savaşçı ve kahraman",
+      "B) Bilge ve kutsal kişi",
+      "C) Aşk efsanesinin主人公",
+      "D) Tanrının seçilmiş peygamberi"
+    ],
+    "correctAnswer": "C) Aşk efsanesinin主人公",
+    "tags": [
+      "mitoloji",
+      "Yusuf Züleyha",
+      "Türk kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jm3wkzz5g",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde en önemli yaratılış hikayelerinden biri hangisidir?",
+    "explanation": "Oğuz Kağan Destanı Türk mitolojisinde en önemli yaratılış ve liderlik hikayelerinden biridir.",
+    "options": [
+      "Gök Tanrı'nın Oğulları",
+      "Yolcunun Yalanı",
+      "Alp Er İslam'ın Hikayesi",
+      "Oğuz Kağan Destanı"
+    ],
+    "correctAnswer": "Oğuz Kağan Destanı",
+    "tags": [
+      "yaratılış",
+      "destan",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "42fxzqosy",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk efsanelerinde 'Yaratıcı' olarak kabul edilen tanrı kimdir?",
+    "explanation": "Türk mitolojisinde Gök Tanrı en önemli yaratıcı tanrı olarak kabul edilir.",
+    "options": [
+      "Gök Tanrı",
+      "Ay Tanrı",
+      "Ateş Tanrı",
+      "Su Tanrı"
+    ],
+    "correctAnswer": "Gök Tanrı",
+    "tags": [
+      "tanrı",
+      "yaratıcı",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9jlqtkt3j",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk kahramanı 'Kılıçla Yüzen' olarak bilinir?",
+    "explanation": "Alp Er İslam Türk efsanelerinde kılıçla yüzen kahraman olarak bilinir.",
+    "options": [
+      "Bilge Kağan",
+      "Alp Er İslam",
+      "Oğuz Kağan",
+      "Göktürk"
+    ],
+    "correctAnswer": "Alp Er İslam",
+    "tags": [
+      "kahraman",
+      "kılıç",
+      "savaşçı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5yy9w5k8u",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisindeki 'Altın Boğa' hangi anlamı taşır?",
+    "explanation": "Altın Boğa Türk mitolojisinde güç ve bereketin simgesi olarak kabul edilir.",
+    "options": [
+      "Zenginlik sembolü",
+      "Gücün simgesi",
+      "Bilgelik yuvası",
+      "Savaşçı lider"
+    ],
+    "correctAnswer": "Gücün simgesi",
+    "tags": [
+      "sembole",
+      "güç",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q7lbn2x1w",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Hangi efsanede 'Gökten Yaratan' figürü ön planda yer alır?",
+    "explanation": "Yaratılış Efsanesinde Gökten Yaratan figürü Türk mitolojisinde en önemli konumdadır.",
+    "options": [
+      "Yaratılış Efsanesi",
+      "Savaşçı Kahramanlar",
+      "Denizci Hikayeleri",
+      "Ateşçi Yaratılış"
+    ],
+    "correctAnswer": "Yaratılış Efsanesi",
+    "tags": [
+      "yaratılış",
+      "gök",
+      "tanrı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qf8kf4dzp",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Yılan Adam' olarak bilinen ve insanlığı kurban edip yılanların hizmetine geçen karakter kimdir?",
+    "explanation": "Türk mitolojisinde Yılan Adam, insanları kurtarmak için kendini kurban eden efsanevi bir karakterdir ve bu figür Türk halk inanışlarında önemli bir yere sahiptir.",
+    "options": [
+      "Kılıç Ali",
+      "Kadırga",
+      "Yılan Adam",
+      "Alp Ertuğrul"
+    ],
+    "correctAnswer": "Yılan Adam",
+    "tags": [
+      "türk mitolojisi",
+      "mitoloji",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qe1j28m43",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Kayseri bölgesindeki Türk mitolojisi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Kayseri bölgesinde Kılıç Ali'nin efsaneleri Türk mitolojisinde önemli bir yere sahiptir ve bu bölge mitolojik figürlerle tanınır.",
+    "options": [
+      "Alp Ertuğrul burada yaşamıştır",
+      "Kılıç Ali efsanesi buraya aittir",
+      "Kadırga mitolojisi buradan kaynaklanır",
+      "Yılan Adam bu bölgede bulunur"
+    ],
+    "correctAnswer": "Kılıç Ali efsanesi buraya aittir",
+    "tags": [
+      "türk mitolojisi",
+      "kayseri",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2ft3k5qv",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisindeki 'Kadırga' mitolojisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Kadırga mitolojisi Türk halk inanışlarında önemli bir yere sahiptir ve Yılan Adam figürü bu mitolojik anlatılarda bulunur.",
+    "options": [
+      "Yılan Adam burada yer alır",
+      "Kayseri'de bulunur",
+      "Alp Ertuğrul bu bölgedir",
+      "Kılıç Ali buraya aittir"
+    ],
+    "correctAnswer": "Yılan Adam burada yer alır",
+    "tags": [
+      "türk mitolojisi",
+      "kadırga",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "curj6ek6f",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Alp Ertuğrul efsanesi Türk mitolojisinde hangi özelliği taşır?",
+    "explanation": "Alp Ertuğrul Türk mitolojisinde önemli bir kahraman ve lider figürü olarak kabul edilir ve bu karakter Türk halk inanışlarında yer alır.",
+    "options": [
+      "Yılan Adam ile ilişkilidir",
+      "Kadırga mitolojisi buraya aittir",
+      "Kılıç Ali bu bölgeye sahiptir",
+      "Türk kahramanı ve lider figürüdür"
+    ],
+    "correctAnswer": "Türk kahramanı ve lider figürüdür",
+    "tags": [
+      "türk mitolojisi",
+      "alpertuğrul",
+      "kahraman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ffv7ejlz2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisindeki 'Kılıç Ali' figürü hangi bölgeyle ilişkilidir?",
+    "explanation": "Kılıç Ali figürü Türk mitolojisinde Kayseri bölgesiyle ilişkilendirilir ve bu bölgedeki efsanelerin önemli bir parçasıdır.",
+    "options": [
+      "Kayseri",
+      "Kadırga",
+      "Yılan Adam",
+      "Alp Ertuğrul"
+    ],
+    "correctAnswer": "Kayseri",
+    "tags": [
+      "türk mitolojisi",
+      "kılıçali",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "euqzvwh9u",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Yaratılış' efsanesinin temelinde yer alan ve insanlık için kutsal kabul edilen figür hangisidir?",
+    "explanation": "Yusuf Züleyha Türk mitolojisinde aşk ve yaratılışın önemli bir örneğidir; Yusuf ve Züleyha'nın hikayesi Anadolu'da yaygın olarak bilinen efsanevi figürlerdir.",
+    "options": [
+      "Köroğlu",
+      "Yusuf Züleyha",
+      "Güneş Şihrî",
+      "Dede Korkut"
+    ],
+    "correctAnswer": "Yusuf Züleyha",
+    "tags": [
+      "mitoloji",
+      "efsane",
+      "Türk edebiyatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9wfz149ww",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "'Dede Korkut Hikâyeleri'nde geçen mitolojik kahramanlardan biri olan 'Alp Arslan' hangi türde bir karakterdir?",
+    "explanation": "Alp Arslan, Dede Korkut hikâyelerinde geçmekle birlikte Türk mitolojisinde geleneksel destan kahramanı olarak yer alır.",
+    "options": [
+      "Yaratıcı tanrı",
+      "Geleneksel destansı figür",
+      "Köylü miti",
+      "Şehir efsanesi"
+    ],
+    "correctAnswer": "Geleneksel destansı figür",
+    "tags": [
+      "Dede Korkut",
+      "destan",
+      "mitolojik kahraman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "10lrjd6gd",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Aydınlanma' ve 'bilgelik' kavramlarıyla ilişkilendirilen önemli bir figür hangisidir?",
+    "explanation": "Hacı Bektaş Veli, Türk mitolojisinde bilgelik ve maneviyatın sembolü olarak kabul edilir; tasavvuf geleneğiyle mitolojik öğeler barındırır.",
+    "options": [
+      "Şeyh Bediüzzaman",
+      "Hacı Bektaş Veli",
+      "Göktürk Yaratılış Anıtı",
+      "Köroğlu"
+    ],
+    "correctAnswer": "Hacı Bektaş Veli",
+    "tags": [
+      "mitoloji",
+      "bilgelik",
+      "Türk edebiyatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3pj827y28",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "'Yaratılış' efsanelerinde 'Güneş'in önemli rol oynadığı Türk mitolojisi hangi coğrafi bölgeyle ilişkilidir?",
+    "explanation": "Anadolu bölgesi, Türk mitolojisinde güneşin yaratılış ve yaşamla bağlantılı olduğu önemli mitlerin merkezidir.",
+    "options": [
+      "Köroğlu",
+      "Anadolu'daki Güneş Mitleri",
+      "Dede Korkut",
+      "Yusuf Züleyha"
+    ],
+    "correctAnswer": "Anadolu'daki Güneş Mitleri",
+    "tags": [
+      "mitoloji",
+      "güneş",
+      "yaratılış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zg7f8qr2e",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EASY",
+    "question": "'Türk Mitolojisi'nde 'Köroğlu' figürü hangi edebi türde yer alır?",
+    "explanation": "Köroğlu, Türk mitolojisinde destansı bir kahraman figürüdür; köylülerin ve halkın efsaneleri arasında yer alır.",
+    "options": [
+      "Gazel",
+      "Destan",
+      "Şiir",
+      "Öykü"
+    ],
+    "correctAnswer": "Destan",
+    "tags": [
+      "mitoloji",
+      "destan",
+      "Köroğlu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nqzy9w04n",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EASY",
+    "question": "Kaykhusraw hikayelerinde ana kahraman olarak bilinen kişi kimdir?",
+    "explanation": "Kaykhusraw, Dede Korkut Destanları'nın merkezindeki ana kahramandır; taht mücadeleleri ve savaşlarla tanınır.",
+    "options": [
+      "A) Tarkan",
+      "B) Kaykhusraw",
+      "C) Yassıkavak",
+      "D) Alparslan"
+    ],
+    "correctAnswer": "B) Kaykhusraw",
+    "tags": [
+      "EDEBİYAT_VE_DİL",
+      "Türk Mitolojisi",
+      "Dede Korkut"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bjd8x1w8d",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "\"Dede Korkut\" ismi Türk edebiyatında neyi temsil eder?",
+    "explanation": "Dede Korkut, bu destanları sözlü gelenekle aktaran efsanevi anlatıcı gruplarını ifade eden kolektif bir terimdir.",
+    "options": [
+      "A) Tek bir tarihsel bağnaz",
+      "B) Efsanevi anlatıcıların kolektif terimi",
+      "C) Mitolojik bir yaratık",
+      "D) Tanınmış bir şair"
+    ],
+    "correctAnswer": "B) Efsanevi anlatıcıların kolektif terimi",
+    "tags": [
+      "EDEBİYAT_VE_DİL",
+      "Türk Mitolojisi",
+      "Dede Korkut"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i9arot26x",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Yassıkavak hikayesindeki temel çatışma ne üzerine kuruludur?",
+    "explanation": "Kaykhusraw ile Yassıkavak arasındaki çatışma, taht ve güç paylaşımı etrafında gelişen bir mücadele anlatır.",
+    "options": [
+      "A) Aşk üçgeni",
+      "B) Taht mücadelesi ve güç paylaşımı",
+      "C) Yaratılış efsaneleri",
+      "D) Günlük yaşam"
+    ],
+    "correctAnswer": "B) Taht mücadelesi ve güç paylaşımı",
+    "tags": [
+      "EDEBİYAT_VE_DİL",
+      "Türk Mitolojisi",
+      "Destanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "min614k0c",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Türk mitolojisinde aşağıdakilerden hangisi yaygın bir motif değildir?",
+    "explanation": "Kurt temalı yaratılış efsaneleri daha çok diğer kültürlerde görülür; Türk mitolojisinde doğa ruhları ve tarihsel alegoriler yaygındır.",
+    "options": [
+      "A) Kahramanca savaşlar",
+      "B) Doğadaki ruhlara inancı",
+      "C) Kurt tabanlı yaratılış efsaneleri",
+      "D) Tarihi olayların alegorik anlatımı"
+    ],
+    "correctAnswer": "C) Kurt tabanlı yaratılış efsaneleri",
+    "tags": [
+      "EDEBİYAT_VE_DİL",
+      "Türk Mitolojisi",
+      "Motifler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xmqoqil7c",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "\"Dede\" kelimesi \"Dede Korkut\" başlığında ne anlama gelir?",
+    "explanation": "\"Dede\", geleneksel Türkçe'de yaşlı veya öğretmeni işaret eder; bu terim anlatıcıların kültürel mirası koruyucu rolünü vurgular.",
+    "options": [
+      "A) Öğretmen veya yaşlı",
+      "B) Tanrısal bir varlık",
+      "C) Yer adı",
+      "D) Şairlere verilen onurlu unvan"
+    ],
+    "correctAnswer": "A) Öğretmen veya yaşlı",
+    "tags": [
+      "EDEBİYAT_VE_DİL",
+      "Türk Mitolojisi",
+      "Terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eut7z3s0c",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Anka Kuşu' sembolü aşağıdakilerden hangisini temsil eder?",
+    "explanation": "Anka Kuşu, Türk mitolojisinde efsanevi bir kuştur. Yumurtası ateşte tutulur ve içinden yeni bir kuş doğar. Bu sembolizm ölüm sonrasını yeniden doğuş anlamına gelir.",
+    "options": [
+      "A) Ölüm ve yeniden doğuş",
+      "B) Savaş zaferi ve güç",
+      "C) Ateş ve ışık",
+      "D) Bilgelik ve akıl"
+    ],
+    "correctAnswer": "A) Ölüm ve yeniden doğuş",
+    "tags": [
+      "Türk Mitolojisi",
+      "Anka Kuşu",
+      "Sembolizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j5m668a1u",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Türk destanlarında 'Yılan Adam' (Çangal) karakteri hangi özelliği ile bilinir?",
+    "explanation": "Yılan Adam (Çangal), Türk mitolojisinde insan ve yılanın sembolik olarak birleşmiş halidir. Bu karakter, doğa ile insan arasındaki ilişkiyi temsil eder.",
+    "options": [
+      "A) İnsan ve yılanın birleşmiş hali",
+      "B) Sadece insan şekli ama sihirli güçlü",
+      "C) Yılanlar kralı",
+      "D) Ateşin koruyucusu"
+    ],
+    "correctAnswer": "A) İnsan ve yılanın birleşmiş hali",
+    "tags": [
+      "Türk Mitolojisi",
+      "Yılan Adam",
+      "Çangal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkcckcp8k",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "'Tarkan' adını taşıyan efsanevi kahraman hangi kavim veya toplulukla ilişkilendirilir?",
+    "explanation": "Tarkan, Türk mitolojisindeki efsanevi bir kahramandır. Özellikle Göktürk destanlarında yer alır ve savaşçı bir lider olarak anılır.",
+    "options": [
+      "A) Turan",
+      "B) Oğuz",
+      "C) Göktürk",
+      "D) Karluğun"
+    ],
+    "correctAnswer": "C) Göktürk",
+    "tags": [
+      "Türk Mitolojisi",
+      "Tarkan",
+      "Göktürk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8pk5ttsc7",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "'Alp Er Tonkara' hikayesindeki 'Tonkara' neyi ifade eder?",
+    "explanation": "Tonkara, Türkçe kökenli bir terim olup ateş yuvası anlamına gelir. Alp Er Tonkara hikayesinde kahraman ateşle bağlantılı sembolik bir karakterdir.",
+    "options": [
+      "A) Savaş atı",
+      "B) Ateş yuvası",
+      "C) Bilgelik merkezi",
+      "D) Kutsal ağaç"
+    ],
+    "correctAnswer": "B) Ateş yuvası",
+    "tags": [
+      "Türk Mitolojisi",
+      "Alp Er Tonkara",
+      "Ateş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hsn059bc4",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisinde 'Turan' kavmi hangi coğrafi alana atfedilir?",
+    "explanation": "Turan, Türk mitolojisinde ve destanlarında genellikle Orta Asya coğrafyasına atfedilir. Bu alan, Türk halkının efsanevi vatanı olarak görülür.",
+    "options": [
+      "A) Anadolu",
+      "B) Orta Asya",
+      "C) Balkanlar",
+      "D) Kafkas Dağları"
+    ],
+    "correctAnswer": "B) Orta Asya",
+    "tags": [
+      "Türk Mitolojisi",
+      "Turan",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2cx1axcgv",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EASY",
+    "question": "Türk mitolojisinde 'Kızıl Elma' efsanesinin ana teması nedir?",
+    "explanation": "Kızıl Elma efsanesi Türk mitolojisinde genellikle aşk, fedakarlık ve insanlığın iyilik yapması konularını işleyen temel bir hikayedir.",
+    "options": [
+      "Aşk ve fedakarlık",
+      "Güç ve zafer",
+      "Ölüm ve yeniden doğuş",
+      "Denge ve uyum"
+    ],
+    "correctAnswer": "Aşk ve fedakarlık",
+    "tags": [
+      "mitoloji",
+      "efsane",
+      "tema"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3xfvnjhvn",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Oğuzname'de geçen 'Alparslan' figürü hangi tarihi döneme aittir?",
+    "explanation": "Alparslan (Malazgirt zaferi) Selçuklu Devleti'nin en önemli sultanlarından biridir ve Türk mitolojisinde efsaneleşmiştir.",
+    "options": [
+      "İslamiyet öncesi Türkler",
+      "Selçuklu Devleti Dönemi",
+      "Osmanlı İmparatorluğu",
+      "Kara Hanedanlığı"
+    ],
+    "correctAnswer": "Selçuklu Devleti Dönemi",
+    "tags": [
+      "Oğuzname",
+      "tarih",
+      "figürler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u4q8jvaib",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Türk mitolojisindeki 'Kargayına' (Karga) sembolü neyi ifade eder?",
+    "explanation": "Türk mitolojisinde kargalar genellikle ölümün veya haberin habercisi olarak kabul edilir ve çeşitli kültürlerde bu sembolizm korunmuştur.",
+    "options": [
+      "Ölüm habercisi",
+      "Aşkın temsilcisi",
+      "Şans simgesi",
+      "Zamanın ölçüsü"
+    ],
+    "correctAnswer": "Ölüm habercisi",
+    "tags": [
+      "karga",
+      "semboller",
+      "inançlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6vjwnifug",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Hangi Türk efsanesi 'Yıldız Tanrı' ile ilişkilendirilir?",
+    "explanation": "Gökberk efsanesi Türk mitolojisinde yıldız tanrıları ve gök dünyası ile ilişkilendirilen önemli bir hikayedir.",
+    "options": [
+      "Gökberk",
+      "Karaağaç",
+      "Ayakızı",
+      "Şimşek"
+    ],
+    "correctAnswer": "Gökberk",
+    "tags": [
+      "gökberk",
+      "tanrılar",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v4j6k7pvq",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Türk mitolojisindeki 'Köy Tanrıçası' figürü hangi kültüre özeldir?",
+    "explanation": "Köy Tanrıçası figürü Anadolu Türk mitolojisinde özellikle tarım ve yerleşimle ilgili inançlarda önemli bir yere sahiptir.",
+    "options": [
+      "Anadolu Türkleri",
+      "Sibirya Türkleri",
+      "Orta Asya Türkleri",
+      "Hun İmparatorluğu"
+    ],
+    "correctAnswer": "Anadolu Türkleri",
+    "tags": [
+      "kültür",
+      "figürler",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

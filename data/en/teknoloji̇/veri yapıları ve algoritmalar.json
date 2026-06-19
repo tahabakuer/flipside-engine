@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "wippx4gag",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Hangi veri yapısı, elemanları eklemek ve silmek için en uygun yapıdır?",
+    "explanation": "Bağlı liste dinamik bellek kullanır ve elemanları kolayca eklenip silinir. Diz sabit boyutlu, yığın ve kuyruk ise LIFO/FIFO prensibiyle çalışır.",
+    "options": [
+      "Diz",
+      "Yığın (Stack)",
+      "Kuyruk (Queue)",
+      "Bağlı Liste"
+    ],
+    "correctAnswer": "Bağlı Liste",
+    "tags": [
+      "Veri Yapıları",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15peen7ok",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Karar ağacı (Decision Tree) algoritması hangi veri yapısını temel alır?",
+    "explanation": "Karar ağacı algoritması düğümler ve dallardan oluşan ağaç veri yapısını kullanır. Her düğüm bir karar noktasını temsil eder.",
+    "options": [
+      "Dikiz",
+      "Yığın",
+      "Ağaç",
+      "Graf"
+    ],
+    "correctAnswer": "Ağaç",
+    "tags": [
+      "Algoritmalar",
+      "Veri Yapıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bk8xe0m9x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi arama (search) algoritmasıdır?",
+    "explanation": "Binary Search, dizin içinde sıralı elemanlara sahipken O(log n) zaman karmaşıklığıyla arama yapar. Diğer seçenekler sıralama algoritmalarıdır.",
+    "options": [
+      "Bubble Sort",
+      "Binary Search",
+      "Insertion Sort",
+      "Selection Sort"
+    ],
+    "correctAnswer": "Binary Search",
+    "tags": [
+      "Algoritmalar",
+      "Arama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "syzz3i519",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Hash tablosu hangi veri yapısına aittir?",
+    "explanation": "Hash tablosu, anahtarları hash fonksiyonu ile dizi indeksi olarak kullanan yapıdır. Çakışma durumunda bağlı liste yöntemiyle elemanlar saklanır.",
+    "options": [
+      "Diz",
+      "Bağlı Liste",
+      "Ağaç",
+      "Graf"
+    ],
+    "correctAnswer": "Bağlı Liste",
+    "tags": [
+      "Veri Yapıları",
+      "Hashing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dpxziz76q",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Kuyruk (Queue) veri yapısında ilk gelen eleman hangi işlemle çıkarılır?",
+    "explanation": "Kuyruk FIFO (First In First Out) prensibiyle çalışır. İlk gelen eleman Dequeue işlemi ile çıkarılır, yeni eleman Enqueue ile eklenir.",
+    "options": [
+      "Push",
+      "Pop",
+      "Dequeue",
+      "Enqueue"
+    ],
+    "correctAnswer": "Dequeue",
+    "tags": [
+      "Veri Yapıları",
+      "Kuyruk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rz8h8rqdr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi verilerin doğrusal bir şekilde depolandığı veri yapısıdır?",
+    "explanation": "Dizi, bellekte ardışık olarak depolanan ve doğrusal erişim sağlayan bir veri yapısıdır.",
+    "options": [
+      "Dizi (Array)",
+      "Bağlı Liste (Linked List)",
+      "Ağaç (Tree)",
+      "Yığın (Stack)"
+    ],
+    "correctAnswer": "Dizi (Array)",
+    "tags": [
+      "Veri Yapıları",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h9t8njsta",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Bağlı listede (Linked List) bir düğüme geçiş yapmak için neye ihtiyaç vardır?",
+    "explanation": "Bağlı listede, bir düğümden diğerine geçmek için o düğümün içinde tutulan birer adres (pointer) bilgisi gerekir.",
+    "options": [
+      "Adres bilgisi",
+      "İşlemci gücü",
+      "Bellek alanı",
+      "Veri tipi"
+    ],
+    "correctAnswer": "Adres bilgisi",
+    "tags": [
+      "Bağlı Liste",
+      "Pointer Kavramı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x1nw16o0u",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi sıralama algoritması en kötü durum zaman karmaşıklığı O(n²) ile karakterizedir?",
+    "explanation": "Kabarcık sıralaması en basit ama O(n²) zaman karmaşıklığına sahip bir algoritmadır.",
+    "options": [
+      "Hızlı Sıralama (Quick Sort)",
+      "Kabarcık Sıralama (Bubble Sort)",
+      "Birleştirme Sıralama (Merge Sort)",
+      "Açık Sıralama (Heap Sort)"
+    ],
+    "correctAnswer": "Kabarcık Sıralama (Bubble Sort)",
+    "tags": [
+      "Sıralama Algoritmaları",
+      "Zaman Karmaşıklığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "41ve4vi3q",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Stack (Yığın) veri yapısında elementlere erişim nasıl yapılır?",
+    "explanation": "Stack, son giren ilk çıkar (LIFO - Last In First Out) prensibine göre sadece üstteki elementlere erişim sağlar.",
+    "options": [
+      "Herhangi bir pozisyondan",
+      "Sadece üstten (LIFO)",
+      "Alt seviyeden",
+      "Rastgele"
+    ],
+    "correctAnswer": "Sadece üstten (LIFO)",
+    "tags": [
+      "Stack",
+      "LIFO Princi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3x0v4hmnt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi O(log n) zaman karmaşıklığına sahip bir veri yapısı işlemdir?",
+    "explanation": "Binary Search, sıralı bir yapıda O(log n) ile element bulmayı sağlar.",
+    "options": [
+      "Dizi arama",
+      "Sıralı listede二分 (Binary Search)",
+      "Stack push işlemi",
+      "Linked List insert"
+    ],
+    "correctAnswer": "Sıralı listede二分 (Binary Search)",
+    "tags": [
+      "Binary Search",
+      "Zaman Karmaşıklığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y0tdktgrv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Veri Yapıları ile ilgili aşağıdaki yapıdan hangisi O(1) zaman karmaşıklığına sahiptir?",
+    "explanation": "Dizilerdeki elemanlar indeks ile erişildiğinde O(1) sabit zaman karmaşıklığına sahiptir. Bağlı listelerde ilk elemana O(n) zaman gerekir.",
+    "options": [
+      "Dizi (Array)",
+      "Bağlı Liste (Linked List)",
+      "Arama Ağacı (Search Tree)",
+      "Yığın (Stack)"
+    ],
+    "correctAnswer": "Dizi (Array)",
+    "tags": [
+      "Veri Yapıları",
+      "Zaman Karmaşıklılığı",
+      "Dizi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zqtv5c1rc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi veri yapısı FIFO (First In First Out) prensibiyle çalışır?",
+    "explanation": "Kuyruk veri yapısı FIFO prensibiyle çalışır - ilk giren eleman ilk çıkar. Yığın ise LIFO (Last In First Out) prensibiyle çalışır.",
+    "options": [
+      "Yığın (Stack)",
+      "Kuyruk (Queue)",
+      "Ağaç (Tree)",
+      "Hedef Liste (Heap)"
+    ],
+    "correctAnswer": "Kuyruk (Queue)",
+    "tags": [
+      "Veri Yapıları",
+      "FIFO",
+      "Kuyruk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gussgxg97",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Algoritma karmaşıklığı ile ilgili Big O notasyonu hangisini ifade eder?",
+    "explanation": "Big O notasyonu algoritmanın en kötü durumda ne kadar zaman/yazılım kaynakı gerektiğini ifade eder. En iyi ve ortalama durumlar Omega ve Theta ile gösterilir.",
+    "options": [
+      "En iyi durum",
+      "En kötü durum",
+      "Ortalama durum",
+      "Tüm durum"
+    ],
+    "correctAnswer": "En kötü durum",
+    "tags": [
+      "Algoritma",
+      "Big O",
+      "Karmaşıklık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l6rvskjkx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EXPERT",
+    "question": "Hangi veri yapısı elemanları derecelendirme (degree) prensibiyle organize edilir?",
+    "explanation": "Hedef liste veri yapısında her eleman belirli bir derecelendirme prensibiyle organize edilir. Kök eleman her zaman en büyük veya en küçük değeri taşır.",
+    "options": [
+      "Bağlı Liste",
+      "Arama Ağacı",
+      "Hedef Liste (Heap)",
+      "Dizi"
+    ],
+    "correctAnswer": "Hedef Liste (Heap)",
+    "tags": [
+      "Veri Yapıları",
+      "Hedef Liste",
+      "Derece"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z8a73vaxi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EXPERT",
+    "question": "Algoritma tasarımında 'Divide and Conquer' (Böl ve Fethet) stratejisi hangi veri yapısı ile sıklıkla kullanılır?",
+    "explanation": "Binary Search Tree ve benzeri ağaç yapılarında böl ve fethe stratejisi sıkça kullanılır. Soru kümesi daha küçük alt problemlere bölünerek çözülür.",
+    "options": [
+      "Kuyruk (Queue)",
+      "Yığın (Stack)",
+      "Arama Ağacı (Binary Search Tree)",
+      "Bağlı Liste"
+    ],
+    "correctAnswer": "Arama Ağacı (Binary Search Tree)",
+    "tags": [
+      "Algoritma",
+      "Divide and Conquer",
+      "Arama Ağacı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pcuc5znx0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Bir dizideki elemanları sabitlenmiş bellek adreslerine yerleştiren veri yapısı hangisidir?",
+    "explanation": "Dizi, bellekte ardışık konumlara elemanları depolayan ve sabitlenmiş bellek adreslerine sahip olan temel veri yapısıdır.",
+    "options": [
+      "Bağlı Liste",
+      "Dizi (Array)",
+      "Yığın (Stack)",
+      "Kuyruk (Queue)"
+    ],
+    "correctAnswer": "Dizi (Array)",
+    "tags": [
+      "Veri Yapıları",
+      "Dizi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ncbu0o6ra",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "İki eleman arasındaki ilişkiyi 'üst' (push) ve 'alt' (pop) işlemleri ile yöneten veri yapısı hangisidir?",
+    "explanation": "Yığın (Stack), LIFO (Last In First Out) prensibiyle çalışan ve push/stack ile eleman ekleyen, pop ile eleman çıkaran veri yapısıdır.",
+    "options": [
+      "Kuyruk",
+      "Yığın (Stack)",
+      "Arama Ağacı",
+      "Hash Tablosu"
+    ],
+    "correctAnswer": "Yığın (Stack)",
+    "tags": [
+      "Veri Yapıları",
+      "Yığın"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9uu6cfysm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "\"Binary Search\" algoritması hangi koşulu gerektirir?",
+    "explanation": "Binary Search (İkili Arama) algoritması, elemanların sıralı (sorted) bir dizide olması koşulunu gerektirir çünkü orta eleman ile karşılaştırma yapılarak arama bölge daraltılır.",
+    "options": [
+      "Elemanlar sıralı olmalı",
+      "Elemanlar rastgele olmalı",
+      "Bellek adresleri boş olmalı",
+      "Hiçbir koşul gerekmez"
+    ],
+    "correctAnswer": "Elemanlar sıralı olmalı",
+    "tags": [
+      "Algoritmalar",
+      "Arama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rs8ob6otc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "\"Merge Sort\" ve \"Quick Sort\" algoritmalarının en kötü durum zaman karmaşıklığı nedir?",
+    "explanation": "Merge Sort ve Quick Sort, en iyi durumda O(n log n) ama en kötü durumda Quick Sort O(n²), Merge Sort ise her zaman O(n log n)'dir. Ancak soru genel olarak en kötü durumu sorduğundan cevap O(n²) olarak kabul edilir.",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n²)",
+    "tags": [
+      "Algoritmalar",
+      "Sıralama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "loqyv2sl1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EXPERT",
+    "question": "\"Linked List\" veri yapısında bir elemanı silmek için hangi bilgiye ihtiyacınız olur?",
+    "explanation": "Bağlı Listede bir elemanı silmek için, o eleman'a giden bağlantıyı kesmek ve önceki elemanın yeni son adresini tutmak gerekir. Bu yüzden 'prev' (önceki elemanın referansı) bilgiye ihtiyaç vardır.",
+    "options": [
+      "Silinen elemanın adresi",
+      "Önceki elemanın referansı (prev)",
+      "Son elemanın referansı",
+      "Dizinin başlangıç adresi"
+    ],
+    "correctAnswer": "Önceki elemanın referansı (prev)",
+    "tags": [
+      "Veri Yapıları",
+      "Bağlı Liste"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9xsbc64d",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Bir dizide elemanları arama yaparken, dizinin sıralı olması ve en hızlı arama algoritması hangisidir?",
+    "explanation": "Binary Search, dizinin sıralı olması durumunda en hızlı aramadır. O(n) yerine O(log n) zaman karmaşıklığına sahiptir.",
+    "options": [
+      "Linear Search",
+      "Binary Search",
+      "Hash Search",
+      "Depth First Search"
+    ],
+    "correctAnswer": "Binary Search",
+    "tags": [
+      "Veri Yapıları",
+      "Arama Algoritmaları",
+      "Diziler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "819qr6ptw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki veri yapılarından hangisi dinamik bellek yönetimi gerektirir ve elemanları sabit bir konumda tutmaz?",
+    "explanation": "Linked List (Birleşik Liste), her elemanı bir pointer ile birbirine bağlar ve belleği dinamik olarak yönetir.",
+    "options": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Queue"
+    ],
+    "correctAnswer": "Linked List",
+    "tags": [
+      "Veri Yapıları",
+      "Dinamik Bellek",
+      "Bağlı Listeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h0bshuqrg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Bubble Sort algoritmasının zaman karmaşıklığı en kötü durumda nedir?",
+    "explanation": "Bubble Sort, her iterasyonda elemanları değiştirir ve en kötü durumda O(n²) zaman karmaşıklığına sahiptir.",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n²)",
+    "tags": [
+      "Algoritmalar",
+      "Sıralama",
+      "Zaman Karmaşıklığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "98urxz4i2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki veri yapılarından hangisi LIFO (Last In First Out) prensibini uygular?",
+    "explanation": "Stack (Yığın), en son eklenen eleman ilk çıkar (LIFO) prensibiyle çalışır.",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Array"
+    ],
+    "correctAnswer": "Stack",
+    "tags": [
+      "Veri Yapıları",
+      "LIFO",
+      "Yığın"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y3jghmgkh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Quick Sort algoritmasının ortalama zaman karmaşıklığı nedir?",
+    "explanation": "Quick Sort, ortalama durumda O(n log n) zaman karmaşıklığına sahiptir ve pratikte etkili bir sıralama algoritmasıdır.",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "tags": [
+      "Algoritmalar",
+      "Sıralama",
+      "Quick Sort"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d78poojxx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Hangi veri yapısı en hızlı şekilde eleman eklemeye (push) ve silmeye (pop) izin verir?",
+    "explanation": "Yığın (Stack) veri yapısı LIFO (Last In First Out) prensibine göre çalışır. Elemanları en üstten eklemek ve silmek için O(1) zaman karmaşıklığına sahiptir.",
+    "options": [
+      "Dizi (Array)",
+      "Kuyruk (Queue)",
+      "Yığın (Stack)",
+      "Bağlı Liste (Linked List)"
+    ],
+    "correctAnswer": "Yığın (Stack)",
+    "tags": [
+      "Data Structures",
+      "Operations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zvugj0zb2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Binary Search algoritması hangi koşullarda kullanılabilir?",
+    "explanation": "Binary Search algoritması O(log n) zaman karmaşıklığına sahiptir ancak verinin mutlaka sıralanmış olması gerekir.",
+    "options": [
+      "Veri sıralı değilse",
+      "Dizi sıralı olmalıdır",
+      "Veri çok büyükse",
+      "Bağlı listelerde"
+    ],
+    "correctAnswer": "Dizi sıralı olmalıdır",
+    "tags": [
+      "Algorithms",
+      "Search"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lh3ppn8vs",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi veri yapısı O(n) zaman karmaşıklığı ile elemanlara erişim sağlar?",
+    "explanation": "Dizi (Array) veri yapısı doğrudan index ile O(1) zaman karmaşıklığı ile erişim sağlar, ancak eleman eklemek için bazen O(n) gerekir.",
+    "options": [
+      "Dizi (Array)",
+      "Yığın (Stack)",
+      "Kuyruk (Queue)",
+      "Ağaç (Tree)"
+    ],
+    "correctAnswer": "Dizi (Array)",
+    "tags": [
+      "Data Structures",
+      "Access Time"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aq6rc39i3",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Merge Sort algoritmasının zaman karmaşıklığı nedir?",
+    "explanation": "Merge Sort her zaman O(n log n) zaman karmaşıklığı gösterir, hem en iyi hem ortalama durumlar için aynıdır.",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(log n)",
+      "O(n²)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "tags": [
+      "Algorithms",
+      "Sorting",
+      "Time Complexity"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ozxvc7yg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Hangi veri yapısı elemanları birbirine bağlar ve her bir düğüm referans içerir?",
+    "explanation": "Bağlı Liste (Linked List) veri yapısında her düğüm (node) kendi verisini ve bir sonraki düğümün referansını içerir.",
+    "options": [
+      "Dizi (Array)",
+      "Yığın (Stack)",
+      "Bağlı Liste (Linked List)",
+      "Kuyruk (Queue)"
+    ],
+    "correctAnswer": "Bağlı Liste (Linked List)",
+    "tags": [
+      "Data Structures",
+      "Nodes",
+      "References"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wb04jgw37",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir dizinin (array) temel özelliği değildir?",
+    "explanation": "Diziler (arrays) genellikle sabit bellek alanı gerektirir ve dinamik büyüklükte olamaz. Bu özellik diziye ait değildir, liste (list) veri yapısı ise dinamik büyüklükte olabilir.",
+    "options": [
+      "Sabit bellek alanı gerektirir",
+      "İndeksleme ile elemanlara erişim sağlar",
+      "Dinamik büyüklükte olabilir",
+      "Elemanlar sıralıdır"
+    ],
+    "correctAnswer": "Dinamik büyüklükte olabilir",
+    "tags": [
+      "Veri Yapıları",
+      "Array",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ci0t65kxh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Binary Search (Bineri Arama) algoritmasının zaman karmaşıklığı nedir?",
+    "explanation": "Binary Search algoritması her adımda arama aralığını yarıya indirir. Bu nedenle zaman karmaşıklığı O(log n) şeklindedir.",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correctAnswer": "O(log n)",
+    "tags": [
+      "Arama Algoritmaları",
+      "Zaman Karmaşıklığı",
+      "Binary Search"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vhynf7922",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi veri yapısı 'LIFO' (Last In First Out) ilkesini uygular?",
+    "explanation": "Stack (çapa) veri yapısı LIFO ilkesini uygular. Son eklenen eleman ilk çıkar. Queue ise FIFO (First In First Out) prensibini kullanır.",
+    "options": [
+      "Queue (Kuyruk)",
+      "Stack (Çapa)",
+      "Linked List (Bağlı Liste)",
+      "Hash Table (Hash Tablosu)"
+    ],
+    "correctAnswer": "Stack (Çapa)",
+    "tags": [
+      "Veri Yapıları",
+      "Stack",
+      "LIFO İlkesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nrf2mkutn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Bubble Sort (Kabarcık Sıralama) algoritmasının en kötü durum zaman karmaşıklığı nedir?",
+    "explanation": "Bubble Sort algoritması her elemanı diğerleriyle karşılaştırır ve yer değiştirir. En kötü durumda O(n^2) zaman karmaşıklığına sahiptir.",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n^2)",
+      "O(n log n)"
+    ],
+    "correctAnswer": "O(n^2)",
+    "tags": [
+      "Sıralama Algoritmaları",
+      "Bubble Sort",
+      "Zaman Karmaşıklığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4pv65ybry",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi bir 'Tree' (Ağaç) veri yapısının kuralıdır?",
+    "explanation": "Binary Tree (ikili ağaç) veri yapısında her düğüm en fazla 2 çocuk (çığın) olabilir. Bu, binary tree'nin temel kuralıdır.",
+    "options": [
+      "Her düğüm en fazla 2 çığın olabilir",
+      "Her düğüm en fazla 4 çığın olabilir",
+      "Düzgün ağaçlarda her düğüm aynı derinlikte olmalıdır",
+      "Ağaçta döngü (cycle) bulunabilir"
+    ],
+    "correctAnswer": "Her düğüm en fazla 2 çığın olabilir",
+    "tags": [
+      "Tree Veri Yapısı",
+      "Binary Tree",
+      "Veri Yapıları Kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jdyns1se1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir arama algoritmasıdır?",
+    "explanation": "Binary Search (Biner Araştırma), sıralı bir dizi üzerinde veri aramak için kullanılan verimli bir arama algoritmasıdır. Bubble Sort, Insertion Sort ve Selection Sort ise sıralama algoritmalarıdır.",
+    "options": [
+      "Binary Search",
+      "Bubble Sort",
+      "Insertion Sort",
+      "Selection Sort"
+    ],
+    "correctAnswer": "Binary Search",
+    "tags": [
+      "Veri Yapıları",
+      "Algoritma",
+      "Arama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "py5y4i0aw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Veri yapısı olarak 'stack' (yığın) hangi prensiple çalışır?",
+    "explanation": "Stack (Yığın) LIFO (Last In First Out - Son Girilen İlk Çıkar) prensibiyle çalışır. FIFO Queue (Kuyruk) ile karıştırılmamalıdır.",
+    "options": [
+      "LIFO",
+      "FIFO",
+      "Random Access",
+      "None of these"
+    ],
+    "correctAnswer": "LIFO",
+    "tags": [
+      "Veri Yapıları",
+      "Stack",
+      "Algoritma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z7q4fge06",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Big O notasyonu ile O(n²) zaman karmaşıklığına sahip aşağıdaki algoritmalar hangisidir?",
+    "explanation": "Bubble Sort'un zaman karmaşıklığı en kötü durumda O(n²)'dir. Binary Search O(log n), Insertion Sort O(n²), Quick Sort ise ortalama O(n log n) ile değişir.",
+    "options": [
+      "Bubble Sort",
+      "Binary Search",
+      "Insertion Sort",
+      "Quick Sort"
+    ],
+    "correctAnswer": "Bubble Sort",
+    "tags": [
+      "Algoritma",
+      "Big O",
+      "Zaman Karmaşıklığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e4hhaq5tt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bir grafik veri yapısıdır?",
+    "explanation": "Graph (Grafik), düğümler ve kenarlar üzerinden oluşturulan çok yönlü bir veri yapısıdır. Array, Linked List ve Tree ise farklı veri yapılarıdır.",
+    "options": [
+      "Array",
+      "Linked List",
+      "Graph",
+      "Tree"
+    ],
+    "correctAnswer": "Graph",
+    "tags": [
+      "Veri Yapıları",
+      "Grafik",
+      "Bağlantı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qmbm8gq7w",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir 'queue' (kuyruk) algoritmasıdır?",
+    "explanation": "FIFO (First In First Out - İlk Girilen İlk Çıkar) kuyruk algoritması, queue veri yapısının temel çalışma prensibidir. Diğer seçenekler farklı algoritmaları temsil eder.",
+    "options": [
+      "FIFO Queue Implementation",
+      "Binary Search",
+      "Quick Sort",
+      "Insertion Sort"
+    ],
+    "correctAnswer": "FIFO Queue Implementation",
+    "tags": [
+      "Veri Yapıları",
+      "Queue",
+      "Algoritma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ya2dbvlct",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Veri yapıları arasında hangisi O(1) zaman karmaşıklığı ile eleman eklemeye ve silmeye izin verir?",
+    "explanation": "Dinamik listelerde eleman eklemeye ve silmeye ilk eleman için O(1) karmaşıklığı vardır. Ancak başa ekleme/silme genellikle O(1), ortadan ise daha yüksek olabilir.",
+    "options": [
+      "Dizi",
+      "Stack (Yığın)",
+      "Queue (Kuyruk)",
+      "Liste"
+    ],
+    "correctAnswer": "Liste",
+    "tags": [
+      "Veri Yapıları",
+      "Zaman Karmaşıklılığı",
+      "O(1)"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jjc3dqlej",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Binary Search (İki Arama) algoritmasının çalışabilmesi için veri yapısının hangi özelliğini taşıması gerekir?",
+    "explanation": "Binary Search algoritması her adımda aralığı ikiye bölerek çalışır ve bu işlem verinin sıralı (ascending veya descending) olması durumunda mümkündür.",
+    "options": [
+      "Sıralı olmalı",
+      "Rastgele olmalı",
+      "Boş olmalı",
+      "Tek elemanlı olmalı"
+    ],
+    "correctAnswer": "Sıralı olmalı",
+    "tags": [
+      "Algoritma",
+      "Binary Search",
+      "Veri Yapıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "doljgpfem",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Heap (Yığın) veri yapısının temel özelliği aşağıdakilerden hangisidir?",
+    "explanation": "Heap veri yapısı binary tree üzerinde çalışır ve min-heap'te en küçük eleman, max-heap'te en büyük elemanı kök olarak tutar. Bu sayede O(1) ile bu elemanlara erişim yapılabilir.",
+    "options": [
+      "Sıralı bir dizi",
+      "Tamamen sıralı olmayan ama min/max elemanı hızlıca bulunan yapı",
+      "Sadece eklemeye izin veren yapı",
+      "Her iki elemanı O(1) ile alabilen yapı"
+    ],
+    "correctAnswer": "Tamamen sıralı olmayan ama min/max elemanı hızlıca bulunan yapı",
+    "tags": [
+      "Heap",
+      "Veri Yapıları",
+      "Zaman Karmaşıklılığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vgi4gb93x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Quick Sort algoritmasının ortalama zaman karmaşıklığı nedir?",
+    "explanation": "Quick Sort'un ortalama ve en iyi durum zaman karmaşıklığı O(n log n) şeklindedir. En kötü durumda (verinin zaten sıralı olması gibi) O(n²) olabilir.",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "tags": [
+      "Quick Sort",
+      "Algoritma",
+      "Zaman Karmaşıklılığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oaf6kxfjl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EXPERT",
+    "question": "Graph (Graf) veri yapısında DFS (Depth-First Search) algoritması hangi yapı kullanılarak gerçekleştirilir?",
+    "explanation": "DFS algoritması bir Stack kullanarak derinlikten arama yapar. Her zaman en son ziyaret edilen elemanları Stack'e ekler ve önce onları işler (LIFO prensibi).",
+    "options": [
+      "Queue",
+      "Stack",
+      "Dizi",
+      "Heap"
+    ],
+    "correctAnswer": "Stack",
+    "tags": [
+      "Graph",
+      "DFS",
+      "Veri Yapıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gte2fwgv9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Hangi veri yapısı LIFO (Last In First Out) prensibini uygular?",
+    "explanation": "Stack veri yapısı LIFO prensibini uygular; son eklenen öğe ilk çıkarılır. Queue ise FIFO (First In First Out) prensibiyle çalışır.",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "correctAnswer": "Stack",
+    "tags": [
+      "Veri Yapıları",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ub7vn79q8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EASY",
+    "question": "Binary Search algoritması hangi koşullarda çalışabilir?",
+    "explanation": "Binary Search algoritması, aranan elemanı bulmak için dizinin sıralı olmasını gerektirir. Her adımda arama alanını yarıya bölerek çalışır.",
+    "options": [
+      "Herhangi bir dizide",
+      "Sadece string dizilerinde",
+      "Sadece sıralı (sorted) dizilerde",
+      "Sadece tek elemanlı dizilerde"
+    ],
+    "correctAnswer": "Sadece sıralı (sorted) dizilerde",
+    "tags": [
+      "Algoritmalar",
+      "Arama Algoritmaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "anrhxxtf8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Merge Sort'un zaman karmaşıklığı (Time Complexity) nedir?",
+    "explanation": "Merge Sort, her adımda diziyi ikiye bölüp (log n) ve tekrar birleştirip (n), toplamda O(n log n) zaman karmaşıklığına sahiptir.",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(n²)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "tags": [
+      "Algoritmalar",
+      "Sort Algoritmaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8nsgogusw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Breadth-First Search (BFS) algoritması için kullanılan veri yapısıdır?",
+    "explanation": "BFS algoritması, grafin düğümlerini enine tarar ve Queue (kuyruk) veri yapısı kullanılarak FIFO mantığıyla çalışır.",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Hash Map"
+    ],
+    "correctAnswer": "Queue",
+    "tags": [
+      "Algoritmalar",
+      "Graf Algoritmaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wg95s7o9c",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veri Yapıları ve Algoritmalar",
+    "difficulty": "EXPERT",
+    "question": "Hipergraph'ta bir 'Hyperedge' neyi temsil eder?",
+    "explanation": "Hypergraph'ta Hyperedge, geleneksel graflardaki kenarlardan farklı olarak birden fazla düğümü (vertex) aynı anda bağlayan yapıdır. Bu, ilişkisel verilerin modellemesinde kullanılır.",
+    "options": [
+      "Sadece iki düğümü bağlayan kenar",
+      "Birden fazla düğümü bağlayan kenar",
+      "Tek bir düğüme sahip yapı",
+      "Grafın boş olması durumu"
+    ],
+    "correctAnswer": "Birden fazla düğümü bağlayan kenar",
+    "tags": [
+      "Veri Yapıları",
+      "İleri Gelişmiş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

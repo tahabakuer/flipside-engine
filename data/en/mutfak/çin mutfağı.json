@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "rcm6260g7",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which province is Mapo Tofu associated with?",
+    "explanation": "Mapo Tofu is a classic dish from Sichuan cuisine, known for its spicy and numbing flavors, originating in the Mapo Temple of Chengdu.",
+    "options": [
+      "Sichuan Province",
+      "Hunan Province",
+      "Shandong Province",
+      "Guangdong Province"
+    ],
+    "correctAnswer": "Sichuan Province",
+    "tags": [
+      "Chinese Cuisine",
+      "Mapo Tofu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hmfnatvn4",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What causes the characteristic numbing sensation in Sichuan dishes?",
+    "explanation": "The numbing effect is caused by the unique compound in Sichuan peppercorns, which stimulates nerve endings differently than chili peppers.",
+    "options": [
+      "Chili peppers",
+      "Ginger",
+      "Sichuan peppercorns",
+      "Garlic"
+    ],
+    "correctAnswer": "Sichuan peppercorns",
+    "tags": [
+      "Chinese Cuisine",
+      "Sichuan Peppercorns"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zwx3y47am",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Peking Duck originates from which region of China?",
+    "explanation": "Peking Duck is a famous dish from Beijing, located in Northern China, known for its crispy skin and tender meat.",
+    "options": [
+      "Southern China",
+      "Eastern China",
+      "Northern China",
+      "Western China"
+    ],
+    "correctAnswer": "Northern China",
+    "tags": [
+      "Chinese Cuisine",
+      "Peking Duck"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hv0spz571",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Dim sum is a staple of which regional cuisine?",
+    "explanation": "Dim sum is traditionally associated with Cantonese (Guangdong) cuisine, featuring small portions of various dishes served in steamer baskets.",
+    "options": [
+      "Sichuan Cuisine",
+      "Cantonese Cuisine",
+      "Hunan Cuisine",
+      "Shaanxi Cuisine"
+    ],
+    "correctAnswer": "Cantonese Cuisine",
+    "tags": [
+      "Chinese Cuisine",
+      "Dim Sum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9hcqiois7",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which province is Sour Soup Fish from?",
+    "explanation": "Sour Soup Fish is a signature dish of Yunnan cuisine, featuring fish in a tangy and slightly sour broth.",
+    "options": [
+      "Yunnan Province",
+      "Sichuan Province",
+      "Fujian Province",
+      "Zhejiang Province"
+    ],
+    "correctAnswer": "Yunnan Province",
+    "tags": [
+      "Chinese Cuisine",
+      "Sour Soup Fish"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nfl27yf49",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Which Chinese dish is known for its sweet and sour flavor profile with vinegar, sugar, and ketchup?",
+    "explanation": "Sweet and Sour Pork is a classic Chinese-American dish featuring vinegar, sugar, ketchup, and pineapple in a sweet and sour sauce.",
+    "options": [
+      "Kung Pao Chicken",
+      "Sweet and Sour Pork",
+      "Mapo Tofu",
+      "Dan Dan Noodles"
+    ],
+    "correctAnswer": "Sweet and Sour Pork",
+    "tags": [
+      "Chinese Cuisine",
+      "Flavor Profiles",
+      "Popular Dishes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5jq0393go",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What is the primary cooking method used for making Dim Sum dumplings?",
+    "explanation": "Dim Sum dumplings are traditionally steamed to maintain their delicate texture and authentic Chinese flavor.",
+    "options": [
+      "Grilling",
+      "Steaming",
+      "Frying",
+      "Baking"
+    ],
+    "correctAnswer": "Steaming",
+    "tags": [
+      "Chinese Cuisine",
+      "Cooking Methods",
+      "Dim Sum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9l34kt0lp",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which ingredient gives Mapo Tofu its characteristic spicy numbing sensation?",
+    "explanation": "Sichuan peppercorns provide the distinctive numbing sensation along with chili oil in this spicy Sichuan dish.",
+    "options": [
+      "Chili Oil",
+      "Sichuan Peppercorn",
+      "Ginger",
+      "Garlic"
+    ],
+    "correctAnswer": "Sichuan Peppercorn",
+    "tags": [
+      "Chinese Cuisine",
+      "Spices",
+      "Regional Dishes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "am4miu461",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What distinguishes Peking Duck from other roasted duck dishes?",
+    "explanation": "Peking Duck is famous for its incredibly crispy skin, traditionally served with thin pancakes and scallions.",
+    "options": [
+      "It is served with crispy skin",
+      "It uses soy sauce marinade",
+      "It is slow-cooked for days",
+      "It contains honey glaze"
+    ],
+    "correctAnswer": "It is served with crispy skin",
+    "tags": [
+      "Chinese Cuisine",
+      "Roasted Dishes",
+      "Regional Specialties"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i1e9x0pdz",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Which noodle dish originates from Sichuan Province and features minced pork in a spicy broth?",
+    "explanation": "Dan Dan Noodles are a signature Sichuan dish featuring wheat noodles with minced pork, chili oil, and sesame paste.",
+    "options": [
+      "Ramen",
+      "Dan Dan Noodles",
+      "Lo Mein",
+      "Pad See Ew"
+    ],
+    "correctAnswer": "Dan Dan Noodles",
+    "tags": [
+      "Chinese Cuisine",
+      "Sichuan Food",
+      "Noodle Dishes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r26w6dze1",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında 'Wok' veya 'Tavu' olarak bilinen pişirme yöntemi hangi teknikte kullanılır?",
+    "explanation": "Wok pişirme, yüksek ateşte malzemeyi sürekli çevirerek hızlıca pişirmenin olduğu Çin mutfağının temel tekniklerinden biridir. Bu yöntem 'stir-frying' veya 'soteleme' olarak da bilinir.",
+    "options": [
+      "Yavaş ateşte haşlama",
+      "Hızlı yüksek ateşte tavada çevirerek pişirme",
+      "Fırında kavrulma",
+      "Su banyosunda pişirme"
+    ],
+    "correctAnswer": "Hızlı yüksek ateşte tavada çevirerek pişirme",
+    "tags": [
+      "Çin Mutfağı",
+      "Pişirme Teknikleri",
+      "Wok"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vxnp8iae2",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında 'Peking Örnek' veya 'Pekene Kuzu' olarak bilinen ünlü yemeğin ana maddesi nedir?",
+    "explanation": "Peking Örnek, Çin mutfağının en ikonik yemeklerinden biridir. Kuzunun yüzeyi özel sosla hazırlanır ve bu yumuşak parçalar ekmekle birlikte tüketilir.",
+    "options": [
+      "Tavuk göğsü",
+      "Kuzunun yüzeyi özel sosla kavrulmuş parçaları",
+      "Balık fileto",
+      "Dana eti"
+    ],
+    "correctAnswer": "Kuzunun yüzeyi özel sosla kavrulmuş parçaları",
+    "tags": [
+      "Çin Mutfağı",
+      "Ünlü Yemekler",
+      "Peking Örnek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yg4qaxle2",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında 'Dim Sum' olarak bil gelen yiyecekler hangi bölgeyle ilişkilidir?",
+    "explanation": "Dim Sum, özellikle Guangzhou (Kanburun) bölgesinden gelen ve küçük buharda pişmiş yiyeceklerden oluşan Geleneksel bir Çin mutfağıdır. Genellikle kahvaltı veya öğle yemeğinde tüketilir.",
+    "options": [
+      "Güney Çin",
+      "Kuzey Çin",
+      "Batı Çin",
+      "Doğu Çin"
+    ],
+    "correctAnswer": "Güney Çin",
+    "tags": [
+      "Çin Mutfağı",
+      "Dim Sum",
+      "Bölgesel Mutfağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5s77s4vb1",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında 'Kung Pao' yemeği hangi ana maddeden yapılır?",
+    "explanation": "Kung Pao, Çin mutfağında genellikle tavuk göğsünden yapılır. Bu yemek soya sosu, sarımsak ve biberlerle hazırlanır.",
+    "options": [
+      "Tavuk",
+      "Dana eti",
+      "Balık",
+      "Yumurta"
+    ],
+    "correctAnswer": "Tavuk",
+    "tags": [
+      "Çin Mutfağı",
+      "Kung Pao",
+      "Ünlü Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tjwy6171n",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında 'Noodle' veya 'Makarna' olarak bilinen yiyeceğin en yaygın hali neyin üzerine yapılır?",
+    "explanation": "Çin mutfağında makarna genellikle soya sosu ve su ile hazırlanır. Bu yemek Çin'in en yaygın yiyeceklerinden biridir.",
+    "options": [
+      "Süt",
+      "Soyada soslu su",
+      "Balık eti",
+      "Kuzu eti"
+    ],
+    "correctAnswer": "Soyada soslu su",
+    "tags": [
+      "Çin Mutfağı",
+      "Makarna",
+      "Yiyecekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6qn8vzmi1",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Which of the following is a staple seasoning in Chinese cooking?",
+    "explanation": "Soy sauce is a fundamental seasoning in Chinese cuisine, used for flavoring marinades and sauces due to its umami-rich profile.",
+    "options": [
+      "Soy sauce",
+      "Ketchup",
+      "Mustard",
+      "Mayonnaise"
+    ],
+    "correctAnswer": "Soy sauce",
+    "tags": [
+      "ingredients",
+      "basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y6kw7fg5g",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the famous dish from Peking (Beijing)?",
+    "explanation": "Peking Duck is a signature dish from Beijing, traditionally roasted with crispy skin and served with pancakes or hoisin sauce.",
+    "options": [
+      "Peking Duck",
+      "Kung Pao Chicken",
+      "Mapo Tofu",
+      "Dim Sum"
+    ],
+    "correctAnswer": "Peking Duck",
+    "tags": [
+      "regional dishes",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h4ybqwqb3",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Which cooking method is most commonly used in Chinese stir-fry dishes?",
+    "explanation": "Stir-frying involves quick cooking over high heat, preserving texture and flavor in most Chinese stir-fried dishes.",
+    "options": [
+      "Steaming",
+      "Boiling",
+      "Stir-frying",
+      "Baking"
+    ],
+    "correctAnswer": "Stir-frying",
+    "tags": [
+      "techniques",
+      "basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3rr75ermx",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Dim Sum is traditionally associated with which region of China?",
+    "explanation": "Dim Sum originated in Cantonese (Guangdong) cuisine, featuring small portions of dishes served in bamboo steamers.",
+    "options": [
+      "Guangdong",
+      "Sichuan",
+      "Hunan",
+      "Yunnan"
+    ],
+    "correctAnswer": "Guangdong",
+    "tags": [
+      "regional specialties",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37gm9k4hi",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "What is the primary spice used to give Kung Pao Chicken its characteristic flavor?",
+    "explanation": "Sichuan peppercorns provide a unique numbing sensation and citrusy notes, key to Kung Pao Chicken's Sichuan-style flavor profile.",
+    "options": [
+      "Sichuan peppercorns",
+      "Black pepper",
+      "Cumin",
+      "Paprika"
+    ],
+    "correctAnswer": "Sichuan peppercorns",
+    "tags": [
+      "spices",
+      "advanced"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "etxzoe9p7",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Çin mutfağında en yaygın kullanılan baharat hangisidir?",
+    "explanation": "Sarımsak ve soğan Çin mutfağının temel bileşenleridir. Neredeyse her yemekte kullanılır ve Çin usulü yemeklerin lezzetini oluşturur.",
+    "options": [
+      "Karabiber",
+      "Sarımsak ve soğan",
+      "Tarçın",
+      "Zencefil"
+    ],
+    "correctAnswer": "Sarımsak ve soğan",
+    "tags": [
+      "Çin Mutfağı",
+      "Baharatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d995ctsa5",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangisi Çin'in Kuzey bölgesine özgü bir yemektir?",
+    "explanation": "Peking Köftesi (Peking Duck) Çin'in kuzey bölgesine, özellikle Pekin şehrine özgü geleneksel bir yemektir.",
+    "options": [
+      "Dim Sum",
+      "Peking Köfte",
+      "Kung Pao Tavuk",
+      "Yangzhou Haşlanmış Yumurta"
+    ],
+    "correctAnswer": "Peking Köfte",
+    "tags": [
+      "Çin Mutfağı",
+      "Bölgesel Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "caubsgkkp",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Çin mutfağında hangi yiyecek en çok pilav ile servis edilir?",
+    "explanation": "Çin mutfağında tatlıların çoğu pilav veya pirinç ile servis edilir. Çin'in ana maddesi pirincidir.",
+    "options": [
+      "Tatlılar",
+      "Ana Yemekler",
+      "Yiyecek",
+      "Et yemekleri"
+    ],
+    "correctAnswer": "Tatlılar",
+    "tags": [
+      "Çin Mutfağı",
+      "Pilav"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jm8kmp3ta",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Dim Sum hangi tür bir yemeğe örnektir?",
+    "explanation": "Dim Sum Çin mutfağının klasik bir atıştırmalık türüdür. Genellikle çay zamanında servis edilir ve küçük porsiyonlu yiyeceklerden oluşur.",
+    "options": [
+      "Ana Yemek",
+      "Çay zamanı atıştırmalığı",
+      "Tatlı",
+      "Et yemeği"
+    ],
+    "correctAnswer": "Çay zamanı atıştırmalığı",
+    "tags": [
+      "Çin Mutfağı",
+      "Dim Sum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "61t6rv1jn",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında hangi pişirme tekniği en yaygın olarak kullanılır?",
+    "explanation": "Çin mutfağında kızartma en yaygın pişirme tekniğidir. Özellikle Dim Sum ve birçok Çin usulü yemeği kızartılarak hazırlanır.",
+    "options": [
+      "Kızartma",
+      "Haşlama",
+      "Griylenme",
+      "Soteleme"
+    ],
+    "correctAnswer": "Kızartma",
+    "tags": [
+      "Çin Mutfağı",
+      "Pişirme Teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z9q3ctwvs",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Hangisi Çin mutfağının en ünlü yemeklerinden biridir ve Pekin'de özel olarak hazırlanır?",
+    "explanation": "Pekin Kazı, Çin mutfağının en meşhur yemeklerinden biridir. Özellikle Pekin bölgesinde özel olarak hazırlanır ve ince kabuklu, tuzlanmış kazdan yapılır.",
+    "options": [
+      "Pekin Kazı",
+      "Sizilian Makarnası",
+      "Türk Döneri",
+      "İtalyan Pizza"
+    ],
+    "correctAnswer": "Pekin Kazı",
+    "tags": [
+      "Çin Mutfağı",
+      "Popüler Yemekler",
+      "Pekin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zmzk6nz46",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin'in Sichuan bölgesi hangi yiyecek ile tanınır?",
+    "explanation": "Sichuan mutfağı, özellikle taze kırmızı biber (mala pepper) ve fener yemişinden (dried chili) gelen güçlü acılı lezzetleriyle ünlüdür.",
+    "options": [
+      "Harmanlı Yemekler",
+      "Acılı ve Baharatlı Yemekler",
+      "Tatlılar",
+      "Hamur İşleri"
+    ],
+    "correctAnswer": "Acılı ve Baharatlı Yemekler",
+    "tags": [
+      "Çin Mutfağı",
+      "Bölgesel Mutfaklar",
+      "Sichuan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vewt96558",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında 'Hot Pot' neyi ifade eder?",
+    "explanation": "Hot Pot, tencerenin içine sıcak su veya brokoli eklenerek et, sebze ve diğer malzemelerin pişirildiği sosyal bir Çin yemeğidir.",
+    "options": [
+      "Bir tencerede pişen çeşitli malzemelerden oluşan yemek",
+      "Soğuk çorba",
+      "Yer altı yemeği",
+      "Tatlı sos"
+    ],
+    "correctAnswer": "Bir tencerede pişen çeşitli malzemelerden oluşan yemek",
+    "tags": [
+      "Çin Mutfağı",
+      "Hot Pot",
+      "Sosyalleşme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mt8nbw3bx",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Çin mutfağında kullanılan ana nişasta kaynağı nedir?",
+    "explanation": "Çin mutfağında ana nişasta kaynağı pirinc ve makarnadır. Pirinci Çin'in temel gıdası olarak kullanılır, özellikle Güney bölgelerde.",
+    "options": [
+      "Büyükçekmece pirinci",
+      "Rice (pirinc) ve makarna",
+      "Mısır",
+      "Buğday"
+    ],
+    "correctAnswer": "Rice (pirinc) ve makarna",
+    "tags": [
+      "Çin Mutfağı",
+      "Nişasta Kaynakları",
+      "Gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m5yxe351y",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Çin mutfağının 'Tea' (çay) kültürü hangi yolla ilişkilidir?",
+    "explanation": "Çin mutfağında çay kültürü, yemeklerle birlikte servis edilmesi ve özel ritüellerle içilmesi ile ilişkilidir. Özellikle 'tea ceremony' önemli bir gelenektir.",
+    "options": [
+      "Çay ile birlikte servis edilen yemekler",
+      "Çay içimi sırasında yapılan özel ritüeller",
+      "Sadece çay tüketimi",
+      "Çayın sadece tatlılarla eşleştirilmesi"
+    ],
+    "correctAnswer": "Çay ile birlikte servis edilen yemekler",
+    "tags": [
+      "Çin Mutfağı",
+      "Çay Kültürü",
+      "Ritüeller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ldd66jgb1",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Çin mutfağında en bilinen ve her yörede farklı şekilde hazırlanan ana yemek hangisidir?",
+    "explanation": "Tofu, Çin mutfağında en yaygın kullanılan bitkisel protein kaynağıdır ve her Çin eyaletinde farklı soslarla hazırlanır.",
+    "options": [
+      "Tofu",
+      "Rizoto",
+      "Pasta",
+      "Fırın"
+    ],
+    "correctAnswer": "Tofu",
+    "tags": [
+      "Çin Mutfağı",
+      "Yemekler",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "syurws0n7",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağının temel baharatlarından biri olan ve '5 Baharat' karışımına giren ana baharat hangisidir?",
+    "explanation": "5 Baharat karışımı genellikle tarçın, biber, fındık, zerdeçal ve kimyon gibi baharatları içerir.",
+    "options": [
+      "Karabiber",
+      "Kimyon",
+      "Tarçın",
+      "Zencefil"
+    ],
+    "correctAnswer": "Tarçın",
+    "tags": [
+      "Çin Mutfağı",
+      "Baharatlar",
+      "Mutfak Malzemeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "woa9y65s8",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi Çin şehri 'Rizot' olarak bilinen ve dünya çapında ünlü bir yemek bölgesidir?",
+    "explanation": "Pekin, Çin'in başkenti olarak dünya çapında ünlüdür ve Pekin mutfağı (Peking Duck) ile bilinir.",
+    "options": [
+      "Pekin",
+      "Şanghay",
+      "Sincan",
+      "Tianjin"
+    ],
+    "correctAnswer": "Pekin",
+    "tags": [
+      "Çin Mutfağı",
+      "Şehirler",
+      "Ünlü Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s8v9dcmhm",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında kullanılan ve 'Dim Sum' veya 'Buharda Pişen Yemekler' olarak bilinen geleneksel yemek tarzı hangisidir?",
+    "explanation": "Dim Sum, Çin mutfağında buharla pişen küçük porsiyonlu yemeklerin traditional bir örneğidir.",
+    "options": [
+      "Kızartma",
+      "Fırın",
+      "Buharda Pişirme",
+      "Gril"
+    ],
+    "correctAnswer": "Buharda Pişirme",
+    "tags": [
+      "Çin Mutfağı",
+      "Pişirme Teknikleri",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "40gj08y0k",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Çin mutfağında 'Peking Duck' veya 'Koyu Renkli Sürü' olarak bilinen ve özel soslarla servis edilen meşhur yemek hangisidir?",
+    "explanation": "Peking Duck, Çin mutfağının en meşhur yemeklerinden biridir ve özel soslarla servis edilir.",
+    "options": [
+      "Duck",
+      "Chicken",
+      "Goose",
+      "Turkey"
+    ],
+    "correctAnswer": "Duck",
+    "tags": [
+      "Çin Mutfağı",
+      "Köfteler",
+      "Ünlü Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gladljbvi",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Hangi yiyecek Çin mutfağının en ünlü yemeklerinden biri olarak kabul edilir?",
+    "explanation": "Dim Sum, Hong Kong ve Kanton bölgesinde geleneksel olarak sunulan küçük buharlı yiyeceklerin bir koleksiyonudur. Çin mutfağının en önemli temsillerinden biridir.",
+    "options": [
+      "Dim Sum",
+      "Pasta",
+      "Pizza",
+      "Hamburger"
+    ],
+    "correctAnswer": "Dim Sum",
+    "tags": [
+      "Çin Mutfağı",
+      "Yemekler",
+      "Uluslararası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tr087ge1h",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağındaki 'Long' (Ejderha) ile ilgili hangi yiyecek popülerdir?",
+    "explanation": "Ejderha yumurtası (snake eggs), Çin mutfağında özel bir yere sahiptir. Genellikle buharda pişirilir ve farklı soslarla servis edilir.",
+    "options": [
+      "Ejderha Yumurtası",
+      "Yılan Eti",
+      "Tortilla",
+      "Baklava"
+    ],
+    "correctAnswer": "Ejderha Yumurtası",
+    "tags": [
+      "Çin Mutfağı",
+      "Özel Yemekler",
+      "Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bktbuzcx1",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi bölge Kanton mutfağını temsil eder?",
+    "explanation": "Kanton (Guangdong) mutfağı, Çin mutfağının en önemli okullarından biri olarak kabul edilir. Dim Sum, buharda pişirme teknikleriyle bilinir.",
+    "options": [
+      "Shandong",
+      "Kanton",
+      "Sichuan",
+      "Hunan"
+    ],
+    "correctAnswer": "Kanton",
+    "tags": [
+      "Çin Mutfağı",
+      "Bölgeler",
+      "Mutfak Okulları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "usn70afzz",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Çin mutfağında hangi baharat en sık kullanılır?",
+    "explanation": "Sichuan ve Kanton mutfağında biber (özellikle kırmızı biber) en sık kullanılan baharatlardan biridir. Isı ve renk sağlar.",
+    "options": [
+      "Karabiber",
+      "Biber",
+      "Soğan",
+      "Zencefil"
+    ],
+    "correctAnswer": "Biber",
+    "tags": [
+      "Çin Mutfağı",
+      "Baharatlar",
+      "İçecekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iq0dtx4rd",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Hangi yiyecek Çin New Year's gecelerinde özel olarak servis edilir?",
+    "explanation": "Çin Yeni Yılı'nın özel yemekleri arasında Ejderha yumurtası, uzun ömür ve zenginlik simgesi olarak servis edilir.",
+    "options": [
+      "Yumurtalı Et",
+      "Ejderha Yumurtası",
+      "Tortilla",
+      "Baklava"
+    ],
+    "correctAnswer": "Ejderha Yumurtası",
+    "tags": [
+      "Çin Mutfağı",
+      "Bayramlar",
+      "Özel Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8kj4r393r",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi Çin mutfağı elementi, 'Long' (Ejderha) ile temsil edilir?",
+    "explanation": "Zongzi, Çin'in geleneksel pirinç yemeğidir ve genellikle festivallerde 'Ejderha' veya 'Kaplan' şekillerinde pişirilir.",
+    "options": [
+      "Nohut yemeği",
+      "Yüzüzlü pirinç yemeği (Zongzi)",
+      "Ton balığı yemeği",
+      "Soy soslu sebzeler"
+    ],
+    "correctAnswer": "Yüzüzlü pirinç yemeği (Zongzi)",
+    "tags": [
+      "ÇİN MUTFAĞI",
+      "GELENEK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2xvxce2c",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Çin mutfağında en önemli baharat hangisidir?",
+    "explanation": "Sarımsak, Çin mutfağının temel baharatlarından biridir ve hemen her çin yemeğinde kullanılır.",
+    "options": [
+      "Biber",
+      "Sarımsak",
+      "Karabiber",
+      "Kırmızı biber"
+    ],
+    "correctAnswer": "Sarımsak",
+    "tags": [
+      "ÇİN MUTFAĞI",
+      "BAHARAT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qyp52cafm",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EASY",
+    "question": "Peking Duck (Pekin Suyu) hangi bölgeden gelir?",
+    "explanation": "Peking Duck, Çin'in başkenti Beijing'den gelen geleneksel bir kurus yemeğidir.",
+    "options": [
+      "Guangdong",
+      "Sichuan",
+      "Beijing",
+      "Shanghai"
+    ],
+    "correctAnswer": "Beijing",
+    "tags": [
+      "ÇİN MUTFAĞI",
+      "KURUS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7q2cmmdxh",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi yiyecek 'Mandarin' (Tangerine) ile ilişkilidir?",
+    "explanation": "Mandarin veya Portakal sosu, Çin mutfağında sıklıkla tavuk yemeğinde kullanılır.",
+    "options": [
+      "Ton balığı",
+      "Portakal soslu tavuk",
+      "Nohut yemeği",
+      "Kırmızı et"
+    ],
+    "correctAnswer": "Portakal soslu tavuk",
+    "tags": [
+      "ÇİN MUTFAĞI",
+      "SOS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sy2yht1h2",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Çin mutfağının 'Kırmızı' (Hong Shao) tekniği ne anlama gelir?",
+    "explanation": "Kırmızı (Hong Shao), Çin mutfağında soy sosu ile yavaş pişirilen kırmızı et yemeği tekniğidir.",
+    "options": [
+      "Tütsülenmiş et",
+      "Soy soslu yavaş pişirme",
+      "Acılı yemeği",
+      "Gri renkli yemek"
+    ],
+    "correctAnswer": "Soy soslu yavaş pişirme",
+    "tags": [
+      "ÇİN MUTFAĞI",
+      "TEKNİK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m7x09axuq",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağına ait en meşhur yemeklerden biri hangisidir?",
+    "explanation": "Kung Pao Tavuk, Çin mutfağının en ikonik yemeklerinden biridir. Tiramisu İtalyan, Lasagna İtalyan ve Croissant Fransız mutfağına aittir.",
+    "options": [
+      "Kung Pao Tavuk",
+      "Tiramisu",
+      "Lasagna",
+      "Croissant"
+    ],
+    "correctAnswer": "Kung Pao Tavuk",
+    "tags": [
+      "Çin Mutfağı",
+      "Meşhur Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ejli83k0t",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Çin mutfağında farklı bölgelere göre kaç ana coğrafi bölge tanınır?",
+    "explanation": "Çin mutfağı 4 ana coğrafi bölgeye ayrılır: Kuzey, Güney, Doğu ve Batı. Her bölgenin kendine özgü lezzetleri ve yemek teknikleri vardır.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "Çin Mutfağı",
+      "Bölgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "26dtyvgaj",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında en yaygın kullanılan pişirme tekniği hangisidir?",
+    "explanation": "Wok, Çin mutfağının en yaygın kullanılan pişirme tekniğidir. Yüksek ateşte hızlı ve karıştırarak yapılan bu teknik, sebzelerin vitaminlerini korumaya yardımcı olur.",
+    "options": [
+      "Fırın",
+      "Haşlama",
+      "Wok",
+      "Zeytinyağlı"
+    ],
+    "correctAnswer": "Wok",
+    "tags": [
+      "Çin Mutfağı",
+      "Pişirme Teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z9kgh8dx4",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında 'Çin Duvarı' (Great Wall) ile ilişkili hangi yemek tanınır?",
+    "explanation": "Long Noodle (uzun noodle), Çin kültüründe uzun ömür ve mutluluk sembolüdür. Ravioli İtalyan, Pasta genel bir yemek kategorisi, Sous Vide pişirme tekniğidir.",
+    "options": [
+      "Long Noodle",
+      "Ravioli",
+      "Pasta",
+      "Sous Vide"
+    ],
+    "correctAnswer": "Long Noodle",
+    "tags": [
+      "Çin Mutfağı",
+      "Özel Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iismrkm8g",
+    "category": "MUTFAK",
+    "subcategory": "Çin Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Çin mutfağında 'Soy Sosası' hangi lezzet profili için kullanılır?",
+    "explanation": "Soy Sosası, Çin mutfağında tuzluluk ve fermente lezzet profili için kullanılır. Bu sos, et ve sebzelerin lezzetini artırır ve Çin yemeklerinin temel malzemesidir.",
+    "options": [
+      "Tuzlu",
+      "Acılı",
+      "Tatlı-Sohu",
+      "Fermente"
+    ],
+    "correctAnswer": "Fermente",
+    "tags": [
+      "Çin Mutfağı",
+      "Malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

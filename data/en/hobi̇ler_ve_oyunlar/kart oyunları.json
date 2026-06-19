@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "p88gll9h5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Poker oyununda 'Royal Flush' neyi ifade eder?",
+    "explanation": "Royal Flush, pokerde en yüksek ve en nadir elde olan 10-J-Q-K-A aynı renkteki kartlardan oluşur.",
+    "options": [
+      "En düşük el",
+      "En yüksek el",
+      "Orta seviye el",
+      "Geçerli olmayan el"
+    ],
+    "correctAnswer": "En yüksek el",
+    "tags": [
+      "poker",
+      "kart oyunları",
+      "el sıralaması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n17apzggw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Blackjack (21) oyununda oyuncunun hedefi nedir?",
+    "explanation": "Blackjack'de oyuncu mümkün olan en yüksek skoru hedefler, ancak 21'i geçerse 'bust' olur.",
+    "options": [
+      "Daha düşük skor",
+      "Tam olarak 21 veya daha üstü",
+      "En az 17",
+      "Aynı renk kartlar"
+    ],
+    "correctAnswer": "Tam olarak 21 veya daha üstü",
+    "tags": [
+      "blackjack",
+      "kart oyunları",
+      "skor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ost8z3qoo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Bridge oyununda kaç kişi birlikte oynamalıdır?",
+    "explanation": "Bridge, 4 kişilik bir takımda oynanır ve her iki oyuncu da aynı takımın üyesidir.",
+    "options": [
+      "4 kişi (2 takım)",
+      "6 kişi",
+      "8 kişi",
+      "2 kişi"
+    ],
+    "correctAnswer": "4 kişi (2 takım)",
+    "tags": [
+      "bridge",
+      "takım oyunu",
+      "kart sayısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ddm0wr15",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Uno oyununda 'Wild' kartları ne işe yarar?",
+    "explanation": "Uno'da Wild kartları (Wild Draw 4 veya Reverse) ile oyuncu istediği rengi seçebilir.",
+    "options": [
+      "Hep aynı skor verir",
+      "Herhangi bir renk seçebilirsin",
+      "Oyunu sonlandırır",
+      "Hiçbir işe yaramaz"
+    ],
+    "correctAnswer": "Herhangi bir renk seçebilirsin",
+    "tags": [
+      "uno",
+      "renk değişimi",
+      "aile oyunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y1gir6jfl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Rummy oyununda kartların eşleşmesi için ne gereklidir?",
+    "explanation": "Rummy'de kartlar aynı değerde (örneğin 5-5) veya bitişik değerlerde (örneğin 5-6) eşleşir.",
+    "options": [
+      "Aynı renk",
+      "Aynı değer",
+      "Aynı veya bitişik değer",
+      "Hiçbiri"
+    ],
+    "correctAnswer": "Aynı veya bitişik değer",
+    "tags": [
+      "rummy",
+      "eşleştirme",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hv9ivx9je",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Standart bir kart oyununda 52 kartlık pakette kaç adet kırmızı ve kaç adet siyah kart bulunur?",
+    "explanation": "Standart bir kart oyununda 52 kart vardır. 26 kırmızı (kalp, karo) ve 26 siyah (süsük, truh) renkten oluşur.",
+    "options": [
+      "A) 24 kırmızı, 28 siyah",
+      "B) 26 kırmızı, 26 siyah",
+      "C) 25 kırmızı, 27 siyah",
+      "D) 27 kırmızı, 25 siyah"
+    ],
+    "correctAnswer": "B) 26 kırmızı, 26 siyah",
+    "tags": [
+      "Kart Yapısı",
+      "Temel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5y6snfiea",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Poker oyununda 'Royal Flush' hangi el türüdür?",
+    "explanation": "Royal Flush, pokerde en yüksek puanı alan eldir. 10, J, Q, K, A'dan oluşan ardışık kartları içerir.",
+    "options": [
+      "A) En zayıf el",
+      "B) Ortanca güçte el",
+      "C) En güçlü el",
+      "D) Özel bir el değildir"
+    ],
+    "correctAnswer": "C) En güçlü el",
+    "tags": [
+      "Poker",
+      "El Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "idm2o10v2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Blackjack oyununda 'Dealer' (Bay) hangi durumda 'Standart' (Dur) kararı verir?",
+    "explanation": "Blackjack'te dealer genellikle 17 veya üzerinde kartta 'Stand' (Dur) kararı verir, 16 ve altıda tekrar kart çeker.",
+    "options": [
+      "A) 17 ve altı toplamında",
+      "B) 18 ve üstü toplamında",
+      "C) 20 veya daha fazla toplamında",
+      "D) Her zaman durur"
+    ],
+    "correctAnswer": "B) 18 ve üstü toplamında",
+    "tags": [
+      "Blackjack",
+      "Dealer Kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vg02z18ic",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Bridge oyununda 'Slam' neyi ifade eder?",
+    "explanation": "Bridge'de 'Slam', özellikle 3NT, 4S veya 5C gibi yüksek seviyelerdeki özel el türlerini ifade eder.",
+    "options": [
+      "A) En düşük el",
+      "B) Orta seviye el",
+      "C) 12 veya daha fazla puanlı özel el",
+      "D) Basit bir açılış"
+    ],
+    "correctAnswer": "C) 12 veya daha fazla puanlı özel el",
+    "tags": [
+      "Bridge",
+      "El Değerleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gnrwjimxs",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Rummy oyununda amaç neyi elde etmektir?",
+    "explanation": "Rummy'de amaç, ardışık ve aynı renkli kartları içeren setler oluşturup elinizi en düşük puana düşürmektir.",
+    "options": [
+      "A) En düşük puanlı kartları",
+      "B) Ardışık ve aynı renkli kart gruplarını (Set)",
+      "C) Sadece kırmızı kartları",
+      "D) Tek başına en yüksek kartı"
+    ],
+    "correctAnswer": "B) Ardışık ve aynı renkli kart gruplarını (Set)",
+    "tags": [
+      "Rummy",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4rys7kund",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Poker'de en yüksek el nedir?",
+    "explanation": "Standart Poker kurallarında en yüksek el Kral Şövalyesi (Royal Flush) olarak kabul edilir ve 10, J, Q, K, A aynı takma ile oluşur.",
+    "options": [
+      "Kral Şövalyesi",
+      "Düz Flush",
+      "Dört Kuruşlu",
+      "Tam Ev"
+    ],
+    "correctAnswer": "Kral Şövalyesi",
+    "tags": [
+      "Poker",
+      "El Sıralaması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "us0n53k52",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Bridge'de 3NT teklifinin anlamı nedir?",
+    "explanation": "Bridge'de 3NT teklifi, trump taksimsiz bir el olduğunu ve 9 trick kazanmayı hedeflediğini gösterir.",
+    "options": [
+      "Trump taksimi Spat",
+      "Trump taksimi Kalp",
+      "Trump taksimsiz oyun",
+      "Trump taksimi Kupa"
+    ],
+    "correctAnswer": "Trump taksimsiz oyun",
+    "tags": [
+      "Bridge",
+      "Teklif Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jgoqwij53",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Uno'da Wild Kart kullanıldığında ne olur?",
+    "explanation": "Uno'da Wild Kart ile oyuncu istediği rengi seçebilir ve oyunun akışını değiştirebilir.",
+    "options": [
+      "Oyun biter",
+      "Renk seçilir",
+      "Turn devrilmez",
+      "Rakip 4 kart çeker"
+    ],
+    "correctAnswer": "Renk seçilir",
+    "tags": [
+      "Uno",
+      "Kart Kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kz8ki9f3w",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hearts oyununda As-Spat kaç puan değerindedir?",
+    "explanation": "Standart Hearts kurallarında As-Spat 13 puan değerindedir, her Kalp kartı ise 1 puandır.",
+    "options": [
+      "0 puan",
+      "1 puan",
+      "13 puan",
+      "26 puan"
+    ],
+    "correctAnswer": "13 puan",
+    "tags": [
+      "Hearts",
+      "Skorlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ckru33tdq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Bridge'de 'squeeze play' neyi ifade eder?",
+    "explanation": "Bridge'de squeeze play, rakiplerin sınırlı seçenekleri nedeniyle trick kaybetmesini sağlayan ileri düzey bir savunma teknikidir.",
+    "options": [
+      "Trump taksimi belirleme",
+      "Rakibi zorlayıcı hamle",
+      "El açılışı stratejisi",
+      "Tramp kaybını önleme"
+    ],
+    "correctAnswer": "Rakibi zorlayıcı hamle",
+    "tags": [
+      "Bridge",
+      "Avans Teknikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7g2pr7jd8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Poker oyununda flush, straight ve royal flush sıralaması nasıldır?",
+    "explanation": "Poker'da en yüksek el royal flush'tur, bunun ardından flush gelir ve straight flush ikisinin arasıdır. Doğru sıralama: Royal flush > Flush > Straight.",
+    "options": [
+      "Royal flush > Flush > Straight",
+      "Flush > Royal flush > Straight",
+      "Straight > Flush > Royal flush",
+      "Flush > Straight > Royal flush"
+    ],
+    "correctAnswer": "Royal flush > Flush > Straight",
+    "tags": [
+      "poker",
+      "kart oyunları",
+      "oyun kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebgaeg3cq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Blackjack oyununda oyuncu 'double down' yapabileceği hangi durumlarda olur?",
+    "explanation": "Blackjack'te double down sadece oyuncunun ilk iki kartına uygulanan bir harekettir ve satörün bu hareketi izin vermesi gerekir.",
+    "options": [
+      "Her zaman ve her turda",
+      "Sadece ilk iki kartta ve satörün izin vermesi durumunda",
+      "Sadece 21 nokta toplamaya çalışırken",
+      "Satörün istediği tüm durumlarda"
+    ],
+    "correctAnswer": "Sadece ilk iki kartta ve satörün izin vermesi durumunda",
+    "tags": [
+      "blackjack",
+      "kart oyunları",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ff0eitpbl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Bridge oyununda her takım kaç oyuncudan oluşur?",
+    "explanation": "Bridge bir takım oyunudur ve her takım 2+2 şeklinde 4 oyuncudan oluşur.",
+    "options": [
+      "3 oyuncu",
+      "4 oyuncu",
+      "5 oyuncu",
+      "6 oyuncu"
+    ],
+    "correctAnswer": "4 oyuncu",
+    "tags": [
+      "bridge",
+      "kart oyunları",
+      "takım oyunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y01ufbjh7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Spades kart oyununda 'bid' ne zaman yapılır?",
+    "explanation": "Spades'te her el başında oyuncular kaç spade atacağını belirtmek için bid yaparlar.",
+    "options": [
+      "Sadece son turda",
+      "Her el başında",
+      "Tek kartla oynarken",
+      "Satörün istediği tüm durumlarda"
+    ],
+    "correctAnswer": "Her el başında",
+    "tags": [
+      "spades",
+      "kart oyunları",
+      "oyun kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "20y1qobsi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Solitaire/Solitario oyununda temel amaç nedir?",
+    "explanation": "Solitaire'da amaç tüm 52 kartı belirli kurallara göre tek bir kulede sıralamaktır.",
+    "options": [
+      "En az puan toplamak",
+      "Tüm kartları tek bir kulede sıralamak",
+      "Karşı oyuncu atmak",
+      "Satörün izniyle oynamak"
+    ],
+    "correctAnswer": "Tüm kartları tek bir kulede sıralamak",
+    "tags": [
+      "solitaire",
+      "kart oyunları",
+      "tek oyuncu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "31jtv3a21",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Hangi kart oyunu, 2 oyuncuyla oynanan ve amaç olarak eldeki kartları rakipten daha çabuk boşaltmak hedefi olan bir oyundur?",
+    "explanation": "Uno, 2-4 oyuncuyla oynanan ve eldeki kartları rakipten önce boşaltmak amaçlı basit bir kart oyunudur.",
+    "options": [
+      "Uno",
+      "Poker",
+      "Bridge",
+      "Spades"
+    ],
+    "correctAnswer": "Uno",
+    "tags": [
+      "kart oyunları",
+      "basit",
+      "uno"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f3t6uu18g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi Poker varyasyonu, 5 el ile oynanır ve oyuncular aynı renkte ardışık kartlardan oluşan 'straight flush' hedefler?",
+    "explanation": "Five Card Draw, 5 el üzerinden oynanan ve straight flush gibi kombinasyonlar hedefleyen klasik bir poker oyunudur.",
+    "options": [
+      "Texas Hold'em",
+      "Five Card Draw",
+      "Omaha",
+      "Stud"
+    ],
+    "correctAnswer": "Five Card Draw",
+    "tags": [
+      "poker",
+      "kart oyunları",
+      "beşli çekme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "har8wm30u",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Bridge oyununda, kaç oyuncu eşleşerek oynar ve temel amaç nedir?",
+    "explanation": "Bridge, 2 çift (4 oyuncu) eşleşerek oynanır ve amaç eldeki kartları stratejik şekilde kullanmaktır.",
+    "options": [
+      "4 oyuncu - Kartları boşaltmak",
+      "2 oyuncu - En iyi el yapmak",
+      "3 oyuncu - Rakibi yenmek",
+      "8 oyuncu - Takım oyunu"
+    ],
+    "correctAnswer": "4 oyuncu - Kartları boşaltmak",
+    "tags": [
+      "bridge",
+      "kart oyunları",
+      "takım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w3m8znnue",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi Spades varyasyonu, takım oyunu olarak oynanır ve en yüksek 'trump' kartını almak ana hedeftir?",
+    "explanation": "Spades Partnership, iki takım halinde oynanır ve en yüksek trump kartlarını stratejik şekilde kullanmak hedeflidir.",
+    "options": [
+      "Solo",
+      "Partnership",
+      "Team Spades",
+      "Free Play"
+    ],
+    "correctAnswer": "Partnership",
+    "tags": [
+      "spades",
+      "kart oyunları",
+      "takım oyunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "os1qdaeun",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi kart oyunu, 108 el üzerinde oynanır ve Bridge'den sonra gelen popüler bir oyun olarak bilinir?",
+    "explanation": "Hearts, 108 el üzerinde oynanan ve Bridge'den sonra gelen popüler bir takım kart oyunudur.",
+    "options": [
+      "Hearts",
+      "Spades",
+      "Bridge",
+      "Uno"
+    ],
+    "correctAnswer": "Hearts",
+    "tags": [
+      "hearts",
+      "kart oyunları",
+      "108 el"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fogfj2ph6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Poker oyununda 'Full House' (Toplu Ev) nedir?",
+    "explanation": "Full House, pokerde 3 adet aynı değerdeki kart ve 2 adet farklı değerdeki kartın birleşimiyle oluşur. Örneğin: 3 adet K + 2 adet A.",
+    "options": [
+      "3 eşit kart + 2 farklı kart",
+      "5 aynı renkte kart",
+      "4 aynı değerde kart + 1 kart",
+      "Tüm kartlar farklı"
+    ],
+    "correctAnswer": "3 eşit kart + 2 farklı kart",
+    "tags": [
+      "Poker",
+      "Kart Oyunları",
+      "Terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gadbigdug",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Bridj (Bridge) oyununda kaç kişi oynar?",
+    "explanation": "Bridj, 4 kişilik bir oyun olup her iki takımın da 2'er kişiden oluşur. Takımlar arasında puanlanma yapılır.",
+    "options": [
+      "2 kişi",
+      "4 kişi",
+      "6 kişi",
+      "8 kişi"
+    ],
+    "correctAnswer": "4 kişi",
+    "tags": [
+      "Bridj",
+      "Kart Oyunları",
+      "Oyun Kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "owfbnzwgt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Spades (Sparadeler) kart oyunu hangi renkten oluşur?",
+    "explanation": "Spades, standart 52 kartlık deck'ten oynanır. Hem kırmızı (kızıl) hem de siyah (spadeler) renkler içerir.",
+    "options": [
+      "Sadece kırmızı",
+      "Sadece siyah",
+      "Kırmızı ve siyah",
+      "Yeşil"
+    ],
+    "correctAnswer": "Kırmızı ve siyah",
+    "tags": [
+      "Spades",
+      "Kart Oyunları",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u6py3u2mt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Solitaire (Klondike) oyunu kaç kişiyle oynanır?",
+    "explanation": "Solitaire, tek kişilik bir kart oyunudur. Standart 52 kartlık deck ile oynanır.",
+    "options": [
+      "1 kişi",
+      "2 kişi",
+      "3 kişi",
+      "4 kişi"
+    ],
+    "correctAnswer": "1 kişi",
+    "tags": [
+      "Solitaire",
+      "Kart Oyunları",
+      "Tek Kişilik Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yuvuevi9u",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Uno kart oyunu hangi özelliği kullanır?",
+    "explanation": "Uno, özel 108 kartlık deck kullanır ve hem renk (kırmızı, mavi, yeşil, sarı) hem de sayı (0-9) kombinasyonlarıyla oynanır.",
+    "options": [
+      "Renk ve sayı kombinasyonu",
+      "Sadece siyah renkler",
+      "Sadece kırmızı renkler",
+      "52 kartlık standart deck"
+    ],
+    "correctAnswer": "Renk ve sayı kombinasyonu",
+    "tags": [
+      "Uno",
+      "Kart Oyunları",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dztac3nkb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi kart oyunu, iki oyuncu arasında oynanır ve temel amaç eldeki kartları karşı tarafın eline bırakmaktır?",
+    "explanation": "Güven oyunu, genellikle iki oyuncu arasında oynanan ve eldeki kartları karşı tarafa bırakmayı amaçlayan popüler bir Türk kart oyunudur.",
+    "options": [
+      "Uno",
+      "Güven",
+      "Eşleştirme",
+      "Bridge"
+    ],
+    "correctAnswer": "Güven",
+    "tags": [
+      "kart oyunları",
+      "hobiler",
+      "iki oyuncu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wss6uznm1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Uno oyununda hangi sayıdaki kartlar 'wild' (yaban) kart olarak sayılır?",
+    "explanation": "Uno oyununda wild kart olarak sadece kırmızı renkler sayılır ve herhangi bir renk üzerine oynanabilir.",
+    "options": [
+      "1, 2 ve 3",
+      "4, 5 ve 6",
+      "Her renkdeki aynı sayılar",
+      "Sadece kırmızı renkler"
+    ],
+    "correctAnswer": "Sadece kırmızı renkler",
+    "tags": [
+      "Uno",
+      "kart oyunları",
+      "renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8itd0uahk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Bridge oyununda kaç oyuncu veya takım yer alır?",
+    "explanation": "Bridge, 4 oyuncu arasında oynanan ve 2 takımdan oluşan stratejik bir kart oyunudur.",
+    "options": [
+      "2 oyuncu",
+      "4 oyuncu (2 takım)",
+      "6 oyuncu",
+      "8 oyuncu"
+    ],
+    "correctAnswer": "4 oyuncu (2 takım)",
+    "tags": [
+      "Bridge",
+      "kart oyunları",
+      "takım oyunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "puxynvhzi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Hangi kart oyunu, 52 kartlık bir deste kullanır ve yüksek kart kazanır?",
+    "explanation": "Blackjack, 52 kartlık bir deste kullanır ve temel amacı dealer'a en yakın ama 21'den düşük toplam oluşturmaktır.",
+    "options": [
+      "Texas Hold'em",
+      "Blackjack",
+      "Güven",
+      "Poker"
+    ],
+    "correctAnswer": "Blackjack",
+    "tags": [
+      "Blackjack",
+      "kart oyunları",
+      "52 kart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u8k2g42m4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Uno oyununda 'Draw Two' kartı ne yapar?",
+    "explanation": "Uno'daki Draw Two kartı, rakip oyuncuya ceza olarak 2 kart çekmesini sağlar ve turu devam ettirir.",
+    "options": [
+      "Oyuncu 2 kart çeker",
+      "Oyuncuya ceza verir",
+      "Rengi değiştirir",
+      "Oyunu bitirir"
+    ],
+    "correctAnswer": "Oyuncu 2 kart çeker",
+    "tags": [
+      "Uno",
+      "kart oyunları",
+      "ceza kartı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rvqbas37o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Poker oyununda 'Royal Flush' kombinasyonu hangi kartlardan oluşur?",
+    "explanation": "Royal Flush, Poker'daki en yüksek kombinasyondur ve 10, Jack, Queen, King, Ace kartları aynı renkte olduğunda oluşur.",
+    "options": [
+      "10, J, Q, K, A aynı renkte",
+      "A, 2, 3, 4, 5 farklı renkler",
+      "K, Q, J, 10, 9 aynı renkte",
+      "J, Q, K, A, 2 aynı renkte"
+    ],
+    "correctAnswer": "10, J, Q, K, A aynı renkte",
+    "tags": [
+      "poker",
+      "kombinasyonlar",
+      "royal flush"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lrq4rkoth",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Uno oyununda 'Wild' kartı ne işlev görür?",
+    "explanation": "Uno'daki Wild kartları, oyuncuya herhangi bir renk seçme hakkı tanır ve bu sayede oyunun akışını değiştirebilir.",
+    "options": [
+      "Herhangi bir renk seçme hakkı verir",
+      "Oyunu biter",
+      "Bonus puan sağlar",
+      "Hata yapma hakkı verir"
+    ],
+    "correctAnswer": "Herhangi bir renk seçme hakkı verir",
+    "tags": [
+      "uno",
+      "wild kart",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4c7q70zme",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Bridge oyununda 'Slam' ne anlama gelir?",
+    "explanation": "Bridge'de Slam, 12 veya daha fazla trüm (trümp) kazandığınızda elde edilen yüksek skordur ve Small Slam (12) ile Grand Slam (13+) olarak ikiye ayrılır.",
+    "options": [
+      "12 veya daha fazla trüm kazanma",
+      "4 trüm kazanma",
+      "Oyunu biter",
+      "Hata yapma hakkı"
+    ],
+    "correctAnswer": "12 veya daha fazla trüm kazanma",
+    "tags": [
+      "bridge",
+      "slam",
+      "trüm sayısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ntcnnu8b",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hearts oyununda 'Kazanma' ne anlama gelir?",
+    "explanation": "Hearts oyununda 'Kazanma' (Winning) genellikle oyuncunun belirli bir trüm sayısına ulaştığında veya oyunun sona erdiği anlamına gelir ve en yüksek puanı alan oyuncu kazanır.",
+    "options": [
+      "En az 4 trüm kazanma",
+      "Oyunu biter",
+      "Hata yapma hakkı",
+      "Bonus puan"
+    ],
+    "correctAnswer": "Oyunu biter",
+    "tags": [
+      "hearts",
+      "kurallar",
+      "trüm sayısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "48kc1g30f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Spades oyununda 'Bid' nedir?",
+    "explanation": "Spades'te Bid, oyuncuların oyun başlamadan önce kazanmak istedikleri minimum trüm sayısını beyan etmeleridir ve bu sayıdan fazla trüm kazananlar puan alır.",
+    "options": [
+      "Oyuncunun kaçırmak istediği trüm sayısı",
+      "Oyuncunun kazanmak istediği minimum trüm sayısı",
+      "Hata yapma hakkı",
+      "Bonus puan"
+    ],
+    "correctAnswer": "Oyuncunun kazanmak istediği minimum trüm sayısı",
+    "tags": [
+      "spades",
+      "bid",
+      "trüm atama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dq2dddyfy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Hangi kart oyununda oyuncuların toplam puanı 21'e ulaşmaya çalışılır?",
+    "explanation": "Blackjack (veya 21) oyununda oyuncular dealer'e karşı oynayarak toplam puanlarını 21'e ulaştırmaya çalışır. 21'den fazla puan almak 'patlama' olarak kabul edilir.",
+    "options": [
+      "Bridge",
+      "Blackjack",
+      "Poker",
+      "Rummy"
+    ],
+    "correctAnswer": "Blackjack",
+    "tags": [
+      "kart oyunları",
+      "puan sistemi",
+      "Blackjack"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qnxnf7lm1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Bridge oyununda bir el kaç kişi tarafından oynanır?",
+    "explanation": "Bridge, her oyuncunun 13 kart aldığı ve 2 kişilik takımlar halinde oynanan bir kart oyunudur. Toplamda 4 kişi el alır.",
+    "options": [
+      "2 kişi",
+      "3 kişi",
+      "4 kişi",
+      "5 kişi"
+    ],
+    "correctAnswer": "4 kişi",
+    "tags": [
+      "Bridge",
+      "el dağıtımı",
+      "takım oyunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gknd9s1sz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Poker oyununda en yüksek değerli kombinasyon hangisidir?",
+    "explanation": "Poker'de kombinasyonların en yüksekten aşağıya doğru: Patent, Kız, Rüzgar, Düzlük şeklinde sıralanır. En değerli kombinasyon Patent'tir.",
+    "options": [
+      "Kız",
+      "Düzlük",
+      "Rüzgar",
+      "Patent"
+    ],
+    "correctAnswer": "Kız",
+    "tags": [
+      "Poker",
+      "kombinasyon",
+      "değer sıralaması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "90y73fao7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi kart oyunu genellikle 2 veya 3 kişilik el dağıtımı yapar?",
+    "explanation": "Rummy oyunu genellikle 2 veya 3 kişilik el dağıtımı yapar. Her oyuncu belirli sayıda kart alır ve set/patent oluşturarak puan kazanmaya çalışır.",
+    "options": [
+      "Spades",
+      "Hearts",
+      "Rummy",
+      "Canasta"
+    ],
+    "correctAnswer": "Rummy",
+    "tags": [
+      "Rummy",
+      "el sayısı",
+      "kart türü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "934yofb3p",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Blackjack'te dealer'e karşı en avantajlı hareket hangisidir?",
+    "explanation": "Blackjack'te dealer'den daha yüksek puan (21'in altında) ile oynamak en avantajlı harekettir. 21'e ulaşmak ideal olsa da, çok yüksek puan almak risklidir.",
+    "options": [
+      "Daha fazla kart almak",
+      "Dealer'den daha yüksek puan ile durmak",
+      "Dealer'le aynı puanla oynamak",
+      "Kartları karıştırmak"
+    ],
+    "correctAnswer": "Dealer'den daha yüksek puan ile durmak",
+    "tags": [
+      "Blackjack",
+      "strateji",
+      "dealer karşıtlığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "24hs528ib",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Poker oyununda, en yüksek el hangisidir?",
+    "explanation": "Royal Flush, Poker'da en yüksek eldir ve aynı renkteki 10, J, Q, K, A kartlarından oluşur.",
+    "options": [
+      "Royal Flush",
+      "Straight Flush",
+      "Four of a Kind",
+      "Full House"
+    ],
+    "correctAnswer": "Royal Flush",
+    "tags": [
+      "poker",
+      "kart oyunları",
+      "el sıralaması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ee8alvp3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Blackjack oyununda, Ace (As) kaç puan değer?",
+    "explanation": "Blackjack'de As, oyuncunun toplam puanına göre 1 veya 11 puan değer. Bu sayede risk yönetimi yapılır.",
+    "options": [
+      "Sadece 1",
+      "Sadece 11",
+      "1 veya 11",
+      "Her zaman 10"
+    ],
+    "correctAnswer": "1 veya 11",
+    "tags": [
+      "blackjack",
+      "kart oyunları",
+      "puan sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uknwuth90",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EASY",
+    "question": "Bridge oyunu kaç kişi oynanır?",
+    "explanation": "Bridge, 4 kişilik takım halinde oynanan bir kart oyunudur. Her oyuncu 13 kart alır.",
+    "options": [
+      "2 kişi",
+      "3 kişi",
+      "4 kişi",
+      "5 kişi"
+    ],
+    "correctAnswer": "4 kişi",
+    "tags": [
+      "bridge",
+      "kart oyunları",
+      "oyuncu sayısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "068lod8gt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Kartlarda, 'Straight Flush' nedir?",
+    "explanation": "Straight Flush, aynı renkte olmaksızın sıralanmış (örneğin: 7-8-9-10-J) 5 karttan oluşan eldir.",
+    "options": [
+      "Aynı renkteki 5 kart",
+      "Sıralanmış 5 farklı renk",
+      "5 kartın aynı değeri",
+      "10'den A'ya kadar 5 kart"
+    ],
+    "correctAnswer": "Sıralanmış 5 farklı renk",
+    "tags": [
+      "poker terminolojisi",
+      "kart oyunları",
+      "el tipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bbom89z6l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kart Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Goofspiel oyununda kullanılan kart sayısı kaçtır?",
+    "explanation": "Goofspiel, 4 oyuncu için tasarlanmış bir strateji oyunudur ve her oyuncuya 16 kart verilir.",
+    "options": [
+      "32",
+      "52",
+      "4",
+      "16"
+    ],
+    "correctAnswer": "16",
+    "tags": [
+      "goofspiel",
+      "kart oyunları",
+      "oyun kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

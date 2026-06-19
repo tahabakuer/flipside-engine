@@ -1,0 +1,1088 @@
+[
+  {
+    "id": "9ufsj5g58",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bilgisayar ağlarında kullanılan temel ağ türlerinden biri DEĞİLDIR?",
+    "explanation": "PAN (Personal Area Network) genellikle Bluetooth gibi teknolojilerle sınırlı bir kişisel kullanım alanına sahiptir ve standart bilgisayar ağlarında kullanılan temel türlerden biri değildir. LAN, WAN ve MAN ise standart ağ tipleridir.",
+    "options": [
+      "LAN (Yerel Alan Ağı)",
+      "WAN (Metropol Alan Ağı)",
+      "MAN (Şehir Alan Ağı)",
+      "PAN (Kişisel Alan Ağı)"
+    ],
+    "correctAnswer": "PAN (Kişisel Alan Ağı)",
+    "tags": [
+      "Ağ Türleri",
+      "LAN/WAN"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a063vmtof",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "OSI modelinde fiziksel katman hangi numarada yer alır?",
+    "explanation": "OSI (Open Systems Interconnection) modeli 7 katmanlıdır. Fiziksel katman (Physical Layer), OSI modelinin en alt katmanı olan 1 numaralı kattan sorumludur ve bitler akışını yönetir.",
+    "options": [
+      "1",
+      "4",
+      "7",
+      "2"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "OSI Modeli",
+      "Katmanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jx6rfyycy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "IP adresi hangi protokol ailesinde kullanılır?",
+    "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol), internet adresleme ve veri aktarımı için temel protokol ailesidir. IP adresleri bu protokolde yer alır.",
+    "options": [
+      "TCP/IP",
+      "HTTP/HTTPS",
+      "FTP",
+      "SMTP"
+    ],
+    "correctAnswer": "TCP/IP",
+    "tags": [
+      "Protokoller",
+      "IP Adresi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5rs8av4cb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bir ağ geçidi (gateway) cihazı olabilir?",
+    "explanation": "Router, farklı ağlar arası iletişim kurabilen ve veri paketlerini yönlendiren bir ağ geçidi cihazıdır. Hub, Switch ve Repeater ise aynı katmanda çalışan daha basit cihazlardır.",
+    "options": [
+      "Hub",
+      "Router",
+      "Switch",
+      "Repeater"
+    ],
+    "correctAnswer": "Router",
+    "tags": [
+      "Ağ Cihazları",
+      "Gateway"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1uh13j05g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi şifreli ağ iletişimi sağlayan protokol grubudur?",
+    "explanation": "TLS/SSL, IPsec ve HTTPS hepsi şifreli ağ iletişimi sağlayan protokollerdir. TLS/SSL web trafiği için, IPsec VPN'ler için, HTTPS ise HTTP üzerine SSL katmanı ekleyerek kullanılır.",
+    "options": [
+      "TLS/SSL",
+      "IPsec",
+      "HTTPS",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "Ağ Güvenliği",
+      "Şifreleme Protokolleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v6nr8xpbd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "What is the primary function of a network switch in a computer network?",
+    "explanation": "A network switch operates at Layer 2 (Data Link Layer) and connects multiple devices within the same local network, forwarding data frames based on MAC addresses.",
+    "options": [
+      "Route traffic between different networks",
+      "Connect devices within the same local network segment",
+      "Provide wireless connectivity to mobile devices",
+      "Store and retrieve data from servers"
+    ],
+    "correctAnswer": "Connect devices within the same local network segment",
+    "tags": [
+      "switch",
+      "networking",
+      "local-network"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yvk98wou9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Which layer of the OSI model is responsible for IP addressing?",
+    "explanation": "The Network Layer (Layer 3) handles logical addressing (IP addresses), routing, and packet forwarding between different networks.",
+    "options": [
+      "Layer 1 - Physical",
+      "Layer 2 - Data Link",
+      "Layer 3 - Network",
+      "Layer 4 - Transport"
+    ],
+    "correctAnswer": "Layer 3 - Network",
+    "tags": [
+      "OSI-model",
+      "IP-addressing",
+      "network-layer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gsc2mzrw9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "What does DHCP stand for in computer networking?",
+    "explanation": "DHCP automatically assigns IP addresses and network configuration parameters to devices joining a network, eliminating manual IP configuration.",
+    "options": [
+      "Dynamic Host Configuration Protocol",
+      "Digital Home Communication Platform",
+      "Data Hub Connection Process",
+      "Device Handshake Control Program"
+    ],
+    "correctAnswer": "Dynamic Host Configuration Protocol",
+    "tags": [
+      "DHCP",
+      "network-services",
+      "configuration"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vyf1he1hh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Which cable type is commonly used for connecting computers to switches in Ethernet networks?",
+    "explanation": "Twisted pair cables like Cat5e and Cat6 are the standard for Ethernet connections, providing reliable data transmission up to 100 meters.",
+    "options": [
+      "Coaxial Cable",
+      "Fiber Optic Cable (Single Mode)",
+      "Twisted Pair (Cat5e/Cat6)",
+      "Flat Ribbon Cable"
+    ],
+    "correctAnswer": "Twisted Pair (Cat5e/Cat6)",
+    "tags": [
+      "cabling",
+      "Ethernet",
+      "twisted-pair"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pxve3nqnp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum speed of a Gigabit Ethernet connection?",
+    "explanation": "Gigabit Ethernet operates at 1 Gbps (1000 Mbps) for both transmission and reception, making it suitable for high-bandwidth applications.",
+    "options": [
+      "10 Mbps",
+      "100 Mbps",
+      "1 Gbps (1000 Mbps)",
+      "10 Gbps"
+    ],
+    "correctAnswer": "1 Gbps (1000 Mbps)",
+    "tags": [
+      "Ethernet-speed",
+      "Gigabit",
+      "networking-specs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cnx448n16",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "OSI model'in kaç katmanı vardır?",
+    "explanation": "OSI (Open Systems Interconnection) modeli fiziksel, veri bağlantısı, sunum, oturum, taşıma, uygulama ve ağ olmak üzere toplam 7 katmandan oluşur.",
+    "options": [
+      "3 katman",
+      "4 katman",
+      "7 katman",
+      "12 katman"
+    ],
+    "correctAnswer": "7 katman",
+    "tags": [
+      "OSI Model",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tg2c4qp4v",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "IP adresinin hangi kısmı ağ adresini belirtir?",
+    "explanation": "IP adresi sabit (network) ve değişken (host) kısımlardan oluşur. Ağ adresini sabit kısım, cihazın ağdaki konumunu değişken kısım belirtir.",
+    "options": [
+      "Sabit kısım",
+      "Değişken kısım",
+      "Özel IP",
+      "Kamu IP"
+    ],
+    "correctAnswer": "Sabit kısım",
+    "tags": [
+      "IP Adresi",
+      "Ağ Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v66oljj2m",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Router hangi OSI katmanında çalışır?",
+    "explanation": "Router, OSI modelinin 3. katmanı (ağ katmanı) üzerinde çalışır ve IP paketlerini farklı ağlar arasında yönlendirir.",
+    "options": [
+      "2. Katman",
+      "3. Katman",
+      "4. Katman",
+      "5. Katman"
+    ],
+    "correctAnswer": "3. Katman",
+    "tags": [
+      "Ağ Cihazları",
+      "OSI Model"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xb0m0fvd0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "DNS servisinin temel işlevi nedir?",
+    "explanation": "DNS (Domain Name System), kullanıcıların kolay hatırlayabileceği domain isimlerini IP adresleriyle eşleştirerek web tarayıcıları doğru sunuculara yönlendirir.",
+    "options": [
+      "Veri şifreleme",
+      "IP adresleri ile domain isimleri eşleştirme",
+      "Dosya paylaşımı",
+      "Ağ güvenlik duvarı"
+    ],
+    "correctAnswer": "IP adresleri ile domain isimleri eşleştirme",
+    "tags": [
+      "DNS",
+      "Protokoller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "za4qjo9a0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "VLAN nedir?",
+    "explanation": "VLAN (Virtual Local Area Network), tek bir fiziksel switch üzerinde farklı sanal ağlar oluşturarak trafiği ve güvenlik politikalarını izole etmeye olanak tanır.",
+    "options": [
+      "Fiziksel ağ birimi",
+      "Sanal yerel alan ağı",
+      "Ağ güvenlik protokolu",
+      "IP adresleme yöntemi"
+    ],
+    "correctAnswer": "Sanal yerel alan ağı",
+    "tags": [
+      "VLAN",
+      "Ağ Yönetimi",
+      "Switching"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r903238ry",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ağ türlerinden hangisi yerel bir ağ (LAN) örneğidir?",
+    "explanation": "SAN, depolama alanı ağlarını ifade eder ve genellikle yerel veri merkezlerinde kullanılır. Diğer seçeneklerde WAN geniş alan, MAN büyükşehir bölgesi, PAN kişisel alan ağlarını belirtir.",
+    "options": [
+      "WAN (Wide Area Network)",
+      "MAN (Metropolitan Area Network)",
+      "SAN (Storage Area Network)",
+      "PAN (Personal Area Network)"
+    ],
+    "correctAnswer": "SAN (Storage Area Network)",
+    "tags": [
+      "Bilgisayar Ağları",
+      "Ağ Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "82kraieza",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki protokollerden hangisi TCP/IP ağındaki en temel iletişim katmanını temsil eder?",
+    "explanation": "TCP (Transmission Control Protocol), TCP/IP modelinde taşıma katmanında çalışır ve verilerin güvenilir bir şekilde iletilmesini sağlar. HTTP, FTP ve DNS daha üst katman protokolleridir.",
+    "options": [
+      "HTTP",
+      "FTP",
+      "TCP",
+      "DNS"
+    ],
+    "correctAnswer": "TCP",
+    "tags": [
+      "Bilgisayar Ağları",
+      "Protokoller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6n2u1bg8i",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "Ağ topolojilerinden hangisinde her düğüm diğer tüm düğümlerle doğrudan bağlantılıdır?",
+    "explanation": "Mesh (ağı) topolojisinde her düğüm diğer tüm düğümlerle doğrudan bağlantılıdır. Bu yapı yüksek güvenilirlik sağlar ancak kurulum maliyeti yüksektir.",
+    "options": [
+      "Bus Topoloji",
+      "Star Topoloji",
+      "Ring Topoloji",
+      "Mesh Topoloji"
+    ],
+    "correctAnswer": "Mesh Topoloji",
+    "tags": [
+      "Bilgisayar Ağları",
+      "Topolojiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "11v0k1gw1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ağ cihazlarından hangisi paketleri yönlendirerek farklı ağlar arasında iletişim sağlar?",
+    "explanation": "Router (yönlendirici), farklı ağlar arasındaki paket yönlendirmesini sağlar ve IP adresleri kullanır. Hub, Switch ve Bridge genellikle aynı ağındaki cihazlar için kullanılır.",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Bridge"
+    ],
+    "correctAnswer": "Router",
+    "tags": [
+      "Bilgisayar Ağları",
+      "Ağ Cihazları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "scmauf0ip",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "Ağ güvenliğinde 'man-in-the-middle' saldırısı hangi durumu ifade eder?",
+    "explanation": "Man-in-the-middle (MITM) saldırısında, saldırgan iki taraflı iletişim akışının ortasına girerek paketleri dinler, yönlendirir veya değiştirir. Bu saldırı şifreleme olmayan protokollerde daha yaygındır.",
+    "options": [
+      "Verilerin şifrelenmesi",
+      "İletişimin dinlenmesi veya yönlendirilmesi",
+      "Şifrelerin kırılması",
+      "Sistem hacklenmesi"
+    ],
+    "correctAnswer": "İletişimin dinlenmesi veya yönlendirilmesi",
+    "tags": [
+      "Bilgisayar Ağları",
+      "Ağ Güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h6piyf46r",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Bir bilgisayar ağında veri aktarımını sağlayan temel protokol hangisidir?",
+    "explanation": "TCP/IP, Transmission Control Protocol/Internet Protocol'un kısaltması ve internetin temel iletişim protokolüdür. Veri gönderiminde ve alımında kullanılır.",
+    "options": [
+      "FTP",
+      "HTTP",
+      "TCP/IP",
+      "DNS"
+    ],
+    "correctAnswer": "TCP/IP",
+    "tags": [
+      "protokol",
+      "ağ",
+      "veri aktarımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z1pk26ycw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir yerel ağ (LAN) özelliği DEĞİLdir?",
+    "explanation": "Yerel ağlar (LAN) genellikle tek bir bina veya kampüs alanını kapsar ve internet erişimi zorunlu değildir. İnternet genellikle WAN özelliğidir.",
+    "options": [
+      "Küçük coğrafi alanı kapsar",
+      "Yüksek veri aktarım hızına sahiptir",
+      "Genellikle interneti içerir",
+      "Bağlantı kabloları kullanılır"
+    ],
+    "correctAnswer": "Genellikle interneti içerir",
+    "tags": [
+      "LAN",
+      "ağ tipleri",
+      "özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z4kpk7pv6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Bir paketin hedef adrese ulaşması için kullanılan cihaz hangisidir?",
+    "explanation": "Router, farklı ağlar arasında paket yönlendirmesi yaparak hedef adrese ulaşmasını sağlar. IP adresleri üzerinden çalışır.",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Bridge"
+    ],
+    "correctAnswer": "Router",
+    "tags": [
+      "router",
+      "paket yönlendirme",
+      "ağ cihazları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6fjzwmz6y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki OSI katmanlarından hangisi TCP/IP modelinin 'Transport Layer'ına karşılık gelir?",
+    "explanation": "OSI modelinde Taşıma Katmanı (Transport Layer), TCP/IP modelindeki Transport Layer'ına doğrudan eşlenir. Verilerin güvenilir aktarımını sağlar.",
+    "options": [
+      "Fizik Katmanı",
+      "Veri Bağlantısı Katmanı",
+      "Taşıma Katmanı",
+      "Uygulama Katmanı"
+    ],
+    "correctAnswer": "Taşıma Katmanı",
+    "tags": [
+      "OSI katmanları",
+      "TCP/IP",
+      "katman eşleşmesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0nmnaw0wq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "Bir ağ saldırısında hedeflenen ve IP adresi bilgisi kullanılan teknik hangisidir?",
+    "explanation": "IP Spoofing, gerçek bir IP adresini taklit ederek ağ saldırılarında kullanılır. Hedeflenen sistem yanlışlıkla saldırıyı kabul etmesini sağlar.",
+    "options": [
+      "Phishing",
+      "DDoS",
+      "Man-in-the-Middle",
+      "IP Spoofing"
+    ],
+    "correctAnswer": "IP Spoofing",
+    "tags": [
+      "ağ güvenliği",
+      "saldırı teknikleri",
+      "IP manipülasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "niphg15qa",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Hangi OSI katmanı TCP/IP bağlantı kurulumundan ve veri aktarımından sorumludur?",
+    "explanation": "OSI modelinde 3. katman (İletim Katmanı) TCP/IP bağlantı kurulumundan ve veri aktarımından sorumludur.",
+    "options": [
+      "Fizik Katmanı",
+      "Ağ Katmanı",
+      "Uygulama Katmanı",
+      "İletim Katmanı"
+    ],
+    "correctAnswer": "Ağ Katmanı",
+    "tags": [
+      "OSI Modeli",
+      "TCP/IP",
+      "Bilgisayar Ağları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mc7fey19h",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "IP adresi hangi bilgiyi taşır?",
+    "explanation": "IP adresi, cihazın ağdaki benzersiz kimlik bilgilerini ve bulunduğu konumu belirler.",
+    "options": [
+      "Sadece cihazın adını",
+      "Sadece cihazın konumunu",
+      "Cihazın ağdaki kimliğini ve konumunu",
+      "Cihazın donanım yapısını"
+    ],
+    "correctAnswer": "Cihazın ağdaki kimliğini ve konumunu",
+    "tags": [
+      "IP Adresi",
+      "Bilgisayar Ağları",
+      "OSI Modeli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8kjft0ek2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Hangi ağ türü internete bağlı bir ağdır?",
+    "explanation": "WAN (Wide Area Network) geniş alan ağıdır ve internete bağlı yerel ağlardan daha büyük bir alana hizmet eder.",
+    "options": [
+      "LAN",
+      "MAN",
+      "WAN",
+      "PAN"
+    ],
+    "correctAnswer": "WAN",
+    "tags": [
+      "Ağ Türleri",
+      "LAN",
+      "Bilgisayar Ağları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9jjpy7c3g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Hangi cihaz bir veriyi farklı kablolar arasında aktarmak için kullanılır?",
+    "explanation": "Bridge (köprü) cihazı, farklı kablolar arasında veri aktarımı ve ağ segmentasyonu sağlar.",
+    "options": [
+      "Router",
+      "Switch",
+      "Hub",
+      "Bridge"
+    ],
+    "correctAnswer": "Bridge",
+    "tags": [
+      "Ağ Cihazları",
+      "Bilgisayar Ağları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p1mlhtot9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Ping komutu hangi protokolü kullanır?",
+    "explanation": "Ping komutu ICMP (Internet Control Message Protocol) kullanarak ağ cihazlarının varlığını ve durumunu test eder.",
+    "options": [
+      "HTTP",
+      "FTP",
+      "ICMP",
+      "SMTP"
+    ],
+    "correctAnswer": "ICMP",
+    "tags": [
+      "Ağ Protokolleri",
+      "Bilgisayar Ağları",
+      "Ping"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xguutqb3n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "What is the primary function of a Network Interface Card (NIC) in a computer network?",
+    "explanation": "A Network Interface Card (NIC) is hardware that allows a computer or device to connect to a network and communicate with other devices. It handles data transmission between the device and the network medium.",
+    "options": [
+      "A) Store data temporarily",
+      "B) Connect devices to a network and enable communication",
+      "C) Encrypt network traffic only",
+      "D) Increase processing power"
+    ],
+    "correctAnswer": "B) Connect devices to a network and enable communication",
+    "tags": [
+      "TEKNOLOJİ",
+      "Bilgisayar Ağları",
+      "Network Hardware",
+      "NIC"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c5t6ag9e8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Which OSI layer is responsible for logical addressing and routing in computer networks?",
+    "explanation": "The Network Layer (Layer 3) of the OSI model is responsible for logical addressing (IP addresses) and routing packets between different networks. It enables devices to communicate across multiple network segments.",
+    "options": [
+      "A) Layer 1 - Physical",
+      "B) Layer 2 - Data Link",
+      "C) Layer 3 - Network",
+      "D) Layer 4 - Transport"
+    ],
+    "correctAnswer": "C) Layer 3 - Network",
+    "tags": [
+      "TEKNOLOJİ",
+      "Bilgisayar Ağları",
+      "OSI Model",
+      "Network Layer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mr7o35feu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "What does DHCP stand for in computer networking?",
+    "explanation": "DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses and other network configuration parameters to devices on a network, eliminating the need for manual IP address management.",
+    "options": [
+      "A) Dynamic Host Configuration Protocol",
+      "B) Direct Hardware Connection Protocol",
+      "C) Data Handling Communication Process",
+      "D) Digital Host Control Program"
+    ],
+    "correctAnswer": "A) Dynamic Host Configuration Protocol",
+    "tags": [
+      "TEKNOLOJİ",
+      "Bilgisayar Ağları",
+      "DHCP",
+      "IP Configuration"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ydxzd69a",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is an example of a Layer 2 switching device?",
+    "explanation": "A Layer 2 switch operates at the Data Link layer of the OSI model and forwards traffic based on MAC addresses. Bridges also function at Layer 2, connecting network segments while filtering frames.",
+    "options": [
+      "A) Router",
+      "B) Bridge/Switch",
+      "C) Firewall",
+      "D) Modem"
+    ],
+    "correctAnswer": "B) Bridge/Switch",
+    "tags": [
+      "TEKNOLOJİ",
+      "Bilgisayar Ağları",
+      "Network Devices",
+      "Layer 2"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8zj51n5i2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "What is the maximum data transmission speed of Gigabit Ethernet?",
+    "explanation": "Gigabit Ethernet provides data transmission speeds of up to 1 Gbps (1000 Mbps) per connection. This is three times faster than Fast Ethernet and is widely used in modern networking infrastructure.",
+    "options": [
+      "A) 10 Mbps",
+      "B) 100 Mbps",
+      "C) 1 Gbps (1000 Mbps)",
+      "D) 10 Gbps"
+    ],
+    "correctAnswer": "C) 1 Gbps (1000 Mbps)",
+    "tags": [
+      "TEKNOLOJİ",
+      "Bilgisayar Ağları",
+      "Gigabit Ethernet",
+      "Network Speed"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15zp6lb91",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "OSI Model'ün kaç katmanı vardır ve bu katmanlar hangi yönde tanımlanır?",
+    "explanation": "OSI (Open Systems Interconnection) modeli 7 katmandan oluşur ve bu katmanlar verinin alıcıya ulaşma sırasına göre tanımlanır.",
+    "options": [
+      "5 katman, sunucu tarafından",
+      "7 katman, alıcı tarafından",
+      "7 katman, sunucu tarafından",
+      "6 katman, alıcı tarafından"
+    ],
+    "correctAnswer": "7 katman, alıcı tarafından",
+    "tags": [
+      "OSI Model",
+      "Network Layers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "abaw8hduq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP protocol'ün kaç tabakası vardır ve hangi tabaka veri aktarımından sorumludur?",
+    "explanation": "TCP/IP modeli 4 tabakadan oluşur: Network Interface, Internet, Transport ve Application. Transport tabakası veri aktarımından sorumludur.",
+    "options": [
+      "3 tabaka, Network Tabakası",
+      "4 tabaka, Transport Tabakası",
+      "5 tabaka, Session Tabakası",
+      "2 tabaka, Data Link Tabakası"
+    ],
+    "correctAnswer": "4 tabaka, Transport Tabakası",
+    "tags": [
+      "TCP/IP Model",
+      "Protocols"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "irsiz800l",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "IP adreslerinin kaç bit uzunluğunda olduğu doğru olan seçenek hangisidir?",
+    "explanation": "IPv4 adresleri 32 bit uzunluğundadır ve noktalı ondalık (dotted decimal) gösterimi kullanılır.",
+    "options": [
+      "16 bit",
+      "24 bit",
+      "32 bit",
+      "64 bit"
+    ],
+    "correctAnswer": "32 bit",
+    "tags": [
+      "IP Address",
+      "Networking Basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fidiipyw7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Hangi port numarası HTTP (web) protokolü için standart olarak kullanılır?",
+    "explanation": "Port 80, HTTP (HyperText Transfer Protocol) için standart port numarasıdır. Port 443 ise HTTPS için kullanılır.",
+    "options": [
+      "21",
+      "80",
+      "443",
+      "25"
+    ],
+    "correctAnswer": "80",
+    "tags": [
+      "Ports",
+      "HTTP Protocol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmtbmyx99",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "DNS (Domain Name System) hangi OSI Model katmanında çalışır ve temel görevi nedir?",
+    "explanation": "DNS, Application (7.) OSI Model katmanında çalışır ve domain isimlerini IP adreslerine çevirerek kullanıcıların web sitelerine erişmesini sağlar.",
+    "options": [
+      "Transport katmanı, IP adresleri atama",
+      "Network katmanı, MAC adresleri çözümleme",
+      "Application katmanı, domain isimlerini IP adreslerine çevirme",
+      "Data Link katmanı, veri paketleri yönlendirme"
+    ],
+    "correctAnswer": "Application katmanı, domain isimlerini IP adreslerine çevirme",
+    "tags": [
+      "DNS",
+      "OSI Model",
+      "Network Services"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5xr0ad1rl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "Bir bilgisayar ağında cihazlar arasında veri aktarımı için kullanılan temel protokol hangisidir?",
+    "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol), bilgisayar ağlarında cihazlar arasında veri aktarımı için temel protokol ailesidir. Internet'in çalışma prensibi de bu protokole dayanır.",
+    "options": [
+      "FTP",
+      "HTTP",
+      "TCP/IP",
+      "SMTP"
+    ],
+    "correctAnswer": "TCP/IP",
+    "tags": [
+      "Bilgisayar Ağları",
+      "Protokoller",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kk88pgheo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bir yerel ağ (LAN) teknolojisidir?",
+    "explanation": "Ethernet, yerel ağlar (LAN) için kullanılan kablolu bir ağ teknolojisidir. WiMAX ve 4G geniş alan ağlarıdır, Bluetooth ise kısa mesafe kablosuz bağlantı teknolojisidir.",
+    "options": [
+      "Ethernet",
+      "WiMAX",
+      "4G",
+      "Bluetooth"
+    ],
+    "correctAnswer": "Ethernet",
+    "tags": [
+      "Bilgisayar Ağları",
+      "LAN",
+      "Kablo Teknolojileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xynj1m7tw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Bir ağdaki IP adresinin hangi katmanı tanımlar?",
+    "explanation": "IP adresleri İnternet Katmanı'nda tanımlanır ve paketlerin kaynağa doğru yönlendirilmesi için kullanılır. OSI modelinde 3. katman olan bu katman, network layer olarak da bilinir.",
+    "options": [
+      "Fiziksel Katman",
+      "Veri Bağlantısı Katmanı",
+      "İnternet Katmanı",
+      "Uygulama Katmanı"
+    ],
+    "correctAnswer": "İnternet Katmanı",
+    "tags": [
+      "Bilgisayar Ağları",
+      "OSI Modeli",
+      "IP Adresleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rpgj57iwh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "DNS (Domain Name System) servisinin temel işlevi nedir?",
+    "explanation": "DNS, kullanıcıların hatırlamakta zorlandıkları domain isimlerini (örneğin www.google.com) tarayıcının anlayabileceği IP adreslerine çeviren sistemdir. Bu işlem web gezintisi için kritiktir.",
+    "options": [
+      "IP adreslerini dağıtmak",
+      "Domain isimlerini IP adreslerine çevirmek",
+      "Dosya transferini sağlamak",
+      "E-posta gönderimi yapmak"
+    ],
+    "correctAnswer": "Domain isimlerini IP adreslerine çevirmek",
+    "tags": [
+      "Bilgisayar Ağları",
+      "DNS",
+      "Web Teknolojileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "irgjh6k5d",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "Bir bilgisayar ağında 'switch' ile 'router' arasındaki temel fark nedir?",
+    "explanation": "Switch (Data Link Layer/Katman 2) MAC adreslerini kullanarak aynı ağdaki cihazlar arasında yönlendirme yaparken, router (Network Layer/Katman 3) IP adreslerini kullanarak farklı ağlar arası yönlendirme sağlar.",
+    "options": [
+      "Switch kablolu, router kablosuzdur",
+      "Switch katman 2'de çalışır, router katman 3'te çalışır",
+      "Router sadece ofis kullanılır, switch ev kullanılır",
+      "Switch daha pahalıdır, router daha ucuzdur"
+    ],
+    "correctAnswer": "Switch katman 2'de çalışır, router katman 3'te çalışır",
+    "tags": [
+      "Bilgisayar Ağları",
+      "Ağ Cihazları",
+      "Switch ve Router"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "05ha7mhak",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "Bilgisayar ağlarında OSI modelinin fiziksel katmanı hangi numara ile ifade edilir?",
+    "explanation": "OSI (Open Systems Interconnection) modelinde fiziksel katman en alt seviyedir ve 1 numarayla ifade edilir. Bu katmanda veri iletim, sinyal kodlaması ve fiziksel bağlantı sorumludur.",
+    "options": [
+      "Katman 1",
+      "Katman 2",
+      "Katman 3",
+      "Katman 4"
+    ],
+    "correctAnswer": "Katman 1",
+    "tags": [
+      "OSI Model",
+      "Fiziksel Katman",
+      "Ağ Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4m5usqqyj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EASY",
+    "question": "IP adreslerinin IPv4 standardında kaç bitlik yapıya sahip olduğu nedir?",
+    "explanation": "IPv4 (Internet Protocol version 4) adresleri 32 bitlik yapıya sahiptir ve genellikle noktalı ondalık gösterimle ifade edilir (örn: 192.168.1.1).",
+    "options": [
+      "32 Bit",
+      "64 Bit",
+      "128 Bit",
+      "256 Bit"
+    ],
+    "correctAnswer": "32 Bit",
+    "tags": [
+      "IP Adresi",
+      "IPv4",
+      "Ağ Adresleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "742wqhgge",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Ağlarda MAC adresi hangi katmanda kullanılır?",
+    "explanation": "MAC (Media Access Control) adresi OSI modelinin veri bağlantısı katmanında (Layer 2) kullanılır. Bu adres fiziksel cihazları benzersiz şekilde tanımlar.",
+    "options": [
+      "Fiziksel Katman",
+      "Veri Bağlantısı Katmanı",
+      "Transport Katmanı",
+      "Uygulama Katmanı"
+    ],
+    "correctAnswer": "Veri Bağlantısı Katmanı",
+    "tags": [
+      "MAC Adresi",
+      "Data Link Layer",
+      "Ağ Katmanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d8ylnazy5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "GENERAL",
+    "question": "Ping komutu hangi protokolü kullanarak ağdaki cihazların durumunu kontrol eder?",
+    "explanation": "Ping komutu ICMP (Internet Control Message Protocol) kullanarak cihazların ağda olup olmadığını ve yanıt süresini test eder. TCP/UDP mesajlaşma protokolleri değildir.",
+    "options": [
+      "ICMP",
+      "TCP",
+      "UDP",
+      "HTTP"
+    ],
+    "correctAnswer": "ICMP",
+    "tags": [
+      "Ping",
+      "ICMP Protocolü",
+      "Ağ Testi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gjk4d4ytd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Ağları",
+    "difficulty": "EXPERT",
+    "question": "IP subnet maskesi nedir?",
+    "explanation": "Subnet mask (alt ağıstir) IP adresinin hangi kısmının ağ adresini, hangi kısmının host adresini temsil ettiğini belirtir. Örneğin 255.255.255.0 ağın ilk 3 oktanını network ID olarak belirler.",
+    "options": [
+      "Ağın alt katmanı",
+      "IP adresinin hangi kısmının ağ adresi olduğunu belirten mask",
+      "MAC adresinin alternatifi",
+      "Router arayüzünün sayısı"
+    ],
+    "correctAnswer": "IP adresinin hangi kısmının ağ adresi olduğunu belirten mask",
+    "tags": [
+      "Subnet Mask",
+      "Ağ Alt Kümeleri",
+      "IP Konfigürasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "5u554n4t8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Hangi rok grubu 1969 yılında Woodstock Müzik Festivali'nde ilk kez sahne aldı?",
+    "explanation": "Led Zeppelin, 1969 yılında Woodstock Müzik Festivali'nde sahne aldı ve bu performans grubun erken dönem başarısı olarak kabul edilir.",
+    "options": [
+      "The Beatles",
+      "Led Zeppelin",
+      "Queen",
+      "Pink Floyd"
+    ],
+    "correctAnswer": "Led Zeppelin",
+    "tags": [
+      "rock-tarih",
+      "festival",
+      "led-zeppelin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i98207q7e",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi rok şarkısı 1977 yılında 'A Night at the Opera' albümüyle birlikte piyasaya sürüldü?",
+    "explanation": "Queen grubunun 'A Night at the Opera' albümü 1975'te yayınlandı ve bu albümden Bohemian Rhapsody şarkısı en bilinen parçalarından biri oldu.",
+    "options": [
+      "Bohemian Rhapsody",
+      "Stairway to Heaven",
+      "Hotel California",
+      "Sweet Child O' Mine"
+    ],
+    "correctAnswer": "Bohemian Rhapsody",
+    "tags": [
+      "queen",
+      "albüm",
+      "şarkı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "218e6d4qj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Hangi rok tarzı 1980'lerde 'hair metal' olarak da bilinir?",
+    "explanation": "Glam Rock, 1970'lerin sonu ve 1980'lerin başlarında 'hair metal' olarak da adlandırılan bir alt tür geliştirerek popüler oldu.",
+    "options": [
+      "Alternative Rock",
+      "Glam Rock",
+      "Punk Rock",
+      "Heavy Metal"
+    ],
+    "correctAnswer": "Glam Rock",
+    "tags": [
+      "rock-tarz",
+      "1980ler",
+      "metal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tdck8c4nv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "The Rolling Stones grubunun en uzun süreli üyesi kimdir?",
+    "explanation": "Keith Richards, The Rolling Stones grubunun kurucu üyelerinden biri olarak 1963'te beri grupta yer almaktadır.",
+    "options": [
+      "Keith Richards",
+      "Mick Jagger",
+      "Charlie Watts",
+      "Bill Wyman"
+    ],
+    "correctAnswer": "Keith Richards",
+    "tags": [
+      "rolling-stones",
+      "grub-üyesi",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d1xnthvmi",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Hangi rok şarkısı 'Black Sabbath' albümünün ilk parçasıdır ve 1970 yılında yayınlandı?",
+    "explanation": "Iron Man, Black Sabbath'ın ilk albümü 'Black Sabbath' (1970)'ün en bilinen parçalarından biri ve grubun imza şarkısı olarak kabul edilir.",
+    "options": [
+      "Iron Man",
+      "War Pigs",
+      "Paranoid",
+      "N.I.B."
+    ],
+    "correctAnswer": "Iron Man",
+    "tags": [
+      "black-sabbath",
+      "albüm",
+      "1970"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rrsgk6s7r",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Rock müziğin kökeni hangi tür müzikle ilişkilendirilir?",
+    "explanation": "Rock müziğin temel kökeni Blues türüdür. 1940'ların ortalarında blues ve country müziğinin birleşimiyle rock and roll ortaya çıkmıştır.",
+    "options": [
+      "Jazz",
+      "Blues",
+      "Klasik",
+      "Folk"
+    ],
+    "correctAnswer": "Blues",
+    "tags": [
+      "Rock Müzik Tarihi",
+      "Müzik Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ipnqdzki0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "The Beatles grubunun en ünlü şarkılarından biri olan \"Hey Jude\" ne zaman yayınlandı?",
+    "explanation": "\"Hey Jude\" The Beatles tarafından 8 Ağustos 1967'de yayınlanmıştır ve grubun en uzun şarkılarından biridir.",
+    "options": [
+      "1967",
+      "1969",
+      "1971",
+      "1973"
+    ],
+    "correctAnswer": "1967",
+    "tags": [
+      "The Beatles",
+      "Rock Şarkıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "320t38mwu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Led Zeppelin'in ilk stüdyo albümü ne zaman çıktı?",
+    "explanation": "Led Zeppelin'in ilk albümü 1969 yılında yayınlandı ve heavy rock müziğinin en önemli klasiklerinden biridir.",
+    "options": [
+      "1969",
+      "1970",
+      "1971",
+      "1972"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "Led Zeppelin",
+      "Albüm Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yegr6eytp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Nirvana grubunun çıkardığı \"Nevermind\" albümü hangi türde yer alır?",
+    "explanation": "\"Nevermind\" albümü grunge türünün en önemli temsilcisidir ve 1991 yılında yayınlanarak alternatif rock'u ana akıma taşıdı.",
+    "options": [
+      "Grunge",
+      "Pop Punk",
+      "Alternative Metal",
+      "Indie Rock"
+    ],
+    "correctAnswer": "Grunge",
+    "tags": [
+      "Nirvana",
+      "Rock Alt Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pu6ry7ikp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Queen grubunun \"Bohemian Rhapsody\" şarkısı hangi yıl yayınlandı?",
+    "explanation": "\"Bohemian Rhapsody\" Queen tarafından Ekim 1975'te yayınlandı ve rock tarihinin en ikonik şarkılarından biri olarak kabul edilir.",
+    "options": [
+      "1973",
+      "1975",
+      "1976",
+      "1978"
+    ],
+    "correctAnswer": "1975",
+    "tags": [
+      "Queen",
+      "Klasik Rock Şarkıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ysbanphil",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi grup, 1960'ların sonunda San Francisco'da kurulmuş ve 'Surrealistic Pillow' adlı ilk stüdyo albümüyle tanınır?",
+    "explanation": "Jefferson Airplane, 1965'te San Francisco'da kurulmuş psychedelic rock grubudur ve 1967'de çıkardıkları 'Surrealistic Pillow' albümüyle büyük ilgi görmüştür.",
+    "options": [
+      "The Beatles",
+      "Led Zeppelin",
+      "Jefferson Airplane",
+      "Pink Floyd"
+    ],
+    "correctAnswer": "Jefferson Airplane",
+    "tags": [
+      "rock müzik",
+      "gruplar",
+      "1960'lar",
+      "Surrealistic Pillow"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6pavfjre5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Led Zeppelin'in 'Stairway to Heaven' şarkısı hangi albümde yer alır?",
+    "explanation": "'Stairway to Heaven', Led Zeppelin'in 1971 yılında çıkardıkları 'IV' (Roma rakamıyla IV) albümünde yer alan en ikonik şarkılardan biridir.",
+    "options": [
+      "Physical Graffiti",
+      "IV (Roman IV)",
+      "Houses of the Holy",
+      "Led Zeppelin"
+    ],
+    "correctAnswer": "IV (Roman IV)",
+    "tags": [
+      "Led Zeppelin",
+      "şarkılar",
+      "albümler",
+      "Stairway to Heaven"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nfqptjgy8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi rock şarkıcısı, 1980'lerde 'Like a Virgin' ve 'True Blue' albümleriyle tanınır?",
+    "explanation": "Madonna, 1984'te çıkardığı 'Like a Virgin' ve 1986'da 'True Blue' albümleriyle uluslararası başarı elde etmiştir.",
+    "options": [
+      "Madonna",
+      "Michael Jackson",
+      "Prince",
+      "David Bowie"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "rock müzik",
+      "şarkıcılar",
+      "1980'ler",
+      "pop rock"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fptp9gmht",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Black Sabbath grubunun ilk albümü hangi yıl çıkmıştır?",
+    "explanation": "Black Sabbath, 1970 yılında ilk albümü 'Black Sabbath'ı çıkarmış ve heavy metal müziğin temellerini atan gruptur.",
+    "options": [
+      "1970",
+      "1971",
+      "1972",
+      "1969"
+    ],
+    "correctAnswer": "1970",
+    "tags": [
+      "Black Sabbath",
+      "albümler",
+      "heavy metal",
+      "1970"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ymkal4u18",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Pink Floyd'un 'The Wall' albümü hangi türde bir çalışma içerir?",
+    "explanation": "'The Wall', 1979 yılında çıkan konsept bir albümdür ve rock müziğin en önemli eserlerinden biridir.",
+    "options": [
+      "Konsept albüm",
+      "Soundtrack",
+      "Live albüm",
+      "Demo albüm"
+    ],
+    "correctAnswer": "Konsept albüm",
+    "tags": [
+      "Pink Floyd",
+      "albümler",
+      "konsept müzik",
+      "The Wall"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "en7v5s51s",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Rock müziğin ilk ortaya çıktığı dönemde hangi müzik türlerinin birleşimi söz konusudur?",
+    "explanation": "1950'lerde rock'n'roll, Amerikan R&B ve Blues müziğinin birleşimiyle doğdu. Elvis Presley gibi sanatçılar bu tarzı popülerleştirdi.",
+    "options": [
+      "R&B ve Blues",
+      "Pop ve Jazz",
+      "Country ve Rockabilly",
+      "Folk ve Gospel"
+    ],
+    "correctAnswer": "R&B ve Blues",
+    "tags": [
+      "Rock History",
+      "Müzik Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i4qgx21ed",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Hangi rock grubu \"Fab Four\" lakabıyla bilinir?",
+    "explanation": "The Beatles, 1960'larda büyük popülerlik kazanan İngiliz rock grubu ve \"Fab Four\" takma adıyla bilinir.",
+    "options": [
+      "The Rolling Stones",
+      "The Beatles",
+      "Pink Floyd",
+      "Led Zeppelin"
+    ],
+    "correctAnswer": "The Beatles",
+    "tags": [
+      "Classic Bands",
+      "İngiliz Rock"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s7d77recj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi albümde \"Stairway to Heaven\" şarkısı yer alır?",
+    "explanation": "\"Stairway to Heaven\", Led Zeppelin'in dördüncü stüdyo albümü olan Led Zeppelin IV'teki en bilinen parçadır.",
+    "options": [
+      "Dark Side of the Moon",
+      "Led Zeppelin IV",
+      "Physical Graffiti",
+      "The Wall"
+    ],
+    "correctAnswer": "Led Zeppelin IV",
+    "tags": [
+      "Classic Albums",
+      "Led Zeppelin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wlqj7zq04",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "1990'ların başında grunge türünü dünya çapında popülerleştiren rock grubu hangisidir?",
+    "explanation": "Nirvana, 1991'de çıkan Nevermind albümü ile grunge türünün küresel popülerleşmesini sağlamıştır.",
+    "options": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "correctAnswer": "Nirvana",
+    "tags": [
+      "Grunge",
+      "1990'lar Rock"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "il8crp97q",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "1969 yılında düzenlenen ve rock müziğin kültürel etkisini simgeleyen önemli festival hangisidir?",
+    "explanation": "Woodstock 1969'da düzenlenen bu festival, rock müziğin kültürel etkisini simgeleyen önemli bir olaydır ve dünya çapında tanınmıştır.",
+    "options": [
+      "Monterey Pop Festival",
+      "Woodstock Festival",
+      "Isle of Wight Festival",
+      "Newport Jazz Festival"
+    ],
+    "correctAnswer": "Woodstock Festival",
+    "tags": [
+      "Rock Festivals",
+      "1960'lar Müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "22f2amfog",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi 1960'lı yıllarda rock müziğin doğumuna büyük katkı sağlayan önemli bir rock grubudur?",
+    "explanation": "The Rolling Stones, 1962'de Londra'da kurulmuş ve rock müziğin en önemli gruplarından biri olarak kabul edilir.",
+    "options": [
+      "The Rolling Stones",
+      "Queen",
+      "Pink Floyd",
+      "Led Zeppelin"
+    ],
+    "correctAnswer": "The Rolling Stones",
+    "tags": [
+      "rock müzik",
+      "gruplar",
+      "tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5prl82gra",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Rock müzikte genellikle hangi enstrümanlar öne çıkar?",
+    "explanation": "Rock müziğin temel enstrümanları elektrikli gitar, bas gitar, bateri ve klavyedir.",
+    "options": [
+      "Piyano ve gitar",
+      "Elektrik gitar ve bas gitar",
+      "Dolmancılık ve keman",
+      "Flüt ve klavye"
+    ],
+    "correctAnswer": "Elektrik gitar ve bas gitar",
+    "tags": [
+      "rock müzik",
+      "enstrümanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z8si793jl",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Led Zeppelin grubunun en ünlü albümlerinden biri olan 'Physical Graffiti' hangi yıl yayınlandı?",
+    "explanation": "Led Zeppelin'in 'Physical Graffiti' albümü 1975 yılında yayınlandı ve rock tarihinin önemli eseri olarak kabul edilir.",
+    "options": [
+      "1974",
+      "1975",
+      "1976",
+      "1973"
+    ],
+    "correctAnswer": "1975",
+    "tags": [
+      "rock müzik",
+      "albümler",
+      "Led Zeppelin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7e35q7nsf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki rock şarkılarının hangisi The Beatles grubuna aittir?",
+    "explanation": "Hey Jude, The Beatles grubunun en ünlü şarkılarından biridir. Diğerleri farklı gruplara aittir.",
+    "options": [
+      "Hey Jude",
+      "Smells Like Teen Spirit",
+      "Bohemian Rhapsody",
+      "Stairway to Heaven"
+    ],
+    "correctAnswer": "Hey Jude",
+    "tags": [
+      "rock müzik",
+      "şarkılar",
+      "The Beatles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7orvk9rfr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Rock müziğin 'Hard Rock' alt türünün öncülerinden kabul edilen Queen grubunun solisti kimdir?",
+    "explanation": "Freddie Mercury, Queen grubunun ikonik solisti ve çok yönlü sanatçı olarak rock tarihinin en önemli isimlerinden biridir.",
+    "options": [
+      "John Lennon",
+      "Freddie Mercury",
+      "Pete Townshend",
+      "Brian May"
+    ],
+    "correctAnswer": "Freddie Mercury",
+    "tags": [
+      "rock müzik",
+      "Queen",
+      "solistler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dug7n0wnm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi rok grubu, ilk albümü 'Abbey Road' (1969) ile ünlüdür?",
+    "explanation": "The Beatles, 1969 yılında çıkan 'Abbey Road' albümü ile büyük başarı elde etmiş ve rock tarihinin en önemli gruplarından biri olarak kabul edilir.",
+    "options": [
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "The Beatles",
+      "Pink Floyd"
+    ],
+    "correctAnswer": "The Beatles",
+    "tags": [
+      "rok müzik",
+      "The Beatles",
+      "albüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qtha0l482",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Led Zeppelin grubunun vokalisti kimdir?",
+    "explanation": "Robert Plant, Led Zeppelin'in vokalisti ve en ünlü rock şarkıcılarından biridir. 'Stairway to Heaven' gibi efsanevi parçaları seslendirmiştir.",
+    "options": [
+      "Roger Waters",
+      "Robert Plant",
+      "David Gilmour",
+      "John Lennon"
+    ],
+    "correctAnswer": "Robert Plant",
+    "tags": [
+      "rok müzik",
+      "Led Zeppelin",
+      "vokalist"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h1ldu5c27",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi rok grubu 'Nevermind' (1991) albümüyle grunge türünü popüler hale getirmiştir?",
+    "explanation": "Nirvana, 1991'de çıkan 'Nevermind' albümü ile grunge türünü küresel çapta tanıtmış ve Kurt Cobain bu grubun vokalistidir.",
+    "options": [
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains",
+      "Pearl Jam"
+    ],
+    "correctAnswer": "Nirvana",
+    "tags": [
+      "rok müzik",
+      "grunge",
+      "Nirvana"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fuuoz3475",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Pink Floyd'un efsanevi 'The Wall' albümünün konsepti neyle ilgilidir?",
+    "explanation": "'The Wall' albümü, bir rock yıldızının sosyal izole olmasını anlatan konsept bir albümdür ve Roger Waters tarafından yazılmıştır.",
+    "options": [
+      "Savaş",
+      "İnsan İlişkileri ve İzolasyon",
+      "Uzay",
+      "Teknoloji"
+    ],
+    "correctAnswer": "İnsan İlişkileri ve İzolasyon",
+    "tags": [
+      "rok müzik",
+      "Pink Floyd",
+      "The Wall",
+      "konsept albüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gmfo1s8wr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi rok şarkıcısı 'Bohemian Rhapsody' parçasını seslendirmiştir?",
+    "explanation": "Freddie Mercury, Queen grubunun vokalisti ve 'Bohemian Rhapsody' parçasını seslendirmiştir. Bu şarkı rock tarihinin en ikonik parçalarından biridir.",
+    "options": [
+      "Freddie Mercury",
+      "Michael Jackson",
+      "Elton John",
+      "Brian Wilson"
+    ],
+    "correctAnswer": "Freddie Mercury",
+    "tags": [
+      "rok müzik",
+      "Queen",
+      "Bohemian Rhapsody"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vtd1xhhz1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Rock müziğin kökenleri hangi türlerden etkilenmiştir?",
+    "explanation": "Rock müziği 1940'lerde ve 1950'lerde folk müzik, blues ve country müziğin birleşimiyle oluşmuştur.",
+    "options": [
+      "Jazz ve Blues",
+      "Klasik Müzik",
+      "Folkmüzik ve Blues",
+      "Opera Sanatları"
+    ],
+    "correctAnswer": "Folkmüzik ve Blues",
+    "tags": [
+      "rock müzik",
+      "müzik tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k5onfie11",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi rock müziğinin önemli alt türlerinden biri değildir?",
+    "explanation": "Elektronik müzik rock müziğin alt türü değildir; kendi bağımsız bir müzik türüdür.",
+    "options": [
+      "Hard Rock",
+      "Alternative Rock",
+      "Heavy Metal",
+      "Elektronik Müzik"
+    ],
+    "correctAnswer": "Elektronik Müzik",
+    "tags": [
+      "rock türleri",
+      "müzik sınıflandırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8kj7nmf94",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Led Zeppelin grubunun ünlü şarkıları arasında hangisi yer almaz?",
+    "explanation": "\"Bohemian Rhapsody\" Queen grubunun 1975'te çıkardığı ünlü şarkısıdır, Led Zeppelin'e ait değildir.",
+    "options": [
+      "Stairway to Heaven",
+      "Whole Lotta Love",
+      "Kashmir",
+      "Bohemian Rhapsody"
+    ],
+    "correctAnswer": "Bohemian Rhapsody",
+    "tags": [
+      "Led Zeppelin",
+      "rock grubu şarkıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ra0oc0x9n",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Rock müziğinde kullanılan temel enstrümanlar arasında hangisi yer almaz?",
+    "explanation": "Piyano rock müziğinin temel enstrümanı değildir; elektrik gitar, bas gitar ve davul ana enstrümanlardır.",
+    "options": [
+      "Elektrik Gitar",
+      "Bas Gitar",
+      "Davul",
+      "Piyano"
+    ],
+    "correctAnswer": "Piyano",
+    "tags": [
+      "rock enstrümanları",
+      "müzik aletleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jnw28iqnd",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "1960'lı yıllarda Britanya'da ortaya çıkan rock hareketine ne ad verilir?",
+    "explanation": "1960'lı yıllarda Britanya'dan gelen rock gruplarının ABD müzik sahnesine etkisine \"British Invasion\" denir.",
+    "options": [
+      "British Invasion",
+      "Beat Movement",
+      "Psychedelic Rock",
+      "Folk Revival"
+    ],
+    "correctAnswer": "British Invasion",
+    "tags": [
+      "rock tarihi",
+      "Britanya rocku"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u5j9s0f4l",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Hangi yıl Rock ve Roll'un doğum yılı olarak kabul edilir?",
+    "explanation": "Rock ve Roll, 1950'lerin başında Elvis Presley, Chuck Berry ve diğer sanatçılarla popüler hale geldi. Bu dönem, müziğin evrimi için kritik bir aşamayı temsil eder.",
+    "options": [
+      "1940",
+      "1950",
+      "1960",
+      "1970"
+    ],
+    "correctAnswer": "1950",
+    "tags": [
+      "Rock Origins",
+      "Classic Rock"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cfxuxbeef",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki rock gruplarından hangisi 1960'ların en etkili grubu olarak kabul edilir?",
+    "explanation": "The Beatles, 1960'ların pop kültürüne derin etkisiyle tanınır. Albümleri ve evrimleri modern müzik endüstrisinin temelini oluşturmuştur.",
+    "options": [
+      "The Rolling Stones",
+      "The Beatles",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "correctAnswer": "The Beatles",
+    "tags": [
+      "Beat Generation",
+      "Classic Rock"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rjzao08gx",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Punk Rock'un öncü grubu olarak kabul edilen band hangisidir?",
+    "explanation": "The Ramones, 1974'te New York'ta kurulmuş ve Punk Rock'un temelini atan ilk önemli grup olarak kabul edilir. Kısa şarkıları ve minimalist tarzlarıyla tanınırlar.",
+    "options": [
+      "The Who",
+      "The Kinks",
+      "The Ramones",
+      "The Rolling Stones"
+    ],
+    "correctAnswer": "The Ramones",
+    "tags": [
+      "Punk Rock",
+      "1970s"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7tla56xjo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki alt türlerden hangisi Heavy Metal müziğine aittir?",
+    "explanation": "Thrash Metal, Metallica gibi gruplar tarafından popülerleştirildi ve yüksek tempo ile gitar riff'leriyle tanınır. 1980'lerin ortasında gelişen bir alt türdür.",
+    "options": [
+      "Thrash Metal",
+      "Pop Rock",
+      "Indie Folk",
+      "Soul Music"
+    ],
+    "correctAnswer": "Thrash Metal",
+    "tags": [
+      "Heavy Metal",
+      "Subgenres"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ab0823a9f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Rock müziği aşağıdaki sosyal hareketlerden hangisine en çok katkı sağlamıştır?",
+    "explanation": "Rock müziği Vietnam Savaşı döneminde 'Fortunate Son' ve 'War' gibi şarkılarla protestoları desteklemiştir. Bu, toplumsal farkındalığı artırmış ve kültürel etki bırakmıştır.",
+    "options": [
+      "Anti-Savaş Protestoları",
+      "Kadın Hakları Hareketi",
+      "Ekonomik Reformlar",
+      "Siyasi Partiler"
+    ],
+    "correctAnswer": "Anti-Savaş Protestoları",
+    "tags": [
+      "Social Impact",
+      "Music History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8b6wzozjc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Rock müziğin ilk dönemlerinden hangisi olarak kabul edilir?",
+    "explanation": "Rock and roll terimi 1950'lerde ortaya çıkmış ve bu dönem rock müziğin ilk dönemlerinden biri olarak kabul edilir.",
+    "options": [
+      "1940'lar",
+      "1950'ler",
+      "1960'lar",
+      "1970'ler"
+    ],
+    "correctAnswer": "1950'ler",
+    "tags": [
+      "rock müzik",
+      "tarih",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lwz3zgolj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi grup, 1967 yılında 'Sgt. Pepper's Lonely Hearts Club Band' albümünü çıkarmıştır?",
+    "explanation": "The Beatles, rock müziğin en önemli gruplarından biri olarak 1967'de Sgt. Pepper's Lonely Hearts Club Band albümünü çıkarmıştır.",
+    "options": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "correctAnswer": "The Beatles",
+    "tags": [
+      "rock müzik",
+      "alбомlar",
+      "The Beatles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pu78bhwno",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "Led Zeppelin grubunun vokali ve kurucusu kimdir?",
+    "explanation": "Robert Plant, Led Zeppelin'in kurucu üyelerinden biri ve vokalistidir.",
+    "options": [
+      "Robert Plant",
+      "John Paul Jones",
+      "Jimmy Page",
+      "John Bonham"
+    ],
+    "correctAnswer": "Robert Plant",
+    "tags": [
+      "rock müzik",
+      "Led Zeppelin",
+      "vokal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s0jeldta6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "1979'da 'Born to Run' albümüyle tanınan rock grubu hangisidir?",
+    "explanation": "Bruce Springsteen, 1979'da 'Born to Run' albümüyle tanınan önemli rock sanatçısıdır.",
+    "options": [
+      "Bruce Springsteen",
+      "Elton John",
+      "David Bowie",
+      "Fleetwood Mac"
+    ],
+    "correctAnswer": "Bruce Springsteen",
+    "tags": [
+      "rock müzik",
+      "alбомlar",
+      "Bruce Springsteen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nh0cxxl5k",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Hangi rock şarkısı, 1969 yılında Woodstock Festivalinde çalarak efsaneleşmiştir?",
+    "explanation": "Jimi Hendrix'in 'Purple Haze' şarkısı, 1969 Woodstock Festivalinde çalarak rock tarihinin efsanelerinden biri olmuştur.",
+    "options": [
+      "Purple Haze",
+      "Hey Jude",
+      "Light My Fire",
+      "Starman"
+    ],
+    "correctAnswer": "Purple Haze",
+    "tags": [
+      "rock müzik",
+      "Woodstock",
+      "Jimi Hendrix"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qyqmqqonf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EXPERT",
+    "question": "Hangi yıl 'Black Sabbath' grubunun ilk albümü ve modern heavy metal'in başlangıcı kabul edilir?",
+    "explanation": "Black Sabbath'ın ilk albümü 'Paranoid' 1970 yılında yayınlandı ve heavy metal/rock müziğin temellerini attı.",
+    "options": [
+      "1969",
+      "1970",
+      "1971",
+      "1972"
+    ],
+    "correctAnswer": "1970",
+    "tags": [
+      "Rock Müzik",
+      "Black Sabbath",
+      "Müzik Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "epiunaeq1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Freddie Mercury hangi grubun vokaliydi?",
+    "explanation": "Freddie Mercury, Queen grubunun ikonik vokali ve frontman'ı olarak bilinir.",
+    "options": [
+      "The Beatles",
+      "Pink Floyd",
+      "Queen",
+      "Led Zeppelin"
+    ],
+    "correctAnswer": "Queen",
+    "tags": [
+      "Rock Müzik",
+      "Queen",
+      "Freddie Mercury"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4hzm4rh84",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Hangi rock şarkısı 'Stairway to Heaven' adını taşır?",
+    "explanation": "Stairway to Heaven, Led Zeppelin'ın en meşhur ve ikonik şarkılarından biridir.",
+    "options": [
+      "Pink Floyd",
+      "Led Zeppelin",
+      "The Rolling Stones",
+      "Deep Purple"
+    ],
+    "correctAnswer": "Led Zeppelin",
+    "tags": [
+      "Rock Müzik",
+      "Led Zeppelin",
+      "Şarkılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ee9z57cxq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "GENERAL",
+    "question": "The Doors grubunun vokali Jim Morrison hangi yıl öldü?",
+    "explanation": "Jim Morrison, The Doors'ın vokali olarak 1971 yılında Los Angeles'ta öldü.",
+    "options": [
+      "1968",
+      "1969",
+      "1970",
+      "1971"
+    ],
+    "correctAnswer": "1971",
+    "tags": [
+      "Rock Müzik",
+      "The Doors",
+      "Jim Morrison"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jq0cmsrjj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Rock Müzik",
+    "difficulty": "EASY",
+    "question": "Hangi rock grubu 'Abbey Road' albümüyle tanınır?",
+    "explanation": "Abbey Road, The Beatles'ın son stüdyo albümü ve müzik tarihinin en önemli eserlerinden biridir.",
+    "options": [
+      "The Beatles",
+      "Pink Floyd",
+      "Led Zeppelin",
+      "The Who"
+    ],
+    "correctAnswer": "The Beatles",
+    "tags": [
+      "Rock Müzik",
+      "The Beatles",
+      "Albüm Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

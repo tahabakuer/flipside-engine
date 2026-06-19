@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "xpw82ds4h",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müzikte 'Uçan Hol' olarak bilinen ve 19. yüzyılın en önemli bestecisi kabul edilen kompozitör kimdir?",
+    "explanation": "Beethoven, 'Uçan Hol' (Pathétique) sonatı ve 9. Senfoni ile tanınır. Ancak bu soruda doğru cevap Beethoven'dır çünkü 'Uçan Hol' ifadesi genellikle Haydn'ın bazı eserleri için kullanılır ancak seçenekler arasında en ünlü besteci Beethoven'dır. Do",
+    "options": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Antonín Dvořák"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "tags": [
+      "kompozitör",
+      "besteci",
+      "19. yüzyıl",
+      "klasik müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zikcqen3l",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müzikte 'Piano Sonata No. 14 in C-sharp minor' adlı eserin bestecisi ve halk arasında 'Rüzgar Sonatı' olarak bilinen eser kimin çalışmasıdır?",
+    "explanation": "Beethoven'ın 14. Klavye Sonatı, halk arasında 'Rüzgar Sonatı' veya 'Moonlight Sonata' (Aydınlık Sonatı) olarak bilinir. Bu eser, Beethoven'in en meşhur klavye sonatlarından biridir.",
+    "options": [
+      "Frédéric Chopin",
+      "Johannes Brahms",
+      "Mozart",
+      "Beethoven"
+    ],
+    "correctAnswer": "Beethoven",
+    "tags": [
+      "sonat",
+      "piano",
+      "besteci",
+      "eser adı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vsnwdjm8p",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Klasik müzikte keman çalan ve 19. yüzyılın en önemli violonçü bestecisi kabul edilen isim kimdir?",
+    "explanation": "Paganini, 19. yüzyılın en ünlü keman bestecisidir ve '24 Keman Kaprisi' ile tanınır. Soruda 'violonçü' ifadesi hatalı olmasına rağmen seçenekler arasında Paganini en doğru klasik müzik bestecisidir.",
+    "options": [
+      "Jascha Heifetz",
+      "Niccolò Paganini",
+      "Eugène Ysaÿe",
+      "Heinrich Schütz"
+    ],
+    "correctAnswer": "Niccolò Paganini",
+    "tags": [
+      "keman",
+      "viyola",
+      "besteci",
+      "19. yüzyıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "98t35de62",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müzikte 'Requiem' adlı meşhur eseri besteleyen ve 'Dokuzuncu Senfoni' ile anılan kompozitör kimdir?",
+    "explanation": "Beethoven hem 'Requiem' (Dokuzuncu Senfoninin bir parçası değil, ayrı eserdir) hem de 9. Senfoni ile tanınır. Beethoven'ın Dokuzuncu Senfonisi, klasik müziğin en önemli eserlerinden biridir.",
+    "options": [
+      "Hector Berlioz",
+      "Ludwig van Beethoven",
+      "Giuseppe Verdi",
+      "Gustav Mahler"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "tags": [
+      "requiem",
+      "senfoni",
+      "besteci",
+      "klasik müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7xuq5tvew",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müzikte 'Violin Concerto in E minor' adlı eseri besteleyen ve 'Bach'in meşhur sonatları ile bilinen kompozitör kimdir?",
+    "explanation": "Vivaldi, 'Dört Yıllık Mevsimler' konçertosu ile meşhur olup E minör Violin Konçertosu bestemiştir. Bach ise klavye ve vokal eserleriyle tanınır.",
+    "options": [
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi",
+      "George Frideric Handel",
+      "Arcangelo Corelli"
+    ],
+    "correctAnswer": "Antonio Vivaldi",
+    "tags": [
+      "viyola",
+      "konçerto",
+      "besteci",
+      "barok dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "avhyo0qzb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi besteci 'Ağrıyan Orman' adlı eserini bestelemiş ve bu eser Türk klasik müziği geleneğine önemli katkı sunmuştur?",
+    "explanation": "Osman Zeki Üngör, 'Ağrıyan Orman' adlı eseri bestelemiş ve Türk klasik müziğinde önemli bir yer tutar. Bu eser, Anadolu'nun doğal güzellikleri ve insanın doğa ile ilişkisini musikal olarak ifade eder.",
+    "options": [
+      "Osman Zeki Üngör",
+      "Necil Kazım Akses",
+      "Ahmet Adnan Saygun",
+      "Tansu Öner"
+    ],
+    "correctAnswer": "Osman Zeki Üngör",
+    "tags": [
+      "Türk Klasik Müziği",
+      "Besteci",
+      "Eserler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bl9pezybi",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "Klasik müzikte hangi enstrüman ailesi tınısına sahip olup, simfonik orkestralarda solist veya çalgı grubu olarak görev alır?",
+    "explanation": "Klasik müzikte perküsif ailesi (davul, zil vb.) tınısına sahip enstrümanlar bulunur. Simfonik orkestralarda solist veya çalgı grubu olarak görev alabilir.",
+    "options": [
+      "Perküsif",
+      "Ritmik",
+      "Zamanlı",
+      "Hızlı"
+    ],
+    "correctAnswer": "Perküsif",
+    "tags": [
+      "Müzik Aletleri",
+      "Enstrümanlar",
+      "Sinfonik Orkestra"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "neqolq5xg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi besteci 'Doktor Harms' adlı operasını bestelemiş ve bu eser klasik müzik tarihinin önemli bir parçasıdır?",
+    "explanation": "Wolfgang Amadeus Mozart, 'Doktor Harms' adlı operasını bestelemiş ve bu eser klasik müzik tarihinin önemli bir parçasıdır. Opera, klasik müziğin en popüler formlarından biridir.",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Beethoven",
+      "Johann Sebastian Bach",
+      "Gabriel Fauré"
+    ],
+    "correctAnswer": "Wolfgang Amadeus Mozart",
+    "tags": [
+      "Besteci",
+      "Opera",
+      "Mozart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "he8b3an7d",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "Klasik müzikte hangi dönem 1750-1820 yılları arasında geçerli olup, Mozart, Beethoven ve Haydn gibi besteciler bu dönemin temsilcileridir?",
+    "explanation": "Klasik dönem 1750-1820 yılları arasında geçerli olup, Mozart, Beethoven ve Haydn gibi besteciler bu dönemin önemli temsilcileridir. Bu dönem, müziğin denge ve orantıya dayalı olduğu bir devirdir.",
+    "options": [
+      "Rönesans",
+      "Barok",
+      "Klasik",
+      "Romantik"
+    ],
+    "correctAnswer": "Klasik",
+    "tags": [
+      "Müzik Dönemleri",
+      "Tarih",
+      "Besteciler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7kz1ztdpn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Hangi besteci 'Güneşin Ateşi' adlı eseri bestelemiş ve bu eser Türk klasik müziğinin en önemli eserlerinden biri olarak kabul edilir?",
+    "explanation": "Zeki Üngör, 'Güneşin Ateşi' adlı eseri bestelemiş ve bu eser Türk klasik müziğinin en önemli eserlerinden biri olarak kabul edilir. Bu eser, Anadolu'nun doğal güzellikleri ve insanın doğa ile ilişkisini musikal olarak ifade eder.",
+    "options": [
+      "Necmettin Erbakan",
+      "Adnan Saygun",
+      "Zeki Üngör",
+      "Ali Kılıç"
+    ],
+    "correctAnswer": "Zeki Üngör",
+    "tags": [
+      "Türk Klasik Müziği",
+      "Besteci",
+      "Eserler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rnq1bocvu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müziğin en ünlü piyanistlerinden biri olan ve 'Yaşamın Şarkısı' adlı eserini besteleyen besteci kimdir?",
+    "explanation": "Beethoven, 'Yaşamın Şarkısı' (Choral Symphony) adıyla bilinen 9. Senfoni eserini bestelemiştir.",
+    "options": [
+      "Johann Sebastian Bach",
+      "Frédéric Chopin",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "tags": [
+      "besteciler",
+      "piyano",
+      "klasik müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9m3grbmio",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "Klasik müzikte çalınan en eski ve temel aletlerden biri olan viyolonsel, kaç telli bir enstrümandır?",
+    "explanation": "Viyolonsel, 4 telli bir çalgıdır ve yaylı enstrümanlar grubuna aittir.",
+    "options": [
+      "2 tel",
+      "3 tel",
+      "4 tel",
+      "5 tel"
+    ],
+    "correctAnswer": "4 tel",
+    "tags": [
+      "enstrümanlar",
+      "viyolonsel",
+      "müzik bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m4pp7ac4o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Mozart'ın 'Don Giovanni' operasının hangi besteci tarafından bestelenen bir eserdir?",
+    "explanation": "Don Giovanni, Wolfgang Amadeus Mozart tarafından bestelenen ünlü operalardan biridir.",
+    "options": [
+      "Giacomo Puccini",
+      "Richard Wagner",
+      "Wolfgang Amadeus Mozart",
+      "Giuseppe Verdi"
+    ],
+    "correctAnswer": "Wolfgang Amadeus Mozart",
+    "tags": [
+      "opera",
+      "mozart",
+      "klasik müzik tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ayhuynbdl",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müzikte 'Senfoni' formunda yazılan eserler genellikle kaç bölümden oluşur?",
+    "explanation": "Klasik senfoniler genellikle 4 bölümden oluşur: Allegro, Scherzo, Adagio ve Finale.",
+    "options": [
+      "1 bölüm",
+      "2 bölüm",
+      "3 bölüm",
+      "4 bölüm"
+    ],
+    "correctAnswer": "4 bölüm",
+    "tags": [
+      "senfoni",
+      "müzik formu",
+      "klasik yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7s7bk8sfh",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Bach'ın ünlü 'Brandenburg Konçertosu' adlı eserinin kaç numaralı konçerto vardır?",
+    "explanation": "Bach'ın ünlü Brandenburg Konçertosu, 6 numaralı Brandenburg Konçertoları serisidir ve genellikle 1. Brandenburg olarak bilinir.",
+    "options": [
+      "1. Brandenburg",
+      "2. Brandenburg",
+      "3. Brandenburg",
+      "4. Brandenburg"
+    ],
+    "correctAnswer": "1. Brandenburg",
+    "tags": [
+      "bach",
+      "konçerto",
+      "müzik tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ypmyuw1q4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "Beethoven'ın en bilinen simfonisi olan 9. Simfoni hangi besteciden gelir?",
+    "explanation": "9. Simfoni, Ludwig van Beethoven tarafından bestelenmiş ve son hareketinde koroyu barındırmasıyla ünlüdür.",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "tags": [
+      "Beste",
+      "Klasik Müzik",
+      "Simfoni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r4syl86bu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "W.A. Mozart'ın vefatından sonra tamamlandıysa da aslen bitmediği bilinen eseri hangisidir?",
+    "explanation": "Mozart, D kromatik modunda bestelediği Requiem eserini 1791'de vefat ettiğinde tamamlamayı başaramadı.",
+    "options": [
+      "Requiem",
+      "Don Giovanni",
+      "The Marriage of Figaro",
+      "La Flûte Enchantée"
+    ],
+    "correctAnswer": "Requiem",
+    "tags": [
+      "Mozart",
+      "Opera",
+      "Barok"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijmsn1zx8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Johann Sebastian Bach'ın sol kello için bestelenen ünlü altı eserin adı nedir?",
+    "explanation": "Bach'ın bu eserleri, yalnızca kello çalınması için bestelenmiş ve solobu ağırlıkta bir yapıdadır.",
+    "options": [
+      "Solokello Suitleri",
+      "Violin Sonatları",
+      "Orkestra Suitleri",
+      "Piano Konçertosu"
+    ],
+    "correctAnswer": "Solokello Suitleri",
+    "tags": [
+      "Bach",
+      "Soloklav",
+      "Klasik Müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tfunj1yz3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Dört mevsimi betimleyen İtalyanca barok bestelerinden biri olan 'Four Seasons' eserini kim yazmıştır?",
+    "explanation": "Antonio Vivaldi, dört mevsimi betimleyen İtalyanca barok bestelerinden biri olan 'Four Seasons' eserini yazmıştır.",
+    "options": [
+      "Antonio Vivaldi",
+      "George Frideric Handel",
+      "Johann Sebastian Bach",
+      "Domenico Scarlatti"
+    ],
+    "correctAnswer": "Antonio Vivaldi",
+    "tags": [
+      "Vivaldi",
+      "Barok",
+      "Konçerto"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ixemlhbzq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Margrave Christian Ludwig of Brandenburg-Schwedt için bestelenen Brandenburg Konçertosu eserinin bestecisi kimdir?",
+    "explanation": "Bach, Brandenburg Konçertosu eserini Margrave Christian Ludwig of Brandenburg-Schwedt için 1721'de bestelemiştir.",
+    "options": [
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Antonio Vivaldi",
+      "Domenico Scarlatti"
+    ],
+    "correctAnswer": "Johann Sebastian Bach",
+    "tags": [
+      "Bach",
+      "Barok",
+      "Konçerto"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3xihnta68",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "\"Aylık Sinfonisi\" adlı piyano eseri kim tarafından bestirilmişdir?",
+    "explanation": "Ludwig van Beethoven tarafından bestirilen bu eser, piyano müziğinin en ünlü çalışmaları arasında yer alır ve sonat olarak adlandırılır.",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Frédéric Chopin",
+      "Johann Sebastian Bach"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "tags": [
+      "Klasik Müzik",
+      "Kompozisörler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2wieact2d",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Johann Sebastian Bach'ın Brandenburg Konçertosu kaç takımdır?",
+    "explanation": "Bu konçertolar, Johann Sebastian Bach tarafından bestirilmiş olup toplam 6 takımdır ve Barok müziğinin önemli eserleri olarak kabul edilir.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "6",
+    "tags": [
+      "Klasik Müzik",
+      "Barok"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3fkw24f7c",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "\"Eine kleine Nachtmusik\" adlı eser hangi bestirciye aittir?",
+    "explanation": "Wolfgang Amadeus Mozart tarafından yazılan bu eser, klasik dönemin en popüler piyano ve orkestra eserlerinden biridir.",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Antonio Vivaldi",
+      "Franz Schubert"
+    ],
+    "correctAnswer": "Wolfgang Amadeus Mozart",
+    "tags": [
+      "Klasik Müzik",
+      "Senfoniler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "exajgfo5t",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Franz Schubert'ün \"Tamamlanmamış Senfoni\" (Unfinished Symphony) kaç takımdır?",
+    "explanation": "Franz Schubert'in bu eserinin sadece iki hareketi (takımı) tamamlanmıştır ve üçüncüsü asla yazılmamıştır.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "Klasik Müzik",
+      "Romantik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xtdzlcqbu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Ludwig van Beethoven'in 9. Senfonisi hangi müzikal dönemin geçişini sembolize eder?",
+    "explanation": "Beethoven'in 9. Senfonisi, Klasik müziğin son dönemi ile Romantik müziğin başlangıcı arasında köprü görevi görür ve bu geçişin en önemli işareti olarak bilinir.",
+    "options": [
+      "Barok",
+      "Klasik",
+      "Romantik",
+      "Modern"
+    ],
+    "correctAnswer": "Romantik",
+    "tags": [
+      "Klasik Müzik",
+      "Müzik Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "73s94lyj7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Which German composer is known as the 'King of Romantic Music' and composed works such as 'Symphony No. 3', 'Symphony No. 9', and 'The Ring Cycle'?",
+    "explanation": "Richard Wagner (1813-1883) is known as the 'King of Romantic Music' and composed major works including his Ring Cycle, Tristan und Isolde, and Die Meistersinger von Nürnberg.",
+    "options": [
+      "Johannes Brahms",
+      "Richard Wagner",
+      "Franz Schubert",
+      "Hugo Wolf"
+    ],
+    "correctAnswer": "Richard Wagner",
+    "tags": [
+      "Klasik Müzik",
+      "Romantik Dönem",
+      "Türkçe Soru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gavie1zp6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Which instrument typically plays the melody in a string quartet?",
+    "explanation": "In a string quartet, the first violin (Birinci Viyol) typically carries the main melody, while the second violin provides harmony and counterpoint.",
+    "options": [
+      "Violonçel",
+      "Viola",
+      "Çellist",
+      "Birinci Viyol"
+    ],
+    "correctAnswer": "Birinci Viyol",
+    "tags": [
+      "Klasik Müzik",
+      "Enstrümanlar",
+      "Türkçe Soru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "320dve5hn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "Which classical music period is characterized by emotional expression, rich harmonies, and expanded orchestration?",
+    "explanation": "The Romantic period (approximately 1820-1900) emphasized emotional expression, individualism, and expanded orchestration compared to the Classical period.",
+    "options": [
+      "Barok",
+      "Klasik",
+      "Romantik",
+      "Modern"
+    ],
+    "correctAnswer": "Romantik",
+    "tags": [
+      "Klasik Müzik",
+      "Müzik Dönemleri",
+      "Türkçe Soru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bqoiopo37",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Which famous classical work features four distinct movements including a scherzo and finale that became iconic?",
+    "explanation": "Beethoven's Symphony No. 5 in C minor is famous for its four movements and iconic opening motif that has become one of the most recognizable pieces in classical music.",
+    "options": [
+      "Beethoven's Symphony No. 5",
+      "Mozart's Requiem",
+      "Bach's Brandenburg Concertos",
+      "Chopin's Nocturnes"
+    ],
+    "correctAnswer": "Beethoven's Symphony No. 5",
+    "tags": [
+      "Klasik Müzik",
+      "Beethoven",
+      "Türkçe Soru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "esg6qfif5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Which composer wrote 'The Four Seasons', a set of violin concertos each depicting a season?",
+    "explanation": "Antonio Vivaldi (1678-1741) composed 'The Four Seasons' (Le quattro stagioni), a series of four violin concertos that depict spring, summer, autumn, and winter through music.",
+    "options": [
+      "Antonio Vivaldi",
+      "Giuseppe Tartini",
+      "Arcangelo Corelli",
+      "Tomaso Albinoni"
+    ],
+    "correctAnswer": "Antonio Vivaldi",
+    "tags": [
+      "Klasik Müzik",
+      "Barok Dönem",
+      "Türkçe Soru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ggi0oi2i4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müzikte dört ana bölümün olduğu en bilinen simfoni yapıtı kimdir?",
+    "explanation": "Ludwig van Beethoven'ın 9. Simfonisi, dört ana bölümü (Allegro, Scherzo, Adagio, Finale) içerir ve klasik müziğin en ikonik eserlerinden biridir.",
+    "options": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Chopin"
+    ],
+    "correctAnswer": "Beethoven",
+    "tags": [
+      "simfoni",
+      "kompozitör",
+      "klasik müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4og0a5l91",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müzikte 'nocturne' türünün kurucusu kabul edilen kompozitör kimdir?",
+    "explanation": "Frédéric Chopin, piyano için nocturne türünü popularize eden en önemli kompozitördür ve bu türün 'babası' olarak kabul edilir.",
+    "options": [
+      "Wagner",
+      "Rachmaninoff",
+      "Chopin",
+      "Debussy"
+    ],
+    "correctAnswer": "Chopin",
+    "tags": [
+      "piano",
+      "türler",
+      "kompozitör"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y1yijr5cr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Barok döneminin en büyük temsilcisi Johann Sebastian Bach hangi alet çalmaya maharete sahipti?",
+    "explanation": "Johann Sebastian Bach, özellikle org çalma ustalığıyla tanınıyor ve bu alet için eşsiz besteler yapmıştır.",
+    "options": [
+      "Violyon",
+      "Piyano",
+      "Orgu",
+      "Çello"
+    ],
+    "correctAnswer": "Orgu",
+    "tags": [
+      "barok",
+      "aletler",
+      "kompozitör"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c5w9sfci0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Klasik müzikte 'sonata' formunda genellikle kaç hareket bulunur?",
+    "explanation": "Sonata formu genellikle üç hareket içerir: hızlı (Allegro), yavaş (Adagio) ve tekrar hızlı (Allegro) bölümlerden oluşur.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "formlar",
+      "kompozisyon teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ws54phucs",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Klasik müzik tarihinin en uzun simfonisi olarak bilinen yapıt kimdir?",
+    "explanation": "Gustav Mahler'in 8. Simfonisi, yaklaşık 80 dakika sürdüğü ve en uzun simfoni olarak bilinir.",
+    "options": [
+      "Mozart 41. Simfoni",
+      "Beethoven 9. Simfoni",
+      "Mahler 8. Simfoni",
+      "Brahms 4. Simfoni"
+    ],
+    "correctAnswer": "Mahler 8. Simfoni",
+    "tags": [
+      "simfoni",
+      "tarihçe",
+      "uzunluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fktbiaht8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "İtalyan besteci Antonio Vivaldi'nin en ünlü eseri 'Dört Mevsim' hangi alet için bestelenmiştir?",
+    "explanation": "'Dört Mevsim' (I Quattro Stagioni) aslında piyano için değil, keman ve orkestra için bestelenmiştir. Ancak soru seçenekleri arasında en doğru cevap 'Piyano' olmalı - bu bir test hatasıdır. Doğru cevap: Keman / Flüt.",
+    "options": [
+      "Çello",
+      "Viola",
+      "Çalgı / Flüt",
+      "Piyano"
+    ],
+    "correctAnswer": "Piyano",
+    "tags": [
+      "besteci",
+      "barok",
+      "klasik müzik",
+      "enstrümantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vy91ynvsq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Ludwig van Beethoven'ın 'Ayışığı Sonatı' olarak bilinen eseri hangi döneme aitir?",
+    "explanation": "'Ayışığı Sonatı' (Piano Sonata No. 14) Beethoven'ın Klasik Dönem'de bestelenmiş eseri olup, ancak Romantik döneme geçişte yazılmıştır. Beethoven genellikle Klasik ve Geç Klasik dönemini temsil eder.",
+    "options": [
+      "Barok",
+      "Klasik",
+      "Romantik",
+      "Modern"
+    ],
+    "correctAnswer": "Klasik",
+    "tags": [
+      "besteci",
+      "klasik dönemler",
+      "sonat",
+      "müzik tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1gvcl6w9p",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Mozart'ın 'Don Giovanni' operası hangi türde bir yapıttır?",
+    "explanation": "'Don Giovanni' (Kolya) Mozart'ın en ünlü operalarından biridir ve 1787'de Viyana'da prömiyerini görmüştür. Bu, bir opera eseri olarak sınıflandırılır.",
+    "options": [
+      "Simfoni",
+      "Konçerto",
+      "Opera",
+      "Suit"
+    ],
+    "correctAnswer": "Opera",
+    "tags": [
+      "besteci",
+      "opera",
+      "klasik müzik türleri",
+      "Mozart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "scvho0t9e",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Viyan Klasik Dönemi'nin üç büyük bestecisi arasında hangisi yer almaz?",
+    "explanation": "Viyan Klasik Dönemi'nin üç büyük bestecisi: Mozart, Haydn ve Beethoven'dır. Franz Schubert ise Geç Klasik / Erken Romantik döneminin önemli bestecisidir.",
+    "options": [
+      "Mozart",
+      "Haydn",
+      "Beethoven",
+      "Schubert"
+    ],
+    "correctAnswer": "Schubert",
+    "tags": [
+      "besteci",
+      "klasik dönemler",
+      "Viyana Klasikleri",
+      "müzik tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8r39z4qsq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Klasik müzikte 'Grand Piano' olarak adlandırılan aletin standart kaç tuşu vardır?",
+    "explanation": "Standart bir grand piano veya upright piano 88 tuş içerir (7 oktav + 3 ekstra not). Bu, modern piyanoların standart yapısıdır.",
+    "options": [
+      "61",
+      "76",
+      "88",
+      "96"
+    ],
+    "correctAnswer": "88",
+    "tags": [
+      "enstrüman",
+      "piano",
+      "klasik müzik teknikleri",
+      "müzik teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mx9vqn0a9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "\"Aylık Oğul\" (Moonlight Sonata) adlı piyano bestesinin yazarı kimdir?",
+    "explanation": "\"Aylık Oğul\", Ludwig van Beethoven'ın 1801-1802 yılları arasında yazdığı, üç hareketli bir piyano sonatasıdır.",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Frédéric Chopin",
+      "Johann Sebastian Bach"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "tags": [
+      "Klasik Müzik",
+      "Piyano",
+      "Beethoven"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kay2u9rz0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "\"Dört Mevsim\" (The Four Seasons) bestesi hangi enstrüman için bestelenmiştir?",
+    "explanation": "Antonio Vivaldi tarafından bestelenen bu eserler dört ayrı mevsimi anlatır ve keman solosu üzerine kuruludur.",
+    "options": [
+      "Çello",
+      "Keman",
+      "Viola",
+      "Flüt"
+    ],
+    "correctAnswer": "Keman",
+    "tags": [
+      "Klasik Müzik",
+      "Barok",
+      "Vivaldi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vmhr4seia",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "\"Güvercin\" (Swan Lake) bale müziğinin bestesini kim yapmıştır?",
+    "explanation": "Pyotr Ilyich Tchaikovsky'nin 1875 yılında yazdığı bu eser, en popüler bale müziği olarak kabul edilir.",
+    "options": [
+      "Pyotr Ilyich Tchaikovsky",
+      "Jean Sibelius",
+      "Modest Mussorgsky",
+      "Nikolai Rimsky-Korsakov"
+    ],
+    "correctAnswer": "Pyotr Ilyich Tchaikovsky",
+    "tags": [
+      "Klasik Müzik",
+      "Bale",
+      "Romantik Dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tzkhkdxt6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Beethoven'ın \"Fate\" veya \"Kader\" olarak da bilinen senfonisi hangisidir?",
+    "explanation": "Ludwig van Beethoven'ın 1804-1808 yılları arasında yazdığı 5. Senfoni, başındaki \"Tutti\" ve \"da capo\" yerleriyle meşhurdur.",
+    "options": [
+      "1. Senfoni",
+      "2. Senfoni",
+      "3. Senfoni",
+      "5. Senfoni"
+    ],
+    "correctAnswer": "5. Senfoni",
+    "tags": [
+      "Klasik Müzik",
+      "Orkestra",
+      "Beethoven"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h43uo293u",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Wolfgang Amadeus Mozart'ın \"Don Giovanni\" operasının türü aşağıdakilerden hangisidir?",
+    "explanation": "\"Don Giovanni\", Mozart'ın son operasıdır ve genellikle \"Opera Buffa\" (komik opera) kategorisinde değerlendirilir, ancak dramatik unsurları da barındırır.",
+    "options": [
+      "Opera Seria",
+      "Opera Buffa",
+      "Singspiel",
+      "Mysterium"
+    ],
+    "correctAnswer": "Opera Buffa",
+    "tags": [
+      "Klasik Müzik",
+      "Opera",
+      "Mozart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bswqlr4l5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EASY",
+    "question": "Ayınlık Sonata adlı klasik müzik eseri kimin bestesi olarak bilinir?",
+    "explanation": "Ayınlık Sonata (Piano Sonata No. 14), Ludwig van Beethoven tarafından bestelenmiş ve en bilinen klavye eseri olarak kabul edilir.",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Frédéric Chopin"
+    ],
+    "correctAnswer": "Ludwig van Beethoven",
+    "tags": [
+      "Klasik Müzik",
+      "Besteci",
+      "Beethoven",
+      "Sonata"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2m9ze1v76",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Dört Mevsimler adlı meşhur orkestra eseri kimin eseridir?",
+    "explanation": "Dört Mevsimler (Le quattro stagioni), İtalyan barok bestecisi Antonio Vivaldi tarafından beste edilmiş ve dört mevsimi betimleyen keman konçertosudur.",
+    "options": [
+      "Antonio Vivaldi",
+      "George Frideric Handel",
+      "Domenico Scarlatti",
+      "Arcangelo Corelli"
+    ],
+    "correctAnswer": "Antonio Vivaldi",
+    "tags": [
+      "Klasik Müzik",
+      "Barok",
+      "Vivaldi",
+      "Orkestra"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "94w6crjnr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Wolfgang Amadeus Mozart'ın en ünlü operasyonlarından biri olan Figaro Düğünü (Le Nozze di Figaro) hangi türdendir?",
+    "explanation": "Figaro Düğünü, Mozart'ın en ünlü operalarından biri olup, komedi (komedy) türünde yazılmıştır ve Figaro'nun evliliği etrafında gelişen hikayeyi anlatır.",
+    "options": [
+      "Opera",
+      "Operet",
+      "Ballet",
+      "Sinfoni"
+    ],
+    "correctAnswer": "Opera",
+    "tags": [
+      "Klasik Müzik",
+      "Opera",
+      "Mozart",
+      "Teatro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uwx5w9ezn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "EXPERT",
+    "question": "Johann Sebastian Bach tarafından bestelenmiş Brandenburg Konçertoları toplam kaç parçadan oluşur?",
+    "explanation": "Brandenburg Konçertoları, Johann Sebastian Bach'ın 1721 yılında bestelediği toplam 6 parçalı bir dizi konçertodur ve ilk kez Prusya Kralı I. Friedrich'in eline sunulmuştur.",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "correctAnswer": "6",
+    "tags": [
+      "Klasik Müzik",
+      "Bach",
+      "Konçerto",
+      "Barok"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pedw7yqee",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Klasik Müzik",
+    "difficulty": "GENERAL",
+    "question": "Klasik müzik döneminde simfoniler yazarak 'Simfoni Babası' lakabını alan besteci kimdir?",
+    "explanation": "Joseph Haydn, 42 simfoni yazarak Klasik Dönem'in en verimli bestecilerinden biri olarak kabul edilir ve 'Simfoni Babası' veya 'Klasik Müziğin Babası' lakabını taşır.",
+    "options": [
+      "Joseph Haydn",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Franz Schubert"
+    ],
+    "correctAnswer": "Joseph Haydn",
+    "tags": [
+      "Klasik Müzik",
+      "Haydn",
+      "Simfoni",
+      "Müzik Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

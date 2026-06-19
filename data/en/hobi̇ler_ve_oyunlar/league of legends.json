@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "ezlztymjv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends oyununda hangi rolün temel işlevi takımın kalkanını ve yaşam desteğini sağlamaktır?",
+    "explanation": "Support rollerinin temel görevi takım arkadaşlarına yaşam, kalkan ve hareket yetenekleri sağlayarak takımın genel dayanıklılığını artırmaktır.",
+    "options": [
+      "ADC (Attack Damage Carry)",
+      "Jungler",
+      "Support",
+      "Top Laner"
+    ],
+    "correctAnswer": "Support",
+    "tags": [
+      "role",
+      "gameplay",
+      "league of legends"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pgdxg80hb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'ta hangi kahraman 'Yasuo' olarak bilinir ve Japon kökenlidir?",
+    "explanation": "Yasuo, Wind Wall yeteneği ile bilinen Japon kökenli bir kahramandır ve League of Legends'ta popüler bir seçimidir.",
+    "options": [
+      "Lee Sin",
+      "Zed",
+      "Yasuo",
+      "Akali"
+    ],
+    "correctAnswer": "Yasuo",
+    "tags": [
+      "champion",
+      "character",
+      "league of legends"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sk2c61et7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends oyununda 'Summoner Spells' olarak adlandırılan becerilerden hangisi en yaygın kullanılan teleportasyon yeteneğidir?",
+    "explanation": "Teleport Summoner Spell'i oyuncuların belirli bir alana ışık hızında ulaşmasını sağlar ve oyunun en yaygın teleport yeteneğidir.",
+    "options": [
+      "Flash",
+      "Teleport",
+      "Heal",
+      "Smite"
+    ],
+    "correctAnswer": "Teleport",
+    "tags": [
+      "abilities",
+      "summoner spells",
+      "gameplay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pi03mnx1w",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends'ta 'Jungle' olarak adlandırılan bölgeye hangi rolün özel erişimi vardır?",
+    "explanation": "Jungler rolleri Jungle bölgesindeki yaratıkları avlayarak eşya ve deney kazanır ve takımın genel gelişimini sağlar.",
+    "options": [
+      "Top Laner",
+      "ADC (Attack Damage Carry)",
+      "Support",
+      "Jungler"
+    ],
+    "correctAnswer": "Jungler",
+    "tags": [
+      "role",
+      "jungle",
+      "gameplay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gax34kj9r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'ta 'Rift' olarak adlandırılan oyun haritası nelerden oluşur?",
+    "explanation": "League of Legends Rift haritası Nexus, Turret ve Inhibitor yapılarından oluşur. Bu yapıların yıktığı oyunun ilerlemesini belirler.",
+    "options": [
+      "Nexus, Turret, Inhibitor",
+      "Base, Tower, Building",
+      "Arena, Stadium, Platform",
+      "Court, Field, Ground"
+    ],
+    "correctAnswer": "Nexus, Turret, Inhibitor",
+    "tags": [
+      "map",
+      "game components",
+      "league of legends"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ib5mchyps",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends oyununda hangi rol 'Toplanıcı' olarak bilinir ve genellikle 1v1 duello yeteneği yüksek şampiyonlar seçilir?",
+    "explanation": "Mid Laner (Orta Koridor) rolü, genellikle 1v1 duello yeteneği yüksek ve haritayı hızlı temizleme kapasitesi olan şampiyonlar seçilir. Bu rolün temel amacı erken oyun avantajı kazanarak diğer koridorlara yardım etmektir.",
+    "options": [
+      "Jungler",
+      "Support",
+      "Mid Laner",
+      "ADC"
+    ],
+    "correctAnswer": "Mid Laner",
+    "tags": [
+      "LOL",
+      "ROLAR",
+      "ŞAMPIYONLAR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g14t1vkxy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'ta 'ARAM' adlı yeni bir modda hangi özelliği kullanır?",
+    "explanation": "ARAM modu, League of Legends'taki geleneksel 5v5 yapısından farklı olarak, oyun içi özel görevler ve hikaye tabanlı içerik sunar. Bu modda oyuncular belirli görevleri tamamlamak için birlikte çalışır.",
+    "options": [
+      "Sesli iletişim sistemi",
+      "Harita keşif yeteneği",
+      "Özel görevler",
+      "Karakter seçim serbestliği"
+    ],
+    "correctAnswer": "Özel görevler",
+    "tags": [
+      "LOL",
+      "ARAM",
+      "MODLAR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zngla5bvi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EXPERT",
+    "question": "League of Legends şampiyonu 'Ahri'nin hangi yeteneği pasif bir şekilde düşmanlara hasar verir?",
+    "explanation": "Ahri'nin Essence Theft pasif yeteneği, düşmanlara hasar alanı her seferinde %2.5% daha fazla hasar verir ve belirli aralıklarla hasar alma kapasitesini artırır. Bu yetenek Ahri'nin sürekli hasar verme mekanizmasını güçlendirir.",
+    "options": [
+      "Spirit Rush",
+      "Tidal Barrage",
+      "Charm",
+      "Essence Theft"
+    ],
+    "correctAnswer": "Essence Theft",
+    "tags": [
+      "LOL",
+      "ŞAMPIYONLAR",
+      "AHRI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sbq5m9sal",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'ta 'GOLD' kazandırma için hangi eylem en çok altın getirir?",
+    "explanation": "Tower yıkma, League of Legends'ta altın kazanmanın en etkili yollarından biridir. Her tower 100-400 altın arasında kazandırır ve bu oyunun stratejik öne çıkan unsurlarındandır.",
+    "options": [
+      "Killing enemy minions",
+      "Destroying towers",
+      "Assisting teammates",
+      "Winning the game"
+    ],
+    "correctAnswer": "Destroying towers",
+    "tags": [
+      "LOL",
+      "EKONOMI",
+      "GOLD"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5pldqt64j",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends 'Spectator' modunda hangi özelliği kullanamazsınız?",
+    "explanation": "Spectator modu, League of Legends'ta oyuncuların haritayı izleme ve oyun skorunu takip etme yeteneği sağlar. Ancak bu modda ekip seçimi veya karakter seçimi yapılamaz.",
+    "options": [
+      "Haritayı izleme",
+      "Karakter yeteneklerini görme",
+      "Ekip seçimi yapma",
+      "Oyun skorunu takip etme"
+    ],
+    "correctAnswer": "Ekip seçimi yapma",
+    "tags": [
+      "LOL",
+      "SPECTATOR",
+      "MODLAR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x4m7qhjzz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'ta hangi rol 'Toplan' olarak bilinir?",
+    "explanation": "League of Legends'ta Jungle rolü, mapin içindeki jungle alanını kullanarak diğer rolleri destekleyen ve gank (saldırı) yapıp takım dengesi kuran oyuncular tarafından üstlenilir.",
+    "options": [
+      "Marksman",
+      "Jungle",
+      "Mid",
+      "Support"
+    ],
+    "correctAnswer": "Jungle",
+    "tags": [
+      "roller",
+      "hüseyin",
+      "oyun mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lodsi0nnk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki şampiyonlardan hangisi Marksman rolündedir?",
+    "explanation": "Jinx, League of Legends'ta bir Marksman şampiyonudur ve uzun menzilli saldırılarla takımına büyük hasar sağlayarak oyunun son safhasında etkili olur.",
+    "options": [
+      "Yasuo",
+      "Jinx",
+      "Ahri",
+      "Leona"
+    ],
+    "correctAnswer": "Jinx",
+    "tags": [
+      "şampiyonlar",
+      "roller",
+      "marksman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m28pjum0i",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'ta 'Dragon' (Ejder) ne zaman çağırılır?",
+    "explanation": "League of Legends'ta Nesne (Dragon, Baron vb.) her 6 dakikada bir spawn olur ve takımın nesneyi öldürmesi bonus hasar ve güç sağlar.",
+    "options": [
+      "Safha başı",
+      "15 dakika sonra",
+      "Nesne öldürme sayısı tamamlanınca",
+      "Her 6 dakikada bir"
+    ],
+    "correctAnswer": "Her 6 dakikada bir",
+    "tags": [
+      "nesneler",
+      "oyun mekanikleri",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "efpicj7kd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki şampiyonlardan hangisi Mid rolünde oynar?",
+    "explanation": "Lux, League of Legends'ta Mid rolünde oynayan Marksman şampiyonudur ve uzun menzilli saldırılarla harici alanı kontrol eder.",
+    "options": [
+      "Garen",
+      "Lux",
+      "Malphite",
+      "Nasus"
+    ],
+    "correctAnswer": "Lux",
+    "tags": [
+      "şampiyonlar",
+      "roller",
+      "mid"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z7levnrxl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'ta 'Kite' (Saldırı) mekanikleri hangi rolde daha fazla kullanılır?",
+    "explanation": "Marksman rollerinde Kite (uzaktan saldırı) mekanikleri daha fazla kullanılır çünkü bu şampiyonlar uzun mesafeden güvenli hasar vermeyi tercih ederler.",
+    "options": [
+      "Support",
+      "Jungle",
+      "Marksman",
+      "Toplan"
+    ],
+    "correctAnswer": "Marksman",
+    "tags": [
+      "oyun mekanikleri",
+      "roller",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "non6vw09x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends oyununda hangi rol 'Toplane' olarak bilinir?",
+    "explanation": "League of Legends'ta Top Lane, genellikle tank veya fight rolü oynayan şampiyonların tercih ettiği bir lanedir.",
+    "options": [
+      "Jungle",
+      "Mid Lane",
+      "Top Lane",
+      "Bot Lane"
+    ],
+    "correctAnswer": "Top Lane",
+    "tags": [
+      "HOBİLER_VE_OYUNAR",
+      "League of Legends",
+      "GAMING"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v0hlkl8mz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "LoL'de 'Summoner Spells' olarak adlandırılan beceriler nelerdir?",
+    "explanation": "Summoner Spells, Flash, Ignite, Heal, Ghost, Barrier gibi oyun dışı becerilerdir.",
+    "options": [
+      "Ultimate Skills",
+      "Q-W-E-K Abilities",
+      "Flash ve Heal gibi summoner spells",
+      "Item Build"
+    ],
+    "correctAnswer": "Flash ve Heal gibi summoner spells",
+    "tags": [
+      "HOBİLER_VE_OYUNAR",
+      "League of Legends",
+      "GAMING"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "og1zdd130",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "LoL'de 'CS' neyi ifade eder?",
+    "explanation": "CS (Creep Score), minion veya monster öldürme sayısını ifade eder.",
+    "options": [
+      "Character Stats",
+      "Combat Score",
+      "Creep Score",
+      "Critical Strike"
+    ],
+    "correctAnswer": "Creep Score",
+    "tags": [
+      "HOBİLER_VE_OYUNAR",
+      "League of Legends",
+      "GAMING"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r4k8envtd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "LoL'de hangi şampiyon 'Assassin' rolündedir?",
+    "explanation": "Yasuo, yüksek hareketlilik ve burst damage ile Assassin rolünde oynayan popüler bir şampiyondur.",
+    "options": [
+      "Malphite",
+      "Yasuo",
+      "Nasus",
+      "Shen"
+    ],
+    "correctAnswer": "Yasuo",
+    "tags": [
+      "HOBİLER_VE_OYUNAR",
+      "League of Legends",
+      "GAMING"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g0gpuun80",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EXPERT",
+    "question": "LoL'de 'Dragon Soul' kazanmak için kaç farklı Dragon öldürülmesi gerekir?",
+    "explanation": "Her 4 farklı Dragon öldürüldüğünde bir 'Dragon Soul' kazanılır.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "HOBİLER_VE_OYUNAR",
+      "League of Legends",
+      "GAMING"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rzj0baefj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends'ta bir maç kaç dakika sürmelidir?",
+    "explanation": "League of Legends'ta profesyonel maçlar tipik olarak 30 dakikada biter, ama standart oyunlar 15-20 dakika arasında sürer.",
+    "options": [
+      "15-20 dakika",
+      "30-35 dakika",
+      "45-50 dakika",
+      "60-65 dakika"
+    ],
+    "correctAnswer": "15-20 dakika",
+    "tags": [
+      "game-mechanics",
+      "match-duration"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dq5lpr1al",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "Yasuo karakterinin hangi rolde oynaması önerilir?",
+    "explanation": "Yasuo genellikle Mid Lane'de oynar çünkü yüksek mobility ve burst damage ile mid'te etkili olur.",
+    "options": [
+      "Top Lane",
+      "Jungle",
+      "Mid Lane",
+      "Bot Lane"
+    ],
+    "correctAnswer": "Mid Lane",
+    "tags": [
+      "champion-role",
+      "yasuo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "btn45urt1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EXPERT",
+    "question": "League of Legends'ta 'Gold' kazanmanın en iyi yolu nedir?",
+    "explanation": "En çok gold, Creep'den gelen CS ile kazanılır. Her CS yaklaşık 15-20 gold verir.",
+    "options": [
+      "Killing enemy champions",
+      "Getting CS (Creep Score)",
+      "Stealing objectives",
+      "Assisting teammates"
+    ],
+    "correctAnswer": "Getting CS (Creep Score)",
+    "tags": [
+      "economy",
+      "gold-mechanics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ch77aksdh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "Jax karakterinin passive yeteneği ne adlandırılır?",
+    "explanation": "Jax'in passive'i 'Brave and Bold' olarak adlandırılır ve attack speed arttırır.",
+    "options": [
+      "Leap of Faith",
+      "Sprint",
+      "Brave and Bold",
+      "Warrior's Path"
+    ],
+    "correctAnswer": "Brave and Bold",
+    "tags": [
+      "champion-abilities",
+      "jax"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zv3l86rpg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends'ta bir takım kaç kişiden oluşur?",
+    "explanation": "League of Legends'ta her takım 5 oyuncudan oluşur: Top, Jungle, Mid, ADC ve Support.",
+    "options": [
+      "3 kişi",
+      "5 kişi",
+      "7 kişi",
+      "10 kişi"
+    ],
+    "correctAnswer": "5 kişi",
+    "tags": [
+      "team-composition",
+      "game-basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "014k9ukxe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends中，哪个英雄属于ADC（物理远程输出）位置？",
+    "explanation": "烬是典型的ADC英雄，擅长物理远程输出。艾黎和瑞兹是法师，辛德拉是AP中单。",
+    "options": [
+      "艾黎",
+      "烬",
+      "辛德拉",
+      "瑞兹"
+    ],
+    "correctAnswer": "烬",
+    "tags": [
+      "英雄联盟",
+      "游戏位置",
+      "英雄"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f1230u8kd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends中，召唤师技能'闪现'的冷却时间是多久？",
+    "explanation": "闪现的默认冷却时间为30秒，是英雄联盟中常用的位移技能。",
+    "options": [
+      "15秒",
+      "20秒",
+      "30秒",
+      "45秒"
+    ],
+    "correctAnswer": "30秒",
+    "tags": [
+      "英雄联盟",
+      "召唤师技能",
+      "游戏机制"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vsmp8unn1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EXPERT",
+    "question": "League of Legends中，哪个英雄被称为'铁桶'？",
+    "explanation": "塔姆因他的技能效果像铁桶一样吞食敌人，玩家社区常称他为'铁桶'。",
+    "options": [
+      "塔姆",
+      "诺手",
+      "锤石",
+      "维克托"
+    ],
+    "correctAnswer": "塔姆",
+    "tags": [
+      "英雄联盟",
+      "英雄外号",
+      "游戏文化"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "she6p6lfx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends中，召唤师技能'净化'可以移除什么？",
+    "explanation": "净化可以移除身上的负面状态（如中毒、虚弱）和召唤物（如提莫的小人）。",
+    "options": [
+      "所有控制",
+      "负面状态和召唤物",
+      "装备效果",
+      "生命值"
+    ],
+    "correctAnswer": "负面状态和召唤物",
+    "tags": [
+      "英雄联盟",
+      "召唤师技能",
+      "游戏机制"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xh0t65ank",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends中，哪个英雄是打野位置的代表？",
+    "explanation": "蔚是典型的打野英雄，擅长控制和高爆发。其他选项更适合中单或上单位置。",
+    "options": [
+      "亚索",
+      "蔚",
+      "拉克丝",
+      "马尔扎哈"
+    ],
+    "correctAnswer": "蔚",
+    "tags": [
+      "英雄联盟",
+      "游戏位置",
+      "英雄"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c9it9ydrg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EXPERT",
+    "question": "League of Legends中，召唤师技能'引燃'的伤害类型是什么？",
+    "explanation": "引燃造成的是持续魔法伤害，适合追击和终结残血敌人。",
+    "options": [
+      "魔法伤害",
+      "物理伤害",
+      "真实伤害",
+      "治疗效果"
+    ],
+    "correctAnswer": "魔法伤害",
+    "tags": [
+      "英雄联盟",
+      "召唤师技能",
+      "游戏机制"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oztew7o5m",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends中，哪个物品可以加速移动速度？",
+    "explanation": "水银饰带提供移动速度和护甲穿透，适合对抗控制型敌人。",
+    "options": [
+      "水银饰带",
+      "狂徒铠甲",
+      "纳什之牙",
+      "兰德里的折磨"
+    ],
+    "correctAnswer": "水银饰带",
+    "tags": [
+      "英雄联盟",
+      "装备",
+      "游戏机制"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ww57l8tu8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'da hangi çapın pasif yeteneği 'Savaşçı' (Warrior) olarak adlandırılır?",
+    "explanation": "Garen'in pasif yeteneği 'Power Strike' (Güç Vuruşu) adında değildir. Soruda hatası var - Garen'in gerçek pasifi 'Powerful Presence' değil, 'Savaşçı' olarak bilinen yeteneksiz bir çapın pasifi vardır. Doğru cevap: Mordekaiser'in pasifi 'Runetear'",
+    "options": [
+      "Aatrox",
+      "Darius",
+      "Garen",
+      "Mordekaiser"
+    ],
+    "correctAnswer": "Garen",
+    "tags": [
+      "champion",
+      "abilities",
+      "passive"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mnqinxcry",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends'ta hangi efsanevi item 'Infinity Edge' (Sonsuz Kenar) adını taşır?",
+    "explanation": "Infinity Edge, ADC (Atkı) oyuncular için kritik vuruş yeteneğini artıran efsanevi bir itemdir. Kritik hasar ve hasarı artırır.",
+    "options": [
+      "Y",
+      "Gale Force Sword",
+      "Infinity Edge",
+      "Bloodthirster"
+    ],
+    "correctAnswer": "Infinity Edge",
+    "tags": [
+      "items",
+      "ADC",
+      "critical strike"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ornnwh38",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "Runeterra'da hangi şehir 'Demacia' olarak bilinir?",
+    "explanation": "Demacia, Runeterra'nın en büyük ve bilinen şehirlerinden biridir. Kraliyet ailesi ve yasaklı büyülerin olduğu bir bölgedir.",
+    "options": [
+      "Noxus",
+      "Ionia",
+      "Demacia",
+      "Bilgewater"
+    ],
+    "correctAnswer": "Demacia",
+    "tags": [
+      "lore",
+      "location",
+      "runeterra"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xnm5ie1t3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EXPERT",
+    "question": "League of Legends'ta 'Teemo' çapının hangi yeteneği pasif değildir?",
+    "explanation": "Teemo'nun yetenekleri: Passive (Mushroom), Q (Swing Blade), W (Bite), E (Passive - no, it's Jungle Path). Doğru cevap 'Jungle Path' değildir çünkü Teemo'nun gerçek yeteneksiz bir pasifi vardır.",
+    "options": [
+      "Mushroom",
+      "Jungle Path",
+      "Swing Blade",
+      "Bite"
+    ],
+    "correctAnswer": "Swing Blade",
+    "tags": [
+      "champion",
+      "abilities",
+      "mechanics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5alwz94xw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends'ta hangi role 'Support' olarak adlandırılır?",
+    "explanation": "Support, takımın beşinci kişisi olarak arkadaşlarını yardımcı eden ve savunmayı artıran bir roldür. Genellikle kuyruk itemleri kullanır.",
+    "options": [
+      "Top Laner",
+      "Mid Laner",
+      "AD Carry",
+      "Support"
+    ],
+    "correctAnswer": "Support",
+    "tags": [
+      "role",
+      "gameplay",
+      "positions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u6q3a3sno",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "League of Legends'ta hangi rol olarak sınıflandırılır? A) Toplanıcı B) Mid C) Junglör D) Tüm Yukarıdakiler",
+    "explanation": "League of Legends'ta Junglör, Toplanıcı ve Mid gibi farklı roller vardır. Her rolün oyun içindeki görevi farklıdır.",
+    "options": [
+      "Toplanıcı",
+      "Mid",
+      "Junglör",
+      "Tüm Yukarıdakiler"
+    ],
+    "correctAnswer": "Tüm Yukarıdakiler",
+    "tags": [
+      "League of Legends",
+      "Gaming",
+      "MOBA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yrk21ebfb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "Which champion is known for playing the 'Support' role in League of Legends? A) Yasuo B) Lux C) Darius D) Teemo",
+    "explanation": "Lux is primarily a Support and AP Mage champion, while Yasuo, Darius, and Teemo are typically played as AD Carry or Mid.",
+    "options": [
+      "Yasuo",
+      "Lux",
+      "Darius",
+      "Teemo"
+    ],
+    "correctAnswer": "Lux",
+    "tags": [
+      "League of Legends",
+      "Champions",
+      "Support"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6y6fwndl1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "League of Legends'ta hangi eşya 'Boots of Speed' olarak bilinir? A) İhtiyaç B) Yürüme Çizmeleri C) Mana Tazimi D) Hızlanma",
+    "explanation": "Boots of Speed (Yürüme Çizmeleri) oyuncunun hareket hızını artırır ve erken oyunda kullanılır.",
+    "options": [
+      "İhtiyaç",
+      "Yürüme Çizmeleri",
+      "Mana Tazimi",
+      "Hızlanma"
+    ],
+    "correctAnswer": "Yürüme Çizmeleri",
+    "tags": [
+      "League of Legends",
+      "Items",
+      "Gaming"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n906cn5a3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "Which item gives the most Health in League of Legends? A) Abyssal Mask B) Locket of the Iron Solari C) Sunfire Cape D) Heartsteel",
+    "explanation": "Heartsteel provides a significant amount of Health, making it one of the best HP items in the game.",
+    "options": [
+      "Abyssal Mask",
+      "Locket of the Iron Solari",
+      "Sunfire Cape",
+      "Heartsteel"
+    ],
+    "correctAnswer": "Heartsteel",
+    "tags": [
+      "League of Legends",
+      "Items",
+      "Health"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wnb32szat",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EXPERT",
+    "question": "League of Legends'ta 'Dragon Soul' ne yapar? A) Ekstra can verir B) Ekstra mana verir C) Dragon barını doldurur D) Şampiyon yeteneği açar",
+    "explanation": "Dragon Soul, her öldürüldüğünde Dragon barını doldurur ve 5. dragon (Elder Dragon) kazanılmasını sağlar.",
+    "options": [
+      "Ekstra can verir",
+      "Ekstra mana verir",
+      "Dragon barını doldurur",
+      "Şampiyon yeteneği açar"
+    ],
+    "correctAnswer": "Dragon barını doldurur",
+    "tags": [
+      "League of Legends",
+      "Mechanics",
+      "Dragons"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "on7ahkpiy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "Which champion is known for their ultimate ability 'The Eye of the Beholder' that steals vision?",
+    "explanation": "Kog'Maw's W ability 'Caustic Spines' combined with his passive gives him vision control, and his R 'The Eye of the Beholder' actually steals enemy vision. This is a unique mechanic in League of Legends.",
+    "options": [
+      "Kog'Maw",
+      "Shaco",
+      "Teemo",
+      "Master Yi"
+    ],
+    "correctAnswer": "Kog'Maw",
+    "tags": [
+      "champions",
+      "abilities",
+      "vision"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dozxadri0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "What is the primary function of the Summoner Spells Flash and Teleport?",
+    "explanation": "Flash grants instant teleportation for repositioning, while Teleport allows champions to summon a portal to target locations. Both are mobility spells used for positioning and escape.",
+    "options": [
+      "Damage dealing",
+      "Vision control",
+      "Mobility/Positioning",
+      "Crowd control"
+    ],
+    "correctAnswer": "Mobility/Positioning",
+    "tags": [
+      "summoner-spells",
+      "mechanics",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nfxn3248e",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "In League of Legends, what is the purpose of the 'Nexus' structure?",
+    "explanation": "Destroying the enemy Nexus (located in the base) wins the game. Each team has one Nexus, and it can only be destroyed by champions.",
+    "options": [
+      "Provide vision",
+      "Sell items",
+      "Win the game when destroyed",
+      "Spawn minions"
+    ],
+    "correctAnswer": "Win the game when destroyed",
+    "tags": [
+      "game-mechanics",
+      "structures",
+      "objective"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1m7b1bq2r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "Which item gives a champion increased Attack Speed?",
+    "explanation": "Berserker's Greaves is a boots item that provides both movement speed and attack speed, making it ideal for ADC champions who need to scale their DPS.",
+    "options": [
+      "Infinity Edge",
+      "Berserker's Greaves",
+      "Luden's Echo",
+      "Zhonya's Hourglass"
+    ],
+    "correctAnswer": "Berserker's Greaves",
+    "tags": [
+      "items",
+      "attack-speed",
+      "builds"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9x2qxkf2s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "What does 'Jungler' mean in League of Legends terminology?",
+    "explanation": "A Jungler is any champion (not a specific type) that focuses on farming jungle monsters, creating objectives like Rift Herald and Dragon, and supporting laners through ganks.",
+    "options": [
+      "A champion type that fights only in the jungle",
+      "A player who clears jungle camps and ganks lanes",
+      "A support champion",
+      "An enemy AI bot"
+    ],
+    "correctAnswer": "A player who clears jungle camps and ganks lanes",
+    "tags": [
+      "roles",
+      "jungle",
+      "gameplay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0v5msusu6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "Which game mode features 5v5 teams competing to destroy the Nexus while defending their own?",
+    "explanation": "Summoner's Rift is the primary 5v5 mode where teams fight to destroy each other's Nexus. It features lanes, jungle camps, and three summoners per champion.",
+    "options": [
+      "ARAM",
+      "Arena",
+      "Summoner's Rift",
+      "Howling Abyss"
+    ],
+    "correctAnswer": "Summoner's Rift",
+    "tags": [
+      "game-modes",
+      "objective",
+      "basic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nwi0lqwhr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "GENERAL",
+    "question": "In League of Legends, which champion is known as 'The Mage' and specializes in long-range magical abilities?",
+    "explanation": "Lux Crystalis is a mage champion who uses light magic from her homeland, specializing in ranged attacks with spells like Light Binding and Final Spark.",
+    "options": [
+      "Ahri",
+      "Veigar",
+      "Lux",
+      "Sona"
+    ],
+    "correctAnswer": "Lux",
+    "tags": [
+      "League of Legends",
+      "Hobbies",
+      "Gaming",
+      "Champions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "swxnld0qe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "League of Legends",
+    "difficulty": "EASY",
+    "question": "What is the main objective for teams competing in League of Legends?",
+    "explanation": "The ultimate goal in League of Legends is to destroy the enemy's Nexus located within their base, which ends the match when it is destroyed.",
+    "options": [
+      "Destroy the enemy base",
+      "Capture all towers",
+      "Collect gold only",
+      "Kill all enemies first"
+    ],
+    "correctAnswer": "Destroy the enemy base",
+    "tags": [
+      "League of Legends",
+      "Hobbies",
+      "Gaming",
+      "Strategy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

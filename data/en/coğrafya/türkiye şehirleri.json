@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "puzw2y95w",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "İstanbul hangi denizlere kıyısı vardır?",
+    "explanation": "İstanbul, İstanbul Boğazı ile hem Karadeniz'den hem de Marmara Denizi'ne kıyıya sahiptir ve bu nedenle iki denizi birbirine bağlayan stratejik bir konumdadır.",
+    "options": [
+      "Sadece Akdeniz",
+      "Karadeniz ve Marmara Denizi",
+      "Ege Denizi ve Akdeniz",
+      "Sadece Marmara Denizi"
+    ],
+    "correctAnswer": "Karadeniz ve Marmara Denizi",
+    "tags": [
+      "Tarihi Şehirler",
+      "Denizler",
+      "İstanbul"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y882ym172",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Antalya hangi coğrafi bölgede yer alır?",
+    "explanation": "Antalya, Türkiye'nin Akdeniz Bölgesinde yer alan en büyük ve turistik şehirlerden biridir.",
+    "options": [
+      "Ege Bölgesi",
+      "Akdeniz Bölgesi",
+      "Karadeniz Bölgesi",
+      "Doğu Anadolu Bölgesi"
+    ],
+    "correctAnswer": "Akdeniz Bölgesi",
+    "tags": [
+      "Şehirler",
+      "Coğrafi Bölgeler",
+      "Antalya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ezkochw16",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "İzmir hangi denizin kıyısında bulunmaktadır?",
+    "explanation": "İzmir, Ege Bölgesi'nin en büyük şehri olup doğrudan Ege Denizi'ne kıyısı bulunmaktadır.",
+    "options": [
+      "Marmara Denizi",
+      "Akdeniz",
+      "Ege Denizi",
+      "Seyhan Nehri"
+    ],
+    "correctAnswer": "Ege Denizi",
+    "tags": [
+      "Şehirler",
+      "Denizler",
+      "İzmir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8q7ithuiq",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye Cumhuriyeti'nin başkenti olan Ankara hangi bölgede yer alır?",
+    "explanation": "Ankara, Türkiye'nin başkenti olup İç Anadolu Bölgesi'nde yer almaktadır.",
+    "options": [
+      "Marmara Bölgesi",
+      "Ege Bölgesi",
+      "İç Anadolu Bölgesi",
+      "Akdeniz Bölgesi"
+    ],
+    "correctAnswer": "İç Anadolu Bölgesi",
+    "tags": [
+      "Başkent",
+      "Coğrafi Bölgeler",
+      "Ankara"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vwbevblga",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EXPERT",
+    "question": "Bursa hangi tarihsel özellik ile bilinir?",
+    "explanation": "Bursa, İpek Yolu'nun önemli duraklarından biri olup Osmanlı Devleti'nin ilk başkenti olarak tarihe geçmiştir.",
+    "options": [
+      "Turistik plajlarıyla",
+      "Çay üretimiyle",
+      "İpek Yolu ve Osmanlı tarihiyle",
+      "Karadeniz limanıyla"
+    ],
+    "correctAnswer": "İpek Yolu ve Osmanlı tarihiyle",
+    "tags": [
+      "Tarihi Şehirler",
+      "Bursa",
+      "Osmanlı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h9awa7bnw",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en büyük şehri ve nüfus açısından ilk sıraya gelen şehir hangisidir?",
+    "explanation": "İstanbul, Türkiye'nin en büyük şehri olup yaklaşık 15 milyon nüfusuyla İstanbul ve çevresi ile birlikte nüfus açısından ilk sıraya gelir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "Coğrafya",
+      "Türkiye Şehirleri",
+      "Nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "splr6gheq",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki şehirlerden hangisi Türkiye'nin başkentidir?",
+    "explanation": "Ankara, 1923 yılında Türkiye Cumhuriyeti'nin başkenti olarak ilan edilmiş olup siyasi ve idari merkezdir.",
+    "options": [
+      "İzmir",
+      "Ankara",
+      "Antalya",
+      "Adana"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "Coğrafya",
+      "Türkiye Şehirleri",
+      "Başkent"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vopuvzyhs",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Ege Bölgesi'nde bulunan ve Türkiye'nin en büyük üçüncü şehri olan şehir hangisidir?",
+    "explanation": "İzmir, Ege Bölgesi'nde yer alır ve nüfus açısından Türkiye'nin en büyük üçüncü şehridir.",
+    "options": [
+      "İzmir",
+      "Bursa",
+      "Antalya",
+      "Trabzon"
+    ],
+    "correctAnswer": "İzmir",
+    "tags": [
+      "Coğrafya",
+      "Türkiye Şehirleri",
+      "Ege Bölgesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e3nobc0ma",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz Bölgesi'ne bağlı aşağıdaki şehirlerden hangisi vardır?",
+    "explanation": "Trabzon, Karadeniz Bölgesi'ne bağlı olup kıyı şehridir ve Türkiye'nin önemli liman kentlerindendir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Trabzon",
+      "Diyarbakır"
+    ],
+    "correctAnswer": "Trabzon",
+    "tags": [
+      "Coğrafya",
+      "Türkiye Şehirleri",
+      "Karadeniz Bölgesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tv31cexhc",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Marmara Bölgesi'nde bulunan ve Bursa ile birlikte Marmara'nın en büyük şehirlerinden hangisidir?",
+    "explanation": "İstanbul, Marmara Bölgesi'nin en büyük şehridir ve Kocaeli ile birlikte bölgenin önemli ekonomik merkezlerindendir.",
+    "options": [
+      "Kocaeli",
+      "İstanbul",
+      "Eskişehir",
+      "Bolu"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "Coğrafya",
+      "Türkiye Şehirleri",
+      "Marmara Bölgesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n8bfislbm",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en büyük ve nüfusu en fazla olan şehri hangi vilayettir?",
+    "explanation": "İstanbul, Türkiye'nin en büyük şehri olup 2024 yılı itibarıyla yaklaşık 15 milyon nüfusa sahiptir ve hem Asya hem de Avrupa kıtalarında yer alır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "Nüfus",
+      "Şehirler",
+      "Vilayetler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tjpl8yjtz",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin başkenti hangi vilayettedir?",
+    "explanation": "Ankara, Türkiye Cumhuriyeti'nin resmi başkentidir ve 1923 yılında İstanbul'dan taşınarak bu görevi üstlenmiştir.",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "İzmir",
+      "Sakarya"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "Başkent",
+      "Şehirler",
+      "Vilayetler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e6fr4x8iz",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz Bölgesi'nde yer alan aşağıdaki şehirlerden hangisi Türkiye'nin en büyük limanıdır?",
+    "explanation": "Samsun, Türkiye'nin en büyük limanıdır ve Karadeniz Bölgesi'nde yer alır. Özellikle ihracat ve ithalat işlemleri için önemlidir.",
+    "options": [
+      "Trabzon",
+      "Samsun",
+      "Giresun",
+      "Ordu"
+    ],
+    "correctAnswer": "Samsun",
+    "tags": [
+      "Liman",
+      "Karadeniz",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ky5w0bqna",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Ege Bölgesi'nin en kalabalık şehri aşağıdakilerden hangisidir?",
+    "explanation": "İzmir, Ege Bölgesi'nin en kalabalık şehri ve Türkiye'nin yedinci büyük şehridir. Akdeniz'e kıyısı vardır.",
+    "options": [
+      "İzmir",
+      "Bursa",
+      "Balıkesir",
+      "Manisa"
+    ],
+    "correctAnswer": "İzmir",
+    "tags": [
+      "Ege",
+      "Nüfus",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8f49u40dv",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en yüksek noktası olan Ağrı Dağı hangi kente komşudur?",
+    "explanation": "Ağrı Dağı, Türkiye'nin en yüksek noktasıdır ve Erzurum kentinin doğusunda yer alır. Türkiye'nin ulusal sembolüdür.",
+    "options": [
+      "Elazığ",
+      "Bitlis",
+      "Erzurum",
+      "Muş"
+    ],
+    "correctAnswer": "Erzurum",
+    "tags": [
+      "Doğal Kaynaklar",
+      "Dağlar",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ifipwu56",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin nüfusa göre en büyük şehri hangisidir?",
+    "explanation": "İstanbul, nüfus açısından Türkiye'nin en kalabalık ilidir ve yaklaşık 15 milyonu aşan nüfusu ile öne çıkar.",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "coğrafya",
+      "nüfus",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sbgd5kxod",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti'nin başkenti olan şehir hangisidir?",
+    "explanation": "Ankara, 1923'ten beri Türkiye'nin resmi başkentidir ve İç Anadolu Bölgesi'nde konumlanmıştır.",
+    "options": [
+      "Adana",
+      "Ankara",
+      "Antalya",
+      "İzmir"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "coğrafya",
+      "başkent",
+      "siyaset"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6rwrhgiu3",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "İzmir şehri hangi denizin kıyısında yer alır?",
+    "explanation": "İzmir, Ege Denizi'nin batı kıyısında yer alan önemli bir liman kentidir ve Akdeniz'e de açılmaktadır.",
+    "options": [
+      "Karadeniz",
+      "Ege Denizi",
+      "Akdeniz",
+      "Marmara"
+    ],
+    "correctAnswer": "Ege Denizi",
+    "tags": [
+      "coğrafya",
+      "liman",
+      "denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hxuld1nw9",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz Bölgesi'nde yer alan ve tarihi önemi yüksek şehir hangisidir?",
+    "explanation": "Trabzon, Karadeniz Bölgesi'nin en önemli liman ve kültür merkezlerinden biridir ve tarihi Fethi ile meşhurdur.",
+    "options": [
+      "Rize",
+      "Trabzon",
+      "Erzurum",
+      "Ordu"
+    ],
+    "correctAnswer": "Trabzon",
+    "tags": [
+      "coğrafya",
+      "liman",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vjah836nn",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'nin Akdeniz bölgesinde yer alan ve turizm sektörü ile tanınan şehir hangisidir?",
+    "explanation": "Antalya, Akdeniz kıyısındaki en büyük turizm merkezlerinden biridir ve mediterren iklim özellikleriyle bilinir.",
+    "options": [
+      "İstanbul",
+      "İzmir",
+      "Antalya",
+      "Samsun"
+    ],
+    "correctAnswer": "Antalya",
+    "tags": [
+      "coğrafya",
+      "turizm",
+      "ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t75nkzueq",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin başkenti ve en büyük şehri hangisidir?",
+    "explanation": "Ankara, Türkiye Cumhuriyeti'nin resmi başkentidir ve 1923 yılında başkentlik unvanını almıştır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Antalya"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "başkent"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ba2s50nkt",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en kalabalık şehri hangisidir?",
+    "explanation": "İstanbul, nüfusu ve genişliğe göre Türkiye'nin en kalabalık şehridir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Antalya",
+      "Bursa"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "429bak0kl",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin üçüncü büyük şehri hangisidir?",
+    "explanation": "İzmir, nüfus ve genişliğe göre Türkiye'nin üçüncü büyük şehridir.",
+    "options": [
+      "İzmir",
+      "Antalya",
+      "Bursa",
+      "Konya"
+    ],
+    "correctAnswer": "İzmir",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "sıralama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2gs91vkwb",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi şehir turizm açısından en popülerdir?",
+    "explanation": "Antalya, Türkiye'nin en popüler turizm şehridir ve Akdeniz kıyısında yer alır.",
+    "options": [
+      "Trabzon",
+      "Rize",
+      "Antalya",
+      "Muğla"
+    ],
+    "correctAnswer": "Antalya",
+    "tags": [
+      "coğrafya",
+      "turizm",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9trwdnzf1",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de Konya hangi tarihsel anlamda önemlidir?",
+    "explanation": "Konya, Selçuklu İmparatorluğu'nun önemli bir merkezidir ve Mevlana Celaleddin-i Rumi ile bilinir.",
+    "options": [
+      "Yunon antik kenti",
+      "Selçuklu merkez",
+      "Osmanlı başkenti",
+      "Romalı şehir"
+    ],
+    "correctAnswer": "Selçuklu merkez",
+    "tags": [
+      "coğrafya",
+      "tarih",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cw2sxqhzm",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin nüfusu en yüksek şehri hangisidir?",
+    "explanation": "İstanbul, Türkiye'nin nüfusu en yüksek şehri olup yaklaşık 15 milyon insan yaşamaktadır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "coğrafya",
+      "tüm şehirler",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g8izle7md",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin coğrafi merkez noktası hangi ilde yer alır?",
+    "explanation": "Türkiye'nin coğrafi merkez noktası Niğde ilinin Altunhisar ilçesindedir.",
+    "options": [
+      "Niğde",
+      "Kütahya",
+      "Yozgat",
+      "Ankara"
+    ],
+    "correctAnswer": "Niğde",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "merkez nokta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vkto31ojk",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Hangi şehir Akdeniz kıyısında yer almaz?",
+    "explanation": "Trabzon Karadeniz kıyısında yer alırken, diğer seçenekler Akdeniz kıyısındaki şehirlerdir.",
+    "options": [
+      "Antalya",
+      "Adana",
+      "İzmir",
+      "Trabzon"
+    ],
+    "correctAnswer": "Trabzon",
+    "tags": [
+      "coğrafya",
+      "kıyı şehirler",
+      "deniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iwqa24pnn",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en eski ve tarihi şehri olarak bilinen hangisidir?",
+    "explanation": "İstanbul, Roma ve Bizans dönemlerinden beri var olan tarihi şehirlerden biridir.",
+    "options": [
+      "İstanbul",
+      "Antalya",
+      "Trabzon",
+      "Konya"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "coğrafya",
+      "tarih",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jng833mcx",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi şehir Kuzeydoğu Anadolu Bölgesi'nde yer alır?",
+    "explanation": "Erzurum, Kuzeydoğu Anadolu Bölgesi'nin önemli şehirlerinden biridir.",
+    "options": [
+      "Erzurum",
+      "Diyarbakır",
+      "Şanlıurfa",
+      "Sivas"
+    ],
+    "correctAnswer": "Erzurum",
+    "tags": [
+      "coğrafya",
+      "bölge şehirleri",
+      "kuzeydoğu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nzg118y6j",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin başkenti aşağıdaki şehirlerden hangisidir?",
+    "explanation": "Türkiye Cumhuriyeti'nin resmi başkenti Ankara'dır. İstanbul en kalabalık şehirdir ancak başkent değildir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ec0jn0h0",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "İstanbul Şehri, hangi suyun kenarında yer alır?",
+    "explanation": "İstanbul, İstanbul Boğazı'ndan geçerek hem Karadeniz hem de Marmara Denizleri arasında yer alır.",
+    "options": [
+      "Dicle Nehri",
+      "Kızılırmak",
+      "Boğaz/Çarbağ Denizi (Bosphorus)",
+      "Seyhan Nehri"
+    ],
+    "correctAnswer": "Boğaz/Çarbağ Denizi (Bosphorus)",
+    "tags": [
+      "coğrafya",
+      "su kaynakları",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1f29yf9cn",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Antalya Şehri hangi kıtada ve denizin kenarında konumlanmıştır?",
+    "explanation": "Antalya, Marmara Yarımadası'nın güney kesiminde Akdeniz'in kenarında konumlanmış bir şehirdir.",
+    "options": [
+      "Asya, Ege Denizi",
+      "Avrupa, Akdeniz",
+      "Avrupa, Karadeniz",
+      "Asya, Marmara"
+    ],
+    "correctAnswer": "Avrupa, Akdeniz",
+    "tags": [
+      "coğrafya",
+      "turizm",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mpqs8s3a7",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EXPERT",
+    "question": "Konya Şehri hangi tarihsel özellik ile bilinir?",
+    "explanation": "Konya, Mevlana Celaleddin Rumi'nin mezarının bulunduğu ve tasavvufun önemli merkezlerinden biridir.",
+    "options": [
+      "Roma İmparatorluğu başkenti",
+      "Mevlana Cemi'de yer alır",
+      "İlk Osmanlı başkenti",
+      "Türkçe'nin doğduğu şehir"
+    ],
+    "correctAnswer": "Mevlana Cemi'de yer alır",
+    "tags": [
+      "tarih",
+      "coğrafya",
+      "şehirler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4tm8w1gl6",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EXPERT",
+    "question": "Bursa Şehri hangi tarihi dönemde Osmanlı İmparatorluğu'nun ilk başkenti olmuştur?",
+    "explanation": "Osmanlı Devleti 1326-1357 yılları arasında Bursa'yı ilk başkent olarak kullanmıştır.",
+    "options": [
+      "13. yüzyıl",
+      "14. yüzyıl",
+      "15. yüzyıl",
+      "16. yüzyıl"
+    ],
+    "correctAnswer": "14. yüzyıl",
+    "tags": [
+      "tarih",
+      "coğrafya",
+      "şehirler",
+      "osmanlı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9shfxd9o2",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en kalabalık şehri ve nüfus yoğunluğu açısından hangi illeri kapsar?",
+    "explanation": "İstanbul, Türkiye'nin nüfus yoğunluğu açısından en kalabalık şehridir ve 2023 verilerine göre yaklaşık 15 milyon kişi yaşamaktadır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "nüfus",
+      "şehirler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3iuh9eu9",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin başkenti olarak hangi şehir seçilmiştir?",
+    "explanation": "Ankara, Türkiye Cumhuriyeti'nin resmi başkentidir ve 1923 yılında İstanbul'dan sonra seçilmiştir.",
+    "options": [
+      "İzmir",
+      "Ankara",
+      "Adana",
+      "Konya"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "başkent",
+      "siyaset",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vsya7waav",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Aegean Bölgesi'nde bulunan en büyük şehir hangisidir?",
+    "explanation": "İzmir, Ege Bölgesi'nde yer alan en büyük şehirdir ve nüfus açısından İzmir'in ardından gelen diğer şehirlerden daha kalabalıktır.",
+    "options": [
+      "Antalya",
+      "Bursa",
+      "İzmir",
+      "Trabzon"
+    ],
+    "correctAnswer": "İzmir",
+    "tags": [
+      "bölgeler",
+      "şehirler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "113v3o1ao",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin ilk sanayi devrimi sonrası gelişen şehir hangisidir?",
+    "explanation": "Kocaeli, özellikle Gebze ve İzmit çevresi Türkiye'nin ilk sanayi devrimi sonrası gelişen önemli endüstri merkezlerinden biridir.",
+    "options": [
+      "Kocaeli",
+      "İstanbul",
+      "Eskişehir",
+      "Diyarbakır"
+    ],
+    "correctAnswer": "Kocaeli",
+    "tags": [
+      "sanayi",
+      "şehirler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hopd7ialv",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EXPERT",
+    "question": "Karadeniz Bölgesi'nde bulunan en kalabalık şehir hangisidir?",
+    "explanation": "Karadeniz Bölgesi'nde Trabzon, nüfus açısından en kalabalık şehirdir ve Karadeniz kıyısında yer alan önemli şehirlerden biridir.",
+    "options": [
+      "Samsun",
+      "Ordu",
+      "Trabzon",
+      "Giresun"
+    ],
+    "correctAnswer": "Trabzon",
+    "tags": [
+      "bölgeler",
+      "nüfus",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "anrzlpw6q",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en kalabalık şehri ve başkenti aşağıdakilerden hangisidir?",
+    "explanation": "İstanbul, Türkiye'nin başkenti değil ancak en kalabalık şehridir. Ankara resmi başkenttir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Konya"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "şehirler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wb266mti4",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin ikinci büyük şehri ve Ege Bölgesi'nin en önemli limanı aşağıdakilerden hangisidir?",
+    "explanation": "İzmir, Türkiye'nin ikinci büyük şehridir ve Ege Bölgesi'nin en büyük limanıdır.",
+    "options": [
+      "İzmir",
+      "Antalya",
+      "Trabzon",
+      "Samsun"
+    ],
+    "correctAnswer": "İzmir",
+    "tags": [
+      "şehirler",
+      "liman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gfvwqxaez",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki şehirlerden hangisi Akdeniz Bölgesi'nde yer alır?",
+    "explanation": "Adana, Akdeniz Bölgesi'nde yer alan önemli bir şehirdir. Gaziantep Güneydoğu Anadolu'da, Erzurum ve Sivas ise İç Anadolu'dadır.",
+    "options": [
+      "Adana",
+      "Gaziantep",
+      "Erzurum",
+      "Sivas"
+    ],
+    "correctAnswer": "Adana",
+    "tags": [
+      "bölge",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q0z8n1kk1",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en büyük gölü olan Van Gölü'nün bulunduğu şehir aşağıdakilerden hangisidir?",
+    "explanation": "Van Gölü, Van ilinin merkezindedir ve Türkiye'nin en büyük gölüdür.",
+    "options": [
+      "Van",
+      "Bitlis",
+      "Kars",
+      "Iğdır"
+    ],
+    "correctAnswer": "Van",
+    "tags": [
+      "göller",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "thtu4l3ab",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki şehirlerden hangisi Karadeniz Bölgesi'nde yer alır?",
+    "explanation": "Rize, Karadeniz Bölgesi'nde yer alan bir şehirdir. Kahramanmaraş İç Anadolu'da, Nevşehir Orta Anadolu'da ve Balıkesir Marmara'dadır.",
+    "options": [
+      "Rize",
+      "Kahramanmaraş",
+      "Nevşehir",
+      "Balıkesir"
+    ],
+    "correctAnswer": "Rize",
+    "tags": [
+      "bölge",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8sbk8m7v8",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en büyük şehri ve nüfusa sahip şehri hangisidir?",
+    "explanation": "İstanbul, Türkiye'nin en büyük şehri olup 2023 yılı itibarıyla yaklaşık 15.8 milyon nüfusa sahiptir ve hem Asya hem Avrupa kıtalarında yer alır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Konya"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "brn97xxqf",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin siyasi merkezi ve başkenti hangi şehirdir?",
+    "explanation": "Ankara, Türkiye Cumhuriyeti'nin resmi başkenti olup 1923 yılından beri siyasi merkez olarak görev yapmaktadır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Sivas"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "başkent"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "36zl6og1h",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Ege Bölgesi'nde yer alan ve nüfusu çok yüksek olan büyük şehir hangisidir?",
+    "explanation": "İzmir, Ege Bölgesi'nde yer alan en büyük şehridir ve 2023 yılı itibarıyla yaklaşık 4.4 milyon nüfusa sahiptir.",
+    "options": [
+      "Antalya",
+      "İzmir",
+      "Adana",
+      "Trabzon"
+    ],
+    "correctAnswer": "İzmir",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "egekölgesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pxpjzgnk4",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz Bölgesi'nin en büyük şehri hangisidir?",
+    "explanation": "Trabzon, Karadeniz Bölgesi'nde yer alan en büyük şehridir ve yaklaşık 800.000 nüfusa sahiptir.",
+    "options": [
+      "Rize",
+      "Giresun",
+      "Trabzon",
+      "Ordu"
+    ],
+    "correctAnswer": "Trabzon",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "karadeniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ekja335jr",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Şehirleri",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'nin iç kesimlerinde (Merkezi Anadolu'da) bulunan büyük şehir hangisidir?",
+    "explanation": "Ankara, Türkiye'nin iç kesimlerinde ve Merkezi Anadolu'da yer alan en büyük şehirdir. İstanbul ve İzmir gibi kıyı şehirlerinden farklı olarak denize kıyısı yoktur.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Diyarbakır",
+      "Bursa"
+    ],
+    "correctAnswer": "Ankara",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "içkesimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

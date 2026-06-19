@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "gad5t3ji9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Açık kaynak yazılım (open source) aşağıdakilerden hangisidir?",
+    "explanation": "Açık kaynak yazılımlar, lisansları altında kodlarının serbestçe incelenebilir, değiştirilebilir ve dağıtılabilir yazılımlardır.",
+    "options": [
+      "Telif hakları ile kısıtlı olmayan ve kodlarının serbestçe incelenebildiği yazılımlar",
+      "Sadece ücretli firmalar tarafından geliştirilen yazılımlar",
+      "Kullanıcının kodlarını değiştiremediği yazılımlar",
+      "İnternetsiz çalışan özel yazılımlar"
+    ],
+    "correctAnswer": "Telif hakları ile kısıtlı olmayan ve kodlarının serbestçe incelenebildiği yazılımlar",
+    "tags": [
+      "Açık Kaynak",
+      "Yazılım",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "onfh2hk4s",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Linux, Apache, MySQL gibi açık kaynak projeler hangi lisans modeline sahiptir?",
+    "explanation": "Bu projeler Apache, GPL, MIT gibi açık kaynak lisans modelleri kullanır.",
+    "options": [
+      "Kapanık kaynak lisansı",
+      "Açık kaynak (open source) lisansı",
+      "Proprietary lisansı",
+      "Freeware lisansı"
+    ],
+    "correctAnswer": "Açık kaynak (open source) lisansı",
+    "tags": [
+      "Linux",
+      "Apache",
+      "Lisans",
+      "Açık Kaynak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qpasmvks7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki hangisi açık kaynak yazılım örneği değildir?",
+    "explanation": "Microsoft Windows standart sürümü kapalı kaynak (proprietary) bir işletim sistemidir.",
+    "options": [
+      "Firefox Tarayıcı",
+      "Ubuntu İşletim Sistemi",
+      "Microsoft Windows (Standart sürüm)",
+      "LibreOffice"
+    ],
+    "correctAnswer": "Microsoft Windows (Standart sürüm)",
+    "tags": [
+      "Windows",
+      "Açık Kaynak",
+      "Örnekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3de38u1ns",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Open Source Initiative (OSI) tarafından tanınan lisansların temel amacı nedir?",
+    "explanation": "OSI lisansların temel amacı yazılımın kodlarının serbestçe paylaşılması ve topluluk tarafından geliştirilmesidir.",
+    "options": [
+      "Yazılımı tamamen ücretsiz hale getirmek",
+      "Kodun serbestçe paylaşılmasını ve geliştirilmesini sağlamak",
+      "Sadece ticari kullanımına izin vermek",
+      "Tek bir firmaya bağlamak"
+    ],
+    "correctAnswer": "Kodun serbestçe paylaşılmasını ve geliştirilmesini sağlamak",
+    "tags": [
+      "OSI",
+      "Lisans",
+      "Açık Kayak",
+      "Telif Hakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c45mc75xe",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "GitHub, GitLab gibi platformlar açık kaynak geliştirmede ne rol oynar?",
+    "explanation": "GitHub ve GitLab, geliştiricilerin kodlarını paylaşıp işbirliği yapmasını sağlayan platformlardır.",
+    "options": [
+      "Yazılımları satmak",
+      "Kollaboratif kod depolama ve işbirliği sağlamak",
+      "Sadece video içerikleri paylaşmak",
+      "E-posta sunucu hizmetleri vermek"
+    ],
+    "correctAnswer": "Kollaboratif kod depolama ve işbirliği sağlamak",
+    "tags": [
+      "GitHub",
+      "GitLab",
+      "Kollaborasyon",
+      "Açık Kaynak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "03vm1zpfn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Açık kaynak yazılımın temel tanımı nedir?",
+    "explanation": "Açık kaynak yazılım, kaynak kodlarının kullanıcılar tarafından serbestçe dağıtılmasına, incelenmesine ve değiştirilmesine izin veren lisanslara sahiptir.",
+    "options": [
+      "Kodlarının serbestçe dağıtılmasına ve incelenmesine izin verilen yazılımlardır",
+      "Sadece ücretli kullanılabilecek özel yazılımlardır",
+      "Güvenlik açıkları içeren yazılımlardır",
+      "Tek bir şirket tarafından geliştirilen kapalı kaynak kodlu yazılımlardır"
+    ],
+    "correctAnswer": "Kodlarının serbestçe dağıtılmasına ve incelenmesine izin verilen yazılımlardır",
+    "tags": [
+      "açık-kaynak",
+      "temel- kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "540calfo3",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi popüler açık kaynak yazılım lisansı değildir?",
+    "explanation": "Proprietary (özel mülkiyet) lisansı, kaynak kodun serbestçe kullanılamadığı kapalı kaynak yazılımlar için kullanılan lisanstır. GPL, MIT ve Apache açık kaynak lisanslarıdır.",
+    "options": [
+      "GPL (General Public License)",
+      "MIT",
+      "Apache License",
+      "Proprietary License"
+    ],
+    "correctAnswer": "Proprietary License",
+    "tags": [
+      "lisanslar",
+      "yasal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cvw0s2ohj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Açık kaynak yazılımın avantajlarından hangisi değildir?",
+    "explanation": "Açık kaynak yazılımlar genellikle topluluk tarafından, tek bir şirketin kontrolü olmadan geliştirilir. Diğer seçenekler açık kaynakın avantajlarıdır.",
+    "options": [
+      "Güvenlik açıklarının daha hızlı kapatabilmesi",
+      "Maliyet tasarrufu sağlanması",
+      "Tek bir şirketin kontrolü altında geliştirilmesi",
+      "Topluluk desteği ve sürekli iyileştirme"
+    ],
+    "correctAnswer": "Tek bir şirketin kontrolü altında geliştirilmesi",
+    "tags": [
+      "avantajlar",
+      "dezenfektörler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yiq6frfk0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Hangi işletim sistemi açık kaynak kodludur?",
+    "explanation": "Linux, en yaygın bilinen açık kaynak işletim sistemidir. Windows, macOS ve iOS kapalı kaynak lisanslara sahiptir.",
+    "options": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "iOS"
+    ],
+    "correctAnswer": "Linux",
+    "tags": [
+      "işletim-sistemi",
+      "açık-kaynak-örnekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k1gv7sc2m",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Açık kaynak yazılım geliştirme modelinde 'fork' ne anlama gelir?",
+    "explanation": "Fork, açık kaynak projelerinde topluluk üyelerinin mevcut kod tabanını alıp bağımsız bir proje olarak devam etmesi anlamına gelir. Örneğin, Firefox'ın ilk fork'u Camino'dur.",
+    "options": [
+      "Projenin yeni bir şubeyi oluşturulması",
+      "Kodun silinmesi",
+      "Lisansın değiştirilmesi",
+      "Topluluğun dağılması"
+    ],
+    "correctAnswer": "Projenin yeni bir şubeyi oluşturulması",
+    "tags": [
+      "geliştirme-modeli",
+      "fork-kavramı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "94vrrn7xb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Açık kaynak yazılımların temel özelliği nedir?",
+    "explanation": "Açık kaynak yazılımların en temel özelliği, kaynak kodların serbestçe erişilebilmesidir. Kullanıcılar kodu inceleyebilir, değiştirebilir ve kendi ihtiyaçlarına göre dağıtabilir.",
+    "options": [
+      "Kullanıcılar yazılımı serbestçe inceleyebilir, değiştirebilir ve dağıtabilir.",
+      "Yazılım sadece belirli şirketler tarafından kullanılabilir.",
+      "Tüm kodlar gizli tutulur ve lisans ücreti alınır.",
+      "Sadece profesyonel geliştiriciler erişebilir."
+    ],
+    "correctAnswer": "Kullanıcılar yazılımı serbestçe inceleyebilir, değiştirebilir ve dağıtabilir.",
+    "tags": [
+      "açık-kaynak",
+      "lisanslama",
+      "yazılım-özelliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q5xya2w8x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Maven'in açık kaynak projelerdeki ana işlevi nedir?",
+    "explanation": "Maven, Java projelerinde en yaygın kullanılan proje yönetim aracıdır. Bağımlılık yönetimi, kod yapısı ve derleme işlemlerini otomatize eder.",
+    "options": [
+      "Yazılım paketlerini yönetir ve bağımlılıkları çözer.",
+      "Veritabanı bağlantısı sağlar.",
+      "Ağ güvenliği test eder.",
+      "Mobil uygulama geliştirir."
+    ],
+    "correctAnswer": "Yazılım paketlerini yönetir ve bağımlılıkları çözer.",
+    "tags": [
+      "maven",
+      "java",
+      "proje-tyaımlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5918w43yf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "GPL lisansı hangi tür açık kaynak lisansındadır?",
+    "explanation": "GPL (General Public License) viral veya 'copyleft' lisansıdır. Türev eserin de aynı GPL lisansı ile dağıtılması zorunludur.",
+    "options": [
+      "Viral lisans - türev eserleri de GPL ile yükümlü kılar.",
+      "Permissive lisans - türev eseri özgür bırakır.",
+      "Proprietary lisans - ticari kullanım sağlar.",
+      "Non-commercial lisans - sadece eğitim amaçlıdır."
+    ],
+    "correctAnswer": "Viral lisans - türev eserleri de GPL ile yükümlü kılar.",
+    "tags": [
+      "gpl",
+      "lisanslama",
+      "kopya-sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "00ynqci8r",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Linux çekirdeği hangi açık kaynak yazılım kategorisine aittir?",
+    "explanation": "Linux, açık kaynak işletim sistemi çekirdeğidir (kernel). Birçok dağıtımın temelini oluşturur.",
+    "options": [
+      "İşletim sistemi",
+      "Veritabanı",
+      "Web sunucusu",
+      "Grafik kütüphanesi"
+    ],
+    "correctAnswer": "İşletim sistemi",
+    "tags": [
+      "linux",
+      "çekirdek",
+      "işletim-sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9wm5jvqdp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Docker'in açık kaynak projelerde sağladığı ana avantaj nedir?",
+    "explanation": "Docker, uygulamaları konteyner içine paketleyerek taşıyabilir, paylaşabilir ve ölçeklendirebilir. Bağımlılık sorunlarını çözer.",
+    "options": [
+      "Konteynerizasyon - uygulama ve bağımlılıkları paketler.",
+      "Sadece sunucu yönetimi yapar.",
+      "Veritabanı şifreleme sağlar.",
+      "Mobil uygulama test eder."
+    ],
+    "correctAnswer": "Konteynerizasyon - uygulama ve bağımlılıkları paketler.",
+    "tags": [
+      "docker",
+      "konteyner",
+      "ci-dev"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9u1apgsxg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Apache Foundation hangi açık kaynak projeleri destekler?",
+    "explanation": "Apache Foundation, Hadoop, Spark, Kafka gibi popüler açık kaynak büyük veri projelerini destekler ve yönetir.",
+    "options": [
+      "Hadoop, Spark, Flink gibi büyük veri teknolojileri.",
+      "Sadece web sunucuları.",
+      "Veritabanı yönetim araçları.",
+      "Mobil uygulama geliştirme kütüphaneleri."
+    ],
+    "correctAnswer": "Hadoop, Spark, Flink gibi büyük veri teknolojileri.",
+    "tags": [
+      "apache-foundation",
+      "big-data",
+      "hadoop"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i30dzgp5y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi açık kaynak yazılımın temel özelliklerinden biri değildir?",
+    "explanation": "Açık kaynak yazılımların temel özelliği, kodların serbestçe incelenebilmesi, dağıtılabilmeliği ve modifiye edilebilmesidir. Ücret ödemek zorunda olmak açık kaynak tanımına aykırıdır.",
+    "options": [
+      "Kodların serbestçe incelenebilmesi",
+      "İsterse dağıtılabilmeliği",
+      "Kullanıcıya ücret ödemek zorunda olması",
+      "Modifiye edilebilmesi"
+    ],
+    "correctAnswer": "Kullanıcıya ücret ödemek zorunda olması",
+    "tags": [
+      "açık kaynak",
+      "teknoloji",
+      "yazılım lisansları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ismmesf9j",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "GPL lisansı aşağıdaki hangi tür lisanslara örnek teşkil eder?",
+    "explanation": "GPL (General Public License) bir açık kaynak lisansıdır ve kodun modifiye edilmesini serbest bırakırken, değiştirilmiş versiyonların da aynı lisans altında yayınlanmasını gerektirir.",
+    "options": [
+      "Kapalı lisans",
+      "Açık lisans",
+      "Proprietary lisans",
+      "Ticari lisans"
+    ],
+    "correctAnswer": "Açık lisans",
+    "tags": [
+      "GPL",
+      "lisans türleri",
+      "açık kaynak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6d3uiuoov",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Linux çekirdeği hangi tür yazılımdır?",
+    "explanation": "Linux çekirdeği açık kaynak kodludur ve dünyanın en yaygın kullanılan işletim sistemi çekirdeklerinden biridir. Binlerce geliştirici tarafından katkıda bulunulur.",
+    "options": [
+      "Açık kaynak",
+      "Kapalı kaynak",
+      "Proprietary",
+      "Ticari"
+    ],
+    "correctAnswer": "Açık kaynak",
+    "tags": [
+      "linux",
+      "çekirdek",
+      "açık kaynak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0kkt7q9s8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi popüler açık kaynak web sunucusudur?",
+    "explanation": "Apache HTTP Server, açık kaynak kodlu en popüler web sunucularından biridir. Dünya çapında milyonlarca sunucuda kullanılmaktadır.",
+    "options": [
+      "Apache",
+      "Oracle Database",
+      "Microsoft SQL Server",
+      "SAP NetWeaver"
+    ],
+    "correctAnswer": "Apache",
+    "tags": [
+      "web sunucu",
+      "apache",
+      "açık kaynak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pi8mjegr9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Open Source Initiative (OSI) hangi amaçla kurulmuştur?",
+    "explanation": "Open Source Initiative, açık kaynak yazılımların tanımını standartlaştırmak ve açık kaynak lisanslarını belirlemek amacıyla kurulmuştur. 'Open Source Definition'ı oluşturmuşlardır.",
+    "options": [
+      "Açık kaynak yazılımları tanımlamak",
+      "Sadece ticari yazılımları desteklemek",
+      "Kapalı kaynak lisanslarını yaygınlaştırmak",
+      "Ücretli abonelik modelleri oluşturmak"
+    ],
+    "correctAnswer": "Açık kaynak yazılımları tanımlamak",
+    "tags": [
+      "OSI",
+      "açık kaynak hareketi",
+      "standartlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xivpxs26q",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Açık kaynak yazılım nedir?",
+    "explanation": "Açık kaynak yazılımlar (OSS), kaynak kodları herkese açık olup, kullanıcıların incelemesini, değiştirme yeteneğini ve paylaşma özgürlüğünü sağlar.",
+    "options": [
+      "Özel şirket tarafından geliştirilen ve ücretli olan yazılımlardır",
+      "Kaynak kodu herkese açık ve herkesin inceleyip değiştirebileceği yazılımlardır",
+      "Devlet kurumları tarafından kullanılan gizli yazılımlardır",
+      "Tek bir kişi tarafından oluşturulup satılan yazılımlardır"
+    ],
+    "correctAnswer": "Kaynak kodu herkese açık ve herkesin inceleyip değiştirebileceği yazılımlardır",
+    "tags": [
+      "açık kaynak",
+      "yazılım",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pinbmax1y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Hangisi popüler bir açık kaynak lisansıdır?",
+    "explanation": "Apache License, MIT License ve GPL gibi popüler açık kaynak lisanslarıdır. Microsoft EULA, Oracle ve IBM lisansları ise kapalı kaynak lisanslarıdır.",
+    "options": [
+      "Microsoft EULA",
+      "Apache License",
+      "Oracle Proprietary License",
+      "IBM Confidential License"
+    ],
+    "correctAnswer": "Apache License",
+    "tags": [
+      "lisans",
+      "açık kaynak",
+      "yasal konular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vf7104nol",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Linux dağıtımlarının çoğu hangi çekirdek kullanır?",
+    "explanation": "Tüm Linux dağıtımları, açık kaynaklı Linux çekirdeğini kullanır. Bu çekirdek, işletim sistemi tabanını oluşturur.",
+    "options": [
+      "Windows NT",
+      "Android Kernel",
+      "Linux Kernel",
+      "macOS XNU"
+    ],
+    "correctAnswer": "Linux Kernel",
+    "tags": [
+      "linux",
+      "çekirdek",
+      "dağıtımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lvq4fgvzx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Hangi yazılım kapalı kaynak (proprietory) bir örnektir?",
+    "explanation": "Microsoft Windows, kaynak kodları kapalı ve ücretli olan bir kapalı kaynak işletim sistemidir. Diğer seçenekler açık kaynaklı yazılımlardır.",
+    "options": [
+      "Mozilla Firefox",
+      "LibreOffice",
+      "Microsoft Windows",
+      "GIMP"
+    ],
+    "correctAnswer": "Microsoft Windows",
+    "tags": [
+      "kapalı kaynak",
+      "yazılım türleri",
+      "karşılaştırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "moqqu381u",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Git nedir?",
+    "explanation": "Git, açık kaynaklı dağıtık sürüm kontrol sistemidir. Kod değişikliklerini izlemek ve yönetmek için geliştiriciler tarafından kullanılır.",
+    "options": [
+      "Açık kaynak lisansı türü",
+      "Distributed version control system (Dağıtık sürüm kontrol sistemi)",
+      "Web tarayıcısı",
+      "Veritabanı yönetim sistemi"
+    ],
+    "correctAnswer": "Distributed version control system (Dağıtık sürüm kontrol sistemi)",
+    "tags": [
+      "git",
+      "sürüm kontrolü",
+      "geliştirme araçları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ushphvh9j",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi açık kaynak yazılımın temel özelliklerinden biri değildir?",
+    "explanation": "Açık kaynak yazılımlarda tek bir şirket kontrolü yoktur; kararlar topluluk tarafından alınır ve tüm kullanıcılar serbestçe katkı sağlayabilir.",
+    "options": [
+      "Kaynak kodları kamuya erişilebilirdir",
+      "Kullanıcılar yazılımı serbestçe değiştirebilir",
+      "Lisans ücreti ödenmeden kullanılabilir",
+      "Tek bir şirketin tüm kararları belirlemesi"
+    ],
+    "correctAnswer": "Tek bir şirketin tüm kararları belirlemesi",
+    "tags": [
+      "açık kaynak",
+      "yazılım lisansı",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2mnr8k1v5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Linux işletim sistemi hangi lisans türü kullanır?",
+    "explanation": "Linux, GNU General Public License (GPL) gibi açık kaynak lisansları kullanır ve kodların serbestçe paylaşılmasına izin verir.",
+    "options": [
+      "Proprietary",
+      "Open Source (GPL)",
+      "Freeware",
+      "Shareware"
+    ],
+    "correctAnswer": "Open Source (GPL)",
+    "tags": [
+      "Linux",
+      "açık kaynak",
+      "lisans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3noygpf3j",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Apache Foundation, hangi tür projeleri destekler?",
+    "explanation": "Apache Foundation, Apache HTTP Server ve diğer açık kaynak projeleri geliştirir; ticari değil topluluk odaklıdır.",
+    "options": [
+      "Sadece ticari yazılımları",
+      "Açık kaynak web sunucusu Apache HTTP Server dahil projeleri",
+      "Kapatılmış kaynak kodlu oyunlar",
+      "Sadece mobil uygulamalar"
+    ],
+    "correctAnswer": "Açık kaynak web sunucusu Apache HTTP Server dahil projeleri",
+    "tags": [
+      "Apache",
+      "açık kaynak",
+      "altyapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2fropqctr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki yazılımlardan hangisi açık kaynak değildir?",
+    "explanation": "Windows Standard Edition, tescilli (proprietary) yazılımdır; kaynak kodları kamuya açık değildir.",
+    "options": [
+      "WordPress",
+      "Mozilla Firefox",
+      "Microsoft Windows (Standard Edition)",
+      "Ubuntu"
+    ],
+    "correctAnswer": "Microsoft Windows (Standard Edition)",
+    "tags": [
+      "açık kaynak",
+      "yazılım türleri",
+      "proprietery"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5u4ndn4o6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Açık kaynak yazılımların geliştirilmesinde rol alan temel gruplar nelerdir?",
+    "explanation": "Açık kaynak projeleri geliştiriciler, katılımcı topluluklar ve bazen sponsor kuruluşlar tarafından birlikte geliştirilir.",
+    "options": [
+      "Sadece kullanıcılar",
+      "Geliştiriciler, topluluk ve sponsor kuruluşlar",
+      "Tek bir şirketin çalışanları",
+      "Yalnızca öğrenciler"
+    ],
+    "correctAnswer": "Geliştiriciler, topluluk ve sponsor kuruluşlar",
+    "tags": [
+      "açık kaynak",
+      "geliştirme modeli",
+      "topluluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9m40tnnzv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Açık kaynak yazılım nedir?",
+    "explanation": "Açık kaynak yazılım (Open Source Software), kaynak kodlarının kamuya açık olduğu, herkesin inceleyip değiştirebildiği yazılımlardır.",
+    "options": [
+      "Kullanıcının kodunu göremediği yazılımlar",
+      "Kaynak kodlarının herkese açık olan yazılımlar",
+      "Sadece şirket çalışanlarına erişilebilen yazılımlar",
+      "Ödeme yapmadan indirilemeyen yazılımlar"
+    ],
+    "correctAnswer": "Kaynak kodlarının herkese açık olan yazılımlar",
+    "tags": [
+      "açık kaynak",
+      "tanım",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8rjzdecsf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Hangisi ünlü bir açık kaynak işletim sistemidir?",
+    "explanation": "Linux, en bilinen açık kaynak işletim sistemidir. Windows ve macOS kapalı kaynaklıdır.",
+    "options": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android"
+    ],
+    "correctAnswer": "Linux",
+    "tags": [
+      "işletim sistemi",
+      "açık kaynak örnekleri",
+      "Linux"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s23tnd4eb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Açık kaynak lisans türlerinden hangisi değildir?",
+    "explanation": "Proprietary License kapalı kaynak lisansıdır. GPL, MIT ve Apache açık kaynak lisans türleridir.",
+    "options": [
+      "GPL (General Public License)",
+      "MIT",
+      "Apache",
+      "Proprietary License"
+    ],
+    "correctAnswer": "Proprietary License",
+    "tags": [
+      "lisanslama",
+      "kavramlar",
+      "proprietary"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i2u48ojod",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Açık kaynak yazılımların temel faydası nedir?",
+    "explanation": "Açık kaynak yazılımların en temel özelliği ve faydası, kaynak kodlarının herkese açık olmasıdır.",
+    "options": [
+      "Tek bir şirketin kontrolünde olması",
+      "Kaynak kodlarının kamuya açık olması",
+      "Ücretli satış yapılması",
+      "Kullanıcı desteğinin olmaması"
+    ],
+    "correctAnswer": "Kaynak kodlarının kamuya açık olması",
+    "tags": [
+      "faydalar",
+      "avantajlar",
+      "kullanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wlobpy5gk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Open Source Initiative (OSI) tarafından tanınan bir açık kaynak lisansı hangisidir?",
+    "explanation": "Apache License 2.0, OSI tarafından onaylanmış açık kaynak lisansıdır. EULA ve NDA kapalı kaynak sözleşmeleridir.",
+    "options": [
+      "EULA",
+      "Apache License 2.0",
+      "NDA",
+      "MPL"
+    ],
+    "correctAnswer": "Apache License 2.0",
+    "tags": [
+      "lisanslar",
+      "OSI",
+      "tanınma kriterleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jzb0podag",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Açık kaynak yazılımların temel özelliği nedir?",
+    "explanation": "Açık kaynak yazılımların en temel özelliği, kaynak kodunun herkes tarafından erişilebilir olması ve GNU GPL veya Apache gibi lisanslar altında serbestçe dağıtılabilmesidir.",
+    "options": [
+      "Kaynak kodu gizlidir ve sadece şirket tarafından kullanılabilir",
+      "Kaynak kodu herkese açık ve serbestçe dağıtılabilir",
+      "Kullanıcılar ücret ödemeden kullanamaz",
+      "Tek bir geliştirici tarafından kontrol edilir"
+    ],
+    "correctAnswer": "Kaynak kodu herkese açık ve serbestçe dağıtılabilir",
+    "tags": [
+      "açık-kaynak",
+      "yazılım-özellikleri",
+      "lisanslama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1nj49sp04",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Hangi lisans açık kaynak değildir?",
+    "explanation": "MIT, Apache ve GPL lisansları açık kaynak lisanslarıdır. Proprietary ticari yazılımlarda ise kaynak kodu gizlidir ve bu açık kaynak tanımına uymaz.",
+    "options": [
+      "MIT Lisansı",
+      "Apache 2.0 Lisansı",
+      "GPL (GNU General Public License)",
+      "Proprietary (Ticari) Yazılım"
+    ],
+    "correctAnswer": "Proprietary (Ticari) Yazılım",
+    "tags": [
+      "lisanslar",
+      "açık-kaynak-yazılım",
+      "yazılım-türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b1s1eivtw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Linux Kernel'in geliştirme modeli hangi açılı kaynağa örnektir?",
+    "explanation": "Linux Kernel topluluk tarafından geliştirilir ve açık kaynak lisansı altında ücretsiz olarak dağıtılır. Bu model 'merkezi olmayan' geliştirme yaklaşımının en önemli örneğidir.",
+    "options": [
+      "Tek kullanıcı, tek şirket",
+      "Merkezi kontrol, ücretli kullanım",
+      "Topluluk tabanlı, serbest dağıtım",
+      "İçerik kısıtlı, lisanssız"
+    ],
+    "correctAnswer": "Topluluk tabanlı, serbest dağıtım",
+    "tags": [
+      "linux",
+      "kernels",
+      "açık-kaynak-modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ywfjvktf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Open Source Initiative (OSI) neyi tanımlar?",
+    "explanation": "Open Source Initiative (OSI), 'Open Source Definition' adlı belgede açık kaynak yazılımlar için kabul edilebilir lisans kriterlerini belirler.",
+    "options": [
+      "Sadece ücretli yazılımları",
+      "Açık kaynak lisanslarının kriterlerini belirler",
+      "Tek bir işletim sistemi",
+      "Kaynak kodu olmayan yazılımları"
+    ],
+    "correctAnswer": "Açık kaynak lisanslarının kriterlerini belirler",
+    "tags": [
+      "osi",
+      "lisans-kriterleri",
+      "açık-kaynak-standartları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qt99j0w59",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi açık kaynak yazılım avantajı değildir?",
+    "explanation": "Açık kaynak yazılımların avantajları arasında güvenlik, maliyet etkinliği ve esneklik bulunur. Teknik destek genellikle topluluk tarafından sağlanır ancak kurumsal destek eksik olabilir.",
+    "options": [
+      "Güvenilirlik ve güvenlik",
+      "Maliyet etkinliği",
+      "Teknik destek eksikliği",
+      "Esneklik ve özelleştirme"
+    ],
+    "correctAnswer": "Teknik destek eksikliği",
+    "tags": [
+      "avantajlar-dezavantajlar",
+      "açık-kaynak-yazılım",
+      "destek-sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fvh4ygpw7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Açık kaynak yazılımların temel özelliği nedir?",
+    "explanation": "Açık kaynak yazılımlarda kaynak kodlar herkes tarafından görüntülenebilir, incelenebilir ve değiştirilebilir. Bu, topluluk katkısı ve şeffaflığı sağlar.",
+    "options": [
+      "Kaynak kodları herkese açık ve değiştirilebilir",
+      "Sadece şirket içi kullanıma izin verir",
+      "Lisans ücretli ödenmelidir",
+      "Tek bir geliştirici tarafından yazılır"
+    ],
+    "correctAnswer": "Kaynak kodları herkese açık ve değiştirilebilir",
+    "tags": [
+      "açık-kaynak",
+      "yazılım-lisanslama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oepu1pv2c",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Hangi işletim sistemi açık kaynak lisanslıdır?",
+    "explanation": "Linux, açık kaynak kodlu bir işletim sistemidir. Windows, macOS ve iOS ise ticari lisanslara sahiptir.",
+    "options": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "iOS"
+    ],
+    "correctAnswer": "Linux",
+    "tags": [
+      "açık-kaynak",
+      "işletim-sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rdvp44753",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "GNU GPL lisansı hangi tür lisans kategorisine aittir?",
+    "explanation": "GNU GPL, copyleft lisansı olarak bilinir. Bu lisansa göre, açık kaynak proje kullananlar değişikliklerini de aynı lisans altında paylaşmak zorundadır.",
+    "options": [
+      "Açık kaynak (Copyleft)",
+      "Ticari",
+      "Proprietory",
+      "Public Domain"
+    ],
+    "correctAnswer": "Açık kaynak (Copyleft)",
+    "tags": [
+      "açık-kaynak",
+      "lisanslama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gn2hhv0lf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi popüler açık kaynak yazılım projesidir?",
+    "explanation": "Apache, Notepad++, MongoDB ve birçok başka yazılım da açık kaynak lisanslıdır. Hepsi topluluk tarafından geliştirilmiştir.",
+    "options": [
+      "Apache",
+      "Notepad++",
+      "MongoDB",
+      "Tümü açık kaynaktır"
+    ],
+    "correctAnswer": "Tümü açık kaynaktır",
+    "tags": [
+      "açık-kaynak",
+      "proje-örnekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6054ny9dr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Açık kaynak yazılımların dezavantajlarından biri hangisidir?",
+    "explanation": "Açık kaynak yazılımlarda bazı projelerde aktif topluluk desteği olmayabilir. Ticari destek satın alınması gerekebilir ve teknik yardım sınırlı olabilir.",
+    "options": [
+      "Topluluk desteği az olabilir",
+      "Her zaman daha hızlıdır",
+      "Lisans ücreti ödenir",
+      "Kaynak kodlar gizlidir"
+    ],
+    "correctAnswer": "Topluluk desteği az olabilir",
+    "tags": [
+      "açık-kaynak",
+      "dezavantajlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0s8jsokme",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EASY",
+    "question": "Açık kaynak yazılım nedir?",
+    "explanation": "Açık kaynak yazılım, kaynak kodunun herkese açık olması ve kullanıcıların yazılımı inceleyip değiştirebilmesidir. Ücretsiz olmak zorunda değildir.",
+    "options": [
+      "Kullanıcıların yazılıma erişip değiştirebileceği yazılımdır",
+      "Sadece ücretsiz olan tüm yazılımlardır",
+      "Şifreli ve kapalı kodlu yazılımdır",
+      "Tek bir geliştirici tarafından yapılan yazılımdır"
+    ],
+    "correctAnswer": "Kullanıcıların yazılıma erişip değiştirebileceği yazılımdır",
+    "tags": [
+      "açık-kaynak",
+      "yazılım",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32vpt0y48",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Hangisi popüler açık kaynak işletim sistemlerinden biridir?",
+    "explanation": "Linux, en yaygın bilinen açık kaynak işletim sistemidir. Windows ve macOS kapalı kaynaklıdır.",
+    "options": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Solaris"
+    ],
+    "correctAnswer": "Linux",
+    "tags": [
+      "açık-kaynak",
+      "işletim-sistemi",
+      "linux"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pcs2d3yff",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "GENERAL",
+    "question": "Açık kaynak lisanslama modelleri hakkında hangisi doğrudur?",
+    "explanation": "GPL (General Public License), türev çalışmaların da açık kaynak kalmasını sağlamak için kullanılır ve yazılım kopyalarının aynı lisans altında yayınlanmasını gerektirir.",
+    "options": [
+      "Tüm açık kaynak yazılımlar MIT lisansı ile yayınlanır",
+      "GPL lisansı, yazılımın kopyasını aynı lisans altında yayınlamayı gerektirir",
+      "Apache lisansı sadece ticili kullanım için uygundur",
+      "Açık kaynak yazılımlarda lisanslama zorunlu değildir"
+    ],
+    "correctAnswer": "GPL lisansı, yazılımın kopyasını aynı lisans altında yayınlamayı gerektirir",
+    "tags": [
+      "açık-kaynak",
+      "lisans",
+      "gpl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fop7ssgqq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Açık Kaynak Yazılım",
+    "difficulty": "EXPERT",
+    "question": "Apache Foundation, hangi tür projeleri destekler?",
+    "explanation": "Apache Foundation, Hadoop, Spark gibi popüler açık kaynak altyapı projelerini destekler ve Apache lisansı ile yayınlanan yazılımları korur.",
+    "options": [
+      "Sadece mobil uygulama geliştirme projeleri",
+      "Açık kaynak yazılım altyapısı ve platformu projeleri",
+      "Kapatık kaynak ticari yazılımlar",
+      "Yapay zeka sadece eğitim amaçlı projeler"
+    ],
+    "correctAnswer": "Açık kaynak yazılım altyapısı ve platformu projeleri",
+    "tags": [
+      "açık-kaynak",
+      "apache",
+      "altyapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

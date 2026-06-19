@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "gzv6w1g4g",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "\"Hamlet\" adlı ünlü oyunun yazarı kimdir?",
+    "explanation": "Hamlet, İngiliz şair ve dramaturg William Shakespeare tarafından yazılmış trajedilerden biridir.",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Oscar Wilde",
+      "John Milton"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "tags": [
+      "Tiyatro",
+      "Klasik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sk75gqxiw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Sahne sanatlarında izleyici ile oyuncu arasındaki hayali duvar ne olarak adlandırılır?",
+    "explanation": "Dördüncü duvar, izleyiciyi oyundan ayıran hayali sınırdır ve bu sınırdan aşmak tiyatronun önemli tekniklerinden biridir.",
+    "options": [
+      "Üçüncü Duvar",
+      "Dördüncü Duvar",
+      "Beşinci Duvar",
+      "Altıncı Duvar"
+    ],
+    "correctAnswer": "Dördüncü Duvar",
+    "tags": [
+      "Tiyatro",
+      "Terminoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qijxws2bp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Bertolt Brecht'in tiyatro anlayışına verilen isim nedir?",
+    "explanation": "Bertolt Brecht, izleyiciyi düşündürmek ve duygusal tepkileri baskılamak için Epik Tiyatro anlayışını geliştirmiştir.",
+    "options": [
+      "Epik Tiyatro",
+      "Romantik Tiyatro",
+      "Soyut Tiyatro",
+      "Absürt Tiyatro"
+    ],
+    "correctAnswer": "Epik Tiyatro",
+    "tags": [
+      "Tiyatro",
+      "Yazarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ujyad9bgh",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Türk tiyatrosunda hem yazar hem yönetmenlik yapmış ve önemli \"Tiyatro Şölenleri\" düzenleyen kişi kimdir?",
+    "explanation": "Atilla İlhan, Türk tiyatrosunun kurucularından ve ilk profesyonel tiyatro şirketlerini kuran önemli isimlerden biridir.",
+    "options": [
+      "Atilla İlhan",
+      "Bedri Rahmi Eyüboğlu",
+      "Hasan Sıddık Samiye",
+      "Kemal Sunal"
+    ],
+    "correctAnswer": "Atilla İlhan",
+    "tags": [
+      "Tiyatro",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2k6r1ordz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Brecht'in geliştirdiği ve izleyicinin duygusal tepkisini baskılayarak düşündürme hedeflediği teknik neye örnektir?",
+    "explanation": "Yabancılaşma etkisi (Alienation effect), Brecht'in oyunların gerçeklik algısını bozarak izleyiciyi düşürmeye çalıştığı yöntemidir.",
+    "options": [
+      "Empati Tekniği",
+      "Yabancılaşma Etkisi",
+      "İçsel Sınav",
+      "Dışsal Konuşma"
+    ],
+    "correctAnswer": "Yabancılaşma Etkisi",
+    "tags": [
+      "Tiyatro",
+      "Teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cdhkj5u25",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Türk tiyatrosunun kurucularından sayılan ve 'Türk Tiyatrosu'nun babası olarak anılan kişi kimdir?",
+    "explanation": "Mehmet Ali Özbek, 19. yüzyıl sonu ve 20. yüzyıl başlarında Türk tiyatrosunun gelişimine önemli katkıda bulunmuş, 'Türk Tiyatrosu'nun babası' olarak anılır.",
+    "options": [
+      "Abdülhak Şinasi",
+      "Namık Kemal",
+      "Mehmet Ali Özbek",
+      "Reşat Nuri Güntekin"
+    ],
+    "correctAnswer": "Mehmet Ali Özbek",
+    "tags": [
+      "Tiyatro Tarihi",
+      "Türk Edebiyatı",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ylmammsmb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Şinasi'nin yazdığı ve Türk tiyatrosunda ilk kez sahnelenen oyun hangisidir?",
+    "explanation": "Abdülhak Şinasi'nin 'Vatan Yahut Silistre' adlı oyunu, Türk tiyatrosunun ilk önemli oyunlarından biridir ve 1869 yılında sahnelenmiştir.",
+    "options": [
+      "Vatan Yahut Silistre",
+      "Kahraman",
+      "Fırtına",
+      "Narince"
+    ],
+    "correctAnswer": "Vatan Yahut Silistre",
+    "tags": [
+      "Tiyatro Tarihi",
+      "Şinasi",
+      "Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b4u2hykm1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Türk tiyatrosunda 'Yaban' adlı ünlü oyunun yazarı kimdir?",
+    "explanation": "Reşat Nuri Güntekin, Türk tiyatrosunun önemli oyunlarından 'Yaban'ın yazarıdır. Bu oyun 1934 yılında sahnelenmiştir.",
+    "options": [
+      "Yakup Kılıç",
+      "Ahmet Hamdi Tanpınar",
+      "Reşat Nuri Güntekin",
+      "Halit Ziya Üşaklı"
+    ],
+    "correctAnswer": "Reşat Nuri Güntekin",
+    "tags": [
+      "Tiyatro Tarihi",
+      "Yazarlar",
+      "Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zk8otiaeo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Türk tiyatrosu tarihinde ilk kez oynanan modern tiyatro oyunu hangisidir?",
+    "explanation": "1890 yılında sahnelenen 'Şakir Paşa'nın Kızı', Türk tiyatrosu tarihinde modern tiyatro geleneğinin ilk önemli örneklerinden biridir.",
+    "options": [
+      "Kara Murat",
+      "Şakir Paşa'nın Kızı",
+      "Hıristiyan",
+      "Beyaz Şapka"
+    ],
+    "correctAnswer": "Şakir Paşa'nın Kızı",
+    "tags": [
+      "Tiyatro Tarihi",
+      "Modern Tiyatro",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "12ai42iss",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "İstanbul'daki tarihi Tiyatro Şairi'nin açılışı ne zaman yapılmıştır?",
+    "explanation": "İstanbul'daki Tiyatro Şairi, 1942 yılında açılmış ve Türk tiyatrosunun önemli salonlarından biridir.",
+    "options": [
+      "1942",
+      "1950",
+      "1938",
+      "1945"
+    ],
+    "correctAnswer": "1942",
+    "tags": [
+      "Tiyatro Tarih",
+      "İstanbul Tiyatrosu",
+      "Kültürel Miras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t5iqsgvk0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "Where did formal theater history primarily begin?",
+    "explanation": "Modern theater history is widely considered to have begun in Ancient Greece, where the first recorded plays and festivals like the Dionysia took place.",
+    "options": [
+      "Egypt",
+      "Greece",
+      "Rome",
+      "India"
+    ],
+    "correctAnswer": "Greece",
+    "tags": [
+      "History",
+      "Theater",
+      "Arts"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ixmsqn9s3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Which acting system emphasizes emotional memory and truthfulness to self?",
+    "explanation": "Konstantin Stanislavski developed a system that focuses on the actor's internal truth, using techniques like emotional memory to portray characters authentically.",
+    "options": [
+      "The Epic System",
+      "The Stanislavski System",
+      "The Physical Theater",
+      "The Commedia dell'arte"
+    ],
+    "correctAnswer": "The Stanislavski System",
+    "tags": [
+      "Acting Techniques",
+      "Stanislavski",
+      "Method"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkjnccw8j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Which playwright introduced the concept of 'Epic Theater'?",
+    "explanation": "Bertolt Brecht developed Epic Theater, which uses alienation effects to encourage the audience to think critically about the social and political themes of the play.",
+    "options": [
+      "Anton Chekhov",
+      "Bertolt Brecht",
+      "Samuel Beckett",
+      "Henrik Ibsen"
+    ],
+    "correctAnswer": "Bertolt Brecht",
+    "tags": [
+      "Theater Movements",
+      "Brecht",
+      "Political Drama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6wvwal1vv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "What is the title of Anton Chekhov's play often associated with themes of decay and change?",
+    "explanation": "The Cherry Orchard is one of Chekhov's most famous plays, depicting a noble family unable to save their estate as modernization takes over.",
+    "options": [
+      "Uncle Vanya",
+      "The Seagull",
+      "The Cherry Orchard",
+      "Three Sisters"
+    ],
+    "correctAnswer": "The Cherry Orchard",
+    "tags": [
+      "Chekhov",
+      "Classics",
+      "Russian Literature"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mnzaenod7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Which term describes an acting style where actors live the role psychologically rather than portraying it physically?",
+    "explanation": "Method Acting, popularized by Lee Strasberg, involves actors immersing themselves in the character's psychological state to achieve a realistic performance.",
+    "options": [
+      "Physical Theater",
+      "Method Acting",
+      "Minimalist Acting",
+      "Vaudeville"
+    ],
+    "correctAnswer": "Method Acting",
+    "tags": [
+      "Acting Styles",
+      "Psychology",
+      "Film and Theater"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y82ha0hko",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "Tiyatronun kökeni hangi antik medeniyette bulunur?",
+    "explanation": "Tiyatronun kökeni Yunanistan'da antik dönemdedir. Burada komedi ve trajedi gibi türler gelişmiş ve ilk tiyatrosu sahnelemiştir.",
+    "options": [
+      "Roma Cumhuriyeti",
+      "Mısır Antik Dönemi",
+      "Yunanistan Antik Dönemi",
+      "Pers İmparatorluğu"
+    ],
+    "correctAnswer": "Yunanistan Antik Dönemi",
+    "tags": [
+      "tarih",
+      "antik tiyatro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aexbp2k2v",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "William Shakespeare'in 'Hamlet' adlı trajedisinin ilk sahnelendiği şehir aşağıdakilerden hangisidir?",
+    "explanation": "Hamlet, 1601 yılında Londra'da sahnelemiştir. Shakespeare, Londra'daki Globe Tiyatrosu'nda bu oyunu yazmıştır.",
+    "options": [
+      "Londra",
+      "Paris",
+      "Roma",
+      "Berlin"
+    ],
+    "correctAnswer": "Londra",
+    "tags": [
+      "edebiyat",
+      "Shakespeare"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cpuyfzs81",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Anton Chekhov'un 'Gizli Bahçe' adlı oyununun hangi tiyatro akımına örnektir?",
+    "explanation": "Chekhov'un oyunları gerçekçi karakterler ve günlük yaşam temalarını işler. 'Gizli Bahçe' de bu akımın önemli örneklerinden biridir.",
+    "options": [
+      "Gerçekçilik",
+      "Dramatikizm",
+      "Absürt Tiyatro",
+      "Kabare"
+    ],
+    "correctAnswer": "Gerçekçilik",
+    "tags": [
+      "akımlar",
+      "Chekhov"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5t8ehj8eo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "'Kraliçe Tiyatrosu' unvanıyla tanınan Sarah Bernhardt hangi ülkede sahne almıştır?",
+    "explanation": "Sarah Bernhardt, 19. yüzyılda Paris'te sahne almış ve 'Kraliçe Tiyatrosu' unvanıyla tanınmıştır. Fransa'da tiyatroya büyük katkısı olmuştur.",
+    "options": [
+      "Fransa",
+      "İngiltere",
+      "Almanya",
+      "İtalya"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "karakterler",
+      "Sarah Bernhardt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "suchxhhw9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Modern tiyatro teknolojilerinde kullanılan dijital projektörlerin temel işlevi nedir?",
+    "explanation": "Modern tiyatroda dijital projektörler, sahne üzerindeki görsel efektler ve dijital içerikleri göstermek için kullanılır. Işıklandırma ayrı bir sistemdir.",
+    "options": [
+      "Işıklandırma sağlamak",
+      "Dijital içerik gösterimi yapmak",
+      "Ses efektleri üretmek",
+      "Sahne dekorunu hareket ettirmek"
+    ],
+    "correctAnswer": "Dijital içerik gösterimi yapmak",
+    "tags": [
+      "teknoloji",
+      "moderat tiyatro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7d3h6ugb2",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Bertolt Brecht'in tiyatro tekniklerinde kullandığı ve izleyiciyi duygusal bağdan alıp düşünsel mesafede tutmasını sağlayan yöntem hangisidir?",
+    "explanation": "Bertolt Brecht, 'Yabancılaştırma Etkisi' (Verfremdungseffekt) adını verdiği teknik ile izleyicinin sadece duygusallaşmak yerine düşünsel olarak sahneye bakmasını sağlamıştır.",
+    "options": [
+      "Verfremdungseffekt",
+      "Naturalizm",
+      "Realizm",
+      "Dönüşüm"
+    ],
+    "correctAnswer": "Verfremdungseffekt",
+    "tags": [
+      "tiyatro",
+      "edebiyat",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jjb3aa99f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "Antik Yunan tiyatrosunda izleyicinin oturduğu alanın adı aşağıdakilerden hangisidir?",
+    "explanation": "Antik Yunan tiyatrosunda 'Theatron', izleyicilerin oturduğu veya durduğu ana sahne alanını ifade ederken, 'Orchestra' koru kütüğü için kullanılırdı.",
+    "options": [
+      "Skene",
+      "Orchestra",
+      "Theatron",
+      "Proskenion"
+    ],
+    "correctAnswer": "Theatron",
+    "tags": [
+      "tiyatro",
+      "tarih",
+      "antoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8muivm5dk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Aziz Nesin'in en bilinen tiyatro oyunu ve aynı zamanda sinemaya uyarlanmış eseri hangisidir?",
+    "explanation": "Aziz Nesin, 'Bekleme Odası' adlı oyununu yazmıştır. Bu eser aynı zamanda sinema ve televizyon ekranlarına da uyarlanarak izleyicilerle buluşmuştur.",
+    "options": [
+      "Bekleme Odası",
+      "Kara Murat",
+      "Sinekli Bakkal",
+      "Aşk-ı Memnu"
+    ],
+    "correctAnswer": "Bekleme Odası",
+    "tags": [
+      "tiyatro",
+      "edebiyat",
+      "türk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dj997f2av",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Konstantin Stanislavski'nin oyunculuğu yönteminde temelinde yatan en önemli kavram hangisidir?",
+    "explanation": "Stanislavski sistemi, oyuncunun karakteri yaşarken kendi içsel duygusal hafızasını ve deneyimini kullanarak sahnede otantiklik yaratmasına odaklanır.",
+    "options": [
+      "Dışsal hareket",
+      "İçsel deneyim",
+      "Sahne dekoru",
+      "Kostüm tasarımı"
+    ],
+    "correctAnswer": "İçsel deneyim",
+    "tags": [
+      "tiyatro",
+      "teknik",
+      "oyunculuk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8r4xq0fat",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Modern Türk tiyatrosunun kurucu isimlerinden biri olan ve ilk profesyonel tiyatro topluluğunu kuran kişi kimdir?",
+    "explanation": "Fahri Ertürol, modern Türk tiyatrosunun öncülerindendir ve İstanbul'da kurduğu 'Sanat Tiyatrosu' ile profesyonel tiyatro geleneğine katkı sağlamıştır.",
+    "options": [
+      "Fahri Ertürol",
+      "Ferit Edip Canaydın",
+      "Turgut Uyar",
+      "Ahmet Arif"
+    ],
+    "correctAnswer": "Fahri Ertürol",
+    "tags": [
+      "tiyatro",
+      "tarih",
+      "türk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rfki9rl1s",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Antik Yunan tiyatrosunun başlangıcıyla ilişkilendirilen festival hangisidir?",
+    "explanation": "Antik Yunan tiyatrosu, Dionysos'a adanmış festival döneminin ritüelleri ve oyunları ile başlatılmıştır.",
+    "options": [
+      "Olimpiyat Oyunları",
+      "Dionysos Festivali",
+      "Panateneia",
+      "Eşitlik Bayramı"
+    ],
+    "correctAnswer": "Dionysos Festivali",
+    "tags": [
+      "Tiyatro",
+      "Antik Yunan",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5c1306ool",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Türk tiyatrosunun ilk modern sahne oyunlarından biri kabul edilen 'Kara Murat'ın yazarı kimdir?",
+    "explanation": "Ali Rıza Efendi, 19. yüzyıl sonu ve 20. yüzyıl başlarında yazdığı 'Kara Murat' ile Türk tiyatrosunun erken dönem temsilcisi olarak kabul edilir.",
+    "options": [
+      "Ahmet Hamdi Tanpınar",
+      "Ali Rıza Efendi",
+      "Yahya Kemal Beyatlı",
+      "Nâzım Hikmet"
+    ],
+    "correctAnswer": "Ali Rıza Efendi",
+    "tags": [
+      "Türk Tiyatrosu",
+      "Edebiyat Tarihi",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "017n5hfov",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Tiyatro terimi etimolojik olarak hangi dilden gelmektedir?",
+    "explanation": "'Theater' kelimesi Grekçe 'theatron' (baktığı yer) kökünden türemiş ve Batı'da bu dilden Latinceye geçmiştir.",
+    "options": [
+      "Latince",
+      "Keltçe",
+      "Grekçe",
+      "Farsça"
+    ],
+    "correctAnswer": "Grekçe",
+    "tags": [
+      "Etimoloji",
+      "Tiyatro Temelleri",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dqxpikcee",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Anton Çehov'un 'Kirik Bahçe' adlı eserinin İngilizce karşılığı nedir?",
+    "explanation": "Çehov'un bu meşhur oyunu, Rusça orijinalinde 'Вишнёвый сад' olup İngilizce'de 'The Cherry Orchard' olarak bilinir.",
+    "options": [
+      "Broken Garden",
+      "The Cherry Orchard",
+      "Falling House",
+      "Lost Orchard"
+    ],
+    "correctAnswer": "The Cherry Orchard",
+    "tags": [
+      "Dünya Edebiyatı",
+      "Anton Çehov",
+      "Tiyatro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "otst991zq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "Tiyatroda izleyicinin bulunduğu alanın genel adını aşağıdakilerden hangisi ile eşleştirebiliriz?",
+    "explanation": "İzleyicilerin oturduğu veya ayakta durduğu alan 'tribün' olarak adlandırılırken, sahne oyuncu ve perde 'kulis' arka planıdır.",
+    "options": [
+      "Sahne",
+      "Kulis",
+      "Perde",
+      "Tribün"
+    ],
+    "correctAnswer": "Tribün",
+    "tags": [
+      "Tiyatro Terimleri",
+      "Mekanlar",
+      "SANAT_VE_EĞLENCE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "emjo9qjx4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Tiyatronun kökeni hangi uygarlığa dayanır?",
+    "explanation": "Tiyatronun kökeni Antik Yunanistan'a dayanır. Yunanlılar, Dionysos festivali sırasında komedi ve trajedi tiyatrolarını geliştirmişlerdir.",
+    "options": [
+      "Mısır",
+      "Grek",
+      "Roma",
+      "Hint"
+    ],
+    "correctAnswer": "Grek",
+    "tags": [
+      "tarih",
+      "köken",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oksdqrdio",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Şair ve tiyatrocu Ahmet Hamdi Tanpınar'ın en bilinen oyunu nedir?",
+    "explanation": "Ahmet Hamdi Tanpınar, Türk tiyatrosunun önemli isimlerinden biri olup 'Saat Perdesi' adlı oyunu ile bilinir.",
+    "options": [
+      "Dedek",
+      "Saat Perdesi",
+      "Sokaklar",
+      "Cahit Mefraç"
+    ],
+    "correctAnswer": "Saat Perdesi",
+    "tags": [
+      "ahmet hamdi tanpınar",
+      "tiyatro",
+      "yazar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dew067qah",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Antik Yunan tiyatrosunda ilk kez sahnelenen trajedi yazarı kimdir?",
+    "explanation": "Aiskhylos, Antik Yunan tiyatrosunda ilk kez sahnelenen trajedi yazarlarından biridir. 'Prometheus' ve diğer eseriyle tanınır.",
+    "options": [
+      "Euripides",
+      "Sofokles",
+      "Aiskhylos",
+      "Kallimachos"
+    ],
+    "correctAnswer": "Aiskhylos",
+    "tags": [
+      "antik yunan",
+      "trajedi",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jzdn1b3o0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Bertolt Brecht'in 'Göçmenler', 'Ahlaki Panoptikon' gibi oyunlarıyla bilinen tiyatro tekniği nedir?",
+    "explanation": "Bertolt Brecht, 'epik tiyatro' tekniğini geliştirmiş ve seyircinin düşündürülmesi için soyutlama yöntemleri kullanmıştır.",
+    "options": [
+      "Yerli tiyatro",
+      "Epik tiyatro",
+      "Absürt tiyatro",
+      "Siyasal tiyatro"
+    ],
+    "correctAnswer": "Epik tiyatro",
+    "tags": [
+      "bertolt brecht",
+      "teknik",
+      "tiyatro türü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4mopu7ppf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Türk tiyatrosunun ilk sahnelemeleri hangi dönemde yapılmıştır?",
+    "explanation": "Türk tiyatrosunun ilk sahnelemeleri 1890'ların sonlarında, İkinci Meşrutiyet döneminde İstanbul'da başlamıştır.",
+    "options": [
+      "Osmanlı Dönemi",
+      "İkinci Meşrutiyet Dönemi",
+      "Cumhuriyet Dönemi",
+      "Atatürk Devrimleri"
+    ],
+    "correctAnswer": "İkinci Meşrutiyet Dönemi",
+    "tags": [
+      "türk tiyatrosu",
+      "tarih",
+      "dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q1d1j4fvw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "Batı tiyatrosunun ilk profesyonel oyun sanatçısı olarak kabul edilen \"Tiyatronun Babası\" kimdir?",
+    "explanation": "Thespis, MÖ 6. yüzyılda Antik Yunanistan'da tiyatronun kurucu babası olarak kabul edilir ve ilk sahne sanatçısıdır.",
+    "options": [
+      "Sokrates",
+      "Thespis",
+      "Platon",
+      "Aristoteles"
+    ],
+    "correctAnswer": "Thespis",
+    "tags": [
+      "Tiyatro Tarihi",
+      "Antik Yunan",
+      "Kökenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7y2y54yvx",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "\"Hamlet\" adlı trajedinin yazarı ve aynı zamanda oyunun ana karakteri olan prens kimdir?",
+    "explanation": "Hamlet, William Shakespeare'in en ünlü trajedilerinden biridir ve aynı zamanda başrolünü oynayan karakterin adıdır.",
+    "options": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "John Milton",
+      "George Bernard Shaw"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "tags": [
+      "Klasik Tiyatro",
+      "İngiliz Edebiyatı",
+      "Oyun İsimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6smhwwvby",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Fransız tiyatrosunun en önemli temsilcilerinden biri ve kendi oyunlarını sahneleyen ünlü yazar kimdir?",
+    "explanation": "Molière, Fransız klasik tiyatrosunun babası olarak bilinir ve kendi oyunları olan \"Le Malade Imaginaire\" gibi eserleri sahnelemiştir.",
+    "options": [
+      "Molière",
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Émile Zola"
+    ],
+    "correctAnswer": "Molière",
+    "tags": [
+      "Fransız Tiyatrosu",
+      "Komedi",
+      "Tarihi Figürler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "24cqm4n0q",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Bertolt Brecht'in geliştirdiği ve seyircinin duygusal empatiden ziyade düşünmesini teşvik etmeyi amaçlayan tiyatro türü hangisidir?",
+    "explanation": "Epik Tiyatro, Brecht tarafından geliştirilmiş olup seyircinin oyuna duygusal olarak kaybolması yerine olayları eleştirel bir şekilde düşünmesini hedefler.",
+    "options": [
+      "Epik Tiyatro",
+      "Realist Tiyatro",
+      "Absürt Tiyatro",
+      "Sürrealist Tiyatro"
+    ],
+    "correctAnswer": "Epik Tiyatro",
+    "tags": [
+      "Tiyatro Felsefesi",
+      "Modern Akımlar",
+      "Brecht"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nxrnzktu5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Oyuncuların karakteri içsel olarak canlandırıp \"gerçek yaşamı\" izlemeye çalıştığı yöntemi geliştiren ünlü tiyatro teorisyeni kimdir?",
+    "explanation": "Stanislavski'nin \"Sistem\"i, oyuncunun karakteri tamamen benimsemesini ve içsel doğruluğu önemsediğini vurgulayan temel tiyatro metodudur.",
+    "options": [
+      "Constantin Stanislavski",
+      "Konstantin Melnikov",
+      "Anton Çehov",
+      "Aleksandr Puşkin"
+    ],
+    "correctAnswer": "Constantin Stanislavski",
+    "tags": [
+      "Aktris Tiyatrosu",
+      "Oyun Sanatı",
+      "Sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w6eikmooh",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "Batı tiyatrosunun kurucu ve en ünlü şairi olarak kabul edilen yazar kimdir?",
+    "explanation": "William Shakespeare, İngiliz edebiyatının en önemli temsilcisidir ve tiyatro tarihinin en büyük figürlerinden biridir. Hamlet, Romeo ve Juliet gibi eserleriyle bilinir.",
+    "options": [
+      "William Shakespeare",
+      "Victor Hugo",
+      "Dante Alighieri",
+      "Johann Wolfgang von Goethe"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "tags": [
+      "Tarih",
+      "Yazarlar",
+      "Tiyatro Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ie1sac97",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "Tiyatronun içinde oyuncuların sahneye çıktığı alana ne ad verilir?",
+    "explanation": "Sahne, izleyicilerin karşısında oyuncuların oynadığı ana alanı ifade eder. Kulis ise sahnenin yanındaki bekleme alanıdır.",
+    "options": [
+      "Kulis",
+      "Sahne",
+      "Loge",
+      "Dekor"
+    ],
+    "correctAnswer": "Sahne",
+    "tags": [
+      "Terimler",
+      "Sahne Sanatları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vdn093qr4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "İstanbul'daki ilk tiyatro binası hangi yıl açıldı?",
+    "explanation": "İstanbul'daki ilk tiyatro binası Sadakat Tiyatrosu olarak bilinir ve 1876 yılında açılmıştır. Bu tarih Osmanlı tiyatrosunun modernleşmesinin başlangıcı kabul edilir.",
+    "options": [
+      "1876",
+      "1923",
+      "1950",
+      "1945"
+    ],
+    "correctAnswer": "1876",
+    "tags": [
+      "Tarih",
+      "İstanbul Kültürü",
+      "Tiyatro Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iekp5poy8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Aristoteles'in tiyatroyla ilgili temel eseri hangisidir?",
+    "explanation": "Aristoteles'in 'Poetika' adlı eserinde tiyatronun doğası, trajedi ve edebi yapı üzerine görüşlerini belirtir. Bu eser Batı tiyatro teorisinin temeli sayılır.",
+    "options": [
+      "Poetika",
+      "Estetik",
+      "Rhetorik",
+      "Fizik"
+    ],
+    "correctAnswer": "Poetika",
+    "tags": [
+      "Felsefe",
+      "Edebiyat Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ohro3heoa",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Tiyatroda 'Dramaturji' terimi hangi süreci ifade eder?",
+    "explanation": "Dramaturji, tiyatro oyununun yazılması, sahne tasarımı ve performans yönetimi arasındaki tüm sürecin bütüncül bir bakış açısıdır.",
+    "options": [
+      "Sadece koreografi tasarımı",
+      "Müzik kompozisyonu",
+      "Oyunun yazım ve sahneleyiş süreci",
+      "İzleyici analizi"
+    ],
+    "correctAnswer": "Oyunun yazım ve sahneleyiş süreci",
+    "tags": [
+      "Dramaturji",
+      "Terimler",
+      "Sanat Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fl5omatx5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EASY",
+    "question": "Modern tiyatronun en popüler temsilcisi ve 'Hamlet' oyununun yazarı kimdir?",
+    "explanation": "William Shakespeare, 16. yüzyıl İngiltere'sinde yaşamış ünlü oyun yazarıdır ve 'Hamlet' adlı trajedisini yazarak tiyatro tarihinin en önemli isimlerinden biri olmuştur.",
+    "options": [
+      "William Shakespeare",
+      "Victor Hugo",
+      "Charles Dickens",
+      "Leo Tolstoy"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "tags": [
+      "Tiyatro",
+      "Klasik Tiyatro",
+      "Yazarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6gn7kpuf1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Samuel Beckett'in 'Yalın Bir Bekleme' (Waiting for Godot) adlı eserinin türü nedir?",
+    "explanation": "'Waiting for Godot', 20. yüzyılın önemli tiyatro yazarlarından Samuel Beckett tarafından yazılmıştır ve 'Absürt Tiyatronun' başlangıcı olarak kabul edilir.",
+    "options": [
+      "Roman",
+      "Dramatik Tiyatro",
+      "Şiir",
+      "Kurgu"
+    ],
+    "correctAnswer": "Dramatik Tiyatro",
+    "tags": [
+      "Tiyatro",
+      "Absürt Tiyatro",
+      "Samuel Beckett"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m3z5cj7nk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Tiyatronun seyircinin oturduğu alanına, özellikle Antik Yunan'da ne ad verilir?",
+    "explanation": "Antik Yunan tiyatrolarında seyirci alanına 'Orkestra' denirdi. Skene oyuncuların çıkış yaptığı ve kostüm değiştirdiği alandı.",
+    "options": [
+      "Orkestra",
+      "Parodos",
+      "Skene",
+      "Proskeneion"
+    ],
+    "correctAnswer": "Orkestra",
+    "tags": [
+      "Tiyatro Terimleri",
+      "Antik Tiyatro",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6faflt6he",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "GENERAL",
+    "question": "Anton Çehov'un üç kız adlı oyununun İngilizce karşılığı ne olarak bilinir?",
+    "explanation": "Anton Çehov, Rus oyun yazarıdır ve 'Three Sisters' (Üç Kız), 'The Cherry Orchard' gibi önemli eserleri vardır.",
+    "options": [
+      "Three Sisters",
+      "The Cherry Orchard",
+      "Uncle Vanya",
+      "The Seagull"
+    ],
+    "correctAnswer": "Three Sisters",
+    "tags": [
+      "Tiyatro",
+      "Çehov",
+      "Rus Tiyatrosu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "50i9yut47",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Tiyatro",
+    "difficulty": "EXPERT",
+    "question": "Modern tiyatronun kurucularından biri olan ve 'Absürt Tiyatro' akımını başlatan sanatçı kimdir?",
+    "explanation": "'Waiting for Godot' gibi eserleriyle ünlü Samuel Beckett, absürt tiyatronun en önemli temsilcilerinden biridir ve bu akımı popüler hale getirmiştir.",
+    "options": [
+      "Samuel Beckett",
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Friedrich Nietzsche"
+    ],
+    "correctAnswer": "Samuel Beckett",
+    "tags": [
+      "Tiyatro Akımları",
+      "20. Yüzyıl",
+      "Absürt Tiyatro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "b5l8e32h7",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Mutfak tekniklerinde soğanların karamelize edilmesi için en uygun ısı aralığı nedir?",
+    "explanation": "Karamelize etmek için soğana düşük ısıda ve uzun süreli pişirerek şekerlerinin yavaşça kavrulması gerekir. Yüksek ısı soğanın yanmasına neden olur.",
+    "options": [
+      "Düşük ısı ve yavaş pişirme",
+      "Orta yüksek ısı ve hızlı pişirme",
+      "Çok yüksek ısı ve anında pişirme",
+      "Soğuk ortamda pişirme"
+    ],
+    "correctAnswer": "Düşük ısı ve yavaş pişirme",
+    "tags": [
+      "Mutfak Teknikleri",
+      "Pişirme Yöntemleri",
+      "Soğan Hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fb690il3g",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Yumurta akını çırparken kullanılan en etkili yöntem hangisidir?",
+    "explanation": "Yumurta akını çırparken elektrikli mutfak makinesi en hızlı ve etkili yöntemdir. Elde tutma veya tel çırpıcı daha yavaştır.",
+    "options": [
+      "Elektrikli mutfak makinesi",
+      "Elde tutma (stand) veya tel çırpıcı",
+      "Dolabı kullanarak çırpma",
+      "Sıcak su banyosu içinde çırpma"
+    ],
+    "correctAnswer": "Elektrikli mutfak makinesi",
+    "tags": [
+      "Mutfak Teknikleri",
+      "Yumurta Hazırlama",
+      "Çırpma Yöntemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p2orsr5gs",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Et pişirmede marinasyonun amacı nedir?",
+    "explanation": "Marinasyon, etin içine asit veya baharatlar ekleyerek hem lezzet katarken hem de yumuşatma etkisi sağlar.",
+    "options": [
+      "Etin lezzetini artırmak ve yumuşatmak",
+      "Etin rengini değiştirmek",
+      "Etin suyunu tamamen çekmek",
+      "Etin sıcaklığını yükseltmek"
+    ],
+    "correctAnswer": "Etin lezzetini artırmak ve yumuşatmak",
+    "tags": [
+      "Mutfak Teknikleri",
+      "Marinasyon",
+      "Et Hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o160xi7hq",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Salatalık ve domates keserken kullanılan 'julienne' tekniği nasıl uygulanır?",
+    "explanation": "Julienne, sebzelerin ince şerit halinde kesilmesi tekniğidir. Özellikle soğan ve salatalık için yaygın kullanılır.",
+    "options": [
+      "İnce şerit şeklinde dilimleme",
+      "Küp şeklinde doğrama",
+      "Yarı daire şeklinde dilimleme",
+      "Uzun çubuk halinde kesme"
+    ],
+    "correctAnswer": "İnce şerit şeklinde dilimleme",
+    "tags": [
+      "Mutfak Teknikleri",
+      "Dilimleme Yöntemleri",
+      "Sebze Hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pcsazaxqc",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfak hijyeninde 'cross-contamination' (çapraz bulaşma) riskini azaltmak için ne yapılmalıdır?",
+    "explanation": "Çapraz bulaşmayı önlemek için et, sebze ve hamur işi içeren malzemeler ayrı tahtalarda hazırlanmalıdır.",
+    "options": [
+      "Farklı malzemeler için farklı tahtalar kullanılmalı",
+      "Aynı tahtada her şey pişirilmeli",
+      "Tahta kullanılmamalı, sadece plastik kullanılmalı",
+      "Tahtalar yıkanmadan tekrar kullanılmalı"
+    ],
+    "correctAnswer": "Farklı malzemeler için farklı tahtalar kullanılmalı",
+    "tags": [
+      "Mutfak Teknikleri",
+      "Hijyen",
+      "Gıda Güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tgfprb4bf",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Which knife technique is best suited for cutting fresh herbs into thin strips?",
+    "explanation": "Chiffonade involves rolling herbs and slicing thinly to create ribbons. Julienne cuts into matchsticks, brunoise is small cubes, and paleo refers to a diet.",
+    "options": [
+      "julienne",
+      "brunoise",
+      "chiffonade",
+      "paleo"
+    ],
+    "correctAnswer": "chiffonade",
+    "tags": [
+      "knife skills",
+      "food prep"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkske8j6t",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "What heat setting should be used when sautéing vegetables to prevent burning?",
+    "explanation": "Medium-high heat ensures quick cooking and browning without excessive oil smoking. Low may cause sticking, while high risks burning.",
+    "options": [
+      "low",
+      "medium",
+      "medium-high",
+      "high"
+    ],
+    "correctAnswer": "medium-high",
+    "tags": [
+      "heat control",
+      "cooking methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4hhfnk48d",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Why is blanching vegetables before freezing recommended?",
+    "explanation": "Blanching deactivates enzymes causing bitterness and oxidation, preserving color and texture. Spoilage prevention is secondary to these primary reasons.",
+    "options": [
+      "To remove bitterness",
+      "To brighten color",
+      "Both A and B",
+      "To prevent spoilage"
+    ],
+    "correctAnswer": "Both A and B",
+    "tags": [
+      "blanching",
+      "food preservation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "04etmbh8w",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Which practice ensures safety when handling sharp kitchen knives?",
+    "explanation": "Keeping the blade directed away from hands prevents accidental cuts. Washing and storing are important but secondary to safe handling.",
+    "options": [
+      "Wash before use",
+      "Hold handle tightly",
+      "Keep blade away from fingers",
+      "Store in drawer"
+    ],
+    "correctAnswer": "Keep blade away from fingers",
+    "tags": [
+      "knife safety",
+      "food safety"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ocbv3f1uv",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "What is the primary reason acidic ingredients in marinades tenderize meat?",
+    "explanation": "Acids like vinegar or citrus break down proteins in meat, improving tenderness. Moisture and color are secondary effects.",
+    "options": [
+      "Add moisture",
+      "Enhance color",
+      "Break down connective tissue",
+      "All of the above"
+    ],
+    "correctAnswer": "Break down connective tissue",
+    "tags": [
+      "marination",
+      "food science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3vl0grdx",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi mutfak teçhizatı en yüksek derecede termal iletkenliğe sahiptir?",
+    "explanation": "Demir, metaller arasında yüksek termal iletkenliğe sahiptir ve bu nedenle eşit ısı dağılımı sağlar. Teflon kaplamalı ürünler ise düşük ısıl iletkenliğe sahiptir.",
+    "options": [
+      "Çelik tencere",
+      "Teflon kaplı tavalar",
+      "Demir tencereler",
+      "Cam kaplar"
+    ],
+    "correctAnswer": "Demir tencereler",
+    "tags": [
+      "Mutfak Teçhizatı",
+      "Termal İletkenlik",
+      "Yemek Pişirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "70rrsqxwa",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfak hijyeni açısından en kritik önemi olan işlem hangisidir?",
+    "explanation": "El hijyeni, gıda bulaşımı önlemede en kritik adımdır. Gıda güvenliğinde el yıkama ve dezenfeksiyon öncelikli öneme sahiptir.",
+    "options": [
+      "Tencereyi yıkamak",
+      "El yıkama ve dezenfeksiyon",
+      "Bulaşığı kurutmak",
+      "Mutfak süpürme"
+    ],
+    "correctAnswer": "El yıkama ve dezenfeksiyon",
+    "tags": [
+      "Mutfak Hijyeni",
+      "Gıda Güvenliği",
+      "Temizlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ws0vw1xc",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Pişirme teknikleri arasında su buharı kullanarak yavaş pişirme yöntemi hangisidir?",
+    "explanation": "Steamer veya buharlı pişirme, su buharı kullanarak yiyeceklerin yavaş ve sağlıklı şekilde pişmesini sağlar. Vitamin kaybını minimize eder.",
+    "options": [
+      "Fırında kavurma",
+      "Steamer (Buharlı) pişirme",
+      "Kızartma",
+      "Soteleme"
+    ],
+    "correctAnswer": "Steamer (Buharlı) pişirme",
+    "tags": [
+      "Pişirme Teknikleri",
+      "Su Buharı",
+      "Yavaş Pişirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jdgc34bsx",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Mutfak kesim tekniklerinden 'julienne' hangi formda kesimi ifade eder?",
+    "explanation": "Julienne, sebzelerin veya etlerin uzun ve ince şeritler halinde kesilmesidir. Genellikle 2-3 mm kalınlığında ve 5-10 cm uzunluğunda hazırlanır.",
+    "options": [
+      "Kare parçalar",
+      "Uzun incik şeritler",
+      "Küçük küpler",
+      "İnce halkalar"
+    ],
+    "correctAnswer": "Uzun incik şeritler",
+    "tags": [
+      "Kesim Teknikleri",
+      "Mutfak Hazırlık",
+      "Gıda Şekilleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "76ik26k8h",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfak güvenlik kurallarından hangisi en öncelikli uygulanması gereken kuraldır?",
+    "explanation": "Mutfakta en kritik güvenlik kuralı, su ve elektrik temasını önlemektir. Bu temas ciddi elektrik çarpmalarına yol açabilir.",
+    "options": [
+      "Tencereyi yüksek ateşte tutmak",
+      "Su ve elektrik temasını önlemek",
+      "Keski hızlı kullanmak",
+      "Pişirme sırasında sohbet etmek"
+    ],
+    "correctAnswer": "Su ve elektrik temasını önlemek",
+    "tags": [
+      "Mutfak Güvenliği",
+      "Elektrik Güvenliği",
+      "Kural Uygulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "868slmbok",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi temel pişirme yöntemlerinden biri değildir?",
+    "explanation": "Haşlama, kızartma ve tuzlama temel pişirme yöntemleridir. Özümleme ise bir pişirme yöntemi değildir.",
+    "options": [
+      "Haşlama",
+      "Kızartma",
+      "Tuzlama",
+      "Özümleme"
+    ],
+    "correctAnswer": "Özümleme",
+    "tags": [
+      "pişirme_teknikleri",
+      "mutfak_bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "urwf5y4bp",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Bıçak kullanırken parmakların doğru konumu nedir?",
+    "explanation": "Bıçak kullanırken parmak uçları değil, kenarları bıçağa değecek şekilde konumlandırılmalıdır.",
+    "options": [
+      "Tırnaklar açık",
+      "Parmak uçları bıçağa değecek şekilde",
+      "Parmakların kenarları bıçakta kalacak şekilde",
+      "Hepsi yanlış"
+    ],
+    "correctAnswer": "Parmakların kenarları bıçakta kalacak şekilde",
+    "tags": [
+      "bıçak_tekniği",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lr4xfg5ae",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Gıda güvenliği açısından hangisi en önemli kuraldır?",
+    "explanation": "Gıda güvenliğinde en önemli kural mutfak ve ürünlerin temiz tutulmasıdır.",
+    "options": [
+      "Mutfak temiz tutulmalı",
+      "Çok yemek yenecek şekilde hazırlanmalı",
+      "Hızlı çalışılmalı",
+      "Az su kullanılmalı"
+    ],
+    "correctAnswer": "Mutfak temiz tutulmalı",
+    "tags": [
+      "gıda_ güvenliği",
+      "temizlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7qxl0ml5r",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Döşek (sezar) salatasında temel marul türü hangisidir?",
+    "explanation": "Döşek salatasında kullanılan marul bilimsel olarak Lactuca sativa türüdür.",
+    "options": [
+      "Roka",
+      "Lactuca sativa",
+      "Çiğ kök",
+      "Taze nane"
+    ],
+    "correctAnswer": "Lactuca sativa",
+    "tags": [
+      "salata_tekniği",
+      "malzeme_bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cmlphw6my",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Etleri pişirmeden önce neden sularını kaçırmak gerekir?",
+    "explanation": "Etleri pişirmeden önce sularını kaçırmak lezzet kaybını önler.",
+    "options": [
+      "Taze görünmesi için",
+      "Pişirme süresi kısalması için",
+      "Lezzet kaybı önlemek için",
+      "Daha az su kullanmak için"
+    ],
+    "correctAnswer": "Lezzet kaybı önlemek için",
+    "tags": [
+      "et_tekniği",
+      "pişirme_ipuçları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "700qoj61d",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Mutfak tekniklerinde 'soyulma işlemi' en çok hangi gıda grubunda uygulanır?",
+    "explanation": "Soğuk hava koşullarında sebze soyulması daha pratiktir. Soğan, patates, havuç gibi sebzelerin kabuğu soymak mutfak tekniklerinde temel bir uygulamadır.",
+    "options": [
+      "Et",
+      "Sebze",
+      "Tahıl",
+      "Süt"
+    ],
+    "correctAnswer": "Sebze",
+    "tags": [
+      "gıda-hazırlama",
+      "soyulma-teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "503yo7y9h",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfak güvenliği açısından 'ısıtma sırasında' hangi maddeyi asla pişirmemelisiniz?",
+    "explanation": "Soyutmuş tereyağı ısıtma sırasında alev alabilir ve mutfak güvenliği riski oluşturur. Doğru yağ seçimi pişirme işlemlerinde önemlidir.",
+    "options": [
+      "Yağ",
+      "Tereyağı",
+      "Soyutmuş tereyağı",
+      "Bitkisel yağ"
+    ],
+    "correctAnswer": "Soyutmuş tereyağı",
+    "tags": [
+      "mutfak-güvenliği",
+      "yaşlar-piştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m9p6z5xme",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "'Kesim' işleminde gıda kalitesini korumak için hangi teknik uygulanmalıdır?",
+    "explanation": "Temiz ve düzenli bıçak kullanımı gıda kalitesini korur, kesim işlemlerinde daha hassas sonuç verir.",
+    "options": [
+      "Rastgele kesme",
+      "Düzenli ve temiz bıçak kullanımı",
+      "Bıçağı yer değiştirmeme",
+      "Hızlı kesme"
+    ],
+    "correctAnswer": "Düzenli ve temiz bıçak kullanımı",
+    "tags": [
+      "kesim-teknikleri",
+      "gıda-kalite"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ojlal398v",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Mutfak tekniklerinde 'pişirme öncesi' hangi işlem et lezzetini artırır?",
+    "explanation": "Marine etme işlemi etin lezzetini ve nemini artırır. Doğru marine madde seçimi pişirme işleminde önemli bir tekniktir.",
+    "options": [
+      "Tuzlama",
+      "Marine etme",
+      "Kurutma",
+      "Soğuk tutma"
+    ],
+    "correctAnswer": "Marine etme",
+    "tags": [
+      "lezzet-teknikleri",
+      "marine-etme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0azji0bap",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "'Gıda saklama' tekniklerinde en uygun sıcaklık aralığı nedir?",
+    "explanation": "Gıdaların en uygun şekilde saklanması için dondurucuda -18°C ve altı sıcaklık aralığı gıda kalitesini korur.",
+    "options": [
+      "-18°C ve altı",
+      "-5°C ile +4°C",
+      "+20°C ile +30°C",
+      "+40°C ve üstü"
+    ],
+    "correctAnswer": "-18°C ve altı",
+    "tags": [
+      "gıda-saklama",
+      "sıcaklık-standartları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5kdupkmhf",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Mutfak tekniklerinde 'braziyon' yöntemi hangi sıcaklık aralığında uygulanan pişirme tekniğidir?",
+    "explanation": "Braziyon (ızgara) yöntemi yüksek sıcaklıkta uygulanan pişirme tekniğidir ve genellikle 250-270°C aralığında yapılır.",
+    "options": [
+      "180-200°C",
+      "250-270°C",
+      "90-100°C",
+      "140-160°C"
+    ],
+    "correctAnswer": "250-270°C",
+    "tags": [
+      "mutfak-teknikleri",
+      "pişirme-yöntemleri",
+      "sıcaklık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "al9krldat",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfakta 'sote' usulü hangi malzemelerle daha sık kullanılır?",
+    "explanation": "Sote usulü yüksek ateşte kısa süreli pişirme olup genellikle sebzeler ve etler için tercih edilir.",
+    "options": [
+      "Sebzeler ve etler",
+      "Deniz ürünleri",
+      "Tavuk göğsü",
+      "Süt ürünleri"
+    ],
+    "correctAnswer": "Sebzeler ve etler",
+    "tags": [
+      "mutfak-teknikleri",
+      "sote",
+      "malzeme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j6uotf9uj",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Mutfak hijyeninde 'cross-contamination' (çapraz bulaşma) nedir?",
+    "explanation": "Cross-contamination, çiğ gıdalardan pişmiş gıdalara veya farklı yüzeyler arasında bakteri transferi anlamına gelir.",
+    "options": [
+      "Aynı bıçağı kullanmak",
+      "Çirkin yiyecekleri pişirmek",
+      "Birinden diğerine bakteri taşıma",
+      "Yeterli ısıda pişirme"
+    ],
+    "correctAnswer": "Birinden diğerine bakteri taşıma",
+    "tags": [
+      "mutfak-teknikleri",
+      "hijyen",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kvspe45rg",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "'Marinasyon' tekniği etlerin hangi özelliğini artırmak için kullanılır?",
+    "explanation": "Marinasyon, etlerin hem yumuşamasını hem de ek lezzet almasını sağlayan bir hazırlama tekniğidir.",
+    "options": [
+      "Yumuşaklık ve lezzet",
+      "Sertlik",
+      "Bozulma",
+      "Koku"
+    ],
+    "correctAnswer": "Yumuşaklık ve lezzet",
+    "tags": [
+      "mutfak-teknikleri",
+      "marinasyon",
+      "et-hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ggl9j31n",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "'Redüksiyon' (reduksiyon) yöntemi soslarda neyi ifade eder?",
+    "explanation": "Redüksiyon, sıvı malzemelerin kısık ateşte buharlaştırılarak kıvamının arttırıldığı bir pişirme tekniğidir.",
+    "options": [
+      "Sıvının buharlaştırılarak kalınlaşması",
+      "Sıvının tamamen pişmesi",
+      "Yağ eklenmesi",
+      "Daha fazla sos katılması"
+    ],
+    "correctAnswer": "Sıvının buharlaştırılarak kalınlaşması",
+    "tags": [
+      "mutfak-teknikleri",
+      "reduksiyon",
+      "sos-hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ngaoz3k2",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Mutfakta kullanılmayan temel malzeme hangisidir?",
+    "explanation": "Tuz, zeytinyağı ve biber mutfakta temel kullanımları olan malzemelerdir. Çanta ise mutfak tekniklerinde kullanılan bir malzeme değildir.",
+    "options": [
+      "Tuz",
+      "Zeytinyağı",
+      "Çanta",
+      "Biber"
+    ],
+    "correctAnswer": "Çanta",
+    "tags": [
+      "malzeme",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xhlirzgo9",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Etleri pişirmeden önce hangi teknik uygulanır?",
+    "explanation": "Etlerin lezzetini artırmak ve pişirmeyi kolaylaştırmak için marine tekniği uygulanır. Dövmek, kurutmak veya çiğirmek bu amaçla kullanılmaz.",
+    "options": [
+      "Marine",
+      "Dövmek",
+      "Kurutmak",
+      "Çiğirmek"
+    ],
+    "correctAnswer": "Marine",
+    "tags": [
+      "pişirme",
+      "et"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v8mvilgha",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Sebze dilimleme için hangi alet kullanılır?",
+    "explanation": "Sebzeleri eşit dilimlemek için özel olarak tasarlanmış dilim makinesi kullanılır. Mutfak makinesi ezme, kaşık ve çatal ise farklı işlevlere sahiptir.",
+    "options": [
+      "Mutfak Makinesi",
+      "Dilim Makinesi",
+      "Kaşık",
+      "Çatal"
+    ],
+    "correctAnswer": "Dilim Makinesi",
+    "tags": [
+      "sebze",
+      "dilimleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vgx4lx9go",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfakta gazın kontrolü neden önemlidir?",
+    "explanation": "Mutfakta gazın doğru kontrolü yangın ve kazaları önlemek için güven sağlar. Yanlış kullanım, ilk yardım veya tazeleme bu bağlamda yer almaz.",
+    "options": [
+      "Güven",
+      "İlk Yardım",
+      "Yanlış Kullanım",
+      "Tazeleme"
+    ],
+    "correctAnswer": "Güven",
+    "tags": [
+      "güvenlik",
+      "gaz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "01ckdfqi7",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Pişirme sırasında hangi teknik etin kurumasını engeller?",
+    "explanation": "Pişirme sırasında kapağı kapatmak buharı içinde tutarak etin kurumasını engeller. Sıcaklık ayarı, tuz miktarı ve yağ kullanımı farklı amaçlar için yapılır.",
+    "options": [
+      "Kapağı Kapamak",
+      "Sıcaklık Ayarı",
+      "Daha Fazla Tuz",
+      "Daha Az Yağ"
+    ],
+    "correctAnswer": "Kapağı Kapamak",
+    "tags": [
+      "pişirme",
+      "et"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jo94ynfyg",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Mutfak tekniklerinde en yaygın kullanılan bıçak türü hangisidir?",
+    "explanation": "Şef bıçağı, evrensel mutfak kesim işlemleri için tasarlanmış en çok kullanılan bıçaktır. Genellikle 20-25 cm uzunluğunda olup hem doğrama hem de dilimleme işlemlerinde tercih edilir.",
+    "options": [
+      "Şef bıçağı",
+      "Branşör bıçağı",
+      "Karbonel bıçağı",
+      "Yemek bıçağı"
+    ],
+    "correctAnswer": "Şef bıçağı",
+    "tags": [
+      "bıçak",
+      "mutfak ekipmanı",
+      "temel teknikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0mh7jpswu",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Etler pişirilmeden önce doğru sıcaklıkta muhafaza edilmelidir. Hangi sıcaklık en uygundur?",
+    "explanation": "Etler uzun süreli muhafazada -18°C ve altı sıcaklıkta dondurulmalıdır. Bu sıcaklık mikroorganizmaların büyümesini engeller ve etin tazelik süresini uzatır.",
+    "options": [
+      "-18°C ve altı",
+      "-5°C ile +3°C arası",
+      "+4°C ile +10°C arası",
+      "+12°C ve üstü"
+    ],
+    "correctAnswer": "-18°C ve altı",
+    "tags": [
+      "gıda güvenliği",
+      "muafaza",
+      "et kalitesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "45tfpg1az",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Sebze doğranırken 'julienne' tekniği hangi formda kesim yapar?",
+    "explanation": "Julienne tekniği, sebzeleri ince şerit şeklinde doğramayı ifade eder. Genellikle 1-2 mm kalınlığında ve 5-7 cm uzunluğunda kesimler yapılır.",
+    "options": [
+      "Küp şeklinde",
+      "İnce şerit şeklinde",
+      "Daire şeklinde",
+      "Yaprağ şeklinde"
+    ],
+    "correctAnswer": "İnce şerit şeklinde",
+    "tags": [
+      "sebze işleme",
+      "kesim teknikleri",
+      "fransız mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "osn8qkicn",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfak hijyeninde el yıkama en az kaç saniye süreyle yapılmalıdır?",
+    "explanation": "WHO ve gıda güvenliği kuralları el yıkanırken en az 20 saniye sabunla durulamanın gerektiğini belirtir. Bu süre mikrop temizliği için yeterlidir.",
+    "options": [
+      "10 saniye",
+      "20 saniye",
+      "30 saniye",
+      "40 saniye"
+    ],
+    "correctAnswer": "20 saniye",
+    "tags": [
+      "hijyen",
+      "el yıkama",
+      "gıda güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w3iy4fihq",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Pişirme teknikleri arasında 'sous-vide' yöntemi hangi prensiple çalışır?",
+    "explanation": "Sous-vide, gıdaların vakumlu paketleyici ile sarılıp kontrollü sıcaklıkta (genellikle 50-80°C arası) pişirilmesidir. Bu yöntem lezzet ve besin değerini korur.",
+    "options": [
+      "Yüksek basınçlı buhar",
+      "Vakumlu paketleme ve kontrollü sıcaklık",
+      "Düşük sıcaklıkta uzun süre",
+      "Hızlı dondurma"
+    ],
+    "correctAnswer": "Vakumlu paketleme ve kontrollü sıcaklık",
+    "tags": [
+      "modern pişirme",
+      "sous-vide",
+      "vakum teknolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "medc5h3p3",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "Mutfakta bıçak kullanırken hangi güvenlik önlemi en önemli olanıdır?",
+    "explanation": "Mutfakta en temel güvenlik kuralları parmakları kesme alanından uzak tutmaktır. Parmak uçları her zaman bıçak yolunun üzerinde değil, yan tarafta olmalıdır.",
+    "options": [
+      "Bıçağı her zaman dikey tutmak",
+      "Parmak uçlarını bıçak yolundan uzak tutmak",
+      "Bıçağı soğukken kullanmak",
+      "Tek elle kesme yapmak"
+    ],
+    "correctAnswer": "Parmak uçlarını bıçak yolundan uzak tutmak",
+    "tags": [
+      "güvenlik",
+      "bıçak teknikleri",
+      "mutfak hijyeni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g4ltnvho8",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Hızlı ve etkili soğan doğraması için hangi teknik uygundur?",
+    "explanation": "Soğanları yarım daire şeklinde doğramak hem daha hızlıdır hem de yemeğe eşit parçalar halinde dağılmasını sağlar. Bu klasik mutfak tekniğidir.",
+    "options": [
+      "Yarım daire şeklinde kesmek",
+      "Kare parçalar halinde kesmek",
+      "Çizgi şeklinde kesip sonra kare yapmak",
+      "Dikdörtgen şeklinde kesmek"
+    ],
+    "correctAnswer": "Yarım daire şeklinde kesmek",
+    "tags": [
+      "doğrama teknikleri",
+      "soğan hazırlama",
+      "mutfak hızlandırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h0cflkdrj",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Kızartma yaparken hangi sıvı yağ sıcaklığı kontrol edilmelidir?",
+    "explanation": "Kızartma için ideal yağ sıcaklığı 180-190°C arasıdır. Bu sıcaklık malzemeyi hızlıca pişirip dışı çıtır, içi yumuşak olur.",
+    "options": [
+      "160-170°C",
+      "200-210°C",
+      "140-150°C",
+      "180-190°C"
+    ],
+    "correctAnswer": "180-190°C",
+    "tags": [
+      "kızartma",
+      "yağ sıcaklığı",
+      "mutfak teknisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5d21baoj",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Dövmeli tencerede yemek pişirmede hangi teknik kullanılır?",
+    "explanation": "Dövmeli tencerede yemek pişirirken orta-yüksek ateş ile sote yapıp sonra kapağı kapatıp düşük ateşte yavaş pişirmek en doğru tekniktir.",
+    "options": [
+      "Sadece yüksek ateşte",
+      "Ateşi düşük tutarak ve karıştırarak",
+      "Ateşi hiç açmadan",
+      "Kapağı açık bırakarak"
+    ],
+    "correctAnswer": "Ateşi düşük tutarak ve karıştırarak",
+    "tags": [
+      "dövmeli tencere",
+      "pişirme teknikleri",
+      "mutfak yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0eei9zas3",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfakta yiyecekleri doğru saklamak için hangi sıralama önemlidir?",
+    "explanation": "Mutfakta yiyecekler FIFO (First In, First Out) ilkesi ile saklanmalı, her şey etiketlenmeli ve ilk kullanılmayan ürün sona doğru konulmalıdır.",
+    "options": [
+      "En son kullanılana yakın",
+      "En az kullanılan ilk yer",
+      "Sırayla ve etiketli",
+      "Karışık tutarak"
+    ],
+    "correctAnswer": "Sırayla ve etiketli",
+    "tags": [
+      "yiyecek saklama",
+      "mutfak düzeni",
+      "gıda güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wrhtci36e",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EASY",
+    "question": "\"Haşlama\" tekniği hangi ortamda gerçekleşir?",
+    "explanation": "Haşlama, yiyeceğin kaynatma suyu gibi sıvı ortamında pişirilmesine verilen addır.",
+    "options": [
+      "Sıvı içinde",
+      "Yağın altında",
+      "Kuru ısıda",
+      "Havada"
+    ],
+    "correctAnswer": "Sıvı içinde",
+    "tags": [
+      "Pişirme Yöntemleri",
+      "Temel Teknikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2pfb1rha",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "Mutfak güvenliği açısından çiğ etlerle çalışırken hangi kural uygulanmalıdır?",
+    "explanation": "Çiğ etler bakteriler barındırabilir, bu nedenle pişmiş yemeklerle teması önlemek ve el hijyeni çok önemlidir.",
+    "options": [
+      "Pişmiş etle aynı tencere",
+      "Çiğ etten sonra el yıkama",
+      "Sıradan saklama",
+      "Yeterli ısı"
+    ],
+    "correctAnswer": "Çiğ etten sonra el yıkama",
+    "tags": [
+      "Gıda Güvenliği",
+      "Hijyen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yw8sqpojw",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kavurma\" yönteminin temel özelliği nedir?",
+    "explanation": "Kavurma, yiyeceği yüksek ateşte kısa sürede pişirerek suyunu çekmeyi ve harici kızartmayı hedefleyen tekniktir.",
+    "options": [
+      "Düşük ısıda uzun süre",
+      "Yüksek ısıda kısa süre",
+      "Sıvıda pişme",
+      "Buzdolabında saklama"
+    ],
+    "correctAnswer": "Yüksek ısıda kısa süre",
+    "tags": [
+      "Pişirme Yöntemleri",
+      "Teknik Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "agsnjyc00",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi tepkime yüksek sıcaklıkta yüzeyin kahverengi olmasını sağlar?",
+    "explanation": "Maillard tepkimesi, amino asit ve şekerlerin yüksek ısıda reaksiyona girerek kahverengi renk ve aromanın oluşmasını sağlar.",
+    "options": [
+      "Fermentasyon",
+      "Maillard Tepkimesi",
+      "Oksidasyon",
+      "Hidroliz"
+    ],
+    "correctAnswer": "Maillard Tepkimesi",
+    "tags": [
+      "Kimya",
+      "Pişirme Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hic9y5sdf",
+    "category": "MUTFAK",
+    "subcategory": "Mutfak Teknikleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi pişirme yönteminde yiyecek vakumlu poşet içinde su banyosu (water bath) ile ısıtılır?",
+    "explanation": "Sous-vide yönteminde yiyecek vakumlu poşet içinde kontrol edilmiş sıcaklıkta su banyosu ile pişirilir.",
+    "options": [
+      "Sous-vide",
+      "Izgara",
+      "Haşlama",
+      "Kızartma"
+    ],
+    "correctAnswer": "Sous-vide",
+    "tags": [
+      "Gelişmiş Teknikler",
+      "Yeni Yöntemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

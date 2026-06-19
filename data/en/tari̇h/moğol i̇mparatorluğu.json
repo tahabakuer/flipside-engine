@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "tkttyk2iu",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun kurucusu ve birliği sağlayan lider kimdir?",
+    "explanation": "Gengiz Han, 1206 yılında Moğol boylarını birleştirerek Moğol İmparatorluğu'nun kurucusu olmuştur.",
+    "options": [
+      "Kublay Han",
+      "Gengiz Han",
+      "Cinggis Khan",
+      "Ögedey Han"
+    ],
+    "correctAnswer": "Gengiz Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Kurucu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kr51svlof",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun Asya'daki en geniş sınırlarına sahip olduğu dönemde yaşayan lider kimdir?",
+    "explanation": "Kublai Han, Çin'i fethederek Moğol İmparatorluğu'nun en geniş sınırlarına ulaştırdığı dönemde yaşamıştır.",
+    "options": [
+      "Gengiz Han",
+      "Kublai Han",
+      "Toğrul Temür",
+      "Hülagü Han"
+    ],
+    "correctAnswer": "Kublai Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Genişleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sm7hsjmsf",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun Avrupa'ya doğru yayılmasını hangi lider başlatmıştır?",
+    "explanation": "Hülagü Han, Moğol İmparatorluğu'nun Batı'ya doğru yayılmasını başlatmış ve Avrupa'ya yönelik seferleri düzenlemiştir.",
+    "options": [
+      "Gengiz Han",
+      "Kublai Han",
+      "Hülagü Han",
+      "Berke Han"
+    ],
+    "correctAnswer": "Hülagü Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Avrupa Savaşı",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r9lu5tq9y",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun posta sistemi olarak kullandığı 'Yam' sisteminin temel amacı nedir?",
+    "explanation": "Yam sistemi, Moğol İmparatorluğu'nun hızlı haber iletimi ve yönetimsel iletişim için kullanılan resmi posta sistemidir.",
+    "options": [
+      "Savaş düzenlemek",
+      "İmparatorluk idaresi ve haber iletimi",
+      "Ticaret yapması",
+      "Din yaymak"
+    ],
+    "correctAnswer": "İmparatorluk idaresi ve haber iletimi",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Yam Sistemi",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zo0ww0scs",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun varlığına son veren ve parçalanmaya neden olan önemli olay nedir?",
+    "explanation": "Moğol İmparatorluğu, lider çatışmaları ve bölge yönetimi sorunları nedeniyle zamanla parçalanmıştır.",
+    "options": [
+      "Çoklu liderlik çatışması",
+      "Türklerin direnişi",
+      "Asya'daki sınırların genişlemesi",
+      "Avrupa seferlerinin başarısı"
+    ],
+    "correctAnswer": "Çoklu liderlik çatışması",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Parçalanma",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "720zwrbyz",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Moğol İmparatorluğu'nun kurucusu Geng Khan'dır. 1206 yılında kurduğu imparatorluk Moğol tarihinin en önemli dönüm noktalarından biridir.",
+    "options": [
+      "Geng Khan",
+      "Kubilay Khan",
+      "Orta Khan",
+      "Hülagü Khan"
+    ],
+    "correctAnswer": "Geng Khan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Kurucu",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tesifv9sf",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Geng Khan hangi yılda öldü?",
+    "explanation": "Geng Khan 1227 yılında öldü. Bu tarih Moğol tarihinin önemli bir dönüm noktasıdır ve imparatorlukta büyük değişikliklere yol açtı.",
+    "options": [
+      "1206",
+      "1218",
+      "1227",
+      "1240"
+    ],
+    "correctAnswer": "1227",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Ölüm Yılı",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v6lhzbn9t",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun en geniş sınırları hangi devrede gerçekleşti?",
+    "explanation": "Kubilay Khan döneminde Moğol İmparatorluğu en geniş sınırlarına ulaştı. Bu dönem Moğol tarihinin en önemli devrelerinden biridir.",
+    "options": [
+      "Geng Khan",
+      "Kubilay Khan",
+      "Orta Khan",
+      "Hülagü Khan"
+    ],
+    "correctAnswer": "Kubilay Khan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Geniş Sınırlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ne1hda5oc",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu hangi kıtalara hükmetti?",
+    "explanation": "Moğol İmparatorluğu Avrupa, Asya ve kıta sınırlarında hükmetti. Bu geniş sınırlar Moğol tarihinin en önemli özelliklerinden biridir.",
+    "options": [
+      "Sadece Avrupa",
+      "Sadece Asya",
+      "Avrupa, Asya ve Afrika",
+      "Avrupa, Asya, Afrika ve Amerika"
+    ],
+    "correctAnswer": "Avrupa, Asya ve Afrika",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Kıtalara Hüküm",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7kibzucxg",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun sonu hangi yılda gerçekleşti?",
+    "explanation": "Moğol İmparatorluğu 1368 yılında sona erdi. Bu tarih Moğol tarihinin önemli bir dönüm noktasıdır ve imparatorlukta büyük değişikliklere yol açtı.",
+    "options": [
+      "1350",
+      "1400",
+      "1270",
+      "1368"
+    ],
+    "correctAnswer": "1368",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "İmparatorluğun Sonu",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xj17kfx43",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun kurucusu ve Büyük Han olarak bilinen kişi kimdir?",
+    "explanation": "Çinggis Han (1162-1227), Moğol İmparatorluğu'nun kurucusu ve ilk Büyük Han'dır. 1206 yılında Moğol boyları birleşerek ona Çinggis Han unvanını vermişlerdir.",
+    "options": [
+      "Çinggis Han",
+      "Ögedei Han",
+      "Kublai Han",
+      "Hülaгу Han"
+    ],
+    "correctAnswer": "Çinggis Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Çinggis Han"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xjmnl21rb",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun başkenti olarak kabul edilen şehir hangisidir?",
+    "explanation": "Karakorum, Moğol İmparatorluğu'nun başkenti olarak hizmet etmiştir. Kublai Han döneminde de başkent statüsü devam etmiştir.",
+    "options": [
+      "Batu Şehir",
+      "Karakorum",
+      "Pekin",
+      "Samarqand"
+    ],
+    "correctAnswer": "Karakorum",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "691vlljg8",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun en geniş sınırlarına ulaştığı dönem hangi hanın hüküm sürdüğü zamandır?",
+    "explanation": "Kublai Han (1260-1294) döneminde Moğol İmparatorluğu, Hint okyanusundan Doğu Avrupa'ya kadar en geniş sınırlarına ulaşmıştır. Bu dönemde Yuan Hanedanlığı kurulmuştur.",
+    "options": [
+      "Çinggis Han",
+      "Ögedei Han",
+      "Kublai Han",
+      "Töregene Khatun"
+    ],
+    "correctAnswer": "Kublai Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Sınırlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "egzqh7f6b",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun kurucu unvanı olan 'İmparatorluk' kelimesi hangi dilin kökeninden gelir?",
+    "explanation": "'İmparatorluk' kelimesi Moğolca'daki 'Khanlık' veya 'Hanlık' kavramlarının Türkçeye uyarlanmış halidir. Moğol İmparatorluğu'nun resmi adı Moğolca idi.",
+    "options": [
+      "Türkçe",
+      "Moğolca",
+      "Çince",
+      "Sanskritçe"
+    ],
+    "correctAnswer": "Moğolca",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Diller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m63jdcwmn",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu, hangi yüzyılın sonlarında en geniş çapta yayılmıştır?",
+    "explanation": "Moğol İmparatorluğu, 12. yüzyılın sonlarında (özellikle 1206-1259 arasında) en geniş çapta yayılmıştır. Çinggis Han'dan Kublai Han'a kadar bu dönemdir.",
+    "options": [
+      "10. Yüzyıl",
+      "12. Yüzyıl",
+      "14. Yüzyıl",
+      "16. Yüzyıl"
+    ],
+    "correctAnswer": "12. Yüzyıl",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Yüzyıllar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jd34qmpms",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun kurucusu ve birleşik Moğol devletini kuran hükümdar kimdir?",
+    "explanation": "Cengiz Han, 1206 yılında Moğol liderlerini birleştirerek Moğol İmparatorluğu'nun kurucusu oldu ve modern Çin'in kuzeyini içine alan devasa toprakları birleştirdi.",
+    "options": [
+      "Kubilai Han",
+      "Cengiz Han",
+      "Tayizu",
+      "Ögedey Han"
+    ],
+    "correctAnswer": "Cengiz Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Kurucu",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c1i8wvuu8",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi Moğol hanı Yuan Hanedanı'nu kurarak Çin'e egemenlik sağladı?",
+    "explanation": "Kubilai Han, Cengiz Han'ın torunu olup 1271 yılında Yuan Hanedanı'nı kurarak Çin'e tam egemenlik sağladı ve Moğol-Çin ilişkilerini derinleştirdi.",
+    "options": [
+      "Cengiz Han",
+      "Kubilai Han",
+      "Tayizu",
+      "Ögedey Han"
+    ],
+    "correctAnswer": "Kubilai Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Yuan Hanedanı",
+      "Çin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x32inwjyu",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun en geniş topraklarına sahip olduğu dönemde 'Pax Mongolica' (Moğol Barışı) kavramı ne anlama gelir?",
+    "explanation": "Pax Mongolica, Moğol yönetimi altındaki geniş topraklarda kervan yollarının güvenli olması ve Avrupa ile Asya arasında ticaretin canlı hale gelmesi anlamına gelir.",
+    "options": [
+      "Moğolların tüm dünyaya hakim olması",
+      "Moğol topraklarındaki ticaret yollarının güvenliği ve canlı hale gelmesi",
+      "Moğolların din özgürlüğünü tanıması",
+      "Moğolların Avrupa'yı fethetmesi"
+    ],
+    "correctAnswer": "Moğol topraklarındaki ticaret yollarının güvenliği ve canlı hale gelmesi",
+    "tags": [
+      "Pax Mongolica",
+      "Ticaret",
+      "Moğol İmparatorluğu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "02bny1zxu",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun batıdaki en uzak noktası neydi?",
+    "explanation": "Moğol İmparatorluğu'nun batıdaki en uzak noktası Orta Asya'dan Polonya ve Macaristan gibi Avrupa ülkelerine kadar uzanıyordu. Moğol orduları 1241-1242 yıllarında Avrupa'ya istila yapmıştı.",
+    "options": [
+      "Orta Asya",
+      "Avrupa (Polonya, Macaristan)",
+      "Hindistan",
+      "Çin"
+    ],
+    "correctAnswer": "Avrupa (Polonya, Macaristan)",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Batı Sınır",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fl8uoz1kz",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun dini politikası ile ilgili olarak, hangi hükümdarlar farklı dinlere karşı hoşgörü göstermiştir?",
+    "explanation": "Cengiz Han ve Kubilai Han, Moğol İmparatorluğu'nun farklı dinlere (Buddha, Hristiyanlık, İslam vb.) karşı hoşgörü göstermişlerdir. Bu politika ticaret yollarının canlı kalmasına yardımcı olmuştur.",
+    "options": [
+      "Sadece Cengiz Han",
+      "Cengiz Han ve Kubilai Han",
+      "Tayizu ve Ögedey Han",
+      "Avrupa hanları"
+    ],
+    "correctAnswer": "Cengiz Han ve Kubilai Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Din Politikası",
+      "Hoşgörü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kldpszkou",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun kurucusu ve ilk hanı kimdir?",
+    "explanation": "Gengiz Han (1206), Moğol halkını birleştirmiş ve Moğol İmparatorluğu'nun kurucusu olarak tarihe geçmiştir. Timur ise 14. yüzyılda yaşamış, Kublai Khan Moğol imparatorunun torunudur.",
+    "options": [
+      "Timur",
+      "Gengiz Han",
+      "Batuhan",
+      "Kublai Khan"
+    ],
+    "correctAnswer": "Gengiz Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Gengiz Han",
+      "Hanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2urq7mykk",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun başkenti Karakorum hangi bölgede kurulmuştur?",
+    "explanation": "Karakorum, günümüzde Özbekistan sınırları içinde bulunan, Moğol İmparatorluğu'nun başkenti olarak 1234-1250 yılları arasında kullanılmıştır. Huang He (Sarı Nehir) bölgesinin kuzeyinde kurulmuştur.",
+    "options": [
+      "İran",
+      "Çin",
+      "Orta Asya (Huang He'nin kuzeyi)",
+      "Rusya"
+    ],
+    "correctAnswer": "Orta Asya (Huang He'nin kuzeyi)",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Karakorum",
+      "Başkentler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4l4pb0znz",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun Pax Mongolica dönemi ne anlama gelir?",
+    "explanation": "Pax Mongolica, Moğol İmparatorluğu'nun geniş toprakları sayesinde Asya'dan Avrupa'ya kadar uzanan güvenli ticaret yollarının (Küçük ve Büyük İpek Yolu) oluştuğu dönemi ifade eder. Bu dönemde posta sistemi de geliştirilmiştir.",
+    "options": [
+      "İmparatorluğun çöküşü",
+      "Asya ve Avrupa arasında güvenli ticaret rotaları",
+      "Moğolların dinî dönüşümü",
+      "İmparatorluğun sınırlarının daralması"
+    ],
+    "correctAnswer": "Asya ve Avrupa arasında güvenli ticaret rotaları",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Ticaret",
+      "Pax Mongolica",
+      "Çin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "29klny6h1",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu hangi yüzyılda kurulmuştur?",
+    "explanation": "Moğol İmparatorluğu, Gengiz Han'ın 1206 yılında kurduğu kongre ile resmi olarak 13. yüzyıl başlarında (12. yüzyıl sonu) kurulmuştur.",
+    "options": [
+      "8. yüzyıl",
+      "12. yüzyıl",
+      "14. yüzyıl",
+      "16. yüzyıl"
+    ],
+    "correctAnswer": "12. yüzyıl",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Kuruluş Tarihi",
+      "Zaman",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pgonncqgq",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun en büyük toprak genişlemesi hangi han döneminde gerçekleşmiştir?",
+    "explanation": "Kublai Khan, Gengiz Han'ın torunudur ve Moğol İmparatorluğu'nun Çin'i fethederek imparatorluğun en geniş dönemine ulaşmasını sağlamıştır. Hulagu Khan ise İran ve Ortadoğu'yu fethetmiştir.",
+    "options": [
+      "Gengiz Han",
+      "Kublai Khan",
+      "Ogedei Khan",
+      "Hulagu Khan"
+    ],
+    "correctAnswer": "Kublai Khan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Toprak Genişlemesi",
+      "Hanlar",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aclfj8iae",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun kurucusu ve en büyük hanesi kimdir?",
+    "explanation": "Cengiz Han (Temuçin), Moğol İmparatorluğu'nun 1206 yılında kurucusu ve en büyük hanidir. Altın Ordu, Cengiz Han'ın torunu Batu Han tarafından kurulmuştur.",
+    "options": [
+      "Cengiz Han",
+      "Kubilai Han",
+      "Ögedei Han",
+      "Töregene"
+    ],
+    "correctAnswer": "Cengiz Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Cengiz Han",
+      "Kurucu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "belvockw4",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun en geniş coğrafi alanı hangi döneme denk gelir?",
+    "explanation": "Cengiz Han döneminde Moğol İmparatorluğu, Asya ve Avrupa'nın büyük bir bölümünü kapsayan en geniş coğrafi alana sahipti. İmparatorluk daha sonra bölünerek farklı hanlıklara ayrıldı.",
+    "options": [
+      "Cengiz Han dönemi",
+      "Ögedei Han dönemi",
+      "Kubilai Han dönemi",
+      "Toğan Temür dönemi"
+    ],
+    "correctAnswer": "Cengiz Han dönemi",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Coğrafya",
+      "Dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lfuujnhlw",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nda 'Yam' sistemi ne işlev görür?",
+    "explanation": "Yam, Moğol İmparatorluğu'nda kurulan devasa bir haber ve posta iletim sistemiydi. Atlarla donatılmış istasyonlar aracılığıyla mesajlar günlerce süren mesafelerde hızlıca taşınıyordu.",
+    "options": [
+      "Posta ve haber iletim sistemi",
+      "Askeri eğitim merkezi",
+      "Diplomatik görüşme yeri",
+      "Para basılan yer"
+    ],
+    "correctAnswer": "Posta ve haber iletim sistemi",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Yam Sistemi",
+      "İdari Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lruj1dnz6",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Hangi han, Moğol İmparatorluğu'nun Çin üzerine kurduğu Hanedanı (Yuan Hanedanı) kurdur?",
+    "explanation": "Kubilai Han, Cengiz Han'ın torunudur ve 1271 yılında Moğol İmparatorluğu'nun Çin üzerine kurduğu Yuan Hanedanı'nı kurdur. Pekin'i başkent olarak seçti.",
+    "options": [
+      "Cengiz Han",
+      "Ögedei Han",
+      "Kubilai Han",
+      "Toğan Temür"
+    ],
+    "correctAnswer": "Kubilai Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Çin",
+      "Yuan Hanedanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8wmpbn1me",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun Avrupa'ya yaptığı baskının en önemli nedeni neydi?",
+    "explanation": "Moğol İmparatorluğu, Güneybat'taki Song Hanedanı ve diğer rakiplerle çatışırken Avrupa'ya da baskı yaptı. Cengiz Han'ın torunları Batı Avrupa'ya kadar ulaştı.",
+    "options": [
+      "Kaynakların kontrolü",
+      "Güneybatı'daki Hanedanlarla çatışma",
+      "Doğu'daki düşmanlardan kaçış",
+      "Hindistan'a ulaşma isteği"
+    ],
+    "correctAnswer": "Güneybatı'daki Hanedanlarla çatışma",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Avrupa",
+      "Baskılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g3x5fqwv0",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Moğol İmparatorluğu, Genghis Khan'ın 1206 yılında Moğolları birleştirerek kurduğu imparatorluktur.",
+    "options": [
+      "Timur",
+      "Genghis Khan",
+      "Selçuklu Sultanı",
+      "Kutlughan"
+    ],
+    "correctAnswer": "Genghis Khan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Kurucu",
+      "Tarihi Şahsiyetler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eqapo3bb1",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun zirve dönemi hangi yüzyıldadır?",
+    "explanation": "Moğol İmparatorluğu'nun en geniş ve güçlü olduğu dönem 13. yüzyılda, özellikle Genghis Khan'ın ölümünden sonra gerçekleşmiştir.",
+    "options": [
+      "12. Yüzyıl",
+      "13. Yüzyıl",
+      "14. Yüzyıl",
+      "15. Yüzyıl"
+    ],
+    "correctAnswer": "13. Yüzyıl",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih Kronolojisi",
+      "Dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yrfnudg93",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Genghis Khan'dan sonra Moğol İmparatorluğu nasıl bölündü?",
+    "explanation": "Genghis Khan'ın ölümünden sonra Moğol İmparatorluğu, dört büyük hanlığa (Altın Orda, İlhanlı, Çagata, Yuan) bölündü.",
+    "options": [
+      "Yedi Khanlık",
+      "Dört Khanlık",
+      "Üç Büyük İmparatorluk",
+      "Beş Aile"
+    ],
+    "correctAnswer": "Dört Khanlık",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "İmparatorluk Bölünmesi",
+      "Tarihi Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q9nubwcr5",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Hangi tarihte Moğollar tarafından Bağdat kuşatıldı ve Abbasiler yenildi?",
+    "explanation": "1258 yılında Moğollar Bağdat'ı ele geçirerek Abbasiler'in sonunu getirdi ve büyük bir yıkım yaşattı.",
+    "options": [
+      "1248",
+      "1256",
+      "1258",
+      "1260"
+    ],
+    "correctAnswer": "1258",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Bağdat Kuşatması",
+      "Abbasiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ti62bnodv",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Kubilai Han tarafından kurulan dinasti hangisidir?",
+    "explanation": "Kubilai Han, Moğol İmparatorluğu'nun Çin bölgesinde kurduğu Yuan Dinastisi'ni yönetti ve 1271 yılında resmi olarak ilan edildi.",
+    "options": [
+      "Yuan",
+      "Timur",
+      "Osmanlı",
+      "Selçuklu"
+    ],
+    "correctAnswer": "Yuan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Çin Tarihi",
+      "Dinastiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "plxe0l13x",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun kurucusu ve 'Çinggis Han' olarak bilinen lider kimdir?",
+    "explanation": "Çinggis Han (1162-1227), Moğol boylarını birleştirerek 1206'da Moğol İmparatorluğu'nu kurdu ve büyük askeri seferlerle en büyük imparatorluklardan biri haline getirdi.",
+    "options": [
+      "Köten Khan",
+      "Hülagu Han",
+      "Cengiz Han",
+      "Bayan Khan"
+    ],
+    "correctAnswer": "Cengiz Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Kurucu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kmr4rdvqf",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun Çin'i fetheden ve Yuan Hanedanı'nı kuran hükümdar kimdir?",
+    "explanation": "Kublai Han (1215-1294), Moğol ordusuyla Çin'i fethederek 1271'de Yuan Hanedanı'nı kurdurdu ve Pekin'i başkent yaptı.",
+    "options": [
+      "Cengiz Han",
+      "Hülagu Han",
+      "Köten Khan",
+      "Kublai Han"
+    ],
+    "correctAnswer": "Kublai Han",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Yuan Hanedanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "28zk7rzx7",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu döneminde ticaret yollarında güvenli bir dönem yaratan kavram nedir?",
+    "explanation": "Pax Mongolica (Moğol Barışı), Moğol İmparatorluğu'nun kontrolü altında ticaret yollarında güvenli bir dönem olmasını sağladı ve Kıtık Yolu ticaretini canlandırdı.",
+    "options": [
+      "Pax Mongolica",
+      "Silk Road",
+      "Tartaria",
+      "Mongolia Basin"
+    ],
+    "correctAnswer": "Pax Mongolica",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Ticaret"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15bjx008j",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun ilk yenilgisi olarak bilinen, Mısır ordusuna karşı verilen savaş hangisidir?",
+    "explanation": "1260 yılında Ayn Jalut'ta verilen Moğol ordusu, Mısır Selçuklu ordusuna karşı ilk büyük yenilgisi oldu ve Moğol genişlemesi durdu.",
+    "options": [
+      "Ayn Jalut Savaşı",
+      "Kızıltarla Savaşı",
+      "Döngel Savaşı",
+      "Hülegu Savaşı"
+    ],
+    "correctAnswer": "Ayn Jalut Savaşı",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5rapg6cqt",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun idari yapısında yer alan 'Yasan' kavramı neyi ifade eder?",
+    "explanation": "Yasan, Moğol İmparatorluğu'nun geleneksel hukuk sistemi ve yasalarını ifade eder. Çingiz Han tarafından kabul edilen bu sistem, Moğol toplumunun düzenini sağladı.",
+    "options": [
+      "Vergi Sistemi",
+      "Askeri Taktik",
+      "Hukuk ve Yasalar",
+      "Dış Ticaret"
+    ],
+    "correctAnswer": "Hukuk ve Yasalar",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "İdari Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "paikdv68x",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Geng Khan (Çingiz Han), Moğol İmparatorluğu'nun kurucusu ve ilk imparatorudur. 1206 yılında Moğol boylarını birleştirerek imparatorluğu ilan etmiştir.",
+    "options": [
+      "Geng Khan",
+      "Ögedei Khan",
+      "Kublai Khan",
+      "Törei Khan"
+    ],
+    "correctAnswer": "Geng Khan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Kurucu",
+      "Tarîh"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5j7z6mxqo",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun en geniş dönemi hangi sultanın yönetimi altındaydı?",
+    "explanation": "Kublai Khan, Moğol İmparatorluğu'nun Çin'deki geniş dönemi ve Yuan Hanedanı'nın kurucusudur. 1279 yılında imparatorluğun en geniş sınırlarına ulaşmıştır.",
+    "options": [
+      "Geng Khan",
+      "Ögedei Khan",
+      "Kublai Khan",
+      "Hulagu Khan"
+    ],
+    "correctAnswer": "Kublai Khan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Sultanlar",
+      "Tarîh"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a6zo0hfib",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu'nun batıya doğru en büyük seferi hangi sultan tarafından yapılmıştır?",
+    "explanation": "Hulagu Khan, Moğolların batıya doğru en büyük seferini düzenleyerek İran, Irak ve Orta Doğu'yu fethetmiştir. Bağdat'ın 1258'de yıkılması bu döneme aittir.",
+    "options": [
+      "Geng Khan",
+      "Ögedei Khan",
+      "Kublai Khan",
+      "Hulagu Khan"
+    ],
+    "correctAnswer": "Hulagu Khan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Seferler",
+      "Tarîh"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k435ztk33",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun başkenti Hangzhou şehri hangi sultan tarafından inşa ettirilmiştir?",
+    "explanation": "Kublai Khan, Çin'deki başkenti Hangzhou (Dadu) olarak seçmiş ve Moğol İmparatorluğu'nun en gelişmiş şehrine dönüştürmüştür.",
+    "options": [
+      "Geng Khan",
+      "Ögedei Khan",
+      "Kublai Khan",
+      "Törei Khan"
+    ],
+    "correctAnswer": "Kublai Khan",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Şehirler",
+      "Tarîh"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5vk7tyd4m",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu hangi yüzyılda kurulmuştur?",
+    "explanation": "Moğol İmparatorluğu, 1206 yılında Geng Khan tarafından kurulmuştur. Bu tarih 12. yüzyılın sonlarında yer alır.",
+    "options": [
+      "11. Yüzyıl",
+      "12. Yüzyıl",
+      "13. Yüzyıl",
+      "14. Yüzyıl"
+    ],
+    "correctAnswer": "12. Yüzyıl",
+    "tags": [
+      "Moğol İmparatorluğu",
+      "Tarih",
+      "Yıllar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i2v23zy1g",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EASY",
+    "question": "Moğol İmparatorluğu'nun kurucusu kimdir?",
+    "explanation": "Moğol İmparatorluğu, 1206 yılında Genghis Khan'ın Moğol kabilelerini birleştirmesiyle kurulmuştur.",
+    "options": [
+      "Genghis Khan",
+      "Kublai Khan",
+      "Ögedei Khan",
+      "Tödei Temür"
+    ],
+    "correctAnswer": "Genghis Khan",
+    "tags": [
+      "Kurucu",
+      "Liderler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vfa8zkb1l",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Moğol İmparatorluğu tarihte hangi emperya olarak bilinir?",
+    "explanation": "Moğol İmparatorluğu, tarihteki en büyük sürekli kara emperyasıdır ve yaklaşık 24 milyon km² alan kaplar.",
+    "options": [
+      "En büyük kara emperyası",
+      "Denizci emperya",
+      "Küçük emperya",
+      "Sadece Asya'da var olan emperya"
+    ],
+    "correctAnswer": "En büyük kara emperyası",
+    "tags": [
+      "Boyut",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fvidfgtru",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Pax Mongolica neyi ifade eder?",
+    "explanation": "Pax Mongolica, Moğol İmparatorluğu'nun Asya ve Avrupa arasında güvenli ticaret yollarını sağladığı dönemi ifade eder.",
+    "options": [
+      "Moğol İmparatorluğu'nun güvenli ticaret yolları",
+      "Moğol İmparatorluğu'nun askeri hakimiyeti",
+      "Moğol İmparatorluğu'nun kültürel birliği",
+      "Moğol İmparatorluğu'nun ekonomik krizi"
+    ],
+    "correctAnswer": "Moğol İmparatorluğu'nun güvenli ticaret yolları",
+    "tags": [
+      "Ticaret",
+      "Ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j4cyfd3x4",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "GENERAL",
+    "question": "Kublai Khan'ın başkenti neresidir?",
+    "explanation": "Kublai Khan, Moğol İmparatorluğu'nun Çin bölgesindeki başkentini Dadu'ya taşıdı ve daha sonra Beijing olarak adlandırıldı.",
+    "options": [
+      "Dadu (Beijing)",
+      "Karakorum",
+      "Samarqand",
+      "Bukhara"
+    ],
+    "correctAnswer": "Dadu (Beijing)",
+    "tags": [
+      "Başkent",
+      "Kublai Khan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6j2m6k8lg",
+    "category": "TARİH",
+    "subcategory": "Moğol İmparatorluğu",
+    "difficulty": "EXPERT",
+    "question": "Moğol İmparatorluğu'nun Çin üzerindeki etkisi hangi han ile ilişkilidir?",
+    "explanation": "Kublai Khan, Moğol İmparatorluğu'nun Çin üzerindeki hakimiyetini Yuan Hanı olarak adlandırdığı dönemle ilişkilendirir.",
+    "options": [
+      "Yuan Hanı",
+      "Ming Hanı",
+      "Qing Hanı",
+      "Song Hanı"
+    ],
+    "correctAnswer": "Yuan Hanı",
+    "tags": [
+      "Çin",
+      "Hanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

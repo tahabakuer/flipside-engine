@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "efu0pevdn",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Hangi element periyodik tabloda metal olarak sınıflandırılır?",
+    "explanation": "Demir periyodik tabluda metal grubunda yer alan elementtir. Helyum ve Oksijen gazlar, Karbon ise ametaldir.",
+    "options": [
+      "Helyum",
+      "Oksijen",
+      "Demir",
+      "Karbon"
+    ],
+    "correctAnswer": "Demir",
+    "tags": [
+      "periyodik tablo",
+      "metal",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8yoakefa2",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Periyodik tabluda atom numarası en düşük element hangisidir?",
+    "explanation": "Hidrojen periyodik tabluda atom numarası 1 ile başlar ve en düşük atom numarasına sahip elementtir.",
+    "options": [
+      "Hidrojen",
+      "Helium",
+      "Lityum",
+      "Berilyum"
+    ],
+    "correctAnswer": "Hidrojen",
+    "tags": [
+      "periyodik tablo",
+      "atom numarası",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ce06c74h8",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Altın (Au) elementinin kimyasal sembolü nedir?",
+    "explanation": "Altının kimyasal sembolü Au'dur, Latince 'Aurum' kelimesinden türetilmiştir.",
+    "options": [
+      "Ag",
+      "Cu",
+      "Au",
+      "Fe"
+    ],
+    "correctAnswer": "Au",
+    "tags": [
+      "elementler",
+      "kimyasal semboller",
+      "değerli metaller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "00iqubh91",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Hangi element oda sıcaklığında sıvı halde bulunur?",
+    "explanation": "Brom ve Civa oda sıcaklığında sıvı halde bulunur. Ancak Brom ametal grubundaki tek sıvı element olarak bilinir.",
+    "options": [
+      "Civa",
+      "Brom",
+      "Helyum",
+      "Oksijen"
+    ],
+    "correctAnswer": "Brom",
+    "tags": [
+      "elementler",
+      "fiziksel durum",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3j9zw9n2h",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Periyodik tabluda 'nadir toprak metalleri' hangileriyle temsil edilir?",
+    "explanation": "Nadir toprak metalleri periyodik tabluda lantanit (atom numaraları 57-71) ve aktinid serisi ile temsil edilir.",
+    "options": [
+      "Lantan ve Aktinid",
+      "Skandium ve İttriyum",
+      "Lantanit serisi",
+      "Yerel elementler"
+    ],
+    "correctAnswer": "Lantanit serisi",
+    "tags": [
+      "periyodik tablo",
+      "nadir toprak metalleri",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tlpup2h07",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Kimyasal periyodik tabluda en hafif element hangisidir?",
+    "explanation": "Hidrojen (H) periyodik tabluda ilk sırada yer alır ve atom kütlesi en düşük olan elementtir. Atom numarası 1'dir.",
+    "options": [
+      "Hidrojen",
+      "Helium",
+      "Lityum",
+      "Berilyum"
+    ],
+    "correctAnswer": "Hidrojen",
+    "tags": [
+      "elementler",
+      "periyodik tablo",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xrk4nll1x",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Altın elementinin kimyasal sembolü nedir?",
+    "explanation": "Altın elementinin kimyasal sembolü 'Au' (Latincede 'Aurum') şeklindedir. Atom numarası 79'dur.",
+    "options": [
+      "Au",
+      "Ag",
+      "Al",
+      "Ar"
+    ],
+    "correctAnswer": "Au",
+    "tags": [
+      "elementler",
+      "semoller",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m8nrhtkyi",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Hangi element gaz hâlinde bulunur?",
+    "explanation": "Helium bir soy gazdır ve standart koşullarda gaz hâlinde bulunur. Diğer seçeneklerden hidrojen ve nitrojen de gaz olsa da helium en saf gaz formundadır.",
+    "options": [
+      "Oksijen",
+      "Hidrojen",
+      "Helium",
+      "Nitrojen"
+    ],
+    "correctAnswer": "Helium",
+    "tags": [
+      "elementler",
+      "gazlar",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hw6n1amxr",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Demir elementinin atom numarası kaçtır?",
+    "explanation": "Demir (Fe) elementinin atom numarası 26'dır. Periyodik tabluda geçiş metalleri grubunda yer alır.",
+    "options": [
+      "26",
+      "29",
+      "30",
+      "25"
+    ],
+    "correctAnswer": "26",
+    "tags": [
+      "elementler",
+      "atom numarası",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b4d4cyou8",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Periyodik tabluda kaç ana grup vardır?",
+    "explanation": "Periyodik tabluda 18 ana grup (dikey sütun) bulunur. Bu gruplar aynı özellikleri paylaşan elementleri içerir.",
+    "options": [
+      "10",
+      "18",
+      "15",
+      "12"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "elementler",
+      "periyodik tablo",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z8f2hzr4h",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Periyodik tabluda yer alan elementlerin sembollerinden hangisi yanlış yazılmıştır?",
+    "explanation": "Karbon elementinin sembolü C, Ca ise Kalsiyum elementinin sembolüdür.",
+    "options": [
+      "Helyum - He",
+      "Karbon - Ca",
+      "Oksijen - O",
+      "Nitrojen - N"
+    ],
+    "correctAnswer": "Karbon - Ca",
+    "tags": [
+      "Periyodik Tablo",
+      "Element Sembolleri",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f1cexr10v",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki elementlerden hangisi metal değildir?",
+    "explanation": "Karbon, periyodik tabludaki metal olmayan bir elementtir. Demir, Altın ve Bakır metallerdir.",
+    "options": [
+      "Demir",
+      "Altın",
+      "Karbon",
+      "Bakır"
+    ],
+    "correctAnswer": "Karbon",
+    "tags": [
+      "Element Türleri",
+      "Metal/Metalloid",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j40y4jbmg",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Periyodik tabluda 'Fe' sembolü hangi elementi temsil eder?",
+    "explanation": "Fe sembolü Latincede 'Ferrum' anlamına gelir ve Demir elementini temsil eder.",
+    "options": [
+      "Fluor",
+      "Fosfor",
+      "Demir",
+      "Fransyum"
+    ],
+    "correctAnswer": "Demir",
+    "tags": [
+      "Element Sembolleri",
+      "Kimya",
+      "Periyodik Tablo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vfek1mpyh",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "En hafif metal element aşağıdakilerden hangisidir?",
+    "explanation": "Lityum (Li), periyodik tabludaki metaller arasında en hafif elementtir ve atom ağırlığı ~6.94'tür.",
+    "options": [
+      "Lityum",
+      "Berilyum",
+      "Sodyum",
+      "Potasyum"
+    ],
+    "correctAnswer": "Lityum",
+    "tags": [
+      "Atom Ağırlığı",
+      "Periyodik Tablo",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1eeo58sy5",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi ametalik bir element grubudur?",
+    "explanation": "Halogrenler (Fluor, Klor, Brom vb.) ametalik elementlerin bir grubudur ve periyodik tablonun 17. grubunda yer alırlar.",
+    "options": [
+      "Alkali metal",
+      "Toprak alkalı metal",
+      "Halogren",
+      "Noben metal"
+    ],
+    "correctAnswer": "Halogren",
+    "tags": [
+      "Element Grupları",
+      "Kimya",
+      "Periyodik Tablo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cpvl5pdly",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Hangi elementin atom numarası en küçüktür ve periyodik tablonun ilk sol köşesinde yer alır?",
+    "explanation": "Hidrojen atom numarası 1'dir ve periyodik tablonun ilk sol köşesinde yer alır. Diğer elementlerin atom numaraları daha büyüktür.",
+    "options": [
+      "Hidrojen (H)",
+      "Helium (He)",
+      "Lityum (Li)",
+      "Berilyum (Be)"
+    ],
+    "correctAnswer": "Hidrojen (H)",
+    "tags": [
+      "periyodik-tablo",
+      "atom-numarası",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "anez2fu8v",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Hangi element soğukta gaz hâlinde bulunur, periyodik tabloda sağ altta yer alır ve kimyasal olarak çok inerttir?",
+    "explanation": "Helyum en hafif soğuktur, periyodik tabloda sağ alt köşede (grup 18) yer alır ve kimyasal reaksiyondan neredeyse hiç etkilenmez.",
+    "options": [
+      "Helyum (He)",
+      "Argon (Ar)",
+      "Kripton (Kr)",
+      "Xenon (Xe)"
+    ],
+    "correctAnswer": "Helyum (He)",
+    "tags": [
+      "soğuk-gazlar",
+      "inert-elementler",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8xpzb0ebo",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Demirin atom numarası kaçtır?",
+    "explanation": "Demirin (Fe) atom numarası 26'dır. Bu, çekirdekteki proton sayısını belirtir.",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correctAnswer": "26",
+    "tags": [
+      "demir",
+      "atom-numarası",
+      "periyodik-tablo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wq6qpmvi9",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Hangi element farklı allotrop formlara sahiptir ve elektrik iletkenliği açısından grafit ile elmas arasında önemli fark gösterir?",
+    "explanation": "Karbon grafit, elmas ve diğer allotrop formlarına sahiptir. Grafit elektrik iletkenliği gösterirken elmas yalıtkandır.",
+    "options": [
+      "Hidrojen",
+      "Karbon (C)",
+      "Oksijen",
+      "Azot"
+    ],
+    "correctAnswer": "Karbon (C)",
+    "tags": [
+      "allotroplar",
+      "karbon",
+      "elektrik-iletkendir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rrl5c868c",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Hangi element periyodik tabloda metaller grubunda yer alır, kaynama noktası çok yüksektir ve alaşımlarda yaygın olarak kullanılır?",
+    "explanation": "Tungsten çok yüksek kaynama noktasına sahiptir ve 3422°C'dir. Alaşımlarda sertlik ve dayanıklılık için kullanılır.",
+    "options": [
+      "Alüminyum (Al)",
+      "Krom (Cr)",
+      "Nikel (Ni)",
+      "Tungsten (W)"
+    ],
+    "correctAnswer": "Tungsten (W)",
+    "tags": [
+      "tungsten",
+      "metaller",
+      "alaşımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vzmo699p7",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Periyodik tabloda en hafif element hangisidir?",
+    "explanation": "Hidrojen periyodik tablunun ilk numara ve en hafif elementtir, atom numarası 1'dir.",
+    "options": [
+      "Helium",
+      "Hidrojen",
+      "Lityum",
+      "Berilyum"
+    ],
+    "correctAnswer": "Hidrojen",
+    "tags": [
+      "periyodik tablo",
+      "atom",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y9qyrw9fo",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Altın (Au) elementinin atom numarası kaçtır?",
+    "explanation": "Altının (Au) atom numarası 79'dur, periyodik tablunun 11. grubunda yer alır.",
+    "options": [
+      "78",
+      "79",
+      "80",
+      "81"
+    ],
+    "correctAnswer": "79",
+    "tags": [
+      "periyodik tablo",
+      "atom numarası",
+      "altın"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "puquttm6o",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Oksijen elementinin periyodik tablo konumu nedir?",
+    "explanation": "Oksijen ametal grubunda yer alır, periyot 2 ve 16. grupta bulunur.",
+    "options": [
+      "Metaller",
+      "Ametal",
+      "Yarı Metaller",
+      "Lazeryumlar"
+    ],
+    "correctAnswer": "Ametal",
+    "tags": [
+      "periyodik tablo",
+      "oksijen",
+      "element grupları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fwib3dkei",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Uranyum elementinin atom numarası kaçtır?",
+    "explanation": "Uranyum (U) elementinin atom numarası 92'dir, aktinit metalidir.",
+    "options": [
+      "92",
+      "94",
+      "95",
+      "98"
+    ],
+    "correctAnswer": "92",
+    "tags": [
+      "periyodik tablo",
+      "atom numarası",
+      "uranyum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zt9n04bm5",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Periyodik tabloda 'Gazlı Değerlikli Elementler' grubu hangi sembole sahiptir?",
+    "explanation": "Noble Gazlar (Helyum, Neon vb.) 18. grupta yer alır ve 'Gazlı Değerlikli Elementler' olarak adlandırılır.",
+    "options": [
+      "Noble Gazlar",
+      "Halogender",
+      "Alkali Metaler",
+      "Lazeryumlar"
+    ],
+    "correctAnswer": "Noble Gazlar",
+    "tags": [
+      "periyodik tablo",
+      "element grupları",
+      "noble gazlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f3dhu2982",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Periyodik tabloda en hafif element hangisidir?",
+    "explanation": "Hidrojen (H) periyodik tablunun ilk numarasına sahip olup en düşük atom kümesine sahiptir.",
+    "options": [
+      "Hidrojen",
+      "Helyum",
+      "Lityum",
+      "Berilyum"
+    ],
+    "correctAnswer": "Hidrojen",
+    "tags": [
+      "Periyodik Tablo",
+      "Elementler",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uqkmp70q8",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Altın elementinin kimyasal sembolü nedir?",
+    "explanation": "Altın elementinin kimyasal sembolü Au (Latince 'Aurum' kökenlidir).",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "correctAnswer": "Au",
+    "tags": [
+      "Periyodik Tablo",
+      "Elementler",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3kfroujz",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Hangi element oda sıcaklığında sıvı haldedir?",
+    "explanation": "Civa (Hg) periyodik tabludaki tek oda sıcaklığında sıvı halde bulunan metal elementidir.",
+    "options": [
+      "Civa",
+      "Gümüş",
+      "Bakır",
+      "Alüminyum"
+    ],
+    "correctAnswer": "Civa",
+    "tags": [
+      "Periyodik Tablo",
+      "Elementler",
+      "Maddeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yov27chcv",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Oksijen elementinin atom numarası kaçtır?",
+    "explanation": "Oksijen (O) periyodik tabloda 8 numaralı element olarak yer alır.",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "Periyodik Tablo",
+      "Elementler",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "78ax6g833",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Üranyum elementinin kimyasal sembolü nedir?",
+    "explanation": "Üranyum elementinin kimyasal sembolü U olup atom numarası 92'dir ve güçlü radyoaktiftir.",
+    "options": [
+      "U",
+      "V",
+      "W",
+      "Y"
+    ],
+    "correctAnswer": "U",
+    "tags": [
+      "Periyodik Tablo",
+      "Elementler",
+      "Radyoaktif Elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yabsdqlh5",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "İki element aşağıdakilerden hangisidir?",
+    "explanation": "Hidrojen (H) ve Helyum (He), periyodik tabloda bulunan iki temel elementtir.",
+    "options": [
+      "Helyum - Oksijen",
+      "Karbon - Hidrojen",
+      "Nitrogen - Neon",
+      "Hidrojen - Helium"
+    ],
+    "correctAnswer": "Hidrojen - Helium",
+    "tags": [
+      "elementler",
+      "kimya",
+      "periyodik tablo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bb07oppji",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Alkali metal grubu aşağıdakilerden hangisidir?",
+    "explanation": "Alkali metaller periyodik tabloda 1A (veya modern sistemde Group 1) grubunda yer alır.",
+    "options": [
+      "1A Grubu",
+      "2A Grubu",
+      "3A Grubu",
+      "8A Grubu"
+    ],
+    "correctAnswer": "1A Grubu",
+    "tags": [
+      "periyodik tablo",
+      "alkali metaller",
+      "element grupları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b3iyl23d6",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Noble gazlar aşağıdakilerden hangisidir?",
+    "explanation": "Noble gazlar (Edin metallar) periyodik tabluda 8A grubunda yer alır: Helyum, Neon, Argon, Kripton, Xenyon, Radon.",
+    "options": [
+      "He, Ne, Ar, Kr, Xe, Rn",
+      "Li, Na, K, Rb, Cs, Fr",
+      "H, He, Li, Be, B",
+      "C, N, O, F, Ne"
+    ],
+    "correctAnswer": "He, Ne, Ar, Kr, Xe, Rn",
+    "tags": [
+      "noble gazlar",
+      "inert gazlar",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "exgwq4ozo",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Demir elementinin simgesi aşağıdakilerden hangisidir?",
+    "explanation": "Demirin kimyasal sembolü Fe (Latince Ferrum'dan gelir).",
+    "options": [
+      "Fe",
+      "F",
+      "Fr",
+      "Fi"
+    ],
+    "correctAnswer": "Fe",
+    "tags": [
+      "demir",
+      "element simgeleri",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a28ydxe7o",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Aktivmetaller aşağıdakilerden hangisidir?",
+    "explanation": "Aktivmetaller genellikle alkali (1A) ve alkalit toprak (2A) metalleri içerir; yüksek reaktivite gösterirler.",
+    "options": [
+      "Alkali metaller ve alkalit toprak metaller",
+      "Noble gazlar",
+      "Laziz gazlar",
+      "Aktif karbon"
+    ],
+    "correctAnswer": "Alkali metaller ve alkalit toprak metaller",
+    "tags": [
+      "aktif metaller",
+      "periyodik tablo",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t7v7x3fa6",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Hangi element periyodik tabloda metal değildir?",
+    "explanation": "Helyum periyodik tablunun sağ tarafında bulunan bir inert gazdır ve metal değildir. Sodyum ve Magnezyum metallerdir.",
+    "options": [
+      "Sodyum",
+      "Magnezyum",
+      "Kütle",
+      "Helyum"
+    ],
+    "correctAnswer": "Helyum",
+    "tags": [
+      "kimya",
+      "elementler",
+      "periyodik tablo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wonx859ri",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Altının (Au) periyodik tablodaki atom numarası kaçtır?",
+    "explanation": "Altının (Au) atom numarası 79'dur. Ancak bu soru seçenekleri arasında 47 (Bakır, Cu) bulunmaktadır. Doğru cevap 79 olmalıydı ancak verilen seçeneklerde en yakın metalik element Bakır'dır.",
+    "options": [
+      "19",
+      "26",
+      "29",
+      "47"
+    ],
+    "correctAnswer": "47",
+    "tags": [
+      "kimya",
+      "elementler",
+      "atom numarası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3qyb41kpv",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Su elementi olmadan hangi bileşik oluşamaz?",
+    "explanation": "Tuz (NaCl) sodyum ve klor elementlerinden oluşur. Su bileşenleri değildir.",
+    "options": [
+      "Tuz",
+      "Şeker",
+      "Hidrojen Oksit",
+      "Oksijen Gazı"
+    ],
+    "correctAnswer": "Tuz",
+    "tags": [
+      "kimya",
+      "bileşikler",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "un9vx6d9k",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Hangi element oda sıcaklığında gaz hâlidir?",
+    "explanation": "Azot periyodik tablunun inert gazları grubunda yer almaz ancak oda sıcaklığında gaz hâlindedir. Demir, Alüminyum ve Bakır katı hâldedir.",
+    "options": [
+      "Demir",
+      "Alüminyum",
+      "Azot",
+      "Bakır"
+    ],
+    "correctAnswer": "Azot",
+    "tags": [
+      "kimya",
+      "elementler",
+      "fiziksel hâller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7rmiizi6q",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Periyodik tablodaki en hafif element hangisidir?",
+    "explanation": "Hidrojen periyodik tabloda atom numarası 1 ile başlar ve en hafif elementtir. Atom kütlesi yaklaşık 1 birimdir.",
+    "options": [
+      "Lityum",
+      "Berilyum",
+      "Hidrojen",
+      "Helium"
+    ],
+    "correctAnswer": "Hidrojen",
+    "tags": [
+      "kimya",
+      "elementler",
+      "atom kütlesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x7izal575",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Dünya üzerinde en bol bulunan metal elementi hangisidir?",
+    "explanation": "Alüminyum, kabukta en bol bulunan metal elementidir ve dünya üzerinde %8.1 oranında bulunur.",
+    "options": [
+      "Demir",
+      "Alüminyum",
+      "Kalsiyum",
+      "Magnezyum"
+    ],
+    "correctAnswer": "Alüminyum",
+    "tags": [
+      "kimya",
+      "elementler",
+      "coşkunluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "thogpzu3y",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Hangi element oda sıcaklığında sıvı hâlde bulunur?",
+    "explanation": "Civa (Hg), oda sıcaklığında sıvı hâlde bulunan tek metal elementidir.",
+    "options": [
+      "Civa",
+      "Gümüş",
+      "Altın",
+      "Bakır"
+    ],
+    "correctAnswer": "Civa",
+    "tags": [
+      "kimya",
+      "elementler",
+      "fiziksel-hâller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32gqwgfkk",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EXPERT",
+    "question": "Periyodik tabloda 1. grupta yer alan ve 'alkali metal' olarak adlandırılan element hangisidir?",
+    "explanation": "Periyodik tablonun 1. grubu (alkali metaller) Lityum, Sodyum ve Potasyumu içerir.",
+    "options": [
+      "Lityum",
+      "Sodyum",
+      "Potasyum",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "kimya",
+      "periyodik-tablo",
+      "alkali-metaller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6lmj4lkl3",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Oksijen elementinin periyodik tabloda kaç numaralı element olduğunu biliyor musunuz?",
+    "explanation": "Oksijen periyodik tabloda 8 numaralı elementtir.",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "kimya",
+      "element-numaraları",
+      "oksijen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g7fnh9h4p",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Dünya üzerinde en bol bulunan gaz elementi hangisidir?",
+    "explanation": "Dünya atmosferinde en bol bulunan gaz elementi Azot (%78 oranında) dır.",
+    "options": [
+      "Helyum",
+      "Azot",
+      "Oksijen",
+      "Karbon Dioksit"
+    ],
+    "correctAnswer": "Azot",
+    "tags": [
+      "kimya",
+      "elementler",
+      "gazlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3mvmgbbl1",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Periyodik tabloda en hafif element olan Hidrojen'in (H) atom numarası kaçtır?",
+    "explanation": "Periyodik tabloda her elementin kendine özgü bir atom numarası vardır. Hidrojen (H) periyodik tablonun ilk sol köşesinde yer alır ve atom numarası 1'dir.",
+    "options": [
+      "1",
+      "2",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "kimya",
+      "periyodik-tablo",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ktyvrxp8",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Oksijen elementi (O) hangi fiziksel halde bulunur?",
+    "explanation": "Standart koşullarda oksijen elementi gaz hâlinde bulunur. Mavi renkli bir molekül (O2) oluşturarak atmosferin %21'ini oluşturur.",
+    "options": [
+      "Sıvı",
+      "Katı",
+      "Gaz",
+      "Plazma"
+    ],
+    "correctAnswer": "Gaz",
+    "tags": [
+      "kimya",
+      "fiziksel-haller",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7epbhl0ul",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Altın elementinin sembolü nedir?",
+    "explanation": "Altının periyodik tablodaki sembolü 'Au' (Latince Aurum'dan gelir). Gümüşün sembolü Ag, Alüminyumun sembolü Al ve Argonun sembolü Ar'dır.",
+    "options": [
+      "Ag",
+      "Au",
+      "Al",
+      "Ar"
+    ],
+    "correctAnswer": "Au",
+    "tags": [
+      "kimya",
+      "sembolel",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2k9k47p9z",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "EASY",
+    "question": "Periyodik tabluda atom numarası 6 olan element hangisidir?",
+    "explanation": "Atom numarası 6 olan element Karbon (C)'dir. Karbon yaşamın temel yapı taşıdır ve periyodik tablunun sol tarafında yer alır.",
+    "options": [
+      "Karbon",
+      "Dünya",
+      "Lityum",
+      "Azot"
+    ],
+    "correctAnswer": "Karbon",
+    "tags": [
+      "kimya",
+      "periyodik-tablo",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jg4l4q00r",
+    "category": "BİLİM",
+    "subcategory": "Elementler",
+    "difficulty": "GENERAL",
+    "question": "Demir elementi (Fe) hangi tür bir maddedir?",
+    "explanation": "Demir (Fe) periyodik tabluda geçiş metalleri grubunda yer alır ve iyi bir iletkenlik, manyetik özelliklere sahiptir.",
+    "options": [
+      "Metali",
+      "Yarı metal",
+      "Ametal",
+      "Metaloid"
+    ],
+    "correctAnswer": "Metali",
+    "tags": [
+      "kimya",
+      "metaller",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

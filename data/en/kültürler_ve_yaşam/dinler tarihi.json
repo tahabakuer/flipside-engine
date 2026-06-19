@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "oq5kz3l8t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler tarihi açısından ilk büyük dînî metinlerden biri kabul edilen İncil'in yazım süreci hangi dönemde tamamlanmıştır?",
+    "explanation": "İncil'in çoğu bölümü MS 90-100 yılları arasında yazılmıştır. Yeni Ahit metinleri bu dönemde tamamlanmıştır.",
+    "options": [
+      "MÖ 1000-586",
+      "MS 1-100",
+      "MS 90-100",
+      "MS 200-300"
+    ],
+    "correctAnswer": "MS 90-100",
+    "tags": [
+      "dinler-tarihi",
+      "kutsal-metinler",
+      "ms-dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vnir9q0gh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler tarihi bağlamında 'Altın Çağ' olarak bilinen İslam medeniyetinin en parlak dönemi hangi yüzyıldadır?",
+    "explanation": "İslam Altın Çağı 8-14. yüzyıllar arasında yaşanmış olup en parlak dönemi 9-10. yüzyıl olmuştur.",
+    "options": [
+      "8. Yüzyıl",
+      "9-10. Yüzyıl",
+      "11-12. Yüzyıl",
+      "13. Yüzyıl"
+    ],
+    "correctAnswer": "9-10. Yüzyıl",
+    "tags": [
+      "islam-tarihi",
+      "altin-cag",
+      "medeniyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ggirya6v1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler tarihi açısından 'Büyük İskân' (Büyük Yerleşim) olarak bilinen dönem hangi dinî geleneğe aittir?",
+    "explanation": "Büyük İskân (Great Commission) Hristiyanlık geleneğine aittir ve Mısır 10-12. yüzyıllarında gerçekleşmiştir.",
+    "options": [
+      "Budizm",
+      "Hinduizm",
+      "Yahudilik",
+      "Hristiyanlık"
+    ],
+    "correctAnswer": "Hristiyanlık",
+    "tags": [
+      "hristiyanlik-tarihi",
+      "iskin-daveti",
+      "dinler-karsilastirma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8gf1b2drq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Dinler tarihi bağlamında 'Kuşaklar' veya 'Siyah Dinler' olarak bilinen dînî akım hangi bölgede ortaya çıkmıştır?",
+    "explanation": "Kuşaklar (Siyah Dinler) Afrika kökenli Amerikalıların dini gelenekleri olup 19. yüzyıldan beri var olan bir kültürdür.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika-Amerika",
+      "Yakın Doğu"
+    ],
+    "correctAnswer": "Afrika-Amerika",
+    "tags": [
+      "siyah-dinler",
+      "afrika-amerika",
+      "dinler-karsilastirma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "16hkr9g4u",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Dinler tarihi açısından 'İlkyazılar' (Earliest Writings) olarak kabul edilen dînî metin hangisidir?",
+    "explanation": "Veda metinleri Hinduizm'in en eski yazılı geleneklerinden olup MÖ 1500-1200 yılları arasında oluşmuştur.",
+    "options": [
+      "Tora",
+      "Zaratusa Metinleri",
+      "Veda",
+      "Korân"
+    ],
+    "correctAnswer": "Veda",
+    "tags": [
+      "ilk-metinler",
+      "hinduizm",
+      "dinsel-yazilar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "df0kqnent",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Dinler tarihi kapsamında, ilk yazılı dinler arasında yer alan Mısır dininin temel özelliği nedir?",
+    "explanation": "Mısır dininin en temel özellikleri, ölümden sonraki yaşam inancı, tapınakların önemi ve çok tanrılı yapıdır.",
+    "options": [
+      "Tek tanrılı yapı",
+      "Cennet-çeşme inancı",
+      "Ölümden sonra yaşam ve tapınak kültürü",
+      "İslami öğretiler"
+    ],
+    "correctAnswer": "Ölümden sonra yaşam ve tapınak kültürü",
+    "tags": [
+      "Dinler Tarihi",
+      "Mısır Dini",
+      "Antik Dinler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c86ce1n1l",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Buddhizm'in (Budha) ortaya çıktığı coğrafi alan ve zaman nedir?",
+    "explanation": "Budha (Siddhartha Gautama), Hint Yarımadası'nda MS 6-5. yüzyıllarda yaşamış ve Budizm'i kurmuştur.",
+    "options": [
+      "Hint Yarımadası, MS 6-5. yüzyıl",
+      "Çin, MÖ 800 yıl",
+      "Arabistan, MS 7. yüzyıl",
+      "Güneydoğu Asya, MS 12. yüzyıl"
+    ],
+    "correctAnswer": "Hint Yarımadası, MS 6-5. yüzyıl",
+    "tags": [
+      "Buddhizm",
+      "Asya Dinleri",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "92sqchxq1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "İslam dininin ilk Peygamberi olarak kabul edilen Hz. Muhammed'in doğum yerini belirtiniz.",
+    "explanation": "Hz. Muhammed, 570 yılında Mekke'de doğmuş ve İslam dininin kurucusu olarak kabul edilir.",
+    "options": [
+      "Mekke",
+      "Medine",
+      "Küfe",
+      "Şam"
+    ],
+    "correctAnswer": "Mekke",
+    "tags": [
+      "İslam Tarihi",
+      "Hz. Muhammed",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7berglcl7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hristiyanlık dininde 'Kutsal Kitap' olarak kabul edilen eserin adı nedir?",
+    "explanation": "Hristiyanların kutsal kitabı, Yeni Ahit ve Eski Ahit'ten oluşan Bible (Yazma) olarak adlandırılır.",
+    "options": [
+      "Kur'an",
+      "Tevrat",
+      "Yeni Ahit ve Eski Ahit (Bible)",
+      "Veda"
+    ],
+    "correctAnswer": "Yeni Ahit ve Eski Ahit (Bible)",
+    "tags": [
+      "Hristiyanlık",
+      "Kutsal Kitaplar",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sicnzv56b",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Dinler tarihi perspektifinden, 'Panteon' terimi hangi kavramla ilişkilidir?",
+    "explanation": "Panteon, Roma ve Yunan antik dinlerinde çok tanrılı yapılar için kullanılan terimdir. Örneğin: Mısır, Anadolu, Hint panteonları vardır.",
+    "options": [
+      "Tek tanrılı yapı",
+      "Çok tanrılı tapınak kompleksi",
+      "Köy inanışları",
+      "Mistik deneyimler"
+    ],
+    "correctAnswer": "Çok tanrılı tapınak kompleksi",
+    "tags": [
+      "Dinler Tarihi",
+      "Antik Dinler",
+      "Panteon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "11rex0uuf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler Tarihi'nde İslam dininin ortaya çıkış yeri olarak bilinen Mekke şehrinde Hz. Peygamber'in (s.a.v.) hicret ettiği şehir hangisidir?",
+    "explanation": "Hz. Peygamber (s.a.v.) 622 yılında Mekke'den Medine'ye hicret etmiştir. Bu tarih İslam takviminin başlangıcı kabul edilir.",
+    "options": [
+      "Mekke",
+      "Medine",
+      "Yerusalem",
+      "Küba"
+    ],
+    "correctAnswer": "Medine",
+    "tags": [
+      "İslam Tarihi",
+      "Hz. Peygamber",
+      "Hicret"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "po5jn3rfz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hristiyanlığın temel kutsal kitabı olan İncil'in hangi kitapları içerir?",
+    "explanation": "İncil Hristiyanlığın temel kutsal kitabıdır ve iki ana bölümden oluşur: Eski Ahit (Yahudi geleneklerinden) ve Yeni Ahit (Hz. İsa'nın hayatından).",
+    "options": [
+      "Sadece Eski Ahit",
+      "Yeni Ahit ve Eski Ahit",
+      "Kuran ve Tevrat",
+      "Tevrat ve Zebur"
+    ],
+    "correctAnswer": "Yeni Ahit ve Eski Ahit",
+    "tags": [
+      "Hristiyanlık",
+      "İncil",
+      "Kutsal Kitaplar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "udga0cois",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Budizm dininin kurucusu olarak kabul edilen tarihi figür kimdir?",
+    "explanation": "Budizm, 6. yüzyılda Hindistan'da Siddhartha Gautama tarafından kurulmuştur. O, Buda olarak anılır ve 'Aydınlanma' (Buda) anlamına gelir.",
+    "options": [
+      "Hz. Peygamber (s.a.v.)",
+      "Siddhartha Gautama",
+      "Hz. Musa (a.s.)",
+      "Zarathustra"
+    ],
+    "correctAnswer": "Siddhartha Gautama",
+    "tags": [
+      "Budizm",
+      "Din Kurucuları",
+      "Asya Dinleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rjp4bihgk",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Dinler Tarihi bağlamında Yahudilik dininin kutsal kitabı olan Tevrat hangi dillerle yazılmıştır?",
+    "explanation": "Tevrat, Yahudiliğin kutsal kitabıdır ve çoğunlukla Eski İbranice ile yazılmıştır. Bazı bölümler Aramicesi dilinde de bulunmaktadır.",
+    "options": [
+      "Sadece Arapça",
+      "Yahudi Aramicesi ve Eski İbranice",
+      "Farsça ve Yunanca",
+      "Latince ve İtalyanca"
+    ],
+    "correctAnswer": "Yahudi Aramicesi ve Eski İbranice",
+    "tags": [
+      "Yahudilik",
+      "Tevrat",
+      "Kutsal Kitap Dilleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aoxnxthqn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler Tarihi'nde 'Altın Çağ' olarak anılan dönem, hangi dinin kültürünün geliştiği dönemi ifade eder?",
+    "explanation": "İslam tarihinin 'Altın Çağı' olarak bilinen dönem, 8.-13. yüzyıllarda Abbasiler döneminde yaşanmış ve bilim, kültür, felsefe alanında önemli gelişmeler kaydedilmiştir.",
+    "options": [
+      "Hristiyanlık - Orta Çağ",
+      "İslam - Abbasiler Dönemi",
+      "Budizm - Tang Hanedanı",
+      "Yahudilik - Roma İmparatorluğu"
+    ],
+    "correctAnswer": "İslam - Abbasiler Dönemi",
+    "tags": [
+      "İslam Tarihi",
+      "Altın Çağ",
+      "Abbasiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "129ix8a1n",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Dinler Tarihi'nde Hristiyanlığın yaklaşık ne zaman ortaya çıktığı kabul edilir?",
+    "explanation": "Hristiyanlık MS 31-36 yılları arasında İsa'nın vaftizinden ve ilk vaazlarından sonra ortaya çıkmış, erken dönem Hristiyan toplulukları bu dönemde oluşmaya başlamıştır.",
+    "options": [
+      "MS 31-36 yılları",
+      "MS 45-50 yılları",
+      "MS 90-95 yılları",
+      "MS 120-125 yılları"
+    ],
+    "correctAnswer": "MS 31-36 yılları",
+    "tags": [
+      "Hristiyanlık",
+      "Din Tarihi",
+      "Yer Şahıslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "91mckha7w",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İslam dininin Kur'an'ın indirildiği kabul edilen yer neresidir?",
+    "explanation": "Kur'an'ın ilk indirildiği yer, İslam tarihinde 'Güvercin Vadi' (Hira Mağarası) olarak kabul edilir. Burası Mekke'de bulunan bir mağara ve Hz. Muhammed'in ilimle uğraştığı mekandır.",
+    "options": [
+      "Mekke",
+      "Medine",
+      "Yatıran Mevki",
+      "Güvercin Vadi"
+    ],
+    "correctAnswer": "Yatıran Mevki",
+    "tags": [
+      "İslam",
+      "Kur'an",
+      "Din Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d0kqjvpu1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Budizm tarihçesine göre Buda'nın arya dünyasından ayrıldığı kabul edilen yaş nedir?",
+    "explanation": "Buddha'nın 35 yaşında 'arya dünyasından' ayrılıp (dukkha'dan kurtulup) öğretilerini yaymaya başladığı kabul edilir. Bu, erken dönem Budizm tarihçelerinde sıklıkla belirtilen bir gerçektir.",
+    "options": [
+      "35 yaşında",
+      "40 yaşında",
+      "45 yaşında",
+      "50 yaşında"
+    ],
+    "correctAnswer": "35 yaşında",
+    "tags": [
+      "Budizm",
+      "Din Tarihi",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "98a2kq8vs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler Tarihi'nde Yahudilik'in en eski din olarak kabul edildiği ne zamandır?",
+    "explanation": "Yahudilik, İslam ve Hristiyanlığın en eski dini olarak kabul edilir. Yahudi devletinin sonu MS 587 yılı civarı (Yeruşalim'in tahrip edilmesi) dönemine dayalıdır.",
+    "options": [
+      "MS -1000 yılları",
+      "MS -587 yılları",
+      "MS -31 yılları",
+      "MS 45-50 yılları"
+    ],
+    "correctAnswer": "MS -587 yılları",
+    "tags": [
+      "Yahudilik",
+      "Din Tarihi",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8pmd1yusb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Dinler Tarihi'nde Zoroastrianizm'in en önemli kurucusu kimdir?",
+    "explanation": "Zoroastrianizm'in kurucusu Zarathustra (Zerdüş) olarak kabul edilir. İran'da ortaya çıkan bu din, iyi ve kötünün savaşı felsefesini temel alır.",
+    "options": [
+      "Zarathustra",
+      "Musa",
+      "İsa",
+      "Zerdüş"
+    ],
+    "correctAnswer": "Zarathustra",
+    "tags": [
+      "Zoroastrianizm",
+      "Din Tarihi",
+      "Yer Şahıslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3nv5vx40w",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Dünyanın en eski dinlerden biri olarak kabul edilen Hinduizm'in coğrafi merkezi neresidir?",
+    "explanation": "Hinduizm, Hindistan yarımadasında ve Güney Asya'da gelişen dünyanın en eski dinlerinden biridir.",
+    "options": [
+      "Hindistan",
+      "Çin",
+      "Mısır",
+      "Avustralya"
+    ],
+    "correctAnswer": "Hindistan",
+    "tags": [
+      "dinler tarihi",
+      "hinduizm",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yv8pwisag",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler Tarihi'nde 'İlahi Mekan' kavramı hangi inanışta daha yaygındır?",
+    "explanation": "Hristiyanlık'ta Kudüs'ün İlahi Mekan olarak kabul edildiği ve özellikle Kutsal Topraklar'da ibadet merkezi bulunduğu bilinmektedir.",
+    "options": [
+      "Hristiyanlık",
+      "Yahudilik",
+      "İslam",
+      "Budizm"
+    ],
+    "correctAnswer": "Hristiyanlık",
+    "tags": [
+      "dinler tarihi",
+      "ilahi mekan",
+      "inanış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bwuvm9a8f",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi dinin kutsal kitabı 'Kur'an' olarak adlandırılır?",
+    "explanation": "Kur'an, İslam inancının temel kutsal kitabı olup Allah'ın peygamber Muhammed'e vahiy yoluyla gönderdiği metindir.",
+    "options": [
+      "Hindizm",
+      "Budizm",
+      "İslam",
+      "Yahudilik"
+    ],
+    "correctAnswer": "İslam",
+    "tags": [
+      "dinler tarihi",
+      "kutsal kitaplar",
+      "islam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8eqc13ej6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler Tarihi alanında 'Sekülerite' kavramı neyi ifade eder?",
+    "explanation": "Sekülerite, din ile devlet işlerinin birbirinden ayrı olduğu laik düzeni ifade eder.",
+    "options": [
+      "Dine bağlılık",
+      "Laiklik ve din devlet ayrılığı",
+      "Kutsal inancın güçlenmesi",
+      "Peygamberlik"
+    ],
+    "correctAnswer": "Laiklik ve din devlet ayrılığı",
+    "tags": [
+      "dinler tarihi",
+      "sekülerite",
+      "laiklik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wf4kbvvdr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Antik Mısır'da 'Osiris'in tanrı olarak kabul edildiği inanış hangisidir?",
+    "explanation": "Osiris, Antik Mısır mitolojisinde ölüm, yeniden doğuş ve ahiret hayatı ile ilişkilendirilen önemli bir tanrıdır.",
+    "options": [
+      "Güneş Tanrısı",
+      "Ölüm ve Yeniden Doğuş",
+      "Su Tanrısı",
+      "Savaş Tanrısı"
+    ],
+    "correctAnswer": "Ölüm ve Yeniden Doğuş",
+    "tags": [
+      "dinler tarihi",
+      "antik mısır",
+      "osiris"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "46mqs5g4n",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki dünya dinlerinden hangisi Mısır'ın antik dönemine ait inanış sistemi olarak kabul edilir?",
+    "explanation": "Mısır Dinleri, Kuzey Afrika'daki Mısır medeniyetinin antik dönemine ait doğal olaylara ve tanrısal varlıklara dayalı inanış sistemidir.",
+    "options": [
+      "Budizm",
+      "Hindüizm",
+      "Mısır Dinleri",
+      "İslam"
+    ],
+    "correctAnswer": "Mısır Dinleri",
+    "tags": [
+      "Dinler Tarihi",
+      "Antik Dünalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "czw5l58k4",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hristiyanlığın temel dini metni olan İncil hangi dönemde yazılmıştır?",
+    "explanation": "İncil, Hıristiyanlığın temel kutsal kitabı olarak MS 1-100 yılları arasında Hazirullah'ın (Mehmet) döneminde yazılmıştır.",
+    "options": [
+      "MS 1-100 yılları",
+      "MS 300-400 yılları",
+      "MS 700-800 yılları",
+      "MS 900-1000 yılları"
+    ],
+    "correctAnswer": "MS 1-100 yılları",
+    "tags": [
+      "Hristiyanlık",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0aydv6l3m",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Buddhism'in kurucusu olan Siddhartha Gautama'nın hayatı hangi yüzyıla tarihlenir?",
+    "explanation": "Siddhartha Gautama, Budizm'in kurucusu olarak MS 5-4. yüzyılda Hindistan'da yaşamış ve öğretilerini geliştirmiştir.",
+    "options": [
+      "MS 1. Yüzyıl",
+      "MS 5-4. Yüzyıl",
+      "MS 8. Yüzyıl",
+      "MS 10. Yüzyıl"
+    ],
+    "correctAnswer": "MS 5-4. Yüzyıl",
+    "tags": [
+      "Budizm",
+      "Asya Dini"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5q5s8s2j3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İslam'ın temel inanç prensipleri (Rukn-i İman) hangileridir?",
+    "explanation": "İslam'ın temel inanç prensipleri (Rukn-i İman) altı esas (Allah'a, meleklerin, kitapların, peygamberlerin, ahiretin ve kaderin inancı) ve beş şart (namaz, oruç, zekat, hac, savaşa katılma) içerir.",
+    "options": [
+      "Altı esas ve beş şart",
+      "Altı şart ve üç şart",
+      "Beş şart ve dört şart",
+      "Dokuz şart ve altı şart"
+    ],
+    "correctAnswer": "Altı esas ve beş şart",
+    "tags": [
+      "İslam Dini",
+      "Rukn-i İman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "42gwjhhvv",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Dinler Tarihi'nde 'Dinler Arası Diyalog' kavramı hangi dönemde yoğunlaşmıştır?",
+    "explanation": "Dinler arası diyalog kavramı, 20. yüzyılda dinler tarihçileri ve düşünürleri tarafından yoğunlaşmış ve farklı inanış sistemleri arasında karşılıklı anlayışı teşvik etmiştir.",
+    "options": [
+      "Antik Çağ",
+      "Orta Çağ",
+      "Modern Çağ (20. Yüzyıl)",
+      "Klasik Çağ"
+    ],
+    "correctAnswer": "Modern Çağ (20. Yüzyıl)",
+    "tags": [
+      "Dinler Arası İlişkiler",
+      "Modern Dinler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dr7ljmom1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "İslam dininin kurucusu Hz. Muhammed peygamberin hayatı hangi yüzyılda başlamıştır?",
+    "explanation": "Hz. Muhammed peygamber 572 yılında Medine'nin Kabe etrafında doğmuştur.",
+    "options": [
+      "572 M",
+      "610 M",
+      "622 M",
+      "632 M"
+    ],
+    "correctAnswer": "572 M",
+    "tags": [
+      "İslam Tarihi",
+      "Hz. Muhammed",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qii86nlkk",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hristiyanlığın resmi kabul edildiği Konstantinopolis Edirne'de hangi yıl gerçekleşmiştir?",
+    "explanation": "Hristiyanlığın Roma İmparatorluğu tarafından resmi din olarak kabul edildiği yıl 380 M'dir.",
+    "options": [
+      "313 M",
+      "325 M",
+      "380 M",
+      "451 M"
+    ],
+    "correctAnswer": "380 M",
+    "tags": [
+      "Hristiyanlık Tarihi",
+      "Haçlar",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rp5bkuu2n",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Yahudi dininin temel kutsal kitabı olan Tora'nın peygamberine göre nasıl bir yapıdadır?",
+    "explanation": "Tora'nın 5 parçası vardır: Bereshit, Şemot, Vayikra, Bemidbar ve Devarim.",
+    "options": [
+      "5 parçadan oluşur",
+      "7 parçadan oluşur",
+      "9 parçadan oluşur",
+      "12 parçadan oluşur"
+    ],
+    "correctAnswer": "5 parçadan oluşur",
+    "tags": [
+      "Yahudi Tarihi",
+      "Tora",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q4uj0k4h7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İslam tarihinin önemli dönüm noktalarından biri olan Hicret olayı hangi yıl gerçekleşmiştir?",
+    "explanation": "Hz. Muhammed'in Mekke'den Medine'ye hicreti 622 yılında gerçekleşmiştir.",
+    "options": [
+      "610 M",
+      "622 M",
+      "632 M",
+      "640 M"
+    ],
+    "correctAnswer": "622 M",
+    "tags": [
+      "İslam Tarihi",
+      "Hicret",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hz72fe40t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Antik Yunan dinlerinde kutsal kabul edilen Zeus tanrısı hangi özelliklerle anılır?",
+    "explanation": "Zeus, Antik Yunan mitolojisinde tanrıların kralı ve göklerin efendisi olarak kabul edilir.",
+    "options": [
+      "Göklerin ve yıldızların ilahı",
+      "Denizlerin efendisi",
+      "Ateşin tanrısı",
+      "Zamanın ilahı"
+    ],
+    "correctAnswer": "Göklerin ve yıldızların ilahı",
+    "tags": [
+      "Antik Dini Tarihi",
+      "Yunan Mitolojisi",
+      "Dinler Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "or839hqal",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İslamiyet'ten önce Arap Yarımadası'nda dinler tarihinin gelişimi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "İslamiyet'ten önce Arap Yarımadasında Yahudi ve Hristiyan dinleri ile pagan inançlar bir arada bulunuyordu.",
+    "options": [
+      "Yahudi ve Hristiyan etkileri vardı",
+      "Sadece pagan inançlar bulunuyordu",
+      "Buddhizm yaygındı",
+      "Hindüizm hakimiyetteydi"
+    ],
+    "correctAnswer": "Yahudi ve Hristiyan etkileri vardı",
+    "tags": [
+      "Dinler Tarihi",
+      "İslamiyet Öncesi",
+      "Arap Yarımadası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wuxbusf5f",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Dinler tarihi gelişimi açısından ilk peygamber olarak kabul edilen kişi kimdir?",
+    "explanation": "İslam inancına göre ilk peygamber Adem'dir ve insanlığın yaratılışının başlangıcı olarak kabul edilir.",
+    "options": [
+      "Adem (A)",
+      "Nuh",
+      "İbrahim",
+      "Muhammad"
+    ],
+    "correctAnswer": "Adem (A)",
+    "tags": [
+      "Peygamberler",
+      "Dinler Tarihi",
+      "İslam Teolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cm2p4u1ua",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler tarihinin evrelerinden biri olan 'Klasik Çağ' hangi coğrafyada gelişmiştir?",
+    "explanation": "Dinler tarihinin Klasik Çağı Orta Doğu coğrafyasında, özellikle İslam medeniyetinin geliştiği alanlarda yoğunlaşmıştır.",
+    "options": [
+      "Ege Bölgesi",
+      "Orta Doğu",
+      "Hindistan",
+      "Çin"
+    ],
+    "correctAnswer": "Orta Doğu",
+    "tags": [
+      "Dinler Tarihi",
+      "Klasik Çağ",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "81vi84zx3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki dinlerden hangisi monoteistik (tek tanrılı) bir yapıya sahiptir?",
+    "explanation": "İslam, İbranî ve Hristiyanlıkla birlikte monoteistik (tek tanrılı) dinlerin üçlüsü olarak kabul edilir.",
+    "options": [
+      "Buddhizm",
+      "Hindüizm",
+      "İslam",
+      "Sintoizm"
+    ],
+    "correctAnswer": "İslam",
+    "tags": [
+      "Dinler Tarihi",
+      "Monoteizm",
+      "İslam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8az4hr329",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Dinler tarihinin 'Modern Çağ' evresi hangi özelliklerle karakterizedir?",
+    "explanation": "Dinler tarihinin Modern Çağı, dini özgürlük, tolerans ve inanç çeşitliliği ile karakterize edilir.",
+    "options": [
+      "Dini tolerans ve çeşitlilik",
+      "Sadece savaşlar",
+      "Tek din egemenliği",
+      "Pagan inançların hakimiyeti"
+    ],
+    "correctAnswer": "Dini tolerans ve çeşitlilik",
+    "tags": [
+      "Dinler Tarihi",
+      "Modern Çağ",
+      "Tolerans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ifspe3ys",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Which ancient civilization is credited with the earliest known religious texts that predate the major monotheistic religions?",
+    "explanation": "Mesopotamian Sumerians created the earliest known religious texts including cuneiform tablets dating back to approximately 2100 BCE, predating the Hebrew Bible and other major religious scriptures.",
+    "options": [
+      "Ancient Egypt",
+      "Mesopotamia (Sumer)",
+      "Ancient Greece",
+      "Ancient China"
+    ],
+    "correctAnswer": "Mesopotamia (Sumer)",
+    "tags": [
+      "history of religions",
+      "ancient civilizations",
+      "religious texts"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "09ekrvaxu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "What is the significance of Buddhism's spread along the Silk Road in ancient history?",
+    "explanation": "The Silk Road served as a major transmission route for Buddhism, allowing it to spread from India to China, Mongolia, and other Central Asian regions during the Han Dynasty period.",
+    "options": [
+      "It facilitated trade between East Asia and Europe",
+      "It introduced Buddhist philosophy to China and Central Asia",
+      "It unified various Chinese dynasties",
+      "It replaced existing religious practices with Christianity"
+    ],
+    "correctAnswer": "It introduced Buddhist philosophy to China and Central Asia",
+    "tags": [
+      "Buddhism",
+      "Silk Road",
+      "religious diffusion"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ajxo1gq4k",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Which religious tradition emphasizes the concept of 'dharma' as cosmic order and duty?",
+    "explanation": "Dharma is a central concept in Hinduism referring to cosmic law, moral order, and individual duty. It encompasses the natural laws that govern the universe and guide human conduct.",
+    "options": [
+      "Christianity",
+      "Islam",
+      "Hinduism",
+      "Judaism"
+    ],
+    "correctAnswer": "Hinduism",
+    "tags": [
+      "religious concepts",
+      "dharma",
+      "Hinduism"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "67yquu7po",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "During which historical period did Islam begin to spread rapidly across North Africa and parts of Europe?",
+    "explanation": "The Umayyad Caliphate (661-750 CE) oversaw rapid Muslim conquests that extended Islamic rule across North Africa, the Levant, and into parts of Europe including Hispania.",
+    "options": [
+      "The Crusades (11th-13th centuries)",
+      "The Umayyad Caliphate expansion",
+      "The Ottoman Empire formation",
+      "The Islamic Golden Age"
+    ],
+    "correctAnswer": "The Umayyad Caliphate expansion",
+    "tags": [
+      "Islam",
+      "Umayyad Caliphate",
+      "religious history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9yhn8p98o",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "What role did monastic institutions play in the preservation of religious knowledge during medieval times?",
+    "explanation": "Monasteries and monastic communities served as repositories of learning, where monks carefully copied religious texts, preserving ancient manuscripts through the medieval period.",
+    "options": [
+      "They copied and preserved religious manuscripts",
+      "They built defensive walls against invaders",
+      "They conducted military campaigns",
+      "They developed new agricultural techniques"
+    ],
+    "correctAnswer": "They copied and preserved religious manuscripts",
+    "tags": [
+      "monasticism",
+      "religious knowledge",
+      "medieval period"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o15i57hwm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İslam dininin ilk peygamberi olarak kabul edilen Hz. Adem'den sonra gelen üçüncü peygamber kimdir?",
+    "explanation": "Hz. Adem'den sonra gelen ilk peygamber Hz. Nuh, ardından üçüncü olarak gelen peygamber ise Hz. İbrahim'dir.",
+    "options": [
+      "Hz. Nuh",
+      "Hz. İbrahim",
+      "Hz. Musa",
+      "Hz. Hızır"
+    ],
+    "correctAnswer": "Hz. İbrahim",
+    "tags": [
+      "Dinler Tarihi",
+      "İslam",
+      "Peygamberler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pnqp4frc7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EASY",
+    "question": "Hristiyanlık dininin kurucusu ve ilk peygamberi kimdir?",
+    "explanation": "Hristiyanlık dininin kurucusu ve ilk peygamberi Hz. İsa'dır.",
+    "options": [
+      "Hz. Musa",
+      "Hz. İsa",
+      "Hz. Muhammed",
+      "Hz. Davud"
+    ],
+    "correctAnswer": "Hz. İsa",
+    "tags": [
+      "Dinler Tarihi",
+      "Hristiyanlık",
+      "Peygamberler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "us690517l",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Buddhizm (Budizm) dini hangi kıtada ortaya çıktı?",
+    "explanation": "Buddhizm dini Hint yarımadasında, yani Asya kıtasında ortaya çıkmıştır.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "Dinler Tarihi",
+      "Budizm",
+      "Kıta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ycnrdp30b",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İslam dininin Kuran-ı Kerim'in indirildiği yıl hangisidir?",
+    "explanation": "Hz. Muhammed'e ilk vahiy indirildiği ve Kuran'ın başlangıcının kabul edildiği yıl 610'dur.",
+    "options": [
+      "610",
+      "622",
+      "632",
+      "570"
+    ],
+    "correctAnswer": "610",
+    "tags": [
+      "Dinler Tarihi",
+      "İslam",
+      "Kuran"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8pypxz4u4",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dinler Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dinler Tarihi'nde 'Vahiy' kelimesinin anlamı nedir?",
+    "explanation": "Vahiy, Allah'ın peygamberlere gönderdiği ilahi mesajları ifade eder.",
+    "options": [
+      "İnsan tarafından yazılan kitap",
+      "Allah'tan gelen mesaj",
+      "Peygamberlerin rüyası",
+      "Tarihsel olaylar"
+    ],
+    "correctAnswer": "Allah'tan gelen mesaj",
+    "tags": [
+      "Dinler Tarihi",
+      "Vahiy",
+      "Terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

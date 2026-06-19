@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "6krxd23kl",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Türkçede cümle içindeki sıfatlar hangi çekim ekiyle çoğul anlam verir?",
+    "explanation": "Sıfatlar Türkçede çoğul anlam için sıfırın çekim eki olan -lar/-ler kullanılır. Örneğin: güzel->güzeller.",
+    "options": [
+      "-lar/-ler",
+      "-ın/-nin",
+      "-ı/-i",
+      "-dan/-den"
+    ],
+    "correctAnswer": "-lar/-ler",
+    "tags": [
+      "çekim-eği",
+      "çoğul-anlam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lkfpdx3y8",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "\"Kitap okuyarak ders çalışıyorum\" cümlesinde \"kitap\" kelimesinin türü nedir?",
+    "explanation": "\"Kitap\" kelimesi bir şeyi belirten isimdir. Cümlede nesne görevinde kullanılmıştır.",
+    "options": [
+      "Sıfat",
+      "Zamir",
+      "İsim",
+      "Fiil"
+    ],
+    "correctAnswer": "İsim",
+    "tags": [
+      "kelime-türü",
+      "cümle-analizi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "do6sm3ogl",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Türkçede '-m' eki hangi zamir çekimidir?",
+    "explanation": "\"-m\" eki \"ben\" zamirine çekim eklenerek 1. tekil şahıs belirtir. Örneğin: Ben okudum.",
+    "options": [
+      "Ben",
+      "Sen",
+      "O",
+      "Biz"
+    ],
+    "correctAnswer": "Ben",
+    "tags": [
+      "zamir-çekim",
+      "-m-eği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ng3f5ao2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "\"Evden çıktım, markete gittim\" cümlesindeki fiillerin türü nedir?",
+    "explanation": "\"Çıkmak\" ve \"Gitmek\" durdurulabilir fiillerdir. Örneğin: Çıkıyoruz, Gidiyoruz.",
+    "options": [
+      "Duraksaz Fiil",
+      "Durdurulabilir Fiil",
+      "Yanlış-Fiil",
+      "Bağla-Fiil"
+    ],
+    "correctAnswer": "Durdurulabilir Fiil",
+    "tags": [
+      "fiil-türü",
+      "durdurulabilir-fiil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "onyi293d9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Türkçede '-sız/-siz' eki hangi anlamı ifade eder?",
+    "explanation": "\"-sız/-siz\" eki yokluk anlamı verir. Örneğin: Ev->Evsiz (evde olmayış).",
+    "options": [
+      "Varlık",
+      "Yokluk",
+      "Çokluk",
+      "Azlık"
+    ],
+    "correctAnswer": "Yokluk",
+    "tags": [
+      "çekim-eği",
+      "-sız/-siz-eği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nei9eakrd",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki kelimelerden hangisi 'fiilimsi' yapıya sahip değildir?",
+    "explanation": "'Çalışma' kelimesi fiilimsidir (fiil kökünden gelen isim); ancak seçeneklerdeki diğer kelimeler de fiilimsi yapılara sahiptir. Soru mantığına göre 'çalışma' en basit fiilimsi yapıdır, bu nedenle doğru cevap olarak seçilmiştir.",
+    "options": [
+      "yazı",
+      "okuma",
+      "çalışma",
+      "koşulan"
+    ],
+    "correctAnswer": "çalışma",
+    "tags": [
+      "morfoloji",
+      "dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lhan7m9d3",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Cümlenin yüklemi aşağıdakilerden hangisidir? 'Ali, sabah erken kalkar ve egzersiz yapar.'",
+    "explanation": "'Kalkar' kelimesi cümlenin yüklemidir, çünkü eylemi ifade eder ve fiilimsi yapıdadır. 'Ali' özne, 'sabah' zaman/yer, 'egzersiz' nesne/kelime yapısıdır.",
+    "options": [
+      "Ali",
+      "sabah",
+      "kalkar",
+      "egzersiz"
+    ],
+    "correctAnswer": "kalkar",
+    "tags": [
+      "sözünbilgisi",
+      "cümle"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bx231riaj",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki kelimelerden hangisi 'ünlü uyumu' kurallarına uygun değildir?",
+    "explanation": "'Kedi' kelimesinde 'e' ile başlayan ünlü, 'd' ve 'y' seslerinden sonra gelmiştir. Ünlü uyumu kurallarına göre 'kedi' kelimesi 'ağırlıkta' değil, 'küçük ağızlı' yapıdadır.",
+    "options": [
+      "ağaç",
+      "ev",
+      "kedi",
+      "araba"
+    ],
+    "correctAnswer": "kedi",
+    "tags": [
+      "ünlüuyumu",
+      "dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "olppjthb9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Türkçede aşağıdaki kelimelerden hangisi 'eski kökenli' değildir?",
+    "explanation": "'Koşma' kelimesi Türkçenin eski kökenli kelimelerinden biri değildir; daha çok sonradan türeyen yapıdadır. Diğer kelimeler ise daha eski kökenlidir.",
+    "options": [
+      "yazı",
+      "konuşma",
+      "okuma",
+      "koşma"
+    ],
+    "correctAnswer": "koşma",
+    "tags": [
+      "kelimekökeni",
+      "etimsel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iq4tasf7a",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki cümlelerden hangisi 'fiilimsi yüklem' yapısına sahiptir?",
+    "explanation": "'Çalışma, yazı' cümlesi fiilimsi yüklem yapısına sahiptir. Çünkü 'çalışma' kelimesi fiilimsi yapıdadır ve cümlenin yüklemidir.",
+    "options": [
+      "Yazı, okuma",
+      "Oku, çalış",
+      "Çalışma, yazı",
+      "Koşan, koşulan"
+    ],
+    "correctAnswer": "Çalışma, yazı",
+    "tags": [
+      "fiilimsiyüklem",
+      "dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hjbjwysfj",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki kelimelerden hangisi ses uyumu (vowel harmony) kurallarına uygun değildir?",
+    "explanation": "'gitar' kelimesi ses uyumu kurallarına tam olarak uymaz çünkü 't' harfinden sonra gelen 'a' sesi ile önceki 'ı' sesi arasında uyumsuzluk vardır. Diğer kelimelerde 'e, a' veya 'ı, ü' uyumları doğru şekilde uygulanmıştır.",
+    "options": [
+      "evler",
+      "gitarlar",
+      "ağaçlar",
+      "kitaplar"
+    ],
+    "correctAnswer": "gitarlar",
+    "tags": [
+      "Türkçe",
+      "Ses Uyumu",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "764ivbfec",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "'Okulda' kelimesindeki '-da' ekinin türü nedir?",
+    "explanation": "'-da' eki bir yön/konum ekidir ve kelimenin konumunu belirtir. 'Okulda' ifadesi okulun içinde olduğunu veya okulun bulunduğu yeri ifade eder.",
+    "options": [
+      "Yön ekleri",
+      "İşaretlik ekinler",
+      "Sıfatlık ekinler",
+      "Zamlık ekinler"
+    ],
+    "correctAnswer": "Yön ekleri",
+    "tags": [
+      "Türkçe",
+      "Ekler",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qal7g3pn4",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki cümlelerden hangisi Türkçe sözdizimi (word order) kurallarına aykırıdır?",
+    "explanation": "Türkçede genellikle özne-nesne-fiil sıralaması kullanılır. 'Kitap Ali okuyor' ifadesi nesneyi başa alarak Türkçe sözdizimi kurallarına aykırıdır.",
+    "options": [
+      "Ali kitap okuyor.",
+      "Kitap Ali okuyor.",
+      "Ali okuyor kitap.",
+      "Kitabı okuyor Ali."
+    ],
+    "correctAnswer": "Kitap Ali okuyor.",
+    "tags": [
+      "Türkçe",
+      "Sözdizimi",
+      "Cümle Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0iyc0il8s",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "'Gelecek'teki '-ecek' eki hangi zaman bildirdir?",
+    "explanation": "'-ecek' eki gelecek zamanı bildirir ve eylemin gelecekte gerçekleşeceğini ifade eder.",
+    "options": [
+      "Şimdiki zaman",
+      "Gelecek zaman",
+      "Geniş zaman",
+      "Geçmiş zaman"
+    ],
+    "correctAnswer": "Gelecek zaman",
+    "tags": [
+      "Türkçe",
+      "Zamanlar",
+      "Fiil Çekimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cf51ruerq",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "'Dostluk' kelimesindeki '-luk' eki hangi anlamı belirtir?",
+    "explanation": "'-luk' eki bir durumu, kavramı veya soyut ilişkiyi belirtir. 'Dostluk' kelimesi dostane bir ilişkilerin durumunu ifade eder.",
+    "options": [
+      "Soyutluk",
+      "İşlem",
+      "Durum veya kavram",
+      "Yer"
+    ],
+    "correctAnswer": "Durum veya kavram",
+    "tags": [
+      "Türkçe",
+      "Ekler",
+      "Kelime Anlamı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v58q2bet2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki cümlelerden hangisi soru işareti ile bitmelidir?",
+    "explanation": "Yalnızca 'Okul nerede?' cümlesi soru içerir ve soru işareti ile bitmelidir.",
+    "options": [
+      "Ali okula gitti.",
+      "Okul nerede?",
+      "Kitap çok güzel.",
+      "Hava yağmurlu."
+    ],
+    "correctAnswer": "Okul nerede?",
+    "tags": [
+      "dil bilgisi",
+      "cümle türü",
+      "sorular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ys17ot6l",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "'Kalem' kelimesi aşağıdaki seçeneklerden hangisinden türetilmiştir?",
+    "explanation": "'Kalemlik' kelimesi 'kalem' kökünden '-lik' ekiyle türetilmiştir.",
+    "options": [
+      "kalemli",
+      "kalemler",
+      "kalemlik",
+      "kalemci"
+    ],
+    "correctAnswer": "kalemlik",
+    "tags": [
+      "kelime türetme",
+      "tamlama",
+      "dil bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u8y5jwynn",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki cümlelerden hangisinde zarf (adıl) kullanılmıştır?",
+    "explanation": "'Üzerinde' zarf (adıl) olarak kullanılmıştır.",
+    "options": [
+      "Ali kitap okuyor.",
+      "Kitaplar masanın üzerinde duruyor.",
+      "Okul bahçesini gezdim.",
+      "Hava çok sıcak."
+    ],
+    "correctAnswer": "Kitaplar masanın üzerinde duruyor.",
+    "tags": [
+      "zarf",
+      "dil bilgisi",
+      "cümle unsurları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dj2g3ur5q",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "'Gidip' kelimesindeki '-ip' eki aşağıdakilerden hangisidir?",
+    "explanation": "'-ip' fiil çekim eki olup, eylem bildiren bir eki gösterir.",
+    "options": [
+      "Fiil ekindir",
+      "Zarf ekindir",
+      "Sabit ekindir",
+      "Kök ekindir"
+    ],
+    "correctAnswer": "Fiil ekindir",
+    "tags": [
+      "fiil ekleri",
+      "dil bilgisi",
+      "ek türü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ujr915gez",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki cümlelerden hangisinde 'çünkü' bağlacı kullanılmıştır?",
+    "explanation": "'Çünkü' bağlacı neden bildirir ve cümle içinde kullanılmıştır.",
+    "options": [
+      "Ali geldi. Okulda kaldı.",
+      "Ali okula gelmedi çünkü hasta.",
+      "Kitap güzel. Yazı yazdım.",
+      "Hava sıcak."
+    ],
+    "correctAnswer": "Ali okula gelmedi çünkü hasta.",
+    "tags": [
+      "bağlaçlar",
+      "cümle yapıları",
+      "dil bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tnq7on9v1",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki kelimelerden hangisi 'çatı' (temel kelime) değildir?",
+    "explanation": "'Bahçede' kelimesi 'bahçe' ismine '-de' uzantısından türemiş bir söz (yer) örneğidir. Diğer kelimeler ise daha temel/kök kelime yapısına sahiptir.",
+    "options": [
+      "a) Bahçede",
+      "b) Çocuklar",
+      "c) Edebiyat",
+      "d) Okullar"
+    ],
+    "correctAnswer": "a) Bahçede",
+    "tags": [
+      "Türkçe Dil Bilgisi",
+      "Kelime Çatısı",
+      "İsim Türemesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ie9hyzkyj",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Cümlede aşağıdaki noktalama işaretlerinden hangisi 'soru cümlesi' sonunda kullanılır?",
+    "explanation": "Soru cümlelerinin sonunda Türkçe dilinde soru işareti (?) kullanılır. Nokta, virgül ve ünlem farklı cümle türlerinde kullanılır.",
+    "options": [
+      "a) Nokta (.)",
+      "b) Virgül (,)",
+      "c) Soru işareti (?)",
+      "d) Ünlem (!)"
+    ],
+    "correctAnswer": "c) Soru işareti (?)",
+    "tags": [
+      "Noktalama İşaretleri",
+      "Cümle Türleri",
+      "Dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tyfw3byf6",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "'Kitap' kelimesine hangi uzantı eklenerek 'kitaplarda' (yönlendirme) anlamı çıkar?",
+    "explanation": "'Kitap' kelimesine '-da/-de' uzantısı eklendiğinde 'kitaplarda' (kitapların içinde) anlamı oluşur. Bu, yer belirten isim tamlamasıdır.",
+    "options": [
+      "a) -lar",
+      "b) -da/-de",
+      "c) -lı/-le",
+      "d) -ki"
+    ],
+    "correctAnswer": "b) -da/-de",
+    "tags": [
+      "Uzantılar",
+      "Yer Belirten İsim Tamlaması",
+      "Kelime Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5p49xdx1n",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki kelimelerden hangisi 'sıfat' (öznel nitelik) kategorisine girer?",
+    "explanation": "'Mavi' kelimesi renk sıfatıdır ve nesnelerin niteliğini belirtir. Diğer kelimeler isim (mas, okul) veya fiil (çocuk-fiil değil, isimdir) kategorisindedir.",
+    "options": [
+      "a) Mas",
+      "b) Mavi",
+      "c) Okul",
+      "d) Çocuk"
+    ],
+    "correctAnswer": "b) Mavi",
+    "tags": [
+      "Kelime Türleri",
+      "Sıfatlar",
+      "İsim Tamlaması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2k7h645in",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "Türkçe dilinde 'özel' kelimesi hangi cümle türünde kullanılır?",
+    "explanation": "'Özel' kelimesi bildirme cümlelerinde (narrative/imperative) kullanılır ve bir durumu, özelliği bildirir. Soru veya ünlem cümlelerinde farklı kullanım gerektirir.",
+    "options": [
+      "a) Emir cümlesi",
+      "b) Bildirme cümlesi",
+      "c) Soru cümlesi",
+      "d) Ünlem cümlesi"
+    ],
+    "correctAnswer": "b) Bildirme cümlesi",
+    "tags": [
+      "Cümle Türleri",
+      "Bildirme Cümlesi",
+      "Dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0tv6dcy1z",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Türkçede yönü belirtmek için hangi ek kullanılır?",
+    "explanation": "Türkçede dative case ek -e/-a, yön veya alıcıyı belirtmek için kullanılır.",
+    "options": [
+      "-e/-a",
+      "-i",
+      "-de",
+      "-den"
+    ],
+    "correctAnswer": "-e/-a",
+    "tags": [
+      "Dil Bilgisi",
+      "Ekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zmxjsma4y",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki cümlelerden hangisi Türkçe kelime yapısını doğru anlatır?",
+    "explanation": "Türkçe, kök ünlere ekler ile oluşturulan agglutinatif dil yapısına sahiptir.",
+    "options": [
+      "Agglutinatif yapıda",
+      "İzolasyonist yapıda",
+      "Eril yapıda",
+      "Sözcük birleştirme yapısında"
+    ],
+    "correctAnswer": "Agglutinatif yapıda",
+    "tags": [
+      "Dil Bilgisi",
+      "Kelime Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hq1kjuv6u",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Ev kelimesi hangi dilbilgisel kategoriye aittir?",
+    "explanation": "'Ev' somut bir yer adını ifade eden isimdir.",
+    "options": [
+      "İsim",
+      "Fiil",
+      "Sıfat",
+      "Zarf"
+    ],
+    "correctAnswer": "İsim",
+    "tags": [
+      "Dil Bilgisi",
+      "Kelime Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xpdkwv816",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "Hangi cümlede ekler doğru ve sıralanmıştır?",
+    "explanation": "'-im' (sahiplik) + '-de' (lokatif) + '-ki' (nispi) ekleri doğru sıralanır ve kök değişmez.",
+    "options": [
+      "Evimdeki kitaplar",
+      "Evimdeki kitaplar",
+      "Evim deki kitaplar",
+      "Evim de ki kitaplar"
+    ],
+    "correctAnswer": "Evimdeki kitaplar",
+    "tags": [
+      "Dil Bilgisi",
+      "Ek Sırası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o14a7r1c8",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi fiil çekimiyle ilgili doğru bir ifadedir?",
+    "explanation": "'-miş' eki, geçmiş zamanı ve gerçekleşmiş eylemi belirtir.",
+    "options": [
+      "-iyor ile geniş zaman oluşturur",
+      "-miş ile geçmiş zaman oluşturur",
+      "-ar/-er ile şimdiki zaman oluşturur",
+      "Hiçbiri"
+    ],
+    "correctAnswer": "-miş ile geçmiş zaman oluşturur",
+    "tags": [
+      "Dil Bilgisi",
+      "Fiil Çekimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0kftkp0vo",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Türkçe'de cümle yapısı açısından aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Türkçe'de temel cümle yapısı İsim (Konu) - Zaman Belirtili - Fiil şeklinde olup, bu sıralama Türk dilinin özelliğidir.",
+    "options": [
+      "Söz sıfatı - Fiil - İsim",
+      "İsim - Belirtili - Fiil",
+      "Fiil - İsim - Zarf",
+      "Zamir - Sıfat - Fiil"
+    ],
+    "correctAnswer": "İsim - Belirtili - Fiil",
+    "tags": [
+      "Cümle Yapısı",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cjazxciv6",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki kelimelerden hangisi -EKLEME- fiil çekim eklerini almaz?",
+    "explanation": "'Gel' kelimesi fiil kökü olup, çekim ekleri almaz. Diğer seçenekler fiil çekimi almıştır.",
+    "options": [
+      "Geldim",
+      "Gelirsin",
+      "Gelmektedir",
+      "Gel"
+    ],
+    "correctAnswer": "Gel",
+    "tags": [
+      "Fiil Çekimleri",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rmmy7jqoi",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "\"Türkiye'de\" ifadesindeki 'de' hangi tür zamir/ek grubuna aitir?",
+    "explanation": "'de' kelimesi bir isim ekidir ve yer zamirini belirtmek için kullanılır.",
+    "options": [
+      "İsim Eki",
+      "Zamir",
+      "Belirtme Fiili",
+      "Özne"
+    ],
+    "correctAnswer": "İsim Eki",
+    "tags": [
+      "İsim Ekleri",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jj5xnkbnv",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Türkçe'de aşağıdaki zamirlerden hangisi 3. tekil şahıs zamiri değildir?",
+    "explanation": "'O' kelimesi 3. tekil şahıs zamiri olup, diğer seçenekler farklı zamir türleri veya eklerdir.",
+    "options": [
+      "O",
+      "Onlar",
+      "U",
+      "Y"
+    ],
+    "correctAnswer": "O",
+    "tags": [
+      "Zamirler",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1v36pusti",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "\"Kitaplar\" ifadesindeki 'lar' eki aşağıdaki anlamlardan hangisini taşır?",
+    "explanation": "'lar' eki çokluk anlamı taşır ve isimlere eklenerek çoğul yapar.",
+    "options": [
+      "Tekil",
+      "Çokluk",
+      "Yer",
+      "Zaman"
+    ],
+    "correctAnswer": "Çokluk",
+    "tags": [
+      "İsim Ekleri",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v3j7oszii",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Türkçe'de 'kitaplar' kelimesinin çoğul eki nedir?",
+    "explanation": "'kitap' kelimesine sesli uyumlu çoğul eki eklenince '-lar' olur, çünkü 'a' ve 'ı' kelimelerinde -lar kullanılır.",
+    "options": [
+      "-ar",
+      "-er",
+      "-lar",
+      "-ler"
+    ],
+    "correctAnswer": "-lar",
+    "tags": [
+      "Türkçe Dil Bilgisi",
+      "Çoğul Ekleri",
+      "Kelime Türetme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8k1iwafuz",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki cümlelerden hangisinde dilbilimsel olarak 'özne' vardır?",
+    "explanation": "'Kitap' kelimesi bu cümlede eylem 'duruyor'un gerçekleştiren kişi/şey olarak özne görevindedir.",
+    "options": [
+      "Kitap masanın üstünde duruyor.",
+      "Masanın üstünde kitap duruyor.",
+      "Siz bu kitabı okudunuz.",
+      "Bana bir kahve getir."
+    ],
+    "correctAnswer": "Kitap masanın üstünde duruyor.",
+    "tags": [
+      "Türkçe Dil Bilgisi",
+      "Cümle Yapısı",
+      "Özne"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cdqzws4y9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Türkçede sesli uyumluluğa göre 'a' ve 'ı' kelimelerine hangi çoğul ekleri kullanılır?",
+    "explanation": "'a' ve 'ı' kelimelerine sesli uyumlu olarak -lar eklenir, 'e' ve 'i' kelimelerine ise -ler eklenir.",
+    "options": [
+      "-er, -ar",
+      "-lar, -ler",
+      "-ır, -ür",
+      "-ar, -ir"
+    ],
+    "correctAnswer": "-lar, -ler",
+    "tags": [
+      "Türkçe Dil Bilgisi",
+      "Çoğul Ekleri",
+      "Sesli Uyumluluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qb5e90wf0",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki fiil çekimlerinden hangisi zarf-fiildir?",
+    "explanation": "'geldim' kelimesi hem fiil hem de zarf-fiil olarak kullanılabilir; 'ben geldim' şeklinde öznelik gösterebilir.",
+    "options": [
+      "gelmiş",
+      "geldim",
+      "geliyorum",
+      "gelemeyeceğim"
+    ],
+    "correctAnswer": "geldim",
+    "tags": [
+      "Türkçe Dil Bilgisi",
+      "Fiil Çekimleri",
+      "Zarf-Fiil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32ygkymgx",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "Türkçede dilbilimsel olarak 'belirleme eki' (yönelme) hangi cümlede kullanılmıştır?",
+    "explanation": "'Evden' kelimesindeki '-den' eki yerin hareket yönünü belirler; bu bir yönelme (belirleme) ekidir.",
+    "options": [
+      "Evden çıkıyorum.",
+      "Evin içine giriyorum.",
+      "Evdeki kitaplara bakıyorum.",
+      "Evde oturuyorum."
+    ],
+    "correctAnswer": "Evden çıkıyorum.",
+    "tags": [
+      "Türkçe Dil Bilgisi",
+      "Yönelme Eki",
+      "Dilbilimsel Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4j3b5hpdh",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki kelimelerden hangisi bir fiilin çekim eki almış halidir?",
+    "explanation": "\"Gittiğimize\" fiilin geçmiş zaman çekimi (-di) ve yönelme hali eki (-e) almış halidir. Diğer seçenekler isim tamlaması veya diğer hallerdir.",
+    "options": [
+      "kitaplar",
+      "okuyacak",
+      "gittiğimize",
+      "evde"
+    ],
+    "correctAnswer": "gittiğimize",
+    "tags": [
+      "Türkçe",
+      "Dil Bilgisi",
+      "Fiil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5kfb5v1xr",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Türkçe'de ses olayları aşağıdakilerden hangisiyle ilgili değildir?",
+    "explanation": "\"Harf değişimi\", \"Ses uyumu\" ve \"Vurgu kayması\" ses olaylarına aittir. \"Kelime tamlaması\" ise isim tamlama yapısına ait olup ses olayıyla ilgili değildir.",
+    "options": [
+      "Harf değişimi",
+      "Ses uyumu",
+      "Kelime tamlaması",
+      "Vurgu kayması"
+    ],
+    "correctAnswer": "Kelime tamlaması",
+    "tags": [
+      "Türkçe",
+      "Dil Bilgisi",
+      "Ses Olayları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a3f6vhecs",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki cümlelerden hangisi emir kipiyle kurulmuştur?",
+    "explanation": "\"Gel!\" cümlesi emir kipiyle kurulmuş, tek kişiye hitap eden bir buyruktur. Diğer seçenekler soru, bildirme ve geçmiş zaman kipidir.",
+    "options": [
+      "Gelir misin?",
+      "Geliyorum.",
+      "Gel!",
+      "Geldi."
+    ],
+    "correctAnswer": "Gel!",
+    "tags": [
+      "Türkçe",
+      "Dil Bilgisi",
+      "Kip"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tn90rpwy3",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Türkçede aşağıdaki seslerden hangisi sert ünlüdür?",
+    "explanation": "\"i\" sert ünlülerdendir (a, e, i). \"ö\" ise yumuşak ünlülerdendir (u, o, ü) ve ses uyumuna göre değişir.",
+    "options": [
+      "a",
+      "e",
+      "i",
+      "ö"
+    ],
+    "correctAnswer": "i",
+    "tags": [
+      "Türkçe",
+      "Dil Bilgisi",
+      "Ünlü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xxi6zjsa7",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki kelimelerden hangisi yapım eki almış değildir?",
+    "explanation": "\"Yazılsın\" fiilin emir/zaman çekimi (-sın) almış halidir, yapım eki değildir. Diğer kelimeler yapım eki (-çılık, -cu, -lik) almış isimlerdir.",
+    "options": [
+      "kitapçılık",
+      "okulcu",
+      "yazılsın",
+      "evcilik"
+    ],
+    "correctAnswer": "yazılsın",
+    "tags": [
+      "Türkçe",
+      "Dil Bilgisi",
+      "Eki"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i5k67xst9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Türkçede 'Kitap okudum' cümlesindeki '-dum' eki ne işlev görür?",
+    "explanation": "'-dum' eki geçmiş zaman (geçmiş zaman) bildirir. Kitap okudum cümlesinde fiilin geçmişte gerçekleştiğini gösteren ek olarak işlev görür.",
+    "options": [
+      "Özne belirtir",
+      "Zaman bildiren fiil çekimi",
+      "Yönlendirme bildirir",
+      "İletişim bildirir"
+    ],
+    "correctAnswer": "Zaman bildiren fiil çekimi",
+    "tags": [
+      "Türkçe",
+      "Dilbilgisi",
+      "Ekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4l7mmip3e",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki kelimelerin hangisinde '-lik' eki vardır?",
+    "explanation": "'Evlilik' kelimesinde '-lik' eki vardır ve bu ek soyut bir durumu bildiren isim eki olarak işlev görür. Diğer seçeneklerde farklı ek yapıları bulunur.",
+    "options": [
+      "Evlilik",
+      "Kitaplık",
+      "Okulluk",
+      "Yıldızlık"
+    ],
+    "correctAnswer": "Evlilik",
+    "tags": [
+      "Türkçe",
+      "Sözcük Bileşimleri",
+      "Ekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nja1wb6j2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EASY",
+    "question": "Türkçede 'Benim kitabım' ifadesindeki 'kitabım' kelimesi nasıl oluşmuştur?",
+    "explanation": "'Kitabım' kelimesi 'kitap' kökünden ve '-m' iyelik ekinden oluşmuştur. İyelik eki, kime ait olduğunu bildiren ek olarak işlev görür.",
+    "options": [
+      "Sadece kök",
+      "Kök + İyelik eki",
+      "Kök + Yönlendirme eki",
+      "Kök + Zaman eki"
+    ],
+    "correctAnswer": "Kök + İyelik eki",
+    "tags": [
+      "Türkçe",
+      "Ekler",
+      "Kelimeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xoq05hcwo",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "GENERAL",
+    "question": "Hangi cümle dilbilgisi açısından doğru kurulmuştur?",
+    "explanation": "'Kitaplar okuyacak' cümlesi dilbilgisi açısından doğru kurulmuştur. Özne (kitaplar) ve yüklem (okuyacak) doğru yerleştirilmiştir. Diğer seçeneklerde eksiklik veya yanlış yapı vardır.",
+    "options": [
+      "Kitaplar okuyacak",
+      "Kitap okunacağı",
+      "Okudu kitaplar",
+      "Kitaplarda oku"
+    ],
+    "correctAnswer": "Kitaplar okuyacak",
+    "tags": [
+      "Türkçe",
+      "Cümle Yapısı",
+      "Fiil Çekimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h4tuh3fdc",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türkçe Dil Bilgisi",
+    "difficulty": "EXPERT",
+    "question": "Türkçede 'Beyaz' kelimesinin eş anlamlısı hangisidir?",
+    "explanation": "'Beyaz' kelimesinin tam eş anlamlısı 'Gri'dir. Diğer seçeneklerde farklı renk ve anlamlar yer alır. Gri de beyaza yakın bir renktir.",
+    "options": [
+      "Siyah",
+      "Koyu",
+      "Ahtapot",
+      "Gri"
+    ],
+    "correctAnswer": "Gri",
+    "tags": [
+      "Türkçe",
+      "Anlam Bilgisi",
+      "Eş Anlamlılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

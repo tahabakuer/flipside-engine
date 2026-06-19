@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "8mqvk4eiz",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında en önemli soslardan biri olan 'béchamel' sosunun temel malzemesi nedir?",
+    "explanation": "Béchamel sosu, Fransız mutfağının temel biskuyvitoslarından biridir. Tereyağı ile ısıtılmış un (roux) ve soğuk süt karıştırılarak yapılır.",
+    "options": [
+      "Tereyağı ve un",
+      "Sarımsak ve soğan",
+      "Biber ve domates",
+      "Karbonat ve limon"
+    ],
+    "correctAnswer": "Tereyağı ve un",
+    "tags": [
+      "Fransız Mutfağı",
+      "Soslar",
+      "Malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cqrx1h4pf",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'escargot' neyi ifade eder?",
+    "explanation": "Escargot, Fransız mutfağında tereyağı ve sarımsak ile hazırlanan kabaklı yemeği ifade eder. Genelde fırın veya ızgara yapılır.",
+    "options": [
+      "Kaplumbağa etli kabuklu yemeği",
+      "Tereyağı ve sarımsaklı kaplumbağa",
+      "Domates soslu balık",
+      "Fırınlanmış patates"
+    ],
+    "correctAnswer": "Tereyağı ve sarımsaklı kaplumbağa",
+    "tags": [
+      "Fransız Mutfağı",
+      "Dışı Yemeleri",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9110c0ly7",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağının sembolik yemeği olarak kabul edilen 'Coq au Vin' hangi etten yapılmıştır?",
+    "explanation": "Coq au Vin, Fransız mutfağının en meşhur yemeklerinden biridir. Kavrulmuş tavuk, kırmızı şarap ve biber sosu ile yapılır.",
+    "options": [
+      "Tavuk",
+      "Kuzu",
+      "Dana",
+      "Balık"
+    ],
+    "correctAnswer": "Tavuk",
+    "tags": [
+      "Fransız Mutfağı",
+      "Dışı Yemeleri",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vsv2o8fwr",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'croissant' hangi bölgeden popülerdir?",
+    "explanation": "Croissant, Fransız mutfağında Paris'te en çok tüketilen tatlılardan biridir. Hafif tereyağı ve hamur ile yapılır.",
+    "options": [
+      "Paris",
+      "Marseille",
+      "Lyon",
+      "Nice"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "Fransız Mutfağı",
+      "Tatlılar",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ga2pg2vva",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'ratatouille' hangi malzemelerden oluşur?",
+    "explanation": "Ratatouille, Fransız mutfağında domates, biber, kabak, patlıcan gibi sebzelerden yapılan geleneksel bir yemeğidir.",
+    "options": [
+      "Domates, biber, kabak",
+      "Tavuk, soğan, limon",
+      "Patates, patlıcan, balık",
+      "Süt, yumurta, peynir"
+    ],
+    "correctAnswer": "Domates, biber, kabak",
+    "tags": [
+      "Fransız Mutfağı",
+      "Dışı Yemeleri",
+      "Malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bmogml5we",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında hangi sebze 'la reine des légumes' (sebzenin kraliçesi) olarak bilinir?",
+    "explanation": "Brüksel lahanası Fransız mutfağında 'la reine des légumes' olarak bilinir ve genellikle haşlanmış veya kızartılmış olarak servis edilir.",
+    "options": [
+      "Patates",
+      "Brüsel Lahana",
+      "Mantar",
+      "Pırasa"
+    ],
+    "correctAnswer": "Brüsel Lahana",
+    "tags": [
+      "Fransız Mutfağı",
+      "Sebze",
+      "Gastronomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rn804mpb9",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağının en ikonik yemeği olan Quiche Lorraine hangi bölgeden gelir?",
+    "explanation": "Quiche Lorraine, Fransa'nın Lozara (Lorraine) bölgesinden gelen klasik bir Fransız tuzlu böreği yemeğidir.",
+    "options": [
+      "Burgonya",
+      "Lozara",
+      "Normandi",
+      "Provans"
+    ],
+    "correctAnswer": "Lozara",
+    "tags": [
+      "Fransız Mutfağı",
+      "Yemekler",
+      "Bölge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wn7yjw1l4",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Fransız mutfağında 'Sous-vide' tekniği neyi ifade eder?",
+    "explanation": "Sous-vide, yiyeceklerin vakumlu torbalara konularak kontrollü düşük sıcaklıklarda uzun süre pişirilmesidir.",
+    "options": [
+      "Açık ateşte pişirme",
+      "Vakumlu torbada düşük sıcaklıkta pişirme",
+      "Buharda haşlama",
+      "Kızartma"
+    ],
+    "correctAnswer": "Vakumlu torbada düşük sıcaklıkta pişirme",
+    "tags": [
+      "Fransız Mutfağı",
+      "Pişirme Teknikleri",
+      "Modern Gastronomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dnrxn7paz",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağının temel soslarından biri olan 'Beurre Maître' neyi ifade eder?",
+    "explanation": "Beurre Maître, Fransız mutfağında tereyağı ile hazırlanan klasik bir temel sos türüdür.",
+    "options": [
+      "Tereyağı sosu",
+      "Sarımsak sosu",
+      "Mayonez",
+      "Şarbon sosu"
+    ],
+    "correctAnswer": "Tereyağı sosu",
+    "tags": [
+      "Fransız Mutfağı",
+      "Soslar",
+      "Temel Malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wovjfm4k6",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'Escargot de Bourgogne' hangi yiyeceği ifade eder?",
+    "explanation": "Escargot de Bourgogne, Burgonya bölgesinden gelen Fransız mutfağının klasik bir yemeği olup tereyağı soslu kızarmış sarmaş sarması mantarlarıdır.",
+    "options": [
+      "Burgonya mantarı",
+      "Burgonya yengeçleri",
+      "Burgonya sarması",
+      "Burgonya salatası"
+    ],
+    "correctAnswer": "Burgonya mantarı",
+    "tags": [
+      "Fransız Mutfağı",
+      "Yengeç Mantarı",
+      "Gastronomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xfd6fu25k",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "Fransız mutfağındaki en ünlü yavaş pişen et yemeği aşağıdakilerden hangisidir?",
+    "explanation": "Boeuf Bourguignon, Fransız mutfağının en ikonik yavaş pişen et yemeği olup kırmızı şarapla ve sebzelerle uzun süre demlenerek hazırlanır.",
+    "options": [
+      "Köfte",
+      "Boeuf Bourguignon",
+      "Döner",
+      "Hamburger"
+    ],
+    "correctAnswer": "Boeuf Bourguignon",
+    "tags": [
+      "yemek",
+      "Fransız mutfağı",
+      "et"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qvipd207j",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız pastacılığında 'Mille-feuille' adlı tatlı hangi katmanlardan oluşur?",
+    "explanation": "Mille-feuille, Fransız pastacılığında ince pasta parçalarının (pâte feuilletée) arasına krem şanti koyularak ve pudra şekeri ile kaplanarak yapılan geleneksel bir tatlıdır.",
+    "options": [
+      "Tartın, Krema ve Fındık",
+      "Galette, Krem şanti ve Elma",
+      "Bisküvi, Krema ve Çikolata",
+      "Pasta parçaları, Krem şanti ve Pudra şekeri"
+    ],
+    "correctAnswer": "Pasta parçaları, Krem şanti ve Pudra şekeri",
+    "tags": [
+      "tatlı",
+      "pastacılık",
+      "Fransız mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tjanjtayc",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "Fransız mutfağındaki 'Poulet' kelimesi neyi ifade eder?",
+    "explanation": "Poulet, Fransız kelimelerinde tavuğu ifade eder. Poulet rôti, ızgara tavuk olarak da bilinir.",
+    "options": [
+      "Kuzu eti",
+      "Tavuk",
+      "Horoz",
+      "Ördek"
+    ],
+    "correctAnswer": "Tavuk",
+    "tags": [
+      "yemek",
+      "Fransız mutfağı",
+      "tavuk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "30skpyf9l",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız sofra kültüründe 'Table d'hôte' neyi ifade eder?",
+    "explanation": "Table d'hôte, Fransız restoran kültüründe önceden belirlenmiş sabit bir menü ve fiyat anlamına gelir. Table d'hôte ile karşılıklı menü karıştırılmamalıdır.",
+    "options": [
+      "Açık menü",
+      "Kahvaltı sofrası",
+      "Önceden belirlenmiş menü (fiyatlı)",
+      "Şarap sofrası"
+    ],
+    "correctAnswer": "Önceden belirlenmiş menü (fiyatlı)",
+    "tags": [
+      "sofra kültürü",
+      "Fransız mutfağı",
+      "restoran"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1yuobowdf",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Fransız mutfağındaki 'Escargot' hangi yemeği ifade eder?",
+    "explanation": "Escargot, Fransız mutfağında kabuklu istiridyeyi ifade eder. Genellikle sarımsaklı ve soğanlı sosla pişirilerek servis edilir.",
+    "options": [
+      "İstiridye",
+      "Yarım pişmiş yumurta",
+      "Sarmal kabuklu karides",
+      "Kabuklu sardalya"
+    ],
+    "correctAnswer": "İstiridye",
+    "tags": [
+      "yemek",
+      "Fransız mutfağı",
+      "deniz ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w0b9eqgoe",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız Mutfağı'nda en ikonik sos hangisidir?",
+    "explanation": "Beşamel sosu Fransız mutfağının temel soslardan biridir ve genellikle makarna veya tencere yemeklerinde kullanılır.",
+    "options": [
+      "Mayonez",
+      "Beşamel Sosu",
+      "Tomat Sosu",
+      "Pesto"
+    ],
+    "correctAnswer": "Beşamel Sosu",
+    "tags": [
+      "Fransız Mutfağı",
+      "Soslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ctphd9mhc",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "Croissant hangi Fransız şehriyle özdeşleştirilir?",
+    "explanation": "Croissant Paris'in simgesi haline gelmiş Fransız atıştırmalık面食idir ve şehirle özdeşleşmiştir.",
+    "options": [
+      "Lyon",
+      "Marseille",
+      "Paris",
+      "Nice"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "Fransız Mutfağı",
+      "Atıştırmalıklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rg1pr4xqz",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Ratatouille hangi sebze tabanı üzerine kurulur?",
+    "explanation": "Ratatouille, Fransız Nice mutfağının meşhur sebze yemeği olup zeytinyağında pişirilen sebzelerden oluşur.",
+    "options": [
+      "Patates",
+      "Havuç",
+      "Zeytin Çekirdekli Sebze Karışımı",
+      "Biber"
+    ],
+    "correctAnswer": "Zeytin Çekirdekli Sebze Karışımı",
+    "tags": [
+      "Fransız Mutfağı",
+      "Sebze Yemekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ao3978xqu",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Macar mutfağıyla karıştırılabileceğini düşündüren Fransız yemeği hangisidir?",
+    "explanation": "Beef Bourguignon Fransız burgunya soslu dana yemeği olup, benzer et yemekleriyle karıştırılabilecektir.",
+    "options": [
+      "Goulash",
+      "Ratatouille",
+      "Beef Bourguignon",
+      "Coq au Vin"
+    ],
+    "correctAnswer": "Beef Bourguignon",
+    "tags": [
+      "Fransız Mutfağı",
+      "Et Yemekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i08vrmwgs",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Limon ve beyaz şerbetli Fransız tatlısı nedir?",
+    "explanation": "Tarte Tatin Fransız elma tatosu olup, limon ve beyaz şerbetli versiyonu da meşhurdur.",
+    "options": [
+      "Tarte Tatin",
+      "Crêpe Suzette",
+      "Macarons",
+      "Opera Tatlısı"
+    ],
+    "correctAnswer": "Tarte Tatin",
+    "tags": [
+      "Fransız Mutfağı",
+      "Tatlılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jvpck8iqt",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağının en bilinen soslarından biri olan 'beşamel' sosunun temel malzemeleri nelerdir?",
+    "explanation": "Beşamel sosu, Fransız mutfağının klasik beş ana soslarından biridir ve süt, un (roux) ile tereyağından yapılır. Rendelenmiş peynir genellikle gratin yapımında eklenir.",
+    "options": [
+      "Süt, un, tereyağı, rendelenmiş peynir",
+      "Sarımsak, limon, zeytinyağı",
+      "Domates, biber, soğan",
+      "Tereyağı, yumurta, şeker"
+    ],
+    "correctAnswer": "Süt, un, tereyağı, rendelenmiş peynir",
+    "tags": [
+      "MUTFAK-Fransız Mutfağı",
+      "Soslar",
+      "Malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nd2bs0urm",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'boeuf bourguignon' yemeği hangi bölgeyle ilişkilidir?",
+    "explanation": "Boeuf bourguignon, Fransız mutfağında Burgonya bölgesiyle ilişkilendirilen klassik bir et yemeğidir. Kırmızı şarap ve mantarla pişirilir.",
+    "options": [
+      "Burgonya (Bourgogne)",
+      "Normandi",
+      "Provans",
+      "Loz"
+    ],
+    "correctAnswer": "Burgonya (Bourgogne)",
+    "tags": [
+      "MUTFAK-Fransız Mutfağı",
+      "Yemekler",
+      "Bölgesel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uftkkzstv",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "Fransız mutfağının en ikonik pastasından biri olan 'crème brûlée'nun karakteristik özelliği nedir?",
+    "explanation": "Crème brûlée, Fransız mutfağında taze yumurta, süt ve vanilya karışımından yapılmış, fırınlanmış ve üzeri karamelize şeker ile servis edilen meşhur bir tatlıdır.",
+    "options": [
+      "Yüzeyi karamelize edilmiş sert bir şeker tabakası",
+      "Taze meyvelerle servis edilir",
+      "Kahve bazlıdır",
+      "Alkollü içecektir"
+    ],
+    "correctAnswer": "Yüzeyi karamelize edilmiş sert bir şeker tabakası",
+    "tags": [
+      "MUTFAK-Fransız Mutfağı",
+      "Pastalar",
+      "Tatlılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0rdm4608j",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Fransız mutfağında 'escargot' (yulaf kurduyu) hangi şekilde pişirilir?",
+    "explanation": "Escargot, Fransız mutfağında sarmal yulaf kurduyunun tereyağına sarımsak, kekik ve diğer baharatlarla karıştırılarak fırınlandığı klasik bir garnitürdür.",
+    "options": [
+      "Tereyağı, sarımsak, kekik ile fırınlanmış",
+      "Haşlanıp soğuk servis edilir",
+      "Marinade edilip tava yapar",
+      "Püresi haline getirilir"
+    ],
+    "correctAnswer": "Tereyağı, sarımsak, kekik ile fırınlanmış",
+    "tags": [
+      "MUTFAK-Fransız Mutfağı",
+      "Garnitürler",
+      "Deniz Ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "flj3cfq14",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Fransız mutfağının 'haute cuisine' (üst düzey mutfak) kavramı hangi dönemde standartlaştı?",
+    "explanation": "Haute cuisine kavramı, 19. yüzyılda Fransız mutfakçısı Marie-Antoine Carême ve Auguste Escoffier tarafından standartlaştırılmış ve modern Fransız mutfağının temelini oluşturmuştur.",
+    "options": [
+      "18. yüzyıl",
+      "19. yüzyıl",
+      "20. yüzyıl",
+      "21. yüzyıl"
+    ],
+    "correctAnswer": "19. yüzyıl",
+    "tags": [
+      "MUTFAK-Fransız Mutfağı",
+      "Tarih",
+      "Gelişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3xxukqtby",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'Bouillabaisse' yemeği hangi deniz ürünü ile ünlüdür?",
+    "explanation": "Bouillabaisse, Fransa'nın Marsilya kentindeki geleneğe uygun bir deniz yemeğidir ve balıklarla pişirilir.",
+    "options": [
+      "Tavuk",
+      "Balık",
+      "Kuzu",
+      "Et"
+    ],
+    "correctAnswer": "Balık",
+    "tags": [
+      "Fransız Mutfağı",
+      "Deniz Ürünleri",
+      "Geleneği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eeytvqo2x",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız pastacılıkta 'Creme Brulee'nin en belirgin özelliği nedir?",
+    "explanation": "Creme Brulee, Fransız mutfağında servis edilen kremalı tatlıdır ve üstündeki kararmış şeker kabuğu ile tanınır.",
+    "options": [
+      "Kremalı yapı",
+      "Kararmış şeker kabuk",
+      "Muz katmanı",
+      "Fındık içi"
+    ],
+    "correctAnswer": "Kararmış şeker kabuk",
+    "tags": [
+      "Fransız Mutfağı",
+      "Pasta",
+      "Teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o2zqve9hz",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağının en meşhur soslarından biri olan 'Beurre Noisette' hangi yağ türü içerir?",
+    "explanation": "Beurre Noisette, Fransız mutfağında tereyağı ile hazırlanan ve badem kokulu meşhur soslardan biridir.",
+    "options": [
+      "Tereyağı",
+      "Zeytinyağı",
+      "Keten tohumu yağı",
+      "Ayçiçeği yağı"
+    ],
+    "correctAnswer": "Tereyağı",
+    "tags": [
+      "Fransız Mutfağı",
+      "Soslar",
+      "Yağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "owkatwa3l",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız yemek kültüründe 'Escargot' yemeği hangi deniz kabuğunun içine yerleştirilir?",
+    "explanation": "Escargot, Fransız mutfağında deniz kabuğunun içine yerleştirilen hirçin mantarı ile ünlü bir gelenektir.",
+    "options": [
+      "Somon",
+      "Deniz salatası",
+      "Hirçin mantarı",
+      "Izgara et"
+    ],
+    "correctAnswer": "Hirçin mantarı",
+    "tags": [
+      "Fransız Mutfağı",
+      "Geleneği",
+      "Deniz Ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "649g7ayfm",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'Ratatouille' yemeği hangi sebeye dayanır?",
+    "explanation": "Ratatouille, Fransız mutfağında domates, biber ve patlıcan gibi sebzelerle hazırlanan geleneksel bir sebze yemeğidir.",
+    "options": [
+      "Biber",
+      "Domates",
+      "Patlıcan",
+      "Hepsi"
+    ],
+    "correctAnswer": "Hepsi",
+    "tags": [
+      "Fransız Mutfağı",
+      "Sebze Yemekleri",
+      "Geleneği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r4wdydgfd",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "Which French region is famously associated with the production of Roquefort cheese?",
+    "explanation": "Roquefort is a blue cheese produced in the Aveyron department of the Auvergne region, known for its cave aging process.",
+    "options": [
+      "Alsace",
+      "Aquitaine",
+      "Auvergne",
+      "Brittany"
+    ],
+    "correctAnswer": "Auvergne",
+    "tags": [
+      "French Cuisine",
+      "Cheese",
+      "Regions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vv3v7j9nq",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "What is the traditional French method for preparing escargot?",
+    "explanation": "Escargot is typically served as cooked snails in a garlic-butter sauce, often prepared in their shells.",
+    "options": [
+      "Poached with garlic butter",
+      "Grilled with herbs",
+      "Baked in clay pots",
+      "Sautéed with parsley"
+    ],
+    "correctAnswer": "Poached with garlic butter",
+    "tags": [
+      "French Cuisine",
+      "Seafood",
+      "Dishes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vs43c3tvd",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which ingredient is essential for making French onion soup?",
+    "explanation": "Traditional French onion soup includes caramelized onions, beef broth, and tomato paste for depth of flavor.",
+    "options": [
+      "Tomato paste",
+      "Shallots",
+      "Red wine",
+      "Parmesan cheese"
+    ],
+    "correctAnswer": "Tomato paste",
+    "tags": [
+      "French Cuisine",
+      "Soups",
+      "Ingredients"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xpeq24xq2",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "What distinguishes a French 'entremets' from a standard dessert?",
+    "explanation": "'Entremets' originally referred to elaborate dishes served between courses, often featuring complex compositions like mousses or terrines.",
+    "options": [
+      "It is served with meat",
+      "It is an elaborate multi-course dish",
+      "It uses only fruits",
+      "It is always cold"
+    ],
+    "correctAnswer": "It is an elaborate multi-course dish",
+    "tags": [
+      "French Cuisine",
+      "Culinary Terms",
+      "Dishes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "woxzyaxlz",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Which French sauce is made by reducing wine and butter with herbs?",
+    "explanation": "Velouté is a classic French sauce made by thickening a white stock with reduced wine and butter, though the standard version uses roux.",
+    "options": [
+      "Béchamel",
+      "Velouté",
+      "Espagnole",
+      "Hollandaise"
+    ],
+    "correctAnswer": "Velouté",
+    "tags": [
+      "French Cuisine",
+      "Sauces",
+      "Ingredients"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vbeilw2m7",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında en ünlü pastalardan biri olan 'Croquembouche' hangi malzemeden hazırlanır?",
+    "explanation": "Croquembouche, Fransız mutfağında karamel ile tutulan beyaz şeker kürelerinden (choux) oluşan geleneksel tatlıdır. Genellikle düğünlerde ve özel etkinliklerde servis edilir.",
+    "options": [
+      "A) Beyaz şeker ve krema",
+      "B) Tatlı hamuru ve çikolata",
+      "C) Karamel ve tatlı içecek",
+      "D) Muz ve karamelize şeker"
+    ],
+    "correctAnswer": "A) Beyaz şeker ve krema",
+    "tags": [
+      "Fransız Mutfağı",
+      "Tatlılar",
+      "Kafeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wwrogn5g5",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız yemeklerinde 'Mirepoix' karışımı hangi sebzelerden oluşur?",
+    "explanation": "Mirepoix, Fransız mutfağında temel soslar için kullanılan soğan, havuç ve pırasadan oluşan aromatik karışımdır. Genellikle tencere yemeklerinde kullanılır.",
+    "options": [
+      "A) Soğan, havuç, ıspanak",
+      "B) Soğan, havuç, pırasa",
+      "C) Biber, domates, soğan",
+      "D) Patates, havuç, kereviz"
+    ],
+    "correctAnswer": "B) Soğan, havuç, pırasa",
+    "tags": [
+      "Fransız Mutfağı",
+      "Yemek Hazırlığı",
+      "Sebzeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xx5rk469k",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'Bouillabaisse' hangi bölgeden gelen ünlü bir yemektir?",
+    "explanation": "Bouillabaisse, Fransız mutfağında Marsilya bölgesinden gelen geleneksel balık yemeğidir. Genellikle limon sosu ve rouille ile servis edilir.",
+    "options": [
+      "A) Normandiya",
+      "B) Fransa'nın güneyi (Marsilya)",
+      "C) Bretonya",
+      "D] Lorraine"
+    ],
+    "correctAnswer": "B) Fransa'nın güneyi (Marsilya)",
+    "tags": [
+      "Fransız Mutfağı",
+      "Deniz Ürünleri",
+      "Geleneksel Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "od5uikgau",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız pastacılığında 'Tarte Tatin' nasıl hazırlanır?",
+    "explanation": "Tarte Tatin, Fransız mutfağında altının karamelleştirilmiş elma ve hamurdan yapılan geleneksel tatlıdır. Genellikle düz tencerede pişirilir.",
+    "options": [
+      "A) Üstü karamelize olan elma tarts",
+      "B) Altı karamelize olan elma tarts",
+      "C) Çikolata ile kaplı tarts",
+      "D) Muzlu karamel tarts"
+    ],
+    "correctAnswer": "B) Altı karamelize olan elma tarts",
+    "tags": [
+      "Fransız Pastacılığı",
+      "Elmalı Tartlar",
+      "Geleneksel Tatlılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ogc17511s",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'Ratatouille' hangi sebzelerden oluşur?",
+    "explanation": "Ratatouille, Fransız mutfağında patlıcan, biber, domates, kabak ve soğan gibi sebzelerden oluşan geleneksel yemektir. Niçoise bölgesinden gelmektedir.",
+    "options": [
+      "A) Biber, domates, karnabahar",
+      "B) Havuç, soğan, patates",
+      "C) Biber, domates, zeytin",
+      "D) Patlıcan, biber, domates"
+    ],
+    "correctAnswer": "D) Patlıcan, biber, domates",
+    "tags": [
+      "Fransız Mutfağı",
+      "Sebzeli Yemekler",
+      "Söğüşlü Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fw2a17v82",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "Fransız mutfağının en ikonik ve dünya çapında bilinen yemeği aşağıdakilerden hangisidir?",
+    "explanation": "Croissant, Fransız mutfağının en meşhur yemeği olarak bilinir ve Paris ile özdeşleşmiştir.",
+    "options": [
+      "Croissant",
+      "Ratatouille",
+      "Steak Frites",
+      "Coq au Vin"
+    ],
+    "correctAnswer": "Croissant",
+    "tags": [
+      "Fransız Mutfağı",
+      "Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yu7rev0yw",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'Mirepoix' adlı temel sos yapımında kullanılan sebzeler hangileridir?",
+    "explanation": "Mirepoix Fransız mutfağında temel sos yapımında kereviz, soğan ve havuç kullanılarak hazırlanır.",
+    "options": [
+      "Soğan, Sarımsak, Havuç",
+      "Kereviz, Soğan, Havuç",
+      "Biber, Domates, Salatalık",
+      "Patates, Yumurta, Maydanoz"
+    ],
+    "correctAnswer": "Kereviz, Soğan, Havuç",
+    "tags": [
+      "Fransız Mutfağı",
+      "Soslar",
+      "Sebzeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u9vf5u1lh",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağında 'Sous Vide' tekniği neyi ifade eder?",
+    "explanation": "Sous Vide, Fransız mutfağında gıdaları düşük sıcaklıkta vakumlu kabuk içinde pişirme tekniğidir.",
+    "options": [
+      "Düşük sıcaklıkta vakumlu pişirme",
+      "Yüksek ateşte hızlı pişirme",
+      "Taze malzemeler kullanımı",
+      "Soslu yemek hazırlama"
+    ],
+    "correctAnswer": "Düşük sıcaklıkta vakumlu pişirme",
+    "tags": [
+      "Fransız Mutfağı",
+      "Pişirme Tekniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "531hcyxkc",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağının en ünlü şarap bölgelerinden biri hangisidir?",
+    "explanation": "Bordeaux, Fransız mutfağında ünlü şarap üretim bölgelerinden biridir ve kırmızı şarap ile meşhurdur.",
+    "options": [
+      "Napa Valley",
+      "Tuscany",
+      "Bordeaux",
+      "Rioja"
+    ],
+    "correctAnswer": "Bordeaux",
+    "tags": [
+      "Fransız Mutfağı",
+      "Şarap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ioxuy6tlc",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Fransız mutfağında 'Rillettes' nedir?",
+    "explanation": "Rillettes, Fransız mutfağında pişmiş et veya balık, zeytinyağı ve baharatlarla hazırlanan özel bir yemektir.",
+    "options": [
+      "Taze sebze salatası",
+      "Pişmiş et balık, zeytinyağı sosunda",
+      "Yumurta tabakları",
+      "Mantar sosu"
+    ],
+    "correctAnswer": "Pişmiş et balık, zeytinyağı sosunda",
+    "tags": [
+      "Fransız Mutfağı",
+      "Özel Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cwtfxkuo5",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağındaki en meşhur soslardan biri olan 'Béarnaise Sosu' hangi temel malzemeden yapılmıştır?",
+    "explanation": "Béarnaise Sosu, Fransız mutfağında taze sarımsık, beyaz şarap, karabiber ve tereyağı ile hazırlanan klasik bir sosdur.",
+    "options": [
+      "Sarımsak ve Tereyağı",
+      "Taze Sarımsık ve Beyaz Şarap",
+      "Köri ve Limon Suyu",
+      "Salatalık ve Soğan"
+    ],
+    "correctAnswer": "Taze Sarımsık ve Beyaz Şarap",
+    "tags": [
+      "Fransız Mutfağı",
+      "Soslar",
+      "Yemek Tarifleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tdufpvbd0",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "Fransız mutfağının sembolik yemeği olarak kabul edilen 'Croissant' hangi şehirle özdeşleşmiştir?",
+    "explanation": "Croissant, Fransız mutfağının en ikonik ürünlerinden biri olup özellikle Paris ile özdeşleşmiş bir yemektir.",
+    "options": [
+      "Lyon",
+      "Marsilya",
+      "Paris",
+      "Nancy"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "Fransız Mutfağı",
+      "Kahvaltılık",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8bba1vyvf",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağındaki 'Coq au Vin' yemeği hangi şarapla pişirilir?",
+    "explanation": "Coq au Vin, Fransız mutfağında tavuk ve kırmızı şarabın bir arada pişirildiği geleneksel bir yemektir.",
+    "options": [
+      "Beyaz Şarap",
+      "Kırmızı Şarap",
+      "Şampanya",
+      "Sakız"
+    ],
+    "correctAnswer": "Kırmızı Şarap",
+    "tags": [
+      "Fransız Mutfağı",
+      "Ana Yemekler",
+      "Şarap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yiyywrsfd",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "EASY",
+    "question": "Fransız mutfağındaki 'Fondü' yemeği hangi malzemenin eritilmesiyle yapılır?",
+    "explanation": "Fondü, İsviçre kökenli olsa da Fransız mutfağında yaygın olarak tüketilen, erimiş peynir tabakalı geleneksel bir yemektir.",
+    "options": [
+      "Peynir",
+      "Şeker",
+      "Tereyağı",
+      "Buz"
+    ],
+    "correctAnswer": "Peynir",
+    "tags": [
+      "Fransız Mutfağı",
+      "Sosyal Yemekler",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "frf8yukoa",
+    "category": "MUTFAK",
+    "subcategory": "Fransız Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağındaki 'Ratatouille' hangi sebzenin ana malzemesidir?",
+    "explanation": "Ratatouille, Fransız mutfağında patlıcan, kabak, domates ve biber gibi sebzenlerin pişirildiği klasik bir sebze yemeğidir.",
+    "options": [
+      "Patlıcan",
+      "Mısır",
+      "Kavun",
+      "Pazı"
+    ],
+    "correctAnswer": "Patlıcan",
+    "tags": [
+      "Fransız Mutfağı",
+      "Sebzeler",
+      "Tarifler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

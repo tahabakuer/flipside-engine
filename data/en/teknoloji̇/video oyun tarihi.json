@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "ux70le41n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EASY",
+    "question": "What was the first commercial home video game console released in 1972?",
+    "explanation": "The Magnavox Odyssey, developed by Ralph Baer, was the first home console released in 1972, preceding all other major systems.",
+    "options": [
+      "Atari 2600",
+      "Magnavox Odyssey",
+      "Nintendo Entertainment System",
+      "Sega Master System"
+    ],
+    "correctAnswer": "Magnavox Odyssey",
+    "tags": [
+      "Consoles",
+      "Home Gaming"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fo65vfevm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Which arcade game is considered one of the earliest and most commercially successful titles in the 1970s?",
+    "explanation": "Pong, released by Atari in 1972, was a groundbreaking arcade game that demonstrated the commercial viability of video games.",
+    "options": [
+      "Pac-Man",
+      "Space Invaders",
+      "Pong",
+      "Donkey Kong"
+    ],
+    "correctAnswer": "Pong",
+    "tags": [
+      "Arcade Games",
+      "1970s Gaming"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7kxi1utg0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "What was significant about Wolfenstein 3D when it was released in 1992?",
+    "explanation": "Wolfenstein 3D utilized ray casting techniques to create the illusion of 3D environments, marking a major step in graphical development.",
+    "options": [
+      "It introduced 3D graphics to gaming",
+      "It was the first multiplayer game",
+      "It launched the FPS genre on consoles",
+      "It used advanced AI for enemies"
+    ],
+    "correctAnswer": "It introduced 3D graphics to gaming",
+    "tags": [
+      "PC Gaming",
+      "3D Graphics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hp6k0n5nh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Which decade is most commonly associated with the transition from arcade games to home consoles?",
+    "explanation": "The 1980s saw the rise of home consoles like the NES and Sega Master System, shifting gaming from arcades to households.",
+    "options": [
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "correctAnswer": "1980s",
+    "tags": [
+      "Gaming History",
+      "Consoles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h1jdszxcg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "What milestone was achieved with the release of Ultima Online in 1997?",
+    "explanation": "Ultima Online pioneered the massively multiplayer online role-playing genre, setting standards for persistent online worlds.",
+    "options": [
+      "First MMORPG",
+      "First multiplayer shooter",
+      "First online console game",
+      "First VR gaming experience"
+    ],
+    "correctAnswer": "First MMORPG",
+    "tags": [
+      "MMORPG",
+      "Online Gaming"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ragm0hup8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Which company released the first home video game console in 1972?",
+    "explanation": "Magnavox released the Odyssey, the first home video game console in 1972. While Magnavox held the patents for the underlying technology, Atari later manufactured and marketed similar systems.",
+    "options": [
+      "Atari",
+      "Magnavox",
+      "Nintendo",
+      "Sony"
+    ],
+    "correctAnswer": "Magnavox",
+    "tags": [
+      "arcade-history",
+      "console-history",
+      "1970s"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fgrq5j7yw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EASY",
+    "question": "What was the name of the arcade cabinet that introduced Donkey Kong in 1981?",
+    "explanation": "The arcade cabinet was literally named 'Donkey Kong' when it launched in 1981. This game introduced Mario as Jumpman and saved Nintendo from bankruptcy.",
+    "options": [
+      "Nintendo System",
+      "Donkey Kong",
+      "Arcade Classic",
+      "Video Game"
+    ],
+    "correctAnswer": "Donkey Kong",
+    "tags": [
+      "arcade-history",
+      "1980s",
+      "nintendo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5jpf0tf5o",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Which console revolutionized gaming with the introduction of CD-ROM media in 1995?",
+    "explanation": "Sony's PlayStation, released in 1995 in Japan, was the first console to use CD-ROM media, which enabled full-motion video and larger game files.",
+    "options": [
+      "PlayStation",
+      "Sega Genesis",
+      "Nintendo 64",
+      "Atari Jaguar"
+    ],
+    "correctAnswer": "PlayStation",
+    "tags": [
+      "console-history",
+      "cd-rom",
+      "1990s"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jo1qiwqpv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "What year did the Game Boy launch, introducing portable gaming?",
+    "explanation": "Nintendo's Game Boy was released in Japan in 1989 and later worldwide. It became the best-selling handheld console with over 118 million units sold.",
+    "options": [
+      "1988",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "portable-gaming",
+      "nintendo",
+      "1980s"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4lu9q29bp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Which game is credited with popularizing the fighting game genre when it was released as an arcade cabinet in 1993?",
+    "explanation": "Street Fighter II, released in 1993, revolutionized fighting games with its combo system and introduced many iconic characters, becoming one of the best-selling arcade games ever.",
+    "options": [
+      "Street Fighter II",
+      "Mortal Kombat",
+      "Tekken",
+      "Soulcalibur"
+    ],
+    "correctAnswer": "Street Fighter II",
+    "tags": [
+      "arcade-history",
+      "fighting-games",
+      "1990s"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ddu8b6s2q",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl Nintendo Entertainment System (NES) Amerika Birleşik Devletleri'nde piyasaya sürüldü?",
+    "explanation": "Nintendo Entertainment System (NES), 1983 yılında Japonya'da Famicom ismiyle tanıtıldıktan sonra, Amerika Birleşik Devletleri'nde 1985 yılında resmi olarak piyasaya sürüldü.",
+    "options": [
+      "1983",
+      "1985",
+      "1987",
+      "1989"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "video oyun tarihi",
+      "NES",
+      "Nintendo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "341dx7ja6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi video oyunu 'Game Boy Advance' konsolu için özel olarak geliştirilmiştir?",
+    "explanation": "Pokémon Ruby ve Sapphire, Game Boy Advance konsolu için özel olarak geliştirilmiş ilk Pokémon oyunlarıdır ve 2002 yılında piyasaya sürülmüşlerdir.",
+    "options": [
+      "Super Mario Bros.",
+      "Tetris",
+      "Pokémon Ruby/Sapphire",
+      "Pac-Man"
+    ],
+    "correctAnswer": "Pokémon Ruby/Sapphire",
+    "tags": [
+      "video oyun tarihi",
+      "Game Boy Advance",
+      "Pokemon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "idt8y66ml",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangi şirket PlayStation 3 (PS3) konsolunu üretmiştir?",
+    "explanation": "PlayStation 3 (PS3), Sony Interactive Entertainment tarafından üretildiği ve 2006 yılında piyasaya sürüldüğü bilinen bir PlayStation nesil video oyunu konsoludur.",
+    "options": [
+      "Microsoft",
+      "Sony",
+      "Nintendo",
+      "Sega"
+    ],
+    "correctAnswer": "Sony",
+    "tags": [
+      "video oyun tarihi",
+      "PlayStation",
+      "konsol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "px2tcb4hp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi video oyunu 'Atari' konsolu için en çok satan oyunlardan biri olmuştur?",
+    "explanation": "Pong, Atari tarafından 1972 yılında piyasaya sürülen ve video oyunu tarihinin en ikonik oyunlarından biri olan arcade oyunu olmuştur.",
+    "options": [
+      "Space Invaders",
+      "Pong",
+      "Asteroids",
+      "Battlezone"
+    ],
+    "correctAnswer": "Pong",
+    "tags": [
+      "video oyun tarihi",
+      "Atari",
+      "klasik oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hjlnonkxn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Hangi yıl 'The Legend of Zelda: Ocarina of Time' GameCube konsolu için ilk kez yayınlandı?",
+    "explanation": "The Legend of Zelda: Ocarina of Time, 1998 yılında Nintendo 64 konsolu için piyasaya sürülmüş olup, daha sonra GameCube konsolu için de yayınlanmıştır.",
+    "options": [
+      "1996",
+      "1997",
+      "1998",
+      "1999"
+    ],
+    "correctAnswer": "1998",
+    "tags": [
+      "video oyun tarihi",
+      "Zelda",
+      "GameCube"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b3xwhk1bg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EASY",
+    "question": "What year is widely considered the birth of commercial video games?",
+    "explanation": "The first commercial coin-operated video game, Computer Space (1970) and Nolan Bushnell's Pong arcade (1972), with the industry formally starting in 1971 when Syzygy Research began developing games for arcades.",
+    "options": [
+      "1962",
+      "1971",
+      "1977",
+      "1982"
+    ],
+    "correctAnswer": "1971",
+    "tags": [
+      "video game history",
+      "arcade",
+      "technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ensoe51dg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Which company released the iconic 'Pac-Man' arcade game that revolutionized video game culture?",
+    "explanation": "Pac-Man was developed and released by Namco in Japan in 1980, becoming one of the most recognizable and influential arcade games in history.",
+    "options": [
+      "Atari",
+      "Namco",
+      "Nintendo",
+      "Sega"
+    ],
+    "correctAnswer": "Namco",
+    "tags": [
+      "arcade games",
+      "video game history",
+      "iconic titles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bb263rmbb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "What console is credited with popularizing home video gaming in the United States during the 1970s?",
+    "explanation": "The Magnavox Odyssey, released in 1972 by Ralph Baer, was the first commercial home video game console and is credited with bringing interactive gaming into American homes.",
+    "options": [
+      "Atari 2600",
+      "Magnavox Odyssey",
+      "ColecoVision",
+      "Fairchild Channel F"
+    ],
+    "correctAnswer": "Magnavox Odyssey",
+    "tags": [
+      "home consoles",
+      "video game history",
+      "racing technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4upal6u6k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Which 1983 event caused a major decline in the US video game market?",
+    "explanation": "The 1983 video game crash was triggered by the poor quality of Atari's E.T. cartridge for the Atari 2600, which became a symbol of market saturation and led to widespread retailer distrust.",
+    "options": [
+      "Nintendo's Famicom release",
+      "Atari's E.T. cartridge quality issues",
+      "Sega Genesis launch",
+      "PlayStation introduction"
+    ],
+    "correctAnswer": "Atari's E.T. cartridge quality issues",
+    "tags": [
+      "video game industry",
+      "1983 crisis",
+      "technology impact"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d4x3pt9hc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "What technological advancement in the early 1990s helped popularize 3D graphics in video games?",
+    "explanation": "The introduction of polygon-based 3D engines in the early 1990s, exemplified by games like Doom (1993) and Wolfenstein 3D (1992), revolutionized video game graphics and paved the way for modern 3D gaming.",
+    "options": [
+      "Ray tracing",
+      "Polygon-based 3D engines",
+      "Voxel rendering",
+      "Shader programming"
+    ],
+    "correctAnswer": "Polygon-based 3D engines",
+    "tags": [
+      "3D graphics",
+      "video game technology",
+      "polygon rendering"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8aqy253wi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Hangi yıl ilk ticari video oyunu konsolu Atari 2600 piyasaya sürülmüştür?",
+    "explanation": "Atari 2600, ilk kez 1977 yılında ticari olarak piyasaya sürülmüş olup, ev video oyunu tarihinin en önemli konsollarından biridir.",
+    "options": [
+      "1977",
+      "1982",
+      "1984",
+      "1979"
+    ],
+    "correctAnswer": "1977",
+    "tags": [
+      "Video Oyun Tarihi",
+      "Atari",
+      "Konsol Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8lrxcq961",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Pong adlı video oyununun ilk versiyonu hangi konsolda çalışıyordu?",
+    "explanation": "Pong, ilk kez 1972 yılında Atari'nin Home Pong adlı konsolunda piyasaya sürülmüş olup video oyunu tarihinin en ikonik oyunlarından biridir.",
+    "options": [
+      "Atari Home Pong",
+      "Nintendo Entertainment System",
+      "Magnavox Odyssey 2",
+      "ColecoVision"
+    ],
+    "correctAnswer": "Atari Home Pong",
+    "tags": [
+      "Video Oyun Tarihi",
+      "Pong",
+      "İlk Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dia6ajqo0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Nintendo Entertainment System (NES) hangi yıl Japonya'da piyasaya sürülmüştür?",
+    "explanation": "NES, 1983 yılında Japonya'da ilk kez piyasaya sürülmüş olup video oyunu endüstrisinin 'video oyun krizi'nden sonra kurtarıcı konsoldur.",
+    "options": [
+      "1983",
+      "1985",
+      "1987",
+      "1989"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "Video Oyun Tarihi",
+      "Nintendo",
+      "NES"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "euer7bfbm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi video oyunu tarihin en uzun süreli ve en çok satan konsolu olmuştur?",
+    "explanation": "PlayStation serisi, özellikle PlayStation 2 ile video oyunu tarihinin en çok satan konsolu olmuştur ve on yıllar boyu marketi domine etmiştir.",
+    "options": [
+      "PlayStation",
+      "Xbox 360",
+      "GameCube",
+      "Nintendo DS"
+    ],
+    "correctAnswer": "PlayStation",
+    "tags": [
+      "Video Oyun Tarihi",
+      "PlayStation",
+      "Konsol Satışları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4wk7io5qh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Magnavox Odyssey hangi yıl ilk ticari video oyunu konsolu olarak piyasaya sürülmüştür?",
+    "explanation": "Magnavox Odyssey, 1968 yılında ilk ticari video oyunu konsolu olarak piyasaya sürülmüş olup ev video oyunu tarihinin babası kabul edilir.",
+    "options": [
+      "1968",
+      "1972",
+      "1975",
+      "1970"
+    ],
+    "correctAnswer": "1968",
+    "tags": [
+      "Video Oyun Tarihi",
+      "Magnavox",
+      "İlk Konsol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l6v6aum0e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İlk dijital video oyunu olarak kabul edilen 'Spacewar!' hangi yıl geliştirildi?",
+    "explanation": "Spacewar!, Steve Russell tarafından Stanford Üniversitesi'nde 1962 yılında PDP-1 bilgisayarında geliştirilen ilk interaktif dijital video oyundur.",
+    "options": [
+      "1958",
+      "1962",
+      "1971",
+      "1978"
+    ],
+    "correctAnswer": "1962",
+    "tags": [
+      "video oyun tarihi",
+      "Spacewar",
+      "ilk video oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2wm92vh4k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Nintendo şirketinin resmi olarak hangi yıl kuruldu?",
+    "explanation": "Nintendo 1889 yılında Tokyo'da kart oyunu imalatı ve dağıtımı ile kuruldu, daha sonra video oyun sektörüne girdi.",
+    "options": [
+      "1889",
+      "1902",
+      "1954",
+      "1963"
+    ],
+    "correctAnswer": "1889",
+    "tags": [
+      "Nintendo",
+      "video oyun tarihi",
+      "şirketler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cuulj3xb2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "PlayStation 2 konsolu hangi yıl piyasaya sürüldü?",
+    "explanation": "Sony PlayStation 2, 17 Mart 2000 tarihinde Japonya'da resmi olarak piyasaya sürüldü ve en çok satan video oyun konsoluydu.",
+    "options": [
+      "1998",
+      "2000",
+      "2003",
+      "2005"
+    ],
+    "correctAnswer": "2000",
+    "tags": [
+      "PlayStation 2",
+      "video oyun tarihi",
+      "konsollar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "omtdgjukw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İlk üç boyutlu (3D) grafikli video oyunu hangi yıl çıkmıştır?",
+    "explanation": "Tekken (1994) ve önceki dönemdeki bazı oyunlar 3D grafik kullandı, ancak ilk 3D grafikli oyun 1992 yılında Super FX kartı ile piyasaya çıktı.",
+    "options": [
+      "1980",
+      "1985",
+      "1992",
+      "1996"
+    ],
+    "correctAnswer": "1992",
+    "tags": [
+      "3D grafikler",
+      "video oyun tarihi",
+      "Tékken"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4cl5vegud",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atari şirketinin hangi oyunu 1972'de geliştirdi ve video oyun endüstrisinin başlangıcı sayılır?",
+    "explanation": "Atari 1972 yılında Pong adlı tenis oyunu geliştirdi ve bu, ticari video oyun endüstrisinin resmi başlangıcı olarak kabul edilir.",
+    "options": [
+      "Pong",
+      "Space Invaders",
+      "Donkey Kong",
+      "Super Mario"
+    ],
+    "correctAnswer": "Pong",
+    "tags": [
+      "Atari",
+      "Pong",
+      "video oyun tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "na8pow31g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İlk ticari ev video oyunu konsolu olarak kabul edilen cihaz hangisidir?",
+    "explanation": "1972 yılında piyasaya sürülen Magnavox Odyssey, ticari ev video oyunu konsolu olarak kabul edilen ilk cihazdır.",
+    "options": [
+      "Atari 2600",
+      "Magnavox Odyssey",
+      "Sega Master System",
+      "Nintendo Famicom"
+    ],
+    "correctAnswer": "Magnavox Odyssey",
+    "tags": [
+      "video oyun",
+      "tarih",
+      "konsol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7f02z7pzj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EASY",
+    "question": "Sony PlayStation'ın ilk nesil konsolu hangi yıl Japonya'da satışa sunuldu?",
+    "explanation": "Sony PlayStation'ın ilk sürümü 24 Eylül 1994 tarihinde Japonya'da satışa sunuldu.",
+    "options": [
+      "1990",
+      "1993",
+      "1994",
+      "1996"
+    ],
+    "correctAnswer": "1994",
+    "tags": [
+      "playstation",
+      "japon teknolojisi",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qfk1r1m4z",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Nintendo Famicom (NES) Batı pazarına hangi yıl giriş yaptı?",
+    "explanation": "Nintendo Famicom, Japonya'da 1983'te, ancak Batı pazarında (NES olarak) 1985 yılında satışa sunuldu.",
+    "options": [
+      "1980",
+      "1985",
+      "1990",
+      "1995"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "nintendo",
+      "nes",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x4089n6kt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EASY",
+    "question": "İlk el yapımı video oyun konsolu Game Boy hangi yıl piyasaya sürüldü?",
+    "explanation": "Nintendo Game Boy, 21 Nisan 1989 tarihinde Japonya'da ve ardından diğer bölgelerde satışa sunuldu.",
+    "options": [
+      "1985",
+      "1989",
+      "1992",
+      "1995"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "handheld",
+      "game boy",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8wrwrus14",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Atari Pong'un ilk ticari arcade versiyonu hangi yıl yayınlandı?",
+    "explanation": "Atari Pong, 1972 yılında piyasaya sürüldü ve video oyun tarihinin en önemli başyapıtlarından biri olarak kabul edilir.",
+    "options": [
+      "1970",
+      "1972",
+      "1975",
+      "1980"
+    ],
+    "correctAnswer": "1972",
+    "tags": [
+      "atari",
+      "pong",
+      "arade oyunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nj430q0dx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İlk ticari evrensel video oyunu 'Pong' hangi şirkette 1972 yılında piyasaya sürülmüştür?",
+    "explanation": "Pong, Atari tarafından 1972 yılında piyasaya sürülen ilk ticari video oyunudur. Bu oyun masaüstü tenis simülasyonu olarak bilinir ve video oyun tarihinin en önemli başlangıç noktalarından biridir.",
+    "options": [
+      "Atari",
+      "Nintendo",
+      "Sega",
+      "Sony"
+    ],
+    "correctAnswer": "Atari",
+    "tags": [
+      "video oyun tarihi",
+      "Pong",
+      "Atari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qwan1zqgx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Nintendo hangi yıl Nintendo Entertainment System (NES) konsolunu ABD'ye getirdi?",
+    "explanation": "NES (Nintendo Entertainment System), Nintendo tarafından 1985 yılında ABD'ye getirildi. Bu konsol, video oyun endüstrisini 'video oyun krizi'nden kurtardı ve modern video oyunlarının temellerini attı.",
+    "options": [
+      "1983",
+      "1985",
+      "1987",
+      "1989"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "NES",
+      "Nintendo",
+      "konsol tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l2qr6qtw3",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "'The Legend of Zelda' serisinin ilk oyunu hangi platformda yayınlandı?",
+    "explanation": "The Legend of Zelda, 1986 yılında Nintendo Entertainment System (NES) platformunda yayınlandı. Bu oyun, Nintendo tarafından geliştirilen ve dünya çapında çok satan bir açık dünya RPG serisinin ilk parçasıdır.",
+    "options": [
+      "Nintendo Entertainment System",
+      "PlayStation",
+      "Game Boy",
+      "Sega Genesis"
+    ],
+    "correctAnswer": "Nintendo Entertainment System",
+    "tags": [
+      "Legend of Zelda",
+      "NES",
+      "video oyun serisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "recqk9n5c",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi video oyunu, 1970'lerde ilk kez 'Space Invaders' adıyla piyasaya sürüldü?",
+    "explanation": "Space Invaders, 1978 yılında Taito şirketi tarafından piyasaya sürülen arcade video oyunudur. Bu oyun, arcade oyunu endüstrisinde devrim yarattı ve video oyun tarihinin en ikonik oyunlarından biridir.",
+    "options": [
+      "Taito",
+      "Namco",
+      "Konami",
+      "Bandai"
+    ],
+    "correctAnswer": "Taito",
+    "tags": [
+      "Space Invaders",
+      "arcade",
+      "video oyun tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ze9jrkef",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Hangi şirket, PlayStation serisini 1994 yılında ilk kez piyasaya sürdü?",
+    "explanation": "PlayStation serisi, Sony tarafından 1994 yılında ilk kez Japonya'da piyasaya sürüldü. PlayStation (PS1), 32-bit oyun döneminin önemli bir temsilcisiydi ve modern video oyun endüstrisinin gelişimine büyük katkı sağladı.",
+    "options": [
+      "Atari",
+      "Sega",
+      "Sony",
+      "Nintendo"
+    ],
+    "correctAnswer": "Sony",
+    "tags": [
+      "PlayStation",
+      "Sony",
+      "PS1 konsol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4hrfjwe01",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EASY",
+    "question": "İlk ticari video oyun konsolu olarak kabul edilen cihaz hangisidir?",
+    "explanation": "1972 yılında piyasaya sürülen Magnavox Odyssey, ticari olarak üretilen ilk video oyun konsoluydu. Atari 2600 ise 1980'lerin başında popülerleşmiştir.",
+    "options": [
+      "Magnavox Odyssey",
+      "Atari 2600",
+      "Intellivision",
+      "Sega Master System"
+    ],
+    "correctAnswer": "Magnavox Odyssey",
+    "tags": [
+      "video oyun tarihi",
+      "konsol",
+      "donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r5jxeghjm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "'Pong' adlı ilk büyük ekran video oyunu hangi şirket tarafından geliştirilmiştir?",
+    "explanation": "Nolan Bushnell ve Ted Dabney tarafından kurulan Atari şirketi, 1972 yılında 'Pong' oyununu ticari olarak yayınlamıştır. Bu oyun video oyunlarının popülerleşmesinde kritik rol oynamıştır.",
+    "options": [
+      "Nintendo",
+      "Sony",
+      "Atari",
+      "Microsoft"
+    ],
+    "correctAnswer": "Atari",
+    "tags": [
+      "Pong",
+      "Atari",
+      "oyun tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vg2uld1hd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Ev ortamında gerçek zamanlı üç boyutlu (3D) grafik teknolojisini ilk kez destekleyen ana konsol hangisidir?",
+    "explanation": "1994 yılında Japonya'da ve 1995 yılında ABD'de çıkan Sony PlayStation, ev konsollarında gerçek poligon bazlı 3D grafikleri kullanan ilk ana cihazlardan biri olarak kabul edilir.",
+    "options": [
+      "Nintendo 64",
+      "Sega Saturn",
+      "Sony PlayStation",
+      "GameCube"
+    ],
+    "correctAnswer": "Sony PlayStation",
+    "tags": [
+      "3D grafik",
+      "PlayStation",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bwbzd3zan",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Nintendo Entertainment System (NES) adıyla ABD pazarına çıktığı yıl hangisidir?",
+    "explanation": "NES (Japonya'da Famicom ismiyle) 1983 yılında Japonya'ya, ancak ABD pazarına video oyun krizi sonrası 1985 yılında yeniden piyasaya sürülmüştür.",
+    "options": [
+      "1983",
+      "1985",
+      "1987",
+      "1990"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "NES",
+      "Nintendo",
+      "lansman tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q3jiztzx9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Nintendo Game Boy'un ilk satış yılı nedir?",
+    "explanation": "Game Boy, 4. Mart 1989 tarihinde Japonya'da ilk kez tanıtılmış ve dünya çapında büyük bir el konsolu devrimine imza atmıştır.",
+    "options": [
+      "1988",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "Game Boy",
+      "Nintendo",
+      "dönemsel teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3q5f17unx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl Nintendo Entertainment System (NES) ABD'ye tanıtıldı ve video oyun endüstrisine büyük etki yarattı?",
+    "explanation": "NES (Nintendo Entertainment System), 1983 yılında ABD'de piyasaya sürülen NES'in başarısı, video oyun endüstrisinin toparlanmasına yardımcı oldu ve 'video oyun krizi'nden sonra tekrar büyümeyi başlattı.",
+    "options": [
+      "1983",
+      "1985",
+      "1987",
+      "1990"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "NES",
+      "Nintendo",
+      "Console History",
+      "Video Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mzvup55v7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Video oyun tarihinin en önemli dönüm noktalarından biri olan 'Pong' oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Pong, 1972 yılında Atari tarafından üretilen arcade oyunu ve video oyun tarihinin ilk ticari video oyunlarından biri olarak kabul edilir. John Nutt tarafından tasarlandı.",
+    "options": [
+      "1972",
+      "1974",
+      "1976",
+      "1978"
+    ],
+    "correctAnswer": "1972",
+    "tags": [
+      "Pong",
+      "Atari",
+      "Arcade History",
+      "Video Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2wmk9rngg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangi şirket 1985 yılında Sega Genesis'i (Saturn) piyasaya sürdü?",
+    "explanation": "Sega, 1985 yılında Genesis (Japonya'da Mega Drive) adıyla birinci nesil konsolu piyasaya sürdü. NES ile rekabet etmeyi amaçladı.",
+    "options": [
+      "Sony",
+      "Sega",
+      "Nintendo",
+      "MSI"
+    ],
+    "correctAnswer": "Sega",
+    "tags": [
+      "Sega",
+      "Genesis",
+      "Console Competition",
+      "Video Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xmpflc9ih",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "GENERAL",
+    "question": "'Super Mario Bros.' oyunu Nintendo hangi yıl ve hangi platformda yayınlandı?",
+    "explanation": "Super Mario Bros., 1985 yılında Nintendo Entertainment System (NES) platformunda yayınlandı ve video oyun tarihinin en önemli platform oyunu olarak kabul edilir.",
+    "options": [
+      "1985 - NES",
+      "1987 - SNES",
+      "1990 - Game Boy",
+      "1983 - Famicom"
+    ],
+    "correctAnswer": "1985 - NES",
+    "tags": [
+      "Mario",
+      "Nintendo",
+      "Platformer",
+      "Video Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hg1kc1y77",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Video Oyun Tarihi",
+    "difficulty": "EXPERT",
+    "question": "'Tetris' oyunu hangi yıl piyasaya sürüldü ve hangi konsol/platformda popüler oldu?",
+    "explanation": "Tetris, 1984 yılında Alexey Pajitnov tarafından tasarlandı ve 1986 yılında NES/Famicom konsollarında yayımlandı. Dünyanın en popüler puzzle oyunlarından biri oldu.",
+    "options": [
+      "1984 - Game Boy",
+      "1986 - NES/Famicom",
+      "1988 - SNES",
+      "1990 - PlayStation"
+    ],
+    "correctAnswer": "1986 - NES/Famicom",
+    "tags": [
+      "Tetris",
+      "Alexey Pajitnov",
+      "Puzzle Game",
+      "Video Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

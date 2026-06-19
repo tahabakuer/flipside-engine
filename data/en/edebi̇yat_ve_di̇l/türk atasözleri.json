@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "wf8czoecy",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki atasözü hangisidir: 'İnsanlara iyilik yapan, insanlardan yardım görür.'?",
+    "explanation": "Bu atasözü, karşılıklılık ilkesini anlatır. İnsanlara iyilik yapan kişiye de iyilik beklenir.",
+    "options": [
+      "Yarar görenin yararı vardır.",
+      "İnsanların yardımı vardır.",
+      "İnsanlara iyilik eden, insanlardan yardım görür.",
+      "İyi olanın iyisi vardır."
+    ],
+    "correctAnswer": "İnsanlara iyilik eden, insanlardan yardım görür.",
+    "tags": [
+      "Atasözleri",
+      "İnsaniyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ym95kdc2h",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "'Küçük bir şeyi büyük eder, büyük bir şeyi küçük eder.' diyor bu atasözünde:",
+    "explanation": "Bu atasözü, her şeyin zıt kutuplarının olduğunu ve dengede olduğunuzu ifade eder.",
+    "options": [
+      "Büyüyenin büyüsü vardır.",
+      "Küçüğün küçüğü vardır.",
+      "Her şeyin büyüğü vardır.",
+      "Her şeyin küçüğü vardır."
+    ],
+    "correctAnswer": "Her şeyin büyüğü vardır.",
+    "tags": [
+      "Atasözleri",
+      "Denge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4dmqfcxmr",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "'İnsanların yardımı' ile başlayıp 'Her şeyin büyüğü' diye biten atasözünde ne anlatılmaktadır?",
+    "explanation": "Bu atasözü, her şeyin dengede olduğunu ve ölçünün önemli olduğunu ifade eder.",
+    "options": [
+      "Karşılıklılık ilkesi",
+      "Denge ve ölçü",
+      "Zayıflık ilkesi",
+      "Güçlülük ilkesi"
+    ],
+    "correctAnswer": "Denge ve ölçü",
+    "tags": [
+      "Atasözleri",
+      "Ölçü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "myleij3ds",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "'İnsanların yardımı' ile başlayıp 'Her şeyin büyüğü' diye biten atasözünde ne anlatılmaktadır?:",
+    "explanation": "Bu atasözü, her şeyin dengede olduğunu ve ölçünün önemli olduğunu ifade eder.",
+    "options": [
+      "Karşılıklılık ilkesi",
+      "Denge ve ölçü",
+      "Zayıflık ilkesi",
+      "Güçlülük ilkesi"
+    ],
+    "correctAnswer": "Denge ve ölçü",
+    "tags": [
+      "Atasözleri",
+      "Ölçü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m46qu2wmh",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "'İnsanların yardımı' ile başlayıp 'Her şeyin büyüğü' diye biten atasözünde ne anlatılmaktadır?:",
+    "explanation": "Bu atasözü, her şeyin dengede olduğunu ve ölçünün önemli olduğunu ifade eder.",
+    "options": [
+      "Karşılıklılık ilkesi",
+      "Denge ve ölçü",
+      "Zayıflık ilkesi",
+      "Güçlülük ilkesi"
+    ],
+    "correctAnswer": "Denge ve ölçü",
+    "tags": [
+      "Atasözleri",
+      "Ölçü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "flea9dnrw",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki Türk atasözlerinden hangisi, işi yarım bırakma konusunda uyarı içerir?",
+    "explanation": "\"Yarım işe gücün yetmez\" atasözü, işin tamamına kadar devam etmesi gerektiğini ve yarım bırakıldığında yeterli olmayacağını anlatır.",
+    "options": [
+      "İş başlar başlamaz",
+      "Güçlü yerlere güçlü olur",
+      "Yarım işe gücün yetmez",
+      "Bir elin nesi var"
+    ],
+    "correctAnswer": "Yarım işe gücün yetmez",
+    "tags": [
+      "Atasözleri",
+      "İş Bilgisi",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ihbbs7ick",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Bir elin nesi var, iki elin şeri vardır\" atasözünün anlamı nedir?",
+    "explanation": "Bu atasözü, tek başına olanın sınırlı olduğunu ve birlikte olanların daha güçlü olacağını vurgular.",
+    "options": [
+      "İki kişi her zaman daha güçlüdür",
+      "Tek başına kalmak zordur",
+      "Birlik ve beraberlik önemlidir",
+      "Daha çok eşya sahibi olmak gerekir"
+    ],
+    "correctAnswer": "Birlik ve beraberlik önemlidir",
+    "tags": [
+      "Atasözleri",
+      "Sosyal Değerler",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dss3gxklo",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Güçlü yerlere güçlü olur\" atasözünün karşıtı hangisidir?",
+    "explanation": "\"Güçlü yerlere güçlü olur\" atasözü, kişinin bulunduğu ortamın kendisine etkisini anlatırken, zayıf yere zayıf düşer bu anlamın karşıtıdır.",
+    "options": [
+      "İş başlar başlamaz",
+      "Yarım işe gücün yetmez",
+      "Zayıf yere zayıf düşer",
+      "Bir elin nesi var"
+    ],
+    "correctAnswer": "Zayıf yere zayıf düşer",
+    "tags": [
+      "Atasözleri",
+      "Karşıt Anlamlar",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t6jonf84c",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "\"İş başlar başlamaz\" deyişi hangi konuda uyarı içerir?",
+    "explanation": "\"İş başlar başlamaz\" ifadesi, işe hemen başlayıp zamanı değerlendirmeyi öğütler.",
+    "options": [
+      "Zamanını değerlendirmeyi",
+      "Birlikte çalışmayı",
+      "Yarım iş bırakmayı",
+      "Eşya sahibi olmayı"
+    ],
+    "correctAnswer": "Zamanını değerlendirmeyi",
+    "tags": [
+      "Atasözleri",
+      "Zaman Bilgisi",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "39p5zmuw8",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "\"Bir elin nesi var, iki elin şeri vardır\" atasözü hangi değer üzerine kuruludur?",
+    "explanation": "Bu atasözü, topluluk içinde yaşamayı ve birlik olmanın önemini vurgulayarak topluluk bilinci üzerine kuruludur.",
+    "options": [
+      "Bağımsızlık",
+      "Bireysel yetenek",
+      "Topluluk bilinci",
+      "Zenginlik"
+    ],
+    "correctAnswer": "Topluluk bilinci",
+    "tags": [
+      "Atasözleri",
+      "Değerler",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9mgi5tf0k",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "Türk Atasözlerinden hangisi, insanın kendi işine bakması gerektiğini ifade eder?",
+    "explanation": "\"Kendi başını, kendi göğsünü otlar\" atasözü, birinin kendi işine bakması gerektiğini ve başkalarının derdini anlamamasını ifade eder. Bu söz, Türk kültüründe bireysel sorumluluk bilincini vurgular.",
+    "options": [
+      "Bir köşe çöptür",
+      "Kendi başını, kendi göğsünü otlar",
+      "Kimin neye güleceği belli olmaz",
+      "İşin içi dışı belli olmaz"
+    ],
+    "correctAnswer": "Kendi başını, kendi göğsünü otlar",
+    "tags": [
+      "Atasözleri",
+      "Türk Edebiyatı",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t3qidq4b2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Bir köşe çöptür\" atasözünün anlamı nedir?",
+    "explanation": "\"Bir köşe çöptür\" atasözü, bir kişinin her zaman başkalarının kusurlarını göremeyeceğini ve herkesin kendi dünyasında olduğunu ifade eder. Bu söz, anlayışlı olma gerekliliğini vurgular.",
+    "options": [
+      "Herkes kendi işine bakmalı",
+      "İnsanların iyi niyetli olması gerekir",
+      "Başkalarının kusurlarını göremezsin",
+      "Zaman zaman hatalar olur"
+    ],
+    "correctAnswer": "Başkalarının kusurlarını göremezsin",
+    "tags": [
+      "Atasözleri",
+      "Türk Kültürü",
+      "Duygusal Zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "njxbo82q6",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kimin neye güleceği belli olmaz\" atasözü hangi durumda kullanılır?",
+    "explanation": "\"Kimin neye güleceği belli olmaz\" atasözü, insan duygularının öngörülemez olduğunu ve herkeste farklı tepkiler verebileceğini ifade eder. Bu söz, sabır ve anlayış gerektirir.",
+    "options": [
+      "Bir şeyin sonucunun önceden tahmin edilmesi gerektiğinde",
+      "İnsanların duygularının değişkenliğinde",
+      "Zamanın geçişini ifade edileceğinde",
+      "İşlerin kolay olacağı durumlarda"
+    ],
+    "correctAnswer": "İnsanların duygularının değişkenliğinde",
+    "tags": [
+      "Atasözleri",
+      "Türk Edebiyatı",
+      "Duygular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "44chqfmd0",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "\"İşin içi dışı belli olmaz\" atasözünün anlamı nedir?",
+    "explanation": "\"İşin içi dışı belli olmaz\" atasözü, bir olayın veya durumun gerçeklerinin zamanla netleşeceğini ifade eder. Bu söz, sabır ve beklemeyi gerektiren durumlarda kullanılır.",
+    "options": [
+      "Her şey basit bir şekilde anlaşılır",
+      "Bir olayın gerçekleri zamanla ortaya çıkar",
+      "İnsanların dürüst olması gerekir",
+      "Zaman geçtikçe işler kolaylaşır"
+    ],
+    "correctAnswer": "Bir olayın gerçekleri zamanla ortaya çıkar",
+    "tags": [
+      "Atasözleri",
+      "Türk Kültürü",
+      "Zaman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c3pmvkvkb",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "\"Kendi başını, kendi göğsünü otlar\" ile ilgili hangisi yanlıştır?",
+    "explanation": "\"Kendi başını, kendi göğsünü otlar\" atasözü bireysel sorumluluğu vurgular. Ancak bu söz \"Herkes birbirine yardım etmeli\" anlamına gelmez - tam tersi, herkesin kendi işe bakması gerektiğini ifade eder.",
+    "options": [
+      "Bu söz bireysel sorumluluğu ifade eder",
+      "Başkalarının derdini anlamaz bu kişi",
+      "Herkes birbirine yardım etmeli",
+      "Kendi işine bakmak gerekir"
+    ],
+    "correctAnswer": "Herkes birbirine yardım etmeli",
+    "tags": [
+      "Atasözleri",
+      "Türk Edebiyatı",
+      "Toplumsal İlişkiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qva9dvxa5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki Türk atasözü hangisidir?",
+    "explanation": "\"Dert yarıya kalır\" atasözü, bir musibet veya dert başkalarına da düşebilir anlamında kullanılır.",
+    "options": [
+      "Yarın ne olacak bilemezsin",
+      "İnsan kendi aynasında görünür",
+      "Dert yarıya kalır",
+      "Gözümün içi görür"
+    ],
+    "correctAnswer": "Dert yarıya kalır",
+    "tags": [
+      "Atasözleri",
+      "Edebiyat",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2uqda0bod",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"İnsan kendi aynasında görünür\" atasözünün anlamı nedir?",
+    "explanation": "\"İnsan kendi aynasında görünür\" atasözü, bir kişinin davranış ve karakterinin kendisi tarafından yansıtıldığını ifade eder.",
+    "options": [
+      "Herkes kendini sevmelidir",
+      "Kişi eylemlerinden sorumludur",
+      "Ayna her zaman temiz olmalıdır",
+      "Görünüm önemlidir"
+    ],
+    "correctAnswer": "Kişi eylemlerinden sorumludur",
+    "tags": [
+      "Atasözleri",
+      "Felsefe",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lyhhbgvmt",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Yarın ne olacak bilemezsin\" atasözü hangi durumu anlatır?",
+    "explanation": "\"Yarın ne olacak bilemezsin\" atasözü, geleceğin belirsiz olduğunu ve şimdiki zamanı yaşamamız gerektiğini vurgular.",
+    "options": [
+      "Geleceği planlamak gerekir",
+      "Belirsizlik vardır",
+      "Bugün iyi geçelim",
+      "Kaderimiz bellidir"
+    ],
+    "correctAnswer": "Belirsizlik vardır",
+    "tags": [
+      "Atasözleri",
+      "Hayat Bilgisi",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "df5dln2x6",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Türk atasözlerinden biridir?",
+    "explanation": "\"Dost yoldaşı, düşman karşıyı\" atasözü, dost ve düşmanın farklı tutumları hakkında bilgi verir.",
+    "options": [
+      "Zaman her şeyi değiştirir",
+      "Sabır her şeydir",
+      "Dost yoldaşı, düşman karşıyı",
+      "Yolun sonu bellidir"
+    ],
+    "correctAnswer": "Dost yoldaşı, düşman karşıyı",
+    "tags": [
+      "Atasözleri",
+      "Edebiyat",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9mpypuen3",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Gözümün içi görür\" ifadesi hangi atasözü ile ilişkilidir?",
+    "explanation": "\"Gözümün içi görür\" ifadesi, şeffaflık ve samimiyet anlamında \"İnsan kendi aynasında görünür\" atasözü ile ilişkilidir.",
+    "options": [
+      "İnsan kendi aynasında görünür",
+      "Gözler her şeyi görür",
+      "Herkes şeffaftır",
+      "Ayna yalan söylemez"
+    ],
+    "correctAnswer": "İnsan kendi aynasında görünür",
+    "tags": [
+      "Atasözleri",
+      "Edebiyat",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wkkffhn5s",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki Türk atasözlerinden hangisi yalan söylememeyi öğütler?",
+    "explanation": "\"Yalanın sonu şerdir\" atasözü, yalan söylemenin mutlulukla sonuçlanmayacağını ve bunun olumsuz sonuçlar doğuracağını ifade eder.",
+    "options": [
+      "Dil beridir",
+      "Bilenin sözü dinlenir",
+      "Yalanın sonu şerdir",
+      "Göz yormaz, iş bitmez"
+    ],
+    "correctAnswer": "Yalanın sonu şerdir",
+    "tags": [
+      "atasozleri",
+      "yan",
+      "öğüt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iw8cx52rv",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Bir kere yalana giren, ikinci kez yalan söylemeye alışır.\" Bu sözün anlamı nedir?",
+    "explanation": "Bu atasözü, yalan söylemenin bir kez yapıldığında kişinin bu davranışa alıştığını ve karakterini değiştirdiğini anlatır.",
+    "options": [
+      "Yalan söylemek kolaydır",
+      "İnsanlar her zaman yalan söyler",
+      "Yalan alışkanlığı insanı değiştirir",
+      "Yalanla yaşamak iyidir"
+    ],
+    "correctAnswer": "Yalan alışkanlığı insanı değiştirir",
+    "tags": [
+      "atasozleri",
+      "alışkanlık",
+      "karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1zaahke41",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Dil beridir\" ifadesinin Türk kültüründeki anlamı nedir?",
+    "explanation": "\"Dil beridir\" ifadesi, dili doğru kullanmamayı ve yalan söylemeyi öğütleyen bir uyarıdır.",
+    "options": [
+      "Kişiye göre konuşulur",
+      "İnsanlar suskun olmalı",
+      "Yalan söylemeye karşı uyarı",
+      "Konuşmak önemlidir"
+    ],
+    "correctAnswer": "Yalan söylemeye karşı uyarı",
+    "tags": [
+      "atasozleri",
+      "dil",
+      "yasak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kfzu8tv0f",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "Hangisi Türk atasözlerinden biri değildir?",
+    "explanation": "\"İş bitmeden ağlama\" Türk atasözü değildir. Doğrusu \"İş bitene kadar ağlama\" veya benzeri ifadeler vardır.",
+    "options": [
+      "Güzel sözler kulağa hoş gelir",
+      "İş bitmeden ağlama",
+      "Bilenin sözü dinlenir",
+      "Dil beridir"
+    ],
+    "correctAnswer": "İş bitmeden ağlama",
+    "tags": [
+      "atasozleri",
+      "tasnif",
+      "bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "euv8820lo",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Yalanın sonu şerdir\" sözünün Türk edebiyatındaki yeri nedir?",
+    "explanation": "\"Yalanın sonu şerdir\" ifadesi Türk edebiyatında yalan söylememeyi öğütleyen bir ahlaki uyarı olarak yer alır.",
+    "options": [
+      "Soru sorar",
+      "Öğüt verir",
+      "Şikayet eder",
+      "Açıklama yapar"
+    ],
+    "correctAnswer": "Öğüt verir",
+    "tags": [
+      "atasozleri",
+      "edebiyat",
+      "öğüt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qj0l5yg9t",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki atasözlerinden hangisi, bir işin zamanında yapılması gerektiğini anlatır?",
+    "explanation": "\"Güneş battıktan sonra güneş doğar\" atasözü, geçmiş zamanlarda yapılamayan işlerin artık yapılmasının imkansız olduğunu ve zamanın değerini vurgular.",
+    "options": [
+      "Dereye su durmaz",
+      "İş başından gelmez",
+      "Güneş battıktan sonra güneş doğar",
+      "Kuşlar göç etmez"
+    ],
+    "correctAnswer": "Güneş battıktan sonra güneş doğar",
+    "tags": [
+      "ATASÖZLERİ",
+      "EDİBYAT_VE_DİL",
+      "DÜZELTME_VE_BAKIM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8cfl2xkkc",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"İş başından gelmez\" ifadesi hangi duruma atıfta bulunur?",
+    "explanation": "\"İş başından gelmez\" atasözü, işe zamanında başlayarak ilerlemek gerektiğini ve aceleci davranılmaması gerektiğini anlatır.",
+    "options": [
+      "Zamanında iş yapılırsa zorluklar aşılmaz",
+      "Bir işe başladığında başarı gelir",
+      "İş bitmeden yeni iş başlamaz",
+      "Zor işler kolaylanır"
+    ],
+    "correctAnswer": "Zamanında iş yapılırsa zorluklar aşılmaz",
+    "tags": [
+      "ATASÖZLERİ",
+      "EDİBYAT_VE_DİL",
+      "DÜZELTME_VE_BAKIM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "od117logt",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Ağaç dikenin ağacına, insanın insanına baksın\" ifadesi hangi prensibi vurgular?",
+    "explanation": "\"Ağaç dikenin ağacına, insanın insanına baksın\" atasözü, karşılıklı saygı ve adalet ilkesini vurgular; her kimse kendi durumuna göre davranmalıdır.",
+    "options": [
+      "Doğa ile uyumlu yaşam",
+      "Karşılıklı saygı ve adalet",
+      "Denge ve ölçü içinde olmak",
+      "İnsanların birbirine bakışı"
+    ],
+    "correctAnswer": "Karşılıklı saygı ve adalet",
+    "tags": [
+      "ATASÖZLERİ",
+      "EDİBYAT_VE_DİL",
+      "DÜZELTME_VE_BAKIM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ue5et80er",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "\"Kuşlar göç etmez\" ifadesi hangi anlamı taşır?",
+    "explanation": "\"Kuşlar göç etmez\" ifadesi, vatan sevgisi ve yurtseverlik duygusunu vurgular; insanın vatanından ayrılmaması gerektiğini anlatır.",
+    "options": [
+      "Göç sevgisi",
+      "Yurtseverlik ve vatan aşkı",
+      "Doğa ile uyumlu yaşam",
+      "Hayvanların özgürlüğü"
+    ],
+    "correctAnswer": "Yurtseverlik ve vatan aşkı",
+    "tags": [
+      "ATASÖZLERİ",
+      "EDİBYAT_VE_DİL",
+      "DÜZELTME_VE_BAKIM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mdovhfppo",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "\"İnsan neye inanırsa, o olur\" atasözü hangi ilkeyi içerir?",
+    "explanation": "\"İnsan neye inanırsa, o olur\" atasözü, kişinin karakteri ve kişiliği onun inancından ve davranışlarından etkilendiğini anlatır.",
+    "options": [
+      "Din ve inanca bağlılık",
+      "Karakter ve kişilik gelişimi",
+      "Zaman ve mevsim değişimi",
+      "Doğa yasaları"
+    ],
+    "correctAnswer": "Karakter ve kişilik gelişimi",
+    "tags": [
+      "ATASÖZLERİ",
+      "EDİBYAT_VE_DİL",
+      "DÜZELTME_VE_BAKIM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1oasdrkc4",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "Türk atasözlerinden hangisi 'Zaman zaman durgunluk' anlamına gelir?",
+    "explanation": "'Duman yerden kalkar' atasözü, zor durumda bile olsa hayatta kalınır anlamına gelir. Güve kulağına fısıltı ise 'Kimse kimseye inanmaz' anlamındadır.",
+    "options": [
+      "Güve kulağına fısıltı",
+      "Kuş bakana kuş bakmaz",
+      "Yarın yarını bulur",
+      "Duman yerden kalkar"
+    ],
+    "correctAnswer": "Duman yerden kalkar",
+    "tags": [
+      "Türk Atasözleri",
+      "Anlam",
+      "Metafor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u4n9rqf8t",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "'Kuş bakana kuş bakmaz' atasözünün karşıtı hangisidir?",
+    "explanation": "'Kuş bakana kuş bakmaz' ile 'İnsan işine insan işlemez' aynı anlamı taşır. Karşıtı ise 'Güzelin güzeline güler' olmalıdır.",
+    "options": [
+      "İnsan işine insan işlemez",
+      "Güzelin güzeline güler",
+      "Yazık yazığa yazık",
+      "Ağzına gelen ağza gider"
+    ],
+    "correctAnswer": "İnsan işine insan işlemez",
+    "tags": [
+      "Türk Atasözleri",
+      "Karşıtlık",
+      "Metafor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "35md1j5b5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "Hangi atasözünde 'Zaman' vurgusu en çok görülür?",
+    "explanation": "'Yarın yarını bulur' atasözü, zaman geçtikçe her şeyin yerini bulacağı anlamını taşır. Eski yara yeni yara ise 'Eskiden gelen acı yeniden gelir' demektir.",
+    "options": [
+      "Eski yara yeni yara",
+      "İnsan işine insan işlemez",
+      "Yarın yarını bulur",
+      "Duman dumanı bulur"
+    ],
+    "correctAnswer": "Yarın yarını bulur",
+    "tags": [
+      "Türk Atasözleri",
+      "Zaman",
+      "Hayat Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lzpx5got9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "'Duman dumanı bulur' atasözünün gerçek yaşam karşılığı nedir?",
+    "explanation": "'Duman dumanı bulur' atasözü, her şeyin kendi zamanında kendine uygun yeri bulacağı anlamını taşır. Bu, hayatın doğal akışıdır.",
+    "options": [
+      "İnsanlar birbirini tanıyacak",
+      "Her şeyin zamanında yerini bulacağı",
+      "Zorluklar kolaylaşacak",
+      "Yerinden edilecek"
+    ],
+    "correctAnswer": "Her şeyin zamanında yerini bulacağı",
+    "tags": [
+      "Türk Atasözleri",
+      "Gerçek Yaşam",
+      "Metafor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bjvm9py5g",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki atasözlerinden hangisi 'İnanç' konusunu işler?",
+    "explanation": "'Güve kulağına fısıltı' atasözü, güve gibi sessiz birinin bile kulağına fısıltı gelmeyeceği, yani kimse kimseye inanmayacağı anlamını taşır. Bu, insan ilişkilerindeki güven sorununu gösterir.",
+    "options": [
+      "Güve kulağına fısıltı",
+      "Kuş bakana kuş bakmaz",
+      "Yarın yarını bulur",
+      "Duman dumanı bulur"
+    ],
+    "correctAnswer": "Güve kulağına fısıltı",
+    "tags": [
+      "Türk Atasözleri",
+      "İnanç",
+      "Sosyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7vogy4dkc",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish proverb means \"Patience is a virtue\" and advises that rushing leads to mistakes?",
+    "explanation": "This proverb directly translates to \"Patience is a virtue\" and warns against rushing into matters.",
+    "options": [
+      "İşin içinden çıkılmazsa, elini kollarını dayayamaz.",
+      "Zamanın değeri vardır, acele etme.",
+      "Sabır bir erdemdir, acele işlerin başına der.",
+      "Hızlı olan yavaş kalır, sabırlı olan kazanır."
+    ],
+    "correctAnswer": "Sabır bir erdemdir, acele işlerin başına der.",
+    "tags": [
+      "Atasözleri",
+      "Sabır",
+      "Türk Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lkpms0wlm",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "What does the Turkish proverb \"Haksız olanın başına gelenin, haklı olanı da başına gelmesin\" mean?",
+    "explanation": "This proverb means that even if the wronged person suffers, justice should still prevail and not allow injustice to continue.",
+    "options": [
+      "Injustice should never be repeated.",
+      "Let justice prevail over injustice.",
+      "Wrongdoers should not escape consequences.",
+      "Justice will always find its way."
+    ],
+    "correctAnswer": "Justice will always find its way.",
+    "tags": [
+      "Atasözleri",
+      "Adalet",
+      "Türk Bilgeliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1s3rn0mzn",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "Which proverb advises that one cannot do everything alone and needs help?",
+    "explanation": "This proverb means that if work becomes too difficult, you should not hesitate to ask for help from others.",
+    "options": [
+      "Bir işi başına alırsan, tek elinle yaparsın.",
+      "İşin içinden çıkılmazsa, elini kollarını dayayamaz.",
+      "Tek başına her şeyi başarabilirsin.",
+      "Yardıma ihtiyacın yok, kendi kendine iş gör."
+    ],
+    "correctAnswer": "İşin içinden çıkılmazsa, elini kollarını dayayamaz.",
+    "tags": [
+      "Atasözleri",
+      "Yardım",
+      "Türk Bilgeliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkrtmm7bu",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "What does \"Haberin başına gelmesin\" mean in Turkish proverb context?",
+    "explanation": "This proverb warns against believing or spreading unverified information and news.",
+    "options": [
+      "Don't spread rumors.",
+      "Avoid getting involved in gossip.",
+      "Stay away from false news.",
+      "Don't believe everything you hear."
+    ],
+    "correctAnswer": "Don't believe everything you hear.",
+    "tags": [
+      "Atasözleri",
+      "Haber",
+      "Bilgelik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2jur8j042",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish proverb means \"Actions speak louder than words\"?",
+    "explanation": "This proverb emphasizes that deeds and actions are more important than empty words or promises.",
+    "options": [
+      "Sözün değeri yoktur, işin değerlidir.",
+      "İşin içinden çıkılmazsa, elini kollarını dayayamaz.",
+      "Zamanın değeri vardır, acele etme.",
+      "Sabır bir erdemdir, acele işlerin başına der."
+    ],
+    "correctAnswer": "Sözün değeri yoktur, işin değerlidir.",
+    "tags": [
+      "Atasözleri",
+      "İş ve Söz",
+      "Türk Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qj2gmdh95",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki atasözlerinden hangisi 'tek başına çalışmanın zorluklarını' anlatır?",
+    "explanation": "\"Bir elin birliği, bir elin yarası\" atasözü, tek başına çalışmanın sınırlılığını ve güçsüzlüğünü anlatır. Diğer seçenekler farklı anlamları içerir.",
+    "options": [
+      "Bir elin birliği, bir elin yarası",
+      "Köylü köyde, kedi köşede",
+      "Su taşıyan taşın altına",
+      "Güzel sözler güzel iş çıkarır"
+    ],
+    "correctAnswer": "Bir elin birliği, bir elin yarası",
+    "tags": [
+      "Atasözleri",
+      "Edebiyat",
+      "Dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "666nejt1c",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Köylü köyde, kedi köşede\" atasözünün anlamı nedir?",
+    "explanation": "\"Köylü köyde, kedi köşede\" atasözü, herkesin kendi görev ve yeri doğrultusunda hareket etmesi gerektiğini anlatır.",
+    "options": [
+      "Herkes kendi yerinde olmalı",
+      "Tek kişi tek başına çalışır",
+      "Su taşıyan taşın altına girer",
+      "Güzel sözler iş çıkarır"
+    ],
+    "correctAnswer": "Herkes kendi yerinde olmalı",
+    "tags": [
+      "Atasözleri",
+      "Edebiyat",
+      "Dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zo7xgqbff",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki hangi atasözü 'su taşıyan taşın altına girer' anlamındadır?",
+    "explanation": "\"Su taşıyan taşın altında\" atasözü, su taşıyana karşı gelenlerin ondan kaçınması gerektiğini anlatır. Doğru seçenek bu anlamı içerir.",
+    "options": [
+      "Su taşıyan taşın altında",
+      "Bir elin birliği, bir elin yarası",
+      "Köylü köyde, kedi köşede",
+      "Güzel sözler iş çıkarır"
+    ],
+    "correctAnswer": "Su taşıyan taşın altında",
+    "tags": [
+      "Atasözleri",
+      "Edebiyat",
+      "Dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qjec7sgy6",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Güzel sözler güzel iş çıkarır\" atasözünün konusu nedir?",
+    "explanation": "\"Güzel sözler güzel iş çıkarır\" atasözü, iyi sözlerin ve davranışların hayırlı sonuçlar doğurduğunu anlatır. Bu, söz ve davranış ilişkisini içerir.",
+    "options": [
+      "Söz ve davranış ilişkisi",
+      "Tek başına çalışma zorluğu",
+      "Yerleşik görev anlayışı",
+      "Su taşıma mesleği"
+    ],
+    "correctAnswer": "Söz ve davranış ilişkisi",
+    "tags": [
+      "Atasözleri",
+      "Edebiyat",
+      "Dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ktkwne913",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki hangi seçenek 'birlikten kuvvet doğar' anlamındaki atasözüdür?",
+    "explanation": "\"Yüzlerce kişinin eli, tek bir işi\" atasözü, birlikten kuvvet doğar anlamını taşır. Bu, çok sayıda insanın birlikte çalışmasının önemini vurgular.",
+    "options": [
+      "Bir elin birliği, bir elin yarası",
+      "Köylü köyde, kedi köşede",
+      "Yüzlerce kişinin eli, tek bir işi",
+      "Su taşıyan taşın altında"
+    ],
+    "correctAnswer": "Yüzlerce kişinin eli, tek bir işi",
+    "tags": [
+      "Atasözleri",
+      "Edebiyat",
+      "Dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "13uj494i1",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "\"Büyüğün dediğini dinle\" atasözünün anlamı nedir?",
+    "explanation": "Bu atasözü, yaşlıların ve büyüklerin birikmiş tecrübesini önemsemeyi ve onların öğütlerini dinlemeyi tavsiye eder.",
+    "options": [
+      "Yaşlıların tecrübesine güvenmek",
+      "Çocukların kendiliğinden büyümesi",
+      "Gençlerin yaşlılara muhalefet etmesi",
+      "Ailenin düzenli olması"
+    ],
+    "correctAnswer": "Yaşlıların tecrübesine güvenmek",
+    "tags": [
+      "Atasözleri",
+      "Türk Dili",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ezm3g89tk",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EASY",
+    "question": "\"Bir elin nesi var\" sözü hangi değeri ifade eder?",
+    "explanation": "\"Bir elin nesi var\" atasözü, tek başın zorluğunu ve birlik beraberliğin önemini vurgular.",
+    "options": [
+      "Birlik ve beraberlik",
+      "Yalnızlığın zorluğu",
+      "Zenginliğin önemi",
+      "Duygusal bağlılık"
+    ],
+    "correctAnswer": "Birlik ve beraberlik",
+    "tags": [
+      "Atasözleri",
+      "Türk Dili",
+      "Birikim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ytwfc243x",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"İki gözlere baktığına göre\" cümlesi hangi kavramla ilişkilidir?",
+    "explanation": "Bu ifade, kişinin gördüklerini ve yaşadıklarını kabullenmesi gerektiğini belirtir.",
+    "options": [
+      "Gözün önemi",
+      "Ailenin saygısı",
+      "Kaderi kabul etme",
+      "Doğayı sevmek"
+    ],
+    "correctAnswer": "Kaderi kabul etme",
+    "tags": [
+      "Atasözleri",
+      "Türk Dili",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "boytp8gv5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "GENERAL",
+    "question": "\"Zamanın değeri\" bağlamında hangi atasözü uygun gelmez?",
+    "explanation": "\"İstediğin zaman\" ifadesi resmi bir atasözü değildir ve zamanın değerini ifade etmez.",
+    "options": [
+      "\"Bir gün yaşayacaksın\"",
+      "\"İstediğin zaman\"",
+      "\"Kaderi kabullen\"",
+      "\"Büyüğün dediğini dinle\""
+    ],
+    "correctAnswer": "\"İstediğin zaman\"",
+    "tags": [
+      "Atasözleri",
+      "Türk Dili",
+      "Değer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7dfeao523",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Atasözleri",
+    "difficulty": "EXPERT",
+    "question": "\"Kaderi kabullen\" temasında hangi kültürel öğe yer alır?",
+    "explanation": "\"Kaderi kabullen\" teması Türk kültüründe sıkça karşılaşılan bir kavramdır ve Türkçe ile ifade edilir.",
+    "options": [
+      "Türkçe",
+      "İslamiyet",
+      "Hristiyanlık",
+      "Budizm"
+    ],
+    "correctAnswer": "Türkçe",
+    "tags": [
+      "Atasözleri",
+      "Türk Dili",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

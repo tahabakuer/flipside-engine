@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "ewmoauob8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Hangi oyun motoru ücretsiz açık kaynaklıdır ve geniş topluluk desteği sunar?",
+    "explanation": "Godot, tamamen ücretsiz ve açık kaynaklı bir oyun motorudur. 2D ve 3D oyun geliştirme için uygundur ve genişleyebilir dil desteği sunar.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "GameMaker"
+    ],
+    "correctAnswer": "Godot",
+    "tags": [
+      "oyun-motoru",
+      "açık-kaynak",
+      "ücretsiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3cg6hrjmu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirme sürecinde kullanılan C# programlama dili hangi oyunda en yaygın olarak bulunur?",
+    "explanation": "Unity, C# programlama dilini temel motor dili olarak kullanır. Oyun geliştirme topluluğunda en yaygın kullanılan dildir.",
+    "options": [
+      "Godot",
+      "Unreal Engine",
+      "Unity",
+      "Construct"
+    ],
+    "correctAnswer": "Unity",
+    "tags": [
+      "c#",
+      "programlama-dili",
+      "oyun-motoru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zode3pzea",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi araç oyun geliştiricilere prototip oluşturma ve hızlı test etme imkanı verir?",
+    "explanation": "Hızlı prototipleme araçları, oyun geliştiricilerin fikirlerini hızlıca test etmelerine ve iteratif geliştirme yapmalarına olanak tanır.",
+    "options": [
+      "Visual Studio",
+      "Rapid Prototype Tools",
+      "Game Dev Kit",
+      "Unity Hub"
+    ],
+    "correctAnswer": "Rapid Prototype Tools",
+    "tags": [
+      "prototip",
+      "hızlı-test",
+      "oyun-geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7lusvhlvt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun fizik motoru 'PhysX' hangi oyun motoruyla birlikte kullanılır?",
+    "explanation": "PhysX, Unreal Engine ile birlikte gelişmiş fizik simülasyonu sağlayan açık kaynaklı bir fizik motorudur.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "GameMaker"
+    ],
+    "correctAnswer": "Unreal Engine",
+    "tags": [
+      "fizik-motoru",
+      "physx",
+      "oyun-motoru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ztnajzhj8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi konsept oyun geliştirme sırasında 'player journey' ve deneyim tasarımı için kullanılır?",
+    "explanation": "Kullanıcı deneyim haritalama, oyuncuların oyun içindeki yolculuğunu ve deneyimlerini planlamak için kullanılan bir tasarım yaklaşımıdır.",
+    "options": [
+      "Game Design Document",
+      "User Experience Mapping",
+      "Quest System",
+      "Inventory Management"
+    ],
+    "correctAnswer": "User Experience Mapping",
+    "tags": [
+      "kullanıcı-deneyimi",
+      "oyun-tasarımı",
+      "player-journey"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ayfwsztgu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyun motoru hem Windows hem macOS platformlarında ücretsiz ve açık kaynaklıdır?",
+    "explanation": "Godot, tamamen ücretsiz ve açık kaynaklı bir oyun motorudur. Hem Windows hem macOS hem de Linux işletim sistemlerinde çalışır ve geliştiriciler için düşük maliyetli bir seçenektir.",
+    "options": [
+      "Unity",
+      "Godot",
+      "Unreal Engine",
+      "CryEngine"
+    ],
+    "correctAnswer": "Godot",
+    "tags": [
+      "oyun-motoru",
+      "teknoloji",
+      "ücretsiz-arayüz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bqqpkkicz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Oyun geliştirme sürecinde 'asset' terimi neyi ifade eder?",
+    "explanation": "Asset, oyun geliştirme sırasında kullanılan grafik modelleri, animasyonlar, ses efektleri, müzikler gibi hazır içerikleri ifade eder. Bu dosyalar oyunun görsel ve işitsel deneyimini oluşturur.",
+    "options": [
+      "Kaynak kod",
+      "Grafik dosyaları ve sesler",
+      "Oyun motoru",
+      "Test araçları"
+    ],
+    "correctAnswer": "Grafik dosyaları ve sesler",
+    "tags": [
+      "terim",
+      "varlık",
+      "medya-dosya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9q0l3lo14",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi programlama dili Unreal Engine ile uyumludur?",
+    "explanation": "Unreal Engine, C++ veBlueprint visual scripting sistemi ile uyumlu çalışır. C++, oyun geliştirme endüstrisinde performans odaklı en yaygın programlama dilidir.",
+    "options": [
+      "Java",
+      "Python",
+      "C++",
+      "PHP"
+    ],
+    "correctAnswer": "C++",
+    "tags": [
+      "programlama-dili",
+      "unreal-engine",
+      "oyun-altyapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uj1r2miov",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Bir 2D oyun geliştirirken hangisi daha uygun bir seçimdir?",
+    "explanation": "2D oyunlarda sprite sheet, animasyonlar için tek bir görselde birden fazla kareyi içerir ve hafifçe kullanılır. 3D modeller ve ray tracing daha çok 3D oyunlar için uygundur.",
+    "options": [
+      "3D modeller",
+      "Sprite sheet",
+      "Fisik motoru",
+      "Ray tracing"
+    ],
+    "correctAnswer": "Sprite sheet",
+    "tags": [
+      "2d-oyun",
+      "grafik",
+      "sprite"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sgqdjqkw8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Oyun geliştirme sürecinin hangisi 'prototipleme' aşamasından önce gelir?",
+    "explanation": "Oyun geliştirme sürecinde önce hedef kitlenin ve pazarın analizi yapılır, ardından prototipleme aşamasına geçilir. Bu, doğru kitleyi hedefleyen oyun tasarlamak için kritiktir.",
+    "options": [
+      "Test",
+      "Tasarım",
+      "Müşteri analizleri",
+      "Yayınlanma"
+    ],
+    "correctAnswer": "Müşteri analizleri",
+    "tags": [
+      "geliştirme-süreci",
+      "aşama",
+      "planlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "814cuubhp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Hangi oyun geliştirme motoru ücretsizdir ve geniş bir eklenti kütüphanesi sunar?",
+    "explanation": "Godot tamamen ücretsiz bir açık kaynak oyun geliştirme motorudur ve geniş bir eklenti kütüphanesi sunar.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "All of the above"
+    ],
+    "correctAnswer": "Godot",
+    "tags": [
+      "oyun-motorları",
+      "teknoloji",
+      "geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3lln0lwrq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi dil Unreal Engine'da oyun geliştirmede kullanılır?",
+    "explanation": "Unreal Engine, C++ dilini temel alarak oyun geliştirmede kullanır ve yüksek performans sağlar.",
+    "options": [
+      "C#",
+      "Java",
+      "C++",
+      "Python"
+    ],
+    "correctAnswer": "C++",
+    "tags": [
+      "programlama-dilleri",
+      "teknoloji",
+      "oyun-geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lyq2l7139",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyun geliştirme aracı 2D grafikler için daha uygundur?",
+    "explanation": "Unity özellikle 2D oyun geliştirme için uygun bir açık kaynaklı oyun geliştirme motorudur.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "All of the above"
+    ],
+    "correctAnswer": "Unity",
+    "tags": [
+      "oyun-motorları",
+      "2d-geliştirme",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f9nym2jrb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi teknoloji VR (Sanal Gerçeklik) oyun geliştirmede kullanılır?",
+    "explanation": "Oculus SDK, SteamVR ve ARKit gibi teknolojiler VR oyun geliştirmede kullanılır.",
+    "options": [
+      "Oculus SDK",
+      "SteamVR",
+      "ARKit",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "tags": [
+      "vr-teknolojisi",
+      "sanal-gerçeklik",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rttdmhhe2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi oyun geliştirme motoru fizik tabanlı simülasyon için daha uygundur?",
+    "explanation": "Unreal Engine, fizik tabanlı simülasyonlar için daha uygun bir açık kaynaklı oyun geliştirme motorudur.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "All of the above"
+    ],
+    "correctAnswer": "Unreal Engine",
+    "tags": [
+      "fizik-simülasyonu",
+      "oyun-motorları",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cbb1josr1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyun motoru genellikle mobil oyun geliştirme için tercih edilir?",
+    "explanation": "Unity, mobil oyun geliştirme için en çok tercih edilen açık kaynaklı oyun motorudur. C# dili destekler ve Android/iOS platformlarında kolay dağıtım sağlar.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "CryEngine"
+    ],
+    "correctAnswer": "Unity",
+    "tags": [
+      "oyun-motoru",
+      "mobil-oyun",
+      "geliştirme-araci"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j0r6fctpu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirmede 3D grafiklerde 'polygon' nedir?",
+    "explanation": "Polygon, üçgenlerden oluşan geometrik şekillerdir. 3D modeller ve grafikler bu üçgenler kullanılarak oluşturulur.",
+    "options": [
+      "Işıklandırma tekniği",
+      "Üçgenlerden oluşan yüzey birimi",
+      "Kamera açısı ayarı",
+      "Ses efekti"
+    ],
+    "correctAnswer": "Üçgenlerden oluşan yüzey birimi",
+    "tags": [
+      "grafik",
+      "3d-animasyon",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rb6pd6ci7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi programlama dili Unreal Engine ile oyun geliştirme için kullanılır?",
+    "explanation": "Unreal Engine temel olarak C++ ile geliştirilir. Ayrıca Blueprint görsel programlama sistemi de destekler.",
+    "options": [
+      "C#",
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "correctAnswer": "C++",
+    "tags": [
+      "programlama-dili",
+      "unreal-engine",
+      "oyun-geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfyw9k4e0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Oyun tasarlamada 'game loop' ne işe yarar?",
+    "explanation": "Game loop, oyunun sürekli çalışmasını sağlayan temel döngüdür. Frame başına input, update ve render işlemlerini içerir.",
+    "options": [
+      "Veritabanı bağlantısı",
+      "Sürekli döngüsel işlem güncelleme",
+      "Grafik render etme",
+      "Ses akışı"
+    ],
+    "correctAnswer": "Sürekli döngüsel işlem güncelleme",
+    "tags": [
+      "oyun-mimaris",
+      "game-loop",
+      "programlama-kavrami"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ipf1wfaaz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi platforma özgü grafik API'si oyun geliştirmede kullanılır?",
+    "explanation": "OpenGL, DirectX ve Vulkan hepsi oyun geliştirmede kullanılan grafik API'leridir. Platforma göre tercih edilir.",
+    "options": [
+      "OpenGL",
+      "DirectX",
+      "Vulkan",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "grafik-api",
+      "platform-teknoloji",
+      "oyun-hardware"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t9lg7ttp5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Hangi oyun motoru açık kaynaklıdır ve ücretsiz kullanılabilir?",
+    "explanation": "Godot, tamamen açık kaynaklı ve ücretsiz bir oyun motorudur. Unity'nin 2018'den sonra ücretli lisans politikası uygulaması ve Unreal Engine'in karmaşık kurulum yapısı nedeniyle tercih edilmektedir.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "Cocos2d"
+    ],
+    "correctAnswer": "Godot",
+    "tags": [
+      "oyun-motoru",
+      "açık-kaynak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w15brfkwk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Oyun geliştirme dilinde en yaygın kullanılan hangi programlama dili 3D grafikler için optimize edilmiştir?",
+    "explanation": "C#, Unity oyun motorunun ana programlama dilidir ve 3D grafikler için optimize edilmiştir. Ayrıca .NET framework ile tam uyumludur.",
+    "options": [
+      "C#",
+      "JavaScript",
+      "Python",
+      "Java"
+    ],
+    "correctAnswer": "C#",
+    "tags": [
+      "programlama-dili",
+      "oyun-geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1jkoogt1j",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi veri yapısı oyun fizik simülasyonlarında en sık kullanılan yapıdır?",
+    "explanation": "Vector3, 3 boyutlu uzaydaki konum, hız ve ivme gibi fiziksel değerleri temsil etmek için kullanılır. Oyun motorlarında standart bir veri tipidir.",
+    "options": [
+      "Array",
+      "Vector3",
+      "Dictionary",
+      "List"
+    ],
+    "correctAnswer": "Vector3",
+    "tags": [
+      "fizik-simülasyon",
+      "veri-yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g91cvxmk8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirme sürecinde 'asset' terimi neyi ifade eder?",
+    "explanation": "Asset'ler oyun geliştirme sürecinde kullanılan hazır grafiksel, sesli ve animasyon içeriklerini ifade eder. 3D modeller, ses dosyaları, animasyonlar ve dokular örneklerden bazılarıdır.",
+    "options": [
+      "Programlama kodu",
+      "3D modeller, ses dosyaları ve animasyonlar",
+      "Sunucu yapılandırması",
+      "Veritabanı şeması"
+    ],
+    "correctAnswer": "3D modeller, ses dosyaları ve animasyonlar",
+    "tags": [
+      "oyun-asset",
+      "süreç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rb62gzghj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Oyun geliştirme araçlarında hangisi 'collision detection' (çarpışma algılama) için kullanılır?",
+    "explanation": "Trigger Collider, çarpışma olaylarını tetiklemeden nesnelerin birbirine girmesini algılamak için kullanılır. Player ile etkileşimli objeler için idealdir.",
+    "options": [
+      "Raycasting",
+      "Physics Material",
+      "Character Controller",
+      "Trigger Collider"
+    ],
+    "correctAnswer": "Trigger Collider",
+    "tags": [
+      "çarpışma-algılama",
+      "fizik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yy3krm7xg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Hangi oyun geliştirme motoru açık kaynaklıdır ve Unity, Unreal Engine ile birlikte en popüler seçeneklerden biridir?",
+    "explanation": "Godot, 100% açık kaynaklı, hafif ve çok platformlu bir oyun geliştirme motorudur. Özellikle 2D oyunlar için optimize edilmiştir.",
+    "options": [
+      "Godot",
+      "GameMaker",
+      "CryEngine",
+      "Source Engine"
+    ],
+    "correctAnswer": "Godot",
+    "tags": [
+      "oyun motoru",
+      "açık kaynak",
+      "geliştirme araçları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3fmkx3oo9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirme için hangi programlama dili en yaygın olarak kullanılır?",
+    "explanation": "C#, Unity ve Unreal Engine gibi popüler oyun motorları tarafından desteklenen, oyun geliştirme için en yaygın kullanılan dildir.",
+    "options": [
+      "C#",
+      "Python",
+      "Java",
+      "PHP"
+    ],
+    "correctAnswer": "C#",
+    "tags": [
+      "programlama dili",
+      "Unity",
+      "oyun geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wizvvvbwf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi kavram, oyunun oyuncuya verdiği geri bildirim mekanizmasıdır?",
+    "explanation": "Game Feel, oyunun oyuncuya verdiği his ve geri bildirim mekanizmasıdır. Butonlara basıldığında titreşim, ses efektleri bu kısıma dahildir.",
+    "options": [
+      "Game Feel",
+      "Level Design",
+      "Art Direction",
+      "Code Architecture"
+    ],
+    "correctAnswer": "Game Feel",
+    "tags": [
+      "oyun tasarımı",
+      "oyuncu deneyimi",
+      "geri bildirim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ejvs3d100",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi format, oyun asset'lerinin sıkıştırılmış versiyonudur ve web tabanlı dağıtımlarda kullanılır?",
+    "explanation": ".glb (GL Transmission Format), 3D asset'lerin sıkıştırılmış versiyonudur. Özellikle web tabanlı oyunlarda ve AR/VR uygulamalarında kullanılır.",
+    "options": [
+      ".exe",
+      ".apk",
+      ".glb",
+      ".unitypackage"
+    ],
+    "correctAnswer": ".glb",
+    "tags": [
+      "asset formatı",
+      "3D modeller",
+      "web dağıtımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cir3nbon6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi kavram, oyunun oyuncunun ilerleme seviyelerini yönettiği sistemdir?",
+    "explanation": "Progression System, oyuncunun karakterini geliştirdiği seviyeler ve yetenek sistemlerini yönetir. Oyuncuyu ilerletme ve motivasyon sağlar.",
+    "options": [
+      "Progression System",
+      "Inventory System",
+      "Combat System",
+      "Physics Engine"
+    ],
+    "correctAnswer": "Progression System",
+    "tags": [
+      "oyun tasarımı",
+      "karakter gelişimi",
+      "oyuncu motivasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4g2kczejh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi oyun motoru hem Windows hem macOS platformlarında çalışabilen açık kaynaklı bir oyun geliştirme aracıdır?",
+    "explanation": "Godot, tam olarak hem Windows hem macOS'te çalışabilen ve tamamen açık kaynaklı olarak lisans verilen bir oyun motorudur. Unity ve Unreal Engine ticari lisans gerektirirken, Cocos2d daha çok 2D odaklıdır.",
+    "options": [
+      "Unity",
+      "Godot",
+      "Unreal Engine",
+      "Cocos2d"
+    ],
+    "correctAnswer": "Godot",
+    "tags": [
+      "oyun-motoru",
+      "açık-kaynaklı",
+      "platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nhi3pq3aa",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirmede 'Sprite' terimi neyi ifade eder?",
+    "explanation": "Sprite, oyun geliştirmede 2D boyutlarda kullanılan karakter veya nesne görsellerini ifade eder. Genellikle tek bir resim dosyasında birden fazla sprite saklanabilir (sprite sheet).",
+    "options": [
+      "Oyunda kullanılan ses dosyası",
+      "2 boyutlu karakter veya nesne görseli",
+      "3D model animasyonu",
+      "Oyun fizik motoru"
+    ],
+    "correctAnswer": "2 boyutlu karakter veya nesne görseli",
+    "tags": [
+      "sprite",
+      "görsel",
+      "2-boyutlu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jctfe9lal",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Unity oyun motorunda hangi dil ile yazım yapılır?",
+    "explanation": "Unity oyun motorunun resmi programlama dili C# (C Sharp)'tır. C++ ve Java Unity'de doğrudan kullanılmazken, Python bazı eklentilerle desteklenebilir ancak resmi dil değildir.",
+    "options": [
+      "C++",
+      "Python",
+      "C#",
+      "Java"
+    ],
+    "correctAnswer": "C#",
+    "tags": [
+      "Unity",
+      "programlama-dili",
+      "scripting"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3l07exspj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirmede 'Collision' kavramı neyi tanımlar?",
+    "explanation": "Collision, oyun geliştirmede iki veya daha fazla objenin fiziksel olarak birbirine temas etmesini ifade eder. Unity'de Collision Component ile bu durum algılanabilir.",
+    "options": [
+      "Oyuncunun yön değiştirme işlemi",
+      "İki objenin birbirine temas etmesi",
+      "Veritabanına kayıt ekleme",
+      "Ses efektinin çalması"
+    ],
+    "correctAnswer": "İki objenin birbirine temas etmesi",
+    "tags": [
+      "collision",
+      "fizik",
+      "obje-teması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q4c8jxv3d",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi oyun geliştirme aracı özellikle Unreal Engine için tasarlanmıştır ve C++ dilini kullanır?",
+    "explanation": "Unreal Editor, Unreal Engine'in resmi geliştirme aracıdır ve C++ programlama dilini kullanır. Blender ve Maya 3D modelleme araçlarıdır, Godot ise farklı bir oyun motorudur.",
+    "options": [
+      "Godot Editor",
+      "Unreal Editor",
+      "Blender",
+      "Maya"
+    ],
+    "correctAnswer": "Unreal Editor",
+    "tags": [
+      "unreal-engine",
+      "editor",
+      "c-plus-plus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xocnqyu0e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Hangi oyun motoru hem ücretsiz hem de çok geniş bir asset kütüphanesi sunar?",
+    "explanation": "Unity, hem ücretsiz (Personal Edition) hem de geniş bir asset store'a sahiptir ve mobil oyunlar için popülerdir.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "CryEngine"
+    ],
+    "correctAnswer": "Unity",
+    "tags": [
+      "oyun-motorları",
+      "teknoloji",
+      "geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "erfsdiscc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirme sürecinde en yaygın kullanılan programlama dilleri hangileridir?",
+    "explanation": "C# (Unity için), JavaScript/TypeScript (browz oyunları için) ve C++ (Unreal Engine için) en yaygın kullanılan dillerdir.",
+    "options": [
+      "Python, C++",
+      "C#, JavaScript, C++",
+      "Java, Swift",
+      "Go, Rust"
+    ],
+    "correctAnswer": "C#, JavaScript, C++",
+    "tags": [
+      "programlama-dilleri",
+      "teknoloji",
+      "oyun-geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fha56di1r",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi teknoloji gerçek zamanlı 3D grafikler üretmek için kullanılır?",
+    "explanation": "OpenGL, gerçek zamanlı 2D ve 3D grafikler için açık kaynaklı bir API'dir.",
+    "options": [
+      "OpenGL",
+      "HTML5",
+      "CSS3",
+      "XML"
+    ],
+    "correctAnswer": "OpenGL",
+    "tags": [
+      "grafik-teknolojisi",
+      "teknoloji",
+      "3d-oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iia6881dy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Oyun geliştirme sırasında 'asset' neyi ifade eder?",
+    "explanation": "Asset, oyun geliştiricisi tarafından kullanılan tüm içerikleri (modeller, ses dosyaları, animasyonlar, metinler) ifade eder.",
+    "options": [
+      "Kod bloğu",
+      "3D model, ses, animasyon gibi içerikler",
+      "Veritabanı şeması",
+      "API endpoint"
+    ],
+    "correctAnswer": "3D model, ses, animasyon gibi içerikler",
+    "tags": [
+      "oyun-geliştirme",
+      "asset",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nivnyseod",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyun motoru fizik tabanlı sistemleri kendi içinde otomatik yönetir?",
+    "explanation": "Unreal Engine, gelişmiş fizik motoru (Chaos Physics) ve otomatik sistem yönetimi ile bilinir.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "Phaser"
+    ],
+    "correctAnswer": "Unreal Engine",
+    "tags": [
+      "oyun-motorları",
+      "fizik-sistemleri",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "plmmxbi5x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi popüler bir oyun motorudur?",
+    "explanation": "Unity, 2013 yılında kurulan ve hem mobil hem de PC oyunları için kullanılan dünyanın en popüler oyun motorlarından biridir.",
+    "options": [
+      "React",
+      "Unity",
+      "Django",
+      "Flask"
+    ],
+    "correctAnswer": "Unity",
+    "tags": [
+      "oyun-motoru",
+      "teknoloji",
+      "geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5gk1d6068",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirme için C# dilinin kullanıldığı hangi oyun motorunda bulunur?",
+    "explanation": "Unity oyun motorunda C# programlama dili kullanılırken, Unreal Engine'de C++ dilinin yanı sıra Blueprint görsel programlama sistemi de mevcuttur.",
+    "options": [
+      "Godot",
+      "Unreal Engine",
+      "Unity",
+      "GameMaker"
+    ],
+    "correctAnswer": "Unity",
+    "tags": [
+      "c-dili",
+      "oyun-motoru",
+      "programlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lcmw54ltd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun grafikleri için hangi API düşük seviyeli grafik işleme sağlar?",
+    "explanation": "OpenGL (Open Graphics Library), grafik işlemci birimi ile etkileşim kurmak için kullanılan açık kaynaklı bir grafik API'dir.",
+    "options": [
+      "OpenGL",
+      "CSS",
+      "SQL",
+      "HTML"
+    ],
+    "correctAnswer": "OpenGL",
+    "tags": [
+      "grafik-api",
+      "teknoloji",
+      "açık-kaynak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6eviedk1h",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun fiziği sistemleri hangi tür veriyi işler?",
+    "explanation": "Oyun fiziği sistemleri nesnelerin hareketini, yerçekimini ve çarpışma hesaplamalarını yönetmek için vektörler kullanır.",
+    "options": [
+      "Metin ve resimler",
+      "Hareket vektörleri ve çarpışma hesaplamaları",
+      "Veritabanı sorguları",
+      "Müzik dosyaları"
+    ],
+    "correctAnswer": "Hareket vektörleri ve çarpışma hesaplamaları",
+    "tags": [
+      "fizik-sistemi",
+      "oyun-mechanics",
+      "hissiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zcwp3huuk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi Unreal Engine'in görsel programlama sistemi olarak bilinir?",
+    "explanation": "Blueprint, Unreal Engine için geliştirilmiş görsel programlama sistemi olup, kod bilmeden oyun mantığı yazmayı sağlar.",
+    "options": [
+      "C#",
+      "Node.js",
+      "Blueprint",
+      "Lua"
+    ],
+    "correctAnswer": "Blueprint",
+    "tags": [
+      "blueprint",
+      "görsel-programlama",
+      "unreal-engine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "txad0pl45",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyun motoru ücretsiz açık kaynaklıdır ve C# ile çalışır?",
+    "explanation": "Unity, ücretli lisanslı olsa da ücretsiz starter paket sunar ve C# programlama dili ile çalışır. En popüler açık kaynak oyun motorlarından biridir.",
+    "options": [
+      "Unity",
+      "Unreal Engine",
+      "Godot",
+      "CryEngine"
+    ],
+    "correctAnswer": "Unity",
+    "tags": [
+      "oyun-motoru",
+      "programlama",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vqaufzi9d",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun geliştirme için hangi dil en yaygın olarak kullanılır?",
+    "explanation": "C#, özellikle Unity gibi oyun motorlarında en çok kullanılan dil olup, yüksek performans ve geniş kütüphane desteği sunmaktadır.",
+    "options": [
+      "Java",
+      "Python",
+      "C#",
+      "JavaScript"
+    ],
+    "correctAnswer": "C#",
+    "tags": [
+      "programlama",
+      "oyun-geliştirme",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "frcm5ztvt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi grafik API'si oyun geliştirme için kullanılır?",
+    "explanation": "Bütün seçenekler geçerli: OpenGL, DirectX ve Vulkan oyun geliştirme için kullanılan temel grafik API'leridir.",
+    "options": [
+      "OpenGL",
+      "DirectX",
+      "Vulkan",
+      "Hepsi"
+    ],
+    "correctAnswer": "Hepsi",
+    "tags": [
+      "grafik",
+      "API",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bifzcrur8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "GENERAL",
+    "question": "Oyun fizik motoru hangi işlevi yerine getirir?",
+    "explanation": "Fizik motorları, oyunlardaki nesnelerin hareketini, çarpışmalarını ve dinamiklerini simüle ederek gerçekçi oyun deneyimi sağlar.",
+    "options": [
+      "Grafik renderlaması",
+      "İşlem hızı artırma",
+      "Çarpışma tespiti ve hareket simülasyonu",
+      "Ses üretimi"
+    ],
+    "correctAnswer": "Çarpışma tespiti ve hareket simülasyonu",
+    "tags": [
+      "fizik-motoru",
+      "oyun-geliştirme",
+      "simülasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d9kz71w16",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Oyun Geliştirme",
+    "difficulty": "EXPERT",
+    "question": "Hangi oyun geliştirme dili yüksek performans için tercih edilir?",
+    "explanation": "C++, özellikle Unreal Engine gibi AAA oyunlarında kullanılan ve en yüksek performans sunan dil olarak bilinir.",
+    "options": [
+      "C++",
+      "Ruby",
+      "PHP",
+      "Go"
+    ],
+    "correctAnswer": "C++",
+    "tags": [
+      "performans",
+      "programlama-dili",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

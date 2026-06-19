@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "vvhmkzcv1",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Atomun merkezine ne ad verilir?",
+    "explanation": "Atomun merkezine nükleus denir ve bu bölgede proton ile nötron bulunur.",
+    "options": [
+      "Elektron",
+      "Nükleon",
+      "Nükleus",
+      "Proton"
+    ],
+    "correctAnswer": "Nükleus",
+    "tags": [
+      "kimya",
+      "atom yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y3gfcqvza",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir asittir?",
+    "explanation": "HCl (hidroklorik asit) bir asittir, su ile iyonize olduğunda H+ verir.",
+    "options": [
+      "Sodyum Hidroksit",
+      "HCl",
+      "Karbonat",
+      "Magnezyum"
+    ],
+    "correctAnswer": "HCl",
+    "tags": [
+      "kimya",
+      "asit ve baz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8nfhgmdrf",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Periyodik tabluda elementlerin yerleşimi hangi kriterlere göre yapılır?",
+    "explanation": "Periyodik tabloda elementler artan atom numarasına, aynı zamanda elektronik yapıya göre sıralanır.",
+    "options": [
+      "Atom ağırlığına ve elektronik yapıya",
+      "Renklere ve yoğunluğa",
+      "Saf halde olup olmaya",
+      "Molekül yapısına"
+    ],
+    "correctAnswer": "Atom ağırlığına ve elektronik yapıya",
+    "tags": [
+      "kimya",
+      "periyodik tablo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iis5ihwg4",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Oksidasyon-Redüksiyon reaksiyonlarında elektronların hareketi nasıl tanımlanır?",
+    "explanation": "Oksidasyon (elektron kaybı) ve redüksiyon (elektron kazanımı) elektron transferi ile gerçekleşir.",
+    "options": [
+      "Elektron kazanımı ve kaybetme",
+      "Atom numarası değişimi",
+      "Molekül ağırlığı artışı",
+      "İyon yükü sabitliği"
+    ],
+    "correctAnswer": "Elektron kazanımı ve kaybetme",
+    "tags": [
+      "kimya",
+      "redoks reaksiyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i0y7fqt4h",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Sulu çözeltilerde pH değerinin 7'den küçük olması neyi gösterir?",
+    "explanation": "pH 7'den küçük olan çözeltiler asidiktir (0-6.9 arası), pH 7 nötrdür, 7'den büyük baziktir.",
+    "options": [
+      "Bazik ortam",
+      "Nötr ortam",
+      "Asidik ortam",
+      "Tuzlu ortam"
+    ],
+    "correctAnswer": "Asidik ortam",
+    "tags": [
+      "kimya",
+      "pH ölçümü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "roepbawf8",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Kimyasal reaksiyonda korunmadığında bir nicelik hangisidir?",
+    "explanation": "Kimyasal reaksiyonda maddenin kütlesi, atom sayısı ve enerji korunur ancak elektron yükü korunmayabilir çünkü bazı reaksiyonlarda elektron alışverişi gerçekleşebilir.",
+    "options": [
+      "Maddenin kütlesi",
+      "Atom sayısı",
+      "Elektron yükü",
+      "Enerji miktarı"
+    ],
+    "correctAnswer": "Elektron yükü",
+    "tags": [
+      "kimya",
+      "korunma yasasılar",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lligycnd3",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "pH değeri 7'ye eşit olan bir çözelti nasıl tanımlanır?",
+    "explanation": "pH değeri 7'ye eşit olan bir çözelti nötr olarak tanımlanır. pH < 7 asidik, pH > 7 bazik çözüntüleri gösterir.",
+    "options": [
+      "Asidik çözelti",
+      "Bazik çözelti",
+      "Nötr çözelti",
+      "Tuzlu çözelti"
+    ],
+    "correctAnswer": "Nötr çözelti",
+    "tags": [
+      "kimya",
+      "pH",
+      "asit-baz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ptovc7d9k",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Periyodik tabluda elementlerin gruplara ayrılması hangi özelliklere göre yapılır?",
+    "explanation": "Periyodik tabloda elementlerin gruplara ayrılması son katman valans elektron sayısına göre yapılır. Aynı gruptaki elementler benzer kimyasal özelliklere sahiptir.",
+    "options": [
+      "Kütle numaralarına",
+      "Atom sayılarına",
+      "Valans elektron sayısına",
+      "Yörünge momentumuna"
+    ],
+    "correctAnswer": "Valans elektron sayısına",
+    "tags": [
+      "kimya",
+      "periyodik tablo",
+      "elektron yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yur3oetjl",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Hangi maddenin atomları arasında iyonik bağ vardır?",
+    "explanation": "NaCl'de sodyum metal atomu elektron verir, klor ise bu elektroni alır ve iyonik bağ oluşur. Diğer maddeler kovalent bağ içerir.",
+    "options": [
+      "H₂O (Su)",
+      "CO₂ (Karbon dioksit)",
+      "NaCl (Sodyum klorür)",
+      "CH₄ (Metan)"
+    ],
+    "correctAnswer": "NaCl (Sodyum klorür)",
+    "tags": [
+      "kimya",
+      "kimyasal bağlar",
+      "iyonik bağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ot3bn96k7",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Bir reaksiyonun entalpi değişimi hangisi olduğunda endotermik reaksiyondur?",
+    "explanation": "Endotermik reaksiyonlarda ortamdan enerji alınır ve ΔH (entalpi değişimi) pozitiftir (ΔH > 0). Ekzotermik reaksiyonlarda ise ΔH < 0 olur.",
+    "options": [
+      "ΔH < 0",
+      "ΔH > 0",
+      "ΔH = 0",
+      "ΔH ≈ 0"
+    ],
+    "correctAnswer": "ΔH > 0",
+    "tags": [
+      "kimya",
+      "termodinamik",
+      "entalpi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k3zz2nwst",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Kimyasal reaksiyonlarda madde miktarının korunması hangi kurala dayanır?",
+    "explanation": "Lavoisier tarafından formüle edilen Kütle Korunması Kanunu'na göre, kapalı bir sistemde kimyasal reaksiyon sırasında toplam kütle değişmez.",
+    "options": [
+      "Kütle Korunması Kanunu",
+      "Enerji Korunması Kanunu",
+      "Momentum Korunması Kanunu",
+      "Hesaplanabilirlik Kanunu"
+    ],
+    "correctAnswer": "Kütle Korunması Kanunu",
+    "tags": [
+      "kimya",
+      "kaynaklar",
+      "temel-kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3402dk6ef",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "pH değeri 7 olan çözeltinin karakteri nasıldır?",
+    "explanation": "pH ölçeğinde 7 nötr, 7'den düşük asidik ve 7'den yüksek bazik çözeltiyi gösterir.",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Belirsiz"
+    ],
+    "correctAnswer": "Nötr",
+    "tags": [
+      "kimya",
+      "ph-ölçümü",
+      "sulu-chözelti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v21oj9j32",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Periyodik tablodaki elementlerin sıralanması hangi özelliğe göre yapılır?",
+    "explanation": "Periyodik tablodaki elementler artan atom numarasına (proton sayısı) göre soldan sağa, üstten alta sıralanır.",
+    "options": [
+      "Molekül ağırlığı",
+      "Atom numarası",
+      "Elektron konfigürasyonu",
+      "İyonlaşma enerjisi"
+    ],
+    "correctAnswer": "Atom numarası",
+    "tags": [
+      "kimya",
+      "periyodik-tablo",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ze56ho82n",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Kovalent bağ hangi tür atomlar arasında oluşur?",
+    "explanation": "Kovalent bağ, elektronları paylaşan iki nonmetalik atom arasında oluşur.",
+    "options": [
+      "Metal-Metal",
+      "Metal-Nonmetal",
+      "Nonmetal-Nonmetal",
+      "Tüm atomlar"
+    ],
+    "correctAnswer": "Nonmetal-Nonmetal",
+    "tags": [
+      "kimya",
+      "bağ-tipleri",
+      "kovalent-bağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ocvyoh612",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Bir mol gazın standart koşullardaki (STP) hacmi yaklaşık olarak ne kadardır?",
+    "explanation": "STP (Standart Basınç ve Sıcaklık) koşullarında, 1 mol ideal gaz yaklaşık 22.4 litre hacme sahiptir.",
+    "options": [
+      "10 L",
+      "22.4 L",
+      "56 L",
+      "112 L"
+    ],
+    "correctAnswer": "22.4 L",
+    "tags": [
+      "kimya",
+      "gaz-kanunları",
+      "mol-hacim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kredab9o3",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki elementlerden hangisinin atom numarası en yüksektir?",
+    "explanation": "Çinkonun atom numarası 30'dur. Lityum 3, Sodyum 11 ve Potasyum 19'dur.",
+    "options": [
+      "Lityum (Li)",
+      "Sodyum (Na)",
+      "Potasyum (K)",
+      "Çinko (Zn)"
+    ],
+    "correctAnswer": "Çinko (Zn)",
+    "tags": [
+      "Periyodik Tablo",
+      "Atom Numarası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sjpljsiih",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "pH değeri 7 olan bir çözeltinin karakteri nedir?",
+    "explanation": "pH 7 değeri nötr çözeltiyi ifade eder. pH < 7 asidik, pH > 7 bazikdir.",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Güçlü Asit"
+    ],
+    "correctAnswer": "Nötr",
+    "tags": [
+      "pH",
+      "Asit-Baz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a8xzb3t9c",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "İzotoplar arasındaki temel fark nedir?",
+    "explanation": "İzotoplar aynı elementin (aynı proton sayısının) farklı nötron sayısına sahip varyasyonlarıdır.",
+    "options": [
+      "Elektron sayısı farklıdır",
+      "Atom numarası farklıdır",
+      "Nötron sayısı farklıdır",
+      "Proton sayısı farklıdır"
+    ],
+    "correctAnswer": "Nötron sayısı farklıdır",
+    "tags": [
+      "İzotop",
+      "Atom Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c4og2mq2b",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki bileşiklerden hangisi iyonik bağ içerir?",
+    "explanation": "NaCl (sodyum klorür) metal ve ametal arasından oluşan tipik bir iyonik bileşiktir.",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "NaCl",
+      "NH₃"
+    ],
+    "correctAnswer": "NaCl",
+    "tags": [
+      "Kimyasal Bağ",
+      "İyonik Bağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "46ptnuxbk",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Stoikiyometride 'mol kavramı' ne ifade eder?",
+    "explanation": "Bir mol, Avogadro sayısı kadar (yaklaşık 6.022 x 10²³) parçacıktan oluşur.",
+    "options": [
+      "Bir molekülun kütlesidir",
+      "6.022 x 10²³ parçacık sayısına eşittir",
+      "Atom numarasını gösterir",
+      "Elektron yükünü belirtir"
+    ],
+    "correctAnswer": "6.022 x 10²³ parçacık sayısına eşittir",
+    "tags": [
+      "Mol",
+      "Stoikiyometri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yc6dulc1i",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Kimyasal tepkimelerde aşağıdakilerden hangisi korunmaz?",
+    "explanation": "Kimyasal tepkimelerde kütle, atom sayısı ve elektron yükü korunur. Ancak hareket enerjisi tepkime sırasında değişebilir.",
+    "options": [
+      "Maddelerin kütlesi",
+      "Atomların sayısı",
+      "Elektron yükü",
+      "Hareket enerjisi"
+    ],
+    "correctAnswer": "Hareket enerjisi",
+    "tags": [
+      "kimya",
+      "enerji",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7tw3piaat",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "pH değeri 7 olan çözelti nasıl adlandırılır?",
+    "explanation": "pH 7'ye eşit olduğunda çözelti nötr kabul edilir. pH 7'den küçük asidik, büyük ise bazik çözelti olur.",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Tuzlu"
+    ],
+    "correctAnswer": "Nötr",
+    "tags": [
+      "pH",
+      "çözelti",
+      "asit-baz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dcua6k76i",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi organik bileşik değildir?",
+    "explanation": "Sodyum klorür iyonik bileşiktir ve organik bileşik değildir. Diğerleri karbon içeren organik bileşiklerdir.",
+    "options": [
+      "Etanol",
+      "Glukoz",
+      "Sodyum klorür",
+      "Metan"
+    ],
+    "correctAnswer": "Sodyum klorür",
+    "tags": [
+      "organik-bileşikler",
+      "kimya",
+      "bileşenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3fdvn7777",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Periyodik tabloda elementlerin yerleşimi hangi özelliğe göre yapılır?",
+    "explanation": "Periyodik tabloda elementler proton sayısı (atom numarası) artan sırada yerleştirilir. Bu sayı elementin kimliğini belirler.",
+    "options": [
+      "Atom ağırlığına",
+      "Elektron konfigürasyonuna",
+      "Proton sayısına",
+      "Bütün bu özelliklere"
+    ],
+    "correctAnswer": "Proton sayısına",
+    "tags": [
+      "periyodik-tablo",
+      "elementler",
+      "atom yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n2w4iknr2",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki tepkimeden hangisi endotermik tepkime örneğidir?",
+    "explanation": "Endotermik tepkimeler enerji emen reaksiyonlardır. Kalsiyum karbonatın ısıtılması enerji alır ve CO2 açığa çıkarır.",
+    "options": [
+      "Demirin paslanması",
+      "Sodyum ve su tepkimesi",
+      "Kalsiyum karbonatın ısıtılması",
+      "Metanin yanması"
+    ],
+    "correctAnswer": "Kalsiyum karbonatın ısıtılması",
+    "tags": [
+      "endotermik-reaksiyonlar",
+      "termokimya",
+      "enerji-dengesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "akpawitvn",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Kimyada elementlerin birleşerek bileşik oluşturması hangi tür değişimdir?",
+    "explanation": "Elementlerin birleşerek yeni madde (bileşik) oluşturması kimyasal değişimdir. Fiziksel değişimde maddenin kimliği değişmez.",
+    "options": [
+      "Fiziksel değişim",
+      "Kimyasal değişim",
+      "Nükleer değişim",
+      "Termal değişim"
+    ],
+    "correctAnswer": "Kimyasal değişim",
+    "tags": [
+      "kimya",
+      "değişim-tipleri",
+      "temel-kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bacu61ov7",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Su molekülünün kimyasal formülü nedir?",
+    "explanation": "Su molekülü 2 hidrojen atomu ve 1 oksijen atomundan oluşur, formülü H2O'dur.",
+    "options": [
+      "CO2",
+      "H2O",
+      "NaCl",
+      "CH4"
+    ],
+    "correctAnswer": "H2O",
+    "tags": [
+      "kimya",
+      "formüller",
+      "moleküler-yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mgfnm6agz",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Periyodik tabloda elementlerin düzenlenmesinde temel kriter nedir?",
+    "explanation": "Periyodik tabloda elementler proton sayılarına (atom numarasına) göre sıralanır, periyotik özellikleri gösterir.",
+    "options": [
+      "Atom kütleleri",
+      "Proton sayıları (atom numaraları)",
+      "Elektron sayısı",
+      "Molekül ağırlıkları"
+    ],
+    "correctAnswer": "Proton sayıları (atom numaraları)",
+    "tags": [
+      "kimya",
+      "periyodik-tablo",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "grg37wy72",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Asit ve bazların tuz oluşum reaksiyonuna ne ad verilir?",
+    "explanation": "Asit ve bazın tepkimesinde tuz ve su oluşur, bu reaksiyona nötralleşme denir.",
+    "options": [
+      "Nötralleşme",
+      "Oksidasyon",
+      "Hidrasyon",
+      "Karbonizasyon"
+    ],
+    "correctAnswer": "Nötralleşme",
+    "tags": [
+      "kimya",
+      "asit-baz",
+      "reaksiyon-tipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c94zrw06w",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi organik kimyanın temel bileşiği olarak kabul edilir?",
+    "explanation": "Metan, en basit organik bileşiktir ve tüm karbon bileşiklerinin temel yapısını oluşturur.",
+    "options": [
+      "Metan (CH4)",
+      "Etilen (C2H4)",
+      "Benzol (C6H6)",
+      "Toluene (C7H8)"
+    ],
+    "correctAnswer": "Metan (CH4)",
+    "tags": [
+      "kimya",
+      "organik-kimya",
+      "karbon-bileşikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y5fjj4jt9",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki elementlerden hangisi katı haldedir?",
+    "explanation": "Demir oda sıcaklığında katı haldedir. Oksijen, helyum ve azot ise gaz halindedir.",
+    "options": [
+      "Oksijen",
+      "Demir",
+      "Helyum",
+      "Azot"
+    ],
+    "correctAnswer": "Demir",
+    "tags": [
+      "elementler",
+      "fiziksel durumlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7wjtl435s",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Hangi bileşik asidik özellik gösterir?",
+    "explanation": "HCl (hidroklorik asit) bir asittir ve suya eklendiğinde H+ iyonu verir. Diğerleri baz veya tuz özelliklidir.",
+    "options": [
+      "NaOH",
+      "HCl",
+      "K2CO3",
+      "NH3"
+    ],
+    "correctAnswer": "HCl",
+    "tags": [
+      "asit-baz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bk3ejbhoz",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Periyodik tabloda 'Metaller' grubuna ait olmayan element hangisidir?",
+    "explanation": "Karbon bir ametaldir ve metal grubuna ait değildir. Diğer seçenekler metaller arasında yer alır.",
+    "options": [
+      "Lityum",
+      "Bakır",
+      "Karbon",
+      "Alüminyum"
+    ],
+    "correctAnswer": "Karbon",
+    "tags": [
+      "periyodik tablo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6sqgt1sty",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Kimyasal tepkimede 'Molekül' nedir?",
+    "explanation": "Molekül, iki veya daha fazla atomun kovalent bağlarla bir araya gelmesiyle oluşur. Tek atomlu yapılar 'atom' olarak adlandırılır.",
+    "options": [
+      "İki veya daha fazla atomun bağlı olduğu yapı",
+      "Tek bir atomdan oluşan yapı",
+      "Elektronların çekirdeğe bağlandığı sistem",
+      "Işığın maddeyle etkileşimi"
+    ],
+    "correctAnswer": "İki veya daha fazla atomun bağlı olduğu yapı",
+    "tags": [
+      "kimyasal yapılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vaumaoymt",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Hangi bileşik organik kimyanın temelini oluşturur?",
+    "explanation": "Methan, karbon ve hidrojen içeren en basit organik bileşiktir. Organik kimya temelde karbon bazlı moleküllerle ilgilidir.",
+    "options": [
+      "Su (H2O)",
+      "Methan (CH4)",
+      "Tuz (NaCl)",
+      "Oksijen (O2)"
+    ],
+    "correctAnswer": "Methan (CH4)",
+    "tags": [
+      "organik kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8k1z0f42h",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Atomdaki proton sayısı hangi terimle ifade edilir?",
+    "explanation": "Proton sayısına atom numarası denir ve elementin kimliğini belirler.",
+    "options": [
+      "Atom numarası",
+      "Kütle numarası",
+      "Elektron sayısı",
+      "Nötron sayısı"
+    ],
+    "correctAnswer": "Atom numarası",
+    "tags": [
+      "atom yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d8hlpsaiv",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Sıcaklığı artan kimyasal tepkimeler hangi türdür?",
+    "explanation": "Isı açığa çıkan tepkimeler egzotermiktir.",
+    "options": [
+      "Endotermik",
+      "Egzotermik",
+      "Redoks",
+      "Asit-baz"
+    ],
+    "correctAnswer": "Egzotermik",
+    "tags": [
+      "enerjisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ffjy06h7",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Periyodik tabloda elementlerin sıralanma kriteri nedir?",
+    "explanation": "Elementler artan atom numaralarına göre sıralanır.",
+    "options": [
+      "Kütle numarası",
+      "Atom numarası",
+      "Elektron sayısı",
+      "Nötron sayısı"
+    ],
+    "correctAnswer": "Atom numarası",
+    "tags": [
+      "periyodik tablo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ecv7jsp01",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Methan (CH4) molekülünde kaç sigma bağı vardır?",
+    "explanation": "Methan'da 4 tekli kovalent bağ bulunur, hepsi sigma bağıdır.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "organik kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rfftii0pv",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Hava kirliliğini azaltmak için kullanılan katalizör hangi element içerir?",
+    "explanation": "Platin, otomobil egzozlarında NOx ve CO'yu azaltan katalizör olarak kullanılır.",
+    "options": [
+      "Platin",
+      "Bakır",
+      "Demir",
+      "Çinko"
+    ],
+    "correctAnswer": "Platin",
+    "tags": [
+      "çevre kimyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ygh9ooqry",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Hangi elementin kimyasal sembolü 'O' ile gösterilir?",
+    "explanation": "Oksijen elementinin kimyasal sembolü 'O' ile gösterilir. Altın Au, Azot N, Osmyum Os sembolleriyle ifade edilir.",
+    "options": [
+      "Altın",
+      "Oksijen",
+      "Azot",
+      "Osmyum"
+    ],
+    "correctAnswer": "Oksijen",
+    "tags": [
+      "kimya",
+      "periyodik-tablo",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gocunrb3j",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Su (H₂O) molekülünde kaç tane hidrojen atomu bulunur?",
+    "explanation": "Su molekülünün formülü H₂O olduğundan, 2 tane hidrojen atomu ve 1 tane oksijen atomu içerir.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "kimya",
+      "moleküller",
+      "su"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ymuzv3zya",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Asitlerin genel özelliklerinden hangisi yanlıştır?",
+    "explanation": "Asitler proton (H⁺) verir, elektron vermez. Mavi lakmus kağıdını kırmızıya çevirir, tatları ekşidir ve pH değeri 7'den küçüktür.",
+    "options": [
+      "Mavi lakmus kağıdını kırmızıya çevirir",
+      "Tatları ekşidir",
+      "Elektron verir",
+      "pH değeri 7'den küçüktür"
+    ],
+    "correctAnswer": "Elektron verir",
+    "tags": [
+      "kimya",
+      "asitler-bazlar",
+      "asit-ozellikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k3f6uvcrn",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Hangi element periyodik tabloda 'Fe' sembolüyle gösterilir?",
+    "explanation": "Demir elementinin kimyasal sembolü 'Fe' (Latince Ferrum) ile gösterilir. Flor F, Fosfor P sembolleriyle ifade edilir.",
+    "options": [
+      "Flor",
+      "Fosfor",
+      "Demir",
+      "Floren"
+    ],
+    "correctAnswer": "Demir",
+    "tags": [
+      "kimya",
+      "periyodik-tablo",
+      "elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "98vymwvdl",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Sodyum klorür (NaCl) hangi maddeden oluşur?",
+    "explanation": "NaCl (sodyum klorür veya mutfak tuzu), sodyum (Na) ve klor (Cl) elementlerinin iyonik birleşmesiyle oluşur.",
+    "options": [
+      "Sodyum ve Klor",
+      "Silisyum ve Klor",
+      "Sodyum ve Karbon",
+      "Silisyum ve Karbon"
+    ],
+    "correctAnswer": "Sodyum ve Klor",
+    "tags": [
+      "kimya",
+      "iyonlar",
+      "tuzlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6vvxfj66t",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EASY",
+    "question": "Bir atomun en dış katmanında bulunan elektronlara ne ad verilir?",
+    "explanation": "Valans elektronları, atomun en dış enerji seviyesinde bulunan elektronlardır ve kimyasal bağların oluşumunda rol alırlar.",
+    "options": [
+      "İç katman elektronları",
+      "Devalı elektronlar",
+      "Valans elektronları",
+      "Nötr elektronlar"
+    ],
+    "correctAnswer": "Valans elektronları",
+    "tags": [
+      "atom yapısı",
+      "elektronlar",
+      "kimya temelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dkq9948ru",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "İki metal elementi arasında oluşan bağ türü hangisidir?",
+    "explanation": "İki metal elementi arasında elektronların paylaşılmak yerine serbest dolaşımı oluşturan metalik bağ oluşur.",
+    "options": [
+      "Kovalent bağ",
+      "Yönetsel (iyon) bağ",
+      "Metalik bağ",
+      "Hidrojen bağ"
+    ],
+    "correctAnswer": "Metalik bağ",
+    "tags": [
+      "kimyasal bağlar",
+      "metalik yapı",
+      "periyodik sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k221tpkc3",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "Periyodik tabloda sağa doğru ilerledikçe atom yarıçapı nasıl değişir?",
+    "explanation": "Periyodik tabloda sağa doğru ilerledikçe çekirdekteki proton sayısı artar ve elektronlar aynı katmanda yer aldığı için çekim kuvveti artarak atom yarıçapı küçülür.",
+    "options": [
+      "Artar",
+      "Azalır",
+      "Değişmez",
+      "Önce artar sonra azalır"
+    ],
+    "correctAnswer": "Azalır",
+    "tags": [
+      "periyodik sistem",
+      "atom yarıçapı",
+      "periyodik eğilimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "suo19zg05",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi organik kimya ile ilgili değildir?",
+    "explanation": "Organik kimya karbon bazlı bileşikler ile ilgilidir. İyonik kristal yapılar inorganik kimyanın konusu olup asit, baz ve tuz bileşikleri içerir.",
+    "options": [
+      "Moleküldeki karbon bağları",
+      "Polimerizasyon tepkimeleri",
+      "İyonik kristal yapılar",
+      "Fonksiyonel gruplar"
+    ],
+    "correctAnswer": "İyonik kristal yapılar",
+    "tags": [
+      "organik kimya",
+      "kristal yapı",
+      "moleküller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uu4zu9jq4",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "EXPERT",
+    "question": "Bir tepkimede sadece elektron alışverişi olan reaksiyon hangisidir?",
+    "explanation": "Redoks tepkimelerinde elektron alışverişi gerçekleşir. Redüksiyon (elektron kazanma) ve oksidasyon (elektron kaybetme) birlikte olur.",
+    "options": [
+      "Katalitik tepkime",
+      "Redoks tepkimesi",
+      "Hidroliz tepkimesi",
+      "Poliymerizasyon"
+    ],
+    "correctAnswer": "Redoks tepkimesi",
+    "tags": [
+      "redoks",
+      "elektron transferi",
+      "tepkime türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qendiypv5",
+    "category": "BİLİM",
+    "subcategory": "Kimya",
+    "difficulty": "GENERAL",
+    "question": "pH değeri 7 olan çözelti nasıl adlandırılır?",
+    "explanation": "pH değeri 7 olan çözelti nötrdür. pH 7'den küçük ise asidik, 7'den büyük ise bazik özelliğe sahiptir.",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Kuvvetli asit"
+    ],
+    "correctAnswer": "Nötr",
+    "tags": [
+      "pH",
+      "çözelti özellikleri",
+      "asit baz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

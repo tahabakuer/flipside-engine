@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "x6la0q7h9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "Kelime kökeni açısından 'kitap' kelimesinin Arapça karşılığı nedir?",
+    "explanation": "'Kitap' kelimesi Arapça 'كُتُبْ' (kütub) kökünden gelir, bu kelime çoğul haldedir.",
+    "options": [
+      "Kütub",
+      "Kıtabu",
+      "Kutub",
+      "Kitabu"
+    ],
+    "correctAnswer": "Kütub",
+    "tags": [
+      "Edebiyat ve Dil",
+      "Kelime Kökenleri",
+      "Arapça"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "82k1lhm52",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "Hangi kelime Türkçe kökenlidir?",
+    "explanation": "'Şehir' kelimesi Türkçe kökenlidir, diğer kelimeler Arapça veya Farsça kökenlidir.",
+    "options": [
+      "Şehir",
+      "Mektep",
+      "Okul",
+      "Ders"
+    ],
+    "correctAnswer": "Şehir",
+    "tags": [
+      "Edebiyat ve Dil",
+      "Kelime Kökenleri",
+      "Türkçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c3g8m4rpx",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "'Dil' kelimesinin etimolojik anlamı nedir?",
+    "explanation": "'Dil' kelimesi etimolojik olarak 'beden, beden' kökünden gelir, konuşma organı anlamında kullanılır.",
+    "options": [
+      "Ses",
+      "Konuşma",
+      "Beden/Bedan",
+      "Yazı"
+    ],
+    "correctAnswer": "Beden/Bedan",
+    "tags": [
+      "Edebiyat ve Dil",
+      "Kelime Kökenleri",
+      "Etimoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bczk2u06v",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Arapça kelime Türkçeye 'öğretmen' anlamında geçmiştir?",
+    "explanation": "'Muallim' Arapça kökenli olup 'öğretmen, hocam' anlamında Türkçeye geçmiştir.",
+    "options": [
+      "Müezzin",
+      "Muallim",
+      "Müderris",
+      "Okutman"
+    ],
+    "correctAnswer": "Muallim",
+    "tags": [
+      "Edebiyat ve Dil",
+      "Kelime Kökenleri",
+      "Arapça"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i2zvhgnam",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "'Okul' kelimesinin kökeni nerededir?",
+    "explanation": "'Okul' kelimesi Türkçe kökenlidir, 'çalışma yeri' anlamında kullanılır.",
+    "options": [
+      "Arapça",
+      "Farsça",
+      "Türkçe",
+      "İbranice"
+    ],
+    "correctAnswer": "Türkçe",
+    "tags": [
+      "Edebiyat ve Dil",
+      "Kelime Kökenleri",
+      "Türkçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p3kymtaxm",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Şehir\" kelimesinin etimolojik kökeni neresidir?",
+    "explanation": "\"Şehir\" kelimesi Arapça \"شهر\" kökünden gelmiştir ve yerleşik, kalabalık bölge anlamına gelir.",
+    "options": [
+      "Arabic \"شهر\" (şehir) kökünden",
+      "Türkçe yerleşik alan kökünden",
+      "Latin \"urbs\" kökünden",
+      "Persian \"شهر\" kökünden"
+    ],
+    "correctAnswer": "Arabic \"شهر\" (şehir) kökünden",
+    "tags": [
+      "etimoloji",
+      "kelime-kökenleri",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mdv1zgvq8",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kitap\" kelimesinin etimolojik kaynağı neresidir?",
+    "explanation": "\"Kitap\" kelimesi Arapça \"كتاب\" kökünden gelir ve yazılı esere, bilgi taşıyıcıya işaret eder.",
+    "options": [
+      "Arapça \"كتاب\" (kitâb) kökünden",
+      "Farsça \"کتاب\" kökünden",
+      "Türkçe yerleşik anlam kökünden",
+      "Latin \"liber\" kökünden"
+    ],
+    "correctAnswer": "Arapça \"كتاب\" (kitâb) kökünden",
+    "tags": [
+      "etimoloji",
+      "kelime-kökenleri",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sznfwu9u5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "\"Okul\" kelimesinin etimolojik kökeni neresidir?",
+    "explanation": "\"Okul\" kelimesi aslında Latin \"schola\" kökünden gelir ve öğrenme, eğitim gören yer anlamına taşır.",
+    "options": [
+      "Türkçe yerleşik anlam kökünden",
+      "Arapça \"مدرسة\" kökünden",
+      "Latin \"schola\" (akademî bölge) kökünden",
+      "Farsça \"مدارس\" kökünden"
+    ],
+    "correctAnswer": "Latin \"schola\" (akademî bölge) kökünden",
+    "tags": [
+      "etimoloji",
+      "kelime-kökenleri",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mlw42t3fw",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Dil\" kelimesinin etimolojik kökeni neresidir?",
+    "explanation": "\"Dil\" kelimesi Germanik dillerin ortak köklerinden gelir ve konuşma, iletişim aracı anlamına taşır.",
+    "options": [
+      "Germanik dillerin ortak kökünden",
+      "Türkçe yerleşik anlam kökünden",
+      "Arapça \"لغة\" kökünden",
+      "Farsça \"زبان\" kökünden"
+    ],
+    "correctAnswer": "Germanik dillerin ortak kökünden",
+    "tags": [
+      "etimoloji",
+      "kelime-kökenleri",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dtx2fjdd2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kalem\" kelimesinin etimolojik kaynağı neresidir?",
+    "explanation": "\"Kalem\" kelimesi Arapça \"قلم\" kökünden gelir ve yazı için kullanılan alet anlamına taşır.",
+    "options": [
+      "Arapça \"قلم\" (qalam) kökünden",
+      "Türkçe yerleşik anlam kökünden",
+      "Latin \"calamus\" kökünden",
+      "Farsça \"قلم\" kökünden"
+    ],
+    "correctAnswer": "Arapça \"قلم\" (qalam) kökünden",
+    "tags": [
+      "etimoloji",
+      "kelime-kökenleri",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ddfyxoxy",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "\"Şiir\" kelimesinin kökenini aşağıdakilerden hangisinde doğru belirtmişsiniz?",
+    "explanation": "\"Şiir\" kelimesi Farsça \"şeh-\" kökünden türetilmiş olup, \"söz, ifade, şiir\" anlamlarına gelir. Türkçede bu anlam korunarak literatürde kullanılmaktadır.",
+    "options": [
+      "Latin \"seu\" (yapışma) kökünden gelir",
+      "Farsça \"şeh\" (söz, şiir) kökünden gelir",
+      "Türkçe \"şi\" (akışkan) kökünden gelir",
+      "Arapça \"şeyr\" (gösterme) kökünden gelir"
+    ],
+    "correctAnswer": "Farsça \"şeh\" (söz, şiir) kökünden gelir",
+    "tags": [
+      "etimoloji",
+      "şiir",
+      "kelime-kökleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3e2v8koki",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "\"Mısır\" kelimesi hangi dilin etimolojik kökeninden gelmektedir?",
+    "explanation": "\"Mısır\" kelimesi Arapça \"maşr-\" kökünden türetilmiş olup, uzun yazı veya şiir anlamına gelir. Türkçede şiir mısra anlamlarında kullanılmaktadır.",
+    "options": [
+      "Arapça \"maşr\" (uzun, uzun yazı) kökünden",
+      "Farsça \"maysar\" (güzel, uzun) kökünden",
+      "Türkçe \"mısır\" (akışkan) kökünden",
+      "Latince \"miser\" (tutkulu) kökünden"
+    ],
+    "correctAnswer": "Arapça \"maşr\" (uzun, uzun yazı) kökünden",
+    "tags": [
+      "etimoloji",
+      "mısır",
+      "kelime-kökleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fkdfdje9z",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Nazım\" kelimesinin etimolojik kökeni aşağıdakilerden hangisidir?",
+    "explanation": "\"Nazım\" kelimesi Arapça \"nazam-\" kökünden türetilmiş olup, \"sıralama, düzenleme, dizme\" anlamlarına gelir. Türkçede şiir yapımı anlamında kullanılır.",
+    "options": [
+      "Arapça \"nazam\" (sıralama, düzenleme) kökünden",
+      "Farsça \"nazır\" (bakış, gözlem) kökünden",
+      "Türkçe \"na\" (akışkan) kökünden",
+      "Latince \"natum\" (doğuş) kökünden"
+    ],
+    "correctAnswer": "Arapça \"nazam\" (sıralama, düzenleme) kökünden",
+    "tags": [
+      "etimoloji",
+      "nazım",
+      "kelime-kökleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0z83z6xyf",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Şair\" kelimesinin etimolojik kaynağı aşağıdakilerden hangisidir?",
+    "explanation": "\"Şair\" kelimesi Arapça \"şayr-\" kökünden türetilmiş olup, \"gösteren, anlatan, ifade eden\" anlamına gelir. Türkçede şiir yazan kişi için kullanılır.",
+    "options": [
+      "Arapça \"şayr\" (gösteren, anlatan) kökünden",
+      "Farsça \"şahir\" (şiir bilen) kökünden",
+      "Türkçe \"şa\" (akışkan) kökünden",
+      "Latince \"saier\" (yapıcı) kökünden"
+    ],
+    "correctAnswer": "Arapça \"şayr\" (gösteren, anlatan) kökünden",
+    "tags": [
+      "etimoloji",
+      "şair",
+      "kelime-kökleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lf1pg6gv9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Metin\" kelimesinin etimolojik kökeni aşağıdakilerden hangisidir?",
+    "explanation": "\"Metin\" kelimesi Arapça \"metn-\" kökünden türetilmiş olup, \"kitap, yazı, metin\" anlamlarına gelir. Türkçede edebiyat alanında yaygın kullanılır.",
+    "options": [
+      "Arapça \"metn-\" (kitap, yazı) kökünden",
+      "Farsça \"metan\" (yazı, metin) kökünden",
+      "Türkçe \"met\" (akışkan) kökünden",
+      "Latince \"metum\" (koruyucu) kökünden"
+    ],
+    "correctAnswer": "Arapça \"metn-\" (kitap, yazı) kökünden",
+    "tags": [
+      "etimoloji",
+      "metin",
+      "kelime-kökleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y2oolgscq",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kitap\" kelimesinin kökeni hangi dildir?",
+    "explanation": "\"Kitap\" kelimesi Arapça 'kita' kökünden gelir ve orijinal anlamı 'sayfa', 'yazı' şeklindedir.",
+    "options": [
+      "Farsça",
+      "Arapça",
+      "Türkçe",
+      "Ermenice"
+    ],
+    "correctAnswer": "Arapça",
+    "tags": [
+      "etymology",
+      "kelime-kökleri",
+      "kitap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3macatspo",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Şair\" kelimesinin kökeni hangi dildir?",
+    "explanation": "\"Şair\" kelimesi Farsça 'sayh' kökünden gelir ve aslınca 'sanatkar', 'yetenek sahibi' anlamına gelmektedir.",
+    "options": [
+      "Arapça",
+      "Farsça",
+      "Türkçe",
+      "Hint-Avrupa"
+    ],
+    "correctAnswer": "Farsça",
+    "tags": [
+      "etymology",
+      "kelime-kökleri",
+      "şair"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5t4ofylcl",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "\"Kelime\" sözcüğünün temel etimolojik kökü hangi dil ailesine aittir?",
+    "explanation": "\"Kelime\" sözcüğü Semitik dillerin köklerinden gelir ve orijinal Aramice/Semitik 'kılt' anlamına gelmektedir.",
+    "options": [
+      "Semitik",
+      "Hint-Avrupa",
+      "Türk dilleri",
+      "Fin-Ugor"
+    ],
+    "correctAnswer": "Semitik",
+    "tags": [
+      "etymology",
+      "kelime-kökleri",
+      "kelime"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8fsyou1a2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Edebi\" kelimesinin dilbilimsel kökeni neresidir?",
+    "explanation": "\"Edebi\" kelimesi Arapça 'adab' (davranış, nezaket) kökünden türemiş ve edebiyat bilgisini ifade eder.",
+    "options": [
+      "Türkçe",
+      "Farsça",
+      "Arapça 'adab' kökünden",
+      "Hint dillerinden"
+    ],
+    "correctAnswer": "Arapça 'adab' kökünden",
+    "tags": [
+      "etymology",
+      "kelime-kökleri",
+      "edebi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cy679vtwe",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "\"Dil\" sözcüğünün etimolojik anlamda \"konuşma\" ile ilgili kökü hangi dil ailesinden gelir?",
+    "explanation": "\"Dil\" sözcüğü Hint-Avrupa dil ailesinin temel köklerinden gelir ve konuşma, iletişim kavramını ifade eder.",
+    "options": [
+      "Alman dilleri",
+      "Romans dilleri",
+      "Hint-Avrupa dilleri",
+      "Semitik diller"
+    ],
+    "correctAnswer": "Hint-Avrupa dilleri",
+    "tags": [
+      "etymology",
+      "kelime-kökleri",
+      "dil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qtxogoi7e",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kitap\" kelimesinin etimolojik kökeni aşağıdakilerden hangisidir?",
+    "explanation": "\"Kitap\" kelimesi Arapça \"کتاب\" (kitāb) sözcüğünden Türkçeye geçmiştir. Bu kelime eski Arap dilinde yazı, not, belge anlamlarını taşıyordu.",
+    "options": [
+      "Türkçe kökenli",
+      "Arapça kökenli (کتاب)",
+      "Farsça kökenli",
+      "Latince kökenli"
+    ],
+    "correctAnswer": "Arapça kökenli (کتاب)",
+    "tags": [
+      "etimoloji",
+      "kelime kökenleri",
+      "edebiyat",
+      "dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ydu6onax",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Şair\" terimi hangi dilden gelmiştir?",
+    "explanation": "\"Şair\" kelimesi Farsça \"شاعر\" (şāʿir) sözcüğünden gelmiştir. Bu terim Arap dilinde de aynı şekilde kullanılır ve 'şiiri ustası, beyit yapan' anlamlarını taşır.",
+    "options": [
+      "Türkçe kökenli",
+      "Farsça kökenli (شاعر)",
+      "Arapça kökenli",
+      "İbranice kökenli"
+    ],
+    "correctAnswer": "Farsça kökenli (شاعر)",
+    "tags": [
+      "etimoloji",
+      "kelime kökenleri",
+      "edebiyat",
+      "terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ednnwp3x",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "Hangi kelime Latince kökenlidir?",
+    "explanation": "\"Roman\" kelimesi Latince \"roma\" (kent, şehir) sözcüğünden türetilmiştir. Eski zamanlarda uzun hikaye anlatımını ifade etmek için kullanılıyordu.",
+    "options": [
+      "Metin",
+      "Edebiyat",
+      "Roman",
+      "Şair"
+    ],
+    "correctAnswer": "Roman",
+    "tags": [
+      "etimoloji",
+      "kelime kökenleri",
+      "edebiyat",
+      "dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f8g1cnuzr",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Metin\" kelimesinin etimolojik kaynağı nedir?",
+    "explanation": "\"Metin\" kelimesi Arapça \"متن\" (matn) sözcüğünden gelir ve 'yazılı eserin ana kısmı, ana metin' anlamlarını ifade eder.",
+    "options": [
+      "Türkçe kökenli",
+      "Arapça kökenli (متن)",
+      "Farsça kökenli",
+      "İbranice kökenli"
+    ],
+    "correctAnswer": "Arapça kökenli (متن)",
+    "tags": [
+      "etimoloji",
+      "kelime kökenleri",
+      "edebiyat",
+      "dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jins9a1sg",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Edebiyat\" kelimesinin dilbilimsel kökeni aşağıdakilerden hangisidir?",
+    "explanation": "\"Edebiyat\" kelimesi Farsça \"ادبیات» (adbiyāt) sözcüğünden Türkçeye geçmiştir. Bu terim eski Arap dilinde de benzer şekilde 'bilim, sanat' anlamlarını taşıyordu.",
+    "options": [
+      "Türkçe kökenli",
+      "Arapça kökenli",
+      "Farsça kökenli (ادبیات)",
+      "İbranice kökenli"
+    ],
+    "correctAnswer": "Farsça kökenli (ادبیات)",
+    "tags": [
+      "etimoloji",
+      "kelime kökenleri",
+      "edebiyat",
+      "dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n95aiuqe1",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "Türkçe'de 'kitap' kelimesinin kökeni hangi dildir ve hangisi yanlıştır?",
+    "explanation": "Türkçe'de 'kitap' kelimesi Farsçanın 'ketab' kökünden gelmiştir. Arapça ve Latince bu kelimenin kökeni değildir.",
+    "options": [
+      "Arapça",
+      "Farsça",
+      "Latince",
+      "Oğuzca"
+    ],
+    "correctAnswer": "Farsça",
+    "tags": [
+      "kelime-kökenleri",
+      "türkçe",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "upks4s6ft",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "'Şehit' kelimesinin etimolojik kökeni neresidir?",
+    "explanation": "'Şehit' kelimesi Arapçanın 'şahid' kökünden gelmiş, bu kök anlam olarak 'gören'/'tanık' demektir.",
+    "options": [
+      "Arapça",
+      "Türkçe",
+      "Farsça",
+      "İbranice"
+    ],
+    "correctAnswer": "Arapça",
+    "tags": [
+      "kelime-kökenleri",
+      "edebiyat",
+      "dilin-tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7qbrw9ica",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi kelimenin kökeni Farsça'dan gelmez?",
+    "explanation": "'Kitap', 'pencere', 'kasap' kelimeleri Farsçadan gelmiştir. Ancak 'şehit' kelimesi Arapçadan gelir.",
+    "options": [
+      "Kitap",
+      "Pencere",
+      "Kasap",
+      "Şehit"
+    ],
+    "correctAnswer": "Şehit",
+    "tags": [
+      "kelime-kökenleri",
+      "edebiyat",
+      "dilin-kelime-şekilleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wpzcoy54l",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "Türk edebiyatında 'dil' kelimesinin etimolojik kökeni neresidir?",
+    "explanation": "'Dil' kelimesi Türkçenin kendi kökünden gelmiştir. Arapça ve Farsça bu kelimenin etimolojik kökeni değildir.",
+    "options": [
+      "Arapça",
+      "Farsça",
+      "Türkçe",
+      "Latince"
+    ],
+    "correctAnswer": "Türkçe",
+    "tags": [
+      "kelime-kökenleri",
+      "edebiyat",
+      "türkçe-etimoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0zcug8zcy",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki kelimelerden hangisi Latinceden türemiştir?",
+    "explanation": "'Okul' kelimesi Latinceden 'schola' kökünden gelmiştir. 'Mektep', 'kitap' Farsçadan türemiştir.",
+    "options": [
+      "Okul",
+      "Sınıf",
+      "Mektep",
+      "Kitap"
+    ],
+    "correctAnswer": "Okul",
+    "tags": [
+      "kelime-kökenleri",
+      "edebiyat",
+      "latinca-etimoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "21224dr6z",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Müzik\" kelimesinin kökeni nedir?",
+    "explanation": "\"Müzik\" kelimesi Yunanca \"musike\" kökünden gelir ve \"sanat\" anlamına gelmektedir.",
+    "options": [
+      "Yunanca \"musike\" (sanat)",
+      "Farsça \"mizik\"",
+      "Arapça \"muzika\"",
+      "İngilizce \"music\""
+    ],
+    "correctAnswer": "Yunanca \"musike\" (sanat)",
+    "tags": [
+      "etymology",
+      "yabancı-kelime",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ylhs8qnmj",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "\"Dilbilim\" kelimesinin etimolojik yapısı nasıldır?",
+    "explanation": "\"Dilbilim\" kelimesi bileşiktir ve \"dil\" ile \"bilim\" kelimelerinin birleşiminden oluşmaktadır.",
+    "options": [
+      "Dil (language) + bilim (science)",
+      "Farsça kökenli tek kelime",
+      "Arapça \"dil\" + Türkçe \"bilim\"",
+      "Latince \"lingua\" + Fransızca \"science\""
+    ],
+    "correctAnswer": "Dil (language) + bilim (science)",
+    "tags": [
+      "etymology",
+      "bileşik-kelime",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z5w8spli9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Edebiyat\" kelimesinin kökeni nereden gelmektedir?",
+    "explanation": "\"Edebiyat\" kelimesi Arapça \"adab\" kökünden gelir, \"davranış\" ve \"edep\" anlamlarına sahiptir.",
+    "options": [
+      "Arapça \"adab\" (davranış, edep)",
+      "Yunanca \"ethos\"",
+      "Türkçe \"edip\"",
+      "Farsça \"adabiyat\""
+    ],
+    "correctAnswer": "Arapça \"adab\" (davranış, edep)",
+    "tags": [
+      "etymology",
+      "yabancı-kelime",
+      "edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fy7rug12d",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kelime\" sözcüğünün etimolojik anlamı nedir?",
+    "explanation": "\"Kelime\" kelimesi Arapça \"kalima\" kökünden gelir ve \"söz\", \"ifade\" anlamlarına sahiptir.",
+    "options": [
+      "Arapça \"kalima\" (söz)",
+      "Yunanca \"kale\" (kale)",
+      "Türkçe kökenli bir kelime",
+      "Farsça \"kelam\""
+    ],
+    "correctAnswer": "Arapça \"kalima\" (söz)",
+    "tags": [
+      "etymology",
+      "edebiyat",
+      "dilbilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zd9dukxx5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "\"Şair\" kelimesinin etimolojik kökeni nedir?",
+    "explanation": "\"Şair\" kelimesi Arapça \"şayr\" kökünden gelir ve \"şiir okuyan\", \"yazan kişi\" anlamına sahiptir.",
+    "options": [
+      "Arapça \"şayr\" (şiir okuyan)",
+      "Yunanca \"poietes\"",
+      "Türkçe kökenli bir kelime",
+      "Farsça \"sayr\""
+    ],
+    "correctAnswer": "Arapça \"şayr\" (şiir okuyan)",
+    "tags": [
+      "etymology",
+      "edebiyat",
+      "terim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "63plvuuk5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "\"Kalem\" kelimesinin kökeni nelerdir? Aşağıdakilerden hangisi doğru?",
+    "explanation": "\"Kalem\" kelimesi Arapça \"qalam\" (kalem, yazı aleti) kökünden gelir ve Türkçeye bu şekilde geçmiştir.",
+    "options": [
+      "Arapça \"qalam\" - kalemden",
+      "Fransızca \"calame\"",
+      "İngilizce \"call\"",
+      "Türkçe \"kale\""
+    ],
+    "correctAnswer": "Arapça \"qalam\" - kalemden",
+    "tags": [
+      "kelime-kökeni",
+      "edebiyat",
+      "dil-bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x7ieydofu",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kitap\" kelimesinin etimolojik kökeni nedir?",
+    "explanation": "\"Kitap\" kelimesi Süryanice \"kutub\" (yazılan, belgelendirilen) kökünden gelir ve zamanla Türkçeye bu şekle dönüşmüştür.",
+    "options": [
+      "Süryanice \"kutub\"",
+      "Arapça \"kitab\"",
+      "Farsça \"keteb\"",
+      "Türkçe kök"
+    ],
+    "correctAnswer": "Süryanice \"kutub\"",
+    "tags": [
+      "kelime-kökeni",
+      "edebiyat",
+      "etnoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tunv2vt5r",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Dil\" kelimesinin anlam evrimi nelerden kaynaklanır?",
+    "explanation": "\"Dil\" kelimesi Arapça \"lisan\" (konuşma organı, dil) kökünden gelir ve Türkçeye bu anlamda geçmiştir.",
+    "options": [
+      "Türkçe \"dillik\" - konuşma",
+      "Arapça \"lisan\"",
+      "Farsça \"zaban\"",
+      "Latince \"lingua\""
+    ],
+    "correctAnswer": "Arapça \"lisan\"",
+    "tags": [
+      "kelime-kökeni",
+      "edebiyat",
+      "anlam-evrimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lbdz90yzh",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kelime\" ifadesinin kökeni nerededir?",
+    "explanation": "\"Kelime\" kelimesi Arapça \"kalima\" (konuşulan, söylenen) kökünden gelir ve Türkçeye bu şekilde alınmıştır.",
+    "options": [
+      "Arapça \"kalima\"",
+      "Farsça \"kelam\"",
+      "Türkçe \"kalem\"",
+      "Latin \"verbum\""
+    ],
+    "correctAnswer": "Arapça \"kalima\"",
+    "tags": [
+      "kelime-kökeni",
+      "edebiyat",
+      "dil-bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15dzrawhg",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "\"Yazı\" kelimesinin etimolojik kökeni nedir?",
+    "explanation": "\"Yazı\" kelimesi Arapça \"yaze\" (konuşma, söyleme, yazma) kökünden gelir ve Türkçeye bu anlamda geçmiş olup zamanla dilbilimsel evrim geçirmiştir.",
+    "options": [
+      "Arapça \"yaze\"",
+      "Türkçe \"yaz-\"",
+      "Farsça \"nez\"",
+      "Latin \"scriptura\""
+    ],
+    "correctAnswer": "Arapça \"yaze\"",
+    "tags": [
+      "kelime-kökeni",
+      "edebiyat",
+      "etimoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5stp8r9fu",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki kelimelerden hangisi Arapça kökenli değildir?",
+    "explanation": "'Şiir' kelimesi Farsça kökenlidir (شعر), diğer kelimeler ise Arapça veya Türkçe kökenlidir.",
+    "options": [
+      "Kitap",
+      "Ders",
+      "Öğretmen",
+      "Şiir"
+    ],
+    "correctAnswer": "Şiir",
+    "tags": [
+      "kelime-kökenleri",
+      "edebiyat",
+      "türkçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j28szqiie",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "'Dil' kelimesinin etimolojik anlamı nedir?",
+    "explanation": "'Dil' kelimesi Arapça kökenlidir (لغة) ve başlangıçta 'kabul etmek, söylemek' anlamına gelir.",
+    "options": [
+      "Söylenmek",
+      "Konuşmak/Kabul etmek",
+      "Yazmak",
+      "Okumak"
+    ],
+    "correctAnswer": "Konuşmak/Kabul etmek",
+    "tags": [
+      "kelime-kökenleri",
+      "etimoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ya3pi4rg",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "'Edebiyat' kelimesinin Farsça karşılığı hangisidir?",
+    "explanation": "'Edebiyat' Farsça kökenlidir (عبدییات) ve 'bilgi nakli, ilim aktarımı' anlamına gelir.",
+    "options": [
+      "İlim",
+      "Sanat",
+      "Nakl-i ilim",
+      "Okuma"
+    ],
+    "correctAnswer": "Nakl-i ilim",
+    "tags": [
+      "kelime-kökenleri",
+      "edebiyat",
+      "farsça"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9c4gi2rrl",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "'Kitap' kelimesinin kökeni aşağıdakilerden hangisidir?",
+    "explanation": "'Kitap' kelimesi Türkçe kökenlidir ve 'yazılı, yazılmış malzeme' anlamına gelir.",
+    "options": [
+      "Arapça",
+      "Farsça",
+      "Türkçe",
+      "İbranice"
+    ],
+    "correctAnswer": "Türkçe",
+    "tags": [
+      "kelime-kökenleri",
+      "etimojoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0n5dimp1p",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "'Şair' kelimesinin etimolojik anlamı nedir?",
+    "explanation": "'Şair' Farsça kökenlidir (شاعر) ve başlangıçta 'dil, konuşan' anlamına gelir.",
+    "options": [
+      "Ağız",
+      "Dil",
+      "Korku",
+      "Görüş"
+    ],
+    "correctAnswer": "Dil",
+    "tags": [
+      "kelime-kökenleri",
+      "etimoloji",
+      "farsça"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hty4lgtmm",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EASY",
+    "question": "Sözlükte 'kitap' kelimesi hangi dilden gelmiştir?",
+    "explanation": "'Kitap' kelimesi Arapça 'kitāb' sözcüğünden gelmiştir. Bu kelime 'yazı, belgege' anlamına gelir ve birçok dilde benzer şekilde kullanılmıştır.",
+    "options": [
+      "Arapça",
+      "Farsça",
+      "İbranice",
+      "Türkçe"
+    ],
+    "correctAnswer": "Arapça",
+    "tags": [
+      "kelime-kökeni",
+      "etimoloji",
+      "dil-bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rnyo0puxq",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi kelime Farsçadan Türkçeye geçmemiştir?",
+    "explanation": "'Şehir', 'Devlet' ve 'Saray' kelimeleri Farsçadan Türkçeye geçmiştir. Ancak 'Okul' kelimesi Arapça kökenlidir (maktabtan gelmektedir).",
+    "options": [
+      "Şehir",
+      "Devlet",
+      "Okul",
+      "Saray"
+    ],
+    "correctAnswer": "Okul",
+    "tags": [
+      "kelime-kökeni",
+      "farsca-turkce",
+      "dil-bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nz3j870mv",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "GENERAL",
+    "question": "'Dil' kelimesinin etimolojik anlamı nedir?",
+    "explanation": "'Dil' kelimesi kök anlamda konuşma organını veya konuşma aracını ifade eder. Arapça 'lūh' (yazı) ile karıştırılmamalıdır.",
+    "options": [
+      "Yazı",
+      "Konuşma organı/araç",
+      "Halk",
+      "Toprak"
+    ],
+    "correctAnswer": "Konuşma organı/araç",
+    "tags": [
+      "kelime-kökeni",
+      "etimoloji",
+      "dil-bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "opxteeyz8",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki kelimelerden hangisi İngilizceden Türkçeye geçmiştir?",
+    "explanation": "'Telefon' ve 'Bilgisayar' Arapça kökenlidir. 'Sinema' Fransızcadan (cinéma) gelmiştir. Ancak 'Müzik' kelimesi İngilizce 'music' sözcüğünden Türkçeye geçmiştir.",
+    "options": [
+      "Telefon",
+      "Bilgisayar",
+      "Müzik",
+      "Sinema"
+    ],
+    "correctAnswer": "Müzik",
+    "tags": [
+      "kelime-kökeni",
+      "ingilizce-turkce",
+      "etimoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wv2b3p8ym",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Kelime Kökenleri",
+    "difficulty": "EXPERT",
+    "question": "'Kitabe' kelimesinin etimolojik anlamı nedir?",
+    "explanation": "'Kitabe' kelimesi Arapça kökenlidir ve temel anlamı 'yazı' veya 'belge'dir. Bu kelime kitap kavramıyla da ilişkilendirilir.",
+    "options": [
+      "Yazı",
+      "Kitap",
+      "Okuma",
+      "Yayınlama"
+    ],
+    "correctAnswer": "Yazı",
+    "tags": [
+      "kelime-kökeni",
+      "arapca-etimoloji",
+      "dil-bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

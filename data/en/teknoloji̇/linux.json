@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "hcjwedj5h",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Linux işletim sisteminde hangi komut ile terminalden dosya listesi görüntülenebilir?",
+    "explanation": "ls (list) komutu, mevcut dizindeki dosya ve klasörleri listeler. cat metin içeriğini gösterir, grep arama yapar, find alt dizinlerde arar.",
+    "options": [
+      "cat",
+      "ls",
+      "grep",
+      "find"
+    ],
+    "correctAnswer": "ls",
+    "tags": [
+      "komutlar",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zoldhaseg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta dosya yetkilerinin 'owner', 'group' ve 'others' olarak tanımlandığı sistemde hangi komut ile yetkilendirme yapılır?",
+    "explanation": "chmod (change mode) komutu dosyaların yetkilerini değiştirir. chown sahip adı, chgrp grup adı, chroot kök dizin değiştirmek içindir.",
+    "options": [
+      "chmod",
+      "chown",
+      "chgrp",
+      "chroot"
+    ],
+    "correctAnswer": "chmod",
+    "tags": [
+      "yetkilendirme",
+      "dosya yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsgrn0u9y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Debian tabanlı Linux dağıtımlarında paket yönetimi için kullanılan standart araç hangisidir?",
+    "explanation": "apt-get (Advanced Package Tool Get) Debian tabanlı sistemlerde paket kurma, silme ve güncelleme için kullanılır. yum ve dnf Fedora/RHEL, pacman Arch Linux içindir.",
+    "options": [
+      "yum",
+      "apt-get",
+      "dnf",
+      "pacman"
+    ],
+    "correctAnswer": "apt-get",
+    "tags": [
+      "paket yönetimi",
+      "debian"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gv9m2c2w4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EXPERT",
+    "question": "Linux'ta root kullanıcısına geçmek için kullanılan komut kombinasyonu hangisidir?",
+    "explanation": "sudo su ve su - root ile root kullanıcısına geçilir. sudo superuser do, su substitute user komutları root yetkisi sağlar.",
+    "options": [
+      "sudo su",
+      "su - root",
+      "su",
+      "all of the above"
+    ],
+    "correctAnswer": "all of the above",
+    "tags": [
+      "root erişimi",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "evbrtfhko",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta gerçek zamanlı sistem monitörü için kullanılan araç hangisidir?",
+    "explanation": "htop, top komutunun gelişmiş versiyonudur ve gerçek zamanlı CPU, bellek, disk kullanımı gösterir. netstat ağ bağlantıları, ping/traceroute ağ testi içindir.",
+    "options": [
+      "htop",
+      "netstat",
+      "ping",
+      "traceroute"
+    ],
+    "correctAnswer": "htop",
+    "tags": [
+      "monitör",
+      "sistem yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q9cnvjj3w",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Linux'ta sistem dosya yapısında kullanıcıların ev dizinlerinin bulunduğu konum nedir?",
+    "explanation": "/home dizini Linux'ta kullanıcıların ev dizinleri saklanan standart konumdur. /etc sistem yapılandırması, /var değişken verileri, /bin temel komutlar için kullanılır.",
+    "options": [
+      "/home",
+      "/etc",
+      "/var",
+      "/bin"
+    ],
+    "correctAnswer": "/home",
+    "tags": [
+      "Linux",
+      "Dosya Yapısı",
+      "Kullanıcı Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kl0q57jiv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux terminalinde dosya izni (permission) ayarlamak için kullanılan komut hangisidir?",
+    "explanation": "chmod (change mode) komutu Linux'ta dosya izinlerini değiştirmek için kullanılır. chown dosya sahibi, chgrp dosya grubu ve touch dosya oluşturma için kullanılır.",
+    "options": [
+      "chown",
+      "chmod",
+      "chgrp",
+      "touch"
+    ],
+    "correctAnswer": "chmod",
+    "tags": [
+      "Linux",
+      "Komutlar",
+      "Dosya İzni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gql3w4n9s",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta 'ps -ef' komutu ne işe yarar?",
+    "explanation": "ps -ef komutu Linux'ta çalışan tüm süreçleri (process) detaylı bir şekilde listeler. 'top' sistemi, 'df' disk ve 'passwd' şifre yönetimi için kullanılır.",
+    "options": [
+      "Sistem bilgilerini gösterir",
+      "Çalışan süreçleri (process) listeler",
+      "Disk kullanımını raporlar",
+      "Şifre yönetimini yapar"
+    ],
+    "correctAnswer": "Çalışan süreçleri (process) listeler",
+    "tags": [
+      "Linux",
+      "Süreç Yönetimi",
+      "Komutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jdk8j4fz1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta dosyaların son değiştirilme tarihini görüntülemek için hangi komut kullanılmalıdır?",
+    "explanation": "ls -l komutu Linux'ta dosyaların detaylı bilgilerini (izinler, sahip, boyut, tarih) gösterir. ls -t son değişiklik sırasına göre listeler, stat daha fazla bilgi verir.",
+    "options": [
+      "ls -l",
+      "ls -t",
+      "stat",
+      "find"
+    ],
+    "correctAnswer": "ls -l",
+    "tags": [
+      "Linux",
+      "Dosya Yönetimi",
+      "Komutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ab3wdabn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EXPERT",
+    "question": "Linux'da 'grep' komutu ne işlevi görür?",
+    "explanation": "grep (global regular expression print) komutu Linux'ta metin dosyalarında belirli kalıpları veya ifadeleri aramak için kullanılır. tar kopyalama, cracktools şifre kırma, apt sistem güncellemesi için kullanılır.",
+    "options": [
+      "Dosya kopyalar",
+      "Metin içinde arama yapar",
+      "Şifre kırar",
+      "Sistem günceller"
+    ],
+    "correctAnswer": "Metin içinde arama yapar",
+    "tags": [
+      "Linux",
+      "Text Search",
+      "Komutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9erbxyd6e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Hangi Linux komutu mevcut dizini değiştirir?",
+    "explanation": "cd (change directory) komutu mevcut dizini değiştirirken, cp kopyalama, mv taşıma ve ls liste gösterme işlemleri yapar.",
+    "options": [
+      "cp",
+      "mv",
+      "cd",
+      "ls"
+    ],
+    "correctAnswer": "cd",
+    "tags": [
+      "Linux-Basic-Commands",
+      "File-Navigation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hng9edqcj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta dosya izinlerini değiştirmek için hangi komut kullanılır?",
+    "explanation": "chmod (change mode) komutu dosya izinlerini değiştirirken, chown sahiplik, chgrp grup ve touch boş dosya oluşturma işlemleri yapar.",
+    "options": [
+      "chown",
+      "chmod",
+      "chgrp",
+      "touch"
+    ],
+    "correctAnswer": "chmod",
+    "tags": [
+      "Linux-File-Permissions",
+      "Security"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c5y7g3ah3",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta paket yönetimi için 'apt' komutu hangi dağıtımda kullanılır?",
+    "explanation": "'apt' (Advanced Package Tool) komutu Ubuntu ve Debian tabanlı dağıtımlarda kullanılırken, yum/dnf Red Hat/CentOS'te ve pacman Arch Linux'ta kullanılır.",
+    "options": [
+      "Ubuntu/Debian",
+      "Red Hat/CentOS",
+      "SUSE",
+      "Arch Linux"
+    ],
+    "correctAnswer": "Ubuntu/Debian",
+    "tags": [
+      "Linux-Package-Management",
+      "System-Administration"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sr3c7e1j9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux sisteminin çekirdek versiyonunu öğrenmek için hangi komut çalıştırılır?",
+    "explanation": "'uname -r' Linux çekirdek versiyonunu gösterirken, 'cat /etc/os-release' işletim sistemi bilgisi ve 'lsb_release -a' LSB release bilgisini verir.",
+    "options": [
+      "uname -r",
+      "cat /etc/os-release",
+      "lsb_release -a",
+      "hostname"
+    ],
+    "correctAnswer": "uname -r",
+    "tags": [
+      "Linux-System-Information",
+      "Kernel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "emlvqwnhw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EXPERT",
+    "question": "Linux'ta SSH anahtarı oluşturmak için hangi komut kullanılır?",
+    "explanation": "'ssh-keygen' komutu SSH anahtarı oluştururken, 'ssh-copy-id' uzak sunucuya kopyalar, 'ssh start/stop' geçerli olmayan SSH komutlarıdır.",
+    "options": [
+      "ssh-keygen",
+      "ssh-copy-id",
+      "ssh start",
+      "ssh stop"
+    ],
+    "correctAnswer": "ssh-keygen",
+    "tags": [
+      "Linux-Security",
+      "SSH-Authentication"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fn4ogyxtz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Linux işletim sistemi kernel'inin ilk yayınlandığı yıl hangisidir?",
+    "explanation": "Linux kernel'i Linus Torvalds tarafından 1991 yılında ilk kez yayınlanmıştır.",
+    "options": [
+      "1991",
+      "1993",
+      "1995",
+      "1997"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "Linux Tarihçesi",
+      "Kernel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "do1kdaf14",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Linux paket yöneticisidir?",
+    "explanation": "dpkg, Debian tabanlı Linux dağıtımlarında kullanılan temel paket yöneticisidir.",
+    "options": [
+      "dpkg",
+      "apt-get",
+      "yum",
+      "Windows Installer"
+    ],
+    "correctAnswer": "dpkg",
+    "tags": [
+      "Paket Yönetimi",
+      "Debian"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "68jznyq1e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta root kullanıcısının ev dizini aşağıdakilerden hangisidir?",
+    "explanation": "Linux'ta root kullanıcısının ev dizini /root klasörüdür, farklı kullanıcıların ise /home altında bulunur.",
+    "options": [
+      "/home/root",
+      "/var/root",
+      "/root",
+      "/etc/root"
+    ],
+    "correctAnswer": "/root",
+    "tags": [
+      "Kullanıcı Yönetimi",
+      "Dizinsel Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jidquigy6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki Linux dağıtımlarından hangisi GNOME masaüstü ortamını varsayılan olarak kullanır?",
+    "explanation": "Ubuntu, varsayılan olarak GNOME masaüstü ortamını kullanır.",
+    "options": [
+      "Arch Linux",
+      "Ubuntu",
+      "Debian Testing",
+      "CentOS"
+    ],
+    "correctAnswer": "Ubuntu",
+    "tags": [
+      "Linux Dağıtımları",
+      "Masaüstü Ortamları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lv2u563dj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EXPERT",
+    "question": "Linux'ta 'grep' komutu ne işe yarar?",
+    "explanation": "grep komutu, metin dosyalarında belirli desenleri veya kelimeleri aramak için kullanılır.",
+    "options": [
+      "Dosya oluşturur",
+      "Metin içinde arama yapar",
+      "Sistem yönetir",
+      "Ağ yapılandırması yapar"
+    ],
+    "correctAnswer": "Metin içinde arama yapar",
+    "tags": [
+      "Komutlar",
+      "Text Processing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zsmsp4vgj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Linux sistemlerinde komut satırı işlevini sağlayan temel araç hangisidir?",
+    "explanation": "Terminal, Linux sistemlerinde komut satırı erişimi sağlayan temel araçtır ve tüm Linux işlemlerinin ana arayüzüdür.",
+    "options": [
+      "GUI",
+      "Terminal",
+      "Web Browser",
+      "Disk Management"
+    ],
+    "correctAnswer": "Terminal",
+    "tags": [
+      "Linux",
+      "Temel Kavramlar",
+      "Komut Satırı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eby4ibhxr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux dosya izinlerini (permissions) kontrol etmek için hangi komut kullanılır?",
+    "explanation": "chmod komutu, Linux dosya ve klasör izinlerini (read, write, execute) kontrol etmek için kullanılır.",
+    "options": [
+      "cp",
+      "mv",
+      "chmod",
+      "chown"
+    ],
+    "correctAnswer": "chmod",
+    "tags": [
+      "Linux",
+      "Dosya İzinleri",
+      "Güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nnttzcudc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta aktif servisleri listelemek için hangi komut uygulanır?",
+    "explanation": "systemctl list-units komutu, systemd tabanlı Linux sistemlerinde aktif servisleri ve sistem birimlerini listeler.",
+    "options": [
+      "ps aux",
+      "netstat",
+      "top",
+      "systemctl list-units"
+    ],
+    "correctAnswer": "systemctl list-units",
+    "tags": [
+      "Linux",
+      "Servis Yönetimi",
+      "Sistem İzleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l3q3dse1i",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux paket yöneticilerinden hangisi Debian/Ubuntu tabanlı sistemler için kullanılır?",
+    "explanation": "apt (Advanced Package Tool), Debian ve Ubuntu tabanlı Linux dağıtımları için paket yöneticisi olarak kullanılır.",
+    "options": [
+      "yum",
+      "pacman",
+      "apt",
+      "dnf"
+    ],
+    "correctAnswer": "apt",
+    "tags": [
+      "Linux",
+      "Paket Yönetimi",
+      "Debian/Ubuntu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r5105caoq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Linux'ta bir dosyanın son satırını görüntülemek için hangi komut kullanılır?",
+    "explanation": "tail komutu, Linux'ta dosyanın son satırlarını veya belirli miktarda son satırı görüntülemek için kullanılır.",
+    "options": [
+      "head",
+      "tail",
+      "cat",
+      "grep"
+    ],
+    "correctAnswer": "tail",
+    "tags": [
+      "Linux",
+      "Dosya İşleme",
+      "Terminal Komutları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yb0ecw8zm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Which of the following is NOT a package manager for Debian-based Linux distributions?",
+    "explanation": "RPM is used for Red Hat/CentOS/Fedora distributions, while apt and dpkg are Debian-based package managers. Snap is a universal package format supported by Ubuntu.",
+    "options": [
+      "apt",
+      "dpkg",
+      "rpm",
+      "snap"
+    ],
+    "correctAnswer": "rpm",
+    "tags": [
+      "Linux",
+      "Package Management",
+      "Debian"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jy1wjvapm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "What is the purpose of the 'sudo' command in Linux?",
+    "explanation": "Sudo allows a user to execute commands as the root user or another user, providing temporary elevated privileges without needing to log in as root.",
+    "options": [
+      "To delete files",
+      "To run commands with elevated privileges",
+      "To install packages only",
+      "To edit system configuration"
+    ],
+    "correctAnswer": "To run commands with elevated privileges",
+    "tags": [
+      "Linux",
+      "Permissions",
+      "Security"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zghxlfb7m",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Which Linux file system is known for its journaling capabilities?",
+    "explanation": "ext4 (Fourth Extended Filesystem) is the default Linux filesystem for many distributions and includes journaling to improve data integrity and reduce corruption.",
+    "options": [
+      "NTFS",
+      "FAT32",
+      "ext4",
+      "APFS"
+    ],
+    "correctAnswer": "ext4",
+    "tags": [
+      "Linux",
+      "File Systems",
+      "Storage"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r0l3zv28w",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "What does the 'chmod' command in Linux control?",
+    "explanation": "Chmod stands for 'change mode' and is used to set file/directory permissions using symbolic or numeric notation for read, write, and execute rights.",
+    "options": [
+      "User permissions only",
+      "File access permissions (read, write, execute)",
+      "Disk space allocation",
+      "Network connections"
+    ],
+    "correctAnswer": "File access permissions (read, write, execute)",
+    "tags": [
+      "Linux",
+      "Permissions",
+      "Commands"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "th5uilxkd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Which command is used to display the last 10 lines of a log file?",
+    "explanation": "The 'tail' command displays the end of a file. Using 'tail -10' shows the last 10 lines, which is commonly used to view recent log entries.",
+    "options": [
+      "head -10",
+      "tail -10",
+      "cat -10",
+      "grep -10"
+    ],
+    "correctAnswer": "tail -10",
+    "tags": [
+      "Linux",
+      "Text Manipulation",
+      "Commands"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a9knwa66y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Linux'ta dosya sistemlerinde 'root' kullanıcısının yetkisi nedir?",
+    "explanation": "Root kullanıcısı Linux'ta en yüksek yetkiye sahip olup tüm dosya sistemi, ağ ayarları ve kullanıcı yönetimi dahil tam sistem kontrolüne sahiptir.",
+    "options": [
+      "Sadece dosya okuma",
+      "Tam sistem yönetimi",
+      "Sadece ağ ayarları",
+      "Kullanıcı oluşturma"
+    ],
+    "correctAnswer": "Tam sistem yönetimi",
+    "tags": [
+      "Linux",
+      "root",
+      "yetkiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8x831sosa",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux komut satırında 'grep' komutu ne işe yarar?",
+    "explanation": "Grep, Linux'ta metin dosyalarında belirli kalıpları veya kelimeleri aramak için kullanılan güçlü bir komuttur.",
+    "options": [
+      "Dosya oluşturma",
+      "Metin arama",
+      "Sistem bilgisi",
+      "Kullanıcı silme"
+    ],
+    "correctAnswer": "Metin arama",
+    "tags": [
+      "Linux",
+      "komutlar",
+      "grep"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c6gbq4eyb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta 'chmod' komutu hangi özelliği değiştirir?",
+    "explanation": "Chmod (change mode) komutu dosya ve klasörlerin okuma, yazma ve çalıştırma yetkilerini değiştirir.",
+    "options": [
+      "Dosya formatı",
+      "Dosya yetkileri",
+      "Dosya boyutu",
+      "Dosya konumu"
+    ],
+    "correctAnswer": "Dosya yetkileri",
+    "tags": [
+      "Linux",
+      "yetkiler",
+      "chmod"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z1jbqjn0f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta servisleri yönetmek için hangi komut kullanılır?",
+    "explanation": "Systemctl, systemd tabanlı Linux dağıtımlarında servisleri başlatma, durdurma ve yönetme için kullanılan standart komuttur.",
+    "options": [
+      "systemctl",
+      "apt",
+      "ssh",
+      "ping"
+    ],
+    "correctAnswer": "systemctl",
+    "tags": [
+      "Linux",
+      "servisler",
+      "systemctl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "slo269s0w",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta 'sudo' komutu ne işlev görür?",
+    "explanation": "Sudo (superuser do), normal kullanıcının root veya başka bir kullanıcı olarak komutları çalıştırmasına izin verir.",
+    "options": [
+      "Dosya kopyalama",
+      "Süper kullanıcı yetkisi ile çalıştırma",
+      "Şifre değiştirme",
+      "Komut geçmişi"
+    ],
+    "correctAnswer": "Süper kullanıcı yetkisi ile çalıştırma",
+    "tags": [
+      "Linux",
+      "sudo",
+      "yetkiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uyqorg5ta",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Hangi Linux komutu mevcut klasördeki dosya listesini görüntülemek için kullanılır?",
+    "explanation": "\"ls\" (list) komutu mevcut klasördeki dosya ve dizin listesini ekrana yazdırır. \"cd\" klasör değiştirir, \"pwd\" mevcut dizini gösterir, \"mkdir\" yeni dizin oluşturur.",
+    "options": [
+      "cd",
+      "ls",
+      "pwd",
+      "mkdir"
+    ],
+    "correctAnswer": "ls",
+    "tags": [
+      "Linux",
+      "Dosya İşlemleri",
+      "Temel Komutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ncgg0vjn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta bir dosyaya \"read\" (okuma) yetkisi hangi sayı ile temsil edilir?",
+    "explanation": "Linux dosya izinlerinde: okuma(r)=4, yazma(w)=2, çalıştırma(x)=1. Bu sayılar kombinlenerek toplam izin değeri hesaplanır (örn: rwx=7).",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "8"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "Linux",
+      "Yetkilendirme",
+      "File Permissions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "it5xoiqz6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Debian/Ubuntu tabanlı Linux dağıtımlarında paket yönetimi hangi araçla yapılır?",
+    "explanation": "\"apt\" veya \"apt-get\", Debian ve Ubuntu tabanlı sistemlerde paket kurma, kaldırma, güncelleme için kullanılır. \"yum\"/\"dnf\" RHEL/CentOS'te, \"pacman\" Arch Linux'ta kullanılır.",
+    "options": [
+      "yum",
+      "dnf",
+      "apt/apt-get",
+      "pacman"
+    ],
+    "correctAnswer": "apt/apt-get",
+    "tags": [
+      "Linux",
+      "Paket Yönetimi",
+      "Debian"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ksoxspy6k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EXPERT",
+    "question": "Linux'ta bir sürecin CPU kullanımını izlemek ve sistem kaynaklarını görüntülemek için hangi komut kullanılır?",
+    "explanation": "\"top\" komutu sistem kaynaklarını (CPU, bellek) gerçek zamanlı olarak gösterir ve süreçlerin CPU kullanımını listeler. \"ps\" süreç snapshot'ı alır, \"kill\" süreci sonlandırır.",
+    "options": [
+      "ps",
+      "top",
+      "kill",
+      "grep"
+    ],
+    "correctAnswer": "top",
+    "tags": [
+      "Linux",
+      "Süreç Yönetimi",
+      "Monitor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "etobdyv7f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EXPERT",
+    "question": "Linux'ta bir kullanıcının root yetkisiyle komut çalıştırmasını sağlamak için hangi komut kullanılır?",
+    "explanation": "\"sudo\" (superuser do), normal kullanıcıların root yetkisiyle komut çalıştırmasına izin verir. \"su\" başka bir kullanıcı olarak oturum açma sağlar, \"chmod/chown\" dosya izinleri/ sahipliği değiştirir.",
+    "options": [
+      "su",
+      "sudo",
+      "chmod",
+      "chown"
+    ],
+    "correctAnswer": "sudo",
+    "tags": [
+      "Linux",
+      "Güvenlik",
+      "Yetkili Komut"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r19ob2r29",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Linux operasyon sistemlerini yönetmek için hangi komut kullanılır?",
+    "explanation": "sudo (superuser do), Linux sistemlerinde normal kullanıcıların yönetici yetkisiyle komut çalıştırmasına izin verir.",
+    "options": [
+      "bash",
+      "ls",
+      "sudo",
+      "chmod"
+    ],
+    "correctAnswer": "sudo",
+    "tags": [
+      "Linux Komutları",
+      "Yönetim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gl8xexzl6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Bir dosyanın tüm içeriğini konsola yazdırmak için hangi komut kullanılır?",
+    "explanation": "cat (concatenate) komutu, dosyanın tüm içeriğini standart akışa yazar.",
+    "options": [
+      "cat",
+      "head",
+      "tail",
+      "less"
+    ],
+    "correctAnswer": "cat",
+    "tags": [
+      "Linux Komutları",
+      "Dosya İşleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wsg6anvry",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta kullanıcılar için home dizinler genellikle hangi klasörde bulunur?",
+    "explanation": "/home dizini, Linux sistemlerinde kullanıcılar için ayrılmış home klasörleri barındırır.",
+    "options": [
+      "/bin",
+      "/etc",
+      "/home",
+      "/var"
+    ],
+    "correctAnswer": "/home",
+    "tags": [
+      "Linux Yapısı",
+      "Dizinler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0lo2e4wsp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Bir dizinin içindeki tüm dosya ve alt dizinlerin listesini almak için hangi komut kullanılır?",
+    "explanation": "find komutu, dizin içindeki tüm dosyaları ve alt dizinleri rekurziv olarak listeler.",
+    "options": [
+      "ls",
+      "find",
+      "grep",
+      "locate"
+    ],
+    "correctAnswer": "find",
+    "tags": [
+      "Linux Komutları",
+      "Dizin İşleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "53u4od8za",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EXPERT",
+    "question": "Linux çekirdeği (kernel) ile ilgili hangi sürüm numarası formatı kullanılır?",
+    "explanation": "Linux kernel sürümleri genellikle 'MAJOR.MINOR.PATCH-REL' formatında ifade edilir.",
+    "options": [
+      "5.17.0-36-generic",
+      "Ubuntu 22.04 LTS",
+      "Debian 11 Bullseye",
+      "RHEL 8"
+    ],
+    "correctAnswer": "5.17.0-36-generic",
+    "tags": [
+      "Linux Kernel",
+      "Sürüm Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e4zlnmgsf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EASY",
+    "question": "Linux'ta 'sudo' komutunun temel işlevi nedir?",
+    "explanation": "sudo (superuser do), normal kullanıcılar için system yönetimi işlemlerini root yetkisiyle gerçekleştirmeyi sağlar.",
+    "options": [
+      "A - Kullanıcıya root yetkisi sağlar",
+      "B - Dosya boyutunu gösterir",
+      "C - Sistem güncellemesini yapar",
+      "D - Ağ bağlantısını kurar"
+    ],
+    "correctAnswer": "A - Kullanıcıya root yetkisi sağlar",
+    "tags": [
+      "Linux",
+      "Yetkilendirme",
+      "Sudo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q524qw7kx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta dosya ve dizin sahipliğini kontrol etmek için hangi komut kullanılır?",
+    "explanation": "chown (change owner), dosya veya dizinlerin sahiplerini değiştirir.",
+    "options": [
+      "A - ls",
+      "B - chmod",
+      "C - chown",
+      "D - chgrp"
+    ],
+    "correctAnswer": "C - chown",
+    "tags": [
+      "Linux",
+      "Dosya Yönetimi",
+      "Sahiplik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4mo5tqjgu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "EXPERT",
+    "question": "Which Linux distribution is known for being the first commercially successful Linux?",
+    "explanation": "Red Hat Enterprise Linux, 1994'te ilk ticari olarak başarılı Linux dağıtımı olarak kabul edilir.",
+    "options": [
+      "A - Ubuntu",
+      "B - Debian",
+      "C - Red Hat Enterprise Linux",
+      "D - Slackware"
+    ],
+    "correctAnswer": "C - Red Hat Enterprise Linux",
+    "tags": [
+      "Linux",
+      "Dağıtımlar",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmle4ooyf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta 'grep' komutu ne işe yarar?",
+    "explanation": "grep (global regular expression print), metin dosyalarında belirli kalıpları arar ve ekrana yazdırır.",
+    "options": [
+      "A - Dosya araması yapar",
+      "B - Metin içinde kalıpları (pattern) bulur",
+      "C - Dizini listeler",
+      "D - Kullanıcı bilgilerini gösterir"
+    ],
+    "correctAnswer": "B - Metin içinde kalıpları (pattern) bulur",
+    "tags": [
+      "Linux",
+      "Metin İşleme",
+      "Grep"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1o4avfxvk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Linux",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta 'tar' komutu hangi amaçla kullanılır?",
+    "explanation": "tar (tape archive), dosyaları tek bir arşiv dosyasında sıkıştırır ve paketler.",
+    "options": [
+      "A - Dosya sıkıştırma ve paketlenme",
+      "B - Ağ yapılandırması",
+      "C - Kullanıcı oluşturma",
+      "D - Sistem loglarını temizleme"
+    ],
+    "correctAnswer": "A - Dosya sıkıştırma ve paketlenme",
+    "tags": [
+      "Linux",
+      "Sıkıştırma",
+      "Tar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

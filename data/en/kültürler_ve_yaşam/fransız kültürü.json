@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "zuuujbwil",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransa'nın ulusal mutfak ürünlerinden hangisi dünyaca ünlüdür?",
+    "explanation": "Baguette, Fransa'nın ulusal ekmeği olarak kabul edilir ve dünya çapında tanınırlığıyla bilinir.",
+    "options": [
+      "İtalyan Pizzası",
+      "Fransız Ekmeği (Baguette)",
+      "Meksiko Tacosu",
+      "Türk Kebabı"
+    ],
+    "correctAnswer": "Fransız Ekmeği (Baguette)",
+    "tags": [
+      "mutfak",
+      "ülke_bilgisi",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q68idjppr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransız dilinin resmi statüsü hangi ülkede vardır?",
+    "explanation": "Fransız dili, Fransa'nın ulusal ve resmi dilidir.",
+    "options": [
+      "İngiltere",
+      "İspanya",
+      "Fransa",
+      "Almanya"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "dil",
+      "kültür",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2tboz0glb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Lükseville kalesi hangi Fransız şehrinin simgesel yapıdır?",
+    "explanation": "Paris'in Lüks kalesi, şehrin tarihi sembolü olarak kabul edilir.",
+    "options": [
+      "Paris",
+      "Marsilya",
+      "Bordeaux",
+      "Nîmes"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "tarih",
+      "turizm",
+      "mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fdawqbuey",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız Kültürünün en önemli sanat akımı hangisidir?",
+    "explanation": "Fransız kültürünün en önemli sanat akımı İmpresyonizm'dir; Monet ve Renoir gibi ünlü ressamlar bu akıma mensuptur.",
+    "options": [
+      "İmpresyonizm",
+      "Sürrealizm",
+      "Minimalizm",
+      "Ekspresyonizm"
+    ],
+    "correctAnswer": "İmpresyonizm",
+    "tags": [
+      "sanat",
+      "kültür",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fnseiulym",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransa'nın en büyük ulusal bayrağı hangi renklerden oluşur?",
+    "explanation": "Fransız bayrağı, kırmızı, beyaz ve mavi renklerinden oluşan üç şeritlidir.",
+    "options": [
+      "Kırmızı, Beyaz, Mavi",
+      "Yeşil, Sarı, Kırmızı",
+      "Beyaz, Siyah, Kırmızı",
+      "Mavi, Yeşil, Turuncu"
+    ],
+    "correctAnswer": "Kırmızı, Beyaz, Mavi",
+    "tags": [
+      "bayrak",
+      "kültür",
+      "ülke_bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j8eoze2qd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağının en ünlü lezzetlerinden biri olan 'Croque Monsieur', hangi malzemelerden yapılır?",
+    "explanation": "Croque Monsieur, Fransız kışırından klasik bir lezzettir. Ekmek, salam veya jambon ve kaşar peyniri ile yapılır. Genellikle kızartılır veya fırında pişirilerek servis edilir.",
+    "options": [
+      "Ekmek, kaşar peyniri ve domates",
+      "Ekmek, salam ve kaşar peyniri",
+      "Ekmek, sucuk ve biber",
+      "Ekmek, pastırma ve soğan"
+    ],
+    "correctAnswer": "Ekmek, salam ve kaşar peyniri",
+    "tags": [
+      "Fransız Kültürü",
+      "Mutfağ",
+      "Gastronomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7xaaf546x",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Fransa'nın ulusal marşı olan 'La Marseillaise', hangi tarihte kabul edildi?",
+    "explanation": "La Marseillaise, 25 Mart 1792 tarihinde Fransız Devrimi sırasında kabul edildi. İlk olarak Marsilya'dan Paris'e gelen bir asker tarafından seslendirildiği için bu isim verildi.",
+    "options": [
+      "1792",
+      "1789",
+      "1804",
+      "1815"
+    ],
+    "correctAnswer": "1792",
+    "tags": [
+      "Fransız Kültürü",
+      "Tarih",
+      "Uluslararası Marşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "58jtbqzma",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız edebiyatında 'Lumières' (Aydınlanma) akımının önemli temsilcilerinden biri kimdir?",
+    "explanation": "Voltaire, Fransız Aydınlanma döneminin en önemli düşünürlerinden biridir. Eleştirel düşünce ve özgürlük fikirleriyle ünlüdür. 'Candide' adlı eseriyle tanınır.",
+    "options": [
+      "Voltaire",
+      "Ronsard",
+      "Baudelaire",
+      "Camus"
+    ],
+    "correctAnswer": "Voltaire",
+    "tags": [
+      "Fransız Kültürü",
+      "Edebiyat",
+      "Felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "am9g8cije",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Fransız sanatında 'Impressionism' (İmpresyonizm) akımının kurucusu kabul edilen ressam kimdir?",
+    "explanation": "Claude Monet, Fransız İmpresyonizm akımının en önemli temsilcilerinden biridir. 'Giverni Bahçesi' ve su manzaralarıyla ünlü çalışmalar yapmıştır.",
+    "options": [
+      "Monet",
+      "Picasso",
+      "Van Gogh",
+      "Da Vinci"
+    ],
+    "correctAnswer": "Monet",
+    "tags": [
+      "Fransız Kültürü",
+      "Sanat",
+      "Resim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bw6b4davz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransız sosyal yaşamında 'Le Café', hangi amaçla kullanılır?",
+    "explanation": "Fransa'da kafeler sadece içecek yerler değil, aynı zamanda toplumsal yaşamın merkezidir. İnsanlar burada tartışır, kitap okur ve sosyalleşir.",
+    "options": [
+      "Sadece içecek olarak",
+      "Toplantı, tartışma ve sosyalleşme için",
+      "Sadece iş yerinde",
+      "Yalnızca öğün sonrası"
+    ],
+    "correctAnswer": "Toplantı, tartışma ve sosyalleşme için",
+    "tags": [
+      "Fransız Kültürü",
+      "Sosyal Yaşam",
+      "Gastronomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d17nwintf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "What are the colors of the French national flag?",
+    "explanation": "The French flag is a tricolor with vertical bands of blue, white, and red, adopted during the French Revolution.",
+    "options": [
+      "Blue, White, and Red",
+      "Green, White, and Red",
+      "Yellow, Blue, and Green",
+      "Red, Yellow, and Black"
+    ],
+    "correctAnswer": "Blue, White, and Red",
+    "tags": [
+      "history",
+      "symbols"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oaltzwru3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which traditional French dish features chicken cooked in red wine?",
+    "explanation": "Coq au Vin is a classic French stew made with chicken braised in red wine, typically with mushrooms and herbs.",
+    "options": [
+      "Steak Frites",
+      "Coq au Vin",
+      "Croque Monsieur",
+      "Bouillabaisse"
+    ],
+    "correctAnswer": "Coq au Vin",
+    "tags": [
+      "food",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hvluag1ch",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "The term 'Impressionism' in French art was coined after viewing which painting?",
+    "explanation": "The label originated from a 1874 exhibition where critic Louis Leroy mocked Monet's painting 'Impression, soleil levant'.",
+    "options": [
+      "Monet's 'Water Lilies'",
+      "Degas' 'Dancer at the Opera'",
+      "Monet's 'Impression, soleil levant'",
+      "Renoir's 'Luncheon of the Boating Party'"
+    ],
+    "correctAnswer": "Monet's 'Impression, soleil levant'",
+    "tags": [
+      "art",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k0psrjq0t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What is the official language spoken in France?",
+    "explanation": "French is the sole official language of France, though regional languages like Breton or Occitan exist.",
+    "options": [
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ],
+    "correctAnswer": "French",
+    "tags": [
+      "language",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xx0369rnl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Which song is recognized as the French national anthem?",
+    "explanation": "La Marseillaise was adopted as France's anthem in 1795, named after Marseille where it was first sung.",
+    "options": [
+      "La Vie En Rose",
+      "Le Chant des Partisans",
+      "La Marseillaise",
+      "Aux Armes, Citoyens!"
+    ],
+    "correctAnswer": "La Marseillaise",
+    "tags": [
+      "history",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fpzgzalx1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransız mutfağına ait en bilinen geleneksel yemek hangisidir?",
+    "explanation": "Croissant, Fransız mutfağına ait ikonik bir hamur işi ve kahvaltı yemeğidir. Tiramisu İtalyan, Pancake Amerikan, Sushi ise Japon kökenli bir yemektir.",
+    "options": [
+      "Croissant",
+      "Tiramisu",
+      "Pancake",
+      "Sushi"
+    ],
+    "correctAnswer": "Croissant",
+    "tags": [
+      "Fransız Kültürü",
+      "Mutfak",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ivy4j1gwt",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız edebiyatının en büyük temsilcilerinden biri olan Victor Hugo'nun ünlü eseri nedir?",
+    "explanation": "Victor Hugo, Fransız edebiyatının en önemli yazarlarından biridir ve 'Kötü Adamın Öyküsü' (Les Misérables) onun en meşhur eserlerinden biridir. Don Kişot İspanyol, Seyahatler Alman, Doktor Faustus ise Avusturya kökenlidir.",
+    "options": [
+      "Don Kişot",
+      "Seyahatler",
+      "Kötü Adamın Öyküsü",
+      "Doktor Faustus"
+    ],
+    "correctAnswer": "Kötü Adamın Öyküsü",
+    "tags": [
+      "Fransız Kültürü",
+      "Edebiyat",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "48xjqkzs1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransa'nın resmi dili hangisidir?",
+    "explanation": "Fransa'nın resmi ve ulusal dili Fransızcadır. İngilizce, Almanca ve İspanyolca diğer Avrupa ülkelerinin dilleridir.",
+    "options": [
+      "İngilizce",
+      "Almanca",
+      "Fransızca",
+      "İspanyolca"
+    ],
+    "correctAnswer": "Fransızca",
+    "tags": [
+      "Fransız Kültürü",
+      "Dil",
+      "Genel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bupxiba2h",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız kültüründe haftanın hangi günü 'kara pazartesi' olarak bilinen dinlenme günüdür?",
+    "explanation": "Fransa ve diğer birçok Avrupa ülkesinde Pazar günü haftalık dinlenme ve aile zamanı olarak kabul edilir. Türk kültüründe 'kara pazartesi' farklı bir kavramdır ama Fransız'da dinlenme günüdür.",
+    "options": [
+      "Pazartesi",
+      "Cumartesi",
+      "Pazar",
+      "Salı"
+    ],
+    "correctAnswer": "Pazar",
+    "tags": [
+      "Fransız Kültürü",
+      "Gelenek",
+      "Hafta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8qkybofn1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Fransız sanatının en ikonik temsilcisi olan Eugène Delacroix hangi tarzda eserler vermiştir?",
+    "explanation": "Eugène Delacroix, Fransız Romantik sanatının en önemli temsilcilerinden biridir. 'Yunus ve Kılıç' gibi eserleriyle bilinir. Yapay Zeka, Minimalizm ve Konseptüel Sanat daha sonraki dönemlere aittir.",
+    "options": [
+      "Yapay Zeka",
+      "Romantik Sanat",
+      "Minimalizm",
+      "Konseptüel Sanat"
+    ],
+    "correctAnswer": "Romantik Sanat",
+    "tags": [
+      "Fransız Kültürü",
+      "Sanat",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oa4efyh5q",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransa'nın ulusal mutfağı olarak bilinen ve Fransız kültürünün en önemli sembolü olan neye verilir?",
+    "explanation": "Croissant, Fransız kültürünün en önemli simgelerinden biridir ve Paris sokaklarında sıkça karşılaşılan ulusal mutfağın parçasıdır.",
+    "options": [
+      "Pizza",
+      "Croissant",
+      "Torta",
+      "Börek"
+    ],
+    "correctAnswer": "Croissant",
+    "tags": [
+      "Fransız Kültürü",
+      "Mutfak",
+      "Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "27v4mripa",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız dilinin kökeni hangi eski dille ilişkilendirilir?",
+    "explanation": "Fransız dili, Latince kökene sahiptir ve Romalıların Fransa'yı işgaliyle doğrudan bağlantılıdır.",
+    "options": [
+      "Latince",
+      "Yunanca",
+      "İspanyolca",
+      "İtalyanca"
+    ],
+    "correctAnswer": "Latince",
+    "tags": [
+      "Fransız Kültürü",
+      "Dil",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ettugyfjp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransa'da her yıl düzenlenen en büyük kültürel festival hangisidir?",
+    "explanation": "Cannes Film Festivali, Fransa'nın güneyindeki Cannes şehrinde düzenlenen dünyaca ünlü kültürel bir festivaldir.",
+    "options": [
+      "Cannes Film Festivali",
+      "Münih Günlük Festivali",
+      "Berlin Tiyatro Festivali",
+      "Roma Müzik Festivali"
+    ],
+    "correctAnswer": "Cannes Film Festivali",
+    "tags": [
+      "Fransız Kültürü",
+      "Festival",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uflim5j45",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız kültüründe önemli bir yere sahip olan 'Mona Lisa' tablosu hangi sanatçıya aittir?",
+    "explanation": "Mona Lisa, Leonardo da Vinci tarafından çizilmiş ve Louvre Müzesinde sergilenen dünyanın en ünlü tablolarından biridir.",
+    "options": [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Salvador Dali"
+    ],
+    "correctAnswer": "Leonardo da Vinci",
+    "tags": [
+      "Fransız Kültürü",
+      "Sanat",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ipb1mtern",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Fransa'nın başkenti Paris'te yer alan ve Fransız kültürünün kalbi olan hangi yapıdır?",
+    "explanation": "Champs-Élysées, Paris'in en meşhur caddesi ve Fransız kültürünün önemli turistik mekanlarından biridir.",
+    "options": [
+      "İstiklal Caddesi",
+      "Champs-Élysées",
+      "Taksim Meydanı",
+      "Sultanahmet Camii"
+    ],
+    "correctAnswer": "Champs-Élysées",
+    "tags": [
+      "Fransız Kültürü",
+      "Paris",
+      "Turizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vzq9z4vvp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız kültüründe yemek yeme adetlerinden hangisi diğerlerinden farklıdır?",
+    "explanation": "Fransız kültüründe ekmek, yemeklerin ayrılmaz bir parçasıdır ve her zaman ana tabakta yer alır. Fransızlar ekmekle başlarlar ve ekmek yemeği tamamlama sembolüdür.",
+    "options": [
+      "Yemekler genellikle büyük tabaklarda ve paylaşılır",
+      "Herkes kendi porsiyonunu tek başına yer",
+      "Ekmek her zaman ana tabakta bulunur",
+      "Su yerine sadece şarap içilir"
+    ],
+    "correctAnswer": "Ekmek her zaman ana tabakta bulunur",
+    "tags": [
+      "fransız_kültürü",
+      "yemek_adiyetleri",
+      "sosyal_etiket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w9l0hu1ri",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransız dilinde karşılıklı selamlaşmada hangisi kullanılmaz?",
+    "explanation": "Fransız kültüründe 'Salamat' kullanılmaz. Bunun yerine 'Bonjour' (merhaba), 'Au revoir' (görüşürüz) ve 'Merci' (teşekkürler) gibi ifadeler Fransızca selamlaşma için uygundur.",
+    "options": [
+      "Bonjour",
+      "Au revoir",
+      "Salamat",
+      "Merhaba"
+    ],
+    "correctAnswer": "Salamat",
+    "tags": [
+      "fransız_dili",
+      "selamlaşma",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o68i6msu5",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız moda kültüründe hangi tür kıyafet daha yaygındır?",
+    "explanation": "Fransız moda kültüründe şık günlük kıyafetler daha yaygındır. Fransızlar 'effortless chic' (çaba göstermeden şık) tarzını benimser ve resmi olmayan ancak bakımlı kıyafetleri tercih ederler.",
+    "options": [
+      "Resmi takım elbise",
+      "Şık günlük kıyafetler",
+      "Spor ayakkabı ve tişört",
+      "Geleneksel Türk kıyafeti"
+    ],
+    "correctAnswer": "Şık günlük kıyafetler",
+    "tags": [
+      "fransız_moda",
+      "kıyafet",
+      "günlük_turizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ehersi97o",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız sosyal yaşamında kahve saatlerinde ne gibi aktiviteler yapılır?",
+    "explanation": "Fransız sosyal yaşamında kahve saatlerinde genellikle dışarıda terasta oturulur ve arkadaşlarla, aileyle sohbet edilmek. Bu, Fransız kültürünün önemli bir geleneksidir.",
+    "options": [
+      "Dışarıda oturup sohbet edilir",
+      "İş toplantıları yapılır",
+      "Okul dersleri verilir",
+      "Yemek hazırlanır"
+    ],
+    "correctAnswer": "Dışarıda oturup sohbet edilir",
+    "tags": [
+      "fransız_kahve",
+      "sosyal_yaşam",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lb3yks601",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransız kültüründe en meşhur ulusal tatlı hangisidir?",
+    "explanation": "Croissant Fransız kültürünün en meşhur ulusal tatlılarından biridir. Özellikle Paris'te ve Fransız kahvecilerinde croissant, klasik Fransız pastacılık geleneğinin önemli bir parçasıdır.",
+    "options": [
+      "Croissant",
+      "Macaronya",
+      "Pavlova",
+      "Tiramisu"
+    ],
+    "correctAnswer": "Croissant",
+    "tags": [
+      "fransız_gastronomi",
+      "tatlılar",
+      "ulusal_yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fobilxxz9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "What is the most famous dish in French cuisine that consists of a thick sauce made with butter, flour, and milk?",
+    "explanation": "Quiche Lorraine is a classic French savory tart from the Lorraine region, made with eggs, cream, cheese, and bacon/lardons in a pastry shell. It's one of France's most internationally recognized dishes.",
+    "options": [
+      "Ratatouille",
+      "Beef Bourguignon",
+      "Soufflé",
+      "Quiche Lorraine"
+    ],
+    "correctAnswer": "Quiche Lorraine",
+    "tags": [
+      "French Cuisine",
+      "Traditional Food",
+      "Baking"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lea3h4wm5",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which French city is known as the 'City of Light' and is home to the famous Louvre Museum?",
+    "explanation": "Paris is famously called 'La Ville Lumière' (City of Light) both due to its early adoption of gas lighting and its intellectual prominence. The Louvre, located in Paris, houses the Mona Lisa and thousands of other masterpieces.",
+    "options": [
+      "Bordeaux",
+      "Marseille",
+      "Paris",
+      "Nice"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "French Geography",
+      "Tourism",
+      "Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cj0bdziid",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "In French culture, what does 'terroir' refer to regarding wine production?",
+    "explanation": "Terroir is a crucial concept in French wine culture that encompasses all environmental factors affecting grape growing: soil composition, climate, topography, and local microclimates. It's why French wines are so regionally specific.",
+    "options": [
+      "The grape variety",
+      "The aging process",
+      "The unique characteristics of a specific region's soil, climate, and topography",
+      "The winemaker's technique"
+    ],
+    "correctAnswer": "The unique characteristics of a specific region's soil, climate, and topography",
+    "tags": [
+      "French Wine",
+      "Agriculture",
+      "Terroir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3cmba4jv4",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which French holiday celebrates the end of winter and features bonfires in mountain regions?",
+    "explanation": "La Chandeleur (Candlemas) is celebrated on February 2nd in France. It marks the end of winter and traditionally involves making crêpes. In mountain regions, it also features bonfires celebrating Saint Blaise.",
+    "options": [
+      "Bastille Day",
+      "Pentecost",
+      "La Chandeleur",
+      "La Saint-Valentin"
+    ],
+    "correctAnswer": "La Chandeleur",
+    "tags": [
+      "French Traditions",
+      "Religious Holidays",
+      "Cultural Practices"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "di9imfe1j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "What is the name of the famous French fashion district located in Paris known for haute couture?",
+    "explanation": "Le Marais is a historic district in Paris that became famous for its fashion boutiques, art galleries, and hipster culture. It's associated with haute couture brands and represents French fashion heritage.",
+    "options": [
+      "Le Marais",
+      "Saint-Germain-des-Prés",
+      "Le Faubourg du Roule",
+      "Les Halles"
+    ],
+    "correctAnswer": "Le Marais",
+    "tags": [
+      "French Fashion",
+      "Haute Couture",
+      "Paris"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qicq63aoe",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransız mutfak geleneğinde en meşhur yemek hangisidir?",
+    "explanation": "Tarte Tatin, Fransız mutfak geleneğinde 1864 yılında Loire'nin güneyindeki Tatin köyünde ortaya çıkan meşhur ters çevrilmiş şekerli turtadır.",
+    "options": [
+      "Croissant",
+      "Tarte Tatin",
+      "Pasta Carbonara",
+      "Sushi"
+    ],
+    "correctAnswer": "Tarte Tatin",
+    "tags": [
+      "mutfak",
+      "gastronomi",
+      "traditions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k6nfey2on",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransa'da moda ve tasarım alanındaki en önemli şehir hangisidir?",
+    "explanation": "Paris, Fransız kültüründe moda, tasarım ve sanat alanının merkezi olarak kabul edilir ve dünyanın en önemli moda başkentlerinden biridir.",
+    "options": [
+      "Lyon",
+      "Paris",
+      "Marseille",
+      "Nice"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "moda",
+      "tasarım",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cfu5p8mpq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız edebiyatında Nobel ödülü kazanan ünlü yazarlardan biri kimdir?",
+    "explanation": "Victor Hugo, Fransız edebiyatının en önemli isimlerinden biri olup 19. yüzyılın en etkili yazarlarından biridir ve birçok klasik eser yazmıştır.",
+    "options": [
+      "Victor Hugo",
+      "Jules Verne",
+      "Albert Camus",
+      "Tous sayıları"
+    ],
+    "correctAnswer": "Victor Hugo",
+    "tags": [
+      "edebiyat",
+      " Nobel ödülü",
+      "yazarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rusbtdn04",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız dilinin temel özelliklerinden biri hangisidir?",
+    "explanation": "Fransız dilinde ünlü seslerin (vowel) vurgulanması ve hece yapısının önemli bir özelliği olarak kabul edilir.",
+    "options": [
+      "Çok fazla değişkenlik",
+      "Sesli ünlü vurgusu",
+      "Kısa kelime yapısı",
+      "Yüksek ses tonu"
+    ],
+    "correctAnswer": "Sesli ünlü vurgusu",
+    "tags": [
+      "dil",
+      "gramer",
+      "özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hqo6qn2xu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Fransız kültüründe Bayramların en önemlilerinden biri hangisidir?",
+    "explanation": "Paskalya, Fransız kültüründe hem dini hem de geleneksel anlamda önemli bir bayramdır ve aile toplanmalarının en yaygın olduğu günlerden biridir.",
+    "options": [
+      "Yılbaşı",
+      "Paskalya",
+      "Aziz Jean Günü",
+      "Bağımsızlık Günü"
+    ],
+    "correctAnswer": "Paskalya",
+    "tags": [
+      "bayramlar",
+      "tarihi",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xg8isbxol",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Hangi yiyecek Fransız mutfağının en meşhur simgelerinden biridir ve 'fransız pastası' olarak bilinir?",
+    "explanation": "Croissant, Fransız mutfağının en tanınmış simgesi olup genellikle kahvaltı ve öğle yemeklerinde tüketilir. 'Fransız pastası' olarak bilinir.",
+    "options": [
+      "Croissant",
+      "Bagel",
+      "Doughnut",
+      "Pita"
+    ],
+    "correctAnswer": "Croissant",
+    "tags": [
+      "Fransız Mutfağı",
+      "Yiyecekler",
+      "Kültürel Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2d6030rbp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransa'nın resmi dili hangisidir?",
+    "explanation": "Fransa'nın resmi ve ulusal dili Fransızcadır. Bu dil Fransa'da eğitim, devlet işleri ve günlük hayatta kullanılır.",
+    "options": [
+      "İngilizce",
+      "İspanyolca",
+      "Portekizce",
+      "Fransızca"
+    ],
+    "correctAnswer": "Fransızca",
+    "tags": [
+      "Dil",
+      "Fransa",
+      "Resmi Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ygv0lx62n",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız kültüründe hangi gün haftanın en önemli dinlenme günü olarak kabul edilir?",
+    "explanation": "Fransız kültüründe Pazar günü haftanın en önemli dinlenme ve aile zamanı olarak kabul edilir. Bu gün çoğu Fransız iş yerinde tatil yaparlar.",
+    "options": [
+      "Pazartesi",
+      "Salı",
+      "Cumartesi",
+      "Pazar"
+    ],
+    "correctAnswer": "Pazar",
+    "tags": [
+      "Hafta Günüleri",
+      "Kültürel Alışkanlıklar",
+      "Fransız Yaşamı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ufk9v3nvq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangi şehir Fransız devrimi'nin önemli sembollerinden biri olan Bastille Kulesi'nin yerini belirtir?",
+    "explanation": "Bastille Kulesi Paris'te bulunur ve Fransız devrimi'nin önemli sembollerinden biridir. 1789'da Bastille kalesinin düşmesi devrimin başlangıcı olarak kabul edilir.",
+    "options": [
+      "Paris",
+      "Lyon",
+      "Marseille",
+      "Bordeaux"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "Tarih",
+      "Devrim",
+      "Fransız Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "13v3i4ezq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Fransız kültüründe hangi içecek geleneksel olarak 'kafe' zamanlarındaki sosyal buluşmalar için kullanılır?",
+    "explanation": "Fransız kültüründe kahve, geleneksel sosyal buluşmalar ve 'kafe' zamanları için kullanılır. Fransızlar kahve içmeyi bir yaşam tarzı olarak benimsemişlerdir.",
+    "options": [
+      "Çay",
+      "Şarap",
+      "Kahve",
+      "Soda"
+    ],
+    "correctAnswer": "Kahve",
+    "tags": [
+      "İçecekler",
+      "Sosyal Hayat",
+      "Fransız Yaşamı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lz4z52mm1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EASY",
+    "question": "Fransız kültüründe yemek yeme adetleri ve zamanlama konusunda en yaygın uygulama nedir?",
+    "explanation": "Fransızlar yemek yemeyi önemli bir sosyal aktivite olarak görürler. Yemek molası uzun sürer ve sohbet ediliyor.",
+    "options": [
+      "Aşırı hızlı yemek",
+      "Uzun ve keyifli yemek molası",
+      "Yemekten kaçınma",
+      "Tek başına yemek"
+    ],
+    "correctAnswer": "Uzun ve keyifli yemek molası",
+    "tags": [
+      "Fransız Kültürü",
+      "Yemek Adetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i8m3ebbqf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransa'nın ulusal kahramanı ve kültür sembolü kimdir?",
+    "explanation": "Gallicus Fransız kültürünün ulusal sembolüdür ve Fransa bayrağında yer alır.",
+    "options": [
+      "Gül",
+      "Köpek",
+      "Gallicus",
+      "Bouquet"
+    ],
+    "correctAnswer": "Gallicus",
+    "tags": [
+      "Fransız Kültürü",
+      "Simgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ok70sjvlo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransızlar geleneksel olarak hangi çiçeği sevdikleri bilinir?",
+    "explanation": "Gül Fransız kültüründe önemli bir semboldür ve romantik ilişkilerle ilişkilendirilir.",
+    "options": [
+      "Gül",
+      "Lale",
+      "Menemen",
+      "Tulip"
+    ],
+    "correctAnswer": "Gül",
+    "tags": [
+      "Fransız Kültürü",
+      "Çiçekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zrt7le0t2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfak kültüründe en ünlü sos hangisidir?",
+    "explanation": "Béchamel Fransız mutfak kültürünün en temel ve ünlü soslarından biridir.",
+    "options": [
+      "Sarımsak sosu",
+      "Beyaz sos (béchamel)",
+      "Kırmızı sos",
+      "Mavi sos"
+    ],
+    "correctAnswer": "Beyaz sos (béchamel)",
+    "tags": [
+      "Fransız Kültürü",
+      "Mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "czqvxfn5c",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Fransız Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Fransız kültüründe 'L'art de vivre' ne ifade eder?",
+    "explanation": "'L'art de vivre' Fransız yaşam felsefesini ifade eder ve 'yaşam sanatı' olarak çevrilir.",
+    "options": [
+      "Sanat yaşamı",
+      "Yaşam sanatı",
+      "Yaşam becerisi",
+      "Yaşam tarzı"
+    ],
+    "correctAnswer": "Yaşam sanatı",
+    "tags": [
+      "Fransız Kültürü",
+      "Felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

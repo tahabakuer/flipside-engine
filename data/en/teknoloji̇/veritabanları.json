@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "6rxrzcbfg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "SQL'de bir tablodaki tüm kayıtları seçmek için hangi komut kullanılır?",
+    "explanation": "SELECT komutu SQL'de kayıtları seçmek için kullanılır. DELETE siler, INSERT ekler, UPDATE düzenler.",
+    "options": [
+      "DELETE",
+      "INSERT",
+      "SELECT",
+      "UPDATE"
+    ],
+    "correctAnswer": "SELECT",
+    "tags": [
+      "SQL",
+      "Temel Komutlar",
+      "Veritabanı Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "45n7slmp7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "İlişkisel veritabanlarında birincil anahtar (Primary Key) hakkında aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Primary Key her satırda benzersiz olmalıdır ve null değer kabul etmez. Bir tabroda sadece bir primary key olabilir.",
+    "options": [
+      "Bir tabroda birden fazla birincil anahtar olabilir",
+      "Her satırda benzersiz ve null olamaz",
+      "Sadece sayısal değer kabul eder",
+      "İlişkisel olmayan veritabanlarında kullanılır"
+    ],
+    "correctAnswer": "Her satırda benzersiz ve null olamaz",
+    "tags": [
+      "Birincil Anahtar",
+      "Veri Bütünlüğü",
+      "SQL Kısıtları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8zyfr169p",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "Normalizasyonun 3. Normal Form (3NF) neyin gerektirmesini sağlar?",
+    "explanation": "3NF transit bağımlılığı (non-key attributes arasındaki bağımlılık) kaldırır. Bu, veri tekrarını azaltır.",
+    "options": [
+      "Her alan birincil anahtar olmalıdır",
+      "Transit bağımlılıklar kaldırılır",
+      "Yinelemeli veriler engellenir",
+      "Sadece string değerler kullanılır"
+    ],
+    "correctAnswer": "Transit bağımlılıklar kaldırılır",
+    "tags": [
+      "Normalizasyon",
+      "3NF",
+      "Veri Modelleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tgiye3kdk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "SQL'de JOIN operasyonu hangi tür veritabanı sorgulamasına izin verir?",
+    "explanation": "JOIN operasyonu ilgili tabloları anahtarları üzerinden birleştirerek genişletilmiş sorgular yapar.",
+    "options": [
+      "Tek tabloda kayıtlar silebilir",
+      "Birden fazla tabloyu birleştirebilir",
+      "Tablolar arasında bağlantı kurabilir",
+      "Veri bütünlüğünü kontrol edebilir"
+    ],
+    "correctAnswer": "Birden fazla tabloyu birleştirebilir",
+    "tags": [
+      "JOIN",
+      "İlişkisel Sorgular",
+      "Tablolar Arası İşlem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wngo0gmsi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Veritabanı performansını artırmak için aşağıdakilerden hangisi en etkili yöntemdir?",
+    "explanation": "İndeksler sorgu hızını artırır. OPTIMIZE LIKE SQL komutu veya index stratejisi performansı iyileştirir.",
+    "options": [
+      "Tüm kayıtları SELECT ile çekmek",
+      "İndeks oluşturmak ve optimize etmek",
+      "Normalizasyonu kaldırmak",
+      "JOIN kullanmaktan kaçınmak"
+    ],
+    "correctAnswer": "İndeks oluşturmak ve optimize etmek",
+    "tags": [
+      "Performans",
+      "İndeksleme",
+      "Optimizasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qbxniswj1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "İlişkisel veritabanlarında bir tablonun altındaki sütunların benzersiz değerleri içermesi ve her satırın tekil olması hangi özelliği ifade eder?",
+    "explanation": "Primary Key (Anahtar), her satırı benzersiz şekilde tanımlar ve NULL değer kabul etmez. Foreign Key diğer tablolarla ilişki kurar, Unique Constraint tek sütun veya sütun grubu için geçerlidir, Index performans optimizasyonu sağlar.",
+    "options": [
+      "A) Primary Key",
+      "B) Foreign Key",
+      "C) Unique Constraint",
+      "D) Index"
+    ],
+    "correctAnswer": "A) Primary Key",
+    "tags": [
+      "veritabanı",
+      "SQL",
+      "anahtarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bu6mpu771",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "SQL'de iki tablonun ilişkili sütunlarını birleştirerek yeni bir sonuç seti oluşturma işlemini hangi komut yapar?",
+    "explanation": "SELECT ... FROM komutu veritabanından veri çeker ve tablonun birleştirilmesi (INNER JOIN, LEFT JOIN vb.) bu komutla yapılır. CREATE TABLE yeni tablo oluşturur, UPDATE veriyi değiştirir, DELETE silme işlemini yapar.",
+    "options": [
+      "A) SELECT ... FROM",
+      "B) CREATE TABLE",
+      "C) UPDATE",
+      "D) DELETE"
+    ],
+    "correctAnswer": "A) SELECT ... FROM",
+    "tags": [
+      "SQL",
+      "SELECT",
+      "JOIN"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y8urpyj7e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "İlişkisel veritabanlarında normalizasyonun ilk aşaması olan 1NF (Birinci Normal Forma) neyi gerektirir?",
+    "explanation": "1NF (Birinci Normal Forma), her sütunun atomik (tek) değer içermesi ve tekrar eden grupların olmamasını gerektirir. 2NF, 3NF daha yüksek düzeyde bağımlılık kurallarını ifade eder.",
+    "options": [
+      "A) Her tablodaki sütunlar tek değer içermeli",
+      "B) Her satır benzersiz olmalı",
+      "C) Tablolar arasında anahtar ilişkisi kurulmalı",
+      "D) Tüm tablolar birleştirilmeli"
+    ],
+    "correctAnswer": "A) Her tablodaki sütunlar tek değer içermeli",
+    "tags": [
+      "normalizasyon",
+      "1NF",
+      "veritabanı tasarımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ghbrg3egp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "SQL işlemlerinde ACID ilkelerinden 'Durum' (Isolation) neyi tanımlar?",
+    "explanation": "ACID'de Isolation (Yalıtım), birden fazla işlemin aynı anda çalışırken birbirini etkilememesini sağlar. Atomicity tüm değişikliklerin geri alınabilmesini, Consistency veritabanının tutarlı kalmasını, Durability değişikliklerin kalıcı olmasını if",
+    "options": [
+      "A) İşlem sırasında başka işlem müdahale etmemelidir",
+      "B) İşlem tamamlandığında veriler kalıcı olmalıdır",
+      "C) İşlem başarısız olduğunda tüm değişiklikler geri alınmalıdır",
+      "D) Tüm işlemler aynı anda çalışabilmelidir"
+    ],
+    "correctAnswer": "A) İşlem sırasında başka işlem müdahale etmemelidir",
+    "tags": [
+      "ACID",
+      "işlemler",
+      "veritabanı güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ks5vfet1o",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "MySQL ve PostgreSQL gibi açık kaynaklı veritabanları ile Oracle gibi ticari veritabanları arasındaki temel fark nedir?",
+    "explanation": "MySQL, PostgreSQL gibi açık kaynaklı veritabanları Apache License, GPL gibi ücretsiz lisanslara sahiptir. Oracle gibi ticari veritabanlar ücretli lisans gerektirir ve ekstra özellikler sunabilir ancak performans her zaman farklı değildir.",
+    "options": [
+      "A) Açık kaynaklar ücretsiz lisansa sahiptir, ticari ücretli lisans gerektirir",
+      "B) Ticari veritabanları daha hızlı çalışır",
+      "C) Açık kaynaklar sadece Linux'ta çalışabilir",
+      "D) Ticari veritabanları SQL desteklemez"
+    ],
+    "correctAnswer": "A) Açık kaynaklar ücretsiz lisansa sahiptir, ticari ücretli lisans gerektirir",
+    "tags": [
+      "veritabanı türleri",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nbmo6ml3x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Veritabanında kullanılan ve verilerin tutarlılığını sağlayan özellik hangisidir?",
+    "explanation": "ACID (Atomicity, Consistency, Isolation, Durability) veritabanı işlemlerinin tutarlılığını ve güvenilirliğini sağlar.",
+    "options": [
+      "A) Normalizasyon",
+      "B) ACID Özellikleri",
+      "C) İndeksleme",
+      "D) Şifreleme"
+    ],
+    "correctAnswer": "B) ACID Özellikleri",
+    "tags": [
+      "Veritabanı",
+      "Tutarlılık",
+      "SQL"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mj49bjix4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "İkinci normal formda (2NF) bir tablo hangi koşulu sağlamalıdır?",
+    "explanation": "İkinci normal formda, tüm non-prime (anahtarı olmayan) alanlar anahtarın tamamına tam fonksiyonel bağımlı olmalıdır.",
+    "options": [
+      "A) Tüm anahtar alanlar PRIMARY KEY olmalıdır",
+      "B) Tüm non-prime alanlar tam fonksiyonel bağımlı olmalıdır",
+      "C) Birden fazla FOREIGN KEY tanımlanabilir",
+      "D) İndeksler oluşturulmalıdır"
+    ],
+    "correctAnswer": "B) Tüm non-prime alanlar tam fonksiyonel bağımlı olmalıdır",
+    "tags": [
+      "Veritabanı",
+      "Normalizasyon",
+      "2NF"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "moix9mjyz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "SQL'de iki tabloyu join etmek için kullanılan JOIN tipinin hangisidir?",
+    "explanation": "INNER JOIN iki tablodaki eşleşen kayıtları döndürür ve en yaygın kullanılan join tipidir.",
+    "options": [
+      "A) INNER JOIN",
+      "B) CROSS JOIN",
+      "C) SELF JOIN",
+      "D) OUTER JOIN"
+    ],
+    "correctAnswer": "A) INNER JOIN",
+    "tags": [
+      "Veritabanı",
+      "SQL",
+      "JOIN"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8w0ff370o",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Veritabanında verilerin erişimini hızlandırmak için ne kullanılır?",
+    "explanation": "İndeksler veritabanında arama ve erişim işlemlerini hızlandırmak için kullanılır.",
+    "options": [
+      "A) Trigger",
+      "B) Stored Procedure",
+      "C) İndeks",
+      "D) View"
+    ],
+    "correctAnswer": "C) İndeks",
+    "tags": [
+      "Veritabanı",
+      "Performans",
+      "İndeksleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4mouekbyi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "SQL Injection saldırısını önlemek için en etkili yöntem hangisidir?",
+    "explanation": "Prepared Statements, SQL kodunu ve verileri ayrı tutarak en etkili şekilde SQL Injection saldırılarını önler.",
+    "options": [
+      "A) Verileri şifrelemek",
+      "B) Prepared Statements kullanmak",
+      "C) Tabloları normalizasyon yapmak",
+      "D) İndeksler oluşturmak"
+    ],
+    "correctAnswer": "B) Prepared Statements kullanmak",
+    "tags": [
+      "Veritabanı",
+      "Güvenlik",
+      "SQL Injection"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3bngkvss7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi veritabanı normalleştirmesinin temel amaçlarından biri değildir?",
+    "explanation": "Normalleştirmenin amacı veri tekrarını azaltmak, bağımlılıkları yönetmek ve anomalileri önlemektir. Veri tekrarını artırmak normalizasyonun tersidir.",
+    "options": [
+      "Bağımlılıkları azaltmak",
+      "Anomalileri önlemek",
+      "Veri tekrarını artırmak",
+      "Hafıza kullanımını optimize etmek"
+    ],
+    "correctAnswer": "Veri tekrarını artırmak",
+    "tags": [
+      "normalleştirme",
+      "veritabanı tasarımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8o27n31xq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "SQL'de aşağıdaki işlemlerden hangisi veritabanı yapısını değiştirmek için kullanılır?",
+    "explanation": "DROP TABLE veritabanındaki tabloyu tamamen silmek için kullanılır. SELECT veri okumada, INSERT ve UPDATE veri yazmada kullanılır.",
+    "options": [
+      "SELECT",
+      "INSERT",
+      "DROP TABLE",
+      "UPDATE"
+    ],
+    "correctAnswer": "DROP TABLE",
+    "tags": [
+      "SQL",
+      "veritabanı komutları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v08tftkaq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "ACID prensibi aşağıdaki hangisiyle İLGİLİ değildir?",
+    "explanation": "ACID prensibi Atomicity, Consistency, Isolation ve Durability içerir. Availability (MEB) ACID'in bir parçası değildir, genellikle CAP teoremiyle ilişkilidir.",
+    "options": [
+      "Atomicity",
+      "Consistency",
+      "Durability",
+      "Availability"
+    ],
+    "correctAnswer": "Availability",
+    "tags": [
+      "ACID",
+      "işlem garantileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37mqexn18",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Bir veritabanında 'index' oluşturma işlemi hangi amaçla yapılır?",
+    "explanation": "İndeksler veritabanında sorguları daha hızlı bulmak için kullanılır. Veri şifreleme, yedekleme ve tablo boyutu küçültme farklı işlemlerdir.",
+    "options": [
+      "Veriyi şifrelemek",
+      "Sorgu performansını artırmak",
+      "Veri yedekleme yapmak",
+      "Tablo boyutunu küçültmek"
+    ],
+    "correctAnswer": "Sorgu performansını artırmak",
+    "tags": [
+      "indexing",
+      "performans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pkmoes0h8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Veritabanı birleştirme (JOIN) işleminde hangi JOIN türü boş sonuç döndürmez?",
+    "explanation": "INNER JOIN sadece her iki tabloda eşleşen kayıtları döndürür, boş sonuçlar vermez. LEFT ve RIGHT JOIN tablo dışındaki kayıtları da null ile döndürebilir.",
+    "options": [
+      "LEFT JOIN",
+      "INNER JOIN",
+      "RIGHT JOIN",
+      "OUTER JOIN"
+    ],
+    "correctAnswer": "INNER JOIN",
+    "tags": [
+      "JOIN",
+      "SQL sorguları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ycyz5mf5b",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "SQL ifadesinin tam açılımı aşağıdakilerden hangisidir?",
+    "explanation": "SQL, Structured Query Language olarak adlandırılır ve ilişkisel veritabanlarında veri sorgulama, manipülasyon ve yönetim için kullanılır.",
+    "options": [
+      "Simple Query Language",
+      "Structured Query Language",
+      "Standardized Query Language",
+      "System Query Language"
+    ],
+    "correctAnswer": "Structured Query Language",
+    "tags": [
+      "SQL",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3lrn3vdsp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Bir tablodaki her bir satırı benzersiz bir şekilde tanımlayan ve null olmayan sütun grubu ne adlandırılır?",
+    "explanation": "Primary Key (Anahtar), bir tablodaki kayıtları benzersiz tanımlamak ve veri bütünlüğünü korumak için kullanılır.",
+    "options": [
+      "Foreign Key",
+      "Primary Key",
+      "Index",
+      "View"
+    ],
+    "correctAnswer": "Primary Key",
+    "tags": [
+      "Tablo Yapısı",
+      "Anahtarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5tnz8832d",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Veritabanı normalizasyonunun temel amacı nedir?",
+    "explanation": "Normalizasyon, veri tablosunu organize etmek ve gereksiz tekrarları (redundancy) önlemek amacıyla yapılır.",
+    "options": [
+      "Veri boyutunu artırmak",
+      "Gereksiz tekrarlayan veriyi azaltmak",
+      "Sorgu hızını yavaşlatmak",
+      "Donanım maliyetini artırmak"
+    ],
+    "correctAnswer": "Gereksiz tekrarlayan veriyi azaltmak",
+    "tags": [
+      "Normalizasyon",
+      "Veri Tasarımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5a095laqw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "ACID özelliklerinden hangisi bir işlemin başarısız olması durumunda, işlemin hiç yapılmış gibi davranmasını garanti eder?",
+    "explanation": "Atomicity (Atomiklik), bir işlemin ya tamamen başarılı olmasını ya da hiç başlamamış gibi davranmasını (geri alınabilirliğini) garanti eder.",
+    "options": [
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
+    ],
+    "correctAnswer": "Atomicity",
+    "tags": [
+      "Transaction",
+      "ACID Özellikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ua3r0a7bu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "Veritabanı performansını artırmak için kullanılan 'İndeksleme' işlemi aşağıdaki hangisini etkiler?",
+    "explanation": "İndeksler, veritabanında veri arama ve filtreleme operasyonlarını hızlandırarak genel sorgu performansını iyileştirir.",
+    "options": [
+      "Sorgu işlemlerinin hızını artırır",
+      "Veri tablosunu silebilir",
+      "Şifreleme seviyesini düşürür",
+      "Ağ bağlantısını keser"
+    ],
+    "correctAnswer": "Sorgu işlemlerinin hızını artırır",
+    "tags": [
+      "Performans",
+      "İndeksler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "25d8502uu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "Veritabanları bilgisayar sistemlerinde verileri hangi amaçla organize eder?",
+    "explanation": "Veritabanları, büyük miktarlardaki verileri organize ederek saklayıp yönetmeyi sağlayan sistemlerdir.",
+    "options": [
+      "Sadece geçici veri tutmak için",
+      "Veriyi saklamak ve yönetmek için",
+      "Sadece görsel dosyaları depolamak için",
+      "Donanım üretilmesi için"
+    ],
+    "correctAnswer": "Veriyi saklamak ve yönetmek için",
+    "tags": [
+      "temel",
+      "tanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "07m2pk3i5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "İlişkisel veritabanında bir tablodaki her satırı benzersiz kılan sütuna ne ad verilir?",
+    "explanation": "Bir tablodaki satırları benzersiz kılmak ve veri bütünlüğünü sağlamak için Primary Key (Anahtar) kullanılır.",
+    "options": [
+      "Primary Key (Anahtar)",
+      "Foreign Key (Yabancı Anahtar)",
+      "Index",
+      "Column"
+    ],
+    "correctAnswer": "Primary Key (Anahtar)",
+    "tags": [
+      "sql",
+      "tablo_structuru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "st0a6bfb7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "SQL dilinde yeni bir kayıt veya veriyi eklemek için kullanılan komut hangisidir?",
+    "explanation": "SQL'de 'INSERT INTO' komutu, mevcut bir tabloya yeni satırlar eklemek için kullanılır.",
+    "options": [
+      "SELECT",
+      "UPDATE",
+      "INSERT INTO",
+      "DELETE"
+    ],
+    "correctAnswer": "INSERT INTO",
+    "tags": [
+      "sql",
+      "sorgu_dilleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sio2x0i0m",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi ACID özelliklerinden biri değildir?",
+    "explanation": "ACID özellikleri; Atomicity, Consistency, Isolation ve Durability'dir. Availability genellikle CAP teoremi kapsamında değerlendirilir.",
+    "options": [
+      "Atomicity (Atomiklik)",
+      "Consistency (Tutarlılık)",
+      "Availability (Mevcutluk)",
+      "Durability (Kalıcılık)"
+    ],
+    "correctAnswer": "Availability (Mevcutluk)",
+    "tags": [
+      "acidity",
+      "transaksyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zz1h6yphq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Hangisi NoSQL veritabanı örneğidir?",
+    "explanation": "MySQL ve PostgreSQL ilişkisel (SQL) veritabanlarıdır. MongoDB ise dokümant tabanlı bir NoSQL veritabanıdır.",
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle DB"
+    ],
+    "correctAnswer": "MongoDB",
+    "tags": [
+      "nosql",
+      "veritabanı_tipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a1djk6lyy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "Bir veritabanında veri hangi yapıda organize edilir?",
+    "explanation": "Veritabanları, verileri düzenli bir şekilde tablolar (satır ve sütun) halinde organize ederek saklar.",
+    "options": [
+      "Dosya tabanlı",
+      "Tablolar halinde",
+      "Sadece metin",
+      "Görsel olarak"
+    ],
+    "correctAnswer": "Tablolar halinde",
+    "tags": [
+      "Temel Kavramlar",
+      "Veri Saklama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zm0q39ou0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Bir tablo oluşturmak için kullanılan temel SQL komutu hangisidir?",
+    "explanation": "CREATE TABLE komutu, veritabanında yeni bir tablo oluşturmak için kullanılır.",
+    "options": [
+      "ALTER TABLE",
+      "CREATE TABLE",
+      "DROP TABLE",
+      "UPDATE TABLE"
+    ],
+    "correctAnswer": "CREATE TABLE",
+    "tags": [
+      "SQL",
+      "Veritabanı Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zhu8icliq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Bir tabloda her kaydı benzersiz kılmak için kullanılan sütun türü nedir?",
+    "explanation": "Birincil Anahtar (Primary Key), bir tablodaki her satırı benzersiz ve tanımlayıcı şekilde ayırt etmek için kullanılır.",
+    "options": [
+      "Dış Anahtar",
+      "Bileşik Anahtar",
+      "Birincil Anahtar",
+      "Geçici Anahtar"
+    ],
+    "correctAnswer": "Birincil Anahtar",
+    "tags": [
+      "Veri Modelleme",
+      "SQL Kavramları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rxv89ejyh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "İlişkisel veritabanlarında veri tekrarlanmasını önlemek için hangi süreç uygulanır?",
+    "explanation": "Normalizasyon süreci, veritabanındaki gereksiz tekrarları azaltmak ve bağımlılıkları yönetmek için kullanılır.",
+    "options": [
+      "Denormalizasyon",
+      "Normalizasyon",
+      "Şifreleme",
+      "Yedekleme"
+    ],
+    "correctAnswer": "Normalizasyon",
+    "tags": [
+      "Veri Tasarımı",
+      "Optimizasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ultzrb1jg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "SQL'de iki tablo arasındaki ilişkiyi tanımlayan bir sütun hangisidir?",
+    "explanation": "Dış Anahtar (Foreign Key), iki tablo arasında bir ilişki kurmak ve referans vermede kullanılan sütundur.",
+    "options": [
+      "Anahtar Sütun",
+      "Dış Anahtar (Foreign Key)",
+      "Bileşik Sütun",
+      "Sistem Sütunu"
+    ],
+    "correctAnswer": "Dış Anahtar (Foreign Key)",
+    "tags": [
+      "SQL",
+      "İlişkisel Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pbk7l3q6n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi veritabanı normalizasyonunun temel amaçlarından biri değildir?",
+    "explanation": "Normalizasyonun temel amaçları veri tekrarını azaltmak, bağlantıları düzgünleştirmek ve veri bütünlüğünü sağlamaktır. Sorgulama hızı optimizasyonu için indeksleme kullanılır.",
+    "options": [
+      "Veri tekrarını azaltmak",
+      "Bağlantı kurulumunu kolaylaştırmak",
+      "Düzgün veri yapısını sağlamak",
+      "Sorgulama hızını artırmak"
+    ],
+    "correctAnswer": "Sorgulama hızını artırmak",
+    "tags": [
+      "normalizasyon",
+      "veritabanı",
+      "tasarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b9bows9g0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "ACID prensiplerinden hangisi işlemlerin veritabanında tutarlı bir şekilde tamamlanmasını sağlar?",
+    "explanation": "Consistency (Tutarlılık) veritabanının işlemden önceki ve sonraki durumda tutarlı kalmasını sağlar. Atomicity tüm veya hiçbir işlem, Isolation concurrent işlemleri izole eder, Durability işlemin kaydedilmesi garanti edilir.",
+    "options": [
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
+    ],
+    "correctAnswer": "Consistency",
+    "tags": [
+      "ACID",
+      "işlem-güvenliği",
+      "veritabanı-tasarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3phhio0py",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Bir veritabanında PRIMARY KEY ile tanımlanan kolonun özelliği aşağıdakilerden hangisidir?",
+    "explanation": "PRIMARY KEY her zaman benzersiz (UNIQUE) ve NULL olmayan değerler içermelidir. Birden fazla kolonla oluşturulabilir (Composite Key) ancak NULL kabul etmez.",
+    "options": [
+      "Her satırda benzersiz değer içermelidir",
+      "NULL değer alabilir",
+      "Birden fazla kolondan oluşabilir",
+      "Sadece STRING veri tipinde olabilir"
+    ],
+    "correctAnswer": "Her satırda benzersiz değer içermelidir",
+    "tags": [
+      "primary-key",
+      "veritabanı-kavramları",
+      "SQL"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "we2i0emrt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki SQL komutlarından hangisi yeni bir tablo oluşturmada kullanılır?",
+    "explanation": "CREATE TABLE yeni bir tablo oluşturur. ALTER TABLE mevcut tabloda değişiklik yapar, DROP TABLE siler, INSERT INTO veri ekler.",
+    "options": [
+      "CREATE TABLE",
+      "ALTER TABLE",
+      "DROP TABLE",
+      "INSERT INTO"
+    ],
+    "correctAnswer": "CREATE TABLE",
+    "tags": [
+      "SQL",
+      "tablo-olusturma",
+      "temel-komutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ske2o629j",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "Veritabanı indekslemesinin temel işlevi aşağıdakilerden hangisidir?",
+    "explanation": "İndeksleme veritabanında belirli kolonlara hızlı erişim sağlayarak sorgulama performansını artırır. Tablo boyutunu küçültmez, güvenlik veya şifreleme ile ilgili değildir.",
+    "options": [
+      "Tabloyu fiziksel olarak küçültmek",
+      "Sorgulama performansını artırmak",
+      "Güvenlik seviyesini yükseltmek",
+      "Veriyi şifrelemek"
+    ],
+    "correctAnswer": "Sorgulama performansını artırmak",
+    "tags": [
+      "indeksleme",
+      "performans-optimizasyonu",
+      "veritabanı-mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ifuvdkhep",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "Bir veritabanı nedir?",
+    "explanation": "Veritabanı (Database), verileri düzenli bir şekilde organize etmeyi, saklamayı ve yönetmeyi sağlayan elektronik bir depolama sistemidir.",
+    "options": [
+      "Sadece metin dosyalarının bir listesi",
+      "Bilgilerin sistematik olarak saklandığı yapılandırılmış depolama sistemi",
+      "Donanımın fiziksel parçası",
+      "İşletim sisteminin bir bileşeni"
+    ],
+    "correctAnswer": "Bilgilerin sistematik olarak saklandığı yapılandırılmış depolama sistemi",
+    "tags": [
+      "temel",
+      "veritabanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jy0bogu8v",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "SQL kısaltması neyi ifade eder?",
+    "explanation": "SQL (Structured Query Language), ilişkisel veritabanlarında veri manipülasyonu, sorgulama ve yönetim işlemleri için kullanılan standart bir dildir.",
+    "options": [
+      "Simple Query Language",
+      "Standard Query Language",
+      "Structured Query Language",
+      "System Query Language"
+    ],
+    "correctAnswer": "Structured Query Language",
+    "tags": [
+      "SQL",
+      "sorgulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "po40qss5k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "İki farklı tablo arasında ilişki kuran yapı hangisidir?",
+    "explanation": "Yabancı Anahtar (Foreign Key), bir tabloda bulunan ve başka bir tablodaki Primary Key'e referans veren alanlardır, böylece tablo arası ilişkiler kurulur.",
+    "options": [
+      "Primary Key",
+      "Foreign Key",
+      "Index",
+      "View"
+    ],
+    "correctAnswer": "Foreign Key",
+    "tags": [
+      "şema",
+      "ilişkisel veri modeli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "enh9p3mr3",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "Veritabanı normalizasyonunda ilk adımda (1NF) en temel kural hangisidir?",
+    "explanation": "Birinci Normal Form (1NF), verilerin atomik yapıda olmasını ve tekrar eden grupların veya çoklu değerlerin tek hücrede yer almamasını şart koşar.",
+    "options": [
+      "Her hücrede tek ve atomik bir değer bulunmalıdır",
+      "Transitif bağımlılıklar tamamen kaldırılmalıdır",
+      "Tablolar arasında çok az sayıda ilişki olmalıdır",
+      "İndeksler manuel olarak oluşturulmalıdır"
+    ],
+    "correctAnswer": "Her hücrede tek ve atomik bir değer bulunmalıdır",
+    "tags": [
+      "normalizasyon",
+      "veri bütünlüğü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rjxvrru53",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "ACID özelliklerinden hangisi, bir işlemin ya tamamen gerçekleşmesi ya da hiç gerçekleşmemesi gerektiğini garanti eder?",
+    "explanation": "Atomiklik (Atomicity), bir işlemin bütününü oluşturan tüm adımların başarılı olması gerekir, aksi takdirde hiçbiri gerçekleşmez veya işlem geri alınır.",
+    "options": [
+      "Isolation (İzole Edilebilirlik)",
+      "Consistency (Tutarlılık)",
+      "Atomicity (Atomiklik)",
+      "Durability (Kalıcılık)"
+    ],
+    "correctAnswer": "Atomicity (Atomiklik)",
+    "tags": [
+      "ACID",
+      "işlem bütünlüğü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ayvdkrppp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EASY",
+    "question": "Veritabanı (Database) aşağıdakilerden hangisidir?",
+    "explanation": "Veritabanları, organize edilmiş ve erişilebilir veri topluluklarını ifade eder. Bu yapılar verilerin tekrar kullanımı ve tutarlılığı için tasarlanmıştır.",
+    "options": [
+      "Dosya tabanlı veri saklama sistemi",
+      "İşletim sisteminin bir bileşeni",
+      "Organize edilmiş ve erişilebilir veri topluluğu",
+      "Ağ bağlantı protokolü"
+    ],
+    "correctAnswer": "Organize edilmiş ve erişilebilir veri topluluğu",
+    "tags": [
+      "Veritabanı",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4bhhipnjj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "SQL (Structured Query Language) aşağıdaki amaçlardan hangisini sağlar?",
+    "explanation": "SQL, veritabanları üzerinde işlemler yapmak için kullanılan standart dil olup veri ekleme, düzenleme ve sorgulama sağlar.",
+    "options": [
+      "İnternet tarayıcısında görüntüleme",
+      "Veritabanı ile iletişim ve veri sorgulama",
+      "Sadece yazılım testi yapma",
+      "Donanım yönetimi"
+    ],
+    "correctAnswer": "Veritabanı ile iletişim ve veri sorgulama",
+    "tags": [
+      "SQL",
+      "Veri Sorgulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "najoiqgv6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "GENERAL",
+    "question": "Bir ilişkisel veritabanında bir tablonun benzersiz satırlarını tanımlayan sütuna ne ad verilir?",
+    "explanation": "Birincil anahtar, tablodaki her satırın benzersiz tanımlanmasını sağlayan sütun veya sütun grubudur.",
+    "options": [
+      "Yabancı Anahtar (Foreign Key)",
+      "İndeks (Index)",
+      "Anahtar (Primary Key)",
+      "Görünüm (View)"
+    ],
+    "correctAnswer": "Anahtar (Primary Key)",
+    "tags": [
+      "Tablo Yapısı",
+      "Anahtarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lqkf4khaz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "Veritabanı işlemlerinin tutarlılığını sağlayan ACID prensipleri arasında yer almayan seçenek hangisidir?",
+    "explanation": "Atomiklik, Tutarlılık ve İzolasyon ACID prensiplerinin parçalarıdır. Bölümleme ise veriyi fiziksel olarak bölmek için kullanılan bir optimizasyon teknikidir.",
+    "options": [
+      "Atomiklik (Atomicity)",
+      "Tutarlılık (Consistency)",
+      "İzolasyon (Isolation)",
+      "Bölümleme (Partitioning)"
+    ],
+    "correctAnswer": "Bölümleme (Partitioning)",
+    "tags": [
+      "ACID",
+      "Veri Güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "01ysbnh6x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Veritabanları",
+    "difficulty": "EXPERT",
+    "question": "Veritabanı normalizasyonunda Üçüncü Normal Form (3NF) aşağıdaki özellikten hangisini gerektirir?",
+    "explanation": "Üçüncü Normal Form (3NF), veritabanında geçirimsel bağımlılıkların olmamasını ve tüm sütunların birincil anahtara tam fonksiyonel bağlı olmasını gerektirir.",
+    "options": [
+      "Tüm sütunlar birincil anahtara tam fonksiyonel bağımlı olmalıdır",
+      "Geçirimsel bağımlılıkların kaldırılması",
+      "Dış anahtarların kullanımı zorunludur",
+      "Her tablonun sadece bir sütunu vardır"
+    ],
+    "correctAnswer": "Geçirimsel bağımlılıkların kaldırılması",
+    "tags": [
+      "Normalizasyon",
+      "Veri Modelleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

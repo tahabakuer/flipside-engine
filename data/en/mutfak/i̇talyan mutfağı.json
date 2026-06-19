@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "dgymnooom",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağının en ikonik pidesi olarak bilinen ve Roma'nın ulusal yemeği olan neye verilen isimdir?",
+    "explanation": "Pizza Napoletana, İtalya'nın en meşhur pidesidir ve özellikle Roma ile Napoli bölgelerinde tüketilir. Sadece 4 ana malzemeden (peynir, domates sosu, bazillik ve zeytinyağı) yapılır.",
+    "options": [
+      "Pizza Napoletana",
+      "Focaccia Genovese",
+      "Pasta Carbonara",
+      "Tiramisu"
+    ],
+    "correctAnswer": "Pizza Napoletana",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Roma Pidesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "acswgutdl",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "İtalyan mutfağında 'Carbonara' yemeğinin asıl hazırlanışında kullanılmayan malzeme hangisidir?",
+    "explanation": "Carbonara, yumurta, pecorino veya parmesan peyniri, domuz eti salçası (guanciale) ve karabiberden yapılır. Mantar sosu bu yemeğe asla eklenmez.",
+    "options": [
+      "Yumurta",
+      "Parmigiano Reggiano peyniri",
+      "Taze mantar sosu",
+      "Domuz eti salçası"
+    ],
+    "correctAnswer": "Taze mantar sosu",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Pasta Çeşitleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "olj1cheq3",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağının en meşhur tatlılarından biri olan Tiramisu'nun ana malzemesi nedir?",
+    "explanation": "Tiramisu, kahve bazlı bir tatlıdır ve mascarpone peyniri, yumurta, şeker ve ladyfinger kurabiyelerden yapılır. İsmi 'yükselt' anlamına gelir.",
+    "options": [
+      "Kaymaklı süt",
+      "Maraş şurubu",
+      "Sakız",
+      "Kahve ve mascarpone peyniri"
+    ],
+    "correctAnswer": "Kahve ve mascarpone peyniri",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Tatlılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1qjdeb0lh",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Pesto Genovese' sosunun hangi bölgeden geldiği bilinir?",
+    "explanation": "Pesto Genovese, İtalya'nın Jenera (Genova) bölgesine özgü bir sosdur. Sarımsak, fesleğen, zeytinyağı, parmesan peyniri ve piyazdan yapılır.",
+    "options": [
+      "Toscana",
+      "Napoli",
+      "Jenera (Genova)",
+      "Milano"
+    ],
+    "correctAnswer": "Jenera (Genova)",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Soslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6j1bgwt3u",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Risotto' yemeğinin hazırlanmasında temel olarak hangi tahıl kullanılır?",
+    "explanation": "Risotto, yüksek nişasta oranına sahip kırmızı pirinç (genellikle Arborio veya Arzo) kullanılarak yapılır. Bu pirincin yumuşak dokusu risotto'nun karakteristik yapısını oluşturur.",
+    "options": [
+      "Arpa",
+      "Çavdar",
+      "Kırmızı pirinç (Arborio/Arona)",
+      "Buzlu pirinç"
+    ],
+    "correctAnswer": "Kırmızı pirinç (Arborio/Arona)",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Pirinç Yemekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wer1qbhkt",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağında 'Pomodoro' kelimesi ne anlam ifade eder?",
+    "explanation": "İtalyanca'da 'Pomodoro' kelimesi domates anlamına gelir. Domates, İtalyan mutfağında en önemli temel malzemelerden biridir.",
+    "options": [
+      "Makarna",
+      "Domates",
+      "Balkon",
+      "Bahçe"
+    ],
+    "correctAnswer": "Domates",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Yabancı Kelimeler",
+      "Gıda Terimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d1vg2nfx9",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Napolitana usulü ile yapılan pizza'nın hangi özelliği tanımı?",
+    "explanation": "Napolitana usulü pizza, İtalyan mutfağında özel bir tekniktir. Pizzası çok pıtrak ve kuru yapmaktan kaçınılır.",
+    "options": [
+      "Çok pıtrak ve kuru",
+      "Yumuşak, nemli ve sulu",
+      "Sadece beyaz soslu",
+      "Tereyağı bol"
+    ],
+    "correctAnswer": "Yumuşak, nemli ve sulu",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Pizza",
+      "Napolitana"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c5vu943vd",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Pasta' kelimesi hangi yemeğe işaret eder?",
+    "explanation": "İtalyanca'da 'Pasta' kelimesi makarna anlamına gelir. Makarna, İtalyan mutfağının en önemli ana yemeklerinden biridir.",
+    "options": [
+      "Makarna",
+      "Ekmek",
+      "Bulgur",
+      "Patates"
+    ],
+    "correctAnswer": "Makarna",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Makarna",
+      "Pasta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j25iohc0k",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "'Tramonto' kelimesi hangi yemeği tanımlar?",
+    "explanation": "İtalyanca'da 'Tramonto' kelimesi akşam yemeğini ifade eder. Akşam yemeği, İtalyan mutfağında önemli bir öğündür.",
+    "options": [
+      "Akşam yemeği",
+      "Güneş batışı",
+      "Daha fazla",
+      "Tuz"
+    ],
+    "correctAnswer": "Akşam yemeği",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Yemek Anlatımları",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ghyxcnszx",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Pesto' sosu hangi malzemeden yapılır?",
+    "explanation": "Pesto sosu, İtalyan mutfağında bazilika, sarımsak, fındık ve zeytinyağı ile hazırlanan özel bir sosdur.",
+    "options": [
+      "Sadece tereyağı",
+      "Bazilika, sarımsak ve fındık",
+      "Domates ve soğan",
+      "Mantar ve biber"
+    ],
+    "correctAnswer": "Bazilika, sarımsak ve fındık",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Soslar",
+      "Pesto"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "17g4upd8x",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağında hangi sos, pizza için en geleneksel ve yaygın kullanılan sosdur?",
+    "explanation": "Marinara sosu, Domates, sarımsak, biber ve fesleğen içeren İtalyan pizza için en klasik sosdur. Özellikle Naples pizzasında yaygın olarak kullanılır.",
+    "options": [
+      "Beyaz Sos",
+      "Marinara Sosu",
+      "Pesto Sosu",
+      "Carne Sosu"
+    ],
+    "correctAnswer": "Marinara Sosu",
+    "tags": [
+      "pizza",
+      "soslar",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6lr6cxxyz",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Risotto' yemeği hangi malzeme ile yapılır?",
+    "explanation": "Risotto, özellikle Noruz pirinci veya Arborio pirincinden yapılır. Bu pirinç türü suyu iyi emer ve kremamsı bir kıvam verir.",
+    "options": [
+      "Makarna",
+      "Kısa Tahıl",
+      "Pirinç (Arroz)",
+      "Çavdar"
+    ],
+    "correctAnswer": "Pirinç (Arroz)",
+    "tags": [
+      "risotto",
+      "pirinç",
+      "yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z4yflihry",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "İtalyan mutfağında 'Pesto Genovese' hangi bölgeden gelen özel bir sosludur?",
+    "explanation": "Pesto Genovese, İtalyanın Ligurya bölgesindeki Genova şehriden gelir. Fesleğen, badem, sarımsak, parmesan ve zeytinyağı ile yapılır.",
+    "options": [
+      "Naples",
+      "Roma",
+      "Genova (Liguria)",
+      "Milano"
+    ],
+    "correctAnswer": "Genova (Liguria)",
+    "tags": [
+      "pesto",
+      "bölgesel",
+      " Liguria"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rat3m5fj0",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Gelato' ile dondurma arasındaki fark nedir?",
+    "explanation": "Gelato, dondurmanın %25-40 oranında hava içerirken, gelato sadece %10-20 oranında hava içerir. Bu nedenle daha yoğun ve sıcak servis edilir.",
+    "options": [
+      "Gelato daha fazla şeker içerir",
+      "Gelato daha az hava (overrun) içerir, daha yoğun ve sıcak servis edilir",
+      "Gelato sadece meyve tatlısıdır",
+      "Gelato dondurucu olmayan bir mamuldür"
+    ],
+    "correctAnswer": "Gelato daha az hava (overrun) içerir, daha yoğun ve sıcak servis edilir",
+    "tags": [
+      "gelato",
+      "dondurma",
+      "tatlılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "er3cz8yik",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "İtalyan mutfağında 'Olive Oil' (Zeytinyağı) hangi bölgede en kaliteli olarak üretilir?",
+    "explanation": "Toscana bölgesi, İtalyan zeytinyağı için en prestijli üretim bölgelerinden biridir. Özellikle 'Extra Virgin' kalitesinde üretilir.",
+    "options": [
+      "Toscana",
+      "Sicilya",
+      "Emilia-Romagna",
+      "Puglia"
+    ],
+    "correctAnswer": "Toscana",
+    "tags": [
+      "zeytinyağı",
+      "bölgesel",
+      "malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jgy5sanuh",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağının en ikonik pastası hangisidir?",
+    "explanation": "Tiramisu, İtalyan mutfağının en meşhur pastasıdır. Bisküvi, mascarpone peyniri, kahve ve şaraptan yapılır.",
+    "options": [
+      "Tiramisu",
+      "Cannoli",
+      "Panna Cotta",
+      "Gelato"
+    ],
+    "correctAnswer": "Tiramisu",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Pastalar",
+      "MUTFAK-İtalyan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "niiitm4r0",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında kullanılan 'Mascarpone' ne tür bir malzemedir?",
+    "explanation": "Mascarpone, İtalya'nın Lombardiya bölgesinde üretilen yoğun ve kremamsı bir peynirdir.",
+    "options": [
+      "Süt",
+      "Peynir",
+      "Tereyağı",
+      "Yumurta"
+    ],
+    "correctAnswer": "Peynir",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Malzemeler",
+      "MUTFAK-İtalyan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x5xe5iacr",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Pesto' sosu hangi bölgeden gelmektedir?",
+    "explanation": "Pesto sosu, İtalya'nın Ligurya bölgesinde meşhurdur. Nane, badem ve domates içerir.",
+    "options": [
+      "Napoli",
+      "Ligurya",
+      "Romanya",
+      "Toskana"
+    ],
+    "correctAnswer": "Ligurya",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Soslar",
+      "MUTFAK-İtalyan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "34swk37ax",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Gnocchi' hangi temel malzemeden yapılır?",
+    "explanation": "Gnocchi, İtalya'nın geleneksel patatesli makarna türüdür. Genellikle tereyağı ve mantar sosu ile servis edilir.",
+    "options": [
+      "Kırmızı et",
+      "Makarna",
+      "Patates",
+      "Ezine"
+    ],
+    "correctAnswer": "Patates",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Garnitürler",
+      "MUTFAK-İtalyan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ukpkro4ga",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "İtalyan mutfağında 'Focaccia' hangi kategoride yer alır?",
+    "explanation": "Focaccia, İtalya'daki geleneksel yağlı ve çiğneme ekmektir. Genellikle zeytinyağı, kekik ve domates ile servis edilir.",
+    "options": [
+      "Ana yemek",
+      "Çiğneme ekmek",
+      "Garnitür",
+      "Tatlı"
+    ],
+    "correctAnswer": "Çiğneme ekmek",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Ekmeği",
+      "MUTFAK-İtalyan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rrs20izio",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağının en meşhur yemeği aşağıdakilerden hangisidir?",
+    "explanation": "Pizza, İtalyan mutfağının en bilinen ve dünya çapında meşhur yemeğidir.",
+    "options": [
+      "Pasta",
+      "Pizza",
+      "Hamburger",
+      "Sous-Vide"
+    ],
+    "correctAnswer": "Pizza",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Yemeği",
+      "Genel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jnmetb0z5",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Pasta yapımında kullanılan temel un türü nedir?",
+    "explanation": "İtalyan pastaları genellikle 00 numaralı beyaz un ile yapılır, daha yumuşak ve esnek bir kıvam sağlar.",
+    "options": [
+      "Tam Buğday",
+      "Beyaz Un (00)",
+      "Mısır Unu",
+      "Gri Un"
+    ],
+    "correctAnswer": "Beyaz Un (00)",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Pasta",
+      "Malzeme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hm617yypr",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Sicilya adasında meşhur olan pasta çeşidi hangisidir?",
+    "explanation": "Gnocchi, patates veya buğday unu ile yapılan, Sicilya ve İtalyan mutfağının önemli bir pasta çeşididir.",
+    "options": [
+      "Penne",
+      "Rigatoni",
+      "Gnocchi",
+      "Spaghetti"
+    ],
+    "correctAnswer": "Gnocchi",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Pasta Çeşitleri",
+      "Sicilya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0mxvq0rnr",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan yemeklerinde kullanılan ana yağ hangisidir?",
+    "explanation": "Zeytinyağı, İtalyan mutfağının en temel ve önemli yağ türüdür, özellikle Akdeniz bölgesinde yaygın kullanılır.",
+    "options": [
+      "Ayçiçek Yağı",
+      "Zeytinyağı",
+      "Mısır Yağı",
+      "Pamuk Yağı"
+    ],
+    "correctAnswer": "Zeytinyağı",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Yağ",
+      "Temel Malzeme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xpziu3l5o",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Risotto' hangi malzemeden yapılır?",
+    "explanation": "Risotto, kırmızı taneli pirinç (Arroz) ile yapılır ve su ekleyerek yavaşça pişirilir.",
+    "options": [
+      "Patates",
+      "Buğday",
+      "Arroz (Kısa Taneli Pirinç)",
+      "Mısır"
+    ],
+    "correctAnswer": "Arroz (Kısa Taneli Pirinç)",
+    "tags": [
+      "MUTFAK-İtalyan Mutfağı",
+      "Risotto",
+      "Pirinç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eki6fwids",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağının en ikonik yemeği olarak kabul edilen pizza'nın orijinal malzemesi hangisidir?",
+    "explanation": "Pizza'nın klasik yapısı domates sosu, mozzarella peyniri ve taze biber içerir. Bu üçlü İtalyan mutfağının temelini oluşturur.",
+    "options": [
+      "Domates, mozzarella, biber",
+      "Tavuk, peynir, salça",
+      "Et, soğan, patates",
+      "Balık, limon, sarımsak"
+    ],
+    "correctAnswer": "Domates, mozzarella, biber",
+    "tags": [
+      "pizza",
+      "malzeme",
+      "tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wk6s6866j",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Pastanın 'nonna' adı verilen yaşlı kadın tarafından yapılan geleneksel yemeği hangisidir?",
+    "explanation": "Lasagna alla Bolognese, Bologna şehrinin geleneksel pastası olup nonna tarafından yapılan en yaygın yemeği temsil eder.",
+    "options": [
+      "Fettuccine Alfredo",
+      "Penne Arrabiata",
+      "Lasagna alla Bolognese",
+      "Ravioli alla Ricotta"
+    ],
+    "correctAnswer": "Lasagna alla Bolognese",
+    "tags": [
+      "pasta",
+      "lasagna",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9kkj0ri06",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Parma hamunun (Parmesan peyniri) orijinal olarak üretildiği şehir hangisidir?",
+    "explanation": "Parmesan peyniri İtalya'nın Parma şehrinde üretildiği gibi adını da buradan almıştır.",
+    "options": [
+      "Napoli",
+      "Milano",
+      "Parma",
+      "Floransa"
+    ],
+    "correctAnswer": "Parma",
+    "tags": [
+      "peynir",
+      "malzeme",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dhidhc5bq",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağında 'olio d'oliva' neyi ifade eder?",
+    "explanation": "Olio d'oliva, İtalyan mutfağında yaygın olarak kullanılan zeytinyağı anlamına gelir.",
+    "options": [
+      "Zeytinyağı",
+      "Ayçiçek yağı",
+      "Mısır yağı",
+      "Kozalak yağı"
+    ],
+    "correctAnswer": "Zeytinyağı",
+    "tags": [
+      "yağ",
+      "malzeme",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "csnztix79",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Gelato'nun standart dondurma ile farkı nedir?",
+    "explanation": "Gelato, dondurmaya göre daha az su, daha az şeker ve daha fazla süt/beyazı içerir.",
+    "options": [
+      "Daha az şeker ve daha çok süt içerir",
+      "Daha fazla buz tanesi içerir",
+      "Sadece meyve içerir",
+      "Daha yüksek sıcaklıkta saklanır"
+    ],
+    "correctAnswer": "Daha az şeker ve daha çok süt içerir",
+    "tags": [
+      "gelato",
+      "dondurma",
+      "farklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ha9ntq5m",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Fettuccine' hangi tür makarnadır?",
+    "explanation": "Fettuccine, İtalyan mutfağında kalın ve düz şerit şeklinde hazırlanan geleneksel bir pastadır. Genellikle soslu yemeklerde kullanılır.",
+    "options": [
+      "Kalın, düz şeritli pasta",
+      "Dar ve kıvrımlı spaghetti",
+      "Yuvarlak penne makarna",
+      "Kare parçalı risotto"
+    ],
+    "correctAnswer": "Kalın, düz şeritli pasta",
+    "tags": [
+      "makarna",
+      "şekiller",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "relngdex7",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir 'Parmigiano-Reggiano' olarak bilinir?",
+    "explanation": "Parmigiano-Reggiano, İtalya'nın Parma ve Reggio Emilia bölgelerinde üretilen geleneksel bir sert peynirdir. Mozzarella değil.",
+    "options": [
+      "Kocaoğlu",
+      "Pecorino",
+      "Parma bölgesi",
+      "Mozzarella"
+    ],
+    "correctAnswer": "Parma bölgesi",
+    "tags": [
+      "peynir",
+      "malzemeler",
+      "coğrafi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iuxsinmkv",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Tiramisu desertsının temel bileşeni nedir?",
+    "explanation": "Tiramisu, kahve içeren bir İtalyan tatlısıdır. Kahvenin yanı sıra madelina keki, mascarpone peyniri ve şeker içerir.",
+    "options": [
+      "Kahve ve bitter",
+      "Sadece süt",
+      "Şeker ve tuz",
+      "Yulaf ve su"
+    ],
+    "correctAnswer": "Kahve ve bitter",
+    "tags": [
+      "tatlı",
+      "kahve",
+      "bileşenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "djvtkytir",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "Pomodoro sosu hangi temel malzemeden yapılır?",
+    "explanation": "Pomodoro sosu, İtalyan mutfağında domatesin temelinden yapılır. 'Pomodoro' ismi de 'domates' anlamına gelir.",
+    "options": [
+      "Domates",
+      "Patlık",
+      "Soğan",
+      "Biber"
+    ],
+    "correctAnswer": "Domates",
+    "tags": [
+      "sos",
+      "domates",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y0fezzz6o",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan yemeklerinde 'olio' neyi ifade eder?",
+    "explanation": "İtalyan mutfağında 'olio', zeytinyağını ifade eder. İtalyan yemeklerinde genellikle zeytinyağı kullanılır.",
+    "options": [
+      "Çilek",
+      "Yağ (zeytinyağı)",
+      "Tuz",
+      "Şeker"
+    ],
+    "correctAnswer": "Yağ (zeytinyağı)",
+    "tags": [
+      "yağlar",
+      "malzemeler",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "613j5ii9m",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağının en ikonik soslarından biri olan pesto, hangi bölgeden köken alır?",
+    "explanation": "Pesto Genoveso, İtalya'nın Ligurya bölgesindeki Genova kentinden köken alır ve fesleğen, sarımsak, badem, zeytinyağı ve parmesan peyniri ile yapılır.",
+    "options": [
+      "Toscana",
+      "Ligurya (Genova)",
+      "Sicilya",
+      "Roma"
+    ],
+    "correctAnswer": "Ligurya (Genova)",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Soslar",
+      "Pesto"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tor49iw5z",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'risotto' denilen yemeğin temel malzemesi nedir?",
+    "explanation": "Risotto, İtalyan mutfağında özel olarak yapılmış taze pirincin (genellikle Arborio veya Carnaroli) yavaşça karıştırılarak hazırlandığı bir pilav yemeğidir.",
+    "options": [
+      "Makarna",
+      "Kavurmuş pirinç",
+      "Taze pirinç (Arborio)",
+      "Pasta"
+    ],
+    "correctAnswer": "Taze pirinç (Arborio)",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Risotto",
+      "Pirinç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ac1nrnomp",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "Pomodoro sosu, İtalyan mutfağında hangi temel malzemeden yapılır?",
+    "explanation": "Pomodoro sosu, İtalyan mutfağının en temel soslarından biridir ve domates, sarımsak, fesleğen, bazen de zeytinyağı ile yapılır.",
+    "options": [
+      "Sadece domates ve sarımsak",
+      "Domates, sarımsak, fesleğen, zeytinyağı",
+      "Domates, mantar, biber",
+      "Domates, soğan, muz"
+    ],
+    "correctAnswer": "Domates, sarımsak, fesleğen, zeytinyağı",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Pomodoro",
+      "Soslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "swdiexkzt",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'carbonara' denilen makarna yemeği hangi malzeme içerir?",
+    "explanation": "Carbonara, Roma mutfağının klasik yemeğidir ve yumurta, pecorino veya parmesan peyniri, pancetta veya bacon ile yapılır. Kremsi bir sos oluşturur.",
+    "options": [
+      "Soyut sos",
+      "Zeytin ve domates",
+      "Yumurta, peynir (pecorino/parmesan), pancetta/bacon",
+      "Mantar ve soğan"
+    ],
+    "correctAnswer": "Yumurta, peynir (pecorino/parmesan), pancetta/bacon",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Carbonara",
+      "Makarna"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2169vaf7e",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "İtalyan mutfağına özgü 'gelato' ile dondurma arasındaki temel fark nedir?",
+    "explanation": "Gelato, dondurmanın aksine çok az hava (pür) içerir, daha az süt kullanılır ve oda sıcaklığında yumuşak kalır. Bu yüzden daha yoğun ve lezzetli olur.",
+    "options": [
+      "Gelato daha fazla süt içerir",
+      "Gelato daha az hava (pür) içerir ve daha yumuşak kalır",
+      "Gelato daha tatlıdır",
+      "Gelato sadece meyve içerir"
+    ],
+    "correctAnswer": "Gelato daha az hava (pür) içerir ve daha yumuşak kalır",
+    "tags": [
+      "İtalyan Mutfağı",
+      "Gelato",
+      "Dondurma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nk0tzyf1g",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağının en ünlü ve kökenli yemeği nedir?",
+    "explanation": "Pizza, İtalyan mutfağının en ünlü ve kökenli yemeğidir. Özellikle Napoli'de 18. yüzyıldan beri tüketilmektedir.",
+    "options": [
+      "Pizza",
+      "Lasagna",
+      "Osso Buco",
+      "Risotto"
+    ],
+    "correctAnswer": "Pizza",
+    "tags": [
+      "pizza",
+      "itальяn mutfağı",
+      "kökenli yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gmvwkpep0",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Pesto' sosunun temel bileşeni nedir?",
+    "explanation": "Pesto sosu, İtalyan Ligure bölgesine ait olup temel bileşeni taze fesleğendir. Ayrıca sarımsak, pecorino peyniri ve zeytinyağı da eklenir.",
+    "options": [
+      "Baharat",
+      "Taze fesleğen",
+      "Sarımsak",
+      "Zeytinyağı"
+    ],
+    "correctAnswer": "Taze fesleğen",
+    "tags": [
+      "pesto",
+      "soslar",
+      "fesleğen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b6btthize",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "Spagetti'nin hangi sosu 'Alfredo' sosudur?",
+    "explanation": "Spaghetti Alfredo, kremalı soslu bir yemektir. İtalyan mutfağında beyaz peynir ve tereyağı ile yapılır.",
+    "options": [
+      "Margarita",
+      "Bolognese",
+      "Parma",
+      "Kremalı"
+    ],
+    "correctAnswer": "Kremalı",
+    "tags": [
+      "spagetti",
+      "alfredo",
+      "soslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6bs0d7812",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Arancini' hangi bölgeden gelen özel bir yemek türüdür?",
+    "explanation": "Arancini, Sicilya'nın geleneksel bir yemeğidir. Pirinç kapları içine doldurularak kızartılır.",
+    "options": [
+      "Napoli",
+      "Sicilya",
+      "Romanya",
+      "Toscana"
+    ],
+    "correctAnswer": "Sicilya",
+    "tags": [
+      "arancini",
+      "sicilya",
+      "bölgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "snputn0lg",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Caprese' salatasının adı hangi bölgeden gelir?",
+    "explanation": "Caprese salatası, Napoli'den gelen bir yemektir. Domates, mozzarella peyniri ve fesleğenden oluşur.",
+    "options": [
+      "Pompeyo",
+      "Napoli",
+      "Roma",
+      "Milano"
+    ],
+    "correctAnswer": "Napoli",
+    "tags": [
+      "caprese",
+      "salata",
+      "napoli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nem2csfs1",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EASY",
+    "question": "İtalyan mutfağının en ikonik sosu ve temel yemeği olan 'Pasta' hangi maddeden hazırlanır?",
+    "explanation": "Pasta, temel olarak buğday unu, su ve tuzdan hazırlanır. Buğday, İtalyan mutfağının en önemli tahılıdır.",
+    "options": [
+      "Arpa",
+      "Mısır",
+      "Buğday",
+      "Çavdar"
+    ],
+    "correctAnswer": "Buğday",
+    "tags": [
+      "temel bilimler",
+      "mutfak malzemeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j04kfs9bc",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan mutfağında 'Parmigiano Reggiano' peyniri hangi bölgeden gelir?",
+    "explanation": "Parmigiano Reggiano, Emilia-Romagna bölgesinin Modena ve Parma eyaletlerinde üretildiği meşhur sarı peynirdir.",
+    "options": [
+      "Sicilya",
+      "Emilia-Romagna",
+      "Toscana",
+      "Veneto"
+    ],
+    "correctAnswer": "Emilia-Romagna",
+    "tags": [
+      "peynirler",
+      "bölgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5bshy8evk",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi İtalyan yemeği 'domuz eti, tereyağı, sosis ve mantar' içerir?",
+    "explanation": "Saltimbocca, domuz eti veya tavuk göğsü üzerine konulan mantar, sosis ve tereyağı sosu içeren geleneksel İtalyan yemeğidir.",
+    "options": [
+      "Lasagna",
+      "Ravioli",
+      "Carbonara",
+      "Saltimbocca"
+    ],
+    "correctAnswer": "Saltimbocca",
+    "tags": [
+      "et yemekleri",
+      "klasik tarifler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "alzzynruh",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "'Olive Oil' (zeytinyağı) İtalyan mutfağında hangi bölgede daha yaygındır?",
+    "explanation": "Zeytinyağı, özellikle Güney İtalya'da (Sicilya, Calabria) daha yaygın kullanılır çünkü zeytin ağaçları bu bölgede yetişir.",
+    "options": [
+      "Kuzey İtalya",
+      "Orta İtalya",
+      "Güney İtalya",
+      "Adalar"
+    ],
+    "correctAnswer": "Güney İtalya",
+    "tags": [
+      "yağlar",
+      "bölgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vfo9jdssv",
+    "category": "MUTFAK",
+    "subcategory": "İtalyan Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "'Tiramisu' tatlısının temel bileşenlerinden hangisi değildir?",
+    "explanation": "Tiramisu, bisküvi, mascarpone peyniri, kahve ve yumurta içerir. Çikolata temel bileşenlerinden biri değildir.",
+    "options": [
+      "Bisküvi",
+      "Mascarpone peyniri",
+      "Kahve",
+      "Çikolata"
+    ],
+    "correctAnswer": "Çikolata",
+    "tags": [
+      "tatlılar",
+      "klasik tarifler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "n0xds4dow",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "İşletim sistemleri hakkında aşağıdakilerden hangisi doğrudur?",
+    "explanation": "İşletim sistemleri hem donanım kaynaklarını yönetir, hem kullanıcıyı donanımdan ayırarak kolay kullanım sağlar, hem de temel bir yazılım programıdır.",
+    "options": [
+      "İşletim sistemleri donanım kaynaklarını yönetir",
+      "İşletim sistemleri sadece bir oyun programıdır",
+      "İşletim sistemleri kullanıcıyı donanımdan ayırır",
+      "Tüm seçenekler doğrudur"
+    ],
+    "correctAnswer": "Tüm seçenekler doğrudur",
+    "tags": [
+      "işletim-sistemleri",
+      "donanım-yazılım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kpkdduvh3",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi işletim sistemi açık kaynaklıdır?",
+    "explanation": "Linux, açık kaynak kodlu bir işletim sistemidir. Kullanıcılar kaynak kodlarını inceleyebilir ve özelleştirebilir.",
+    "options": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "iOS"
+    ],
+    "correctAnswer": "Linux",
+    "tags": [
+      "açık-kaynak",
+      "işletim-sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dggjmvc8g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "İşletim sisteminin temel görevlerinden hangisi değildir?",
+    "explanation": "İşletim sisteminin temel görevi donanımı yönetmektir. Donanımdan kaçınmak, işletim sisteminin görevine aykırıdır.",
+    "options": [
+      "Dosya yönetimi",
+      "Hata tespiti ve önleme",
+      "Donanım yönetiminden tamamen kaçınma",
+      "Programların çalıştırılması"
+    ],
+    "correctAnswer": "Donanım yönetiminden tamamen kaçınma",
+    "tags": [
+      "işletim-sistemleri",
+      "temel-görevler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ge6l8bv0x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki işletim sistemlerinden hangisi mobil cihazlar için tasarlanmıştır?",
+    "explanation": "Android, Google tarafından geliştirilen mobil işletim sistemidir. Telefonlar ve tabletler için optimize edilmiştir.",
+    "options": [
+      "Windows",
+      "macOS",
+      "Android",
+      "Ubuntu"
+    ],
+    "correctAnswer": "Android",
+    "tags": [
+      "mobil-cihazlar",
+      "işletim-sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3b0ltfovd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "İşletim sisteminin 'kullanıcı arayüzü' (UI) neyi ifade eder?",
+    "explanation": "UI (User Interface), kullanıcıların işletim sistemini kullanmasını sağlayan görsel ve işlevsel bileşenlerdir. İkonlar, menüler ve pencereler bunlara örnektir.",
+    "options": [
+      "Donanım kaynaklarını yönetmeyi",
+      "Kullanıcının sistemi kontrol etmesini sağlayan görsel ve işlevsel bileşenleri",
+      "Sadece grafik kartını göstermeyi",
+      "Programların kodlanmasını"
+    ],
+    "correctAnswer": "Kullanıcının sistemi kontrol etmesini sağlayan görsel ve işlevsel bileşenleri",
+    "tags": [
+      "kullanıcı-arayüzü",
+      "işletim-sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mm5qzk3pq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi işletim sistemi 'microkernel' mimarisini kullanır ve en iyi stabiliteyi sağlar?",
+    "explanation": "QNX, mikroçekirdek mimarisini kullanan gerçek zamanlı işletim sistemidir ve özellikle yüksek stabilite gerektiren uygulamalarda kullanılır.",
+    "options": [
+      "Linux",
+      "Windows NT",
+      "macOS",
+      "QNX"
+    ],
+    "correctAnswer": "QNX",
+    "tags": [
+      "işletim-sistemi",
+      "mikroçekirdek",
+      "mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2bq2hr7dn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "İşletim sisteminin bellek yönetimi hangi yöntemle yapılır?",
+    "explanation": "İşletim sistemleri swap, paging ve virtual memory gibi yöntemlerle fiziksel belleği yönetir.",
+    "options": [
+      "Swap",
+      "Paging",
+      "Virtual Memory",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "işletim-sistemi",
+      "bellek-yönetimi",
+      "paging"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8osjbttf9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi işletim sistemi 'hybrid kernel' mimarisini kullanır?",
+    "explanation": "Linux, monolitik çekirdeğe sahip ancak bazı bileşenlerini modüler yapıda tutan hibrit çekirdek mimarisini kullanır.",
+    "options": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "QNX"
+    ],
+    "correctAnswer": "Linux",
+    "tags": [
+      "işletim-sistemi",
+      "hibrit-çekirdek",
+      "mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ckmib0gik",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "İşletim sisteminin 'process scheduling' hangi amaçla yapılır?",
+    "explanation": "İşletim sistemi process scheduling ile CPU kaynaklarını en verimli şekilde kullanır.",
+    "options": [
+      "CPU kullanımını optimize etmek",
+      "Bellek tasarrufu sağlamak",
+      "Disk hızını artırmak",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "CPU kullanımını optimize etmek",
+    "tags": [
+      "işletim-sistemi",
+      "process-scheduling",
+      "cpu-optimize"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cg8sghwee",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi işletim sistemi 'real-time operating system' (RTOS) kategorisine girer?",
+    "explanation": "VxWorks, gerçek zamanlı işletim sistemi (RTOS) olarak bilinen ve endüstriyel uygulamalarda kullanılan sistemdir.",
+    "options": [
+      "Windows 10",
+      "macOS",
+      "Linux",
+      "VxWorks"
+    ],
+    "correctAnswer": "VxWorks",
+    "tags": [
+      "işletim-sistemi",
+      "rtos",
+      "gerçek-zamanlı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3dcuoi0sg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "Bir işletim sisteminde 'İşlem Durumları' (Process States) arasında hangisi bulunmaz?",
+    "explanation": "İşletim sistemlerinde standart işlem durumları Hazır, Çalışıyor ve Beklemedir. Kilitli durum standard bir işlem durumu değildir.",
+    "options": [
+      "Hazır (Ready)",
+      "Çalışıyor (Running)",
+      "Bekleyen (Waiting)",
+      "Kilitli (Locked)"
+    ],
+    "correctAnswer": "Kilitli (Locked)",
+    "tags": [
+      "process states",
+      "operating system basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y3mbsy0w8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi bellek yönetim yöntemi sanal belleği (Virtual Memory) kullanır?",
+    "explanation": "Pagelasyon yöntemi sanal belleği destekler ve işletim sistemi tarafından yönetilen sayfa dosyası kullanır.",
+    "options": [
+      "Statik Bellek",
+      "Pagelasyon (Paging)",
+      "Segmentasyon (Segmentation)",
+      "Dinamik Bellek"
+    ],
+    "correctAnswer": "Pagelasyon (Paging)",
+    "tags": [
+      "memory management",
+      "virtual memory"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m3f46jy4x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "İşletim sistemlerinde 'Dosya Sistemi' (File System) hangi bileşenleri içerir?",
+    "explanation": "Dosya sistemi veri dosyalarını, indeksleme mekanizmasını ve kontrol yapılarını içerir.",
+    "options": [
+      "Sadece Veri Dosyaları",
+      "Veri, İndeks ve Kontrol Dosyaları",
+      "Anlık Bellek ve Disk",
+      "İşlemci ve Bellek"
+    ],
+    "correctAnswer": "Veri, İndeks ve Kontrol Dosyaları",
+    "tags": [
+      "file system",
+      "data management"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o4j8wynfq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Bir işletim sisteminde 'Çift Korumalı' (Dual-Protect) model hangisidir?",
+    "explanation": "Dinamik bağlama ile işlem sırasında güvenlik kontrolleri yapılır ve çift koruma sağlanır.",
+    "options": [
+      "Dinamik Bağlama (Dynamic Binding)",
+      "Statik Bağlama (Static Binding)",
+      "Çift Koreli (Dual-Core)",
+      "Yarı Statik"
+    ],
+    "correctAnswer": "Dinamik Bağlama (Dynamic Binding)",
+    "tags": [
+      "security models",
+      "binding"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yjf2w5g4w",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "İşletim sistemi çekirdeği (Kernel) hangi türleri vardır?",
+    "explanation": "İşletim sistemi çekirdekleri monolitik, mikroküreli veya hibrit yapıda olabilir.",
+    "options": [
+      "Monolitik, Mikroküreli, Hibrit",
+      "Statik, Dinamik, Hibrit",
+      "Anlık, Statik, Mikro",
+      "Sadece Monolitik"
+    ],
+    "correctAnswer": "Monolitik, Mikroküreli, Hibrit",
+    "tags": [
+      "kernel types",
+      "architecture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v0nas4wto",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "Bir işletim sisteminin temel işlevi nedir?",
+    "explanation": "Bir işletim sistemi, donanımla yazılım arasındaki ara katman olarak çalışır ve bu sayede kullanıcıların uygulamaları çalıştırırken altında yatan donanım ile etkileşime girmenize gerek kalmaz.",
+    "options": [
+      "Donanımla yazılım arasındaki ara katman sağlamak",
+      "Sadece kullanıcı arayüzü sunmak",
+      "İnternet bağlantısını yönetmek",
+      "Veritabanı çalıştırmak"
+    ],
+    "correctAnswer": "Donanımla yazılım arasındaki ara katman sağlamak",
+    "tags": [
+      "temel-kavramlar",
+      "işletim-sistemi-tanımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fmukk3qoc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi gerçek zamanlı (real-time) işletim sistemi örneğidir?",
+    "explanation": "VxWorks, gerçek zamanlı sistemler için tasarlanmış bir işletim sistemi olup özellikle uç cihazlar ve kritik sistemlerde kullanılır.",
+    "options": [
+      "Windows",
+      "Linux",
+      "VxWorks",
+      "macOS"
+    ],
+    "correctAnswer": "VxWorks",
+    "tags": [
+      "işletim-sistemi-tipleri",
+      "gerçek-zamanlı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v9bee5m0j",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "İşletim sisteminde bellek yönetimi için kullanılan fiziksel bellek alanı ne olarak adlandırılır?",
+    "explanation": "RAM (Random Access Memory), işletim sistemi tarafından kullanılan fiziksel bellek alanı olup geçici veri saklama için kullanılır.",
+    "options": [
+      "RAM",
+      "ROM",
+      "CPU",
+      "GPU"
+    ],
+    "correctAnswer": "RAM",
+    "tags": [
+      "bellek-yönetimi",
+      "donanım-bileşenleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n6iunwft4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "İşletim sisteminde işlemlerin sıralanması ve kaynakların tahsisi hangi bileşenin sorumluluğundadır?",
+    "explanation": "Scheduler (planlayıcı), işletim sisteminde işlemlerin sıralanması ve kaynakların tahsisi için sorumludur.",
+    "options": [
+      "Scheduler",
+      "Compiler",
+      "Interpreter",
+      "Debugger"
+    ],
+    "correctAnswer": "Scheduler",
+    "tags": [
+      "işlem-planlama",
+      "sistem-bileşenleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9wci4pa53",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "İşletim sistemlerinde güvenlik duvarı (firewall) hangi amaçla kullanılır?",
+    "explanation": "Güvenlik duvarı (firewall), işletim sistemi veya ağ katmanı tarafından kullanılarak ağ trafiğini filtreler ve bu sayede sistemin güvenliğini sağlar.",
+    "options": [
+      "Ağ trafiğini filtreleyerek güvenliğin sağlanması",
+      "Veritabanı performansını artırma",
+      "Donanım hızlandırma",
+      "Kullanıcı arayüzü geliştirme"
+    ],
+    "correctAnswer": "Ağ trafiğini filtreleyerek güvenliğin sağlanması",
+    "tags": [
+      "güvenlik",
+      "ağ-koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6au3rgbuy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "İşletim sistemlerinin temel amacı nedir?",
+    "explanation": "İşletim sistemleri, bilgisayar kaynaklarını yöneten temel yazılımlardır. Donanımı ve yazılımı aralarında köprü olarak çalışır.",
+    "options": [
+      "Bilgisayar donanımını ve yazılımı yöneten programdır",
+      "Sadece dosya sistemi oluşturur",
+      "Ağ güvenliğini sağlar",
+      "Veritabanı işlemlerini yürütür"
+    ],
+    "correctAnswer": "Bilgisayar donanımını ve yazılımı yöneten programdır",
+    "tags": [
+      "işletim sistemi",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "68065j07y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "Hangi bellek türü geçici (volatil) bellektir?",
+    "explanation": "RAM (Random Access Memory) voltaj yokluğunda veriler kaybolur, yani geçici ve volatil bir bellek türüdür.",
+    "options": [
+      "RAM",
+      "ROM",
+      "Hard Disk",
+      "Flash Bellek"
+    ],
+    "correctAnswer": "RAM",
+    "tags": [
+      "bellek yönetimi",
+      "donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kl7wz5sa6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "İşletim sistemlerinde 'işlemci zamanı paylaşımı' hangi kavramla ilgilidir?",
+    "explanation": "İşlemci zamanı paylaşımı ile birden fazla işlemi paralel yürütme yeteneği olan çoklu işleme sistemi kullanılır.",
+    "options": [
+      "Çoklu İşleme (Multiprocessing)",
+      "Tek İşleme (Single Processing)",
+      "Önceliklendirme",
+      "Bellek Yönetimi"
+    ],
+    "correctAnswer": "Çoklu İşleme (Multiprocessing)",
+    "tags": [
+      "süreç yönetimi",
+      "işlemci"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9hij76rmf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Dosya izinlerinde 'rwx' ifadesindeki harfler neyi temsil eder?",
+    "explanation": "rwx, Unix/Linux işletim sistemlerinde dosya izinlerini belirtir: r=okuma, w=yazma, x=çalıştırma yetkisi.",
+    "options": [
+      "Read (Okuma), Write (Yazma), Execute (Çalıştır)",
+      "Random, Write, eXecute",
+      "Read-only, Write-only, Exchange",
+      "Runtime, Workload, Experience"
+    ],
+    "correctAnswer": "Read (Okuma), Write (Yazma), Execute (Çalıştır)",
+    "tags": [
+      "dosya sistemi",
+      "izinler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j4rv9qaio",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "İşletim sistemi güvenlik duvarlarının (firewall) temel işlevi nedir?",
+    "explanation": "İşletim sistemi güvenlik duvarları, ağ bağlantılarını izole ederek giriş ve çıkış trafiğini filtreleyerek sistem güvenliğini sağlar.",
+    "options": [
+      "Giriş ve çıkış ağ trafiğini kontrol eder",
+      "Sadece dosya sistemini korur",
+      "Bellek yönetimini artırır",
+      "İşlemci hızını optimize eder"
+    ],
+    "correctAnswer": "Giriş ve çıkış ağ trafiğini kontrol eder",
+    "tags": [
+      "güvenlik",
+      "ağ yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "70ir4u8is",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi işletim sistemlerinin temel görevlerinden biri DEĞİLDİR?",
+    "explanation": "İşletim sistemleri donanım yönetimi, kullanıcı arayüzü sunma ve program kontrolü görevlerini üstlenir. Veri tabanı oluşturma ise işletim sistemi değil, veri tabanı yönetim sistemi (DBMS) ile ilişkilidir.",
+    "options": [
+      "Donanım kaynaklarını yönetmek",
+      "Kullanıcı arayüzünü sunmak",
+      "Şifreli veri tabanı oluşturmak",
+      "Programları ve süreçleri kontrol etmek"
+    ],
+    "correctAnswer": "Şifreli veri tabanı oluşturmak",
+    "tags": [
+      "işletim-sistemi",
+      "temel-fonksiyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ni1hq6zwr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Windows işletim sisteminde hangi dosya sistemi NTFS olarak biliniyor?",
+    "explanation": "NTFS (New Technology File System), Windows işletim sistemlerinde varsayılan olarak kullanılan dosya sistemidir. FAT32 eski nesil, exFAT taşınabilir cihazlar için, ReFS ise sunucu ortamları içindir.",
+    "options": [
+      "FAT32",
+      "exFAT",
+      "NTFS",
+      "ReFS"
+    ],
+    "correctAnswer": "NTFS",
+    "tags": [
+      "windows",
+      "dosya-sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q605e0kaa",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "İşletim sisteminde 'process' (süreç) kavramı neyi ifade eder?",
+    "explanation": "Süreç (process), işletim sisteminde çalışan bir programın ifadesidir. Bellek, kullanıcı veya depolama alanı süreç kavramıyla ilgili değildir.",
+    "options": [
+      "Donanım bellek birimi",
+      "Çalışan programın örneği",
+      "Kullanıcı hesap bilgisi",
+      "Dosya depolama alanı"
+    ],
+    "correctAnswer": "Çalışan programın örneği",
+    "tags": [
+      "süreç-yönetimi",
+      "işletim-sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jhn9c1fmi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "Linux işletim sistemlerinde hangi komut ile mevcut dizin yapısı görüntülenir?",
+    "explanation": "'ls' (list) komutu Linux ve Unix tabanlı sistemlerde mevcut dizin içeriğini görüntülemek için kullanılır. cd ile dizin değiştirilir, mkdir ile yeni dizin oluşturulur, cp ile kopya alınır.",
+    "options": [
+      "cd",
+      "ls",
+      "mkdir",
+      "cp"
+    ],
+    "correctAnswer": "ls",
+    "tags": [
+      "linux",
+      "komutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ms2fmo694",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "Modern işletim sistemlerinde 'sanallaştırma' (virtualization) teknolojisi neyi sağlar?",
+    "explanation": "Sanallaştırma teknolojisi, donanım kaynaklarını paylaşarak birden fazla sanal makine (VM) üzerinde farklı işletim sistemlerinin aynı anda çalıştırılmasını sağlar. Hız artırma veya veri tabanı ile ilgisizdir.",
+    "options": [
+      "Donanım hızını artırır",
+      "Birden fazla işletim sistemi aynı anda çalıştırma",
+      "Veri tabanı güvenliği",
+      "Şifreleme altyapısı"
+    ],
+    "correctAnswer": "Birden fazla işletim sistemi aynı anda çalıştırma",
+    "tags": [
+      "sanallaştırma",
+      "modern-ozellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aiffb35uz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi Linux işletim sisteminde dosya yetkilerini kontrol etmek için kullanılan komuttur?",
+    "explanation": "'chmod' (change mode) komutu dosya ve dizin yetkilerini değiştirmek için kullanılır. 'ls -l' ile dosya bilgileri, 'chown' ile sahiplik değişimi yapılır.",
+    "options": [
+      "ls -l",
+      "chmod",
+      "chown",
+      "grep"
+    ],
+    "correctAnswer": "chmod",
+    "tags": [
+      "Linux",
+      "Dosya Yetkileri",
+      "Komutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "583qefz6v",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Windows işletim sisteminde aşağıdaki hangi bileşen fiziksel bellek yönetimini gerçekleştirir?",
+    "explanation": "Virtual Memory (Sanal Bellek), fiziksel RAM yetersiz olduğunda disk alanını bellek simülasyonu için kullanır ve Windows'un bellek yönetimi bileşenidir.",
+    "options": [
+      "Registry",
+      "Task Manager",
+      "Virtual Memory",
+      "File Explorer"
+    ],
+    "correctAnswer": "Virtual Memory",
+    "tags": [
+      "Windows",
+      "Bellek Yönetimi",
+      "Sistem Mimarisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "spykhw74i",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "Linux'ta aşağıdaki hangi kullanıcı grubu superuser yetkisine sahiptir?",
+    "explanation": "Root, Linux'ta superuser veya admin kullanıcıdır ve tüm dosyalara tam yetki sahiptir. 'Users' grubu normal kullanıcıları içerir.",
+    "options": [
+      "Users",
+      "Guests",
+      "Root",
+      "Admin"
+    ],
+    "correctAnswer": "Root",
+    "tags": [
+      "Linux",
+      "Kullanıcılar",
+      "Yetkilendirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pwjdkx0q0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki işletim sistemlerinden hangisi açık kaynaklı (open-source) değildir?",
+    "explanation": "Windows, Microsoft tarafından geliştirilen ticari (kapalı kaynaklı) bir işletim sistemidir. Linux, Debian ve Ubuntu açık kaynaktır.",
+    "options": [
+      "Linux",
+      "Debian",
+      "Ubuntu",
+      "Windows"
+    ],
+    "correctAnswer": "Windows",
+    "tags": [
+      "İşletim Sistemi",
+      "Kaynak Kodu",
+      "Lisans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "76f3slz5g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Linux'ta aşağıdaki hangi komut geçici dosya sistemi temizliği için kullanılır?",
+    "explanation": "'rm' (remove) komutu dosyaları siler ve geçici dosyaların temizlenmesinde kullanılır. 'clear' ekranı temizler, 'df -h' disk kullanımını gösterir.",
+    "options": [
+      "rm",
+      "ls",
+      "clear",
+      "df -h"
+    ],
+    "correctAnswer": "rm",
+    "tags": [
+      "Linux",
+      "Dosya İşlemleri",
+      "Komutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m7hn0hy4h",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "What is the primary function of an operating system?",
+    "explanation": "An OS acts as an intermediary between software applications and computer hardware, managing resources like CPU, memory, and I/O devices.",
+    "options": [
+      "Manages hardware resources",
+      "Provides user interface",
+      "Both A and B",
+      "None of the above"
+    ],
+    "correctAnswer": "Manages hardware resources",
+    "tags": [
+      "Operating Systems",
+      "Basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vevmuk4a1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Which file system is commonly used in Linux distributions?",
+    "explanation": "ext4 (Fourth Extended Filesystem) is the default file system for most modern Linux distributions, offering improved performance and reliability over older formats like ext3.",
+    "options": [
+      "NTFS",
+      "ext4",
+      "FAT32",
+      "HFS+"
+    ],
+    "correctAnswer": "ext4",
+    "tags": [
+      "File Systems",
+      "Linux"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bumkmpbnr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Which term describes an OS that allows multiple applications to run concurrently by switching between them?",
+    "explanation": "Multitasking is the ability of an OS to manage and switch between multiple processes, allowing users to run several applications at the same time.",
+    "options": [
+      "Multitasking",
+      "Multiprocessing",
+      "Multicore",
+      "Distributed Computing"
+    ],
+    "correctAnswer": "Multitasking",
+    "tags": [
+      "Process Management",
+      "Operating Systems"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "98pr8m95s",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "What technique does a modern OS use to optimize memory usage when physical RAM is insufficient?",
+    "explanation": "Virtual memory allows the OS to use disk space as an extension of RAM, enabling applications to run even when physical memory is full. Paging is a specific implementation of virtual memory.",
+    "options": [
+      "Virtual Memory",
+      "Paging",
+      "Segmentation",
+      "Thrashing"
+    ],
+    "correctAnswer": "Virtual Memory",
+    "tags": [
+      "Memory Management",
+      "Operating Systems"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x5g6l83rk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Which security feature helps an OS restrict user access to system files?",
+    "explanation": "File permissions are set by the OS to control read, write, and execute access for different users and groups, ensuring unauthorized users cannot modify system files.",
+    "options": [
+      "File Permissions",
+      "Encryption",
+      "Firewall",
+      "Antivirus"
+    ],
+    "correctAnswer": "File Permissions",
+    "tags": [
+      "Security",
+      "Operating Systems"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qt3pg79hs",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "İşletim sisteminin temel görevi nedir?",
+    "explanation": "İşletim sistemi, donanım kaynaklarını (CPU, bellek, disk vb.) yönetir ve bu kaynakları kullanıcı uygulamaları için sunar.",
+    "options": [
+      "Donanımı yönetmek ve kullanıcıya sunmak",
+      "Sadece veri depolamak",
+      "Şifreleri saklamak",
+      "Sadece oyun oynamak"
+    ],
+    "correctAnswer": "Donanımı yönetmek ve kullanıcıya sunmak",
+    "tags": [
+      "İşletim Sistemi",
+      "Donanım",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ehd1s0hn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi işletim sistemi açık kaynaklıdır?",
+    "explanation": "Linux, MIT lisansı altında geliştirilen ve topluluk tarafından desteklenen açık kaynaklı bir işletim sistemidir.",
+    "options": [
+      "Windows 10",
+      "macOS",
+      "Linux",
+      "iOS"
+    ],
+    "correctAnswer": "Linux",
+    "tags": [
+      "İşletim Sistemi",
+      "Açık Kaynak",
+      "Platformlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3m0ml4k64",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Bir işletim sisteminin bellek yönetimi neyi içerir?",
+    "explanation": "İşletim sistemi, RAM kaynağını optimize ederek uygulamaların ihtiyaç duyduğu belleği etkin şekilde yönetir.",
+    "options": [
+      "RAM'in etkin kullanımı",
+      "Diske veri yedekleme",
+      "Şifreleme algoritmaları",
+      "Sadece grafik arayüz"
+    ],
+    "correctAnswer": "RAM'in etkin kullanımı",
+    "tags": [
+      "İşletim Sistemi",
+      "Bellek Yönetimi",
+      "Kaynak Atama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wi4g72b99",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Özel amaçlı işletim sistemleri hangi alanlarda kullanılır?",
+    "explanation": "Özel amaçlı işletim sistemleri endüstri, araç kontrolü ve otomasyon gibi alanlarda kullanılır.",
+    "options": [
+      "Otomasyon ve endüstri",
+      "Sadece oyun konsolları",
+      "Araç kontrolü",
+      "Yukarıdakilerin hepsi"
+    ],
+    "correctAnswer": "Yukarıdakilerin hepsi",
+    "tags": [
+      "İşletim Sistemi",
+      "Özel Amaçlı",
+      "Kullanım Alanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0xwljyrma",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "Hangi işletim sistemi mobil cihazlar için tasarlanmıştır?",
+    "explanation": "Android, Google tarafından geliştirilen ve akıllı telefonlar için kullanılan işletim sistemidir.",
+    "options": [
+      "Windows 11",
+      "Android",
+      "macOS",
+      "Linux Desktop"
+    ],
+    "correctAnswer": "Android",
+    "tags": [
+      "İşletim Sistemi",
+      "Mobil Cihazlar",
+      "Platformlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3iuf0ze13",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EASY",
+    "question": "İşletim sisteminin temel amacı nedir?",
+    "explanation": "İşletim sistemi, bilgisayar donanımı ile kullanıcı programları arasında köprü kuran ve kaynakları yöneten temel bir yazılımdır.",
+    "options": [
+      "Sadece oyun programı",
+      "Donanımı ve yazılımı yönetmek",
+      "Web tarayıcı kullanmak",
+      "Veritabanı oluşturmak"
+    ],
+    "correctAnswer": "Donanımı ve yazılımı yönetmek",
+    "tags": [
+      "işletim-sistemi",
+      "temel-kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ugg4tjyy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi popüler bir işletim sistemidir?",
+    "explanation": "Windows, macOS ve Linux işletim sistemi örnekleridir. Chrome bir tarayıcıdır.",
+    "options": [
+      "Microsoft Windows",
+      "Google Chrome",
+      "Adobe Photoshop",
+      "Autodesk Maya"
+    ],
+    "correctAnswer": "Microsoft Windows",
+    "tags": [
+      "işletim-sistemi",
+      "markalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "50itq0u9f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "İşletim sisteminin çekirdeğine teknik olarak ne denir?",
+    "explanation": "İşletim sisteminin çekirdeğine Kernel (Çekirdek) denir. Bu bileşen işlemci ve donanım erişimini doğrudan yönetir.",
+    "options": [
+      "Shell",
+      "Kernel",
+      "GUI",
+      "Bootloader"
+    ],
+    "correctAnswer": "Kernel",
+    "tags": [
+      "işletim-sistemi",
+      "çevrim-ekleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oppzftk7t",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "GENERAL",
+    "question": "Hangisi bir komut satırı arayüzüne (CLI) sahip işletim sistemi bileşenidir?",
+    "explanation": "Terminal ve Konsole gibi araçlar CLI (Komut Satırı Arayüzü) örneğidir. Finder, Chrome ve Illustrator grafiksel arayüzlüdür veya tarayıcıdır.",
+    "options": [
+      "macOS Finder",
+      "Google Chrome",
+      "Kali Linux Terminal",
+      "Adobe Illustrator"
+    ],
+    "correctAnswer": "Kali Linux Terminal",
+    "tags": [
+      "işletim-sistemi",
+      "arayüzler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e6aevwjv1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İşletim Sistemleri",
+    "difficulty": "EXPERT",
+    "question": "Sanal bellek (Virtual Memory) teknolojisi fiziksel RAM yetersizliğinde hangi kaynağı kullanır?",
+    "explanation": "Sanal bellek, fiziksel RAM dolduğunda işletim sistemi tarafından kullanılan disk alanı (Swap/Pagefile) ile sanal bir bellek oluşturulur.",
+    "options": [
+      "CPU Hızı",
+      "Disk Alanı",
+      "Ekran Belleği",
+      "Grafik İşlemci"
+    ],
+    "correctAnswer": "Disk Alanı",
+    "tags": [
+      "işletim-sistemi",
+      "bellek-yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

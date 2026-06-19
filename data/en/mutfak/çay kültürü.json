@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "iytxiub76",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çayın Türk kültüründe hangi evre en önemli olarak kabul edilir?",
+    "explanation": "Türk çay kültüründe ilk döküm en önemli evredir çünkü bu demde çayın tazelik ve aroması en yüksek seviyededir.",
+    "options": [
+      "Damlama",
+      "İlk döküm",
+      "Son dem",
+      "Kahve ile servis"
+    ],
+    "correctAnswer": "İlk döküm",
+    "tags": [
+      "çay-kültürü",
+      "türk-gelenekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2hqfr21b8",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Çayın doğru şekilde damlatılması için hangi kavanoz türü tercih edilir?",
+    "explanation": "Cam kavanoz çayın doğal tadını korur ve kimyasal madde geçişi yapmaz.",
+    "options": [
+      "Cam kavanoz",
+      "Metal kavanoz",
+      " Plastik kavanoz",
+      "Seramik kavanoz"
+    ],
+    "correctAnswer": "Cam kavanoz",
+    "tags": [
+      "çay-kültürü",
+      "ev-cihazları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fgrruegvj",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfak kültüründe çay hangi öğünde en çok tüketilir?",
+    "explanation": "Türk kültüründe öğle yemeği sonrasındaki çay ikramı geleneksel bir uygulamadır.",
+    "options": [
+      "Kahvaltı",
+      "Öğle yemeği sonrası",
+      "Akşam yemeği",
+      "Gece atıştırması"
+    ],
+    "correctAnswer": "Öğle yemeği sonrası",
+    "tags": [
+      "çay-kültürü",
+      "türk-gelenekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "igwcp7y6x",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çayın aşırı demlenmesinin sonucu ne olur?",
+    "explanation": "Çayın fazla demlenmesi çayın tuzlu ve acı tadını artırır.",
+    "options": [
+      "Daha tatlı çay",
+      "Aşırı acılaşma",
+      "Renk değişimi",
+      "Sıvılaşma"
+    ],
+    "correctAnswer": "Aşırı acılaşma",
+    "tags": [
+      "çay-kültürü",
+      "çay-damlatma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nesesadr4",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Mutfak kültüründe çay için ideal su sıcaklığı kaç derecedir?",
+    "explanation": "Çayın aroması korunması için 80-90°C arası sıcaklık en ideal sudur.",
+    "options": [
+      "80-90°C",
+      "50-60°C",
+      "100-110°C",
+      "40-50°C"
+    ],
+    "correctAnswer": "80-90°C",
+    "tags": [
+      "çay-kültürü",
+      "çay-teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4wadwb1qn",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk çay kültürünün tarihsel gelişimi hakkında aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Çay, Çin'den gelen ticaret yoluyla 17. yüzyılda İstanbul'a ulaşmış ve zamanla Türk çay kültürünün temeli oluşturmuştur.",
+    "options": [
+      "Çay, Osmanlı döneminde Avrupa'dan getirilerek yaygınlaşmıştır",
+      "Çay, Çin'den İstanbul'a gelen ticaret yoluyla 17. yüzyılda Türkler arasında popüler hale gelmiştir",
+      "Çay, Türkiye'de 20. yüzyılın sonlarında keşfedilen yerel bitkidir",
+      "Türk çay kültürü tamamen 19. yüzyıldan sonra oluşmuştur"
+    ],
+    "correctAnswer": "Çay, Çin'den İstanbul'a gelen ticaret yoluyla 17. yüzyılda Türkler arasında popüler hale gelmiştir",
+    "tags": [
+      "Tarih",
+      "Çay Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b8uik33qa",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk çay demleme yöntemiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Türk çay kültüründe ilk demleme yoğun çay oluşturmak için yapılır, ikinci aşamada ise daha hafif içim elde edilir.",
+    "options": [
+      "Çay, suyun kaynamadan önce demlenmesi gereklidir",
+      "Çay, iki aşamada demlenir: ilkin yoğun çay hazırlanır, sonra inceltme yapılır",
+      "Çay, tek seferde tam olarak demlenir ve asla inceltme yapılmaz",
+      "Çay, buzlu su ile demlenerek daha hafif bir lezzet elde edilir"
+    ],
+    "correctAnswer": "Çay, iki aşamada demlenir: ilkin yoğun çay hazırlanır, sonra inceltme yapılır",
+    "tags": [
+      "Demleme",
+      "Hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxoaxln0j",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk çay servis geleneğinde aşağıdakilerden hangisi yaygın bir uygulama değildir?",
+    "explanation": "Soğuk çay Türkiye'de her mevsim tüketilebilir, sadece yazlık değildir.",
+    "options": [
+      "Çay, küçük şeffaf cam bardaklarda servis edilir",
+      "Çay, yanında nane veya limon tercih edilebilir",
+      "Çay, her zaman sıcak olarak sunulmalıdır",
+      "Çay, soğuk çay (buzlu) sadece yazın içilir"
+    ],
+    "correctAnswer": "Çay, soğuk çay (buzlu) sadece yazın içilir",
+    "tags": [
+      "Servis",
+      "Geleneği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n5aoe33oq",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk çay kültürünün sosyal anlamında aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Türk çay kültürü, misafirperverliğin ve sosyal bağların güçlendirilmesi açısından önemli bir yer tutar.",
+    "options": [
+      "Çay, yalnızca bireysel içimi amaçlanmıştır",
+      "Çay, aile ve misafir ilişkilerinde merkezi rol oynamıştır",
+      "Çay, resmi toplantılarda asla sunulmaz",
+      "Çay, sadece yaşlılar tarafından tüketilir"
+    ],
+    "correctAnswer": "Çay, aile ve misafir ilişkilerinde merkezi rol oynamıştır",
+    "tags": [
+      "Sosyal",
+      "Misafirperverlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eku9w712o",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Çay bitkisinin bilimsel adı aşağıdakilerden hangisidir?",
+    "explanation": "Çay bitkisinin bilimsel adı Camellia sinensis'tir ve dünyada çay üretiminde kullanılır.",
+    "options": [
+      "Camellia sinensis",
+      "Hibiscus sabdariffa",
+      "Rosa canina",
+      "Malva sylvestris"
+    ],
+    "correctAnswer": "Camellia sinensis",
+    "tags": [
+      "Bilim",
+      "Bitki Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dkrvvsk2o",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk çay kültüründe çay bardağı nasıl tutulur?",
+    "explanation": "Türk çay kültüründe çay bardağı genellikle elle tutularak içilir. Bu, çayın sıcaklığını hissetmek ve sosyal etkileşimi kolaylaştırmak için önemlidir.",
+    "options": [
+      "Elle tutularak",
+      "Kapakla kapatılarak",
+      "İki elin arasında dengelenerek",
+      "Buzlu durumda"
+    ],
+    "correctAnswer": "Elle tutularak",
+    "tags": [
+      "çay-tutuşu",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "liem4ynhu",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Ankara'nın çay tarlalarında en çok yetişen çay türü hangisidir?",
+    "explanation": "Türkiye'de çay tarlalarında en çok siyah çay (Camellia sinensis) yetiştirilir. Yeşil çay ise daha az miktarda üretilir.",
+    "options": [
+      "Yeşil Çay",
+      "Siyah Çay",
+      "Oolong Çay",
+      "Demlik Çay"
+    ],
+    "correctAnswer": "Siyah Çay",
+    "tags": [
+      "çay-türü",
+      "tarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p7nk03qdo",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Çay demlenirken bardağın hangi kısmı suyla doldurulmalıdır?",
+    "explanation": "Türk çay kültüründe demlik içinden bardağa dökülen çayın üst üçte biri kadarı suyla doldurulur. Bu, çayın doğru şekilde hazırlanmasını sağlar.",
+    "options": [
+      "Üst üçte biri",
+      "Orta yarısı",
+      "Alt üçte iki",
+      "Tam dolmalı"
+    ],
+    "correctAnswer": "Üst üçte biri",
+    "tags": [
+      "demleme",
+      "çay-bardağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mtj45v6ts",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Çay keyfini en iyi nerede alabilirsiniz?",
+    "explanation": "Türk çay kültüründe iş yerlerinde, ofislerde ve sosyal ortamlarda çay keyfi alınır. Bu, işbirliğini ve arkadaşlıkları güçlendirir.",
+    "options": [
+      "İş yerinde",
+      "Evde",
+      "Tepe tepede",
+      "Okulda"
+    ],
+    "correctAnswer": "İş yerinde",
+    "tags": [
+      "çay-mekanı",
+      "sosyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7zf961unb",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çay demleme süresi ne kadar olmalıdır?",
+    "explanation": "Türk çay kültüründe demleme süresi genellikle 10-15 dakika arasında olmalıdır. Bu süre, çayın doğru şekilde demlenmesini ve tadının oluşmasını sağlar.",
+    "options": [
+      "5 dakika",
+      "10 dakika",
+      "15-20 dakika",
+      "30 dakika"
+    ],
+    "correctAnswer": "10 dakika",
+    "tags": [
+      "demleme-süresi",
+      "çay-hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ghiz69ihv",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk çay kültüründe çayın servis edildiği özel camdan hangisi doğru bir tanımıdır?",
+    "explanation": "Türk çay kültüründe çay bardağı, demli çayın servis edildiği geleneksel cam kapadır. Kahve fincanı veya su kupası ile karıştırmak gerekir.",
+    "options": [
+      "Çay bardağı - Türk çayının geleneksel servis kapısıdır",
+      "Sadece su için kullanılan büyük kupa",
+      "Kahve içimi için tasarlanmış küçük fincan",
+      "Tea pot için özel olarak yapılmış metal kap"
+    ],
+    "correctAnswer": "Çay bardağı - Türk çayının geleneksel servis kapısıdır",
+    "tags": [
+      "çay kültürü",
+      "servis kapları",
+      "Türk geleneği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zqc7q12l6",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Sarıçay'ın hazırlanması sırasında hangi yöntem Türk çay kültürünün temelini oluşturur?",
+    "explanation": "Türk çay kültüründe çay yaprakları önce sıcak su ile demlenir, ardından servis edilmek üzere bardağa boşaltılır. Bu iki aşamalı yöntem geleneksel tekniktir.",
+    "options": [
+      "Çay demliği içinde çay yapraklarını suyla direkt kaynatmak",
+      "Demlikte çay ve suyu ayrı ayrı, sonra birleştirerek servis etmek",
+      "Sadece sıcak su ile demleme işlemi yapmak",
+      "Muzak - metal kap kullanarak hazırlamak"
+    ],
+    "correctAnswer": "Demlikte çay ve suyu ayrı ayrı, sonra birleştirerek servis etmek",
+    "tags": [
+      "çay hazırlama",
+      "demleme tekniği",
+      "Türk çay kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ns0a2slgr",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çayın içiminde 'çay saatleri' olarak bilinen hangi zamandır?",
+    "explanation": "Çay, Türk mutfağında öğle yemeği ve akşam yemeği arasında sosyalleşme için önemli bir içektir. Özellikle çay bahçeleri bu geleneği sürdürür.",
+    "options": [
+      "Öğle yemeği ve akşam yemeği arasında",
+      "Sadece sabah kahvaltısı sırasında",
+      "Kahve içimi için özel zaman",
+      "Gece saatlerinde"
+    ],
+    "correctAnswer": "Öğle yemeği ve akşam yemeği arasında",
+    "tags": [
+      "çay saatleri",
+      "içim kültürü",
+      "Türk geleneği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bppz1n4u8",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk çay kültüründe çayın yanında genellikle hangi yiyecekler servis edilir?",
+    "explanation": "Çayın yanında geleneksel olarak ekmek, peynir ve tatlılar servis edilir. Bu kombinasyon Türk mutfağının temel çay sosyalleşmesi unsurlarıdır.",
+    "options": [
+      "Ekmek, peynir ve tatlılar",
+      "Sadece meyve suyu",
+      "Kahve ile birlikte",
+      "Börek ve hamur işleri"
+    ],
+    "correctAnswer": "Ekmek, peynir ve tatlılar",
+    "tags": [
+      "çay eşlikleri",
+      "mutfak kültürü",
+      "Türk geleneği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "60cklupb5",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk çay kültüründe 'çay bahçesi' veya 'çayevi' ne işlev görür?",
+    "explanation": "Çay bahçesi veya çayevi, Türk çay kültürünün sosyal buluşma merkezidir. Burada çay içilir, sohbet edilir ve geleneksel olarak sosyalleşme sağlanır.",
+    "options": [
+      "Sadece çay içimi ve sosyal buluşma yeri",
+      "Sadece kahve servisi yapılan yer",
+      "Kahvaltı için özel mekan",
+      "Yemek pişirme alanı"
+    ],
+    "correctAnswer": "Sadece çay içimi ve sosyal buluşma yeri",
+    "tags": [
+      "çay bahçesi",
+      "sosyal mekanlar",
+      "çayevi kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3147ifr4o",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Çay kültüründe 'demleme' işlemi neden önemlidir?",
+    "explanation": "Çayın demlenmesi sırasında suyun ısısı, süresi ve çay miktarı dengelendiğinde lezzeti ve aroması gelişir. Acılık ise doğru demlenmemiş çayda oluşur.",
+    "options": [
+      "Çayı daha acı yapar",
+      "Lezzeti ve aroması gelişir",
+      "Demleme süresi uzar",
+      "Fiyatı düşürür"
+    ],
+    "correctAnswer": "Lezzeti ve aroması gelişir",
+    "tags": [
+      "çay-kültürü",
+      "demleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n9cpi9krg",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk çay kültüründe 'demlik' ne işe yarar?",
+    "explanation": "Demlik, çayın doğru şekilde demlenmesini sağlar ve içilecek kadar çayı bekletir. Genelde cam veya metal malzemeden yapılır.",
+    "options": [
+      "Çayı soğuk tutar",
+      "Çayı demler ve saklar",
+      "Sadece süs amaçlıdır",
+      "Çayı daha acı yapar"
+    ],
+    "correctAnswer": "Çayı demler ve saklar",
+    "tags": [
+      "çay-kültürü",
+      "demlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ey2f233x",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Çay kültüründe 'çaylı' kelimesi ne anlama gelir?",
+    "explanation": "'Çaylı', çayı çok seven ve demleme sanatını iyi bilen kişiy ifade eder. Çay kültüründe önemli bir terimdir.",
+    "options": [
+      "Çay sevdalısı",
+      "Çay satıcısı",
+      "Çay demleyen kişi",
+      "Çay içmeyen kişi"
+    ],
+    "correctAnswer": "Çay sevdalısı",
+    "tags": [
+      "çay-kültürü",
+      "kelime"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a6iqy8br3",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahve ile karşılaştırıldığında, çayın en belirgin farkı nedir?",
+    "explanation": "Türk kahvesi özel günlerde veya ağırlıklı olarak tüketilirken, çay günlük yaşamın vazgeçilmezi haline gelmiştir ve daha kolay hazırlanır.",
+    "options": [
+      "Çay daha acıdır",
+      "Çay daha az tüketilir",
+      "Çay daha hızlı hazırlanır ve günlük içimi vardır",
+      "Çay soğuk olarak içilir"
+    ],
+    "correctAnswer": "Çay daha hızlı hazırlanır ve günlük içimi vardır",
+    "tags": [
+      "çay-kültürü",
+      "karşılaştırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vmo7rwo69",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çay kültüründe 'porselen fincan' neden tercih edilir?",
+    "explanation": "Porselen fincanlar, çayın lezzetini bozmadan sıcaklığı korur. Ayrıca estetik değer taşır ve geleneksel Türk çay kültüründe tercih edilir.",
+    "options": [
+      "Daha acı yapar",
+      "Lezzeti korur ve sıcaklığı muhafaza eder",
+      "Sadece süs amaçlıdır",
+      "Fiyatı daha ucuzdur"
+    ],
+    "correctAnswer": "Lezzeti korur ve sıcaklığı muhafaza eder",
+    "tags": [
+      "çay-kültürü",
+      "kap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dj3wrt0bo",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çay kültüründe, çayın doğru demlenmesi için önerilen çay suyu oranı nedir?",
+    "explanation": "Çayın doğru demlenmesi için genellikle 7-8 gram çaya 200-250 ml sıcak su oranı önerilir. Bu oran, çayın tatlı ve asitli olmasını önler.",
+    "options": [
+      "10 gram çaya 200 ml su",
+      "5 gram çaya 150 ml su",
+      "7-8 gram çaya 200-250 ml su",
+      "3 gram çaya 100 ml su"
+    ],
+    "correctAnswer": "7-8 gram çaya 200-250 ml su",
+    "tags": [
+      "çay demleme",
+      "mutfak",
+      "çay kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qzeu1e1gm",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Anadolu çay kültüründe çay bardağının nasıl tutulması geleneksel olarak tercih edilir?",
+    "explanation": "Anadolu çay kültüründe, bardak genellikle altından tutularak içilir. Bu hem sıcaklığı korumak hem de geleneksel bir uygulamadır.",
+    "options": [
+      "Bardak altından tutulur",
+      "Bardak kenarından tutulur",
+      "Çay kaşığı ile karıştırılır",
+      "İki el ile sarılır"
+    ],
+    "correctAnswer": "Bardak altından tutulur",
+    "tags": [
+      "çay kültürü",
+      "gelenek",
+      "anadolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fhk4jeh3z",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çay demlemesinde kullanılan suyun en önemli özelliği nedir?",
+    "explanation": "Çay demlemesinde suyun iyice kaynatılmış olması önemlidir. Soğuk veya ılık su çayı asitli ve zayıf yapar.",
+    "options": [
+      "Soğuk olması",
+      "Mineral zengini olması",
+      "İyice kaynatılmış olması",
+      "Gazlı olması"
+    ],
+    "correctAnswer": "İyice kaynatılmış olması",
+    "tags": [
+      "çay demleme",
+      "su kalitesi",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jokxf9g2z",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Mutfak ortamında, çayın bekletilmesi önerilen süre nedir?",
+    "explanation": "Çay demlendikten sonra 5-10 dakika bekletilmesi önerilir. Bu süre, çayın özleşmesini ve tatlı olmasını sağlar.",
+    "options": [
+      "Çay demlendikten hemen sonra",
+      "5-10 dakika bekletilir",
+      "20-30 dakika bekletilir",
+      "En az 1 saat bekletilir"
+    ],
+    "correctAnswer": "5-10 dakika bekletilir",
+    "tags": [
+      "çay kültürü",
+      "demleme süresi",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2a0uvzq2t",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Çay kültüründe 'çay soyma' işlemi ne amaçla yapılır?",
+    "explanation": "Çay soyma işlemi, çay tanelerini ayırmak ve çayın içine kıvam katmak için yapılır. Bu özellikle Anadolu'daki çay kültüründe yaygın bir uygulamadır.",
+    "options": [
+      "Çayın rengini açmak için",
+      "Çay tanelerini ayırmak ve çorba kıvamını vermek için",
+      "Çayın tadını artırmak için",
+      "Çayı soğutmak için"
+    ],
+    "correctAnswer": "Çay tanelerini ayırmak ve çorba kıvamını vermek için",
+    "tags": [
+      "çay kültürü",
+      "çay soyma",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ep472zo4r",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "MUTFAK-Çay Kültürü'nde en yaygın kullanılan çay türü hangisidir?",
+    "explanation": "MUTFAK-Çay Kültürü'nde siyah çay (black tea) en yaygın kullanılan türdür. Özellikle orta doğu bölgelerinde siyah çay, demlenmesi kolay ve güçlü aroma özellikleriyle tercih edilir.",
+    "options": [
+      "Yeşil Çay",
+      "Siyah Çay",
+      "Açık Çay",
+      "Beyaz Çay"
+    ],
+    "correctAnswer": "Siyah Çay",
+    "tags": [
+      "çay-türleri",
+      "mutfaq-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sbafn1yq3",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Çay demleme yöntemlerinde 'çaydanlık' sisteminin en önemli özelliği nedir?",
+    "explanation": "Çaydanlık sistemi, çayın doğru şekilde demlenmesi için tasarlanmış özel bir demleme yöntemidir. Çay yaprakları suyun içinde bekletilerek yavaşça demlenir.",
+    "options": [
+      "Su kaynatma",
+      "Demleme",
+      "Soğutma",
+      "Karıştırma"
+    ],
+    "correctAnswer": "Demleme",
+    "tags": [
+      "çaydemleme",
+      "mutfaq-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vqsnb2byx",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "MUTFAK-Çay Kültürü'nde çay servisi sırasında sunulan geleneksel eşya hangisidir?",
+    "explanation": "Demlik, çaydanlık sistemlerinde çayın sıcak bir şekilde servis edilmesi için kullanılan geleneksel demleme kapıdır. MUTFAK-Çay Kültürü'nde önemli yer tutar.",
+    "options": [
+      "Bileklik",
+      "Şekerlik",
+      "Dereceli",
+      "Demlik"
+    ],
+    "correctAnswer": "Demlik",
+    "tags": [
+      "çay-eşyaları",
+      "mutfaq-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5iqib6sxn",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çay kültüründe 'çay yaprağı'nın şekli ve rengi ile ilgili doğru bilgi hangisidir?",
+    "explanation": "Siyah çay yaprakları demlendikten sonra kahverengi tonlarını alır. MUTFAK-Çay Kültürü'nde kullanılan çay yaprakları genellikle bu renge sahiptir.",
+    "options": [
+      "Yeşil renktedir",
+      "Kahverengi renktedir",
+      "Açık mavi renktedir",
+      "Beyaz renktedir"
+    ],
+    "correctAnswer": "Kahverengi renktedir",
+    "tags": [
+      "çay-yaprakları",
+      "mutfaq-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rwfo7mwxv",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EXPERT",
+    "question": "MUTFAK-Çay Kültürü'nde çay içme saatleri ile ilgili geleneksel bilgi hangisidir?",
+    "explanation": "MUTFAK-Çay Kültürü'nde çay genellikle akşam yemeği öncesi veya yemek sırasında tüketilir. Bu gelenek, sosyalleşme ve sohbet için uygun bir zamandır.",
+    "options": [
+      "Yemekle birlikte",
+      "Akşam yemeği öncesi",
+      "Sabah kahvaltısında",
+      "Gece vakti"
+    ],
+    "correctAnswer": "Akşam yemeği öncesi",
+    "tags": [
+      "çay-saatleri",
+      "mutfaq-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j9xz0gua2",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk çay kültüründe 'dem' ne anlama gelir?",
+    "explanation": "Türk çay kültüründe 'dem', çayı suyla birlikte doğru oranda karıştırıp demlenmesini ifade eder. Bu, çayın tadını ve kalitesini etkiler.",
+    "options": [
+      "Çayı demlemeden içmek",
+      "Çayı doğru şekilde demleyip hazır hale getirmek",
+      "Çayı soğuk suyla hazırlamak",
+      "Çayı başka bir çaydanlıkta ısıtmak"
+    ],
+    "correctAnswer": "Çayı doğru şekilde demleyip hazır hale getirmek",
+    "tags": [
+      "çay-kültürü",
+      "demleme",
+      "mutfağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iceliqo6w",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Geleneksel çaydanlıkta (çaydanlık) hangi kısım 'kısık ateş'le tutulmalı?",
+    "explanation": "Geleneksel çaydanlıkta alt kısım 'kısık ateş'le kaynar su sağlar. Bu, üstteki demliğin çayı sürekli hazır tutmak için gereklidir.",
+    "options": [
+      "Üst kısımdaki su dolu kısım",
+      "Alt kısımdaki kaynar su kılıfı",
+      "Ortadaki demlik kısmı",
+      "Hiçbir kısım, soğukta bırakılmalı"
+    ],
+    "correctAnswer": "Alt kısımdaki kaynar su kılıfı",
+    "tags": [
+      "çaydanlık",
+      "mutfak-aletleri",
+      "çay-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ot029iem",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türkçede çay içilirken 'yarı yuvarlak' bardak neyi ifade eder?",
+    "explanation": "Yarı yuvarlak bardak, çayın servis edilişi sırasında bardağın yarısına kadar doldurulması anlamına gelir. Bu, çayın soğumasını önler.",
+    "options": [
+      "Çayın soğuk servis edildiği",
+      "Bardakta çayın seviyesi yarısına kadar olması",
+      "Bardakta şekerin yarısı kalması",
+      "Demliğin yarıya demlenmiş olması"
+    ],
+    "correctAnswer": "Bardakta çayın seviyesi yarısına kadar olması",
+    "tags": [
+      "çay-servis",
+      "mutfağ",
+      "çay-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dj9rf9rg5",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Çay demliklerinin (demliğin) hangi özelliği önemlidir?",
+    "explanation": "Çay demliklerinin ağzı kapaklı olmalı çünkü bu, çayın demlenmesini ve soğumasını önler. Ayrıca çayın kalitesini artırır.",
+    "options": [
+      "Demliğin ağzının açık olması",
+      "Demliğin içi paslanmaz çelikten yapılması",
+      "Demliğin suyu tutmadan hızlı soğuması",
+      "Demliğin ağzının kapaklı ve demleme özelliği"
+    ],
+    "correctAnswer": "Demliğin ağzının kapaklı ve demleme özelliği",
+    "tags": [
+      "demlik",
+      "çay-aletleri",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mdt7fnl78",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Geleneksel Türk mutfağında 'çaylık' neyi ifade eder?",
+    "explanation": "'Çaylık', Türk mutfağında çayın servis edildiği özel mekânı ifade eder. Genellikle evlerin veya restoranların belirli bir bölümüdür.",
+    "options": [
+      "Çay içilen mekan veya bölme",
+      "Çaylıklarla servis edilen yemekler",
+      "Çayın soğuk servis edildiği bölme",
+      "Çaydanlığın üst kısımlarında çay içilen yer"
+    ],
+    "correctAnswer": "Çay içilen mekan veya bölme",
+    "tags": [
+      "çaylık",
+      "mutfağ-kültürü",
+      "çay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h32f98tmb",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk çay kültüründe çayı hangi kapta servis edilir?",
+    "explanation": "Türk çay kültüründe çay fincanlarda servis edilir. Çaydanlık çayı demlemek için kullanılır, için ise çayın servis edildiği kap.",
+    "options": [
+      "Dedemin",
+      "İçin",
+      "Çaydanlık",
+      "Fincan"
+    ],
+    "correctAnswer": "İçin",
+    "tags": [
+      "çay kültürü",
+      "servis",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qeh9pth57",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çaydanlıklar hangi mutfak aletiyle birlikte kullanılır?",
+    "explanation": "Çaydanlıklar sıcak su ile birlikte kullanılır. Çayı demlemek için önce küçük kısımda çay, büyük kısmında sıcak su bulunur.",
+    "options": [
+      "Tezgah",
+      "Tencere",
+      "Sıcak su",
+      "Yanık"
+    ],
+    "correctAnswer": "Sıcak su",
+    "tags": [
+      "çaydanlık",
+      "mutfak aleti",
+      "çay demleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3zz1f9c33",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk çay kültüründe çayın rengi nasıl olmalıdır?",
+    "explanation": "Türk çay kültüründe ideal çay rengi açık sarı olmalıdır. Çok koyu kahverengi demlemek çayın aşırı demlendiğini gösterir.",
+    "options": [
+      "Koyu kahverengi",
+      "Yeşil",
+      "Sarı",
+      "Mavi"
+    ],
+    "correctAnswer": "Sarı",
+    "tags": [
+      "çay rengi",
+      "çay kalitesi",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9v847wnwf",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Çaydanlıklar hangi malzemeden yapılır?",
+    "explanation": "Çaydanlıklar genellikle metal (paslanmaz çelik veya bakır) malzemeden yapılır. Sıcak suyu korumak için uygundur.",
+    "options": [
+      "Cam",
+      "Metal",
+      "Plastik",
+      "Ahşap"
+    ],
+    "correctAnswer": "Metal",
+    "tags": [
+      "çaydanlık",
+      "malzeme",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zdftqz1zw",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk çay kültüründe çayın yanında hangi içecek tercih edilir?",
+    "explanation": "Türk çay kültüründe çay genellikle su ile birlikte servis edilir. Çayın tadını bozmadan içmek için tercih edilir.",
+    "options": [
+      "Süt",
+      "Şekerli ayran",
+      "Su",
+      "Bal"
+    ],
+    "correctAnswer": "Su",
+    "tags": [
+      "çay eşlikleri",
+      "kültür",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c1w8b04lg",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çay kültüründe kullanılan çaydanlığın en önemli özelliği nedir?",
+    "explanation": "Çaydanlığın iki bölümlü yapısı, üst kısmında çayın demlenmesi ve alt kısmında suyun kaynaması için tasarlanmıştır.",
+    "options": [
+      "Kapaklı olması",
+      "İki bölümlü yapısı",
+      "Metal malzemeden olması",
+      "Altında yangın yeri bulunması"
+    ],
+    "correctAnswer": "İki bölümlü yapısı",
+    "tags": [
+      "çaydanlık",
+      "çay kültürü",
+      "mutfak aleti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nd95ajucj",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk çay kültüründe geleneksel olarak çay hangi bardakta servis edilir?",
+    "explanation": "Türk çay kültüründe çay, küçük su bardaklarında servis edilir ve genellikle şekerli içilir.",
+    "options": [
+      "Su bardağı",
+      "Bira bardağı",
+      "Şarap kadehi",
+      "Kahve fincanı"
+    ],
+    "correctAnswer": "Su bardağı",
+    "tags": [
+      "çay servisi",
+      "bardak",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wgxdgxzlk",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çaydanlığın alt bölümü neden kapalı olur?",
+    "explanation": "Çaydanlığın alt bölümü kapalıdır ki su kaynararken aşırı buhar çıkmasın ve çay daha kontrollü demlensin.",
+    "options": [
+      "Su kaynarken buhar çıkmasın diye",
+      "Daha az su harcanması için",
+      "Güneş ışığı girmesin diye",
+      "Temizlik kolaylığı için"
+    ],
+    "correctAnswer": "Su kaynarken buhar çıkmasın diye",
+    "tags": [
+      "çaydanlık",
+      "su kaynatma",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mfpxn4edd",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk çay kültüründe 'demli çay' ne anlama gelir?",
+    "explanation": "Demli çay, çaydanlığın üst kısmında su ve çay karıştıktan sonra oluşan koyu renkli, yoğun demleme çayıdır.",
+    "options": [
+      "Şekersiz içilen çay",
+      "Çaydanlığın üst kısmında kalan koyu renkli çay",
+      "Suda çok az çay konulması",
+      "Buzlu çay"
+    ],
+    "correctAnswer": "Çaydanlığın üst kısmında kalan koyu renkli çay",
+    "tags": [
+      "demli çay",
+      "çay kültürü",
+      "çaydanlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xbch1a5bz",
+    "category": "MUTFAK",
+    "subcategory": "Çay Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çay kültüründe çay yemeği sırasında geleneksel olarak hangi eşya masada bulunmalıdır?",
+    "explanation": "Türk çay kültüründe çay yemeğinde, şeker kasesi ve çay için kullanılan küçük kaşık/bıçak masada bulunur.",
+    "options": [
+      "Şeker kasesi ve bıçak",
+      "Tuz kasesi ve kaşık",
+      "Sıvı yağ şişesi",
+      "Mevsim meyveleri"
+    ],
+    "correctAnswer": "Şeker kasesi ve bıçak",
+    "tags": [
+      "çay yemeği",
+      "masa aletleri",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

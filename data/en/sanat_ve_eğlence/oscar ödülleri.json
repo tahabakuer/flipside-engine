@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "kip38ubgk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Oscar Ödülleri (Akademi Ödülleri) ilk kez hangi yıl verildi?",
+    "explanation": "Oscar Ödülleri ilk kez 1929 yılında, 1927-1928 döneminde üretilen filmler için verildi.",
+    "options": [
+      "1927",
+      "1929",
+      "1930",
+      "1931"
+    ],
+    "correctAnswer": "1929",
+    "tags": [
+      "Tarih",
+      "Oscar Ödülleri",
+      "Sinema Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v91nf812a",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "En İyi Film kategorisi Oscar ödülü kazanan ilk film hangisidir?",
+    "explanation": "Wings (Kanatlardan) 1929 yılında En İyi Film olarak ilk Oscar ödülünü kazandı.",
+    "options": [
+      "The Broadway Melody",
+      "Wings",
+      "Sunrise",
+      "All Quiet on the Western Front"
+    ],
+    "correctAnswer": "Wings",
+    "tags": [
+      "En İyi Film",
+      "Oscar Ödülleri",
+      "Sinema Ödülleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o1j0cgccw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Oscar statüsü tasarımında kullanılan malzeme nedir?",
+    "explanation": "Oscar statüsü, beyaz altının üzerine bronztan dökülerek yapılmıştır.",
+    "options": [
+      "Alt",
+      "Gümüş",
+      "Bronz",
+      "Beyaz Altın"
+    ],
+    "correctAnswer": "Bronz",
+    "tags": [
+      "Oscar Statüsü",
+      "Sinema Ödülleri",
+      "Tasarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vgv42n7zq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "En İyi Özgün Senaryo kategorisi ilk kez hangi yıl ödülü kazandı?",
+    "explanation": "En İyi Özgün Senaryo kategorisi 1929 yılında ilk kez 'Sunrise: A Song of Two Humans' için verildi.",
+    "options": [
+      "1929",
+      "1930",
+      "1932",
+      "1935"
+    ],
+    "correctAnswer": "1929",
+    "tags": [
+      "Senaryo Ödülü",
+      "Oscar Ödülleri",
+      "Akademi Ödülleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4nw09v23y",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Bir filmin Oscar'a en az kaç farklı dalda aday gösterilmesi gerekir?",
+    "explanation": "Bir film Oscar'a en az 1 dalda aday gösterilebilir, ancak genellikle daha fazla dala katılır.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "Oscar Adaylığı",
+      "Sinema Ödülleri",
+      "Akademi Kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dvntp44vz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Film endüstrisinde 'Oscar' neyi ifade eder?",
+    "explanation": "Oscar, Film Akademisi tarafından sunulan soyut insan heykelçisidir ve resmile 'Akademisi' olarak anılır.",
+    "options": [
+      "En İyi Film Ödülü",
+      "Akademisi'nin sunumu",
+      "Soyut insan heykelcisi",
+      "Yapay zeka ödülü"
+    ],
+    "correctAnswer": "Soyut insan heykelcisi",
+    "tags": [
+      "Oscar",
+      "Tarihi",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4zgc1ekej",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "İlk Oscar töreni ne zaman düzenlendi?",
+    "explanation": "İlk Oscar töreni 1929 yılında, 1928 filmlerine verilen ödüller için düzenlendi.",
+    "options": [
+      "1927",
+      "1930",
+      "1924",
+      "1929"
+    ],
+    "correctAnswer": "1929",
+    "tags": [
+      "Oscar",
+      "Tarihi",
+      "Kronoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "660ttj0sw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Oscar kategorisi değildir?",
+    "explanation": "Film endüstrisinde 'En İyi Mimar' kategorisi Oscar ödülü verilmeyen bir alandır.",
+    "options": [
+      "En İyi Yönetmen",
+      "En İyi Animasyon",
+      "En İyi Belgesel",
+      "En İyi Mimar"
+    ],
+    "correctAnswer": "En İyi Mimar",
+    "tags": [
+      "Oscar",
+      "Kategoriler",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p7ie2x91a",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "İlk En İyi Erkek Oyuncu Oscar'ı kim aldı?",
+    "explanation": "İlk En İyi Erkek Oyuncu Oscar'ı Wallace Beery, 'In Old Arizona' filmiyle aldı (1930).",
+    "options": [
+      "Walter Huston",
+      "Wallace Beery",
+      "George Arliss",
+      "Laurence Olivier"
+    ],
+    "correctAnswer": "Wallace Beery",
+    "tags": [
+      "Oscar",
+      "Kazanımçılar",
+      "Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y4ii8izf8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar heykelcisinin adı nedir?",
+    "explanation": "Oscar heykelcisinin resmi Türkçe adı 'Akademisi'dir, bazen de soyut insan heykeli olarak da anılır.",
+    "options": [
+      "Altın Adam",
+      "Gümüş Ay",
+      "Akademisi",
+      "Soyut İnsan Heykeli"
+    ],
+    "correctAnswer": "Akademisi",
+    "tags": [
+      "Oscar",
+      "İsimler",
+      "Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nxjkjwa56",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Oscar Ödülleri'nin tam adı nedir?",
+    "explanation": "Oscar Ödülleri, Amerikan Sinema Akademisi (Academy of Motion Picture Arts and Sciences) tarafından verilir ve resmi olarak 'Amerikan Sinema Akademisi Ödülleri' olarak bilinir.",
+    "options": [
+      "Akademik Sanat Ödülleri",
+      "Amerikan Sinema Akademisi Ödülleri",
+      "Uluslararası Film Ödülleri",
+      "Kraliyet Film Ödülleri"
+    ],
+    "correctAnswer": "Amerikan Sinema Akademisi Ödülleri",
+    "tags": [
+      "Oscar",
+      "Sinema",
+      "Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hvwn48ill",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Bir Oscar heykelcisinin ağırlığı yaklaşık kaç gramdır?",
+    "explanation": "Bir Oscar heykelcisi yaklaşık 850 gram ağırlığındadır ve 13.5 inç boyunda, 5 inç genişliğindedir.",
+    "options": [
+      "350 gram",
+      "850 gram",
+      "1200 gram",
+      "2000 gram"
+    ],
+    "correctAnswer": "850 gram",
+    "tags": [
+      "Oscar",
+      "Sinema",
+      "Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lwsc95j7e",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "Oscar Ödülleri'nin ilk töreni ne yıl gerçekleşti?",
+    "explanation": "Oscar Ödülleri'nin ilk töreni 1929 yılında (5. yıl) gerçekleşti ve 'The Broadway Melody' en çok Oscar kazandı.",
+    "options": [
+      "1926",
+      "1927",
+      "1928",
+      "1929"
+    ],
+    "correctAnswer": "1927",
+    "tags": [
+      "Oscar",
+      "Sinema Tarihi",
+      "Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ar0qumpf4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "Bir film için en çok Oscar ödülü kazanan filmlerden biri hangisidir?",
+    "explanation": "Ben-Hur filmi 11 Oscar ödülü kazandı ve tarihte en çok Oscar alan filmlerden biridir. Titanic de 11 Oscar aldı.",
+    "options": [
+      "Titanic",
+      "Ben-Hur",
+      "Gone with the Wind",
+      "Schindler's List"
+    ],
+    "correctAnswer": "Ben-Hur",
+    "tags": [
+      "Oscar",
+      "Sinema",
+      "Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "18hb6ysdw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar Ödülleri törenleri hangi şehirde düzenlenir?",
+    "explanation": "Oscar Ödülleri törenleri her yıl Kaliforniya'daki Los Angeles şehrinde düzenlenir, genellikle Dolby Theatre veya Hollywood Bowl'da.",
+    "options": [
+      "Los Angeles",
+      "New York",
+      "Chicago",
+      "Miami"
+    ],
+    "correctAnswer": "Los Angeles",
+    "tags": [
+      "Oscar",
+      "Sinema",
+      "Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zn3k2k304",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar Ödülleri hangi yılda ilk kez verildi?",
+    "explanation": "Ödül 1927'de ilk kez verildi ancak 1929'da resmi olarak 'Academy Awards of Motion Picture Arts and Sciences' olarak adlandırıldı.",
+    "options": [
+      "1927",
+      "1929",
+      "1930",
+      "1932"
+    ],
+    "correctAnswer": "1929",
+    "tags": [
+      "Tarih",
+      "Oscar Ödülleri",
+      "Sanat ve Eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r307h8wob",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar Ödülleri'nin en bilinen adı nedir?",
+    "explanation": "Oscar ödüllerinin resmi adı 'Akademi Ödülleri'dir (Academy Awards). Altın Küre farklı bir ödül sistemidir.",
+    "options": [
+      "Altın Küre",
+      "BAFTA",
+      "Akademi Ödülü",
+      "Emmy"
+    ],
+    "correctAnswer": "Akademi Ödülü",
+    "tags": [
+      "Oscar Ödülleri",
+      "Sanat ve Eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w69lua84p",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Oscar kategorisi en prestijli kabul edilir?",
+    "explanation": "En İyi Film ödülü, tüm ekibin çalışmasını onurlandırdığı için en prestijli kabul edilir.",
+    "options": [
+      "En İyi Yönetmen",
+      "En İyi Aktris",
+      "En İyi Film",
+      "En İyi Yapım Tasarımı"
+    ],
+    "correctAnswer": "En İyi Film",
+    "tags": [
+      "Oscar Ödülleri",
+      "Prestijli Ödül",
+      "Sanat ve Eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bvbq4dtzr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar heykelciklerinin adı nedir?",
+    "explanation": "Oscar heykelcikleri 'Altın Adam' olarak bilinir, 13.5 inç boyundadır.",
+    "options": [
+      "Altın Adam",
+      "Bronz Adam",
+      "Siyah Adam",
+      "Gümüş Adam"
+    ],
+    "correctAnswer": "Altın Adam",
+    "tags": [
+      "Oscar Ödülleri",
+      "Tarih",
+      "Sanat ve Eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7g7dcg9lf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "En çok Oscar kazandı hangi film?",
+    "explanation": "Ben-Hur 1959 yapımıyla 11 Oscar kazandı, en çok ödül alan filmdir.",
+    "options": [
+      "Titanic",
+      "Ben-Hur",
+      "Gone with the Wind",
+      "The Lord of the Rings"
+    ],
+    "correctAnswer": "Ben-Hur",
+    "tags": [
+      "Oscar Ödülleri",
+      "Rekor",
+      "Sanat ve Eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9bmt9f2cr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Oscar Ödüllerinin ilk töreni ne yıl düzenlendi?",
+    "explanation": "Oscar Ödüllerinin ilk töreni 1927 yılının Mayıs ayında düzenlendi ve Hollywood Film Sanatçıları ve Bilim Adamları tarafından verildi.",
+    "options": [
+      "1927",
+      "1930",
+      "1929",
+      "1928"
+    ],
+    "correctAnswer": "1927",
+    "tags": [
+      "oscar",
+      "tarih",
+      "ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xn9kuv68k",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "En çok Oscar kazanan aktör kimdir?",
+    "explanation": "Walter Brennan 3 Oscar kazandı ve en çok Oscar kazanan aktör olarak bilinir (1964, 1958, 1957).",
+    "options": [
+      "Daniel Day-Lewis",
+      "Jack Nicholson",
+      "Walter Brennan",
+      "Marlon Brando"
+    ],
+    "correctAnswer": "Walter Brennan",
+    "tags": [
+      "oscar",
+      "aktörler",
+      "kazananlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "16prrnplh",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar Ödülleri hangi kategoride verilir?",
+    "explanation": "Oscar Ödülleri En İyi Film, En İyi Yönetmen, En İyi Aktör ve birçok başka kategoride verilir.",
+    "options": [
+      "En İyi Film",
+      "En İyi Yönetmen",
+      "En İyi Aktör",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "oscar",
+      "kategoriler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lyne7m56h",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi film 14 Oscar kazandı?",
+    "explanation": "Ben-Hur 1959 yılında gösterildi ve Oscar töreninde 14 ödül kazandı (en çok Oscar kazanan film).",
+    "options": [
+      "Titanic",
+      "Ben-Hur",
+      "Gone with the Wind",
+      "Forrest Gump"
+    ],
+    "correctAnswer": "Ben-Hur",
+    "tags": [
+      "oscar",
+      "filmler",
+      "kazananlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9lgr50lwf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Oscar Ödülleri hangi kurum tarafından verilir?",
+    "explanation": "Oscar Ödülleri Hollywood Film Sanatçıları ve Bilim Adamları tarafından verilen 'Academy of Motion Picture Arts and Sciences' kurumu tarafından verilir.",
+    "options": [
+      "Academy of Motion Picture Arts and Sciences",
+      "National Film Board",
+      "European Film Academy",
+      "International Film Festival"
+    ],
+    "correctAnswer": "Academy of Motion Picture Arts and Sciences",
+    "tags": [
+      "oscar",
+      "kurum",
+      "kolej"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lsv7bg5dd",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "İlk Oscar Ödül töreni ne zaman ve nerede düzenlendi?",
+    "explanation": "İlk Oscar Ödülü töreni 1929 yılında 5 Nisan'da Los Angeles'taki Hollywood Bowl'da düzenlendi. Bu tarihten önceki yıl olan 1927-1928 sezonuna ait filmlere ödül verildi.",
+    "options": [
+      "1927, Hollywood",
+      "1929, Los Angeles",
+      "1928, New York",
+      "1930, Chicago"
+    ],
+    "correctAnswer": "1929, Los Angeles",
+    "tags": [
+      "Oscar Tarihçesi",
+      "İlk Ödül"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qdmrflm9o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki filmlerden hangisi En İyi Film dalında Oscar kazandı?",
+    "explanation": "Gone with the Wind (Umutla Yarıya) 1939 yılında En İyi Film dalında Oscar kazandı ve bu ödülü alan ilk film oldu. Titanic, Gladiator ve Schindler's List farklı yıllarda ödül almıştır.",
+    "options": [
+      "Titanic (2004)",
+      "Gone with the Wind (1939)",
+      "Gladiator (2001)",
+      "Schindler's List (1995)"
+    ],
+    "correctAnswer": "Gone with the Wind (1939)",
+    "tags": [
+      "En İyi Film",
+      "Oscar Kazananlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebkjh7vhc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "Oscar heykelciklerinin tasarımı kim tarafından yapıldı?",
+    "explanation": "Oscar heykelciklerinin tasarımını George Stanley yaptı. İlk Oscar ödülüne layık görülen filmler için tasarlandı ve 1930 yılında kullanılmaya başlandı.",
+    "options": [
+      "Albert Einstein",
+      "George Stanley",
+      "David O. Selznick",
+      "Francis Ford Coppola"
+    ],
+    "correctAnswer": "George Stanley",
+    "tags": [
+      "Oscar Heykeli",
+      "Tasarım Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "thy0vy6cg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "En çok Oscar ödüli kazanan aktör kimdir?",
+    "explanation": "Daniel Day-Lewis 3 Oscar ödülü kazandı ve bunu yapan en az sayıda aktördür. Tom Hanks 2, Denzel Washington 4 (en çok), Jack Nicholson 3 kez Oscar kazanmıştır.",
+    "options": [
+      "Tom Hanks",
+      "Denzel Washington",
+      "Daniel Day-Lewis",
+      "Jack Nicholson"
+    ],
+    "correctAnswer": "Daniel Day-Lewis",
+    "tags": [
+      "En Çok Ödül",
+      "Aktörler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fcpnvw14g",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Oscar Ödülleri töreninde hangi dalda 'Best Foreign Language Film' adı kullanılır?",
+    "explanation": "Oscar Ödülleri töreninde 'Best Foreign Language Film' dalı, Türkçe'de 'En İyi Uluslararası Film' olarak çevrilir. Bu dal 1956 yılından beri mevcut olup farklı isimlerle kullanılmıştır.",
+    "options": [
+      "En İyi Yabancı Film",
+      "En İyi Uluslararası Film",
+      "En İyi Dış Dil Filmi",
+      "En İyi Yabancı Dil"
+    ],
+    "correctAnswer": "En İyi Uluslararası Film",
+    "tags": [
+      "Uluslararası Film",
+      "Yabancı Film Dalı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84mpif0e7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar Ödülleri'nin resmi adı nedir?",
+    "explanation": "Oscar Ödülleri'nin resmi adı 'Akademi Ödülleri' (Academy Awards) olup, Hollywood Sinema Sanatları ve Bilimler Akademisi tarafından verilir.",
+    "options": [
+      "En İyi Film Ödülü",
+      "Akademi Ödülleri",
+      "Altın Küre Ödülleri",
+      "Bafta Ödülleri"
+    ],
+    "correctAnswer": "Akademi Ödülleri",
+    "tags": [
+      "Oscar",
+      "Sinema",
+      "Tarihi Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfn4an7cu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "İlk Oscar töresi hangi yıl düzenlendi?",
+    "explanation": "İlk Oscar töresi 1929 yılında düzenlendi ve 'En İyi Film' kategorisindeki ilk ödül bu yıl verildi.",
+    "options": [
+      "1927",
+      "1930",
+      "1925",
+      "1929"
+    ],
+    "correctAnswer": "1929",
+    "tags": [
+      "Oscar",
+      "Tarih",
+      "Sinema Ödülleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mzmln5ft1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Oscar kategorisi en çok kazanan kategori olarak bilinir?",
+    "explanation": "En İyi Film kategorisi Oscar tarihinin en çok ödül kazanan kategorilerinden biri olup, birçok film bu kategoride başarılı olmuştur.",
+    "options": [
+      "En İyi Yardımcı Oyuncu",
+      "En İyi Yönetmen",
+      "En İyi Film",
+      "En İyi Özgün Senaryo"
+    ],
+    "correctAnswer": "En İyi Film",
+    "tags": [
+      "Oscar",
+      "Kategoriler",
+      "Sinema"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "99r3obwzk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "Titanic filminin aldığı Oscar sayısı kaçtır?",
+    "explanation": "Titanic filmi 1999 Oscar töresinde 11 kategori kazandı ve En İyi Film dahil olmak üzere birçok ödül aldı.",
+    "options": [
+      "1",
+      "2",
+      "11",
+      "4"
+    ],
+    "correctAnswer": "11",
+    "tags": [
+      "Oscar",
+      "Titanic",
+      "Filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v6ufce1ye",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "Kimi filminin aldığı Oscar sayısı kaçtır?",
+    "explanation": "Parazit (Kimi) filmi 2019 Oscar töresinde En İyi Film, En İyi Yönetmen, En İyi Özgün Senaryo ve En İyi Yardımcı Oyuncu olmak üzere 4 kategori kazandı.",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "Oscar",
+      "Parazit",
+      "Filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ejnlctyyh",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "İlk Oscar Ödülleri hangi yıl verildi?",
+    "explanation": "İlk Oscar Ödülleri 1929 yılında 1. Akademi Ödülleri töreninde verildi.",
+    "options": [
+      "1927",
+      "1928",
+      "1929",
+      "1930"
+    ],
+    "correctAnswer": "1929",
+    "tags": [
+      "Oscar Tarihi",
+      "Ödül Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1cfyflpx8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Oscar ödülünün resmi adı nedir?",
+    "explanation": "Oscar ödülünün resmi adı 'Akademi Ödülleri' (Academy Awards) dır.",
+    "options": [
+      "Akademi Ödülleri",
+      "Altın Küre Ödülleri",
+      "Emmy Ödülleri",
+      "Grammy Ödülleri"
+    ],
+    "correctAnswer": "Akademi Ödülleri",
+    "tags": [
+      "Oscar Bilgisi",
+      "Ödül Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fvtrvnnnl",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi film Oscar tarihinin en çok kazandığı filmdir?",
+    "explanation": "Ben-Hur filmi Oscar tarihinin en çok kazandığı filmdir (11 Oscar ödülü kazanmıştır).",
+    "options": [
+      "Titanic",
+      "The Lord of the Rings: The Return of the King",
+      "Ben-Hur",
+      "Gone with the Wind"
+    ],
+    "correctAnswer": "Ben-Hur",
+    "tags": [
+      "Oscar Kazanımları",
+      "Film Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2lqep3pk1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar heykelçesinin adı neyle anılır?",
+    "explanation": "Oscar ödülü heykelçesinin adı 'Oscar' olarak bilinir ve resmi adını taşıyan bir isimdir.",
+    "options": [
+      "Goldie",
+      "Oscar",
+      "Academy",
+      "Hollywood"
+    ],
+    "correctAnswer": "Oscar",
+    "tags": [
+      "Oscar Kültürü",
+      "Ödül Heykelçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iz4ebflrb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Altın Ayı ödülü hangi festivalde verilir?",
+    "explanation": "Altın Ayı ödülü Berlin Film Festivali'nde en önemli ödüldür.",
+    "options": [
+      "Berlin Film Festivali",
+      "Veneto Film Festivali",
+      "Cannes Film Festivali",
+      "Toronto Film Festivali"
+    ],
+    "correctAnswer": "Berlin Film Festivali",
+    "tags": [
+      "Film Festivalleri",
+      "Uluslararası Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ceh0ry21",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar Ödülleri ne demektir?",
+    "explanation": "Oscar Awards, Amerika Birleşik Devletleri'ndeki Hollywood sinemasına verilecek onur ödülleri anlamındadır.",
+    "options": [
+      "Hollywood sinema ödülleri",
+      "Türk sinema ödülleri",
+      "Avrupa film ödülleri",
+      "Dünya müzik ödülleri"
+    ],
+    "correctAnswer": "Hollywood sinema ödülleri",
+    "tags": [
+      "Oscar",
+      "Sinema",
+      "Ödül"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "evwkueyj4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "İlk Oscar Ödülü hangi yıl verildi?",
+    "explanation": "İlk Oscar Ödülleri 1927 yılında verildi ve 'Academy Awards' olarak bilinir.",
+    "options": [
+      "1927",
+      "1930",
+      "1945",
+      "1950"
+    ],
+    "correctAnswer": "1927",
+    "tags": [
+      "Oscar",
+      "Tarih",
+      "Ödül"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uvvfypie9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "En önemli Oscar kategorisi hangisidir?",
+    "explanation": "Oscar Ödülleri'nde En İyi Film kategorisi en önemli ve prestijli kategoridir.",
+    "options": [
+      "En İyi Film",
+      "En İyi Yönetmen",
+      "En İyi Aktör",
+      "En İyi Animasyon"
+    ],
+    "correctAnswer": "En İyi Film",
+    "tags": [
+      "Oscar",
+      "Kategori",
+      "Film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n6glrucgi",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Oscar töreni nerede düzenlenir?",
+    "explanation": "Oscar töreni her yıl Los Angeles, California'daki Dolby Theatre veya Hollywood Bowl'da düzenlenir.",
+    "options": [
+      "Los Angeles, California",
+      "New York City",
+      "Chicago",
+      "Miami"
+    ],
+    "correctAnswer": "Los Angeles, California",
+    "tags": [
+      "Oscar",
+      "Konum",
+      "Tören"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d9f9afrdp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EXPERT",
+    "question": "Bir Oscar ödülünün ağırlığı kaç ons'tur?",
+    "explanation": "Standart bir Oscar ödülü (Kritik Akademi Ödülü) 8.3 ons ağırlığındadır ve yaklaşık 236 gram eder.",
+    "options": [
+      "8.3 ons",
+      "10.5 ons",
+      "5.2 ons",
+      "12.0 ons"
+    ],
+    "correctAnswer": "8.3 ons",
+    "tags": [
+      "Oscar",
+      "Detay",
+      "Ödül"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5vpwlgf6h",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "İlk Oscar Ödülleri hangi yıl verildi?",
+    "explanation": "İlk Oscar Ödülleri 1929 yılında, ancak tören ilk kez 1927'de düzenlendi ve ödül sertifikaları bu tarihte verildi.",
+    "options": [
+      "1927",
+      "1929",
+      "1930",
+      "1932"
+    ],
+    "correctAnswer": "1927",
+    "tags": [
+      "Oscar",
+      "Tarih",
+      "Ödül Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "itcdjmqhc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en çok kazanan oyuncu kimdir?",
+    "explanation": "Katharine Hepburn 4 kez En İyi Kadın Oyuncu ödülünü kazanmıştır ve en çok Oscar kazanan oyuncudur.",
+    "options": [
+      "Meryl Streep",
+      "Katharine Hepburn",
+      "Daniel Day-Lewis",
+      "Jack Nicholson"
+    ],
+    "correctAnswer": "Katharine Hepburn",
+    "tags": [
+      "Oscar",
+      "Oyuncular",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0143rgo8p",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "En İyi Film Ödülü hangi kategoride verilir?",
+    "explanation": "En İyi Film Ödülü, filmin genel performansını ve kalitesini değerlendiren temel kategoridir.",
+    "options": [
+      "Teknik",
+      "Sanat",
+      "Performans",
+      "Yönetmenlik"
+    ],
+    "correctAnswer": "Performans",
+    "tags": [
+      "Oscar",
+      "Kategoriler",
+      "Film Sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oj3tamcdy",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "GENERAL",
+    "question": "Aktor Daniel Day-Lewis Oscar'ın kaç kez kazandı?",
+    "explanation": "Daniel Day-Lewis 1987, 2002 ve 2012'de 3 kez En İyi Erkek Oyuncu Oscar'ını kazandı.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "Oscar",
+      "Oyuncular",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e39amqy62",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Oscar Ödülleri",
+    "difficulty": "EASY",
+    "question": "Oscar statüsü hangi malzemeden yapılır?",
+    "explanation": "Oscar statüsü 585 gram saf gümüş ve altın kaplamadan yapılır, yüksek kaliteli bir ödül statüsüdür.",
+    "options": [
+      "Alt",
+      "Bronz",
+      "Gümüş",
+      "Paslanmaz Çelik"
+    ],
+    "correctAnswer": "Gümüş",
+    "tags": [
+      "Oscar",
+      "Ödül Tasarımı",
+      "Sanat Ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

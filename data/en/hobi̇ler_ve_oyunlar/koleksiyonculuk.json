@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "anoyuky05",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EASY",
+    "question": "Koleksiyonculuk hobi olarak en yaygın hangi nesnelerle yapılır?",
+    "explanation": "Koleksiyonculuk birçok farklı nesne ile yapılabilir: para, madalya, kitap, postallar, baskılar, oyuncaklar vb.",
+    "options": [
+      "Para ve madalyalar",
+      "Kitaplar ve müzeler",
+      "Postallar ve baskılar",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "koleksiyonculuk",
+      "hobi",
+      "nesneler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sevapa9g5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Bir koleksiyonun değerini artırmak için hangi faktör önemlidir?",
+    "explanation": "Bir koleksiyonun değeri, orijinal olması ve ne kadar nadir olduğu ile artar. Eskisi olması kendiliğinden değer katar.",
+    "options": [
+      "Nesnenin eskisi olması",
+      "Orjinal ve nadirlik",
+      "Renkli olması",
+      "Büyük olması"
+    ],
+    "correctAnswer": "Orjinal ve nadirlik",
+    "tags": [
+      "koleksiyonculuk",
+      "değer",
+      "nadir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8an7a7bvd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi tür koleksiyonculukta 'mint' terimi kullanılır?",
+    "explanation": "'Mint' terimi özellikle para ve madalya koleksiyonlarında, nesnenin kusursuz durumda olması anlamında kullanılır.",
+    "options": [
+      "Kitap koleksiyonu",
+      "Para ve madalya koleksiyonu",
+      "Postallar",
+      "Oyuncak koleksiyonu"
+    ],
+    "correctAnswer": "Para ve madalya koleksiyonu",
+    "tags": [
+      "koleksiyonculuk",
+      "mint",
+      "para"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2w0dm38em",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculukta 'complete set' ne ifade eder?",
+    "explanation": "'Complete set' terimi, bir koleksiyonda tüm gerekli parçaların bulunması ve eksiksiz olması anlamına gelir.",
+    "options": [
+      "Tamamlanmamış set",
+      "Yarım kalmış koleksiyon",
+      "Tüm nesnelerin bulunduğu tam set",
+      "Sadece büyük parçalar"
+    ],
+    "correctAnswer": "Tüm nesnelerin bulunduğu tam set",
+    "tags": [
+      "koleksiyonculuk",
+      "complete set",
+      "tamamlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rjedqq7dc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Hangi koleksiyonculuk türünde 'grading' işlemi yapılır?",
+    "explanation": "'Grading' işlemi, özellikle para ve madalya koleksiyonlarında nesnenin durumunu bilimsel şekilde değerlendirir.",
+    "options": [
+      "Kitap koleksiyonu",
+      "Para ve madalya koleksiyonu",
+      "Postallar",
+      "Oyuncak koleksiyonu"
+    ],
+    "correctAnswer": "Para ve madalya koleksiyonu",
+    "tags": [
+      "koleksiyonculuk",
+      "grading",
+      "değerlendirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yl8j4tb27",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculuk hobi olarak hangi temel avantajı sunar?",
+    "explanation": "Koleksiyonculuk, kişisel araştırma yapmayı, tarihi öğeleri tanımayı ve kültürel birikimi sağlamayı içerir. Bu hobi genellikle uzun vadede finansal kazanç değil, kişisel gelişim odaklıdır.",
+    "options": [
+      "Hızlı para kazandırır",
+      "Eğitim ve kültür birikimi sağlar",
+      "Sosyal medya popülerliği artırır",
+      "Daha az zaman harcar"
+    ],
+    "correctAnswer": "Eğitim ve kültür birikimi sağlar",
+    "tags": [
+      "koleksiyonculuk",
+      "hobi-avantajları",
+      "eğitim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8kw7czi83",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Bir madalya veya pul koleksiyonunun değerini en çok hangi faktör etkiler?",
+    "explanation": "Koleksiyon öğelerinin değeri, genellikle tarihsel önemleri, nadirlik düzeyleri ve korunma durumlarıyla belirlenir. Renk veya boyut gibi estetik özellikler ikincil öneme sahiptir.",
+    "options": [
+      "Renk ve boyutu",
+      "Tarihsel önemi ve nadirliği",
+      "Fasonu ve ambalajı",
+      "Koleksiyonerin ünü"
+    ],
+    "correctAnswer": "Tarihsel önemi ve nadirliği",
+    "tags": [
+      "koleksiyon-değeri",
+      "nadiret",
+      "yatırım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aiii6pmyj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Oyuncak figürü koleksiyonculuğu neden popüler bir hobi haline gelmiştir?",
+    "explanation": "Oyuncak figürü koleksiyonculuğu, popüler kültüre ilgi duyanlar için hem eğlenceli hem de nostaljik bir hobi sunar. Özellikle çocukluk anıları ve karakterlerle bağlantı kurmayı sağlar.",
+    "options": [
+      "Sadece ucuzdur",
+      "Pop-kültür ve nostalji ile bağdaşır",
+      "Herkes aynı figürleri toplar",
+      "İnternet yoksa yapılamaz"
+    ],
+    "correctAnswer": "Pop-kültür ve nostalji ile bağdaşır",
+    "tags": [
+      "oyuncak-figür",
+      "nostalji",
+      "pop-kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0t7kzja3e",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Koleksiyoncular öğelerini saklamak için en uygun yöntem nedir?",
+    "explanation": "Koleksiyon öğeleri, özellikle pul ve madalya gibi hassas nesneler, nemden korunmalıdır. Kapalı kutular ve nem kontrol cihazları koleksiyonun uzun vadeli korunmasını sağlar.",
+    "options": [
+      "Dışarıda açıkta bırakmak",
+      "Nem kontrolü yapılan kapalı kutular",
+      "Cihaza dokunmadan sergilemek",
+      "Işık altında uzun süre tutmak"
+    ],
+    "correctAnswer": "Nem kontrolü yapılan kapalı kutular",
+    "tags": [
+      "saklama",
+      "koruma",
+      "nem-kontrolü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "psvsywf1k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi koleksiyon türü en çok yatırım potansiyeli taşır?",
+    "explanation": "Maden para koleksiyonları, nadir ve korunmuş madeni paralarla finansal değer kazandırabilir. Gazete kupası veya kitap gibi öğeler daha çok kültürel değere sahiptir.",
+    "options": [
+      "Gazete kupası",
+      "Maden para (sikke) koleksiyonu",
+      "Kahve fincanı",
+      "Kitap koleksiyonu"
+    ],
+    "correctAnswer": "Maden para (sikke) koleksiyonu",
+    "tags": [
+      "yatırım",
+      "madde-para",
+      "tarihi-nesne"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p3ao0zt8a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculuk hobi olarak en çok hangi grup tarafından tercih edilir?",
+    "explanation": "Koleksiyonculuk genellikle genç yetişkinler ve orta yaşlı yetişkinler tarafından tercih edilen bir hobi türüdür. Bu gruplar zamanlarını ve para harcamalarını koleksiyon yapmaya ayırmak için uygun gelir düzeyine sahiptir.",
+    "options": [
+      "Çocuklar",
+      "Genç yetişkinler ve yetiştirenler",
+      "Yaşlılar",
+      "Teknoloji uzmanları"
+    ],
+    "correctAnswer": "Genç yetişkinler ve yetiştirenler",
+    "tags": [
+      "hobiler",
+      "koleksiyonculuk",
+      "demografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gv63tjbok",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Hangi tür koleksiyon en değerli sayılır?",
+    "explanation": "Koleksiyonda parçaların değeri nadidliği ve korunmuş haline bağlıdır. Nadide parçalar daha çok ilgi çeker ve daha yüksek değerlidir.",
+    "options": [
+      "Daha çok parça sayısı fazla olan",
+      "Nadide ve korunmuş olan",
+      "Sonradan bulunan",
+      "Günlük temin edilen"
+    ],
+    "correctAnswer": "Nadide ve korunmuş olan",
+    "tags": [
+      "koleksiyon",
+      "değer",
+      "nadiret"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a4ivqvadx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculuk hobi için en uygun başlangıç yöntemi nedir?",
+    "explanation": "Koleksiyonculuk hobi olarak aşamalı ve sistematik ilerleme ile yapılır. Bu yöntem hem zaman hem de maliyet açısından daha sürdürülebilir bir yaklaşım sunar.",
+    "options": [
+      "Anında büyük koleksiyon yapmak",
+      "Aşamalı ve sistematik olarak ilerlemek",
+      "Rakip aramak",
+      "Farklı türleri karışık toplamak"
+    ],
+    "correctAnswer": "Aşamalı ve sistematik olarak ilerlemek",
+    "tags": [
+      "hobiler",
+      "başlangıç",
+      "süreç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6i77ju3ak",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi grup koleksiyonculukta en çok zaman geçirir?",
+    "explanation": "Koleksiyonculuk genellikle orta-üstü gelir grubu tarafından tercih edilir. Bu grup daha fazla para ve zaman harcamaya uygun gelir düzeyine sahiptir.",
+    "options": [
+      "Düşük gelirli",
+      "Orta-üstü sınıf gelirli",
+      "Öğrenciler",
+      "Çalışmayanlar"
+    ],
+    "correctAnswer": "Orta-üstü sınıf gelirli",
+    "tags": [
+      "koleksiyonculuk",
+      "demografi",
+      "gelir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qoi9z1asg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Koleksiyon parçalarını saklama için en uygun yöntem nedir?",
+    "explanation": "Koleksiyon parçalarını saklamak için kurutmalı ve kontrollü ortam gerekir. Bu yöntem parçaların bozulmasını önler ve değerini korur.",
+    "options": [
+      "Serbest havada bırakmak",
+      "Kurutmalı ve kontrollü ortamda",
+      "Islak ortamda tutmak",
+      "Dışarıda sergilemek"
+    ],
+    "correctAnswer": "Kurutmalı ve kontrollü ortamda",
+    "tags": [
+      "koleksiyonculuk",
+      "saklama",
+      "parça korunması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vmcauwy2k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EASY",
+    "question": "Koleksiyonculuğun en temel amacı nedir?",
+    "explanation": "Koleksiyonculuk, belirli nesneleri toplama, saklama ve koruma içeren psikolojik bir eğilimdir. Bu davranış genellikle kişisel değer bulma ve nostalji ile ilişkilidir.",
+    "options": [
+      "Parayı kazandırmak",
+      "Bir şeyi elde etme ve koruma eğilimi",
+      "Sosyal medyada popüler olmak",
+      "Hızlı tüketim alışkanlığı"
+    ],
+    "correctAnswer": "Bir şeyi elde etme ve koruma eğilimi",
+    "tags": [
+      "koleksiyonculuk",
+      "psikoloji",
+      "hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zvi3l4f5s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi koleksiyon türü tarih ve kültür açısından en zengin kaynağa sahiptir?",
+    "explanation": "Antik paralar ve madalyalar tarihsel olayları, imparatorlukları ve dönemleri yansıtan somut kayıtlar içerir. Bu koleksiyonlar bilimsel araştırma için değerli materyallerdir.",
+    "options": [
+      "Mevsimlik ürünler",
+      "Antik para ve madalyalar",
+      "Teknolojik cihazlar",
+      "Moda aksesuarları"
+    ],
+    "correctAnswer": "Antik para ve madalyalar",
+    "tags": [
+      "tarih",
+      "koleksiyonculuk",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ic2l6305o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Koleksiyonculuk davranışı aşırıya kaçtığında 'hoobik' olarak nitelendirilir mi?",
+    "explanation": "Koleksiyonculuk aşırıya kaçtığında, kişinin sosyal ve işlevsel yaşamını olumsuz etkilediğinde 'hoobik' olarak tanımlanan bir durum haline gelir.",
+    "options": [
+      "Evet, hoobik bir alışkanlıktır",
+      "Hayır, koleksiyonculuktur",
+      "Evet, bu bozukluk durumudur",
+      "Hayır, tamamen normaldir"
+    ],
+    "correctAnswer": "Evet, bu bozukluk durumudur",
+    "tags": [
+      "psikoloji",
+      "bozukluklar",
+      "koleksiyonculuk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6qcxxf4g2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi koleksiyon türü dijital çağda hala popülerliğini korumaktadır?",
+    "explanation": "Retro teknoloji koleksiyonları, eski bilgisayarlar, oyun konsolları ve elektronik ürünler dijital çağda nostalji nedeniyle hala popülerdir.",
+    "options": [
+      "Eski bilgisayarlar ve teknolojik ürünler",
+      "Sadece sosyal medya içerikleri",
+      "Hızlı tüketim malları",
+      "Tekrarlanan kopyalar"
+    ],
+    "correctAnswer": "Eski bilgisayarlar ve teknolojik ürünler",
+    "tags": [
+      "teknoloji",
+      "koleksiyonculuk",
+      "retro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uqzv0qwih",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Koleksiyonculukta 'kataloglama' işlevi neden önemlidir?",
+    "explanation": "Kataloglama, koleksiyoncuların toplanan nesneleri sistematik şekilde organize etmesini, arşivlenmesini ve gelecek nesillere aktarılmasını sağlar.",
+    "options": [
+      "Nesneleri satmak için",
+      "Toplanan nesneleri organize ve belgelemek",
+      "Fiyatları belirlemek",
+      "Arkadaşlarla paylaşmak"
+    ],
+    "correctAnswer": "Toplanan nesneleri organize ve belgelemek",
+    "tags": [
+      "koleksiyonculuk",
+      "organizasyon",
+      "belgeleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ainxhwu26",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EASY",
+    "question": "Koleksiyonculuk hobisi nedir ve hangi özellikler koleksiyoneri başlar?",
+    "explanation": "Koleksiyonculuk, benzer veya farklı türden nesneleri planlı şekilde toplamak ve düzenli tutmaktır. Değerlendirme ve düzenlilik koleksiyonerin temel özellikleridir.",
+    "options": [
+      "A) Tek bir nesneye odaklanmak ve onun detaylarını incelemek",
+      "B) Farklı türden eşyaları toplayarak değerlendirmek ve düzenli tutmak",
+      "C) Sadece pahalı parçaları toplamak ve satmak",
+      "D) Toplamayı tamamen serbest bırakmak ve kontrol etmemek"
+    ],
+    "correctAnswer": "B) Farklı türden eşyaları toplayarak değerlendirmek ve düzenli tutmak",
+    "tags": [
+      "koleksiyonculuk",
+      "hobi",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ta15i7xak",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bir koleksiyonu değerli kılmaz?",
+    "explanation": "Koleksiyonun değeri tarihsel öneme, düzenliliğe ve kategorik tutarlılığa bağlıdır. Sadece pahalı olması koleksiyonu değerli kılmaz.",
+    "options": [
+      "A) Nesnelerin tarihi önemi",
+      "B) Koleksiyonun düzenli olması",
+      "C) Toplanan eşyaların aynı kategoride olması",
+      "D) Her parçanın pahalı olması"
+    ],
+    "correctAnswer": "D) Her parçanın pahalı olması",
+    "tags": [
+      "koleksiyonculuk",
+      "değerlendirmeler",
+      "hata"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yxrmlae8g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Bir koleksiyoner hangi temel kuralı uygulamalıdır?",
+    "explanation": "Koleksiyonculukta en önemli kural, toplamayı planlı ve düzenli şekilde uygulamaktır. Bu, koleksiyonun sürdürülebilirliğini sağlar.",
+    "options": [
+      "A) Tüm parçaları aynı anda toplamak",
+      "B) Toplamayı planlı ve düzenli şekilde yapmak",
+      "C) Parçaların fiyatını artırmaya çalışmak",
+      "D) Koleksiyonu serbest bırakmak"
+    ],
+    "correctAnswer": "B) Toplamayı planlı ve düzenli şekilde yapmak",
+    "tags": [
+      "koleksiyonculuk",
+      "planlama",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fdw2hplr4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi tür koleksiyonlar daha çok popülerdir?",
+    "explanation": "Tarihi belgeler, madalyalar ve pullar gibi nesneler koleksiyonculukta daha popüler türlerdir. Tarihsel önemi vardır.",
+    "options": [
+      "A) Teknoloji parçaları",
+      "B) Tarihi belgeler, madalyalar, pullar",
+      "C) Sadece pahalı saatler",
+      "D) Serbest bırakılan nesneler"
+    ],
+    "correctAnswer": "B) Tarihi belgeler, madalyalar, pullar",
+    "tags": [
+      "koleksiyonculuk",
+      "popülerlik",
+      "türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "byvari957",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Bir koleksiyonun saklama koşulları neler olmalı?",
+    "explanation": "Koleksiyon parçalarının korunması için kuru, serin ve karanlık ortam şarttır. Bu koşullar nesnelerin ömrünü uzatır.",
+    "options": [
+      "A) Nemli ve sıcak ortam",
+      "B) Kuru, serin ve karanlık yer",
+      "C) Güneş ışığı altında açık alan",
+      "D) Rüzgarlı ve nemli çevre"
+    ],
+    "correctAnswer": "B) Kuru, serin ve karanlık yer",
+    "tags": [
+      "koleksiyonculuk",
+      "saklama",
+      "koşullar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7c1jvorcf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Eşyaların zamanla değer kazanması ve nadir olması nedeniyle koleksiyonculukta en çok tercih edilen eşya kategorisi hangisidir?",
+    "explanation": "Sanatsal eserler ve antika parçalar, nadir olmaları ve estetik değerleri nedeniyle koleksiyoncular arasında en çok tercih edilen kategoridir. Bu eşyalar zamanla değer kazanabilir.",
+    "options": [
+      "A) Günlük kullanım eşyaları",
+      "B) Sanatsal eserler ve antika parçalar",
+      "C) Elektronik cihazlar",
+      "D) Giyim aksesuarları"
+    ],
+    "correctAnswer": "B) Sanatsal eserler ve antika parçalar",
+    "tags": [
+      "koleksiyonculuk",
+      "antika",
+      "sanat",
+      "yatırım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f981qrui4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculukta 'complete set' (tam set) kavramı ne anlama gelir?",
+    "explanation": "'Complete set' veya 'tam set', bir koleksiyonun tüm parçalarının eksiksiz toplanmasını ifade eder. Eksik parça olan koleksiyonlar daha az değerlidir.",
+    "options": [
+      "A) Eşyanın çamurlu olması",
+      "B) Bir koleksiyonun eksiksiz olması",
+      "C) Eşyanın yeni alınması",
+      "D) Fiyatının düşük olması"
+    ],
+    "correctAnswer": "B) Bir koleksiyonun eksiksiz olması",
+    "tags": [
+      "koleksiyonculuk",
+      "tam set",
+      "eksiklik",
+      "tozlamı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g71fvoo68",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Antika eşyaları satın alırken dikkat edilmesi gereken en önemli faktör hangisidir?",
+    "explanation": "Antika eşyalar, sahte ürünlerle doludur. Bu nedenle satın alırken orijinalliğinin doğrulanması ve sahtesinden ayrım yapmak en kritik faktördür.",
+    "options": [
+      "A) Renk seçimi",
+      "B) Eşyanın orijinalliği ve sahtesinden ayrımı",
+      "C) Fiyatı",
+      "D) Boyutu"
+    ],
+    "correctAnswer": "B) Eşyanın orijinalliği ve sahtesinden ayrımı",
+    "tags": [
+      "antika",
+      "koleksiyonculuk",
+      "orijinallik",
+      "sahte eşya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9vs54j3f9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Koleksiyonculukta 'grading' (değerlendirme) işlemi ne amaçla yapılır?",
+    "explanation": "'Grading', eşyaların kullanım izleri, hasar durumu ve genel kalitesine göre uzman tarafından puanlanmasını ifade eder. Bu puanlama fiyat belirlemede önemlidir.",
+    "options": [
+      "A) Eşyanın boyutunu ölçmek",
+      "B) Eşyanın durumuna göre puanlama yapmak",
+      "C) Eşyanın rengini ayarlamak",
+      "D) Eşyanın fiyatını belirlemek"
+    ],
+    "correctAnswer": "B) Eşyanın durumuna göre puanlama yapmak",
+    "tags": [
+      "koleksiyonculuk",
+      "grading",
+      "değerlendirme",
+      "durum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bximii9js",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hobi oyunları (hobby games) bağlamında 'board game' nedir?",
+    "explanation": "'Board game' veya 'masaüstü oyun', ahşap parçalar, tahtalar ve kurallar üzerine oynanan fiziksel oyunlardır. Koleksiyonculuk açısından değerlidir.",
+    "options": [
+      "A) Dijital oyun",
+      "B) Masaüstü oyun",
+      "C) Kart oyunu",
+      "D) Video oyunu"
+    ],
+    "correctAnswer": "B) Masaüstü oyun",
+    "tags": [
+      "hobi oyunları",
+      "board game",
+      "masaüstü",
+      "oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0tvesyi80",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculukta en önemli kriter nedir?",
+    "explanation": "Koleksiyonculukta kalite ve değer, nesnenin zamanla artan değeri ve koleksiyonun bütünlüğü açısından en önemli kriterlerdir.",
+    "options": [
+      "Miktar",
+      "Kalite ve Değer",
+      "Renk",
+      "Fiyat"
+    ],
+    "correctAnswer": "Kalite ve Değer",
+    "tags": [
+      "hobiler",
+      "koleksiyonculuk",
+      "değerlendirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ezgv9o98a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi koleksiyon türü nadir öğeleri bir araya getirmeyi amaçlar?",
+    "explanation": "Nadir koleksiyon, zamanla değer kazanan ve bulması zor nesneleri bir araya getirmeyi amaçlar.",
+    "options": [
+      "Mikro koleksiyon",
+      "Nadir koleksiyon",
+      "Sıradan koleksiyon",
+      "Fütüristik koleksiyon"
+    ],
+    "correctAnswer": "Nadir koleksiyon",
+    "tags": [
+      "koleksiyonculuk",
+      "nadir öğeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v76sxq62k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Koleksiyonculukta 'provenans' nedir?",
+    "explanation": "Provenans, bir nesnenin geçmişteki sahipleri ve yolculuğu hakkında detaylı bilgi demektir.",
+    "options": [
+      "Sahip olması",
+      "Geçmiş sahipleri bilgisi",
+      "Renk tonu",
+      "Yerli üretim"
+    ],
+    "correctAnswer": "Geçmiş sahipleri bilgisi",
+    "tags": [
+      "koleksiyonculuk",
+      "provenans",
+      "tarihsel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wux6du170",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi koleksiyon türü genellikle belirli bir temayı merkez alır?",
+    "explanation": "Tema bazlı koleksiyon, belirli bir konuyu veya temayı merkez alarak nesneleri bir araya getirir.",
+    "options": [
+      "Rastgele koleksiyon",
+      "Tema bazlı koleksiyon",
+      "Fiyat bazlı koleksiyon",
+      "Renk bazlı koleksiyon"
+    ],
+    "correctAnswer": "Tema bazlı koleksiyon",
+    "tags": [
+      "koleksiyonculuk",
+      "tema"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y5bivxyo2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Koleksiyonculukta 'konservasyon' neyi ifade eder?",
+    "explanation": "Konservasyon, koleksiyondaki nesnelerin fiziksel olarak korunması ve uzun ömürlü tutulması için yapılan bakım işlemleridir.",
+    "options": [
+      "Satış işlemi",
+      "Bakım ve koruma",
+      "Yeni öğe ekleme",
+      "Değerlendirme"
+    ],
+    "correctAnswer": "Bakım ve koruma",
+    "tags": [
+      "koleksiyonculuk",
+      "konservasyon",
+      "bakım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dsaqg34mm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculuk hobisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Koleksiyonculuk, belirli bir temayı veya kategoriye sahip eşyaları (madalyalar, pullar, oyuncaklar vb.) düzenli şekilde toplama ve saklama pratiğidir.",
+    "options": [
+      "Sadece pahalı eşyaları toplayarak yapılır",
+      "Benzer veya aynı özelliklere sahip eşyaları düzenli şekilde toplama ve saklama",
+      "Rastgele eşyaları atmaya çalışmak",
+      "Yalnızca dijital oyunlar üzerinden yapılır"
+    ],
+    "correctAnswer": "Benzer veya aynı özelliklere sahip eşyaları düzenli şekilde toplama ve saklama",
+    "tags": [
+      "koleksiyonculuk",
+      "hobiler",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mskm1ollp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi koleksiyon türü genellikle 'pullar' içerir?",
+    "explanation": "Pullar koleksiyonu, farklı ülkelerden veya yıllardan gelen postane pullarını toplayıp saklayan kişilerin ilgi alanıdır.",
+    "options": [
+      "Mevcut pulları toplayanlar",
+      "Sadece dijital pulları sevenler",
+      "Pulları atma pratiği yapanlar",
+      "Pulları çizen sanatçılar"
+    ],
+    "correctAnswer": "Mevcut pulları toplayanlar",
+    "tags": [
+      "pullar",
+      "koleksiyonculuk",
+      "postage stamps"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hy9u84owu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculukta 'eşyaların korunması' neden önemlidir?",
+    "explanation": "Koleksiyonculukta eşyaların doğru şekilde korunması, hem değerlerini korumak hem de uzun süre saklanmasını sağlar.",
+    "options": [
+      "Eşyalar daha değerli ve uzun süre saklanabilir",
+      "Sadece estetik görünüm için",
+      "Gereksiz bir önlem",
+      "Koleksiyonculukta önemsizdir"
+    ],
+    "correctAnswer": "Eşyalar daha değerli ve uzun süre saklanabilir",
+    "tags": [
+      "koruma",
+      "koleksiyonculuk",
+      "bakım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pu3ifkyql",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Hangi koleksiyon türü 'madalyalar' içerir?",
+    "explanation": "Madalya koleksiyonu, spor başarıları, ödül törenleri veya özel etkinliklerle verilen madalyaları toplayıp saklayan kişilerin ilgi alanıdır.",
+    "options": [
+      "Spor veya başarıyla verilen madalyaları toplayanlar",
+      "Sadece altın madalyalar sevenler",
+      "Madalyaları atma pratiği yapanlar",
+      "Koleksiyonculukta önemsizdir"
+    ],
+    "correctAnswer": "Spor veya başarıyla verilen madalyaları toplayanlar",
+    "tags": [
+      "madalyalar",
+      "koleksiyonculuk",
+      "medals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dkgtqkr85",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculuk hobisi başlangıç için en uygun yöntem hangisidir?",
+    "explanation": "Koleksiyonculukta belirli bir konuyu seçip küçük başlayıp zamanla genişletmek, hem maliyet açısından uygun hem de tutku beslemek açısından idealdir.",
+    "options": [
+      "Belirli bir konu seçip küçük başlayıp zamanla genişletmek",
+      "Anında çok büyük paralar harcamak",
+      "Rastgele eşyaları toplamak",
+      "Hiçbir şey yapmadan beklemek"
+    ],
+    "correctAnswer": "Belirli bir konu seçip küçük başlayıp zamanla genişletmek",
+    "tags": [
+      "koleksiyonculuk",
+      "hobiler",
+      "başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wm31rbkzf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculukta en yaygın toplanan eşyalar arasında aşağıdakilerden hangisi bulunmaz?",
+    "explanation": "Gıda ürünleri ve ambalajlar, koleksiyonculukta nadiren toplanır çünkü bozulmaya uğrayabilir, hijyen sorunları yaratabilir ve değer kazanmaz. Mantarlar, banknotlar, madalyalar ve paralar ise yaygın koleksiyon nesneleridir.",
+    "options": [
+      "Mantar ve bitki örnekleri",
+      "Eski banknotlar ve madalyalar",
+      "Gıda ürünleri ve ambalajlar",
+      "Para birimleri ve antika parçalar"
+    ],
+    "correctAnswer": "Gıda ürünleri ve ambalajlar",
+    "tags": [
+      "koleksiyonculuk",
+      "hobi",
+      "toplama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m7vx1sj0i",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculuğun sağladığı başlıca faydalar arasında hangisi yer almaz?",
+    "explanation": "Koleksiyonculuk zihinsel dinlenme, duygusal tatmin ve finansal yatırım potansiyeli sağlar. Ancak fiziksel egzersiz sağlamaz çünkü bu hobi genellikle oturarak yapılır.",
+    "options": [
+      "Zihinsel dinlenme",
+      "Duygusal tatmin",
+      "Finansal yatırım",
+      "Fiziksel egzersiz"
+    ],
+    "correctAnswer": "Fiziksel egzersiz",
+    "tags": [
+      "faydalar",
+      "koleksiyonculuk",
+      "hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6u84dedcy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Bir koleksiyonu başlatırken ilk adım olarak ne yapılmalıdır?",
+    "explanation": "Bir koleksiyonu başlatırken belirli bir tema veya kategori seçmek önemlidir. Bu, toplanacak eşyaları organize eder ve koleksiyonu sürdürülebilir kılar.",
+    "options": [
+      "Eşyayı en pahalı olanlardan toplamak",
+      "Belirli bir tema veya kategori seçmek",
+      "Tüm eşyaları rastgele toplamak",
+      "Hemen değerlendirmek"
+    ],
+    "correctAnswer": "Belirli bir tema veya kategori seçmek",
+    "tags": [
+      "başlangıç",
+      "koleksiyonculuk",
+      "planlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "04hwr1i45",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Koleksiyon nesnelerinin değerini artıran faktörlerden hangisi değildir?",
+    "explanation": "Nadirelik, durum ve tarihsel önem koleksiyon nesnelerinin değerini artırır. Ancak yazılı olmayan ambalaj değer artırmaz; aksine orijinal ambalajın varlığı genellikle daha önemlidir.",
+    "options": [
+      "Nadirelik",
+      "Durum",
+      "Tarihsel önemi",
+      "Yazılı olmayan ambalaj"
+    ],
+    "correctAnswer": "Yazılı olmayan ambalaj",
+    "tags": [
+      "değerlendirme",
+      "koleksiyonculuk",
+      "yatırım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x67i6pwdu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyon eşyalarının saklanması için uygun koşullar arasında hangisi bulunmaz?",
+    "explanation": "Koleksiyon eşyaları yumuşak ışığa maruz bırakılmamalıdır çünkü ışık renkler ve materyalleri zamanla bozar. Nem kontrolü, temiz hava ve düşük sıcaklık ise uygun saklama koşullarıdır.",
+    "options": [
+      "Yumuşak ışık",
+      "Nem kontrolü",
+      "Temiz hava",
+      "Düşük sıcaklık"
+    ],
+    "correctAnswer": "Yumuşak ışık",
+    "tags": [
+      "saklama",
+      "koleksiyonculuk",
+      "bakım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c889g03tj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EASY",
+    "question": "Koleksiyonculuk hobi türünün temel özelliği aşağıdakilerden hangisidir?",
+    "explanation": "Koleksiyonculuk, benzer nesneleri (paralar, postallar, figürler vb.) belirli bir sistemle toplamak ve saklamak anlamına gelir. Temel amaç nesneleri korumak ve düzenli olarak sergilemektir.",
+    "options": [
+      "Tek bir nesneye odaklanmak",
+      "Benzer nesneleri sistemli olarak toplamak ve saklamak",
+      "Nesneleri hemen satmak",
+      "Nesneleri başka insanlarla paylaşmak"
+    ],
+    "correctAnswer": "Benzer nesneleri sistemli olarak toplamak ve saklamak",
+    "tags": [
+      "koleksiyonculuk",
+      "hobiler",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bjxbz61su",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi popüler koleksiyon türlerinden biri değildir?",
+    "explanation": "Mint coin, antik para ve posta kartı koleksiyonları yaygın olarak kabul edilen toplama hobi türleridir. Gıda malzemeleri ise genellikle bozulma riski nedeniyle koleksiyon yapılması uygun olmayan bir kategoridir.",
+    "options": [
+      "Mint coin koleksiyonu",
+      "Antik para koleksiyonu",
+      "Gıda malzemesi koleksiyonu",
+      "Posta kartı koleksiyonu"
+    ],
+    "correctAnswer": "Gıda malzemesi koleksiyonu",
+    "tags": [
+      "koleksiyonculuk",
+      "türler",
+      "popülerlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2a3g0n9aq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Koleksiyonculukta 'kataloglama' neyi ifade eder?",
+    "explanation": "Koleksiyonculukta kataloglama, toplandığı her nesnenin türünü, özelliklerini, menşei bilgisini ve varsa değer bilgilerini kaydetmek demektir. Bu işlem koleksiyonu organize eder.",
+    "options": [
+      "Nesneleri satmak",
+      "Nesnelerin türlerini, özelliklerini ve kaynağını kayıt altına almak",
+      "Nesneleri bozmak",
+      "Nesneleri saklamamak"
+    ],
+    "correctAnswer": "Nesnelerin türlerini, özelliklerini ve kaynağını kayıt altına almak",
+    "tags": [
+      "koleksiyonculuk",
+      "yönetim",
+      "kataloglama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bdijex75o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "GENERAL",
+    "question": "Bir koleksiyonun değerini artırmak için aşağıdakilerden hangisi yapılabilir?",
+    "explanation": "Bir koleksiyonun değeri, nesnelerin orijinal ve bozulmamış durumunu korumakla artar. Bozulma veya zarar görme değer düşüklüğü yaratır.",
+    "options": [
+      "Nesneleri bozarak",
+      "Nesnelerin orijinal durumunu koruyarak",
+      "Nesneleri karışık şekilde saklayarak",
+      "Nesneleri başka insanlarla paylaşarak"
+    ],
+    "correctAnswer": "Nesnelerin orijinal durumunu koruyarak",
+    "tags": [
+      "koleksiyonculuk",
+      "değerlendirme",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d197ch2sn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Koleksiyonculuk",
+    "difficulty": "EXPERT",
+    "question": "Antik numismatik (paralar) koleksiyonculuğunda 'mint markası' neyi gösterir?",
+    "explanation": "Mint markası, paranın hangi para dairesinde (örneğin Türkiye Para Dairesi) basıldığını gösteren işarettir. Bu bilgi koleksiyonculukta nesnenin tarihsel değerini belirlemede önemlidir.",
+    "options": [
+      "Nesnenin kaç adet üretildiğini",
+      "Nesnenin hangi para dairesinde bastığını",
+      "Nesnenin kullanım tarihini",
+      "Nesnenin rengine göre sınıflandırılmasını"
+    ],
+    "correctAnswer": "Nesnenin hangi para dairesinde bastığını",
+    "tags": [
+      "koleksiyonculuk",
+      "numismatik",
+      "mint markası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "f6qq2xqrg",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "DNA yapısında bulunan dört temel nükleotit hangileridir?",
+    "explanation": "DNA'da bulunan dört nükleotit: Aden (A), Timin (T), Guanin (G) ve Sitozin (C)'dir. RNA'da ise Timin yerine Urasil bulunur.",
+    "options": [
+      "Adenin, Timin, Guanin, Sitozin",
+      "Adenin, Urasil, Guanin, Sitozin",
+      "Adenin, Timin, Guanin, Urasil",
+      "Timin, Urasil, Sitozin, Siklat"
+    ],
+    "correctAnswer": "Adenin, Timin, Guanin, Sitozin",
+    "tags": [
+      "Genetik",
+      "DNA",
+      "Nükleotit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nb0yjap10",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Mendel'in genetik yasalarında 'ayrılma yasası' neyi ifade eder?",
+    "explanation": "Mendelin ayrılma yasası, bir bireyin eşey hücrelerinde bulunan alellerin yavruya eşit olasılıkla geçmesini ifade eder.",
+    "options": [
+      "Bireyler iki kromozom seti taşır",
+      "Aynı gen lokusundaki aleller eşit olasılıkla yavruya geçer",
+      "Genler birbirine bağlı olarak kalır",
+      "Fenotip her zaman genotipi yansıtır"
+    ],
+    "correctAnswer": "Aynı gen lokusundaki aleller eşit olasılıkla yavruya geçer",
+    "tags": [
+      "Mendel",
+      "Genetik Yasaları",
+      "Alel Ayrılması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aos1qso5u",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Kromozomal anomalilerden hangisi Down sendromuna neden olur?",
+    "explanation": "Down sendromu, 21. kromozomda trizomi (üçlü) durumuna bağlıdır ve yaklaşık 1000 doğumdan bir görülür.",
+    "options": [
+      "21. kromozomun üçlü olması (Trizomi 21)",
+      "X kromozomunun eksikliği",
+      "5. kromozomun parçasının kaybı",
+      "3. kromozomun fazlalığı"
+    ],
+    "correctAnswer": "21. kromozomun üçlü olması (Trizomi 21)",
+    "tags": [
+      "Kromozom",
+      "Anomali",
+      "Down Sendromu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f6gc2h4dv",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Yapay genetik seçimin temel amacı nedir?",
+    "explanation": "Yapay genetik seçimde, insan müdahalesiyle istenen fenotiplerin yavrularda seçilip nesilden nesile aktarılması hedeflenir.",
+    "options": [
+      "Doğal evrimsel süreci hızlandırmak",
+      "İstenen özelliklerin nesilden nesile aktarılması",
+      "Genetik çeşitliliği artırmak",
+      "Mutasyon oranlarını düşürmek"
+    ],
+    "correctAnswer": "İstenen özelliklerin nesilden nesile aktarılması",
+    "tags": [
+      "Yapay Seçim",
+      "Evrim",
+      "Tarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "seqxysd3s",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Hangi protein DNA'yı koruyarak transkripsiyon düzenlemesinden sorumludur?",
+    "explanation": "Histone proteinleri DNA'yı sarmal yapıya dönüştürerek kromatin oluşturur ve gen ifadesini düzenleme ile transkripsiyonu etkiler.",
+    "options": [
+      "Histone",
+      "Kromatin",
+      "RNA polimeraz",
+      "Ligaz"
+    ],
+    "correctAnswer": "Histone",
+    "tags": [
+      "DNA Yapısı",
+      "Transkripsiyon",
+      "Epigenetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "20ibw9kp3",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "DNA'nın temel birimi nedir?",
+    "explanation": "DNA'nın temel yapı birimi nükleottiddir. Her nükleotid üç kısımdan oluşur: fosfat grubu, şeker (deoksiriboz) ve azotlu baz.",
+    "options": [
+      "Amino asit",
+      "Nukleotid",
+      "Glukoz",
+      "Pepit"
+    ],
+    "correctAnswer": "Nukleotid",
+    "tags": [
+      "DNA",
+      "Moleküler Biyoloji",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q1vlx2zxv",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Mendel'in kalıtım yasaları hangi nesilde ilk kez ortaya çıkar?",
+    "explanation": "Mendel'in kalıtım yasaları F1 neslinde heterozigot bireyler oluşur, ancak fenotip oranları ve baskın/resesif özelliklerin ayrışması F2 nesilinde gözlemlenir.",
+    "options": [
+      "1. Nesil (F1)",
+      "2. Nesil (F2)",
+      "3. Nesil (F3)",
+      "Çaprazlama"
+    ],
+    "correctAnswer": "2. Nesil (F2)",
+    "tags": [
+      "Mendel",
+      "Kalıtım",
+      "Genetik Yasaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "daxs260dh",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Kromozomlar hücre bölünmesi sırasında hangi aşamada en belirgin şekilde görülür?",
+    "explanation": "Metafaz aşamasında kromozomlar hücrenin ekvator düzleminde hizalanır ve en belirgin şekilde mikroskopta gözlemlenebilir hale gelir.",
+    "options": [
+      "İnterfaz",
+      "Profaz",
+      "Metafaz",
+      "Telofaz"
+    ],
+    "correctAnswer": "Metafaz",
+    "tags": [
+      "Hücre Bölünmesi",
+      "Mitoz",
+      "Kromozomlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w6v2jn1j0",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Bir bireyin dış görünüşüne genetik olarak 'fenotip' denir. Aşağıdakilerden hangisi fenotipe örnek olabilir?",
+    "explanation": "Fenotip, bir organizmanın gözlemlenebilir özelliklerini içerir: kan grubu, kulak rengi, göz rengi ve daha birçok fiziksel özellik fenotipe örnektir.",
+    "options": [
+      "Kan grubu",
+      "Kulak rengi",
+      "Göz rengi",
+      "Tüm seçenekler doğru"
+    ],
+    "correctAnswer": "Tüm seçenekler doğru",
+    "tags": [
+      "Fenotip",
+      "Genotip",
+      "Kalıtım Özellikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mvzmgutgu",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "DNA'da adenin (A) hangi baz ile eşleşir?",
+    "explanation": "DNA'da baz eşleşmesi A-T ve G-C olarak gerçekleşir. Adenin her zaman timin ile çift oluşturur (2 hidrojen bağı).",
+    "options": [
+      "Timin (T)",
+      "Guanin (G)",
+      "Sitozin (C)",
+      "Urasil (U)"
+    ],
+    "correctAnswer": "Timin (T)",
+    "tags": [
+      "DNA Yapısı",
+      "Baz Eşleşmesi",
+      "Çift Heliks"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k2l9lz16f",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "Genetik biliminin temel taşı olarak kabul edilen yapı hangisidir?",
+    "explanation": "DNA, genetik bilginin saklandığı ve aktarıldığı temel molekül olup genetik biliminin en önemli yapı taşlarından biridir.",
+    "options": [
+      "Ribozom",
+      "DNA (Deoksiribonükleik Asit)",
+      "RNA (Ribonükleik Asit)",
+      "Lizozom"
+    ],
+    "correctAnswer": "DNA (Deoksiribonükleik Asit)",
+    "tags": [
+      "genetik",
+      "yapı",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5mmkh0szk",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Mendelin kalıtım yasalarına göre, iki heterozigot ebeveyn (Aa x Aa) çiftleştiğinde F1 kuşağında görülebilecek fenotip oranı nedir?",
+    "explanation": "Heterozigot x heterozigot çaprazlamasında (Aa x Aa), fenotip olarak 3 dominant:1 resesif oranı görülür. Genotip oranı ise 1:2:1 şeklindedir.",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "9:3:3:1",
+      "1:1"
+    ],
+    "correctAnswer": "3:1",
+    "tags": [
+      "Mendel",
+      "kalıtım oranları",
+      "heterozigot"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "egtjuk857",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Genetik haritalama sürecinde, genler arasındaki mesafeyi belirlemek için kullanılan temel ölçüm birimi nedir?",
+    "explanation": "Genetik haritalarda genler arası rekombinasyon sıklığına göre mesafe Sentimorgan (cM) cinsinden ifade edilir. 1% rekombinasyon = 1 cM'ye eşittir.",
+    "options": [
+      "Angstrom",
+      "Nanometre",
+      "Sentimorgan (cM)",
+      "Kilobaz"
+    ],
+    "correctAnswer": "Sentimorgan (cM)",
+    "tags": [
+      "genetik haritalama",
+      "ölçüm birimi",
+      "mesafe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xuql0h8b2",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Kromozom anomalileri arasında, bir kromozomun parçasının ters yönde tekrarlanması durumu hangisidir?",
+    "explanation": "İnversiyon, kromozomun bir bölümünün ters yönde tekrarlanması durumudur. Delesiyon silinme, translokasyon farklı kromozoma geçiş, duplikasyon ise bölgenin tekrarıdır.",
+    "options": [
+      "Delesiyon",
+      "Inversiyon",
+      "Translokasyon",
+      "Duplikasyon"
+    ],
+    "correctAnswer": "Inversiyon",
+    "tags": [
+      "kromozom anomalileri",
+      "inversiyon",
+      "kromozom yapıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b8kx5ojs3",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Yapay zeka destekli genetik analizlerde kullanılan CRISPR-Cas9 sisteminin temel işlevi nedir?",
+    "explanation": "CRISPR-Cas9, moleküler makas olarak adlandırılan bir sistemdir. Belirli DNA bölgelerini keserek veya düzenleyerek genetik modifikasyon sağlar.",
+    "options": [
+      "Geni silmek",
+      "Geni kopyalamak",
+      "Geni düzenlemek veya kesmek",
+      "Geni okumak"
+    ],
+    "correctAnswer": "Geni düzenlemek veya kesmek",
+    "tags": [
+      "CRISPR-Cas9",
+      "gen düzenleme",
+      "yapay zeka ve genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3yca9c9jm",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "Kalıtım yasalarına göre, bir bireyin göz rengi gibi özellikleri hangi yapıdan gelir?",
+    "explanation": "Genler, DNA üzerinde bulunan ve biyolojik özellikleri belirleyen birimidir. Genler kromozomların üzerinde bulunur ve kalıtsal özelliklerin taşınmasından sorumludur.",
+    "options": [
+      "Kromozom",
+      "Gen",
+      "DNA",
+      "Ribozom"
+    ],
+    "correctAnswer": "Gen",
+    "tags": [
+      "genetik",
+      "kalıtım",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dfm8ohhh0",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Mendel'in çaprazlama deneylerinde F1 kuşağı nasıl tanımlanır?",
+    "explanation": "Mendelin deneylerinde F1 kuşağı, iki saf soya sahip ebeveynlerin çaprazlanması sonucu ortaya çıkan ve tüm özellikleri baskın olan nesildir.",
+    "options": [
+      "Çift heterozigot",
+      "Tümü homozigot baskın",
+      "Tümü homozigot resesif",
+      "Çiçek rengi farklı"
+    ],
+    "correctAnswer": "Tümü homozigot baskın",
+    "tags": [
+      "mendel",
+      "çaprazlama",
+      "F1 kuşağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pbmuyf62j",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "İnsanlarda çekinlik (recesif) bir gen taşıyan bireyin kromozom yapısında kaç çift vardır?",
+    "explanation": "İnsan hücrelerinde 23 çift (toplam 46 adet) kromozom bulunur. Bu kromozomlar kalıtsal özelliklerin taşınmasından sorumludur.",
+    "options": [
+      "23 çift",
+      "46 çift",
+      "22 çift",
+      "1 çift"
+    ],
+    "correctAnswer": "23 çift",
+    "tags": [
+      "kromozom",
+      "genetik yapı",
+      "insan genetiği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ulbpbk9p",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Hastalıkta anne baba taşıyıcı ise (%Aa), çocuklarının hastalık riski nedir?",
+    "explanation": "İki taşıyıcı (%Aa) ebeveynin çaprazlamasında: AA %25 (sağlıklı), Aa %50 (taşıyıcı), aa %25 (hastalık). Hastalık riski %25'dir.",
+    "options": [
+      "%25",
+      "%50",
+      "%75",
+      "%100"
+    ],
+    "correctAnswer": "%25",
+    "tags": [
+      "genetik hastalıklar",
+      "çaprazlama",
+      "risk hesaplama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "te3pqj191",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "DNA'nın temel yapı birimi olan nükleotit hangi kısımdan oluşur?",
+    "explanation": "Nükleotit, fosfat grubu, şeker (deoksiriboz) ve organik baz (A,T,C,G) içeren DNA'nın temel yapı birimidir.",
+    "options": [
+      "Şeker-Fosfat-Baz",
+      "Protein-Baz-Lipid",
+      "Sadece Fosfat",
+      "Şeker-Sadece Protein"
+    ],
+    "correctAnswer": "Şeker-Fosfat-Baz",
+    "tags": [
+      "DNA yapı",
+      "nükleotit",
+      "moleküler biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dfapkjkjd",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "DNA'nın temel yapı birimi olan nükleotidin üç bileşeninden hangisi yanlış seçilmiştir?",
+    "explanation": "Nükleotidin üç temel bileşeni vardır: Fosfat grubu, Deoksiriboz şekeri ve Azotlu baz. Amino asitler proteinlerin yapı taşlarıdır, DNA'nın yapı birimi değildir.",
+    "options": [
+      "Fosfat grubu",
+      "Şeker (Deoksiriboz)",
+      "Amino asit",
+      "Azotlu baz"
+    ],
+    "correctAnswer": "Amino asit",
+    "tags": [
+      "DNA",
+      "Yapı Birimi",
+      "Nükleotid"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iot8fhqys",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "Mendel'in genetik deneylerinde kullandığı bitki türü hangisidir?",
+    "explanation": "Gregor Mendel genetik kurallarını keşfetmek için 8 yıl boyunca kabakgiller familyasından Lobya (Pisum sativum) bitkisi üzerinde çalışmıştır.",
+    "options": [
+      "Lobya",
+      "Kavun",
+      "Patates",
+      "Buğday"
+    ],
+    "correctAnswer": "Lobya",
+    "tags": [
+      "Mendel",
+      "Genetik Tarih",
+      "Deney Bitkisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rfefzg0nn",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Eukaryotik hücrelerde DNA hangi organelde bulunur?",
+    "explanation": "Eukaryotik hücrelerde ana DNA çekirdekte bulunur. Ancak mitokondri ve kloroplastlarda da kendi DNA moleküllerini barındıran yarı otonom organellerdir.",
+    "options": [
+      "Mitokondri",
+      "Kloroplast",
+      "Çekirdek",
+      "Hepsi"
+    ],
+    "correctAnswer": "Hepsi",
+    "tags": [
+      "Hücre Yapısı",
+      "DNA Lokasyonu",
+      "Organel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0n3v5axtq",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Çekinmeyen kalıtım (kodominant) bir örneği aşağıdakilerden hangisidir?",
+    "explanation": "AB kan grubu, I (A) ve II (B) genlerinin her ikisinin de baskın olarak ifadesinin olduğu kodominant bir durumdur. Hem A hem B antijenleri aynı zaman da ifade edilir.",
+    "options": [
+      "Mavi gözlü anne, kahverengi gözlü baba -> Mavi gözlü çocuk",
+      "AB kan grubu taşıyan ebeveynlerin çocuğu A veya B olabilir",
+      "Kırmızı ve beyaz çiçekli bitki çapra -> Pembe çiçekli çocuk",
+      "Dominant özellik baskın kalır"
+    ],
+    "correctAnswer": "AB kan grubu taşıyan ebeveynlerin çocuğu A veya B olabilir",
+    "tags": [
+      "Kan Grubu",
+      "Kodominans",
+      "Çekinmeyen Kalıtım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h767lz26w",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Bir bireyin sahip olduğu tüm genetik bilgisi ne adlandırılır?",
+    "explanation": "Genotip, bir organizmanın tüm genetik bilgisini (DNA dizilimini) ifade ederken, fenotip bu genlerin çevresel etkilerle ortaya koyduğu fiziksel özelliklerdir.",
+    "options": [
+      "Genotip",
+      "Fenotip",
+      "Alel",
+      "Kromozom"
+    ],
+    "correctAnswer": "Genotip",
+    "tags": [
+      "Temel Kavramlar",
+      "Genetik Terminoloji",
+      "Genotip-Fenotip"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cnsdex9tn",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "DNA'nın temel yapı taşı nedir?",
+    "explanation": "DNA (Deoksiribonükleik asit), nükleotidlerden oluşur. Her nükleotid bir fosfat grubu, bir şeker (deoksiriboz) ve bir azotlu bazdan ibarettir.",
+    "options": [
+      "Nukleotid",
+      "Amino asit",
+      "Monosakkarit",
+      "Lipit"
+    ],
+    "correctAnswer": "Nukleotid",
+    "tags": [
+      "genetik",
+      "dna",
+      "moleküler biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vq76a47g4",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Mendel'in ilk yasası neyi açıklar?",
+    "explanation": "Mendel'in ilk yasası baskın ve çekinik alellerin kalıtımını açıklar. Bir özellikte iki alelden biri baskın, diğeri çekinik olabilir.",
+    "options": [
+      "Kalıtımın bağımsızlığı",
+      "Baskınlık ve çekiniklik",
+      "Genetik rekombinasyon",
+      "Kromozom teorisi"
+    ],
+    "correctAnswer": "Baskınlık ve çekiniklik",
+    "tags": [
+      "genetik",
+      "mendel",
+      "kalıtım yasaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e29relnbp",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Hangi mutasyon tipinde DNA'da baz çiftleri silinir veya eklenir?",
+    "explanation": "Çerçeve kayması mutasyonlarında bir veya birkaç nükleotid silinir/eklenir, bu da tüm aşağıdaki kodlama çerçevesini değiştirir ve genellikle ciddi fenotipik sonuçlar yaratır.",
+    "options": [
+      "Nokta mutasyonu",
+      "Çerçeve kayması mutasyonu",
+      "Silent mutasyonu",
+      "Transkripsiyon hatası"
+    ],
+    "correctAnswer": "Çerçeve kayması mutasyonu",
+    "tags": [
+      "genetik",
+      "mutasyon",
+      "dna yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ly78a1iew",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "RNA'da şeker molekülü ne adlandırılır?",
+    "explanation": "RNA (Ribonükleik asit) moleküllerinde şeker ribozdur. DNA'da ise deoksiriboz bulunur. Bu temel fark RNA'yı DNA'dan ayırır.",
+    "options": [
+      "Deoksiriboz",
+      "Riboz",
+      "Glukoz",
+      "Galaktoz"
+    ],
+    "correctAnswer": "Riboz",
+    "tags": [
+      "genetik",
+      "rna",
+      "nükleik asitler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lzn5n8wcy",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Hangi protein sentezinden sonra genetik kod okunur?",
+    "explanation": "Genetik kod önce transkripsiyon ile RNA'ya kopyalanır, sonra bu RNA şablonu ribozomlarda protein sentezlenir. Transkripsiyon gen ifadesinin ilk aşamasıdır.",
+    "options": [
+      "Transkripsiyon",
+      "Döngüleme",
+      "İnversiyon",
+      "Dejenerasyon"
+    ],
+    "correctAnswer": "Transkripsiyon",
+    "tags": [
+      "genetik",
+      "gen ifadesi",
+      "protein sentezi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3r9gs3j5m",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "DNA'daki bir genin üç nükleotitten oluşan kısmına ne ad verilir?",
+    "explanation": "Bir amino asit kodlayan üç nükleotid dizisine 'kodon' adı verilir. Her kodon spesifik bir amino asidi belirtir.",
+    "options": [
+      "Kodon",
+      "Antikodon",
+      "Tripllet",
+      "Nükleozom"
+    ],
+    "correctAnswer": "Kodon",
+    "tags": [
+      "Genetik",
+      "Moleküler Biyoloji",
+      "DNA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5u3s3gbx0",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "Çift sarmı yapıdaki DNA'nın açılma işleminde hangi bağ kopar?",
+    "explanation": "DNA'nın iki sarmarı arasında hidrojen bağları bulunur. RNA polimeraz gibi enzimler bu bağları kopararak DNA'yı açabilir.",
+    "options": [
+      "Peptid bağı",
+      "Sülfür bağı",
+      "Hidrojen bağı",
+      "Kovalent bağ"
+    ],
+    "correctAnswer": "Hidrojen bağı",
+    "tags": [
+      "Genetik",
+      "DNA Yapısı",
+      "Moleküler Biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8kkvh00ag",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Bir bireyin göz rengini belirleyen genlerdeki farklı versiyonlara ne ad verilir?",
+    "explanation": "Bir genin farklı varyantlarına 'alel' adı verilir. Örneğin, mavi göz ve kahverengi göz alelleri farklı versiyonlardır.",
+    "options": [
+      "Gen",
+      "Lokus",
+      "Alel",
+      "Kromozom"
+    ],
+    "correctAnswer": "Alel",
+    "tags": [
+      "Genetik",
+      "Gen Yapısı",
+      "Evrimsel Biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ao3y4ythu",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Punnett karesinde iki heterozigot bireyin (Aa x Aa)çocuğunun homozigot baskın (AA) olma ihtimali nedir?",
+    "explanation": "Aa x Aa çaprazlamasında genotip oranları: 1 AA : 2 Aa : 1 AA şeklinde olur. Yani 1/4 ihtimal homozigot baskındır.",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "3/4"
+    ],
+    "correctAnswer": "1/4",
+    "tags": [
+      "Genetik",
+      "Mendelcilik",
+      "Punnett Karesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6qnlysarj",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Bir kromozomun uç kısmına ne ad verilir?",
+    "explanation": "Kromozomların uçlarına 'telomer' adı verilen koruyucu bölgeler bulunur. Telomerler kromozomların parçalanmasını engeller.",
+    "options": [
+      "Sentromer",
+      "Telomer",
+      "Kromatit",
+      "Lokus"
+    ],
+    "correctAnswer": "Telomer",
+    "tags": [
+      "Genetik",
+      "Kromozom Yapısı",
+      "Moleküler Biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3c9s0h3ib",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "DNA'nın temel yapı birimi nedir?",
+    "explanation": "DNA'nın temel yapı birimi nükleotiddir. Her nükleotid bir fosfat grubu, pentoz şeker (deoksiriboz) ve organik bazdan oluşur.",
+    "options": [
+      "Nükleotid",
+      "Amino asit",
+      "Monosakkarit",
+      "Lipit"
+    ],
+    "correctAnswer": "Nükleotid",
+    "tags": [
+      "genetik",
+      "dna",
+      "biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "09fumlznu",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Mendel'in çekin genler için kullandığı notasyon nedir?",
+    "explanation": "Mendel'de çekin genler küçük harfle (örn: 'a'), baskın genler büyük harfle (örn: 'A') gösterilir. Bu standart genetik notasyonudur.",
+    "options": [
+      "Büyük harf",
+      "Küçük harf",
+      "Alt çizgili harf",
+      "Yanlış harf"
+    ],
+    "correctAnswer": "Küçük harf",
+    "tags": [
+      "genetik",
+      "mendel",
+      "alel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ii1uwit8o",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Hangi tür mutasyon DNA dizisinde bir baz ekleyerek okuma çerçevesini değiştirir?",
+    "explanation": "Ekleme mutasyonu (insertion) DNA dizisinde yeni bir baz ekler ve okuma çerçevesini kaydırarak tüm sonraki amino asitleri değiştirir.",
+    "options": [
+      "Silme",
+      "Ekleme",
+      "Yer Değiştirme",
+      "Translasyon"
+    ],
+    "correctAnswer": "Ekleme",
+    "tags": [
+      "genetik",
+      "mutasyon",
+      "dna"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9ooi2ynf",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Bir bireyin genotipine göre fenotipi hangi faktöre bağlıdır?",
+    "explanation": "Fenotip hem genetik faktörlerden (genotip) hem de çevresel etkilerden (beslenme, iklim vb.) şekillenir.",
+    "options": [
+      "Sadece genetik",
+      "Genetik + Çevre",
+      "Sadece çevre",
+      "Rastgele"
+    ],
+    "correctAnswer": "Genetik + Çevre",
+    "tags": [
+      "genetik",
+      "fenotip",
+      "genotip"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ud4eog8qo",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "İnsanlarda otozomal dominant bir hastalık için hangi kromozom seti sorumludur?",
+    "explanation": "Otozomal dominant hastalıklar 1-22 numaralı otozomlarda bulunan genlerle ilişkilidir. X ve Y cinsiyet kromozomları için 'cinsiyet bağlı' terimi kullanılır.",
+    "options": [
+      "X ve Y",
+      "1-22 numaralı kromozomlar",
+      "Mitokondriyal DNA",
+      "Ribozomal RNA"
+    ],
+    "correctAnswer": "1-22 numaralı kromozomlar",
+    "tags": [
+      "genetik",
+      "kromozom",
+      "hastalık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "16xj0r9de",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "Genlerin temel işlevi nedir?",
+    "explanation": "Genler, DNA üzerindeki belirli bölgelerdir ve protein sentezi için gerekli talimatları içerir. Diğer seçenekler genlerin doğrudan işlevleriyle ilgili değildir.",
+    "options": [
+      "Protein üretimi için talimatları taşımak",
+      "Hücre bölünmesini kontrol etmek",
+      "DNA'daki ribozu oluşturmak",
+      "Kromozomların şekilini belirlemek"
+    ],
+    "correctAnswer": "Protein üretimi için talimatları taşımak",
+    "tags": [
+      "Gen",
+      "Protein Sentezi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f9yyp0n8i",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Mendel'in deneylerinde F2 kuşağında görülen fenotip oranı hangisidir?",
+    "explanation": "Mendel'in çaprazlama deneylerinde, heterozigot iki birey arasındaki F2 kuşağında dominant ve resesif fenotipler 3:1 oranında ortaya çıkar.",
+    "options": [
+      "1:1",
+      "3:1",
+      "9:3:3:1",
+      "2:1"
+    ],
+    "correctAnswer": "3:1",
+    "tags": [
+      "Mendel Yasası",
+      "Kalıtım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "timf7h11c",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Hangi teknik gen düzenlemesi için kullanılır?",
+    "explanation": "CRISPR-Cas9, DNA'da spesifik bölgeleri keserek gen düzenlemesi yapmayı sağlayan modern bir tekniktir. Diğer seçenekler farklı amaçlar için kullanılır.",
+    "options": [
+      "CRISPR-Cas9",
+      "PCR",
+      "Sıvı Kromatografi",
+      "ELISA"
+    ],
+    "correctAnswer": "CRISPR-Cas9",
+    "tags": [
+      "Gen Düzenleme",
+      "CRISPR-Cas9"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2bk1vfxca",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Genetik hastalıkların oluşmasında rol oynayan faktör nedir?",
+    "explanation": "Genetik hastalıklar genellikle DNA dizisindeki kalıcı değişiklikler (mutasyonlar) sonucu ortaya çıkar. Diğer faktörler farklı hastalık tipleriyle ilişkilidir.",
+    "options": [
+      "DNA'daki mutasyonlar",
+      "Kromozom sayısı",
+      "Hücre zarı yapısı",
+      "Mitokondri fonksiyonu"
+    ],
+    "correctAnswer": "DNA'daki mutasyonlar",
+    "tags": [
+      "Mutasyon",
+      "Genetik Hastalıklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ctymcnqv",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "Genlerin bulunduğu yapı hangisidir?",
+    "explanation": "Genler, DNA molekülünün kromozom adı verilen yapılara organize edildiği hücre çekirdeğinde bulunur. Ribozomlar protein sentezi yapar, mitokondri enerji üretir.",
+    "options": [
+      "Kromozom",
+      "Ribozom",
+      "Mitokondri",
+      "Çekirdek"
+    ],
+    "correctAnswer": "Kromozom",
+    "tags": [
+      "Kromozom",
+      "Gen Lokasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hdknjmsx8",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EASY",
+    "question": "DNA'nın temel yapı birimi ne olarak adlandırılır?",
+    "explanation": "DNA'nın yapısal birimi nükleotiddir. Her nükleotid üç bileşenden oluşur: fosfat grubu, şeker (deoksiriboz) ve azotlu baza (A, T, G, C).",
+    "options": [
+      "Nükleotid",
+      "Amino asit",
+      "Lipit",
+      "Karbonhidrat"
+    ],
+    "correctAnswer": "Nükleotid",
+    "tags": [
+      "DNA",
+      "Moleküler Biyoloji",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8lifxaay3",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "Mendel'in genetik kanunlarından hangisi 'baskın' ve 'çekin' allel ilişkisini açıklar?",
+    "explanation": "2. Mendel Kanunu (Ayrılış Kanunu), baskın ve çekin allellerin heterozigot bireylerde nasıl ortaya çıktığını açıklar. Baskın allel, çekin alelli yok eder.",
+    "options": [
+      "1. Mendel Kanunu",
+      "2. Mendel Kanunu",
+      "3. Mendel Kanunu",
+      "4. Mendel Kanunu"
+    ],
+    "correctAnswer": "2. Mendel Kanunu",
+    "tags": [
+      "Mendel Genetiği",
+      "Baskın Çekin İlişki",
+      "Alleller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "us6izcyrj",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Kromozomlardaki gen sıralaması neden önemlidir?",
+    "explanation": "Kromozomlardaki gen sıralaması, genetik haritalama için kritik öneme sahiptir. Bu bilgi, hastalıkların kalıtımını ve DNA analizi çalışmalarında kullanılır.",
+    "options": [
+      "Genlerin işlevini belirler",
+      "Genetik haritalama yapılmasına olanak tanır",
+      "Protein sentezini kontrol eder",
+      "Hücre bölünmesini sağlar"
+    ],
+    "correctAnswer": "Genetik haritalama yapılmasına olanak tanır",
+    "tags": [
+      "Kromozomlar",
+      "Genetik Haritalama",
+      "Moleküler Genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b5s3841ez",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "GENERAL",
+    "question": "\"Homozigot\" bireyler nasıl tanımlanır?",
+    "explanation": "Homozigot bireyler, aynı gen için her iki alelin de aynı olmasından (AA veya aa) kaynaklanır. Heterozigot ise farklı allellere (Aa) sahiptir.",
+    "options": [
+      "Her iki alel farklıdır",
+      "Her iki alel aynıdır",
+      "Bir alleli yoktur",
+      "Kromozom sayısı azdır"
+    ],
+    "correctAnswer": "Her iki alel aynıdır",
+    "tags": [
+      "Genotip",
+      "Aleller",
+      "Kromozomlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iecbkzbk7",
+    "category": "BİLİM",
+    "subcategory": "Genetik",
+    "difficulty": "EXPERT",
+    "question": "Hangi genetik hastalık 'çekin resesif' kalıtım paternini gösterir?",
+    "explanation": "Hemofili, Sindiremi ve Kistik Fibrozis gibi birçok genetik hastalık çekin resesif kalıtım paternini gösterir. Bireyde hastalık görülebilmesi için iki çekin alelin bulunması gerekir.",
+    "options": [
+      "Hemofili",
+      "Sindiremi",
+      "Kistik Fibrozis",
+      "Tüm A ve C"
+    ],
+    "correctAnswer": "Tüm A ve C",
+    "tags": [
+      "Genetik Hastalıklar",
+      "Çekin Resesif",
+      "Kalıtım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

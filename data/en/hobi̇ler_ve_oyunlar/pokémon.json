@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "vt8zj0tox",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi türde bulunan Gengar, zayıf olduğu için Ghost ve Poison türlerine karşı ekstra hasar alır?",
+    "explanation": "Gengar Ghost ve Poison türündedir. Her iki tür de Ghost ve Poison'a karşı ekstra hasar alır, Normal türü ise zayıf değildir.",
+    "options": [
+      "Normal",
+      "Ghost",
+      "Fire",
+      "Electric"
+    ],
+    "correctAnswer": "Ghost",
+    "tags": [
+      "Pokémon Türleri",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qop1cwucb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Pokémon, 'The Legendary Beast' olarak bilinir ve üç farklı versiyonu (Lugia, Ho-Oh, Mewtwo) vardır?",
+    "explanation": "Lugia, Johto bölgesindeki 'Beast' olarak bilinir ve üç farklı versiyonu vardır: Lugia (Güney), Ho-Oh (Doğu), Mewtwo (Kuzey).",
+    "options": [
+      "Mew",
+      "Raikou",
+      "Lugia",
+      "Kyogre"
+    ],
+    "correctAnswer": "Lugia",
+    "tags": [
+      "Legendary Pokémon",
+      "Karanlık Alanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eqsdb7403",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EASY",
+    "question": "Hangi Pokémon, 'The Chosen One' olarak kabul edilir ve Ash Ketchum'un en yakın arkadaşıdır?",
+    "explanation": "Pikachu, Ash'in ilk ve en yakın arkadaş Pokemonudur. Tüm anime serilerinde onunla birlikte yarışır.",
+    "options": [
+      "Pikachu",
+      "Charizard",
+      "Eevee",
+      "Squirtle"
+    ],
+    "correctAnswer": "Pikachu",
+    "tags": [
+      "Ash Ketchum",
+      "Ana Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zk9a7zv2t",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Kahverengi tüylü ve 'The Beast' olarak bilinen Pokémon hangisidir?",
+    "explanation": "Arcanine, 'The Beast' olarak bilinir ve kahverengi tüylüdür. Fire türündedir.",
+    "options": [
+      "Machamp",
+      "Gengar",
+      "Arcanine",
+      "Raticate"
+    ],
+    "correctAnswer": "Arcanine",
+    "tags": [
+      "Pokémon Türleri",
+      "Karanlık Alanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vbkg20yay",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon, 'The Legendary Bird' olarak kabul edilir ve kırmızı-turuncu renklerle tanınır?",
+    "explanation": "Moltres, 'The Legendary Bird' olarak bilinir ve kırmızı-turuncu renklidir. Fire türündedir.",
+    "options": [
+      "Articuno",
+      "Moltres",
+      "Zapdos",
+      "Ho-Oh"
+    ],
+    "correctAnswer": "Moltres",
+    "tags": [
+      "Legendary Bird",
+      "Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "58m9bu8pj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon türü 'Normal' ve 'Elektrik' özelliklerine sahiptir?",
+    "explanation": "Raichu, Normal ve Elektrik türlerine sahip bir Pokémon'dur. Pikachu da aynı türlere sahiptir ancak Raichu daha gelişmiş versiyondur.",
+    "options": [
+      "Pikachu",
+      "Raichu",
+      "Jolteon",
+      "Eevee"
+    ],
+    "correctAnswer": "Raichu",
+    "tags": [
+      "Pokémon",
+      "Özellikler",
+      "Elektrik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m685v0qul",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EASY",
+    "question": "Kırmızı, Mavi ve Sarı Pokémon oyunlarının hangisinde ilk kez çıkış yapmıştır?",
+    "explanation": "Özel kırmızı ve mavi Pokémon oyunları 1996 yılında Gen III nesli için tasarlanmıştır. Bu oyunlar ilk kez Nintendo Game Boy'da yayınlanmıştır.",
+    "options": [
+      "Pokémon Altın Kalp",
+      "Pokémon Gümüş Diş",
+      "Pokémon Kırmızı/Mavi/Yeşil",
+      "Pokémon X"
+    ],
+    "correctAnswer": "Pokémon Kırmızı/Mavi/Yeşil",
+    "tags": [
+      "Oyunlar",
+      "Klasik",
+      "Altın Kalp"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jej3asqst",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon 'Çok Zayıf' (HP) değerine sahiptir?",
+    "explanation": "Caterpie, Bug türünde bir Pokémon'dur ve HP istatistiği oldukça düşüktür. Bu nedenle zayıf bir başlangıç Pokémon'ıdır.",
+    "options": [
+      "Charizard",
+      "Blastoise",
+      "Caterpie",
+      "Pidgey"
+    ],
+    "correctAnswer": "Caterpie",
+    "tags": [
+      "Pokémon",
+      "İstatistikler",
+      "Bug"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ughhq301i",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Pokémon 'Karanlık' ve 'Zehirli' türlerine sahiptir?",
+    "explanation": "Weezing, Karanlık ve Zehirli türlerine sahip bir Pokémon'dur. Bu kombinasyon diğerlerinden farklıdır.",
+    "options": [
+      "Gengar",
+      "Weezing",
+      "Misdreavus",
+      "Umbreon"
+    ],
+    "correctAnswer": "Weezing",
+    "tags": [
+      "Pokémon",
+      "Türler",
+      "Karanlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mybc1c77k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon 'Yıldız' (Star) formuna sahiptir?",
+    "explanation": "Starmie, Staryu'nun evrimi olarak Su ve Yıldız türlerine sahiptir. Bu Pokémon Star formuna sahip bir Pokémon'dur.",
+    "options": [
+      "Starmie",
+      "Staryu",
+      "Shiny Star",
+      "Staraptor"
+    ],
+    "correctAnswer": "Starmie",
+    "tags": [
+      "Pokémon",
+      "Formlar",
+      "Su"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b75uelv0h",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EASY",
+    "question": "Pokémon oyunlarında bir Pokémon'ı yakalamak için hangi eylemi gerçekleştirmelisiniz?",
+    "explanation": "Pokémon oyunlarında düşman Pokémon'ları yakalamak için oyuncu Pokeball kullanır ve onu fırlatır. Başarı oranı Pokémon'ın sağlık durumu, zafiyetleri gibi faktörlere bağlıdır.",
+    "options": [
+      "Zamanlama sistemi",
+      "Beyin gücü artırma",
+      "Pokeball fırlatma",
+      "Stamina artırma"
+    ],
+    "correctAnswer": "Pokeball fırlatma",
+    "tags": [
+      "Pokémon",
+      "Oyun Mekanikleri",
+      "Yakalama Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oclg3w4ye",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon türü su elementine karşı en fazla saldırma avantajına sahiptir?",
+    "explanation": "Elektrik tip Pokémon'lar su tip Pokémon'lara karşı 2x saldırı avantajına sahiptir. Bu, Pokemon savaş sistemini temel oluşturan tür etkileşimlerinden biridir.",
+    "options": [
+      "Ateş",
+      "Nehir/Toprak",
+      "Elektrik",
+      "Uzay"
+    ],
+    "correctAnswer": "Elektrik",
+    "tags": [
+      "Pokémon",
+      "Türler",
+      "Saldırı Avantajları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dtjr6jixj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Legendary Pokémon, Kanto bölgesinde bulunur ve 'Ho-Oh' ile birlikte bir başka önemli yaratık mıdır?",
+    "explanation": "Mewtwo, Kanto bölgesinin en ünlü Legendary Pokémon'larından biridir. Ho-Oh ise Johto ve Beyond地区的 Legendary yaratıktır.",
+    "options": [
+      "Mewtwo",
+      "Groudon",
+      "Rayquaza",
+      "Kyogre"
+    ],
+    "correctAnswer": "Mewtwo",
+    "tags": [
+      "Pokémon",
+      "Legendary",
+      "Kanto Bölgesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gek9zmruf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Pokémon'un ilk oyunu ne zaman piyasaya sürüldü?",
+    "explanation": "Pokémon Red ve Blue ilk oyunlar 1996 yılında Japonya'da, daha sonra diğer bölgelerde piyasaya sürüldü. Bu, franchise'in başlangıcıdır.",
+    "options": [
+      "1996",
+      "2000",
+      "2005",
+      "2010"
+    ],
+    "correctAnswer": "1996",
+    "tags": [
+      "Pokémon",
+      "Franchise Tarihçesi",
+      "Oyun Mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vomc2jpm8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EASY",
+    "question": "Hangi Pokémon tipi 'Ghost' olarak bilinen türdür?",
+    "explanation": "Ghost tipi, Pokemon savaşlarında zombi ve hayalet temalı özelliklere sahiptir. Bu tip genellikle psionik ve ruhani güçlerle ilişkilendirilir.",
+    "options": [
+      "Hayalet",
+      "Zombi",
+      "Ruh",
+      "Karanlık"
+    ],
+    "correctAnswer": "Hayalet",
+    "tags": [
+      "Pokémon",
+      "Türler",
+      "Ghost Pokémon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ku4l663j3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon türü 'Kartiv' (Fighting) ve 'Normal' türlerini bir arada barındırır?",
+    "explanation": "Medicham, Kartiv (Fighting) ve Normal türlerini bir arada barındırır. Bu da ona Machamp ve Hariyama'dan farklı zayıf noktaları sağlar.",
+    "options": [
+      "Machamp",
+      "Hariyama",
+      "Medicham",
+      "Lucario"
+    ],
+    "correctAnswer": "Medicham",
+    "tags": [
+      "tür-ekonomisi",
+      "zayıf-takım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bhgapfoex",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Pokémon Gensinin ilk oyununda hangi Pokémon 'Zehir' (Poison) ve 'Kartiv' (Fighting) türlerini bir arada taşır?",
+    "explanation": "Arbok, Zehir (Poison) ve Kartiv (Fighting) türlerini bir arada taşır. Bu kombinasyon ona su ve uçan Pokémonlardan zayıf noktalar yaratır.",
+    "options": [
+      "Arbok",
+      "Machop",
+      "Ekans",
+      "Scyther"
+    ],
+    "correctAnswer": "Arbok",
+    "tags": [
+      "tür-ekonomisi",
+      "ilk-gen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxj67ex5c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Pokémon 'Uçan' (Flying) ve 'Zehir' (Poison) türlerini bir arada barındırır?",
+    "explanation": "Crobat, Uçan (Flying) ve Zehir (Poison) türlerini bir arada taşır. Bu kombinasyon ona su, toprak, kartiv, zehir, buz ve uçan Pokémonlardan zayıf noktalar yaratır.",
+    "options": [
+      "Pidgeot",
+      "Aerodactyl",
+      "Gyarados",
+      "Crobat"
+    ],
+    "correctAnswer": "Crobat",
+    "tags": [
+      "tür-ekonomisi",
+      "gen-2"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dxuen5abn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Pokémon 'Kartiv' (Fighting) ve 'Normal' türlerini bir arada barındırır?",
+    "explanation": "Machamp, Kartiv (Fighting) ve Normal türlerini bir arada barındırır. Bu kombinasyon ona uçan, buz, zehir ve psikotik Pokémonlardan zayıf noktalar yaratır.",
+    "options": [
+      "Machamp",
+      "Hariyama",
+      "Medicham",
+      "Lucario"
+    ],
+    "correctAnswer": "Machamp",
+    "tags": [
+      "tür-ekonomisi",
+      "gen-1"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "692e7a3a1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon 'Su' (Water) ve 'Uçan' (Flying) türlerini bir arada barındırır?",
+    "explanation": "Pelipper, Su (Water) ve Uçan (Flying) türlerini bir arada barındırır. Bu kombinasyon ona elektrik, uçan, toprak ve buz Pokémonlarından zayıf noktalar yaratır.",
+    "options": [
+      "Pidgeot",
+      "Starmie",
+      "Pelipper",
+      "Gyarados"
+    ],
+    "correctAnswer": "Pelipper",
+    "tags": [
+      "tür-ekonomisi",
+      "gen-3"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6yyoreswx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon türü su ve çakıl taşları elementine sahiptir?",
+    "explanation": "Gyarados su elementine ek olarak çakıl taşları (ground) elementini de paylaşır ve bu oniki Pokémon türü arasında nadir görülür.",
+    "options": [
+      "Pikachu",
+      "Mewtwo",
+      "Gyarados",
+      "Eevee"
+    ],
+    "correctAnswer": "Gyarados",
+    "tags": [
+      "Pokémon",
+      "Türler",
+      "Elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "en96oenzj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Kırmızı kapsül hangi nesilde tanıtıldı?",
+    "explanation": "Kırmızı kapsül (Red Capsule) Pokémon Scarlet ve Violet'ta 3. Nesil ile birlikte tanıtıldı.",
+    "options": [
+      "1. Nesil",
+      "2. Nesil",
+      "3. Nesil",
+      "4. Nesil"
+    ],
+    "correctAnswer": "3. Nesil",
+    "tags": [
+      "Pokémon",
+      "Kapsüller",
+      "Nesiller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8nq6c6ume",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EASY",
+    "question": "Hangi Pokémon 'sürpriz' elementine sahiptir?",
+    "explanation": "Surfing kelimesi Türkçe'de 'surf' anlamına gelir ve Pokémon elementleri arasında yer alır.",
+    "options": [
+      "Surfing",
+      "Surprise",
+      "Splash",
+      "Surfer"
+    ],
+    "correctAnswer": "Surfing",
+    "tags": [
+      "Pokémon",
+      "Elementler",
+      "İsimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "umbn7g5t0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Mewturun ikinci formu hangi elementlere sahiptir?",
+    "explanation": "Mewturun ikinci formu (Aegislash) Çim elementine sahiptir ve bu nadir bir kombinasyondur.",
+    "options": [
+      "Su",
+      "Ateş",
+      "Çim",
+      "Uzay"
+    ],
+    "correctAnswer": "Çim",
+    "tags": [
+      "Pokémon",
+      "Mewtwo",
+      "Elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w5ezffgfd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon 'elektrik' ve 'çakıl taşları' elementine sahiptir?",
+    "explanation": "Raikou elektrik elementini ana olarak taşır ve bazı formlarda çakıl taşları elementine de eklenir.",
+    "options": [
+      "Raikou",
+      "Manectric",
+      "Zapdos",
+      "Ampharos"
+    ],
+    "correctAnswer": "Raikou",
+    "tags": [
+      "Pokémon",
+      "Elementler",
+      "Legendariler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g36yf7cra",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Pokémon'un hangi türü 'Hız' istatistiğini en yüksek tutar?",
+    "explanation": "Elektrik türü Pokémon'lar genellikle yüksek hıza sahip olurlar ve hızlı hareket ederler. Örneğin, Pikaçun hız statüsü çok yüksektir.",
+    "options": [
+      "Eski Tür",
+      "Su Tür",
+      "Elektrik Tür",
+      "Zehirli Tür"
+    ],
+    "correctAnswer": "Elektrik Tür",
+    "tags": [
+      "Pokémon",
+      "İstatistikler",
+      "Türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nj9v15m75",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon 'Shadow Ball' saldırısını kullanabilir?",
+    "explanation": "Gengar, Zehirli türü olan ve Shadow Ball saldırısını kullanabilen çok popüler bir Pokémon karakteridir.",
+    "options": [
+      "Pikachu",
+      "Gengar",
+      "Charmander",
+      "Bulbasaur"
+    ],
+    "correctAnswer": "Gengar",
+    "tags": [
+      "Pokémon",
+      "Saldarilar",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kqzaxrrud",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Pokémon 'Kamuflaj' yeteneğine sahiptir?",
+    "explanation": "Meowth, Zehirli türü olan ve 'Kamuflaj' yeteneğine sahip Pokémon karakteridir. Bu yetenek onun gizlenme yeteneğini artırır.",
+    "options": [
+      "Meowth",
+      "Pikachu",
+      "Eevee",
+      "Zapdos"
+    ],
+    "correctAnswer": "Meowth",
+    "tags": [
+      "Pokémon",
+      "Yetenekler",
+      "İstatistikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qv8mjtyjk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Pokémon 'Dragon Dance' saldırısını kullanabilir?",
+    "explanation": "Gyarados, Su/Türü olan ve Dragon Dance saldırısını kullanabilen güçlü bir Pokémon'dur. Bu saldırı hem hıza hem de güce artırım sağlar.",
+    "options": [
+      "Gyarados",
+      "Charizard",
+      "Pikachu",
+      "Venusaur"
+    ],
+    "correctAnswer": "Gyarados",
+    "tags": [
+      "Pokémon",
+      "Saldarilar",
+      "Stratejiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5y7vj9cza",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon 'Water Gun' yeteneğine sahiptir?",
+    "explanation": "Psyduck, Su türü olan ve Water Gun yeteneğine sahip Pokémon'dur. Bu yetenek su saldırılarını güçlendirir.",
+    "options": [
+      "Psyduck",
+      "Pikachu",
+      "Charmander",
+      "Eevee"
+    ],
+    "correctAnswer": "Psyduck",
+    "tags": [
+      "Pokémon",
+      "Yetenekler",
+      "Su Türü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "492fafrif",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon türü 'Normal' ve 'Buz' elementlerini bir arada taşır?",
+    "explanation": "Lapras, Normal ve Buz elementlerini bir arada taşır. Diğer seçeneklerdeki Pokémon'lar farklı element kombinasyonlarına sahiptir.",
+    "options": [
+      "Jynx",
+      "Mr. Mime",
+      "Snorlax",
+      "Lapras"
+    ],
+    "correctAnswer": "Lapras",
+    "tags": [
+      "Pokémon",
+      "Elementler",
+      "Tür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4yo2b0y4l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Eevee'nin 'İvysaur'a dönüşmesi mümkün müdür?",
+    "explanation": "Eevee'nin genetiği özel şekilde ayarlanmıştır ve sadece Eeveevolution'lar (Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon) dönüşebilir.",
+    "options": [
+      "Hayır, Eevee sadece Eeveelution'lara dönüşebilir",
+      "Evet, doğru taşla dönüşebilir",
+      "Sadece evde mümkündür",
+      "Eevee asla değişim yapamaz"
+    ],
+    "correctAnswer": "Hayır, Eevee sadece Eeveelution'lara dönüşebilir",
+    "tags": [
+      "Eevee",
+      "Dönüşüm",
+      "Genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xjdjh2bjh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon 'Shadow Pokémon' olarak bilinir?",
+    "explanation": "Gengar, Shadow Pokémon olarak bilinen özel bir versiyondur. Diğer seçenekler farklı özelliklere sahiptir.",
+    "options": [
+      "Gengar",
+      "Meowscarada",
+      "Sylveon",
+      "Zacian"
+    ],
+    "correctAnswer": "Gengar",
+    "tags": [
+      "Shadow Pokémon",
+      "Özel Özellik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mhjoowv87",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Pikachu'nun 'Mega Evolution' yapabilir mi?",
+    "explanation": "Pikachu'nun resmi olarak Mega Evolution özelliği yoktur. Bu özellik sadece belirli Pokémon'lara ayrılmıştır.",
+    "options": [
+      "Evet, doğru taşla",
+      "Hayır, Pikachu Mega Evolution yapamaz",
+      "Sadece evde",
+      "Zamanı geldiğinde"
+    ],
+    "correctAnswer": "Hayır, Pikachu Mega Evolution yapamaz",
+    "tags": [
+      "Pikachu",
+      "Mega Evolution"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rke8ydmsc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon 'Legendary' (Efsanevi) kategorisinde yer alır?",
+    "explanation": "Rayquaza, Efsanevi (Legendary) kategorisinde yer alan güçlü bir Hoopa'dır. Diğer seçenekler normal veya semi-efsanevi Pokémon'lardır.",
+    "options": [
+      "Pidgey",
+      "Gyarados",
+      "Rayquaza",
+      "Squirtle"
+    ],
+    "correctAnswer": "Rayquaza",
+    "tags": [
+      "Legendary",
+      "Efsanevi Pokémon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kivyo50w5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EASY",
+    "question": "Hangi Pokémon türü 'Su' ve 'Uçan' türü birleştirerek hem su hem de uçma özelliklerini taşır?",
+    "explanation": "Golduck, Psyduck'un sualtı gelişim evresidir ve hem 'Su' hem de 'Uçan' türü özelliklerini taşır.",
+    "options": [
+      "Psyduck",
+      "Golduck",
+      "Mudkip",
+      "Swablu"
+    ],
+    "correctAnswer": "Golduck",
+    "tags": [
+      "Pokémon",
+      "Su",
+      "Uçan",
+      "Türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2j10czutq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon, en yüksek zeki (HP) değerine sahip olanlardan biridir?",
+    "explanation": "Wailord, Pokémon'un en yüksek zeki HP değerine sahip olanlardan biridir ve su türüdür.",
+    "options": [
+      "Wailord",
+      "Chansey",
+      "Slaking",
+      "Arceus"
+    ],
+    "correctAnswer": "Wailord",
+    "tags": [
+      "Pokémon",
+      "HP",
+      "Zeki",
+      "İstatler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p6msw3nrx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon, 'Efsanevi' Pokémon olarak sınıflandırılır?",
+    "explanation": "Mewtwo, Kanto bölgesindeki efsanevi Pokémonlardan biridir ve insan yapımı DNA kombinasyonundan oluşur.",
+    "options": [
+      "Mewtwo",
+      "Rayquaza",
+      "Lugia",
+      "Dialga"
+    ],
+    "correctAnswer": "Mewtwo",
+    "tags": [
+      "Pokémon",
+      "Efsanevi",
+      "Sınıflandırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w9jcb34ex",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon türü 'Karanlık' ve 'Uçan' türü birleştirerek karanlık ve uçma özelliklerini taşır?",
+    "explanation": "Murkrow, 'Karanlık' ve 'Uçan' türü birleştirerek hem karanlık hem de uçma özelliklerini taşır.",
+    "options": [
+      "Drowzee",
+      "Hypno",
+      "Murkrow",
+      "Honchkrow"
+    ],
+    "correctAnswer": "Murkrow",
+    "tags": [
+      "Pokémon",
+      "Karanlık",
+      "Uçan",
+      "Türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "82v390i0v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Pokémon, 'Japon Efsanevi' olarak kabul edilir?",
+    "explanation": "Mew, Japon efsanevi Pokémon olarak kabul edilir ve sadece sualtı evresi olan 'Meltan' ile ilişkilidir.",
+    "options": [
+      "Mew",
+      "Ho-Oh",
+      "Lugia",
+      "Celebi"
+    ],
+    "correctAnswer": "Mew",
+    "tags": [
+      "Pokémon",
+      "Japon",
+      "Efsanevi",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iqsbxm0rm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EASY",
+    "question": "Kanto Bölgesi'nde Pokémon Trainer'ı olan ve Red, Green ve Blue oyunlarıyla ünlü ana karakterin adı nedir?",
+    "explanation": "Green, Kanto Bölgesi'ndeki ana karakter ve Red, Green, Blue oyunlarının protagonistidir. Ash (Satoshi) ise Johto bölgesindeki karakterdir.",
+    "options": [
+      "Ash",
+      "Squirtle",
+      "Brock",
+      "Green"
+    ],
+    "correctAnswer": "Green",
+    "tags": [
+      "pokemon",
+      "kanto",
+      "characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a2i87frfl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Pokémon'un ilk evrimizasyonunun gerekli olduğu ve 'Starter Pokémon' olarak bilinen üçüncü nesil başlangıç Pokémonlarından hangisi değildir?",
+    "explanation": "Torchic, Chimchar ve Piplup farklı nesillerin starter Pokémonlarıdır. Eevee ise evrim yeteneğine sahip özel bir Pokémondur ancak starter değildir.",
+    "options": [
+      "Torchic",
+      "Chimchar",
+      "Piplup",
+      "Eevee"
+    ],
+    "correctAnswer": "Eevee",
+    "tags": [
+      "pokemon",
+      "evolution",
+      "starter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jbau0054h",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Legendary (Efsanevi) Pokémon kategorisinde olmayan ve 'Artificial' olarak bilinen yaratılan Pokémon hangisidir?",
+    "explanation": "Mewtwo, Mew'nün DNA'sı kullanılarak laboratuvar ortamında yaratılmış efsanevi Pokémondur. Celebi ve Arceus doğadan gelen efsanevi Pokémonlardır.",
+    "options": [
+      "Mewtwo",
+      "Celebi",
+      "Regigigas",
+      "Arceus"
+    ],
+    "correctAnswer": "Mewtwo",
+    "tags": [
+      "pokemon",
+      "legendary",
+      "artificial"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tci254ej1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Pokémon'un 'Teraform' özelliği ile ilgili olarak, hangisi doğru bir bilgi?",
+    "explanation": "Ultra Beast Pokémonları, Teraform özelliği ile alakalıdır ve özel bir formda bulunabilirler. Bu özellik belirli Ultra Beast türlerine aittir.",
+    "options": [
+      "Herhangi bir Pokémon teraform yapabilir",
+      "Sadece Ultra Beast Pokémonları teraform olur",
+      "Teraform sadece belirli türde Pokémonlar için geçerlidir",
+      "Teraform 2019'dan önce vardı"
+    ],
+    "correctAnswer": "Sadece Ultra Beast Pokémonları teraform olur",
+    "tags": [
+      "pokemon",
+      "special-features",
+      "ultra-beast"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8tudvrfgx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EASY",
+    "question": "'Gyarados' evrimizasyonu için hangi Pokémon gerekir ve Hangi bölgeye ait?",
+    "explanation": "Gyarados, Kanto Bölgesi'ne ait ve Magikarp Pokémonu 16 kez seviye atınca evrilerek ortaya çıkar. Gyarados güçlü bir su tipi Pokémondur.",
+    "options": [
+      "Magikarp / Kanto",
+      "Wailmer / Johto",
+      "Mudkip / Hoenn",
+      "Poochyena / Hoenn"
+    ],
+    "correctAnswer": "Magikarp / Kanto",
+    "tags": [
+      "pokemon",
+      "evolution",
+      "kanto"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l581on0y8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Pokémon serisinin resmi bayrağı Pikachu olan oyunun ilk çıkış yılı nedir?",
+    "explanation": "Pokémon Red ve Blue oyunları 1998 yılında Japonya'da piyasaya sürüldü ve Pikachu bu oyunların bayrağı olarak kullanıldı.",
+    "options": [
+      "1996",
+      "1998",
+      "2000",
+      "2002"
+    ],
+    "correctAnswer": "1998",
+    "tags": [
+      "pokémon",
+      "tarih",
+      "piçabuş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nmhe29l59",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi Pokémon, Kanto bölgesinin en meşhur efsanevi Pokémon'ıdır?",
+    "explanation": "Mewtwo, Kanto bölgesi ile en çok bilinen ve Pokémon serisinin bayrağı olarak kabul edilen efsanevi Pokémon'ıdır.",
+    "options": [
+      "Mewtwo",
+      "Arceus",
+      "Dialga",
+      "Ho-Oh"
+    ],
+    "correctAnswer": "Mewtwo",
+    "tags": [
+      "pokémon",
+      "efsanevi",
+      "kanto"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w3zw4ckxa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Pokémon Bayrakları arasında 'Bayraklı' (Eksik) olan hangisidir?",
+    "explanation": "Bayraklı, Pokémon Bayrakları arasında bayrağı olmayan ve özel özelliklere sahip olan bir karakter grubudur.",
+    "options": [
+      "Bayrak",
+      "Bayraklı",
+      "Bayrakçı",
+      "Bayrakçıl"
+    ],
+    "correctAnswer": "Bayraklı",
+    "tags": [
+      "pokémon",
+      "karakterler",
+      "bayrak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o4s4pc8ci",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyun, Pokémon serisinin ilk ikinci jenerasyon (Johto) oyununu temsil eder?",
+    "explanation": "Pokémon Crystal, Johto bölgesi için geliştirilmiş ve serinin ikinci jenerasyon oyunlarından biridir.",
+    "options": [
+      "Pokémon Gold",
+      "Pokémon Silver",
+      "Pokémon Crystal",
+      "Tümü"
+    ],
+    "correctAnswer": "Pokémon Crystal",
+    "tags": [
+      "pokémon",
+      "jenerasyon",
+      "johto"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b6yd7kty3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Pokémon",
+    "difficulty": "EXPERT",
+    "question": "Hangi Pokémon, 'Bayraklı' (Eksik) olan bir karakter grubuna ait değildir?",
+    "explanation": "Mewtwo, efsanevi bir Pokémon olup Bayraklı (Eksik) karakter grubuna değil, efsanevi Pokémon kategorisine aittir.",
+    "options": [
+      "Gengar",
+      "Pikachu",
+      "Mewtwo",
+      "Ditto"
+    ],
+    "correctAnswer": "Mewtwo",
+    "tags": [
+      "pokémon",
+      "karakterler",
+      "bayraklı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "8ch4il92b",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "What is Korea's most famous traditional fermented vegetable dish?",
+    "explanation": "Kimchi is Korea's national dish and a traditional fermented vegetable side dish, primarily made with napa cabbage and radishes seasoned with chili powder, garlic, ginger, and other spices.",
+    "options": [
+      "Kimchi",
+      "Gimbap",
+      "Bibimbap",
+      "Tteokbokki"
+    ],
+    "correctAnswer": "Kimchi",
+    "tags": [
+      "food",
+      "traditional",
+      "culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "538miszag",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "What is the name of Korea's traditional clothing worn during special occasions?",
+    "explanation": "Hanbok is Korea's traditional attire, characterized by bright colors and simple lines. It is typically worn during weddings, birthday parties, and other special celebrations.",
+    "options": [
+      "Hanbok",
+      "Kimono",
+      "Yukata",
+      "Sari"
+    ],
+    "correctAnswer": "Hanbok",
+    "tags": [
+      "clothing",
+      "traditional",
+      "festivals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tj4eyhizx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What does the Korean language script 'Hangul' represent?",
+    "explanation": "Hangul is Korea's unique alphabet, officially promulgated in 1443 by King Sejong. It was designed to be easy for all people to learn and write.",
+    "options": [
+      "A phonetic alphabet created in 1443",
+      "A collection of ancient Chinese characters",
+      "A system of mathematical symbols",
+      "A method for writing music notation"
+    ],
+    "correctAnswer": "A phonetic alphabet created in 1443",
+    "tags": [
+      "language",
+      "writing",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ju0ksia66",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which traditional Korean instrument is a long two-stringed fiddle?",
+    "explanation": "The Haegeum is a traditional Korean two-stringed fiddle with a distinctive bowed sound. It is an important instrument in Korean court music and folk ensembles.",
+    "options": [
+      "Gayageum",
+      "Haegeum",
+      "Janggu",
+      "Daegum"
+    ],
+    "correctAnswer": "Haegeum",
+    "tags": [
+      "music",
+      "instruments",
+      "traditional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i6pxe9lbj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "What term describes the traditional Korean practice of tea ceremony?",
+    "explanation": "Dongcha refers to Korea's traditional tea ceremony, rooted in Buddhist culture and Confucian philosophy. It emphasizes harmony, respect, and mindfulness during tea preparation.",
+    "options": [
+      "Dongcha",
+      "Ocha",
+      "Mocha",
+      "Sangcha"
+    ],
+    "correctAnswer": "Dongcha",
+    "tags": [
+      "tea",
+      "ceremony",
+      "tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ywgj6d3xe",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "What is the traditional Korean alphabet called?",
+    "explanation": "Hangul was created in 1443 by King Sejong the Great and is one of the few writing systems designed by its creators. It replaced Chinese characters as Korea's primary script.",
+    "options": [
+      "Hiragana",
+      "Katakana",
+      "Hangul",
+      "Chữ Nôm"
+    ],
+    "correctAnswer": "Hangul",
+    "tags": [
+      "language",
+      "history",
+      "tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "01srax2hv",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which Korean dish is made with fermented soybean paste, meat, and vegetables?",
+    "explanation": "Bibimbap means 'mixed rice' and traditionally consists of hot rice topped with various vegetables, meat (often bulgogi), egg, sesame oil, and gochujang (fermented chili paste).",
+    "options": [
+      "Kimchi",
+      "Bibimbap",
+      "Tteokbokki",
+      "Japchae"
+    ],
+    "correctAnswer": "Bibimbap",
+    "tags": [
+      "food",
+      "culture",
+      "tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7wgj5hic0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What is the Korean New Year called?",
+    "explanation": "Seollal (Lunar New Year) is celebrated in January or February. It's a major holiday when Koreans pay respect to ancestors, wear Hanbok, and perform traditional dances.",
+    "options": [
+      "Tteukdol",
+      "Seollal",
+      "Chuseok",
+      "Jeongwol Daeboreum"
+    ],
+    "correctAnswer": "Seollal",
+    "tags": [
+      "holidays",
+      "tradition",
+      "festival"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3sslovdq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which Korean martial art originated on the Korean peninsula?",
+    "explanation": "Taekwondo is a Korean martial art that emphasizes kicking techniques and was promoted by the Republic of Korea government starting in 1955.",
+    "options": [
+      "Judo",
+      "Taekwondo",
+      "Karate",
+      "Kung Fu"
+    ],
+    "correctAnswer": "Taekwondo",
+    "tags": [
+      "sports",
+      "martial-arts",
+      "tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gmzic1a9i",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "What traditional Korean clothing is worn during Seollal?",
+    "explanation": "Hanbok is the traditional Korean attire characterized by its simple lines and bright colors. It's commonly worn during important celebrations like Seollal and weddings.",
+    "options": [
+      "Kimono",
+      "Hanbok",
+      "Yukata",
+      "Chinesa Hanfu"
+    ],
+    "correctAnswer": "Hanbok",
+    "tags": [
+      "clothing",
+      "tradition",
+      "festival"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "owih5ixgq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "Hangul sistemi 1443 yılında kim tarafından geliştirilmiştir?",
+    "explanation": "Sejong大王 (Yeongjo), 1443 yılında Hangul alfabesini geliştirmek için bir komisyon kurmuştur. Bu, Korelilerin okuma-yazma yeteneğini artırmak amacıyla tasarlanmıştır.",
+    "options": [
+      "Yunus Emre",
+      "Sejong大王",
+      "Confucius",
+      "Buddha"
+    ],
+    "correctAnswer": "Sejong大王",
+    "tags": [
+      "Kore Kültürü",
+      "Hangul",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "it3y9bl2k",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "Kore mutfağında 'bibimbap' neyi ifade eder?",
+    "explanation": "Bibimbap, Kore mutfağının en popüler yemeklerinden biridir. Çeşitli sebzeler, yumurta ve et içeren karışık pirinç pilavı anlamına gelir.",
+    "options": [
+      "Soğanlı pirinç yemeği",
+      "Karışık pirinç pilavı",
+      "Balıklı ekmek",
+      "Etli makarna"
+    ],
+    "correctAnswer": "Karışık pirinç pilavı",
+    "tags": [
+      "Kore Kültürü",
+      "Mutfak",
+      "Gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o4yuiplyz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore geleneksel dansları arasında hangisi bulunmaz?",
+    "explanation": "Ballet, Kore geleneksel dansları arasında yer almaz. Samulnori, Pansori ve Taepyeongmu Koreli sanatçıların performanslarının bir parçasıdır.",
+    "options": [
+      "Samulnori",
+      "Pansori",
+      "Taepyeongmu",
+      "Ballet"
+    ],
+    "correctAnswer": "Ballet",
+    "tags": [
+      "Kore Kültürü",
+      "Sanat",
+      "Dans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "watbof3eh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Korede 'hanje' neyi ifade eder?",
+    "explanation": "Hanje, Korecede kullanılan Çin kökenli karakterleri ifade eder. Hangul ise 1443 yılında geliştirilen Kore alfabesidir.",
+    "options": [
+      "Korece konuşma dili",
+      "Çince karakterler",
+      "Kore alfabesi",
+      "Müzik aletleri"
+    ],
+    "correctAnswer": "Çince karakterler",
+    "tags": [
+      "Kore Kültürü",
+      "Dil",
+      "Alfabe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nrgpmx940",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Korede 'chuseok' bayramı ne zaman kutlanır?",
+    "explanation": "Chuseok, Korede sonbahar ayı dolunay gecesinde kutlanan bayramdır. Ailelerin bir araya geldiği, geleneksel yemekler yenildiği önemli bir törendir.",
+    "options": [
+      "Yeni yıl",
+      "Ayın dolunay gecesi (Gökkuşağı Günü)",
+      "Bahar başlangıcı",
+      "Sonbahar eşleşmesi"
+    ],
+    "correctAnswer": "Ayın dolunay gecesi (Gökkuşağı Günü)",
+    "tags": [
+      "Kore Kültürü",
+      "Bayram",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v3mml9jop",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore Cumhuriyeti'nin başkenti Hangul harflerinin geliştirildiği şehir neresidir?",
+    "explanation": "Söul, Kore Cumhuriyeti'nin başkentidir ve 1443 yılında İmjin Han tarafından geliştirilen Hangul yazı sisteminin resmi olarak kabul edildiği yerdir.",
+    "options": [
+      "Pusan",
+      "Seoul",
+      "Daejeon",
+      "Incheon"
+    ],
+    "correctAnswer": "Seoul",
+    "tags": [
+      "Kore Kültürü",
+      "Tarih",
+      "Başkent"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gitd31j7e",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore mutfağının simgesi olarak bilinen geleneksel yemek hangisidir?",
+    "explanation": "Kimchi, Kore mutfağının en önemli ve simgesel yemeği olup, turşu ile hazırlanan lahana tabanlı geleneksel bir fermente yiyecektir.",
+    "options": [
+      "Sushi",
+      "Kimchi",
+      "Ramen",
+      "Pad Thai"
+    ],
+    "correctAnswer": "Kimchi",
+    "tags": [
+      "Kore Kültürü",
+      "Mutfak",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ipvr9qg1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore kültüründe 'Gan' (강) neyi temsil eder?",
+    "explanation": "Gan, Kore kültüründe bağımsızlık ve özgürlük değerini temsil eder. Bu kavram özellikle 1945'te Kore'nin Japonya'dan kurtulmasıyla güç kazanmıştır.",
+    "options": [
+      "Aşk",
+      "Saygı",
+      "Bağımsızlık",
+      "Barış"
+    ],
+    "correctAnswer": "Bağımsızlık",
+    "tags": [
+      "Kore Kültürü",
+      "Tarih",
+      "Değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qvw16az4z",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kore geleneksel dansının en bilinen türlerinden biri hangisidir?",
+    "explanation": "Ssamzi, Kore'nin geleneksel danslarından biridir ve genellikle düğünlerde veya özel törenlerde icra edilir. Bu dans Kore kültürünün önemli bir parçasıdır.",
+    "options": [
+      "Flamenco",
+      "Bachata",
+      "Ssamzi",
+      "Hava"
+    ],
+    "correctAnswer": "Ssamzi",
+    "tags": [
+      "Kore Kültürü",
+      "Dans",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6tnq0ux0d",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore ulusal sporu olarak kabul edilen geleneksel oyun hangisidir?",
+    "explanation": "Taekwondo, Kore'nin ulusal dövüş sanatı ve sporudur. 1948 yılında resmi olarak tanımlandı ve UNESCO tarafından kültürel miras listesine alınmıştır.",
+    "options": [
+      "Judo",
+      "Taekwondo",
+      "Sumo",
+      "Wrestling"
+    ],
+    "correctAnswer": "Taekwondo",
+    "tags": [
+      "Kore Kültürü",
+      "Spor",
+      "Dövüş sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oc9ay7k8a",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "Kore mutfağında en bilinen geleneksel yemek hangisidir?",
+    "explanation": "Kimchi, Kore mutfağının en meşhur geleneksel fermente sebze yemeğidir ve dünya genelinde Kore kültürünün sembolü olarak bilinir.",
+    "options": [
+      "Sushi",
+      "Kimchi",
+      "Pasta",
+      "Makarna"
+    ],
+    "correctAnswer": "Kimchi",
+    "tags": [
+      "Kore Mutfağı",
+      "Geleneksel Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p2yfh5aqz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore dilinin temel yazı sistemi ne adlandırılır?",
+    "explanation": "Hangul, Korece'nin yerel olarak 1443 yılında geliştirilen alfabidir ve diğer yazı sistemlerinden farklı olarak ses temelli tasarlanmıştır.",
+    "options": [
+      "Çince",
+      "Hangul",
+      "Arap Alfabesi",
+      "Kiril"
+    ],
+    "correctAnswer": "Hangul",
+    "tags": [
+      "Kore Dili",
+      "Yazı Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d9dzgo5xi",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore kültüründe önemli geleneksel festival ne zaman kutlanır?",
+    "explanation": "Seollal, Kore takvimine göre Oşo'nun 1. Ayı'ndaki Lunar Yeni Yıl'da kutlanan en önemli geleneksel festivaldir ve aile birlikteliği vurgulanır.",
+    "options": [
+      "Seollal (Yeni Yıl)",
+      "Ramazan",
+      "Diywali",
+      "Hristos"
+    ],
+    "correctAnswer": "Seollal (Yeni Yıl)",
+    "tags": [
+      "Kore Festivali",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "18d713nj7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kore sinemasının ilk uluslararası ödülü hangi film aldı?",
+    "explanation": "Parasite (2019), Kore sinemasının Oscar ödülü alan ilk filmi olup, dünya çapında büyük başarı elde etti.",
+    "options": [
+      "Parasite",
+      "Shiri",
+      "Train to Busan",
+      "Oldboy"
+    ],
+    "correctAnswer": "Parasite",
+    "tags": [
+      "Kore Sineması",
+      "Uluslararası Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m7yt39xhw",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore kültüründe saygı göstergesi olarak hangi hareket yaygındır?",
+    "explanation": "Baş eğme veya 'bow', Kore kültüründe karşılaştığınız kişilere saygı göstermenin en yaygın ve geleneksel yoludur.",
+    "options": [
+      "Baş eğme (Bow)",
+      "El sıkışma",
+      "Öpüşme",
+      "Hapşırık"
+    ],
+    "correctAnswer": "Baş eğme (Bow)",
+    "tags": [
+      "Kore Kültürü",
+      "Saygı Göstergeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v2mnjf2gi",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore kültüründe geleneksel bir yemek olan 'bibimbap'ın temel bileşeni nedir?",
+    "explanation": "Bibimbap, Kore'nin en meşhur geleneksel yemeklerinden biridir. Bugulama pirinci üzerine çeşitli sebzeler, et veya balık, yumurta ve özel sos (gochujang) konarak hazırlanır.",
+    "options": [
+      "Pilav ve et",
+      "Buğulama pirinci, sebzeler, yumurta ve sos",
+      "Makarna ve salata",
+      "Fırınlanmış tavuk"
+    ],
+    "correctAnswer": "Buğulama pirinci, sebzeler, yumurta ve sos",
+    "tags": [
+      "Geleneksel Yemekler",
+      "Bibimbap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ub3mjke39",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Hangul alfabesi hangi yıl Kore'de resmi olarak kabul edildi?",
+    "explanation": "Kral Sejong tarafından 1443 yılında geliştirilen Hangul alfabesi, Kore'nin kendi yerel dilini yazmak için tasarlandı ve 1446 yılında resmi olarak kabul edildi.",
+    "options": [
+      "1443",
+      "1895",
+      "1905",
+      "1910"
+    ],
+    "correctAnswer": "1443",
+    "tags": [
+      "Dil ve Yazı",
+      "Hangul Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "puumzyj01",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore kültüründe 'hanbok' neyi ifade eder?",
+    "explanation": "Hanbok, Kore'nin geleneksel halk kıyafetidir. Kadın ve erkek için farklı tasarımlara sahiptir ve genellikle özel günlerde veya festivallerde takılır.",
+    "options": [
+      "Geleneksel giysi",
+      "Modern kostüm",
+      "Resmi üniforma",
+      "Spor kıyafeti"
+    ],
+    "correctAnswer": "Geleneksel giysi",
+    "tags": [
+      "Geleneksel Giyim",
+      "Hanbok"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7w7ux35cr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore'deki 'Seollal' festivali ne zaman kutlanır?",
+    "explanation": "Seollal, Kore'nin geleneksel yeni yılı olan ayın ilk haftasını işaret eden tatildir. Bu dönemde aileler bir araya gelip yemek yer ve oyunlar oynar.",
+    "options": [
+      "Ayın ilk haftası",
+      "Geleneksel Kore takvimine göre Yeni Yıl",
+      "Yaz tatilinde",
+      "Okul bittiğinde"
+    ],
+    "correctAnswer": "Geleneksel Kore takvimine göre Yeni Yıl",
+    "tags": [
+      "Festival ve Tatiller",
+      "Seollal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ep558sd4w",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Günümüzde Kore kültürünün uluslararası popülerliğini artıran neyi ifade eder?",
+    "explanation": "Günümüzde Kore'nin kültürünü dünya çapında tanıyan en önemli unsurlar K-Pop müzik grubu ve K-Drama dizileridir. Bu içerikler Kore kültürünü yaygınlaştırmıştır.",
+    "options": [
+      "K-Pop ve K-Drama",
+      "Antik tarihte",
+      "Siyasi olaylarda",
+      "Sanat eserlerinde"
+    ],
+    "correctAnswer": "K-Pop ve K-Drama",
+    "tags": [
+      "Modern Kültür",
+      "Popüler Medya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iymkrjmxm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore'nin ulusal yemeği olarak bilinen ve her evde bulunması gereken geleneksel besin hangisidir?",
+    "explanation": "Kimchi, Kore'nin ulusal yemeği olup fermente sebzelerden yapılan geleneksel bir besindir. Her Kore evinde bulunması beklenen bu yemek, sağlık ve dayanıklılık sembolüdür.",
+    "options": [
+      "Bulgur",
+      "Kimchi",
+      "Pasta",
+      "Ekmek"
+    ],
+    "correctAnswer": "Kimchi",
+    "tags": [
+      "Mutfak",
+      "Gelenekler",
+      "Kore Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84e9e4nmu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore kültüründe yılbaşı kutlamaları için yapılan geleneksel festival ne adlandırılır?",
+    "explanation": "Seollal, Kore takvimine göre yılbaşı kutlamaları için yapılan geleneksel festivaldir. Bu dönemde aileler toplanır ve geleneksel oyunlar oynanır.",
+    "options": [
+      "Chuseok",
+      "Seollal",
+      "Jeongwol",
+      "Dongju"
+    ],
+    "correctAnswer": "Seollal",
+    "tags": [
+      "Bayramlar",
+      "Gelenekler",
+      "Kore Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2tnswg8gg",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kore'nin ulusal dansı olarak kabul edilen dans hangisidir?",
+    "explanation": "Ganggangsullari, Kore'nin ulusal halk danslarından biridir. Genellikle kadınlar tarafından oynanan bu dans, geleneksel müzik eşliğinde sevinci ifade eder.",
+    "options": [
+      "Ballet",
+      "Samba",
+      "Ganggangsullari",
+      "Tango"
+    ],
+    "correctAnswer": "Ganggangsullari",
+    "tags": [
+      "Dans",
+      "Sanat",
+      "Kore Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jls66xp2s",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kore kültüründe arkadaşlık ilişkilerinde kullanılan 'Nae' kelimesinin anlamı nedir?",
+    "explanation": "'Nae' Korecede 'ben' anlamına gelir. Sami ve arkadaşlık ilişkilerinde daha samimi bir dille kullanılır.",
+    "options": [
+      "Sen",
+      "Ben",
+      "O",
+      "Biz"
+    ],
+    "correctAnswer": "Ben",
+    "tags": [
+      "Dil",
+      "Gelenekler",
+      "Kore Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "06q8rcbic",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kore'nin geleneksel müzik enstrümanlarından biri olarak bilinen 'Gayageum'a ne özellik vardır?",
+    "explanation": "Gayageum, Kore'nin geleneksel müzik enstrümanı olup 12 telinden oluşur. Zili simfonisi olarak da bilinen bu enstrüman, geleneksel Kore müziğinin temelidir.",
+    "options": [
+      "Çelik teller",
+      "12 teli olan zili simfonisi",
+      "Klasik piyano benzeri",
+      "Gitar benzeri"
+    ],
+    "correctAnswer": "12 teli olan zili simfonisi",
+    "tags": [
+      "Müzik",
+      "Enstrümanlar",
+      "Kore Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u3s246i0l",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What is a staple traditional Korean food that is made by fermenting vegetables like cabbage and radish?",
+    "explanation": "Kimchi is Korea's most famous traditional fermented food, primarily made with napa cabbage and Korean radishes, seasoned with chili powder, garlic, ginger and other spices.",
+    "options": [
+      "Kimchi",
+      "Sushi",
+      "Tacos",
+      "Bánh Mì"
+    ],
+    "correctAnswer": "Kimchi",
+    "tags": [
+      "Korean Food",
+      "Traditional Cuisine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x5ca8cyai",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which festival in Korea celebrates the harvest season and honors ancestors?",
+    "explanation": "Chuseok is Korea's major harvest festival, celebrated on the 15th day of the 8th lunar month to honor ancestors and give thanks for the harvest.",
+    "options": [
+      "Chuseok",
+      "Seollal",
+      "Songganbong",
+      "Doljanchi"
+    ],
+    "correctAnswer": "Chuseok",
+    "tags": [
+      "Korean Festivals",
+      "Cultural Traditions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jl6k4ljl7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What is the national flower of South Korea?",
+    "explanation": "The red rose is recognized as the national flower of South Korea, symbolizing beauty and love in Korean culture.",
+    "options": [
+      "Rose",
+      "Lotus",
+      "Peony",
+      "Tulip"
+    ],
+    "correctAnswer": "Rose",
+    "tags": [
+      "Korean Symbols",
+      "National Identity"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zc9007agx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Which famous Korean peninsula conflict ended in 1953?",
+    "explanation": "The Korean War was fought from 1950-1953 between North Korea and South Korea, ending with an armistice that still divides the peninsula.",
+    "options": [
+      "Korean War",
+      "Vietnam War",
+      "Sino-Japanese War",
+      "World War II"
+    ],
+    "correctAnswer": "Korean War",
+    "tags": [
+      "Korean History",
+      "Modern Korea"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wuem2quef",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "What is K-pop primarily known as in modern Korean culture?",
+    "explanation": "K-pop stands for 'Korean Popular Music' and is a genre of popular music originating from South Korea, combining pop with electronic dance music and other styles.",
+    "options": [
+      "Korean Pop Music",
+      "Traditional Opera",
+      "Classical Piano",
+      "Country Music"
+    ],
+    "correctAnswer": "Korean Pop Music",
+    "tags": [
+      "Korean Entertainment",
+      "Modern Culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ctj9r0rc8",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "Kore mutfağında en bilinen geleneksel yemek hangisidir?",
+    "explanation": "Kimchi, Kore mutfağının en temel ve ikonik yemeğidir. Fermente edilmiş lahana ve sebzelerden yapılır ve neredeyse her Kore yemekinde bulunur.",
+    "options": [
+      "Kimchi",
+      "Bulgogi",
+      "Pajeon",
+      "Tteokbokki"
+    ],
+    "correctAnswer": "Kimchi",
+    "tags": [
+      "kore_kültürü",
+      "mutfağı",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4dlh222xz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore dilinin yazı sistemi olarak hangi karakter kullanılır?",
+    "explanation": "Hangul, 1443 yılında Kore Kraliyeti tarafından oluşturulmuş olan yerli yazı sistemidir. Latin veya Kanji gibi değil, tamamen Kore'ye özgüdür.",
+    "options": [
+      "Yazılı",
+      "Latin",
+      "Hangul",
+      "Kanji"
+    ],
+    "correctAnswer": "Hangul",
+    "tags": [
+      "kore_kültürü",
+      "dil",
+      "yazı_sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6w03sye07",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore geleneksel kıyafetinin adı nedir?",
+    "explanation": "Hanbok, Kore'nin geleneksel kıyafetidir. Genellikle canlı renkler ve basit tasarımla bilinir. Japon Kimono ile karıştırılmamalıdır.",
+    "options": [
+      "Kimono",
+      "Hijab",
+      "Hanbok",
+      "Thobe"
+    ],
+    "correctAnswer": "Hanbok",
+    "tags": [
+      "kore_kültürü",
+      "kıyafet",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w9fogmc61",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore kültüründe büyükleri nasıl selamlamak yaygındır?",
+    "explanation": "Kore kültüründe büyükleri veya saygı duyulan kişilere başı hafifçe öne eğerek selamlamak yaygın bir uygulamadır. Bu, Asya'daki birçok ülkede olduğu gibi saygı sembolüdür.",
+    "options": [
+      "Sağdan tokalaşmak",
+      "Bükülüp saygı göstermek",
+      "Başı öne eğerek selamlamak",
+      "Sadece isimle hitap etmek"
+    ],
+    "correctAnswer": "Başı öne eğerek selamlamak",
+    "tags": [
+      "kore_kültürü",
+      "etiket",
+      "saygı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ufw3wnqbe",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kore'nin ulusal sporu olarak kabul edilen geleneksel mücadele sanatı nedir?",
+    "explanation": "Taekwondo, Kore'nin ulusal sporu ve geleneksel dövüş sanatıdır. UNESCO tarafından İnsanlığın Aşkın Değeri olarak kabul edilmiştir.",
+    "options": [
+      "Taekwondo",
+      "Judo",
+      "Karate",
+      "Aikido"
+    ],
+    "correctAnswer": "Taekwondo",
+    "tags": [
+      "kore_kültürü",
+      "spor",
+      "mücadele_sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mz2ttnw4y",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "Kore'nin ulusal gida nedir?",
+    "explanation": "Kimchi, Kore'nin en ünlü ulusal gidasıdır. Turşu sebze tabanlı geleneksel bir side dish'tir.",
+    "options": [
+      "Taco",
+      "Pizza",
+      "Kimchi",
+      "Pasta"
+    ],
+    "correctAnswer": "Kimchi",
+    "tags": [
+      "gıda",
+      "mutfak",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7rouyj1s0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kore sinemasının dünya çapında tanınan ilk filmi hangisidir?",
+    "explanation": "Kore sineması 1990'lardan sonra dünya çapında tanındı. Parasite ve Oldboy gibi filmler Kore'nin uluslararası başarısını simgeler.",
+    "options": [
+      "Parasite",
+      "Oldboy",
+      "Shisa",
+      "Train to Busan"
+    ],
+    "correctAnswer": "Shisa",
+    "tags": [
+      "sinema",
+      "film",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "njgut3g7e",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangi festival, Kore'de ayın ilk perşembe günü kutlanır?",
+    "explanation": "Kore Yeni Yılı (Seollal), genellikle Ocak ayındaki ilk perşembe günü kutlanır ve büyük aile birleşmelerini içerir.",
+    "options": [
+      "Seollal",
+      "Chuseok",
+      "Korean New Year",
+      "Gangneung Danoje"
+    ],
+    "correctAnswer": "Korean New Year",
+    "tags": [
+      "festival",
+      "tören",
+      "geleneği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lfdy5y5mi",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kore kültüründe, yaşlılara karşı nasıl davranılması beklenir?",
+    "explanation": "Kore kültüründe Konfüçyüsçü değerler ağırlıklıdır ve yaşlılara büyük saygı gösterilmesi beklenir.",
+    "options": [
+      "Özgürlüğe izin verilir",
+      "Saygı gösterilir",
+      "Yanlış anlaşılır",
+      "Dikkate alınmaz"
+    ],
+    "correctAnswer": "Saygı gösterilir",
+    "tags": [
+      "sosyallik",
+      "saygi",
+      "kültürel normlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8wu4z6aow",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Kore Kültürü",
+    "difficulty": "EASY",
+    "question": "Hangi Kore şarkıcısı, 'Blackpink' grubunun üyesidir?",
+    "explanation": "Blackpink, Kore'nin en tanınan kız grubudur ve Jisoo, Jennie, Rosé ve Lisa'dan oluşur.",
+    "options": [
+      "BTS",
+      "Stray Kids",
+      "BLACKPINK",
+      "NCT"
+    ],
+    "correctAnswer": "BLACKPINK",
+    "tags": [
+      "k-pop",
+      "müzik",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

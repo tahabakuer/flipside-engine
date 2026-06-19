@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "rnsb5mvx3",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesinin geleneksel hazırlanışında kullanılan fincan türü nedir?",
+    "explanation": "Türk kahvesi geleneksel olarak ince çanaklı, tek parça seramik fincanlarda servis edilir. Bu fincanlar, kahvenin köpüğünü tutmaya ve aromasını korumaya yardımcı olur.",
+    "options": [
+      "Çaydanlık",
+      "Demleme kupası",
+      "Kahve fincanı (çanak)",
+      "Moka pot"
+    ],
+    "correctAnswer": "Kahve fincanı (çanak)",
+    "tags": [
+      "kahve",
+      "mutfak",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p3m0ot5bu",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk kahve kültüründe 'kahve telvesi' ne ifade eder?",
+    "explanation": "Türk kahve kültüründe fincan telvesi, şans ve kaderin yorumlanmasında kullanılır. Bu geleneksel uygulamaya 'kahve falı' denir ve sosyal buluşmalarda önemli bir yer tutar.",
+    "options": [
+      "Kahve kalitesinin düşük olduğunu gösterir",
+      "Gelecekteki şans ve kaderin yorumlanması",
+      "Fincanın temizlenmesi gerektiğini belirtir",
+      "Kahveyi yeniden demlemek için işaret eder"
+    ],
+    "correctAnswer": "Gelecekteki şans ve kaderin yorumlanması",
+    "tags": [
+      "kahve",
+      "mutfak kültürü",
+      "geleneksel inanışlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pmrt6yf25",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı döneminde İstanbul'da açılan ilk kahvehaneler hangi amaçla hizmet vermiştir?",
+    "explanation": "Osmanlı döneminde kahvehaneler halkın toplumsal buluşması, fikir alışverişi ve sosyalleşmesi için önemli mekanlar olarak hizmet vermiştir.",
+    "options": [
+      "Sadece ticari işler için",
+      "Halkın toplumsal buluşma ve fikir alışverişi için",
+      "Lüks mekanlar olarak sadece zenginler için",
+      "Dışarıdan gelen misafirler için"
+    ],
+    "correctAnswer": "Halkın toplumsal buluşma ve fikir alışverişi için",
+    "tags": [
+      "kahve tarihi",
+      "Osmanlı",
+      "mutfak kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k6dpohti9",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesinde kullanılan çekme yöntemi ne demektir?",
+    "explanation": "Türk kahvesi 'çekme' yöntemiyle hazırlanır. Bu yöntem, kahveyi yavaşça kaynatarak köpüğünün oluşmasını sağlar ve geleneksel demleme tekniğidir.",
+    "options": [
+      "Kahveyi hızlıca suyla karıştırmak",
+      "Kahve ve suyu yavaşça kaynatmak",
+      "Kahveyi çok ince öğütmek",
+      "Kahveyi büyük miktarda yapmak"
+    ],
+    "correctAnswer": "Kahve ve suyu yavaşça kaynatmak",
+    "tags": [
+      "kahve hazırlama",
+      "mutfak teknikleri",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d8t8umjid",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahve kültüründe kahve fincanına 'şeker' eklemek hangi anlamı taşır?",
+    "explanation": "Türk kahve kültüründe fincana şeker eklemek nezaket ve sevgi ifadesidir. Bu uygulama, misafir karşılamada önemli bir geleneksel davranıştır.",
+    "options": [
+      "Kahvenin tatlı olmasını gösterir",
+      "Misafir karşılamada nezaket ve sevgi ifadesidir",
+      "Kahveyi acılaştırmak için yapılır",
+      "Sadece estetik amaçlıdır"
+    ],
+    "correctAnswer": "Misafir karşılamada nezaket ve sevgi ifadesidir",
+    "tags": [
+      "kahve kültürü",
+      "misafir ağırlama",
+      "mutfak gelenekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mp3607ih6",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesi yapımında kullanılan suyun kaynama noktası ne olmalıdır?",
+    "explanation": "Türk kahvesi kültüründe su tam olarak kaynamadan önce, köpük hâlinde neredeyse kaynama noktasına gelmelidir. Bu, kahvenin aromasını koruması için önemlidir.",
+    "options": [
+      "Tamamen kaynar",
+      "Neredeyse kaynar (köpük halinde)",
+      "Hiçbiri",
+      "Soğuk"
+    ],
+    "correctAnswer": "Neredeyse kaynar (köpük halinde)",
+    "tags": [
+      "kahve",
+      "yapım",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6jub6zdfb",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kahve fincanının şekli ve boyutu Türk kahve kültüründe ne ifade eder?",
+    "explanation": "Türk kahvesi fincanları orta büyüklükte, ince duvarlı ve genellikle beyaz renktedir. Bu şekil, kahvenin tadını ve köpüğünü korumak için tasarlanmıştır.",
+    "options": [
+      "Küçük ve kalın duvarlı",
+      "Orta büyüklükte ve ince duvarlı",
+      "Büyük ve düz tabanlı",
+      "Her ikisi de aynıdır"
+    ],
+    "correctAnswer": "Orta büyüklükte ve ince duvarlı",
+    "tags": [
+      "kahve",
+      "fincan",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5lh4u1kyj",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "Kahve içiminde 'süt' ilavesi hangi kültürle ilişkilidir?",
+    "explanation": "Sütlü kahve (latte, cappuccino gibi) İtalyan kahve kültüründe daha yaygın olarak tüketilir. Türk kahvesi ise genellikle süt içermez ve sade içilir.",
+    "options": [
+      "Türk",
+      "Arap",
+      "İtalyan",
+      "Yunan"
+    ],
+    "correctAnswer": "İtalyan",
+    "tags": [
+      "kahve",
+      "süt",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nxf1ab3p4",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk kahve evanjilasyonunda 'sıvı' ne demektir?",
+    "explanation": "Türk kahve kültüründe 'sıvı' ifadesi genellikle şekersiz veya şekerli Türk kahvesini ifade eder. Bu, geleneksel içim biçimidir.",
+    "options": [
+      "Kahve suyu",
+      "Şekerli içecek",
+      "Demlenmiş çay",
+      "Süt"
+    ],
+    "correctAnswer": "Şekerli içecek",
+    "tags": [
+      "kahve",
+      "şeker",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gktbdksb9",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kahve içiminde 'köpük' ne anlama gelir?",
+    "explanation": "Türk kahvesi kültüründe köpük, doğru demleme ve pişirme kalitesinin göstergesidir. İyi bir Türk kahvesi mutlaka köpüklü olmalıdır.",
+    "options": [
+      "Demleme kalitesinin artması",
+      "Su ile karışma",
+      "Yanlış pişirme",
+      "Daha iyi aroma"
+    ],
+    "correctAnswer": "Demleme kalitesinin artması",
+    "tags": [
+      "kahve",
+      "köpük",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xona7ijuw",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "UNESCO hangi yıl Türk kahve kültürünü intangible kültürel miras olarak korumalı listeye ekledi?",
+    "explanation": "UNESCO, Türk kahve kültürünü hazırlanma yöntemi ve sosyal etkileşimdeki rolü nedeniyle 2015 yılında intangible kültürel miras listesine ekledi.",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correctAnswer": "2015",
+    "tags": [
+      "UNESCO",
+      "Türk Kahvesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tr6hak12z",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesinin geleneksel olarak hangi eşya ile hazırlanır?",
+    "explanation": "Cezve, Türk kahvesinin geleneksel olarak kullanılan küçük bakır veya pirinç tenceresidir. French Press ve diğer modern ekipmanlar Türk kahve kültürüne uygun değildir.",
+    "options": [
+      "Cezve",
+      "French Press",
+      "Espresso Makinesi",
+      "Perkolatör"
+    ],
+    "correctAnswer": "Cezve",
+    "tags": [
+      "Hazırlama Ekipmanı",
+      "Türk Kahvesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mpzfsl6q4",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi Türk kahvesi türü olarak kabul edilir?",
+    "explanation": "Türk Kahvesi, geleneksel cezve ile hazırlanan ve köpüklü olan kahvedir. Diğer seçenekler Batı kahve kültürüne aittir.",
+    "options": [
+      "Americano",
+      "Cappuccino",
+      "Türk Kahvesi",
+      "Latte"
+    ],
+    "correctAnswer": "Türk Kahvesi",
+    "tags": [
+      "Kahve Türleri",
+      "Türk Kahvesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uvawjztxz",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesinin servis edilme ritüelinde hangi unsurun korunması önemlidir?",
+    "explanation": "Türk kahvesinde köpük (köpük) önemli bir unsur olup, içilirken karıştırılmamalı ve köpüğün üstte kalması ritüel olarak korunur.",
+    "options": [
+      "Şeker eklenmesi",
+      "Köpüğün üstte kalması",
+      "Süt ile karıştırılması",
+      "Demlenme süresi"
+    ],
+    "correctAnswer": "Köpüğün üstte kalması",
+    "tags": [
+      "Servis Ritüeli",
+      "Türk Kahvesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hr9cml8bn",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk kahve kültürünün tarihsel yayılımı hangi imparatorlukla ilişkilidir?",
+    "explanation": "Türk kahve kültürü, Osmanlı İmparatorluğu'nun genişleme ve ticaret yoluyla Asya ve Avrupa'ya yayılmıştır. Diğer seçenekler Türk kahve tarihiyle doğrudan ilgili değildir.",
+    "options": [
+      "Britanya İmparatorluğu",
+      "İspanya Kolonileri",
+      "Osmanlı İmparatorluğu",
+      "Kuzey Amerika Ticareti"
+    ],
+    "correctAnswer": "Osmanlı İmparatorluğu",
+    "tags": [
+      "Tarih",
+      "Osmanlı",
+      "Kahve Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ksnm38qan",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk kahvesi, ne zaman UNESCO Somut Olmayan Kültürel Miras listesine eklendi?",
+    "explanation": "Türk kahvesi 2015 yılında UNESCO Somut Olmayan Kültürel Miras listesine eklendi, bu sayede dünyanın birçok ülkesindeki önemli bir kültürel miras olarak kabul edildi.",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "correctAnswer": "2015",
+    "tags": [
+      "tarih",
+      "UNESCO",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kbya564my",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesinde kullanılan çekirdeklerin pişirme yöntemi nedir?",
+    "explanation": "Türk kahvesi, filtre olmadan ince öğütülmüş çekirdekler yavaş ateşte demlenerek hazırlanır ve içine şeker eklenebilir.",
+    "options": [
+      "Sadece su",
+      "Sadece süt",
+      "Su ve süt",
+      "Yavaş ateşte, filtre olmaksızın"
+    ],
+    "correctAnswer": "Yavaş ateşte, filtre olmaksızın",
+    "tags": [
+      "pişirme",
+      "metodoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mvar5yl21",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesi kültüründe, kahve fincanının hangi kısmına bakılır?",
+    "explanation": "Türk kahvesi kültüründe fincanın iç kısmı incelenir, çünkü bu şekilde çekirdeğin kalitesi ve pişirme şekli değerlendirilir.",
+    "options": [
+      "İç kısmına",
+      "Dış kısmına",
+      "Kapağına",
+      "Aynasına"
+    ],
+    "correctAnswer": "İç kısmına",
+    "tags": [
+      "gelenek",
+      "fincan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2q7add8wy",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk kahvesi demlenirken kullanılan su miktarı ile çekirdek oranı nedir?",
+    "explanation": "Türk kahvesi için genellikle su ile çekirdek 1:1 oranında kullanılır, bu da daha yoğun ve zengin bir tada sahip olur.",
+    "options": [
+      "1:1",
+      "2:1",
+      "3:1",
+      "4:1"
+    ],
+    "correctAnswer": "1:1",
+    "tags": [
+      "pişirme",
+      "oran"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d7tehz7od",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesi kültüründe kahve fincanı nereden gelmektedir?",
+    "explanation": "Türk kahvesi kültüründe fincanlar genellikle yerli üretimdir ve geleneksel Türk çömlekçiliği sanatıyla üretilir.",
+    "options": [
+      "Yerli üretim",
+      "İthalat",
+      "Dükkanlarda satılır",
+      "Evde hazırlanır"
+    ],
+    "correctAnswer": "Yerli üretim",
+    "tags": [
+      "üretim",
+      "yerel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7pmnis36f",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk kahvesi kültüründe çamaşır suyu ile yapılan işlem ne adlandırılır?",
+    "explanation": "Türk kahvesi kültüründe çalkalama işlemi, kahveyi daha dengeli hale getirmek için yapılır.",
+    "options": [
+      "Filtreleme",
+      "Çalkalama",
+      "Soğutma",
+      "Yıkama"
+    ],
+    "correctAnswer": "Çalkalama",
+    "tags": [
+      "kahve-kültürü",
+      "türk-kahvesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9yd0y3cem",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İstanbul'da hangi meşhur kahveci 'Kahve Hanı' adını taşır?",
+    "explanation": "İstanbul'da Yeniçeri Kahvesi, tarihi kahveci kültürünün önemli parçalarından biridir.",
+    "options": [
+      "Yeniçeri",
+      "Beyazıt",
+      "Topkapı",
+      "Ayasofya"
+    ],
+    "correctAnswer": "Yeniçeri",
+    "tags": [
+      "kahve-yanlıca",
+      "istanbul-tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dqkojpfiq",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesi yapımında kullanılan fincanların özel ismi nedir?",
+    "explanation": "Finikan, Türk kahvesi için kullanılan geleneksel fincanların özel adıdır.",
+    "options": [
+      "Bülbül",
+      "Finikan",
+      "Şile",
+      "Çaydan"
+    ],
+    "correctAnswer": "Finikan",
+    "tags": [
+      "kahve-kültürü",
+      "mutfak-gereçleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "30shgn6yj",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Araman Motoru Kahve Kültürü ile ilgili hangi kavram Eski Osmanlı'da kullanılırdı?",
+    "explanation": "Eski Osmanlı'da kahveciler, sosyal ve kültürel etkinliklerin merkeziydiler.",
+    "options": [
+      "Kahveci",
+      "Çaycı",
+      "Şekerlik",
+      "Tepsi"
+    ],
+    "correctAnswer": "Kahveci",
+    "tags": [
+      "osmanlı-tarihi",
+      "kahve-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ea7kk32p",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk kahvesi kültüründe 'Nefes' kelimesinin anlamı nedir?",
+    "explanation": "Nefes, Türk kahvesi kültüründe fincanın temizlenmesi için kullanılan özel terimdir.",
+    "options": [
+      "İçme",
+      "Kahve-soğutma",
+      "Fincan-temizleme",
+      "Hava-alma"
+    ],
+    "correctAnswer": "Fincan-temizleme",
+    "tags": [
+      "kahve-kültürü",
+      "türk-tradisiyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9costuamv",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kahve kültüründe 'kahve içme töresi' olarak bilinen geleneksel Türk kahvesi içimi sırasında, fincandaki köpüğün kalıcılığı neyi gösterir?",
+    "explanation": "Türk kahvesi kültüründe, fincandaki kalıcı köpük kahvenin doğru şekilde demlendiğini ve taze olduğunu gösterir. Köpüğün hızlıca dökülmesi yanlış pişirme anlamına gelir.",
+    "options": [
+      "Kahvenin taze olduğunu ve doğru pişirildiğini",
+      "Kahvenin çok şekerli olduğunu",
+      "Kahvenin soğuduğunu",
+      "Kahvenin yanlış pişirildiğini"
+    ],
+    "correctAnswer": "Kahvenin taze olduğunu ve doğru pişirildiğini",
+    "tags": [
+      "kahve-kültürü",
+      "türk-gelenekleri",
+      "kavurum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "66ve4nd1k",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kahve kültürü tarihinde ilk kez kahveyi içen yer olarak kabul edilen bölge hangisidir?",
+    "explanation": "Kahvenin ilk kez içildiği ve popülerleştiği bölge olarak Arâbiya Yarımadası kabul edilir. Kahve buradan diğer kıtalara yayılmıştır.",
+    "options": [
+      "Arâbiya Yarımadası",
+      "Afrika kıtası Etiyopya",
+      "Asya kıtası Hindistan",
+      "Avrupa kıtası Fransa"
+    ],
+    "correctAnswer": "Arâbiya Yarımadası",
+    "tags": [
+      "kahve-kültürü",
+      "tarih",
+      "keşif"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f6skgrhnw",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İstanbul'un Fâtih semtinde bulunan 'Mutfak-Kahve Kültürü' projesinde, kahve kültürünün ne şekilde tanıtılması amaçlanmaktadır?",
+    "explanation": "Mutfak-Kahve Kültürü projesinde, kahve içme anının sosyalleşme ve kültür paylaşımı yoluyla tanıtılması hedeflenmektedir.",
+    "options": [
+      "Sadece fincan içimi ile",
+      "Kahve ve sosyalleşmeyi birleştirerek",
+      "Tek başına tüketimle",
+      "Endüstriyel üretim yoluyla"
+    ],
+    "correctAnswer": "Kahve ve sosyalleşmeyi birleştirerek",
+    "tags": [
+      "kahve-kültürü",
+      "mutfak-projesi",
+      "sosyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v0263kk15",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kahve fincanında 'kireç' olmasının önemi nedir? Kahve kültürü açısından.",
+    "explanation": "Kahve fincanında kireç bulunması, fincanın temiz ve bakımlı olduğunu gösterir. Bu, kahve içme kültüründe hijyen açısından önemlidir.",
+    "options": [
+      "Finca temizliğini gösterir",
+      "Kahvenin doğru pişirildiğini gösterir",
+      "Fincanın yeni olduğunu gösterir",
+      "Hiç önemi yoktur"
+    ],
+    "correctAnswer": "Finca temizliğini gösterir",
+    "tags": [
+      "kahve-kültürü",
+      "fincan",
+      "temizlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hmnb8qh3w",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Dünya Kahve Günlükleri (World Coffee Day) hangi tarihte kutlanır?",
+    "explanation": "Dünya Kahve Günlükleri her yıl 29 Ekim'de kutlanır. Bu gün kahve sektörünün tanıtımı ve kahve kültürünün paylaşılması için düzenlenir.",
+    "options": [
+      "29 Ekim",
+      "1 Eylül",
+      "5 Kasım",
+      "30 Aralık"
+    ],
+    "correctAnswer": "29 Ekim",
+    "tags": [
+      "kahve-kültürü",
+      "kutlamalar",
+      "günlükler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cuxzbatke",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk kahvesi kültüründe servis edilen geleneksel Türk çaydanlığına ne ad verilir?",
+    "explanation": "Türk çay kültüründe iki katmanlı demleme yöntemiyle hazırlanan geleneksel çaydanlığa 'çaydanlık' adı verilir.",
+    "options": [
+      "Demleme",
+      "Çaydanlık",
+      "İçme",
+      "Kahve"
+    ],
+    "correctAnswer": "Çaydanlık",
+    "tags": [
+      "kahve-kültürü",
+      "türk-çayı",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lutt491en",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kahve kültürünün kökeni olarak kabul edilen Orta Doğu'daki ilk kahve evlerinin bulunduğu şehir hangisidir?",
+    "explanation": "Kahve kültürünün yayılışı Orta Doğu'da başlamış ve Kahire gibi şehirlerde ilk kahve evleri kurularak dünyaya yayılmıştır.",
+    "options": [
+      "Kahire",
+      "İstanbul",
+      "Mekke",
+      "Habeş"
+    ],
+    "correctAnswer": "Kahire",
+    "tags": [
+      "kahve-tarihi",
+      "orta-doğu",
+      "kültür-çalışması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wdgqf80m8",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk kahvesi yapımında kullanılan fincanların özel adı nedir?",
+    "explanation": "Türk kahvesi fincanlarda servis edilir ve bu küçük, ince duvarlı kaplara 'fincan' adı verilir.",
+    "options": [
+      "Demlik",
+      "Fincan",
+      "Çaybardak",
+      "Kahvecilik"
+    ],
+    "correctAnswer": "Fincan",
+    "tags": [
+      "kahve-araçları",
+      "türk-kahvesi",
+      "servis"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cykvn0k53",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kahve kültüründe 'arabica' ve 'robusta' arasındaki temel fark nedir?",
+    "explanation": "Arabica ve Robusta kahveler farklı coğrafi bölgelerde yetişen, farklı genetik kökene sahip kahve türleridir.",
+    "options": [
+      "Renk",
+      "Yapı",
+      "Köken",
+      "Tadı"
+    ],
+    "correctAnswer": "Köken",
+    "tags": [
+      "kahve-niteliği",
+      "türler",
+      "arabica-robusta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0f30e4ubs",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahve kültüründe kahvenin içilmeden önceki ilk adımlarından biri nedir?",
+    "explanation": "Türk kahvesi kültüründe kahve yapımının ilk adımı demlemedir; kahve taneleri su ile birlikte yavaşça demlenir.",
+    "options": [
+      "Demleme",
+      "Servis",
+      "İçme",
+      "Temizlik"
+    ],
+    "correctAnswer": "Demleme",
+    "tags": [
+      "kahve-yapımı",
+      "demleme",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hddi650qp",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Geleneksel Türk kahvesi hangi eşya ile hazırlanır?",
+    "explanation": "Türk kahvesi geleneksel olarak küçük bir ibrik içinde, şeker ve su ile birlikte pişirilir. Bu yöntem 1500 yıldır kullanılır.",
+    "options": [
+      "French Press",
+      "Ibrik (Çaydan)",
+      "Moka Pot",
+      "Aeropress"
+    ],
+    "correctAnswer": "Ibrik (Çaydan)",
+    "tags": [
+      "Türk Kahvesi",
+      "Hazırlık",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rid4195pl",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesinde 'Şekerli' neyi ifade eder?",
+    "explanation": "Türk kahvesinde 'Şekerli' orta miktarda şeker, 'Az Şekerli' az şeker, 'Şekersiz' hiç şeker anlamına gelir.",
+    "options": [
+      "Kahveye şekersiz",
+      "Az miktarda şekeri",
+      "Orta miktarda şekeri",
+      "Yeteri kadar şekeri"
+    ],
+    "correctAnswer": "Orta miktarda şekeri",
+    "tags": [
+      "Türk Kahvesi",
+      "Şeker",
+      "Terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h11d8uugy",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk kahvesinin kökeni hangi bölgeye dayanır?",
+    "explanation": "Kahve köken olarak Etiyopya'nın Afrikalı köylülerine dayanır ve 1500'den beri kullanılır.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "Türk Kahvesi",
+      "Tarih",
+      "Köken"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qeo6mi2ue",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesinde 'Gül Şekerli' neyi ifade eder?",
+    "explanation": "Gül Şekerli çok az şeker, Şekersiz hiç şeker anlamına gelir. Türk kahvesi geleneksel olarak 3 şekil hazırlanır.",
+    "options": [
+      "Çok az şeker",
+      "Şekersiz",
+      "Orta miktarda şeker",
+      "Yeteri kadar şeker"
+    ],
+    "correctAnswer": "Çok az şeker",
+    "tags": [
+      "Türk Kahvesi",
+      "Şeker",
+      "Terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cimaek9te",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahvesinin en önemli özelliği nedir?",
+    "explanation": "Türk kahvesinin en önemli özelliği ibrik içinde pişirildiği için çok yoğun ve filtrelenmemesidir. Bu özellik 1500 yıldır kullanılır.",
+    "options": [
+      "Koyu renk",
+      "Çok yoğun",
+      "İçki tadı",
+      "Süzgeçsiz"
+    ],
+    "correctAnswer": "Çok yoğun",
+    "tags": [
+      "Türk Kahvesi",
+      "Özellik",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n0zn0zy57",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "What is the primary ingredient used to make traditional Turkish coffee?",
+    "explanation": "Turkish coffee traditionally uses Arabica beans that are roasted and ground extremely finely, allowing for a rich flavor when boiled in the cezve.",
+    "options": [
+      "Arabica beans roasted and ground very finely",
+      "Robusta beans only",
+      "Decaf beans with instant powder",
+      "Espresso shots"
+    ],
+    "correctAnswer": "Arabica beans roasted and ground very finely",
+    "tags": [
+      "coffee-basics",
+      "turkish-coffee"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0fmh8o8xi",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "Which type of coffee cup is traditionally used when serving Turkish coffee?",
+    "explanation": "Turkish coffee is served in small cups called 'fincan' or demitasse, allowing the drinker to appreciate both the aroma and the slow cooling process.",
+    "options": [
+      "Small demitasse cup",
+      "Large mug",
+      "Glass with ice",
+      "Paper cup"
+    ],
+    "correctAnswer": "Small demitasse cup",
+    "tags": [
+      "coffee-ware",
+      "tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "luc89f0b3",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What does 'Kalp' mean in Turkish coffee culture?",
+    "explanation": "Kalp refers to fine Turkish coffee grounds that can form small heart shapes, which is considered an indicator of proper grinding quality.",
+    "options": [
+      "Coffee ground shape resembling a heart",
+      "A type of coffee bean",
+      "The name of the coffee machine",
+      "A coffee serving size"
+    ],
+    "correctAnswer": "Coffee ground shape resembling a heart",
+    "tags": [
+      "terminology",
+      "ground-types"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m4ej4o7zm",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which coffee tradition involves reading the coffee grounds after drinking?",
+    "explanation": "In Turkish coffee culture, it's traditional to read the shapes formed in the remaining grounds for fortune-telling, a practice called tasseography.",
+    "options": [
+      "Tasseography or tasseomancy",
+      "Espresso art",
+      "Pour-over scoring",
+      "Latte foam patterns"
+    ],
+    "correctAnswer": "Tasseography or tasseomancy",
+    "tags": [
+      "coffee-divination",
+      "tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tb7kec2pi",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "What is the correct water-to-coffee ratio for Turkish coffee?",
+    "explanation": "Traditional Turkish coffee uses approximately 1 part finely-ground coffee to 5 parts water, creating a concentrated beverage that's slowly boiled.",
+    "options": [
+      "1:5 (one part coffee to five parts water)",
+      "1:3 (one part coffee to three parts water)",
+      "1:10 (instant coffee style)",
+      "1:2 (equal amounts)"
+    ],
+    "correctAnswer": "1:5 (one part coffee to five parts water)",
+    "tags": [
+      "brewing-ratio",
+      "technique"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x1kffcv92",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EASY",
+    "question": "Türk kahvesi hazırlarken kullanılan geleneksel yöntem nedir?",
+    "explanation": "Türk kahvesi, geleneksel olarak küçük bir tencerede (cezvede) yavaşça kaynatılarak hazırlanır. Bu yöntem kahvenin aromasını korur ve püskül oluşumunu sağlar.",
+    "options": [
+      "Makine ve filtre",
+      "Küçücük tencerede (cezvede) kaynatma",
+      "Sadece sıcak su ile demleme",
+      "Fırında pişirme"
+    ],
+    "correctAnswer": "Küçücük tencerede (cezvede) kaynatma",
+    "tags": [
+      "Hazırlama",
+      "Geleneksel Yöntem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e9xcwxcwe",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahve kültüründe 'püskül' ne anlama gelir?",
+    "explanation": "Püskül, Türk kahvesinin doğru hazırlanıp kaynatıldığında tencerenin üstünde oluşan ince köpük tabakasıdır ve kahvenin kalitesinin göstergesidir.",
+    "options": [
+      "Kahvenin çok acı olması",
+      "Kaynarken tencerenin üstünde oluşan köpük tabakası",
+      "İçilememesi gereken kahve",
+      "Sıcak suyun fazla olması"
+    ],
+    "correctAnswer": "Kaynarken tencerenin üstünde oluşan köpük tabakası",
+    "tags": [
+      "Kahve Bilgisi",
+      "Hazırlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5b6yem31q",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahve kültürünün UNESCO listesine alınması neyi simgeler?",
+    "explanation": "Türk kahvesi içme ritüeli, UNESCO İnsanlığın Somut Olmayan Kültürel Mirası listesinde yer alır ve sosyal dayanışma ile kültürel mirasın korunması simgeler.",
+    "options": [
+      "Kahve tarımının gelişimi",
+      "Kültürel miras ve sosyal dayanışma",
+      "İçme alışkanlığının yayılması",
+      "Ekonomik kazanç"
+    ],
+    "correctAnswer": "Kültürel miras ve sosyal dayanışma",
+    "tags": [
+      "Tarihi",
+      "Kültürel Miras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vxwjdhnxw",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kahve tabağı üzerinde 'çeki' veya 'şerbet' ne zaman sunulur?",
+    "explanation": "Türk kahvesi tabağı, genellikle şeker ve küçük bir tatlı (bisküvi veya kuru meyve) ile birlikte sunulur, bu da ikram kültürünün bir parçasıdır.",
+    "options": [
+      "Kahve içmeden önce",
+      "Kahvenin soğuması için",
+      "Şeker ve tatlı ikramı olarak",
+      "Sadece çocuklara"
+    ],
+    "correctAnswer": "Şeker ve tatlı ikramı olarak",
+    "tags": [
+      "Sunum",
+      "Geleneksel Tabak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xzkgd8dll",
+    "category": "MUTFAK",
+    "subcategory": "Kahve Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Türk kahvesinde 'şerbet' ne anlama gelir?",
+    "explanation": "'Şerbet', Türk kahve kültüründe genellikle çay veya kahve ile birlikte sunulan, şekerli soğuk içecektir. Kahve tabağı yanında geleneksel olarak ikram edilir.",
+    "options": [
+      "Geleneksel olarak şeker ve içeceğin karışımı",
+      "Sadece su ile hazırlanmış içecek",
+      "Kahve çekirdeğinin farklı bir türü",
+      "Sadece süt eklenmiş kahve"
+    ],
+    "correctAnswer": "Geleneksel olarak şeker ve içeceğin karışımı",
+    "tags": [
+      "İçecek Bilgisi",
+      "Kahve Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

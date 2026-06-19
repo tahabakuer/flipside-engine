@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "ja8i38rmd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişim nedir ve hangi temel özelliklere sahiptir?",
+    "explanation": "Bulut bilişim, dağıtık sunucu yapısı, ölçeklenebilir depolama ve hesaplama gücü ile paylaşılan kaynakları temel alır.",
+    "options": [
+      "Tek bir sunucu sistemi",
+      "Dağıtık, ölçeklenebilir ve paylaşımlı kaynaklar",
+      "Yerel veri saklama sistemi",
+      "Sadece mobil uygulama altyapısı"
+    ],
+    "correctAnswer": "Dağıtık, ölçeklenebilir ve paylaşımlı kaynaklar",
+    "tags": [
+      "Bulut Bilişim",
+      "Temel Kavramlar",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cz5by3k0x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "SaaS (Software as a Service) nedir?",
+    "explanation": "SaaS, uygulamaların bulut üzerinden erişildiği servis modelidir. Kullanıcılar uygulama kurmadan kullanır.",
+    "options": [
+      "Sunucu altyapısını kullanıcının yönettiği servis",
+      "Tamamen yerel yazılım kurulumu",
+      "Uygulama tabanlı bulut hizmeti",
+      "Veri merkezi yönetim aracı"
+    ],
+    "correctAnswer": "Uygulama tabanlı bulut hizmeti",
+    "tags": [
+      "Bulut Bilişim",
+      "SaaS",
+      "Servis Modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fuuzdewci",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "IaaS (Infrastructure as a Service) hangi katmanı yönetir?",
+    "explanation": "IaaS, donanım altyapısını bulut üzerinden sağlar. Kullanıcılar sanal sunucu ve depolama yönetir.",
+    "options": [
+      "Yazılım ve kullanıcı arayüzü",
+      "Donanım altyapısı (sunucu, depolama, ağ)",
+      "Sadece veri tabanı katmanı",
+      "Mobil cihaz yönetimi"
+    ],
+    "correctAnswer": "Donanım altyapısı (sunucu, depolama, ağ)",
+    "tags": [
+      "Bulut Bilişim",
+      "IaaS",
+      "Servis Modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m61kv0vsl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "PaaS (Platform as a Service) nedir ve hangi kullanım senaryosuna uygundur?",
+    "explanation": "PaaS, yazılım geliştirme ortamlarını bulut üzerinden sağlar. Geliştiriciler kodu kurmadan çalıştırır.",
+    "options": [
+      "Tam olarak yerel kurulum gerektiren sistem",
+      "Yazılım geliştirme ortamı sağlayan servis",
+      "Sadece veri saklama hizmeti",
+      "Mobil uygulama dağıtım platformu"
+    ],
+    "correctAnswer": "Yazılım geliştirme ortamı sağlayan servis",
+    "tags": [
+      "Bulut Bilişim",
+      "PaaS",
+      "Servis Modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "981nw9vmj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişimde 'ölçeklenebilirlik' (scalability) kavramı ne anlama gelir?",
+    "explanation": "Ölçeklenebilirlik, bulut sisteminin yük arttığında kaynakları otomatik artırıp azaltabilme yeteneğidir.",
+    "options": [
+      "Tek sunucunun donanım gücü artırılması",
+      "Kullanılan kaynakların ihtiyaca göre esnek artışı/azalışı",
+      "Veri saklama maliyetinin düşürülmesi",
+      "Yerel ağ hızının artırılması"
+    ],
+    "correctAnswer": "Kullanılan kaynakların ihtiyaca göre esnek artışı/azalışı",
+    "tags": [
+      "Bulut Bilişim",
+      "Ölçeklenebilirlik",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ao36z08bw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişim (cloud computing) nedir?",
+    "explanation": "Bulut bilişim, internet üzerinden erişilen, esnek ve ölçeklenebilir sunucu altyapılarıdır. Fiziksel sunucular yerine sanallaştırılmış kaynakları kullanır.",
+    "options": [
+      "Duyarlı ve esnek bir sunucu altyapısı",
+      "Fiziksel bir veri merkezi",
+      "Yerel bir network sistemi",
+      "Kriptografik güvenlik protokolü"
+    ],
+    "correctAnswer": "Duyarlı ve esnek bir sunucu altyapısı",
+    "tags": [
+      "Bulut Bilişim",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uxqm0nppm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bulut bilişim hizmet modellerinden biri değildir?",
+    "explanation": "Standart bulut hizmet modelleri IaaS, PaaS ve SaaS'dir. DaaS genellikle bir alt model olarak kabul edilir ancak temel üç kategoriden biri değildir.",
+    "options": [
+      "IaaS (Infrastructure as a Service)",
+      "PaaS (Platform as a Service)",
+      "SaaS (Software as a Service)",
+      "DaaS (Database as a Service)"
+    ],
+    "correctAnswer": "DaaS (Database as a Service)",
+    "tags": [
+      "Bulut Bilişim",
+      "Hizmet Modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1eke18qt0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Bulut bilişim güvenlik risklerinden hangisi en yaygın görülen tehdittir?",
+    "explanation": "Bulut bilişimde en yaygın güvenlik riski veri sızıntılarıdır. Kullanıcıların kimlik bilgileri ve hassas veriler bulut platformlarında korunmalıdır.",
+    "options": [
+      "Veri sızıntısı (Data Breach)",
+      "Fiziksel saldırı",
+      "Network kesintisi",
+      "Donanım arızası"
+    ],
+    "correctAnswer": "Veri sızıntısı (Data Breach)",
+    "tags": [
+      "Bulut Bilişim",
+      "Güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fu7f0hcxb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "AWS, Azure ve Google Cloud hangi şirketlerin bulut hizmetleridir?",
+    "explanation": "AWS (Amazon), Microsoft Azure ve Google Cloud, küresel bulut hizmet sağlayıcısı olan büyük teknoloji şirketleridir.",
+    "options": [
+      "Teknoloji devleri",
+      "Banka kurumları",
+      "Eğitim kuruluşları",
+      "Sağlık merkezleri"
+    ],
+    "correctAnswer": "Teknoloji devleri",
+    "tags": [
+      "Bulut Bilişim",
+      "Piyasalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ry89dti7o",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Bulut bilişim maliyet avantajı nasıl sağlanır?",
+    "explanation": "Bulut bilişimde şirketler ön yatırım yapmadan, sadece kullandığı kaynaklar için öder. Bu da ölçeklenebilir ve maliyet verimli bir modeldir.",
+    "options": [
+      "Önümüzdeki donanım alımı gerektirmez",
+      "Veri merkezi kurulumu zorunludur",
+      "Personel işe almaları gerekir",
+      "Fiziksel sunuculara yatırım yapılmalıdır"
+    ],
+    "correctAnswer": "Önümüzdeki donanım alımı gerektirmez",
+    "tags": [
+      "Bulut Bilişim",
+      "Maliyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8klua0pkj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut Bilişim'in temel tanımı nedir?",
+    "explanation": "Bulut bilişim, internet üzerinden erişilen ve paylaşılan bilgisayar kaynaklarını (sunucular, depolama, ağ vb.) kapsayan bir teknolojidir. Bu sayede kullanıcılar fiziksel altyapı kurmadan hizmetlerden faydalanır.",
+    "options": [
+      "Tek bir sunucuda tüm uygulamaların çalıştırılması",
+      "İnternet üzerinden erişilen paylaşılan bilgisayar kaynakları",
+      "Yerel ağda çalışan özel sunucu altyapısı",
+      "Sadece fiziksel donanım satın alma modeli"
+    ],
+    "correctAnswer": "İnternet üzerinden erişilen paylaşılan bilgisayar kaynakları",
+    "tags": [
+      "bulut-bilgisayar",
+      "temel-kavram",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bxm2usi43",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Bulut Bilişim'in 'IaaS' (Infrastructure as a Service) modeli aşağıdakilerden hangisidir?",
+    "explanation": "IaaS (Infrastructure as a Service), kullanıcıların fiziksel sunucu, depolama, ağ gibi temel altyapı bileşenlerini buluttan kiralamasına olanak tanır. Örnekleri: AWS EC2, Azure Virtual Machines.",
+    "options": [
+      "Sadece uygulama yazılımı sunulması",
+      "Temel sunucu donanımı ve altyapısının kiralanması",
+      "Tamamen yönetilen bulut hizmetleri",
+      "Sadece veri depolama alanı"
+    ],
+    "correctAnswer": "Temel sunucu donanımı ve altyapısının kiralanması",
+    "tags": [
+      "bulut-hizmet-modelleri",
+      "iaas",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qz46vkthi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Bulut Bilişim'in 'SaaS' (Software as a Service) modelinde kullanıcılar neyi kiralar?",
+    "explanation": "SaaS (Software as a Service), hazır yazılım uygulamalarını bulut üzerinden sunan modeldir. Örnekler: Google Workspace, Microsoft 365, Salesforce gibi abonelik tabanlı uygulamalardır.",
+    "options": [
+      "Sunucu donanımını",
+      "Uygulama yazılımını",
+      "Fiziksel ağ bileşenlerini",
+      "Veri merkezi altyapısını"
+    ],
+    "correctAnswer": "Uygulama yazılımını",
+    "tags": [
+      "bulut-hizmet-modelleri",
+      "saas",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9wx7cvr2g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut Bilişim'de 'PaaS' (Platform as a Service) modeli hangi altyapı katmanını içerir?",
+    "explanation": "PaaS (Platform as a Service), yazılım geliştiricilerin uygulamalarını oluşturup çalıştırabilmek için sağlayıcı tarafından sunulan platformu içerir. Örnekler: Google App Engine, Heroku gibi servislerdir.",
+    "options": [
+      "Sadece uygulama katmanı",
+      "Temel donanım ve sunucu katmanı",
+      "Yazılım geliştirme ve çalıştırma ortamı",
+      "Veri merkezi fiziksel altyapısı"
+    ],
+    "correctAnswer": "Yazılım geliştirme ve çalıştırma ortamı",
+    "tags": [
+      "bulut-hizmet-modelleri",
+      "paas",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "03m1b5ryu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut Bilişim'de 'Hibrit Bulut' (Hybrid Cloud) nedir?",
+    "explanation": "Hibrit Bulut, yerel sunucu altyapısı ile bulut bilişim hizmetlerini birleştiren modeldir. Bu sayede kritik uygulamalar yerelde, esneklik gerektiren işler bulutta çalıştırılabilir.",
+    "options": [
+      "Tek bir bulut sağlayıcısı kullanılması",
+      "Yerel sunucu ile bulut bilişiminin birleştirilmesi",
+      "Sadece açık kaynaklı donanım kullanılması",
+      "Tüm uygulamaların aynı anda çalıştırılması"
+    ],
+    "correctAnswer": "Yerel sunucu ile bulut bilişiminin birleştirilmesi",
+    "tags": [
+      "bulut-deployman-tipleri",
+      "hibrit-bulut",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "clmrzhngx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Bulut bilişimin maliyet avantajı nedir?",
+    "explanation": "Bulut bilişimde 'kullandıkça öde' modeli sayesinde, sadece kullanılan kaynaklar için ödeme yapılır ve başlangıç maliyeti düşüktür.",
+    "options": [
+      "Başlangıç maliyeti yüksek",
+      "Ön ödemeler gerekli",
+      "Pay-as-you-go modeli",
+      "Sabit aylık ücret"
+    ],
+    "correctAnswer": "Pay-as-you-go modeli",
+    "tags": [
+      "TEKNOLOJİ",
+      "Bulut Bilişim",
+      "Maliyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zv2l6jmnd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişim nedir?",
+    "explanation": "Bulut bilişim, internet üzerinden sunulan paylaşılan bilgisayar kaynaklarına (sunucu, depolama, ağ vb.) erişim sağlayan bir modeldir.",
+    "options": [
+      "Sadece yerel sunuculara erişim sağlar",
+      "İnternet üzerinden paylaşılan bilgisayar kaynaklarına erişim imkanı sunar",
+      "Sadece mobil uygulamaları çalıştırır",
+      "Veriyi şifreleme için kullanılır"
+    ],
+    "correctAnswer": "İnternet üzerinden paylaşılan bilgisayar kaynaklarına erişim imkanı sunar",
+    "tags": [
+      "Bulut Bilişim",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zhm938dej",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bulut bilişim servis modellerinden biri DEĞİLDİR?",
+    "explanation": "Standart bulut bilişim servis modelleri SaaS, PaaS ve IaaS'dir. HaaS resmi bir bulut modeli değildir.",
+    "options": [
+      "SaaS (Software as a Service)",
+      "PaaS (Platform as a Service)",
+      "IaaS (Infrastructure as a Service)",
+      "HaaS (Hardware as a Service)"
+    ],
+    "correctAnswer": "HaaS (Hardware as a Service)",
+    "tags": [
+      "Bulut Bilişim",
+      "Servis Modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y0hn9exud",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişimde 'Kullanıcı Kontrolü' hangi seviyede daha azdır?",
+    "explanation": "SaaS modelinde kullanıcı en az kontrolü sahiptir çünkü uygulama, işletim sistemi ve altyapı sağlayıcı tarafından yönetilir.",
+    "options": [
+      "SaaS'ta",
+      "PaaS'ta",
+      "IaaS'ta",
+      "Tüm modellerde eşittir"
+    ],
+    "correctAnswer": "SaaS'ta",
+    "tags": [
+      "Bulut Bilişim",
+      "Güvenlik ve Kontrol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8zefkags2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Bulut bilişimin avantajlarından hangisi DEĞİLDİR?",
+    "explanation": "Bulut bilişimde fiziksel sunucu üzerinde tam kontrol yoktur; bu geleneksel on-premise altyapının özelliğidir.",
+    "options": [
+      "Maliyet verimliliği",
+      "Hızlı kaynak ölçeklenebilirliği",
+      "Fiziksel sunucu tam kontrolü",
+      "Esneklik"
+    ],
+    "correctAnswer": "Fiziksel sunucu tam kontrolü",
+    "tags": [
+      "Bulut Bilişim",
+      "Avantajlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jwgjq05xt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "AWS, Azure ve Google Cloud Platform hangi bulut modeline örnek teşkil eder?",
+    "explanation": "AWS, Azure ve Google Cloud Platform kamusal bulut sağlayıcılarıdır; kaynaklar çok sayıda müşteriye sunulur.",
+    "options": [
+      "Hibrit Bulut",
+      "Kamusal Bulut (Public Cloud)",
+      "Özel Bulut (Private Cloud)",
+      "Sınırlı Bulut"
+    ],
+    "correctAnswer": "Kamusal Bulut (Public Cloud)",
+    "tags": [
+      "Bulut Bilişim",
+      "Bulut Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p6mxd5m45",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişimde 'SaaS' modelinin tam adı nedir?",
+    "explanation": "SaaS (Software as a Service), bulut bilişimin en yaygın kullanım modelidir ve kullanıcıların yazılımları sunucu üzerinden kullanmasını sağlar.",
+    "options": [
+      "Software as a Service",
+      "System as a Service",
+      "Storage as a Service",
+      "Security as a Service"
+    ],
+    "correctAnswer": "Software as a Service",
+    "tags": [
+      "Bulut Bilişim",
+      "SaaS",
+      "Hizmet Modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w330fjnaw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi PaaS (Platform as a Service) modeli için örnektir?",
+    "explanation": "PaaS (Platform as a Service), geliştiricilerin uygulamalarını oluşturmak için platform sağlar. Google App Engine bir PaaS hizmetidir.",
+    "options": [
+      "Microsoft Office 365",
+      "Google App Engine",
+      "Amazon S3",
+      "Dropbox"
+    ],
+    "correctAnswer": "Google App Engine",
+    "tags": [
+      "Bulut Bilişim",
+      "PaaS",
+      "Geliştirme Platformu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ivpbwlviu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişim sunucularının fiziksel konumu nerede olmalıdır?",
+    "explanation": "Bulut bilişim sunucuları özel olarak tasarlanmış veri merkezlerinde (data centers) barındırılır.",
+    "options": [
+      "Kullanıcının evinde",
+      "Sunucu odasında veya veri merkezinde",
+      "Telefonun içinde",
+      "Bilgisayarın RAM'inde"
+    ],
+    "correctAnswer": "Sunucu odasında veya veri merkezinde",
+    "tags": [
+      "Bulut Bilişim",
+      "Altyapı",
+      "Veri Merkezi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "drh4ur145",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "IaaS (Infrastructure as a Service) modelinde kullanıcılar neyi yönetir?",
+    "explanation": "IaaS (Infrastructure as a Service), sunucu, ağ ve depolama gibi temel altyapı bileşenlerini yönetmeyi kullanıcıya sağlar.",
+    "options": [
+      "Sadece uygulama kodunu",
+      "Sunucu, ağ ve depolama altyapısını",
+      "Yalnızca veritabanını",
+      "Donanımın tamamını"
+    ],
+    "correctAnswer": "Sunucu, ağ ve depolama altyapısını",
+    "tags": [
+      "Bulut Bilişim",
+      "IaaS",
+      "Altyapı Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ktzjd8uwk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişimin güvenlik modelinde 'paylaşılan sorumluluk modeli' ne anlama gelir?",
+    "explanation": "Paylaşılan sorumluluk modeli, bulut bilişimde güvenlik yükünün hem sağlayıcı hem de kullanıcı tarafından yönetildiğini ifade eder.",
+    "options": [
+      "Tüm yükü bulut sağlayıcısı taşır",
+      "Sorumluluk bulut sağlayıcı ve kullanıcı arasında paylaşılır",
+      "Kullanıcı tüm sorumluluğu taşır",
+      "Üçüncü taraf şirket yönetir"
+    ],
+    "correctAnswer": "Sorumluluk bulut sağlayıcı ve kullanıcı arasında paylaşılır",
+    "tags": [
+      "Bulut Bilişim",
+      "Güvenlik",
+      "Paylaşılan Sorumluluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vjz8vrwvp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişimin temel tanımı aşağıdakilerden hangisidir?",
+    "explanation": "Bulut bilişim, kullanıcıların internet aracılığıyla sanal sunucular, depolama veya uygulama servislerine erişmesini sağlar. Fiziksel altyapı bulut sağlayıcı tarafından yönetilir.",
+    "options": [
+      "Fiziksel sunucuların kullanılması",
+      "İnternet üzerinden erişilebilen ve paylaşılan kaynaklar",
+      "Sadece veri depolama hizmeti",
+      "Yalnızca yazılım geliştirme altyapısı"
+    ],
+    "correctAnswer": "İnternet üzerinden erişilebilen ve paylaşılan kaynaklar",
+    "tags": [
+      "Bulut",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rwxsh0gok",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi IaaS (Infrastructure as a Service) örneğidir?",
+    "explanation": "IaaS, kullanıcıların sanal sunucu ve depolama gibi temel altyapı bileşenlerini yönetmesine olanak tanır. Amazon EC2, IaaS hizmetinin bir örneğidir.",
+    "options": [
+      "Google Apps",
+      "Amazon EC2",
+      "Salesforce.com",
+      "Microsoft Office 365"
+    ],
+    "correctAnswer": "Amazon EC2",
+    "tags": [
+      "Bulut Hizmetleri",
+      "IaaS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wu4ei4vix",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişim güvenliğinde sorumluluk paylaşımı modeli nedir?",
+    "explanation": "Bulut sağlayıcı altyapıyı, kullanıcı ise uygulamalarını ve verilerini yönetir. Güvenlik sorumluluğu paylaşılır.",
+    "options": [
+      "Sadece bulut sağlayıcısı sorumlu",
+      "Kullanıcı tüm güvenlikleri sağlar",
+      "Paylaşımlı sorumluluk modelinde her iki taraf da katkı sağlar",
+      "Yalnızca veri şifrelemesi sorumluluktur"
+    ],
+    "correctAnswer": "Paylaşımlı sorumluluk modelinde her iki taraf da katkı sağlar",
+    "tags": [
+      "Güvenlik",
+      "Sorumluluk Paylaşımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qh5vzbs3c",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Hybrid bulut bilişim modeli hangi iki türü birleştirir?",
+    "explanation": "Hybrid bulut, public ve private bulutların bir arada kullanılmasını sağlayan modeldir.",
+    "options": [
+      "Sadece public cloud",
+      "Yalnızca private cloud",
+      "Public ve private cloud kombinasyonu",
+      "Community cloud ile private cloud"
+    ],
+    "correctAnswer": "Public ve private cloud kombinasyonu",
+    "tags": [
+      "Bulut Modelleri",
+      "Deployment"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a708abt0e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişimde en yaygın maliyet modeli hangisidir?",
+    "explanation": "Pay-as-you-go modeli, kullanıcıların sadece kullandıkları kaynaklar için ödeme yapmasını sağlar.",
+    "options": [
+      "Ön ödeme",
+      "Aylık abonelik",
+      "Kullanım bazlı (pay-as-you-go)",
+      "Sabit yıllık ücret"
+    ],
+    "correctAnswer": "Kullanım bazlı (pay-as-you-go)",
+    "tags": [
+      "Maliyet",
+      "Bulut Hizmetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "49iwqslrw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Bulut bilişiminin temel özelliklerinden biri nedir?",
+    "explanation": "Bulut bilişiminin temel özellikleri arasında geniş ölçeklenebilirlik, şeffaflık ve hizmet odaklı mimari bulunur. Geniş ölçeklenebilirlik sayesinde sistemler ihtiyaç duyulan kaynaklara göre kolayca büyütülebilir.",
+    "options": [
+      "Şeffaflık",
+      "Geniş ölçeklenebilirlik",
+      "Sınırlı erişim",
+      "Tek kullanıcılı sistem"
+    ],
+    "correctAnswer": "Geniş ölçeklenebilirlik",
+    "tags": [
+      "bulut bilişim",
+      "temel kavramlar",
+      "TEKNOLOJİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7s4lfrh6b",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bulut bilişim servis modellerinden biri DEĞİLDİR?",
+    "explanation": "Bulut bilişiminin üç temel servis modeli vardır: IaaS (Altyapı), PaaS (Platform) ve SaaS (Yazılım). HaaS resmi bir bulut servis modeli değildir.",
+    "options": [
+      "IaaS (Infrastructure as a Service)",
+      "PaaS (Platform as a Service)",
+      "SaaS (Software as a Service)",
+      "HaaS (Hardware as a Service)"
+    ],
+    "correctAnswer": "HaaS (Hardware as a Service)",
+    "tags": [
+      "bulut bilişim",
+      "servis modelleri",
+      "IaaS PaaS SaaS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5cp2hc23z",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Azure, AWS ve Google Cloud Platform hangi tür hizmet sağlarlar?",
+    "explanation": "Microsoft Azure, Amazon AWS ve Google Cloud Platform dünya çapında en büyük bulut bilişim sağlayıcılarıdır. Bunlar altyapı, platform ve yazılım hizmetleri sunar.",
+    "options": [
+      "Bulut bilişim",
+      "Sadece donanım satışı",
+      "Yerel sunucu kiralama",
+      "Teknoloji danışmanlığı"
+    ],
+    "correctAnswer": "Bulut bilişim",
+    "tags": [
+      "bulut sağlayıcıları",
+      "Azure",
+      "AWS",
+      "GCP"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "om5tvk9n6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişimde 'verginin sorumluluğu' (shared responsibility) modelinde kim güvenlikten sorumludur?",
+    "explanation": "Bulut güvenlik modelinde bulut sağlayıcı altyapı güvenliğinden (fiziksel, ağ) sorumludur, müşteri ise veri ve uygulama güvenliğinden sorumludur.",
+    "options": [
+      "Tamamen bulut sağlayıcı",
+      "Tamamen müşteri",
+      "Paylaşımlı - sağlayıcı ve müşterinin alanları",
+      "Hiç kimse"
+    ],
+    "correctAnswer": "Paylaşımlı - sağlayıcı ve müşterinin alanları",
+    "tags": [
+      "güvenlik",
+      "paylaşımlı sorumluluk",
+      "bulut mimarisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dv8xy6o87",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Hangi bulut dağıtım modeli sadece şirket içi sunucuları içerir?",
+    "explanation": "Private Cloud (Özel Bulut) tek bir kuruluş için ayarlanmış, sadece şirket içi sunucuları ve kaynakları kullanan kapalı bulut modelidir.",
+    "options": [
+      "Public Cloud",
+      "Private Cloud",
+      "Hybrid Cloud",
+      "Community Cloud"
+    ],
+    "correctAnswer": "Private Cloud",
+    "tags": [
+      "bulut dağıtımı",
+      "private cloud",
+      "public cloud"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdkxrlsm9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişiminin temel özelliklerinden biri olan 'ölçeklenebilirlik' neyi ifade eder?",
+    "explanation": "Ölçeklenebilirlik, bulut bilişiminin en önemli özelliklerinden biridir ve sistem kaynaklarının (CPU, bellek, depolama vb.) kullanıcı talebine göre dinamik olarak ayarlanabildiğini ifade eder.",
+    "options": [
+      "A) Sistem sadece büyük verilerle çalışır",
+      "B) Kaynakların ihtiyaca göre arttırılabilir veya azaltılabilir olması",
+      "C) Tek bir sunucuda tüm işlemlerin yürütülmesi",
+      "D) Verilerin yerel olarak saklanması"
+    ],
+    "correctAnswer": "B) Kaynakların ihtiyaca göre arttırılabilir veya azaltılabilir olması",
+    "tags": [
+      "BULUT-BİLİŞİM",
+      "TEKNOLOJİ",
+      "YAPILANMAZLIK"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rr8gamat8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Amazon Web Services (AWS), Microsoft Azure veya Google Cloud Platform gibi hizmetler hangi bulut modeline örnektir?",
+    "explanation": "AWS, Azure ve Google Cloud gibi büyük sağlayıcıların herkesin erişebileceği altyapıları 'Halka Açık Bulut' olarak sınıflandırılır.",
+    "options": [
+      "A) Özel Bulut (Private Cloud)",
+      "B) Halka Açık Bulut (Public Cloud)",
+      "C) Hibrit Bulut",
+      "D) Yerel Sunucu Altyapısı"
+    ],
+    "correctAnswer": "B) Halka Açık Bulut (Public Cloud)",
+    "tags": [
+      "BULUT-BİLİŞİM",
+      "TEKNOLOJİ",
+      "BULUT-MODELLERİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p2dfmkjhb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Bulut bilişimde 'IaaS' (Infrastructure as a Service) modeli aşağıdakilerden hangisidir?",
+    "explanation": "IaaS, altyapı bileşenlerinin (sunucu, sanallaştırma, depolama) bulut üzerinden kiralanmasını sağlayan modeldir.",
+    "options": [
+      "A) Sadece uygulama yazılımı sunulması",
+      "B) Sanallaştırılmış sunucu, depolama ve ağ altyapısının kiralama",
+      "C) Veri tabanı yönetim hizmetleri",
+      "D) Kullanıcı arayüz tasarımı"
+    ],
+    "correctAnswer": "B) Sanallaştırılmış sunucu, depolama ve ağ altyapısının kiralama",
+    "tags": [
+      "BULUT-BİLİŞİM",
+      "TEKNOLOJİ",
+      "BULUT-HİZMET-MODELLERİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lty0f7ibb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişiminde 'PaaS' (Platform as a Service) modeli hangi amaçla kullanılır?",
+    "explanation": "PaaS, geliştiricilere uygulama kodlama, test ve dağıtım için hazır platform sunarak altyapı yönetimini minimize eder.",
+    "options": [
+      "A) Tam donanım kontrolü için",
+      "B) Geliştirici araçları ve platformun sunumunu kolaylaştırarak uygulama geliştirmek için",
+      "C) Veri saklamadan sadece işleme yapmak için",
+      "D) Kullanıcı arayüzünü yönetmek için"
+    ],
+    "correctAnswer": "B) Geliştirici araçları ve platformun sunumunu kolaylaştırarak uygulama geliştirmek için",
+    "tags": [
+      "BULUT-BİLİŞİM",
+      "TEKNOLOJİ",
+      "YAZILIM-GELİŞTİRME"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2fi4y881h",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişimde 'SaaS' (Software as a Service) modeli hangi örneklerle temsil edilir?",
+    "explanation": "SaaS, hazır yazılımın bulut üzerinden sunulduğu modeldir ve Google Workspace, Salesforce, Office 365 gibi uygulamalar bu kategoride yer alır.",
+    "options": [
+      "A) AWS EC2, Azure Virtual Machines",
+      "B) Google Workspace, Salesforce, Office 365",
+      "C) Docker Swarm, Kubernetes",
+      "D) Linux, Windows Server"
+    ],
+    "correctAnswer": "B) Google Workspace, Salesforce, Office 365",
+    "tags": [
+      "BULUT-BİLİŞİM",
+      "TEKNOLOJİ",
+      "YAZILIM-HİZMETLERİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "59mi5tav6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişim nedir?",
+    "explanation": "Bulut bilişim, donanım ve yazılımların internet üzerinden sağlanması ve paylaşılan bir altyapı kullanılarak erişilmesidir.",
+    "options": [
+      "Kurumun kendi veri merkezlerinde çalışan sunucular",
+      "İnternet üzerinden erişilen ve yönetilen bilgisayar kaynakları",
+      "Yalnızca yerel ağda (LAN) kullanılabilen depolama çözümleri",
+      "Mobil cihazlarda kurulan özel yazılımlar"
+    ],
+    "correctAnswer": "İnternet üzerinden erişilen ve yönetilen bilgisayar kaynakları",
+    "tags": [
+      "Bulut",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o2swwjleo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "SaaS (Software as a Service) modeli hangisidir?",
+    "explanation": "SaaS, kullanıcılara yazılımları bulut üzerinde sunarak abonelik modelinde erişim sağlayan bir hizmettir.",
+    "options": [
+      "Altyapıyı kiralayarak sunucu yönetimini yapan",
+      "Yazılımı satın alıp kendi sunucuda çalıştıran",
+      "Yazılımı internet üzerinden abonelik modelinde kullanan",
+      "Donanımsız yazılım geliştirme ortamı"
+    ],
+    "correctAnswer": "Yazılımı internet üzerinden abonelik modelinde kullanan",
+    "tags": [
+      "SaaS",
+      "Servis Modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebj5cnsfa",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "Kamu (Public) Bulutu özellikleri nelerdir?",
+    "explanation": "Kamu bulutu, üçüncü taraf sağlayıcılar tarafından yönetilir ve birçok müşteriye hizmet veren ortak altyapıları kullanan bir bulut türüdür.",
+    "options": [
+      "Tek organizasyon tarafından yönetilir",
+      "Çoklu müşterilere açık ve paylaşılan altyapı kullanılır",
+      "Hepsi tek bir şirketin veri merkezindedir",
+      "Sadece gizli verilere uygundur"
+    ],
+    "correctAnswer": "Çoklu müşterilere açık ve paylaşılan altyapı kullanılır",
+    "tags": [
+      "Public Cloud",
+      "Deployman Tipi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xy2mzlks4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişimde 'Pay-as-you-go' maliyet modeli avantajı nedir?",
+    "explanation": "Pay-as-you-go modeli, kullanıcıların sadece kullandıkları işlem gücü ve depolama alanı için ücret ödemelerini sağlar.",
+    "options": [
+      "Sabit aylık ücret ödenir",
+      "Kullanılan kaynak miktarına göre ödeme yapılır",
+      "Donatım yatırım gerektirir",
+      "Bağlantı hızı sabittir"
+    ],
+    "correctAnswer": "Kullanılan kaynak miktarına göre ödeme yapılır",
+    "tags": [
+      "Maliyet",
+      "Özelleştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yx22d0ni7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişim güvenlik sorumluluk paylaşımı (Shared Responsibility Model) neyi ifade eder?",
+    "explanation": "Bulut sağlayıcısı altyapıyı (sunucu, ağ), kullanıcı ise kendi verilerini ve uygulamalarını güvenlik açısından yönetir.",
+    "options": [
+      "Tüm güvenlik müşterinin sorumluluğundadır",
+      "Tüm güvenlik sağlayıcının sorumluluğundadır",
+      "Sağlayıcı altyapı güvenliğinden, müşteri veri güvenliğinden sorumludur",
+      "Sadece firewall kullanıcı tarafından yönetilir"
+    ],
+    "correctAnswer": "Sağlayıcı altyapı güvenliğinden, müşteri veri güvenliğinden sorumludur",
+    "tags": [
+      "Güvenlik",
+      "Sorumluluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "36oott04d",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EASY",
+    "question": "Bulut bilişimi (cloud computing) aşağıdakilerden hangisi tanımlamaz?",
+    "explanation": "Bulut bilişim, donanım almadan hizmet kullanmayı sağlar. Donanım satın alma zorunluluğu bulut bilişimin temel prensibine aykırıdır.",
+    "options": [
+      "A) Veri depolama",
+      "B) Yazılım dağıtımı",
+      "C) Donanım satın alma zorunluluğu",
+      "D) Ağ kaynakları paylaşımı"
+    ],
+    "correctAnswer": "C) Donanım satın alma zorunluluğu",
+    "tags": [
+      "bulut-bilgisim",
+      "temel-kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "93cdquaca",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "IaaS (Infrastructure as a Service) modeli aşağıdakilerden hangisi örneğidir?",
+    "explanation": "Amazon EC2, altyapı olarak hizmet veren (IaaS) bir bulut platformudur. Kullanıcılar sanal makineler kurup yönetebilir.",
+    "options": [
+      "A) Salesforce",
+      "B) Amazon EC2",
+      "C) Google Docs",
+      "D) Microsoft Office 365"
+    ],
+    "correctAnswer": "B) Amazon EC2",
+    "tags": [
+      "iaas",
+      "bulut-hizmet-modeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o29sg9tvs",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "GENERAL",
+    "question": "SaaS (Software as a Service) modelinin temel avantajı nedir?",
+    "explanation": "SaaS modelinde yazılım bulutta barındırılır ve tarayıcı üzerinden erişilir. Kullanıcılar güncellemelerle uğraşmaz.",
+    "options": [
+      "A) Tam donanım kontrolü",
+      "B) Güncellemelerin kullanıcı tarafından yapılması",
+      "C) Yazılımın tarayıcı üzerinden erişilebilmesi",
+      "D) Verilerin yerel sunucuda saklanması"
+    ],
+    "correctAnswer": "C) Yazılımın tarayıcı üzerinden erişilebilmesi",
+    "tags": [
+      "saas",
+      "bulut-hizmet-modeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "du7iycg6z",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bulut Bilişim",
+    "difficulty": "EXPERT",
+    "question": "Bulut bilişim güvenlik risklerinden hangisi en yaygın sorundur?",
+    "explanation": "Bulut bilişimde en kritik güvenlik riski, veri gizliliği ihlali ve yetkisiz erişimlerle ilişkilidir. Doğru kimlik doğrulama gerekir.",
+    "options": [
+      "A) Donanım arızaları",
+      "B) Veri ihlalleri ve yetkisiz erişimler",
+      "C) Yavaş internet bağlantısı",
+      "D) Kullanıcı hataları"
+    ],
+    "correctAnswer": "B) Veri ihlalleri ve yetkisiz erişimler",
+    "tags": [
+      "bulut-guvenlik",
+      "risk-yonetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

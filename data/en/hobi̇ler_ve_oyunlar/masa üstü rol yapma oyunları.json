@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "5gbpqh7si",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons 5. edisyonunda, karakterin temel yetenek kontrolü hangi özelliğe dayanır?",
+    "explanation": "D&D 5. edisyonda karakterin temel yetenek kontrolü (STR, DEX, CON, INT, WIS, CHA) Yetenek Modifikatörü üzerinden hesaplanır ve bu modifikatörler +1 veya -1 değerlerini temsil eder.",
+    "options": [
+      "Karakter Sınıfı",
+      "Beceriler",
+      "Yetenek Modifikatörü",
+      "Zirve Özellikleri"
+    ],
+    "correctAnswer": "Yetenek Modifikatörü",
+    "tags": [
+      "D&D",
+      "Mekanik",
+      "Yetenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0a8y3pgjv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi sistemde 'Beceriler' (Skills) doğrudan D&D benzeri bir mekanik olarak kullanılmaz?",
+    "explanation": "Call of Cthulhu'da geleneksel D&D benzeri 'Skills' yerine, daha az sayıda yetenek (Attributes ve Skills) kullanılır ve mekanikleri farklıdır. Pathfinder 2. edisyonunda ise klasik skill sistemi devam eder.",
+    "options": [
+      "Pathfinder 2. edisyon",
+      "Call of Cthulhu",
+      "Warhammer Fantasy Roleplay",
+      "Palladium Books"
+    ],
+    "correctAnswer": "Call of Cthulhu",
+    "tags": [
+      "Sistemler",
+      "Mekanik",
+      "Beceriler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jt8q3iyom",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "D&D 5. edisyonda, bir karakterin 'Mizahi Yetenek' kontrolü hangi temel özelliğe bağlıdır?",
+    "explanation": "D&D 5. edisyonda Mizahi Yetenek (Charisma) Karizma özelliğine bağlıdır ve bu özellik karakterin ikna, sosyal etkileşim ve komut verme yeteneğini kontrol eder.",
+    "options": [
+      "Kuvvet (STR)",
+      "Zekâ (INT)",
+      "Karizma (CHA)",
+      "Bilişim (WIS)"
+    ],
+    "correctAnswer": "Karizma (CHA)",
+    "tags": [
+      "D&D",
+      "Yetenekler",
+      "Özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "euse3gzrk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Tabletop Role-Playing Games'de 'Game Master' veya 'GM' ne işlevi görür?",
+    "explanation": "Game Master (GM), oyunun hikayesini yönlendirir, dünyayı oluşturur, NPC'leri kontrol eder ve kuralları yöneterek oyuna liderlik eder. Diğer oyuncular ise karakterlerini yönetir.",
+    "options": [
+      "Karakter oluşturur",
+      "Oyunun hikayesini yönlendirir ve kuralları yönetir",
+      "Diğer oyuncularla rekabet eder",
+      "Sadece combat'i yönetir"
+    ],
+    "correctAnswer": "Oyunun hikayesini yönlendirir ve kuralları yönetir",
+    "tags": [
+      "GM",
+      "Hikaye",
+      "Yönetim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ww5oq6gxn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Pathfinder 2. edisyonunda, 'Karakter Sınıfı' seçiminde hangi sistem kullanılır?",
+    "explanation": "Pathfinder 2. edisyonunda 'Action Economy' sistemi, karakterlerin ne kadar hareket ve eylem yapabildiğini kontrol eder. Düzeltme (Advantage/Disadvantage) mekanikleri de bu sistemde öne çıkar.",
+    "options": [
+      "Sadece yetenek puanı",
+      "Özellik puanı + yetenek modifikatörü",
+      "Düzeltme tabanlı (Action Economy)",
+      "Hikaye odaklı"
+    ],
+    "correctAnswer": "Düzeltme tabanlı (Action Economy)",
+    "tags": [
+      "Pathfinder",
+      "Mekanik",
+      "Karakter Sınıfı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ao01es7ip",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons (D&D) oyununda oyuncu karakterleri hangi temel sistemi kullanarak dünyayı keşfederler?",
+    "explanation": "Dungeons & Dragons, oyuncuların bir masada (tabletop) oturarak karakterlerini canlandırıp dünyayı keşfetmelerini sağlayan en popüler masaüstü rol yapma oyunudur.",
+    "options": [
+      "Kart tabanlı sistem",
+      "Tablodan rol yapma sistemi",
+      "Video oyunu gibi butonlara basarak",
+      "Sesli komutlar ile"
+    ],
+    "correctAnswer": "Tablodan rol yapma sistemi",
+    "tags": [
+      "D&D",
+      "Masaüstü RPG",
+      "Temel Kavram"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7lu3qrznh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Pathfinder role-playing sistemi hangi yıl piyasaya sürülmüştür?",
+    "explanation": "Pathfinder Roleplaying Game, WotC tarafından 2008 yılında piyasaya sürülen ve D&D'ten farklı mekanikler sunan popüler bir masaüstü RPG sistemidir.",
+    "options": [
+      "1974",
+      "2008",
+      "1996",
+      "2015"
+    ],
+    "correctAnswer": "2008",
+    "tags": [
+      "Pathfinder",
+      "Tarihçe",
+      "D&D Alternatifi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pahgucnhh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masaüstü rol yapma oyunlarında DM (Dungeon Master) veya Storyteller ne işe yarar?",
+    "explanation": "DM (Dungeon Master) veya Storyteller, oyun dünyasını yöneten, hikayeyi anlatan ve tüm oyuncuların deneyimini kontrol eden kişidir.",
+    "options": [
+      "Yarışma jübisi",
+      "Oyunun hikaye anlatıcısı ve kuralları yöneticisi",
+      "Kart dağıtıcısı",
+      "Oynanış desteği"
+    ],
+    "correctAnswer": "Oyunun hikaye anlatıcısı ve kuralları yöneticisi",
+    "tags": [
+      "DM Rolü",
+      "Girişimcilik",
+      "Yönetim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4vj7ih2vp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Which of these is a common character class in tabletop RPGs?",
+    "explanation": "Tank, masaüstü RPG'lerde savaşan karakterlerin önemli bir sınıfıdır. D&D gibi oyunlarda fiziksel hasar alan ve grupları koruyan karakterlere denir.",
+    "options": [
+      "Tank",
+      "Gamer",
+      "Streamer",
+      "Player"
+    ],
+    "correctAnswer": "Tank",
+    "tags": [
+      "Karakter Sınıfları",
+      "Oynanış",
+      "D&D"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cgwbxaj90",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Masaüstü rol yapma oyunlarında 'dice roll' veya zar atmanın temel amacı nedir?",
+    "explanation": "Masaüstü RPG'lerde zar atmak, olayların rastgelelik ve şans faktörü ile belirlenmesini sağlar. Başarı veya başarısızlık oranları zar sonuçlarına göre değişir.",
+    "options": [
+      "Rakibin puanını artırmak",
+      "Olayların belirsizlik ve şans faktörü ile gerçekleşmesi",
+      "Karakterlerin seviyesini yükseltmek",
+      "Yarışmaların sonucu"
+    ],
+    "correctAnswer": "Olayların belirsizlik ve şans faktörü ile gerçekleşmesi",
+    "tags": [
+      "Zar Atma",
+      "Mekanik",
+      "Oynanış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z5ets58l2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "D&D'de 'Yaratıcılar Sırası' (DM) rolü nedir?",
+    "explanation": "D&D'de DM (Dungeon Master) hikayeyi yönlendirir, karakter gelişimini takip eder ve oyun dünyasını yönetir.",
+    "options": [
+      "Oyunun teknik yönetimini yapar",
+      "Oyunda hikaye anlatıcısı ve kuralları yönetir",
+      "Oyuncuların savaş stratejisini belirler",
+      "Masaüstü oyunların grafiklerini ayarlar"
+    ],
+    "correctAnswer": "Oyunda hikaye anlatıcısı ve kuralları yönetir",
+    "tags": [
+      "D&D",
+      "DM",
+      "Hikaye Anlatımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w5xpdcdqm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Pathfinder rol yapma sisteminde 'Ability Score'lar nelerdir?",
+    "explanation": "Pathfinder'de 6 temel yetenek skoru vardır: Güç (Str), Çeviklik (Dex), Dayanıklılık (Con), Zeka (Int), Bilgelik (Wis) ve Karizma (Cha).",
+    "options": [
+      "Savaş puanları",
+      "Yetenek skorları (Str,Dex,Con,int,Wis,Cha)",
+      "Oyuncu seviyesi",
+      "Masaüstü oyun sürümü"
+    ],
+    "correctAnswer": "Yetenek skorları (Str,Dex,Con,int,Wis,Cha)",
+    "tags": [
+      "Pathfinder",
+      "Ability Scores",
+      "Karakter İstatistikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "up2xa87mf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Masaüstü rol yapma oyunlarında 'Critical Hit' ne zaman gerçekleşir?",
+    "explanation": "Critical Hit, hasar attığınızda belirli bir koşul sağlandığında (genellikle yüksek atış) oluşan özel durumdur.",
+    "options": [
+      "Oyuncu DM'den puan alır",
+      "Hasar atarken özel durum oluşur",
+      "Teknik hata durumunda",
+      "Hikaye anlatıcısı değiştiğinde"
+    ],
+    "correctAnswer": "Hasar atarken özel durum oluşur",
+    "tags": [
+      "Critical Hit",
+      "Savaş Mekaniği",
+      "Hasar Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t26o0y6s8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "D&D 5'te 'Spellcasting' nedir?",
+    "explanation": "Spellcasting, D&D'de sihirli yetenekler kullanan karakterlerin büyülere erişmesi anlamına gelir.",
+    "options": [
+      "Oyuncu seviyesi yükseltme",
+      "Sihir bilimi ve büyüler kullanma",
+      "Masaüstü oyun grafikleri",
+      "Yaratıcılar sırası görevi"
+    ],
+    "correctAnswer": "Sihir bilimi ve büyüler kullanma",
+    "tags": [
+      "D&D 5e",
+      "Spellcasting",
+      "Büyü Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "47mcmvsfc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Pathfinder 2'ye göre 'Maneuver'lar ne işe yarar?",
+    "explanation": "Maneuvers, Pathfinder 2'de savaş sırasında kullanılan pozisyonlar ve hareket stratejileridir.",
+    "options": [
+      "Oyuncu puanları artırır",
+      "Savaş pozisyonları ve hareket stratejileri",
+      "Teknik hata düzeltme",
+      "Hikaye anlatımını değiştirir"
+    ],
+    "correctAnswer": "Savaş pozisyonları ve hareket stratejileri",
+    "tags": [
+      "Pathfinder 2e",
+      "Maneuver",
+      "Savaş Mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0he1u8lal",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons oyununda 'Savaşçı' sınıfının temel özelliği nedir?",
+    "explanation": "Dungeons & Dragons'ta Savaşçı sınıfı yüksek zırh değerine sahip olabilir ve fiziksel saldırılarda ustalaşır.",
+    "options": [
+      "Büyü atma yetenekleri",
+      "Yüksek zırh ve savunma",
+      "Hızlı hareket etme",
+      "Hayvan kontrolü"
+    ],
+    "correctAnswer": "Yüksek zırh ve savunma",
+    "tags": [
+      "D&D",
+      "Sınıflar",
+      "Mekanikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y05nrzbuo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Masaüstü rol yapma oyunlarında 'DM' ne anlama gelir?",
+    "explanation": "DM, Dungeons & Dragons'taki oyunun yöneticisini ifade eder ve hikayeyi ilerletir.",
+    "options": [
+      "Drama Master",
+      "Data Manager",
+      "Dungeon Master",
+      "Digital Model"
+    ],
+    "correctAnswer": "Dungeon Master",
+    "tags": [
+      "Terimler",
+      "D&D",
+      "Oyun Rolü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jvm6xq7jn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Pathfinder oyununda bir karakterin 'Kritik Vurulma' değeri nasıl artar?",
+    "explanation": "Pathfinder'de kritik vurulma değeri genellikle İş (Dexterity) puanından ve zırh sınıfından etkilenir.",
+    "options": [
+      "Zeka puanı artırarak",
+      "Güç puanı ve zırh sınıfı ile",
+      "İşte (Dexterity) puanı ile",
+      "Beden (Constitution) puanı ile"
+    ],
+    "correctAnswer": "İşte (Dexterity) puanı ile",
+    "tags": [
+      "Pathfinder",
+      "Karakter İstatistikleri",
+      "Mekanikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yr3xovrrc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "D&D'de 'Büyü' kullanabilmek için hangi sınıfa aittir?",
+    "explanation": "Büyücü (Wizard) sınıfı D&D'de büyüler öğrenen ve kullanabilen ana sınıftır.",
+    "options": [
+      "Savaşçı",
+      "Büyücü",
+      "Hafif Savaşçı",
+      "Paladin"
+    ],
+    "correctAnswer": "Büyücü",
+    "tags": [
+      "D&D",
+      "Sınıflar",
+      "Büyü Sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jj53e1akg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Masaüstü rol yapma oyunlarında 'Kamp' sistemi ne işe yarar?",
+    "explanation": "Kamp sistemi oyunculara zaman yönetimi yapma, karakterlerini dinlendirme ve becerilerini geliştirme imkanı tanır.",
+    "options": [
+      "Hızlı oyun bitirme",
+      "Zaman yönetimi ve dinlenme",
+      "Oyuncu sayısı artırma",
+      "Yazılım güncellemesi"
+    ],
+    "correctAnswer": "Zaman yönetimi ve dinlenme",
+    "tags": [
+      "Oyun Mekaniği",
+      "Karakter Gelişimi",
+      "Sistemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hprldgrfz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons (D&D) oyununda karakterin temel yeteneklerini belirlemek için hangi sistem kullanılır?",
+    "explanation": "Dungeons & Dragons'da karakter yetenekleri, zeka puanları ve saldırılar zar atarak belirlenir. Özellikle 20'lilik zar (d20) temel mekaniktir.",
+    "options": [
+      "A) Zar atma sistemi",
+      "B) Kart oyunu",
+      "C) Masaüstü simülasyonu",
+      "D) Sanat çizimi"
+    ],
+    "correctAnswer": "A) Zar atma sistemi",
+    "tags": [
+      "D&D",
+      "rol yapma",
+      "oyun mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "54daou3wd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Pathfinder Roleplaying Game'inde D&D'nin hangi sürümüne benzer bir yapıdadır?",
+    "explanation": "Pathfinder, D&D'nin 5.sürümüne en yakın yapıya sahiptir ve benzer mekanik kuralları kullanır. Pathfinder ise daha detaylı bir kurgu sistemi sunar.",
+    "options": [
+      "A) 3.sürüm",
+      "B) 4.sürüm",
+      "C) 5.sürüm",
+      "D) 2016 sürümü"
+    ],
+    "correctAnswer": "C) 5.sürüm",
+    "tags": [
+      "Pathfinder",
+      "D&D karşılaştırma",
+      "oyun sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q4ua89if0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masaüstü rol yapma oyunlarında DM (Dungeon Master) ne işe yarar?",
+    "explanation": "Dungeon Master (DM), masadaki rol yapma oyunlarında hikayeyi yöneten, NPC'leri canlandıran ve oyunu yönlendiren kişidir.",
+    "options": [
+      "A) Oyunu yöneten hikaye anlatıcısı",
+      "B) Oyuncu karakteri",
+      "C) Yaratıcı tasarımcı",
+      "D) Zar atıcı"
+    ],
+    "correctAnswer": "A) Oyunu yöneten hikaye anlatıcısı",
+    "tags": [
+      "DM",
+      "rol yapma",
+      "oyun rolü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q75bnnudo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Vampire: The Masquerade oyununun temel konsepti nedir?",
+    "explanation": "Vampire: The Masquerade, gerçekçi ve karanlık bir vampir dünyası sunar. Oyuncular vampir karakterleri canlandırır ve siyasi oyunları yönetir.",
+    "options": [
+      "A) Büyülü dünyada vampir yaşamı",
+      "B) Savaşçı karakterler",
+      "C) Bilgisayar simülasyonu",
+      "D) Futbol turnuvası"
+    ],
+    "correctAnswer": "A) Büyülü dünyada vampir yaşamı",
+    "tags": [
+      "Vampire: The Masquerade",
+      "karanlık fantezi",
+      "rol yapma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xeujtnvb7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Tabletop RPG'ler ne anlama gelir?",
+    "explanation": "Tabletop RPG (Role Playing Game), masaüstünde oynanan, zar ve kurgu kitapları ile yönetilen rol yapma oyunlarını ifade eder.",
+    "options": [
+      "A) Masaüstü rol yapma oyunları",
+      "B) Mobil telefon oyunları",
+      "C) Sanal gerçeklik oyunları",
+      "D) Kart oyunu"
+    ],
+    "correctAnswer": "A) Masaüstü rol yapma oyunları",
+    "tags": [
+      "tanım",
+      "rol yapma",
+      "hobi kategorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fhura51jk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Masaüstü rol yapma oyunlarında en yaygın kullanılan ve Dungeons & Dragons serisiyle özdeşleşmiş sistem hangisidir?",
+    "explanation": "Dungeons & Dragons, masaüstü rol yapma oyunlarının en popüler ve temel sistemidir. 5e sürümü şu anda en yaygın kullanılan versiyondur.",
+    "options": [
+      "A) Pathfinder",
+      "B) D&D 5e (Dungeons & Dragons)",
+      "C) Warhammer Fantasy",
+      "D) Shadowrun"
+    ],
+    "correctAnswer": "B) D&D 5e (Dungeons & Dragons)",
+    "tags": [
+      "dnd",
+      "rol-yapma-oyunlar",
+      "masaüstü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3f75tprv5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Bir masada 'Dungeon Master' veya 'Game Master' olarak bilinen kişi ne işlevi görür?",
+    "explanation": "Dungeon Master (DM), oyunun hikayesini oluşturur, dünyayı yönetir ve oyuncuların kararlarının sonuçlarını belirler.",
+    "options": [
+      "A) Oyuncuların karakterlerini oluşturur",
+      "B) Oyun kurallarını açıklar ve hikayeyi yönetir",
+      "C) Sadece puan hesaplar",
+      "D) Masayı temizler"
+    ],
+    "correctAnswer": "B) Oyun kurallarını açıklar ve hikayeyi yönetir",
+    "tags": [
+      "dungeon-master",
+      "oyun-yönetimi",
+      "rol-yapma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vg14gdmm0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masaüstü rol yapma oyunlarında 'stat' veya 'özelli' puanları genellikle hangi amaçla kullanılır?",
+    "explanation": "Stat puanları (Kuvvet, Çeviklik, Zeka vb.) karakterin temel yeteneklerini belirler ve bu yetenekler oyun mekaniklerinin temelini oluşturur.",
+    "options": [
+      "A) Karakterin fiziksel yeteneklerini tanımlamak için",
+      "B) Oyunun zorluğunu ayarlamak için",
+      "C) Sadece para birimi olarak",
+      "D) Oyuncu sayısını belirlemek için"
+    ],
+    "correctAnswer": "A) Karakterin fiziksel yeteneklerini tanımlamak için",
+    "tags": [
+      "stat",
+      "karakter-oluşturma",
+      "yetenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iqiht3fbu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Pathfinder rol yapma oyunu hangi sisteme dayanır ve D&D'den nasıl ayrılır?",
+    "explanation": "Pathfinder, kendi mekaniklerine sahip bağımsız bir sistemdir ve D&D 3.5 sürümünden esinlenmiştir. TTRPG topluluğunda önemli bir alternatiftir.",
+    "options": [
+      "A) Kendi kurallarına sahiptir, D&D'ye alternatif olarak popülerdir",
+      "B) Sadece video oyunlarında bulunur",
+      "C) Online platforma özel bir sistemdir",
+      "D) Warhammer Fantasy ile aynıdır"
+    ],
+    "correctAnswer": "A) Kendi kurallarına sahiptir, D&D'ye alternatif olarak popülerdir",
+    "tags": [
+      "pathfinder",
+      "rol-yapma",
+      "alternatif-sistemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdvhvfbzq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masaüstü rol yapma oyunlarında 'kurgu' veya 'world-building' ne anlama gelir?",
+    "explanation": "World-building, oyun dünyasının coğrafyasını, tarihini, halkını ve kural yapısını ortaya çıkarma sürecidir. DM tarafından yapılır.",
+    "options": [
+      "A) Oyun dünyasının hikaye ve mekaniği tasarlanması",
+      "B) Sadece karakter isimlerinin seçilmesi",
+      "C) Puan tablosunun oluşturulması",
+      "D) Oyuncu sayısının belirlenmesi"
+    ],
+    "correctAnswer": "A) Oyun dünyasının hikaye ve mekaniği tasarlanması",
+    "tags": [
+      "world-building",
+      "kurgu",
+      "hikaye-tasarimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "azgw8rh9d",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Masaüstü Rol Yapma Oyunlarında 'Game Master' (GM) veya 'Dungeon Master' olarak bilinen kişinin temel görevi nedir?",
+    "explanation": "Game Master (GM) veya Dungeon Master, oyunun hikayesini yönetir, mekanikleri tasarlar ve oyunculara rol verir. Kurallar genellikle oyuncular tarafından anlaşılır şekilde uygulanır.",
+    "options": [
+      "Oyunun kurallarını yazmak",
+      "Hikaye ve mekanikleri yönetmek, oyunculara rol sunmak",
+      "Rakip oyuncuları seçmek",
+      "Ekipmanları satın almak"
+    ],
+    "correctAnswer": "Hikaye ve mekanikleri yönetmek, oyunculara rol sunmak",
+    "tags": [
+      "rol-yapma",
+      "game-master",
+      "temel-terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l9iu8fijr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "D&D (Dungeons & Dragons) oyununda karakterlerin yetenek puanları nasıl belirlenir?",
+    "explanation": "D&D'de karakter yetenek puanları, 'Point Buy' veya 'Standard Array' gibi sistemlerle atılırken zarlar (1d6, 2d6 vb.) kullanılarak belirlenir.",
+    "options": [
+      "Sabit bir listeyle",
+      "Karakter oluşturma sırasında atanan puanlarla veya rastgele zarlar ile",
+      "GM tarafından seçilen rulo ile",
+      "Oyuncu seviyesine göre sabit değerlerle"
+    ],
+    "correctAnswer": "Karakter oluşturma sırasında atanan puanlarla veya rastgele zarlar ile",
+    "tags": [
+      "dnd",
+      "karakter-olusturma",
+      "yetenek-sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lm0np9krh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Masaüstü Rol Yapma Oyunlarında 'Player Character' (PC) neyi ifade eder?",
+    "explanation": "Player Character (PC), oyuncunun kendi kontrolünde oynadığı ve geliştirdiği ana karakterdir. NPC'ler ise GM tarafından yönetilir.",
+    "options": [
+      "Yardımcı karakterler",
+      "Oyuncunun oynadığı ana karakter",
+      "GM tarafından yönetilen NPC'ler",
+      "Hikayenin antagistleri"
+    ],
+    "correctAnswer": "Oyuncunun oynadığı ana karakter",
+    "tags": [
+      "pc",
+      "player-character",
+      "rol-yapma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eu7pygayt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Pathfinder First Edition oyununda D&D'den en büyük farkı nedir?",
+    "explanation": "Pathfinder, D&D'den farklı olarak daha geniş sınıf seçkisi ve detaylı mekanik sistemleriyle bilinir. Her iki oyun da masaüstü rol yapma kurallarını kullanır.",
+    "options": [
+      "Daha fazla sınıf ve daha karmaşık mekanik sistemi",
+      "Sadece online oynanır",
+      "GM olmadan oynanabilir",
+      "Yapay zeka destekli"
+    ],
+    "correctAnswer": "Daha fazla sınıf ve daha karmaşık mekanik sistemi",
+    "tags": [
+      "pathfinder",
+      "dnd-farklar",
+      "mekanik-sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1arprc922",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masaüstü Rol Yapma Oyunlarında 'NPC' (Non-Player Character) neyi ifade eder?",
+    "explanation": "NPC (Non-Player Character), oyuncunun kontrolünde olmayan ve GM tarafından yönetilen yardımcı karakterlerdir. Hikaye gelişimi için kullanılırlar.",
+    "options": [
+      "Oyuncunun kontrolündeki karakter",
+      "GM tarafından yönetilen yardımcı veya destek karakterler",
+      "Hikayenin ana kahramanı",
+      "Yanlış karakterler"
+    ],
+    "correctAnswer": "GM tarafından yönetilen yardımcı veya destek karakterler",
+    "tags": [
+      "npc",
+      "non-player-character",
+      "rol-yapma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vkq6khk6f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyun, en popüler masaüstü rol yapma oyunu olarak kabul edilir ve dünya çapında milyonlarca oyuncuya sahiptir?",
+    "explanation": "Dungeons & Dragons (D&D), 1974'te yayınlanan ve en uzun soluklu masaüstü rol yapma oyunu olarak kabul edilir. Dünyanın dört bir yanındaki milyonlarca oyuncu tarafından oynanır.",
+    "options": [
+      "Pathfinder",
+      "Call of Cthulhu",
+      "Dungeons & Dragons",
+      "Warhammer Fantasy"
+    ],
+    "correctAnswer": "Dungeons & Dragons",
+    "tags": [
+      "hobi",
+      "masaüstü rol yapma",
+      "popülerlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "88zivucfy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masaüstü rol yapma oyunlarında 'DM' veya 'Tablo Üstü' ne anlama gelir?",
+    "explanation": "DM (Dungeon Master), oyunu yöneten, hikayeyi anlatan ve karakterlerin dünyasını kontrol eden kişidir. Türkçede 'Zindan Efendisi' olarak da bilinir.",
+    "options": [
+      "Dungeon Master - Zindan Efendisi",
+      "Dice Master - Zar Efendisi",
+      "Deck Master - Kart Efendisi",
+      "Data Master - Veri Efendisi"
+    ],
+    "correctAnswer": "Dungeon Master - Zindan Efendisi",
+    "tags": [
+      "rol yapma terimleri",
+      "oyun mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yxzs2llyq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi sistem, D&D'den farklı olarak daha kuralcı bir yaklaşım sunar ve Pathfinder olarak yaygınlaşmıştır?",
+    "explanation": "Pathfinder, D&D 3.5'ten türetilmiş ve daha detaylı kural seti sunan bir sistemdir. Özellikle Türk oyuncular arasında da popülerdir.",
+    "options": [
+      "GURPS",
+      "Gamma World",
+      "Pathfinder",
+      "World of Darkness"
+    ],
+    "correctAnswer": "Pathfinder",
+    "tags": [
+      "oyun sistemleri",
+      "kuralcılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0hzyuzp9y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Masaüstü rol yapma oyunlarında karakter oluşturma aşamasında hangi istatistikler kullanılır?",
+    "explanation": "D&D ve benzeri sistemlerde 6 temel istatistik kullanılır: Güç (STR), Çeviklik (DEX), Yapı (CON), Zeka (INT), Bilgelik (WIS) ve Karizma (CHA).",
+    "options": [
+      "HP, AC, DM, XP",
+      "STR, DEX, CON, INT, WIS, CHA",
+      "Hız, Güç, Zeka, Yetenek",
+      "Saldırı, Savunma, Hareket, Can"
+    ],
+    "correctAnswer": "STR, DEX, CON, INT, WIS, CHA",
+    "tags": [
+      "karakter oluşturma",
+      "istatistikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wpvryjr8s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi tür masaüstü rol yapma oyunu, modern çağ ve teknoloji odaklı senaryolar sunar?",
+    "explanation": "Bilim kurgu türü, modern teknoloji, uzay, yapay zeka ve geleceğe odaklanan senaryolar sunar. Örnek: Shadowrun, Cyberpunk.",
+    "options": [
+      "Fantastik Kurgu",
+      "Görkemli Tarihi",
+      "Bilim Kurgu",
+      "Gotik Horror"
+    ],
+    "correctAnswer": "Bilim Kurgu",
+    "tags": [
+      "türler",
+      "temalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pzeoz3v38",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki masa üstü rol yapma oyunlarından hangisi, hikaye odaklı ve karakter gelişimi üzerine kuruludur?",
+    "explanation": "D&D (Dragon and Dungeon), masa üstü rol yapma oyunlarının en popüler örneklerinden biridir ve hikaye odaklı, karakter gelişimi üzerine kuruludur.",
+    "options": [
+      "D&D 5th Edition",
+      "Gloomhaven",
+      "Betrayal at House on the Hill",
+      "Catan"
+    ],
+    "correctAnswer": "D&D 5th Edition",
+    "tags": [
+      "masaüstü RPG",
+      "D&D"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dc25p3pb7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "\"DM\" terimi aşağıdaki oyunlardaki hangi rolü ifade eder?",
+    "explanation": "DM (Dungeon Master), masa üstü rol yapma oyunlarında hikayeyi anlatan ve tabloyu yöneten kişidir.",
+    "options": [
+      "Karakter Oyuncusu",
+      "Hikaye Anlatıcısı / Tablodaki Yönetici",
+      "Sistem Kuralları Uygulayıcısı",
+      "Yapay Zeka"
+    ],
+    "correctAnswer": "Hikaye Anlatıcısı / Tablodaki Yönetici",
+    "tags": [
+      "terminoloji",
+      "DM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u8gw31ret",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangisi, bir \"Grimoire\" (karanlık kitap) temalı RPG sistemine örnektir?",
+    "explanation": "World of Darkness serisi, karanlık ve grimoire temalı RPG sistemlerinden biridir.",
+    "options": [
+      "Pendragon",
+      "Numenera",
+      "World of Darkness",
+      "Call of Cthulhu"
+    ],
+    "correctAnswer": "World of Darkness",
+    "tags": [
+      "RPG sistemleri",
+      "karanlık temalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q05nuglwt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki oyunlardan hangisi, stratejik masa üstü rol yapma oyunu olarak sınıflandırılır?",
+    "explanation": "Gloomhaven, stratejik ve taktiksel bir masa üstü rol yapma oyunudur.",
+    "options": [
+      "Tales of the Sword Coast",
+      "Gloomhaven",
+      "Fighting Fantasy",
+      "RuneQuest"
+    ],
+    "correctAnswer": "Gloomhaven",
+    "tags": [
+      "stratejik RPG",
+      "tactical combat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jawv3q55f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "\"Savunma\" (Defense) statüsü, aşağıdaki hangi RPG sistemlerinde kullanılır?",
+    "explanation": "Savunma (Defense) statüsü, D&D, Pathfinder ve World of Darkness gibi birçok RPG sisteminde kullanılır.",
+    "options": [
+      "D&D",
+      "Pathfinder",
+      "WoD",
+      "Hepsi"
+    ],
+    "correctAnswer": "Hepsi",
+    "tags": [
+      "istatistikler",
+      "statüler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y24shua5a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons oyununda karakterin zeka puanı aşağıdaki hangi istatistikle ilişkilidir?",
+    "explanation": "Dungeons & Dragons'ta Intelligence (Zeka) puanı karakterin zekasını, hafızasını ve bilgi öğrenme yeteneğini belirleyen temel istatistiktir.",
+    "options": [
+      "Vitality",
+      "Intelligence",
+      "Charisma",
+      "Strength"
+    ],
+    "correctAnswer": "Intelligence",
+    "tags": [
+      "Dungeons & Dragons",
+      "İstatistikler",
+      "Karakter Oluşturma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijwvk5b54",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Pathfinder oyununda 'Core Rulebook' neyi tanımlar?",
+    "explanation": "Pathfinder'da Core Rulebook, oyunun temel kurallarını, mekaniklerini ve karakter seçeneklerini içeren ana kaynak rehberidir.",
+    "options": [
+      "İlk seviye karakter tablosu",
+      "Temel kurallar ve mekanik rehberi",
+      "En yüksek DM puanı",
+      "Karakter ırk seçimleri"
+    ],
+    "correctAnswer": "Temel kurallar ve mekanik rehberi",
+    "tags": [
+      "Pathfinder",
+      "Oyun Kuralları",
+      "Core Rulebook"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6u1jaqx4v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EASY",
+    "question": "World of Warcraft'ta 'Açık Dünya' (Open World) özelliği nedir?",
+    "explanation": "World of Warcraft'ta Açık Dünya özelliği, oyuncunun büyük bir dünyada serbestçe keşif yapmasını ve görevleri tamamlamasını sağlar.",
+    "options": [
+      "Kısıtlı harita alanı",
+      "Sınırsız keşif imkanı sunan büyük dünya",
+      "Tek oyunculu görevler",
+      "RPG olmayan bir oyun türü"
+    ],
+    "correctAnswer": "Sınırsız keşif imkanı sunan büyük dünya",
+    "tags": [
+      "World of Warcraft",
+      "Oyun Türü",
+      "Harita Tasarımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7m40dp8dz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Tabletop RPG'lerde 'DM' (Dungeon Master) neyi temsil eder?",
+    "explanation": "DM (Dungeon Master), tabletop rol yapma oyunlarında hikayeyi yöneten, dünyayı oluştur ve yönlendiren temel figürdür.",
+    "options": [
+      "Oyuncu karakteri",
+      "Yönetici/master figürü",
+      "Oyun mekanikleri",
+      "Karakter seviyesi"
+    ],
+    "correctAnswer": "Yönetici/master figürü",
+    "tags": [
+      "Tabletop RPG",
+      "DM",
+      "Oyun Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w6bcx3sww",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Üstü Rol Yapma Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Call of Cthulhu oyununda 'Sanity' istatistiği neyi ifade eder?",
+    "explanation": "Call of Cthulhu'da Sanity (Zihinsel Durum) istatistiği, karakterin korku ve travma karşısındaki zihinsel sağlığını ve ruh halini belirler.",
+    "options": [
+      "Karakterin fiziksel dayanıklılığı",
+      "Karakterin zihinsel sağlığı/ruh hali",
+      "Karakterin sihirli gücü",
+      "Karakterin sosyal ilişkileri"
+    ],
+    "correctAnswer": "Karakterin zihinsel sağlığı/ruh hali",
+    "tags": [
+      "Call of Cthulhu",
+      "İstatistikler",
+      "Sanity"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

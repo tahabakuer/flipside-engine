@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "h9m3qh28b",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Which type of robot is most commonly used in manufacturing facilities for repetitive tasks?",
+    "explanation": "Industrial robots are designed for high-volume, repetitive tasks in factories, such as assembly and welding.",
+    "options": [
+      "Industrial",
+      "Humanoid",
+      "Surgical",
+      "Collaborative"
+    ],
+    "correctAnswer": "Industrial",
+    "tags": [
+      "robot_types",
+      "manufacturing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gzju8i0jr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Which sensor technology is primarily used for creating detailed 3D maps of environments?",
+    "explanation": "LiDAR (Light Detection and Ranging) emits laser pulses to measure distances, enabling precise 3D mapping.",
+    "options": [
+      "LiDAR",
+      "GPS",
+      "Ultrasonic",
+      "Inertial Measurement Unit"
+    ],
+    "correctAnswer": "LiDAR",
+    "tags": [
+      "sensors",
+      "mapping"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h1ycbvzd0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Which programming language is widely adopted in robotics due to its extensive libraries and ease of use?",
+    "explanation": "Python's simplicity and libraries like ROS make it a popular choice for robotics development.",
+    "options": [
+      "Python",
+      "C++",
+      "Java",
+      "MATLAB"
+    ],
+    "correctAnswer": "Python",
+    "tags": [
+      "programming",
+      "software"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h5ulfb1a1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "What is the primary application area for mobile robots operating in dynamic environments?",
+    "explanation": "Mobile robots in changing environments rely on autonomous navigation to move and adapt without human intervention.",
+    "options": [
+      "Fixed-base automation",
+      "Autonomous navigation",
+      "Surgical procedures",
+      "3D modeling"
+    ],
+    "correctAnswer": "Autonomous navigation",
+    "tags": [
+      "applications",
+      "autonomy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "46gdcj7m9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "What is a primary ethical concern in the development of autonomous robots?",
+    "explanation": "As robots make independent choices, ensuring clear responsibility for their actions is crucial to prevent harm and build trust.",
+    "options": [
+      "High manufacturing costs",
+      "Accountability for autonomous decisions",
+      "Limited sensor accuracy",
+      "Inability to learn from data"
+    ],
+    "correctAnswer": "Accountability for autonomous decisions",
+    "tags": [
+      "ethics",
+      "safety"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fyg4ux0v0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Hangi robot türü insan eli ve kol yapısını taklit ederek hassas hareketler gerçekleştirebilir?",
+    "explanation": "Manipülatör robotları insan eli ve kol yapısını taklit eder, endüstriyel üretimde hassas hareketler gerçekleştirmek için kullanılır.",
+    "options": [
+      "Mobil Robot",
+      "Manipülatör Robot",
+      "Yazılım Robotu",
+      "Sanal Asistan"
+    ],
+    "correctAnswer": "Manipülatör Robot",
+    "tags": [
+      "robotik",
+      "insanoid robotlar",
+      "manipülasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nw45xxxbp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Otonom araçlarda kullanılan hangi sensör tipi en uzak mesafelerden gelen nesneleri algılayabilir?",
+    "explanation": "Lidar (Light Detection and Ranging) sensörleri lazer ışınları kullanarak çok uzak mesafelerden nesneleri algılayabilir ve haritalama yapar.",
+    "options": [
+      "Lidar",
+      "Ultrasonik Sensör",
+      "Kamera Sensörü",
+      "Termal Kamera"
+    ],
+    "correctAnswer": "Lidar",
+    "tags": [
+      "sensörler",
+      "otonom araçlar",
+      "nesne algılama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d6wo38idf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi robotik platform evcil hayvan taklidi yaparak insanlarla etkileşime girebilir?",
+    "explanation": "Evcil hayvan botları (companion robots) evcil hayvan taklidi yaparak insanlarla duygusal bağ kurabilir ve etkileşime girebilir.",
+    "options": [
+      "Sürü Robotu",
+      "Yazılım Robotu",
+      "Evcil Hayvan Botu",
+      "Endüstriyel Robot"
+    ],
+    "correctAnswer": "Evcil Hayvan Botu",
+    "tags": [
+      "sosyal robotlar",
+      "evcil hayvan botları",
+      "eğlence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "29mjoz55q",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Robotik sistemlerin yapay zeka ile desteklenmesi hangi alanda kritik öneme sahiptir?",
+    "explanation": "Yapay zeka robotların ortamı algılayıp, dinamik koşullarda otonom kararlar verebilmesini sağlar.",
+    "options": [
+      "Veri İşleme",
+      "Otonom Karar Verme",
+      "Görüntü Algılama",
+      "Hızlı Şarj"
+    ],
+    "correctAnswer": "Otonom Karar Verme",
+    "tags": [
+      "yapay zeka",
+      "otonom sistemler",
+      "karar verme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "85tfrwulk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Hangi teknoloji robotlara fiziksel hareket yeteneği kazandırır?",
+    "explanation": "Servo motorlar robotların eklemlerini kontrol ederek fiziksel hareket yeteneği sağlar ve pozisyon hassasiyeti sunar.",
+    "options": [
+      "Servo Motorlar",
+      "Pil Teknolojisi",
+      "İşletim Sistemleri",
+      "Sensör Yığınları"
+    ],
+    "correctAnswer": "Servo Motorlar",
+    "tags": [
+      "motorlar",
+      "fiziksel hareket",
+      "robot bileşenleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n1v4inicb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Robotun hareketi sağlayan bileşen hangisidir?",
+    "explanation": "Robotlarda motorlar, pistonlar ve dişli kutuları gibi hareketi sağlayan bileşenlere aktuatör denir.",
+    "options": [
+      "Sensör",
+      "Aktuatör",
+      "Ekran",
+      "Klavye"
+    ],
+    "correctAnswer": "Aktuatör",
+    "tags": [
+      "temel",
+      "robotik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "71uqjgnhw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Cobots (kollaboratif robotlar) ne demektir?",
+    "explanation": "Cobots, güvenli bir şekilde insanlarla aynı alanda çalışabilmek üzere tasarlanmış robotlardır.",
+    "options": [
+      "Sadece fabrikada çalışan robotlar",
+      "İnsanla iş birliği yapabilen robotlar",
+      "Uzayda çalışan robotlar",
+      "Su altında çalışan robotlar"
+    ],
+    "correctAnswer": "İnsanla iş birliği yapabilen robotlar",
+    "tags": [
+      "endüstri",
+      "sınıflandırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8rvu9vtdi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi şirketin geliştirdiği Atlas robotu meşhurdur?",
+    "explanation": "Atlas, Boston Dynamics tarafından geliştirilen ilk insan benzeri robotlardan biridir.",
+    "options": [
+      "Tesla",
+      "Boston Dynamics",
+      "Apple",
+      "Google"
+    ],
+    "correctAnswer": "Boston Dynamics",
+    "tags": [
+      "marka",
+      "tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kcchtcdi4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Robotik sistemlerde 'SLAM' teknolojisi ne işe yarar?",
+    "explanation": "SLAM (Simultaneous Localization and Mapping), robotun ortamı haritalayarak kendi konumunu aynı anda belirlemesini sağlar.",
+    "options": [
+      "Sadece veri saklama",
+      "Ortam haritalama ve konum belirleme",
+      "Ağ kurma",
+      "Şifreleme"
+    ],
+    "correctAnswer": "Ortam haritalama ve konum belirleme",
+    "tags": [
+      "teknoloji",
+      "navigasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5643yf9co",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Tesla'nın insan benzeri robot projesinin adı nedir?",
+    "explanation": "Tesla, kendi geliştirdiği insan benzeri robotu Optimus olarak adlandırmıştır.",
+    "options": [
+      "Optimus",
+      "Pepper",
+      "Nao",
+      "Roomba"
+    ],
+    "correctAnswer": "Optimus",
+    "tags": [
+      "marka",
+      "gelecek teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kc7cwnaeu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Robotlarda kullanılan temel hareket sensörü nedir?",
+    "explanation": "IMU (Inertial Measurement Unit), robotların konumunu, yönünü ve hareketini takip etmek için kullanılan temel sensördür. GPS sadece dış konum bilgisi verir, Bluetooth ve Wi-Fi iletişim protokolleri değildir.",
+    "options": [
+      "GPS",
+      "IMU (Inertial Measurement Unit)",
+      "Bluetooth",
+      "Wi-Fi"
+    ],
+    "correctAnswer": "IMU (Inertial Measurement Unit)",
+    "tags": [
+      "robotik",
+      "sensör",
+      "hareket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hz88izv23",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi robot tipi insan eli taklit edebilen manipülasyondur?",
+    "explanation": "Manipülatif robotlar, insan eli ve kol yapısını taklit ederek nesne manipülasyonu yapabilirler. Mobil robotlar hareket eder, dronlar havada uçar, otonom araçlar sürer.",
+    "options": [
+      "Mobil Robot",
+      "Manipülatif Robot",
+      "Dron",
+      "Otonom Araç"
+    ],
+    "correctAnswer": "Manipülatif Robot",
+    "tags": [
+      "robotik",
+      "manipülasyon",
+      "ele"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6x9s52zkg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Robotikte PID kontrolcü hangi parametreleri içerir?",
+    "explanation": "PID kontrolcüsü Proportional (Kp), Integral (Ki) ve Derivative (Kd) üç parametre içerir. Bu parametreler robotun hedef konuma ulaşma hızını ve hassasiyetini ayarlar.",
+    "options": [
+      "Kp, Ki, Kd",
+      "Kv, Ka, Kb",
+      "X, Y, Z",
+      "R, L, C"
+    ],
+    "correctAnswer": "Kp, Ki, Kd",
+    "tags": [
+      "robotik",
+      "kontrol",
+      "PID"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32991eqdw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi robot mimarisi merkezi beyin yerine dağıtık karar alma yapar?",
+    "explanation": "Dağıtık veya Multi-Agent mimarisinde, robotun farklı bileşenleri birbirinden bağımsız kararlar alarak işlev gösterir. Merkezi mimar tek bir beyne sahiptir.",
+    "options": [
+      "Merkezi Mimar",
+      "Dağıtık Mimar (Multi-Agent)",
+      "Hiyerarşik Mimar",
+      "Seri-Paralel Mimar"
+    ],
+    "correctAnswer": "Dağıtık Mimar (Multi-Agent)",
+    "tags": [
+      "robotik",
+      "mimari",
+      "yapayzeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6r8umm54b",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Robotikte SLAM algoritması neyi yapar?",
+    "explanation": "SLAM (Simultaneous Localization and Mapping), robotun kendisini konumlandırırken aynı zamanda çevresini haritalar olarak oluşturur. Mobil robotlarda yaygın olarak kullanılır.",
+    "options": [
+      "Ses Tanıma",
+      "Simultaneous Localization and Mapping",
+      "Görüntü İşleme",
+      "Veri Analizi"
+    ],
+    "correctAnswer": "Simultaneous Localization and Mapping",
+    "tags": [
+      "robotik",
+      "SLAM",
+      "konumlanma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6akimiewp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Robotların hareketlerini kontrol etmek için kullanılır, hangi sistem robotlarda yaygın olarak bulunur?",
+    "explanation": "Arduino, robotların hareketlerini kontrol etmek için en yaygın kullanılan mikrodenetleyici sistemidir. Motor sürücüleri ile entegre edilerek basit ve karmaşık robot hareketleri kontrol edilebilir.",
+    "options": [
+      "Arduino",
+      "Python",
+      "Java",
+      "C#"
+    ],
+    "correctAnswer": "Arduino",
+    "tags": [
+      "Robotik",
+      "Hareket Kontrolü",
+      "Mikroişlemci"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ik3ufveq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi sensör, robotların çevredeki mesafeyi algılamak için kullanılır?",
+    "explanation": "Ultrasonik sensörler ses dalgalarını kullanarak robotların çevredeki nesnelerin mesafesini algılamada kullanılır. LIDAR ve ultrasonik sensörler en yaygın olanlardır.",
+    "options": [
+      "Gyroskop",
+      "Ultrasonik Sensör",
+      "Termal Kamera",
+      "Lazer Doppler"
+    ],
+    "correctAnswer": "Ultrasonik Sensör",
+    "tags": [
+      "Robotik",
+      "Sensörler",
+      "Mesafe Algılama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bageeecb1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Otonom araçlarda ve drone'lerde kullanılan hangi yapay zeka kütüphanesi robot navigasyonu için popülerdir?",
+    "explanation": "ROS, robot işletim sistemi olarak bilinir ve otonom araçlar, drone'ler gibi cihazlarda navigasyon ve hareket kontrolü için en yaygın kullanılan kütüphanedir.",
+    "options": [
+      "ROS (Robot Operating System)",
+      "TensorFlow",
+      "PyTorch",
+      "Keras"
+    ],
+    "correctAnswer": "ROS (Robot Operating System)",
+    "tags": [
+      "Robotik",
+      "Yapay Zeka",
+      "Navigasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4w6t7e1sw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Endüstriyel robotlarda hangi motor tipi hassas hareket kontrolleri sağlar?",
+    "explanation": "AC servo motorlar, endüstriyel robotlarda yüksek hassasiyet ve hızlı hareket kontrolleri sağlamak için kullanılır. Konum kontrolünde üstün performansa sahiptir.",
+    "options": [
+      "AC Servo Motor",
+      "DC Motor",
+      "Stepper Motor",
+      "BLDC Motor"
+    ],
+    "correctAnswer": "AC Servo Motor",
+    "tags": [
+      "Robotik",
+      "Motorlar",
+      "Endüstriyel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "257wde7s8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi sensör robotların yönlerini (yüzey eğimi) algılamak için kullanılır?",
+    "explanation": "IMU, inertiyel ölçüm birimi olarak adlandırılır ve robotların yönlerini, yüzey eğimlerini algılamak için kullanılır. Girokop ve akселerometre içerir.",
+    "options": [
+      "IMU (Inertial Measurement Unit)",
+      "RGB Kamera",
+      "Barometre",
+      "Akıllı Sensör"
+    ],
+    "correctAnswer": "IMU (Inertial Measurement Unit)",
+    "tags": [
+      "Robotik",
+      "Sensörler",
+      "Düşey Hareket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vclaaqw4z",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Robotik nedir ve temel amacı nedir?",
+    "explanation": "Robotik, makinelerin otomatik olarak görevleri yerine getirebilmesi için geliştirilen teknolojidir. Temel amacı işlerin daha verimli ve güvenli bir şekilde yapılmasını sağlamaktır.",
+    "options": [
+      "Yapay zeka kullanarak insanları yönetmek",
+      "Makinelerin kendi kendine çalışabilmesi için kullanılan teknoloji",
+      "Bilgisayarların internete bağlanması",
+      "Elektrikli araçların üretimi"
+    ],
+    "correctAnswer": "Makinelerin kendi kendine çalışabilmesi için kullanılan teknoloji",
+    "tags": [
+      "temel kavramlar",
+      "tanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uydywepmx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangisi endüstriyel robotların yaygın kullanım alanıdır?",
+    "explanation": "Endüstriyel robotlar özellikle fabrika ortamlarında, montaj hatlarında, paketlemede ve ağır işlerde yoğun olarak kullanılır. Yüksek tekrar edilebilirlik ve dayanıklılık özellikleri bu alana uygundur.",
+    "options": [
+      "Hastanede hasta bakımı",
+      "Fabrikada montaj hatları",
+      "Ev temizliği",
+      "Akıllı telefon üretimi"
+    ],
+    "correctAnswer": "Fabrikada montaj hatları",
+    "tags": [
+      "endüstriyel robotlar",
+      "kullanım alanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ce65uoczt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Robotik sistemlerde hangi sensör türü mesafe ölçümü için kullanılır?",
+    "explanation": "Lidar (Light Detection and Ranging) sensörleri, lazer ışınları kullanarak çevredeki nesnelerin mesafesini ve konumunu hassas bir şekilde ölçer. Otonom araçlarda ve mobil robotlarda yaygın kullanılır.",
+    "options": [
+      "Lidar",
+      "Termal kamera",
+      "Akustik hoparlör",
+      "Güneş paneli"
+    ],
+    "correctAnswer": "Lidar",
+    "tags": [
+      "sensörler",
+      "ölçüm teknolojileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ghud0y0tr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Hangisi yapay zeka ile entegre edilmiş modern robotik sistemlerinin özelliğidir?",
+    "explanation": "Modern yapay zeka entegreli robotlar, derin öğrenme algoritmaları sayesinde çevrelerinden öğrenip yeni durumlara adapte olabilirler. Bu sayede daha akıllı kararlar alabilirler.",
+    "options": [
+      "Sadece önceden programlanmış hareketler",
+      "Çevre adaptasyonu ve öğrenme yeteneği",
+      "Sesli asistan desteği",
+      "Basit görsel algılama"
+    ],
+    "correctAnswer": "Çevre adaptasyonu ve öğrenme yeteneği",
+    "tags": [
+      "yapay zeka",
+      "otonom sistemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kdtwt5643",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Robotik etikinde hangi konu ön plandadır?",
+    "explanation": "Robotik etik alanı, robotların yaygınlaşmasıyla ortaya çıkabilecek işsizlik, güvenlik sorumluluğu ve insani değerler gibi konuları inceleyen disiplinler arası alandır.",
+    "options": [
+      "Robotların maliyetinin düşürülmesi",
+      "İşsizlik riskleri ve güvenlik endişeleri",
+      "Bilgisayar performansının artırılması",
+      "Elektrik tüketiminin azaltılması"
+    ],
+    "correctAnswer": "İşsizlik riskleri ve güvenlik endişeleri",
+    "tags": [
+      "etik",
+      "sosyal etki"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dxmbd7fdm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi teknoloji, robotların insanlarla etkileşime girmesini sağlar?",
+    "explanation": "Robotların insanlarla etkileşime girmesi için görüntü işleme (göz takibi, yüz tanıma) ve ses tanıma teknolojileri gereklidir.",
+    "options": [
+      "Güçlü manyet alan",
+      "Hassas görüntü işleme ve ses tanıma",
+      "Düşük enerji tüketimi",
+      "Sadece dokunmatik ekran"
+    ],
+    "correctAnswer": "Hassas görüntü işleme ve ses tanıma",
+    "tags": [
+      "robotik",
+      "teknoloji",
+      "yapay zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gd5ca4iba",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Endüstriyel robotlarda en yaygın kullanılan hareket tipi nedir?",
+    "explanation": "Endüstriyel robotlarda revolute/joint hareketler, eklem benzeri yapılarla nesneleri üç boyutlu alanda yer değiştirmeyi sağlar.",
+    "options": [
+      "Lineer hareket",
+      "Revolute (eklem) hareket",
+      "Sadece dönme",
+      "Heliks hareket"
+    ],
+    "correctAnswer": "Revolute (eklem) hareket",
+    "tags": [
+      "endüstriyel robotlar",
+      "mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xlibd9d4i",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi alan hizmet robotlarının kullanımını artırır?",
+    "explanation": "Hizmet robotları sağlık kuruluşlarında (cerrahi asistan), lojistikte (nakliye) ve evde (temizlik) yaygın olarak kullanılır.",
+    "options": [
+      "Sadece üretim hatları",
+      "Sağlık, lojistik ve ev hizmetleri",
+      "Ağırlık taşıma",
+      "Maden ocağı"
+    ],
+    "correctAnswer": "Sağlık, lojistik ve ev hizmetleri",
+    "tags": [
+      "servis robotları",
+      "otomasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5ae8nl62",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Yapay zeka tabanlı robotlarda hangi özellik öne çıkar?",
+    "explanation": "Yapay zeka tabanlı robotlar, çevrelerini algılama ve otonom olarak karar alma yeteneğine sahiptir.",
+    "options": [
+      "Sabit hareket",
+      "Otonom karar verme ve öğrenme",
+      "Manuel kontrol",
+      "Şartlı programlama"
+    ],
+    "correctAnswer": "Otonom karar verme ve öğrenme",
+    "tags": [
+      "yapay zeka",
+      "otonom robotlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "91jhlzxpb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi robot tipi insan gücünü tehlikeli işlerde korur?",
+    "explanation": "Endüstriyel kolluk robotları (cobots), insan çalışanlarla güvenli şekilde çalışarak tehlikeli işleri üstlenir.",
+    "options": [
+      "Ev robotu",
+      "Cerrahi asistan robot",
+      "Endüstriyel kolluk robotu",
+      "Mobil hizmet robotu"
+    ],
+    "correctAnswer": "Endüstriyel kolluk robotu",
+    "tags": [
+      "güvenlik",
+      "endüstriyel robotlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "31le8ybc1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Robotlarda hareketi kontrol etmek için en yaygın kullanılan sensör hangisidir?",
+    "explanation": "Lidar (Light Detection and Ranging) sensörleri, robotların çevrelerini haritalamak ve engelleri tespit etmek için en yaygın kullanılan teknolojilerden biridir. Mesafe ölçümü yaparak 3 boyutlu ortam haritası oluştururlar.",
+    "options": [
+      "GPS Sensörü",
+      "Lidar Sensörü",
+      "Elektromanyetik Sensör",
+      "Infrared Sensörü"
+    ],
+    "correctAnswer": "Lidar Sensörü",
+    "tags": [
+      "robotik",
+      "sensör",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2kqkz263q",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangisi yapay zeka destekli robot sistemlerinin temel bileşenlerinden biri değildir?",
+    "explanation": "Robot sistemlerinin temel bileşenleri sensörler, işlemci birimi ve güç kaynağıdır. Kablo bağlantıları ise yardımcı elemanlardır ve robotun temel işlevsel yapısı için olmazsa olmaz değildir.",
+    "options": [
+      "Sensörler",
+      "İşlemci Birimi",
+      "Güç Kaynağı",
+      "Kablo Bağlantısı"
+    ],
+    "correctAnswer": "Kablo Bağlantısı",
+    "tags": [
+      "robotik",
+      "yapayzeka",
+      "sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7yx6nfzvs",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "İnsansız hava aracı (İHA) teknolojisinde kullanılan robotik sistemlerde hangi algoritma rota planlaması için kullanılır?",
+    "explanation": "A* (A-Star) algoritması, grafiklerde en kısa yolu bulmak için kullanılan en yaygın algoritmalardan biridir. İHA'lar ve mobil robotlarda rota planlaması için sıklıkla tercih edilir.",
+    "options": [
+      "A* Algoritması",
+      "Dijkstra Algoritması",
+      "K-Means Clustering",
+      "Neural Network"
+    ],
+    "correctAnswer": "A* Algoritması",
+    "tags": [
+      "robotik",
+      "algoritma",
+      "İHA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ikb7trgya",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi robot tipi endüstriyel üretim hatlarında kalıcı olarak kullanılır?",
+    "explanation": "Endüstriyel üretim hatlarında manipulator (manipülasyon) robotları, özellikle CNC işlemleri, kaynaklama, boyama gibi kalıcı ve tekrarlayan görevler için kullanılır.",
+    "options": [
+      "Servo Motorlu Robot",
+      "Manipulator Robot",
+      "Mobil Robot",
+      "Yazılımcı Robot"
+    ],
+    "correctAnswer": "Manipulator Robot",
+    "tags": [
+      "robotik",
+      "endüstriyel",
+      "manufacturing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rxxh3araz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Robotik sistemlerde 'dead reckoning' (ölçüm hatası birikimi) sorununu çözmek için hangi teknoloji kullanılır?",
+    "explanation": "IMU (Inertial Measurement Unit), gyroscopes, accelerometers ve magnetometers içerir. Robotların konumunu sürekli güncellemek ve ölçüm hatalarını minimize etmek için en kapsamlı sensör sistemidir.",
+    "options": [
+      "IMU Sensörü",
+      "Gyroscope Sensörü",
+      "Barometer Sensörü",
+      "Magnetometer Sensörü"
+    ],
+    "correctAnswer": "IMU Sensörü",
+    "tags": [
+      "robotik",
+      "sensör",
+      "navigasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k53h88rxv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Mobil robotlarda 'SLAM' teknolojisi neyi ifade eder?",
+    "explanation": "SLAM (Simultaneous Localization and Mapping), robotların haritayı oluştururken aynı zamanda kendi konumunu belirlemesini sağlar. Bu teknoloji mobil ve otonom robotlarda kritik önem taşır.",
+    "options": [
+      "Ses Algılama",
+      "Kartografi",
+      "Simülasyon",
+      "Haritalama ve Konumlandırma"
+    ],
+    "correctAnswer": "Haritalama ve Konumlandırma",
+    "tags": [
+      "Robotik",
+      "ALGORİTMALAR",
+      "TEKNOLOJİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1soxvc8bx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Bir robotun temel bileşenlerinden hangisi hareket kontrolünü sağlar?",
+    "explanation": "Aktüatörler (motorlar, hidrolik sistemler vb.) robotun fiziksel hareketini ve pozisyonunu kontrol eden temel mekanik bileşendir.",
+    "options": [
+      "Sensör",
+      "Aktüatör",
+      "İşlemci",
+      "Kaynak"
+    ],
+    "correctAnswer": "Aktüatör",
+    "tags": [
+      "robotik",
+      "temel-bileşenler",
+      "mekanizma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c5r34yexh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi sensör türü mesafe ölçümü için en yaygın kullanılır?",
+    "explanation": "İnfrared sensörler, robotların etrafındaki nesnelerle olan mesafeyi algılamak ve engellerden kaçınmak için en yaygın kullanılan sensör türüdür.",
+    "options": [
+      "İnfrared Sensör",
+      "Termal Kamera",
+      "Radar",
+      "Lidar"
+    ],
+    "correctAnswer": "İnfrared Sensör",
+    "tags": [
+      "robotik",
+      "sensörler",
+      "mesafe-ölçüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qbcjcbdl5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Robot işleyebildiği 'düşünme' kapasitesine ne denir?",
+    "explanation": "Robotun bilgi işleme, karar verme ve öğrenme yetenekleri yapay zeka sistemleriyle sağlanır.",
+    "options": [
+      "Yapay Zeka",
+      "Otomasyon",
+      "Mekatronik",
+      "Sistem Entegrasyonu"
+    ],
+    "correctAnswer": "Yapay Zeka",
+    "tags": [
+      "robotik",
+      "yapay-zeka",
+      "biliş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "35ccvfupy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "İndüstriyel robotlarda 'DOF' terimi ne anlama gelir?",
+    "explanation": "DOF (Degree of Freedom), robotun hareket edebileceği bağımsız eksenler veya serbestlik dereceleri anlamına gelir; bu sayede robotuz koordinat sistemini belirler.",
+    "options": [
+      "Data On Field",
+      "Degree of Freedom",
+      "Digital Output Frame",
+      "Domain Operation Function"
+    ],
+    "correctAnswer": "Degree of Freedom",
+    "tags": [
+      "robotik",
+      "endüstriyel",
+      "hassas-terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8lbmnq4l2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi robot tipi insan işgücünün yerini almak üzere tasarlanmıştır?",
+    "explanation": "İndüstriyel robotlar, fabrikalarda tekrarlayan görevleri insan iş gücünün yerini almak veya desteklemek üzere tasarlanmıştır.",
+    "options": [
+      "İndüstriyel",
+      "Servo",
+      "Mobil",
+      "Daktilik"
+    ],
+    "correctAnswer": "İndüstriyel",
+    "tags": [
+      "robotik",
+      "endüstriyel-robotlar",
+      "işgücü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cly0viyxq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "GENERAL",
+    "question": "Hangi robot türü endüstriyel üretim hatlarında en yaygın olarak kullanılır?",
+    "explanation": "Endüstriyel manipülasyon robotları, fabrika üretim hatlarında parça montajı, kaynaklama ve boyama işlemlerinde en yaygın kullanılan robot türüdür.",
+    "options": [
+      "İnsanoid Robot",
+      "Kolektif Robot",
+      "Endüstriyel Manipülasyon Robotu",
+      "Agilik Robot"
+    ],
+    "correctAnswer": "Endüstriyel Manipülasyon Robotu",
+    "tags": [
+      "robotik",
+      "endüstri",
+      "uygulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l4o2ak1gd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Hangisi bir robotun duyma özelliğini sağlayan sensördür?",
+    "explanation": "Akustik veya mikrofon sensörleri, robotun sesleri algılamasını ve işitme özelliğini sağlar.",
+    "options": [
+      "Kuvvet Sensörü",
+      "Görüntü İşleme Kamerası",
+      "Akustik/Mikrofon Sensörü",
+      "Termal Kamera"
+    ],
+    "correctAnswer": "Akustik/Mikrofon Sensörü",
+    "tags": [
+      "sensör",
+      "duyma",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e9wpbsoae",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EASY",
+    "question": "Hangi robot teknolojisi ev içi hizmetlerde öne çıkar?",
+    "explanation": "Ev içi hizmetlerde, robot süpürgeler en yaygın kullanılan otonom ev robotlarıdır.",
+    "options": [
+      "Dijital Asistan",
+      "Robot Süpürge",
+      "Otonom Araç",
+      "Sanal Gerçeklik"
+    ],
+    "correctAnswer": "Robot Süpürge",
+    "tags": [
+      "ev robotu",
+      "otomasyon",
+      "hizmet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d8g163ph4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Robotik",
+    "difficulty": "EXPERT",
+    "question": "Hangisi bir robotun hareket kontrolünü yöneten yazılım bileşenidir?",
+    "explanation": "Robot hareket kontrolcüleri, motorları yöneten ve robotun koordineli hareketini sağlayan temel yazılım bileşenidir.",
+    "options": [
+      "Kullanıcı Arayüzü",
+      "Hareket Kontrolcü",
+      "Veritabanı Motoru",
+      "Ağ Sunucusu"
+    ],
+    "correctAnswer": "Hareket Kontrolcü",
+    "tags": [
+      "yazılım",
+      "hareket kontrolü",
+      "kontrol sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

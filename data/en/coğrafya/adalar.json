@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "791bln68z",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en büyük adası hangisidir?",
+    "explanation": "Gökçeada, Ege Denizi'nde bulunan ve Türkiye'nin en büyük adasıdır. Çanakkale iline bağlıdır.",
+    "options": [
+      "Boğaz Adaları",
+      "Muğla",
+      "Gökçeada",
+      "Samandağ"
+    ],
+    "correctAnswer": "Gökçeada",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "Türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "byjacsjuy",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Sizince Adaları hangi denizde yer alır?",
+    "explanation": "Sizince Adaları (Princes Islands), İstanbul'un Karaköy ilçesi sahilinde bulunan Marmara Denizi'ndeki bir ad grubudur.",
+    "options": [
+      "Akdeniz",
+      "Karadeniz",
+      "Ege Denizi",
+      "Marmara Denizi"
+    ],
+    "correctAnswer": "Marmara Denizi",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vjyjrpwte",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en küçük ada kenti hangisidir?",
+    "explanation": "Yassıada, İstanbul Boğaz'ında bulunan küçük adalardan biridir ve Türkiye'nin en küçük ada kenti olarak bilinir.",
+    "options": [
+      "Yassıada",
+      "İmranlı",
+      "Bozcaada",
+      "Kuşadası"
+    ],
+    "correctAnswer": "Yassıada",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "kentsel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h0555apq9",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Kuşadası hangi deniz kenarında konumlanmıştır?",
+    "explanation": "Kuşadası, Aydın iline bağlı ve Ege Denizi kıyısında bulunan önemli bir turistik merkezdir.",
+    "options": [
+      "Ege Denizi",
+      "Akdeniz",
+      "Karadeniz",
+      "Marmara Denizi"
+    ],
+    "correctAnswer": "Ege Denizi",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "turizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "21hnqnlxx",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de en çok ada barındıran deniz hangisidir?",
+    "explanation": "Ege Denizi, Türkiye'nin en fazla ada sayısına sahip olduğu denizdir. Binlerce ada içerir ve stratejik öneme sahiptir.",
+    "options": [
+      "Karadeniz",
+      "Marmara Denizi",
+      "Akdeniz",
+      "Ege Denizi"
+    ],
+    "correctAnswer": "Ege Denizi",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "jeopolitik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gnh8jmyfg",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en büyük adası olan Gökçeada hangi denizde yer alır?",
+    "explanation": "Gökçeada, İstanbul'un 26 kilometre güneyinde bulunan Marmara Denizi'nde yer alan Türkiye'nin en büyük adasıdır ve Gökçeada ilçesini oluşturur.",
+    "options": [
+      "Marmara Denizi",
+      "Akdeniz",
+      "Karadeniz",
+      "Ege Denizi"
+    ],
+    "correctAnswer": "Marmara Denizi",
+    "tags": [
+      "türkiye coğrafyası",
+      "adalar",
+      "denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "htrbwrn5y",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Bodrum yarımadası olarak bilinsede coğrafi olarak hangi özelliğe sahiptir?",
+    "explanation": "Bodrum, Menteşe Körfezi'nin kuzeyinde yer alan bir yarımavadır (peninsula) ve tam anlamıyla bir ada değildir.",
+    "options": [
+      "Tam bir ada",
+      "Yarımada (peninsula)",
+      "Kıta parçası",
+      "Atol yapılı ada"
+    ],
+    "correctAnswer": "Yarımada (peninsula)",
+    "tags": [
+      "ege coğrafyası",
+      "yarımadaslar",
+      "adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fzt5klku9",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Akdeniz'in en büyük adası olarak bilinen Sicilya hangi ülke sınırları içindedir?",
+    "explanation": "Sicilya, Akdeniz'in en büyük adasıdır ve İtalya'nın sınırları içindedir. Türkiye'nin en büyük adası Gökçeada ile kıyaslandığında Sicilya çok daha büyüktür.",
+    "options": [
+      "Yunanistan",
+      "İtalya",
+      "Fransa",
+      "İspanya"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "dünya adaları",
+      "akdeniz",
+      "avrupa coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jvs6s5gsb",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Adaların oluşma tipleri arasında hangisi jeolojik olarak 'ateş dağı' (volkan) kaynaklıdır?",
+    "explanation": "Volkanik adalar, ateş dağları (volkan) kaynaklı olarak oluşur. Hawaii ve İzlanda gibi yerlerde volkanik ada örnekleri bulunur.",
+    "options": [
+      "Atol",
+      "Havza adası",
+      "Volkanik ada",
+      "Yarımada"
+    ],
+    "correctAnswer": "Volkanik ada",
+    "tags": [
+      "jeoloji",
+      "ada oluşumu",
+      "volkanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "44rjfhray",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Marmaris, Türkiye'nin hangi kıyılarında bulunan bir yarımada/ada özelliğine sahiptir?",
+    "explanation": "Marmaris, Akdeniz kıyısında bulunan bir yarımadadır ve Antalya iline bağlıdır. Ege Denizi'nde değil, Akdeniz'de konumlanmıştır.",
+    "options": [
+      "Karadeniz",
+      "Akdeniz",
+      "Beyazıt Denizi",
+      "Ege Denizi"
+    ],
+    "correctAnswer": "Akdeniz",
+    "tags": [
+      "akdeniz coğrafyası",
+      "kıyı yerleşimleri",
+      "adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0jb34asw3",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin Marmara Denizi'ndeki en büyük adası hangisidir?",
+    "explanation": "Gökçeada, Marmara Denizi'ndeki en büyük adadır ve Çanakkale iline bağlıdır. Yüz ölçümü 230 km² civarındadır.",
+    "options": [
+      "Gökçeada",
+      "Bozcaada",
+      "Kınalıada",
+      "Büyükada"
+    ],
+    "correctAnswer": "Gökçeada",
+    "tags": [
+      "coğrafya",
+      "türkiye",
+      "adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o7hb85ba5",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "İstanbul Boğazı çevresindeki Adalar ilçesinde en kalabalık nüfusa sahip ve turistik olarak bilinen ada hangisidir?",
+    "explanation": "Büyükada, Adalar ilçesinde nüfusun yoğun olduğu ve otel bulunmayan (sadece turistik) bir adadır. İstanbul Boğazı'nın Avrupa yakasında yer alır.",
+    "options": [
+      "Heybeliada",
+      "Kınalıada",
+      "Büyükada",
+      "Sedefada"
+    ],
+    "correctAnswer": "Büyükada",
+    "tags": [
+      "coğrafya",
+      "istanbul",
+      "adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cx7teto2h",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Çanakkale bölgesinde bulunan, zeytinyağı üretimine ünlü olan ve 'Sarı Ada' lakabıyla anılan ada hangisidir?",
+    "explanation": "Bozcaada, zeytinyağı üretimine ünlü olup halk arasında Sarı Ada olarak bilinir. Marmara Denizi'nde yer alır.",
+    "options": [
+      "Gökçeada",
+      "Bozcaada",
+      "Avşa",
+      "İmamoğlu"
+    ],
+    "correctAnswer": "Bozcaada",
+    "tags": [
+      "coğrafya",
+      "çanakkale",
+      "tarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t53cqez5i",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "İstanbul Adaları'nda bulunan ve en büyük yüz ölçüme sahip ada hangisidir?",
+    "explanation": "Büyükada, İstanbul Adaları'nda en büyük yüz ölçümüne sahiptir (yaklaşık 50 km²). Heybeliada ise ikinci büyük adadır.",
+    "options": [
+      "Kınalıada",
+      "Heybeliada",
+      "Büyükada",
+      "Sedefada"
+    ],
+    "correctAnswer": "Büyükada",
+    "tags": [
+      "coğrafya",
+      "istanbul",
+      "adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ke797hbz4",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Gelibolu Yarımadası'na komşu olan, Türkiye'nin en küçük adalarından biri ve stratejik öneme sahip olan ada hangisidir?",
+    "explanation": "Avşa, Gelibolu Yarımadası'na çok yakın, küçük bir adadır ve 1915 Çanakkale Savaşı'nın savunma hatlarında stratejik öneme sahipti.",
+    "options": [
+      "Gökçeada",
+      "Bozcaada",
+      "Avşa",
+      "Midilli"
+    ],
+    "correctAnswer": "Avşa",
+    "tags": [
+      "coğrafya",
+      "çanakkale",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gkq4d890k",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Türkiye'de yüzölçümü en büyük ada hangisidir?",
+    "explanation": "Gökçeada, Çanakkale iline bağlı olup Türkiye'deki en büyük ada konumundadır (296 km²).",
+    "options": [
+      "Gökçeada",
+      "Bozcaada",
+      "Samandağ",
+      "İncirli"
+    ],
+    "correctAnswer": "Gökçeada",
+    "tags": [
+      "adalar",
+      "coğrafi konum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y0x6allq6",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Zeytinyağı üretimle ünlü ada hangisidir?",
+    "explanation": "Bozcaada, zeytinyağı üretiminde Türkiye'nin en önemli adalarından biri olarak bilinir.",
+    "options": [
+      "Bozcaada",
+      "Gökçeada",
+      "İç Anadolu",
+      "Samandağ"
+    ],
+    "correctAnswer": "Bozcaada",
+    "tags": [
+      "ekonomik özellikler",
+      "tarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gpdx950ac",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de nüfusa sahip yaklaşık kaç ada vardır?",
+    "explanation": "Türkiye'de nüfusa sahip yaklaşık 20 ada bulunmaktadır (Çevre ve Şehircilik Bakanlığı verileri).",
+    "options": [
+      "10",
+      "20",
+      "50",
+      "100"
+    ],
+    "correctAnswer": "20",
+    "tags": [
+      "demografi",
+      "adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "umsp9ig56",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Byzans dönemi kaleye sahip ada hangisidir?",
+    "explanation": "Bozcaada'da Byzans dönemi kalıntılı Boğazkale bulunmaktadır.",
+    "options": [
+      "Bozcaada",
+      "Gökçeada",
+      "İncirli",
+      "Samandağ"
+    ],
+    "correctAnswer": "Bozcaada",
+    "tags": [
+      "tarihsel yapılar",
+      "kaleler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jt4y8oqqv",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Mersin iline bağlı olan ada hangisidir?",
+    "explanation": "Samandağ, Mersin iline bağlı Tarsus ilçesinde bulunan bir adadır.",
+    "options": [
+      "Samandağ",
+      "Bozcaada",
+      "Gökçeada",
+      "İç Anadolu"
+    ],
+    "correctAnswer": "Samandağ",
+    "tags": [
+      "yönetim birimi",
+      "ilçe bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x2c6a09xz",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Which country has the largest number of islands in the world?",
+    "explanation": "Indonesia is an archipelago with approximately 17,000 islands, making it the country with the most islands globally.",
+    "options": [
+      "Indonesia",
+      "Sweden",
+      "Japan",
+      "Philippines"
+    ],
+    "correctAnswer": "Indonesia",
+    "tags": [
+      "World Geography",
+      "Archipelagos"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gq4zmr5zg",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Which island is the largest in Turkey?",
+    "explanation": "Gökçeada is the largest island within Turkish administrative borders, with an area of about 215 km².",
+    "options": [
+      "Cyprus",
+      "Gökçeada",
+      "Bozcaada",
+      "İmralı"
+    ],
+    "correctAnswer": "Gökçeada",
+    "tags": [
+      "Turkey Geography",
+      "Islands"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k5kjsvby7",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Which country is home to the famous Santorini volcano?",
+    "explanation": "Santorini is a volcanic island located in Greece's Aegean Sea, known for its caldera.",
+    "options": [
+      "Greece",
+      "Italy",
+      "Spain",
+      "Turkey"
+    ],
+    "correctAnswer": "Greece",
+    "tags": [
+      "World Geography",
+      "Volcanoes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x4mbwfxam",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Which island is the largest in the Mediterranean Sea?",
+    "explanation": "Sicily has an area of approximately 25,711 km², making it the largest island in the Mediterranean Sea.",
+    "options": [
+      "Sicily",
+      "Sardinia",
+      "Corsica",
+      "Cyprus"
+    ],
+    "correctAnswer": "Sicily",
+    "tags": [
+      "Mediterranean Geography",
+      "Islands"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0yc5gvjjo",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Which Turkish province administers both Bozcaada and Gökçeada islands?",
+    "explanation": "Both Bozcaada and Gökçeada are districts within Çanakkale Province in Turkey.",
+    "options": [
+      "Çanakkale",
+      "İzmir",
+      "Balıkesir",
+      "Muğla"
+    ],
+    "correctAnswer": "Çanakkale",
+    "tags": [
+      "Turkey Geography",
+      "Administration"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0quqpz4b9",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en büyük adası hangisidir?",
+    "explanation": "Gökçeada (Boğazkesen), Türkiye Cumhuriyeti'nin sınırları içinde bulunan en büyük adadır.",
+    "options": [
+      "Gökçeada",
+      "Bozcaada",
+      "Büyükada",
+      "Samandağ"
+    ],
+    "correctAnswer": "Gökçeada",
+    "tags": [
+      "Coğrafya",
+      "Türkiye",
+      "Adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jb6nxvxqk",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Gökçeada hangi denizde konumlanmıştır?",
+    "explanation": "Gökçeada Adası, Marmara Denizi'nde İstanbul ve Çanakkale arasında yer alır.",
+    "options": [
+      "Karadeniz",
+      "Ege Denizi",
+      "Marmara Denizi",
+      "Akdeniz"
+    ],
+    "correctAnswer": "Marmara Denizi",
+    "tags": [
+      "Coğrafya",
+      "Denizler",
+      "Adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s6ycfuzfp",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Ege Denizi'nde yer alan en büyük ada hangisidir?",
+    "explanation": "Rodos Adası, Ege Denizi'nde bulunan en büyük adadır ve Yunanistan'a aittir.",
+    "options": [
+      "Rodos",
+      "Kos",
+      "Samos",
+      "Chios"
+    ],
+    "correctAnswer": "Rodos",
+    "tags": [
+      "Coğrafya",
+      "Ege",
+      "Jeografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "04d3moytw",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Büyükada hangi şehirde yer alır?",
+    "explanation": "Büyükada, İstanbul Körfezi'nde Marmara Denizi'nin bir parçası olan Princes Islands adasına aittir.",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "İzmir",
+      "Antalya"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "Coğrafya",
+      "Şehirler",
+      "Adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2adf6ca41",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Kıbrıs Adası hangi denizde konumlanmıştır?",
+    "explanation": "Kıbrıs Adası, Akdeniz'in kuzey kesiminde konumlanmıştır.",
+    "options": [
+      "Karadeniz",
+      "Ege Denizi",
+      "Akdeniz",
+      "Marmara Denizi"
+    ],
+    "correctAnswer": "Akdeniz",
+    "tags": [
+      "Coğrafya",
+      "Kıbrıs",
+      "Denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pso2dglsx",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Adaya göre adalar nasıl sınıflandırılır?",
+    "explanation": "Adalar volkanik (volcanic), kıta (continental) ve resif (reef/coral) olarak sınıflandırılır. Bu temel adlandırma jeomorfolojide kullanılır.",
+    "options": [
+      "Volkanik, Kıta ve Rıhtım",
+      "Volkanik, Kıta, Resif",
+      "Kıta, Deniz ve Okyanus",
+      "Resif, Volkanik ve Karasal"
+    ],
+    "correctAnswer": "Volkanik, Kıta, Resif",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "jeomorfoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c0oyuhvuc",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Türkiye'deki en büyük ada hangisidir?",
+    "explanation": "Gökçeada, Ege Denizi'nde bulunan Türkiye'nin en büyük adasıdır. Marmaris'e yakın bir yerleşim alanıdır.",
+    "options": [
+      "Sedef Adası",
+      "Bozburun Adası",
+      "Gökçeada",
+      "Samandağ Adası"
+    ],
+    "correctAnswer": "Gökçeada",
+    "tags": [
+      "coğrafya",
+      "türkiye",
+      "adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xcq4y3jtu",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Kıta adaları nasıl oluşur?",
+    "explanation": "Kıta adaları, yer kabuğunun tektonik hareketlerle kıvrılması veya koparak deniz seviyesinin altında kalmasıyla oluşur.",
+    "options": [
+      "Volkanik patlamalarla",
+      "Yer kabuğunun hareketi ve kopması",
+      "Deniz seviyesinin yükselmesi",
+      "Resiflerin büyümesi"
+    ],
+    "correctAnswer": "Yer kabuğunun hareketi ve kopması",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "jeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dydgazp0y",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Resif (korall) adaları hangi bölgelerde daha yaygındır?",
+    "explanation": "Resif adaları, tropikal ve subtropikal sıcak sularında yaşayan koral poliplerinin birikimiyle oluşur.",
+    "options": [
+      "Soğuk sulu",
+      "Tropikal sıcak sularda",
+      "Kutup bölgelerinde",
+      "Derin okyanuslarda"
+    ],
+    "correctAnswer": "Tropikal sıcak sularda",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "koraller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xta48dzoy",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Seychelles adalarında bulunan en ünlü doğal yapı nedir?",
+    "explanation": "Seychelles adaları, milyonlarca yıl önce kıtanın yüzeyinden kopan granit bloklardan oluşur ve jeolojik açıdan önemlidir.",
+    "options": [
+      "Granit bloklar",
+      "Vulkano konileri",
+      "Kaya yığınları",
+      "Lagunlar"
+    ],
+    "correctAnswer": "Granit bloklar",
+    "tags": [
+      "coğrafya",
+      "adalar",
+      "seychelles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n33w3v8zb",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Türkiye'de ada sayısı en fazla olan deniz hangisidir?",
+    "explanation": "Marmara Denizi, Türkiye'nin en çok adaya sahip olan denizidir ve yaklaşık 120'den fazla ada içerir.",
+    "options": [
+      "Marmara Denizi",
+      "Akdeniz",
+      "Ege Denizi",
+      "Karadeniz"
+    ],
+    "correctAnswer": "Marmara Denizi",
+    "tags": [
+      "coğrafya",
+      "türkiye",
+      "denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qedclgvuc",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Prens Adaları hangi il sınırları içindedir?",
+    "explanation": "Prens Adaları, Muğla ilinin Milas ve Bodrum bölgeleri arasında yer alan bir ada grubudur.",
+    "options": [
+      "Muğla",
+      "İzmir",
+      "Bursa",
+      "Trabzon"
+    ],
+    "correctAnswer": "Muğla",
+    "tags": [
+      "coğrafya",
+      "muğla",
+      "prens adaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "si4jon1v6",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Bozcaada Adası hangi denizde bulunur?",
+    "explanation": "Bozcaada, Ege Denizi'nin batı kıyısında yer alan ve Türkiye'nin en turistik adalarından biridir.",
+    "options": [
+      "Ege Denizi",
+      "Akdeniz",
+      "Marmara",
+      "Karadeniz"
+    ],
+    "correctAnswer": "Ege Denizi",
+    "tags": [
+      "coğrafya",
+      "bozcaada",
+      "eje"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vdntleqgk",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Büyükada hangi ilin ilçesine bağlıdır?",
+    "explanation": "Büyükada, İstanbul'un Beykoz ilçesine bağlı ada'dır ve tarihi yapısı ile ünlüdür.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Trabzon"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "coğrafya",
+      "büyükada",
+      "istanbul"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkmpx5bnt",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Gökova Adaları'nın hangi ilde yer aldığı bilinir?",
+    "explanation": "Gökova Adaları, Muğla ilinin Bozburun ilçesi açıklarında yer alır ve doğal güzellikleri ile tanınır.",
+    "options": [
+      "Muğla",
+      "Denizli",
+      "Antalya",
+      "Kahramanmaraş"
+    ],
+    "correctAnswer": "Muğla",
+    "tags": [
+      "coğrafya",
+      "mügl",
+      "gököva"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "chtdyf5bj",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Which island is considered the largest in the world by area?",
+    "explanation": "Greenland is the largest island in the world by area, located in the North Atlantic Ocean. It is an autonomous territory of Denmark.",
+    "options": [
+      "Greenland",
+      "Madagascar",
+      "Borneo",
+      "New Guinea"
+    ],
+    "correctAnswer": "Greenland",
+    "tags": [
+      "World Geography",
+      "Islands",
+      "Area"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3juu9sg5r",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Which of the following islands is the largest in Asia?",
+    "explanation": "Borneo is the third-largest island in the world and the largest in Asia. It is shared by Indonesia, Malaysia, and Brunei.",
+    "options": [
+      "Honshu",
+      "Borneo",
+      "Sumatra",
+      "Java"
+    ],
+    "correctAnswer": "Borneo",
+    "tags": [
+      "Asia Geography",
+      "Islands",
+      "Size"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tcqt6qlsn",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Which island is the largest located within the Mediterranean Sea?",
+    "explanation": "Sicily is the largest island in the Mediterranean Sea. It is an autonomous region of Italy and is located south of the Italian peninsula.",
+    "options": [
+      "Cyprus",
+      "Sicily",
+      "Crete",
+      "Sardinia"
+    ],
+    "correctAnswer": "Sicily",
+    "tags": [
+      "Europe Geography",
+      "Mediterranean",
+      "Islands"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2jsbqlzsl",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "In which ocean are the Azores Islands located?",
+    "explanation": "The Azores are an archipelago of nine volcanic islands located in the North Atlantic Ocean, under the sovereignty of Portugal.",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": "Atlantic Ocean",
+    "tags": [
+      "Portugal Geography",
+      "Islands",
+      "Location"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d78tlqj32",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Which island is the largest one found entirely within Africa?",
+    "explanation": "Madagascar is the largest island in Africa and the fourth-largest island in the world, situated off the southeastern coast of the continent.",
+    "options": [
+      "Madagascar",
+      "Mauritius",
+      "Comoros",
+      "Seychelles"
+    ],
+    "correctAnswer": "Madagascar",
+    "tags": [
+      "Africa Geography",
+      "Islands",
+      "Size"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hd566armg",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "İstanbul'un Adalar ilçesine bağlı en büyük ada hangisidir?",
+    "explanation": "Büyükada, İstanbul Adaları grubunun en büyük ve merkezi adasıdır.",
+    "options": [
+      "Büyükada",
+      "Heybeliada",
+      "Burgazada",
+      "Kınalıada"
+    ],
+    "correctAnswer": "Büyükada",
+    "tags": [
+      "Coğrafya",
+      "Adalar",
+      "İstanbul"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i9btvg81z",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi adada araç kullanımı yasaktır ve sadece yürüyüş yolları bulunur?",
+    "explanation": "Büyükada, araç trafiğine kapalıdır ve turizm amaçlı olarak sadece yürüyüş yolları mevcuttur.",
+    "options": [
+      "Heybeliada",
+      "Büyükada",
+      "Sedefada",
+      "Yassıada"
+    ],
+    "correctAnswer": "Büyükada",
+    "tags": [
+      "Coğrafya",
+      "Adalar",
+      "Ulaşım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "les35ckvw",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de resmi olarak hangi şehirde ada grubu adı vardır?",
+    "explanation": "Resmen 'Adalar' adı, İstanbul'un bir ilçesi olarak tanımlanır.",
+    "options": [
+      "İstanbul",
+      "Çanakkale",
+      "Eskişehir",
+      "Ankara"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "Coğrafya",
+      "Adalar",
+      "Yönetim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v9rs4mljf",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EASY",
+    "question": "Heybeliada adası hangi denizde yer alır?",
+    "explanation": "Heybeliada, İstanbul Adaları grubunun bir parçası olduğu için Marmara Denizi'nde konumlanmıştır.",
+    "options": [
+      "Ege Denizi",
+      "Marmara Denizi",
+      "Akdeniz",
+      "Karadeniz"
+    ],
+    "correctAnswer": "Marmara Denizi",
+    "tags": [
+      "Coğrafya",
+      "Adalar",
+      "Denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "auelh41si",
+    "category": "COĞRAFYA",
+    "subcategory": "Adalar",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki adalardan hangisi resmi olarak Marmara Denizi'nde yer almaz?",
+    "explanation": "Büyükada, Heybeliada ve Kınalıada İstanbul Adaları grubudur (Marmara), Samos ise Ege Denizi'nde yer alan bir adadır.",
+    "options": [
+      "Büyükada",
+      "Heybeliada",
+      "Samos",
+      "Kınalıada"
+    ],
+    "correctAnswer": "Samos",
+    "tags": [
+      "Coğrafya",
+      "Adalar",
+      "Karşılaştırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

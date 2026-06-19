@@ -62,6 +62,6 @@ export const CATEGORY_CONFIG: Record<CategoryKey, string[]> = {
     "Minecraft", "League of Legends", "Counter-Strike", "Pokémon", 
     "Dungeons & Dragons", "Warcraft Evreni", "The Elder Scrolls",
     "Dark Souls", "Final Fantasy", "The Legend of Zelda", "Super Mario",
-    "GTA", "Call of Duty", "Assassin's Creed", "FIFA",
+    "GTA", "Call of Duty", "Assassin's Creed", "FIFA"
   ]
 };

@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "du06ucog2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta hangi tür blok su geçirmez ve mobları engeller?",
+    "explanation": "Taş duvarlar Minecraft'ta en yaygın kullanılan güvenlik bloklarından biridir ve su geçirmez yapıdadır.",
+    "options": [
+      "Toprak",
+      "Kaya",
+      "Taş Duvar",
+      "Ahşap"
+    ],
+    "correctAnswer": "Taş Duvar",
+    "tags": [
+      "Minecraft",
+      "Blok Türleri",
+      "Güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6be4ive6s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Survival' modunda oyuncu neye ihtiyaç duyar?",
+    "explanation": "Survival modunda oyuncular kaynak toplama, ekmek yapma ve hayatta kalma üzerine odaklanırlar.",
+    "options": [
+      "Yanıt ver",
+      "Kaynak toplayarak hayatta kalmak için",
+      "Sınırsız kaynakla oynamak için",
+      "İnternet bağlantısı"
+    ],
+    "correctAnswer": "Kaynak toplayarak hayatta kalmak için",
+    "tags": [
+      "Minecraft",
+      "Survival Modu",
+      "Oyun Mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xexrp288x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hangi yaratık 'Enderman' olarak bilinir?",
+    "explanation": "Enderman, Minecraft'ta siyahten beyaza renk değiştiren ve teleport olabilen ünlü bir mobdur.",
+    "options": [
+      "Büyük yeşil bir böcek",
+      "Siyahtan beyaza dönüşen insan benzeri varlık",
+      "Kırmızı gözlü küçük yaratık",
+      "Uçabilen kuş benzeri"
+    ],
+    "correctAnswer": "Siyahtan beyaza dönüşen insan benzeri varlık",
+    "tags": [
+      "Minecraft",
+      "Moblar",
+      "Yaratıklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qax4mw4zq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft 1.20 güncellemesi hangi ana tema üzerine odaklandı?",
+    "explanation": "1.20 güncellemesi 'Truculümsuzluk' temalı yeni bloklar, moblar ve mekanikler getirdi.",
+    "options": [
+      "Yeni boss eklenmesi",
+      "Taş madenciliği",
+      "Truculümsuzluk ve doğa temalı",
+      "Gökyüzü maviye dönmesi"
+    ],
+    "correctAnswer": "Truculümsuzluk ve doğa temalı",
+    "tags": [
+      "Minecraft",
+      "Güncellemeler",
+      "Oyun Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ajcmj2u3s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta bir oyuncu 'Creative' modunda hangi özelliğe sahiptir?",
+    "explanation": "Creative modunda oyuncular sınırsız blok ve kaynakla serbestçe inşa edebilir ve hayatta kalma zorunluluğu yoktur.",
+    "options": [
+      "Sınırsız kaynakla serbestçe inşa edebilir",
+      "Hayatta kalmak zorundadır",
+      "Her şeyi kaybeder",
+      "Yaratıkları besler"
+    ],
+    "correctAnswer": "Sınırsız kaynakla serbestçe inşa edebilir",
+    "tags": [
+      "Minecraft",
+      "Creative Modu",
+      "Oyun Modları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qz6m2e9v4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta hayatta kalma modunda ana amaç nedir?",
+    "explanation": "Survival modunda oyuncular düşmanlardan korunarak canlarını doldurmalı, kaynak toplayarak hayatta kalır ve istedikleri yapıları inşa ederler.",
+    "options": [
+      "Zengin olmak",
+      "Hayatta kalmak ve yapı inşa etmek",
+      "Oyun bitirmek",
+      "Sadece maden kazmak"
+    ],
+    "correctAnswer": "Hayatta kalmak ve yapı inşa etmek",
+    "tags": [
+      "Minecraft",
+      "Hobiler",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uaiasg6v1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta araçlar ve eşyalar genellikle hangi blok üzerinde üretilir?",
+    "explanation": "Oyuncular ağaç keserek ahşap bloklar elde eder ve bu blokları kullanarak diğer kaynaklardan araçlar yaparlar.",
+    "options": [
+      "Taş",
+      "Ahşap",
+      "Demir",
+      "Altın"
+    ],
+    "correctAnswer": "Ahşap",
+    "tags": [
+      "Minecraft",
+      "Crafting",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "03sjmim7s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Oyuncular ilk olarak hangi boyutta doğar?",
+    "explanation": "Yeni başlayan oyuncular, ana boyut olan Overworld'de (Dünya) doğarlar. Nether ve End farklı boyutlardır.",
+    "options": [
+      "Nether",
+      "End",
+      "Overworld (Dünya)",
+      "The Void"
+    ],
+    "correctAnswer": "Overworld (Dünya)",
+    "tags": [
+      "Minecraft",
+      "Boyutlar",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z7jsndkzv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta bir oyuncunun standart maksimum canı kaç kalptir?",
+    "explanation": "Varsayılan ayarlarda oyuncunun maksimum canı 10 kalptir (toplam 20 can puanu). İksirleri kullanmazsa bu miktar sabit kalır.",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": "10",
+    "tags": [
+      "Minecraft",
+      "Mekanikler",
+      "Can Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ig4ya8263",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "End Boyutunda bulunan ve yenildiğinde ödül veren büyük canavar hangisidir?",
+    "explanation": "Ender Dragon, End boyutunun başında bekleyen ana boss olarak bilinir. Yenildiğinde oyuncuya deneyim ve emeralt verir.",
+    "options": [
+      "Blazing Stone",
+      "Ender Dragon",
+      "Wither",
+      "Creeper"
+    ],
+    "correctAnswer": "Ender Dragon",
+    "tags": [
+      "Minecraft",
+      "End Boyutu",
+      "Boss Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hqy5xryd3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hangi modda 'Sesli İletişim' özelliği bulunur?",
+    "explanation": "Minecraft Realms, resmi Minecraft sunucusudur ve sesli iletişim dahil olmak üzere gelişmiş özellikler sunar.",
+    "options": [
+      "Realms",
+      "Crafting",
+      "Spawning",
+      "Breeding"
+    ],
+    "correctAnswer": "Realms",
+    "tags": [
+      "minecraft",
+      "özellik",
+      "multimedya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xcbt3jdfv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Enderman' hangi boyutta bulunur?",
+    "explanation": "Enderman, End boyutunun özgü yaratığıdır ve End boyutunda bulunur.",
+    "options": [
+      "Nether",
+      "End",
+      "Overworld",
+      "Yüksek Yeraltı"
+    ],
+    "correctAnswer": "End",
+    "tags": [
+      "minecraft",
+      "yaratık",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ktrmrfrv8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Redstone' hangi amaçla kullanılır?",
+    "explanation": "Redstone, Minecraft'ta devreler, otomatik sistemler ve mekanizmalar için kullanılır.",
+    "options": [
+      "Yapay zeka",
+      "Devre ve mekanizma",
+      "Ses üretimi",
+      "Görsel efekt"
+    ],
+    "correctAnswer": "Devre ve mekanizma",
+    "tags": [
+      "minecraft",
+      "redstone",
+      "mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y9yq1230o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Diamond' (Elmas) hangi seviyede bulunur?",
+    "explanation": "Elmas, Minecraft'ta yüksek yeraltı seviyelerinde (genellikle yatağın altında) bulunur.",
+    "options": [
+      "Yüksek Yeraltı",
+      "Orta Yeraltı",
+      "Nadir Dünyalar",
+      "End Dünyaları"
+    ],
+    "correctAnswer": "Yüksek Yeraltı",
+    "tags": [
+      "minecraft",
+      "maden",
+      "elmas"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ikh7iehku",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta 'Java Edition' hangi işletim sistemlerinde çalışır?",
+    "explanation": "Java Edition, Windows, macOS, Linux gibi işletim sistemlerinde çalışır ancak mobil cihazlarda Bedrock Edition kullanılır.",
+    "options": [
+      "Yalnızca Mac",
+      "Yalnızca Android",
+      "Windows ve Linux dahil",
+      "Sadece iOS"
+    ],
+    "correctAnswer": "Windows ve Linux dahil",
+    "tags": [
+      "minecraft",
+      "edityon",
+      "işletim-sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rptecm2ur",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hangi modda yarı katı gövdeye sahip bir karakter bulunur?",
+    "explanation": "Steve, Minecraft'ın orijinal baş karakteridir ve yarı katı gövdeye sahiptir. Notch oyunun yaratıcısıdır.",
+    "options": [
+      "Steve",
+      "Alex",
+      "Herobrine",
+      "Notch"
+    ],
+    "correctAnswer": "Steve",
+    "tags": [
+      "minecraft",
+      "karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nu8sd7wap",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta hangi blokta su akışı vardır?",
+    "explanation": "Sadece Taş Bloğu ve bazı özel bloklar su akışı sağlar. Demir, Altın ve Elmas bloklarında su durur.",
+    "options": [
+      "Taş Blok",
+      "Demir Blok",
+      "Altın Blok",
+      "Elmas Blok"
+    ],
+    "correctAnswer": "Taş Blok",
+    "tags": [
+      "minecraft",
+      "blok"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mdig8b30c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hangi hayvan en hızlı koşar?",
+    "explanation": "Minecraft'ta At'lar diğer hayvanlara göre daha hızlı hareket eder.",
+    "options": [
+      "Köpek",
+      "At",
+      "Kedi",
+      "Sürüngen"
+    ],
+    "correctAnswer": "At",
+    "tags": [
+      "minecraft",
+      "hayvanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "czyx4mmtz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta hangi eylem 'creative mode'da yapılır?",
+    "explanation": "Creative mode'da sınırsız blok ve hızlı hareket yeteneği vardır, bu yüzden köprü yapmak idealdir.",
+    "options": [
+      "Köprü yapmak",
+      "Madencilik yapmak",
+      "Hayvan beslemek",
+      "Savaşmak"
+    ],
+    "correctAnswer": "Köprü yapmak",
+    "tags": [
+      "minecraft",
+      "oyun modları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6xeccb5tc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hangi zırh seti en dayanıklıdır?",
+    "explanation": "Elmas Zırh diğer tüm zırhlardan daha dayanıklıdır ve en yüksek koruma sağlar.",
+    "options": [
+      "Taş Zırh",
+      "Demir Zırh",
+      "Altın Zırh",
+      "Elmas Zırh"
+    ],
+    "correctAnswer": "Elmas Zırh",
+    "tags": [
+      "minecraft",
+      "zırh"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yyrgmnirl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ın geliştiricisi olan şirket hangisidir?",
+    "explanation": "Minecraft, İsveçli Mojang AB şirketi tarafından geliştirilmiştir. Şirket 2014 yılında Microsoft tarafından satın alınmıştır.",
+    "options": [
+      "Mojang AB",
+      "Valve Corporation",
+      "Epic Games",
+      "Nintendo"
+    ],
+    "correctAnswer": "Mojang AB",
+    "tags": [
+      "Genel",
+      "Geliştirici"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4i4e06fy9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hayatta kalma modunda domuzları (Pigs) beslemek için hangi ürün kullanılır?",
+    "explanation": "Minecraft'ta domuzlar (Pigs) özellikle Havuç (Carrots) veya Şeker Pancarı (Beetroots) ile beslenerek büyütülebilir. Buğday inekler için daha uygundur.",
+    "options": [
+      "Buğday",
+      "Havuç",
+      "Şeker Pancarı",
+      "Mısır"
+    ],
+    "correctAnswer": "Havuç",
+    "tags": [
+      "Hayvanlar",
+      "Beslenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8i1oc33cr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Nether Portal'ı açmak için ne kadar adet Obsidian bloğa ihtiyaç vardır?",
+    "explanation": "Nether Portal oluşturmak için minimum 10 adet Obsidian bloğu birleştirerek yığlanmalıdır. Bu işlem genellikle ateşle aktifleştirilir.",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "10",
+    "tags": [
+      "Dünyalar",
+      "Portal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gy8uw5630",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft Java Edition'da inşa edilebilecek maksimum blok yüksekliği hangisidir?",
+    "explanation": "Minecraft Java Edition'da inşa edilebilecek maksimum yükseklik standart olarak 256 bloktur. Bedrock Edition'da bu değer farklılık gösterebilir.",
+    "options": [
+      "64",
+      "128",
+      "256",
+      "512"
+    ],
+    "correctAnswer": "256",
+    "tags": [
+      "Teknik",
+      "Sınırlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0q3mlqdls",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Redstone Observer bloğu hangi durumda devreleri tetikler?",
+    "explanation": "Observer bloğu, önündeki veya yanında olduğu blokta değişiklik olduğunda (örneğin bir sandık konulduğunda veya kırıldığında) devreyi tetikler.",
+    "options": [
+      "Bir oyuncu yaklaştığında",
+      "Yakındaki bir blok değiştiğinde",
+      "Sinyal geldiğinde",
+      "Asla"
+    ],
+    "correctAnswer": "Yakındaki bir blok değiştiğinde",
+    "tags": [
+      "Redstone",
+      "Mekanizmalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l2w6t6bqs",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta karakterin taşıma kapasitesini artırmak için hangi item kullanılır?",
+    "explanation": "Minecraft'ta taşıma kapasitesini artırmak için 'Belt' (Kemer) item kullanılır. Her bir Kemer 16 slot ekler ve taşınabilir eşyalar için önemlidir.",
+    "options": [
+      "Elmas Zırh",
+      "İçecek Can",
+      "Belt (Kemer)",
+      "Taşıyıcı Çantalar"
+    ],
+    "correctAnswer": "Taşıyıcı Çantalar",
+    "tags": [
+      "inventory",
+      "items",
+      "basit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h6ygj7ig4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft dünyasında en uzun süre dayanabilen yapı tipi hangisidir?",
+    "explanation": "Minecraft'ta düz taş evler genellikle en uzun süre dayanır çünkü düşmanlar (Zombie, Skeleton) bunları kolayca yok edebilir. Taşıt ve diğer yapılar daha savunmasız olabilir.",
+    "options": [
+      "Düz Taş Ev",
+      "Taşıt (Villager Bunker)",
+      "Fortress Tabancası",
+      "End Portal"
+    ],
+    "correctAnswer": "Düz Taş Ev",
+    "tags": [
+      "building",
+      "structures",
+      "daha-az-önemli-yapılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e822eal14",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta 'Redstone' kullanarak hangi mekanik oluşturulabilir?",
+    "explanation": "Minecraft'ta Redstone kullanarak otomatik kapılar, dedektörler, ve karmaşık makinalar oluşturulabilir. Bu, oyunun en gelişmiş mekaniklerinden biridir.",
+    "options": [
+      "Otomatik Kapılar",
+      "Su Kaynakları",
+      "Hava Değişimi",
+      "Düğüm Noktaları"
+    ],
+    "correctAnswer": "Otomatik Kapılar",
+    "tags": [
+      "redstone",
+      "mechanics",
+      "otomasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f5yic1azw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Biome' (Ekosistem) çeşitliliği hangi sürümde artmıştır?",
+    "explanation": "Minecraft'ta 1.16 sürümü (Nether Update) ile birlikte yeni biomerler, mağaralar ve dünyeler eklenmiş, biome çeşitliliği önemli ölçüde artmıştır.",
+    "options": [
+      "1.0",
+      "1.8",
+      "1.16",
+      "1.19"
+    ],
+    "correctAnswer": "1.16",
+    "tags": [
+      "biomes",
+      "updates",
+      "sürüm-geçişleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t27k0wdwr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta 'Mob' (Düşman) spawn oranını değiştirmek için hangi komut kullanılır?",
+    "explanation": "Minecraft'ta 'mobSpawn' gamerule kullanılarak düşman spawn oranları değiştirilebilir. Bu, oyun mekaniklerini özelleştirmek için kullanılan gelişmiş bir komuttur.",
+    "options": [
+      "/gamerule mobSpawn",
+      "/difficulty",
+      "/mobSpawnRate",
+      "/spawnMob"
+    ],
+    "correctAnswer": "/gamerule mobSpawn",
+    "tags": [
+      "commands",
+      "game-rules",
+      "advanced"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u2sunuguv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hangi blok türü en yüksek dayanıklılığa sahiptir?",
+    "explanation": "Obsidyen Minecraft'ın en dayanıklı bloklardan biridir ve kırılması için demir madenci veya obsidyen kırıcı gerektirir.",
+    "options": [
+      "Taş",
+      "Demir Blok",
+      "Obsidyen",
+      "Granit"
+    ],
+    "correctAnswer": "Obsidyen",
+    "tags": [
+      "minecraft",
+      "bloomlar",
+      "dayanıklılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yu4wy87xj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hangi hayvan türü 'mob' olarak sınıflandırılır?",
+    "explanation": "Zombi, Minecraft'ta hostil bir mob türüdür. Koyun, Yarasa ve Geyik ise pasif hayvanlardır.",
+    "options": [
+      "Koyun",
+      "Yarasa",
+      "Zombi",
+      "Geyik"
+    ],
+    "correctAnswer": "Zombi",
+    "tags": [
+      "minecraft",
+      "moblar",
+      "hostil-moblar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i4mxaz3uj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ın hangi sürümünde 'Bedrock Edition' ortaya çıktı?",
+    "explanation": "Bedrock Edition Minecraft 1.2 sürümünde (2011) piyasaya sürüldü, Java Edition'dan farklı olarak mobil ve konsol platformları için tasarlanmıştır.",
+    "options": [
+      "1.0",
+      "1.2",
+      "1.8",
+      "1.4"
+    ],
+    "correctAnswer": "1.2",
+    "tags": [
+      "minecraft",
+      "sürümler",
+      "bedrock"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e1buo4fl6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta 'Enderman' hangi biyomda daha sık görülür?",
+    "explanation": "Enderman'lar genellikle düz zemindeki ender portalına yakın yerlerde, özellikle flat biyomlarında daha sık görülür.",
+    "options": [
+      "Çöl",
+      "Orman",
+      "Zemin (Flat)",
+      "Okyanus"
+    ],
+    "correctAnswer": "Zemin (Flat)",
+    "tags": [
+      "minecraft",
+      "enderman",
+      "mob-biyomlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eugqy8y3n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta bir 'skeleton' düşmanının ne tür silahı vardır?",
+    "explanation": "Skeleton düşmanları Minecraft'ta ok ve yay kullanır, genellikle 50 bloktan daha uzak mesafeden saldırırlar.",
+    "options": [
+      "Büyük Bıçak",
+      "Ok",
+      "Mızrak",
+      "Elma"
+    ],
+    "correctAnswer": "Ok",
+    "tags": [
+      "minecraft",
+      "düşmanlar",
+      "skellyton-silahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bsbuxse7w",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta hangi modda yaratıcı modda sınırsız bloklar ve karakter özellikleri bulunur?",
+    "explanation": "Creative modda oyuncular sınırsız bloklar, karakter özellikleri ve özel araçlara sahiptir. Survival'da ise kaynak toplanması gerekir.",
+    "options": [
+      "Survival",
+      "Creative",
+      "Hardcore",
+      "Adventure"
+    ],
+    "correctAnswer": "Creative",
+    "tags": [
+      "Minecraft",
+      "Modlar",
+      "Oyun Modları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ncmqpbxd8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta bir mob'ı öldürdüğünüzde hangi değer kazanılır?",
+    "explanation": "Minecraft'ta mob'ları öldürdüğünüzde XP (Dana) kazanılır ve bu seviye atlamanız için kullanılır.",
+    "options": [
+      "XP",
+      "Gold",
+      "Diamonds",
+      "Emeralds"
+    ],
+    "correctAnswer": "XP",
+    "tags": [
+      "Minecraft",
+      "Moblar",
+      "Deneyim Puanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxqcicdjr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta hangi blok su ile doldurulduğunda taşınabilir bir yapı oluşturur?",
+    "explanation": "Glass (Cam) bloğu su ile doldurulduğunda şeffaf yapılar oluşturur. Ancak Water (Su) bloğu doğrudan su taşır.",
+    "options": [
+      "Glass",
+      "Lava",
+      "Water",
+      "Stone"
+    ],
+    "correctAnswer": "Glass",
+    "tags": [
+      "Minecraft",
+      "Bloklar",
+      "Yapılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n4vpijyt9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta Nether'da bulunan ve oyuncuyu evine döndürmek için kullanılan eşya nedir?",
+    "explanation": "Ender Chest oyuncu Nether'da veya End'te iken kendi evine dönmek için kullanılabilir. Spawn Egg ise mobları spawn etmek için kullanılır.",
+    "options": [
+      "Ender Chest",
+      "Portal",
+      "End Portal Frame",
+      "Spawn Egg"
+    ],
+    "correctAnswer": "Ender Chest",
+    "tags": [
+      "Minecraft",
+      "Nether",
+      "Eşyalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ybwhrzyu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta hangi modda 'Real Life' gibi gerçek yaşam simülasyonları yapılabilir?",
+    "explanation": "Life Simulator modu Minecraft'ta gerçek yaşam simülasyonu yapmak için kullanılan bir moddur. Real Life gibi gerçekçi deneyimler sunar.",
+    "options": [
+      "Real Life",
+      "Life Simulator",
+      "Realistic",
+      "Lifemod"
+    ],
+    "correctAnswer": "Life Simulator",
+    "tags": [
+      "Minecraft",
+      "Modlar",
+      "Simülasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ruhy1gi6l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta hangi blok türü havadan düşer ve genellikle tulum veya eldiven olmadan düşmeyi önlemek için dikkat edilmelidir?",
+    "explanation": "Çakıllar havadan düşer ve oyuncunun üzerine düştüğünde onu çökebilir. Düşmeyi önlemek için tulum veya eldiven kullanmak gerekir.",
+    "options": [
+      "Taş Blok",
+      "Çakıllar (Gravel)",
+      "Toprak",
+      "Ahşap"
+    ],
+    "correctAnswer": "Çakıllar (Gravel)",
+    "tags": [
+      "minecraft",
+      "blocks",
+      "gameplay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4xd4elrzy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta bir hayvanın hangi türü yumurta verebilir ve bu yumurtadan yeni hayvanlar üretmek için bakmak gerekir?",
+    "explanation": "Tavuklar yumurta verebilir ve bu yumurtaları toplayıp yeni tavuklar üretebilirsiniz. Diğer hayvanlar yumurtla çoğalmaz.",
+    "options": [
+      "Koyun",
+      "Tavuk",
+      "İnek",
+      "Kedi"
+    ],
+    "correctAnswer": "Tavuk",
+    "tags": [
+      "minecraft",
+      "animals",
+      "breeding"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7j10byn8n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Creative Mode' (Yaratıcı Mod) hangi özellik sunar?",
+    "explanation": "Yaratıcı modda sınırsız kaynak, düşman yok ve hayatta kalma zorluğu kaldırılır. Sadece inşa etme ve keşif odaklıdır.",
+    "options": [
+      "Hayatta kalma zorluğu",
+      "Sınırsız kaynak ve düşman yok",
+      "Altın madeni arama",
+      "Moblara karşı savunma"
+    ],
+    "correctAnswer": "Sınırsız kaynak ve düşman yok",
+    "tags": [
+      "minecraft",
+      "modes",
+      "creative"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sl9qhjb3x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta bir mobun 'Villager' (Köylü) ile işlem yapmak için hangi blok gerekir?",
+    "explanation": "Köylülerle işlem yapmak için Ticaret Masası gerekir. Bu blok, köylü ile ticaret yapmanızı sağlar.",
+    "options": [
+      "Tahta Blok",
+      "İşlemci Bloğu (Composter)",
+      "Ticaret Masası (Crafter)",
+      "Şifa Masası (Dispenser)"
+    ],
+    "correctAnswer": "Ticaret Masası (Crafter)",
+    "tags": [
+      "minecraft",
+      "villagers",
+      "trading"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1geqed9nc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta bir oyuncu 'Ender Dragon' (Ender Ejderhası) nerede bulunur?",
+    "explanation": "Ender Dragon, Ender Portal'ın bulunduğu Ender Boyluda bulunur. Bu oyunun final bossudur.",
+    "options": [
+      "Taş Madeninde",
+      "Ender Portal'da, Endere Boylu",
+      "Orman Biyomunda",
+      "Çölde"
+    ],
+    "correctAnswer": "Ender Portal'da, Endere Boylu",
+    "tags": [
+      "minecraft",
+      "bosses",
+      "ending"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dlwfg7e1v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EASY",
+    "question": "Minecraft'ta hangi sürüm ilk kez 2011 yılında piyasaya sürüldü?",
+    "explanation": "Minecraft Java Edition, 2011 yılının Mayıs ayında ilk kez piyasaya sürülmüş olup Minecraft'ın orijinal ve en bilinen sürümüdür.",
+    "options": [
+      "Java Edition",
+      "Bedrock Edition",
+      "Pocket Edition",
+      "Classics Edition"
+    ],
+    "correctAnswer": "Java Edition",
+    "tags": [
+      "sürüm",
+      "tarihçe",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b0yt1wa6s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Redstone' ne işe yarar?",
+    "explanation": "Redstone, Minecraft'ta devreler ve otomasyon makineleri oluşturma için kullanılan bir enerji taşıma maddesidir.",
+    "options": [
+      "Oyuncuyu canlandırır",
+      "Devreler ve makineler için enerji taşıma",
+      "Sahada ışık üretir",
+      "Hayvanları besler"
+    ],
+    "correctAnswer": "Devreler ve makineler için enerji taşıma",
+    "tags": [
+      "redstone",
+      "mekanik",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qon8bfqln",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Diamond' (Elmas) bloğunu elde etmek için hangi biyom en uygundur?",
+    "explanation": "Elmas blokları genellikle taş madenlerinde bulunur ve daha derin seviyelerde (Y-5 ile Y-16 arası) elde edilebilir.",
+    "options": [
+      "Taş Madenleri",
+      "Güneşli Plajlar",
+      "Buzlu Bölgeler",
+      "Çayır Biyomları"
+    ],
+    "correctAnswer": "Taş Madenleri",
+    "tags": [
+      "madencilik",
+      "elmas",
+      "bloklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gfxmjw23e",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "EXPERT",
+    "question": "Minecraft'ta 'Command Block' hangi modda aktif olabilir?",
+    "explanation": "Command Block, Bedrock Edition'da daha gelişmiş komut sistemi sayesinde aktif olarak kullanılabilir ve sunucu yönetimi için önemlidir.",
+    "options": [
+      "Bedrock Edition",
+      "Java Edition",
+      "Classics Edition",
+      "Pocket Edition"
+    ],
+    "correctAnswer": "Bedrock Edition",
+    "tags": [
+      "komut bloğu",
+      "modlar",
+      "gelişmiş özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c3mihnfr9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Minecraft",
+    "difficulty": "GENERAL",
+    "question": "Minecraft'ta 'Ender Pearl' (Ender Küresi) ile ne elde edilir?",
+    "explanation": "Ender Pearl, Minecraft'ta oyuncuyu veya blokları belirli noktalara teleport etmek için kullanılan özel bir eşyadır.",
+    "options": [
+      "Yeni madenlere geçiş",
+      "Uzaktan ışık açma",
+      "Oyuncuyu teleport etme",
+      "Sahayı temizleme"
+    ],
+    "correctAnswer": "Oyuncuyu teleport etme",
+    "tags": [
+      "ender pearl",
+      "teleportasyon",
+      "enderman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

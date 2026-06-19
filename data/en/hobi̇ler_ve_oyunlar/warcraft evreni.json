@@ -1,0 +1,657 @@
+[
+  {
+    "id": "4aceq5v9w",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Who is the main antagonist in Warcraft III: The Frozen Throne expansion?",
+    "explanation": "The Lich King is the primary boss and main antagonist in Warcraft III: The Frozen Throne, ruling over the Scourge from Northrend before his confrontation with Arthas.",
+    "options": [
+      "A) Arthas Menethil",
+      "B) The Lich King",
+      "C) Illidan Stormrage",
+      "D) Sylvanas Windrunner"
+    ],
+    "correctAnswer": "B) The Lich King",
+    "tags": [
+      "Warcraft III",
+      "Lich King",
+      "Scourge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qijpwqt8x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "What race does Thrall belong to before becoming the leader of the Horde?",
+    "explanation": "Thrall was an exiled Orc who became the leader of the Horde after uniting various races in Warcraft III following his redemption arc.",
+    "options": [
+      "A) Human",
+      "B) Orc",
+      "C) Undead",
+      "D) Night Elf"
+    ],
+    "correctAnswer": "B) Orc",
+    "tags": [
+      "Thrall",
+      "Horde",
+      "Factions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m3e7i1764",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "In what location does the Lich King reside before his confrontation with Arthas in Warcraft III?",
+    "explanation": "The Lich King is imprisoned in the Frozen Throne located in the icy region of Northrend until his final battle with Arthas, which occurs at the end of Warcraft III.",
+    "options": [
+      "A) Silvermoon City",
+      "B) Northrend",
+      "C) Lordaeron",
+      "D) Outland"
+    ],
+    "correctAnswer": "B) Northrend",
+    "tags": [
+      "Lich King",
+      "Northrend",
+      "Frozen Throne"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ooypxoh6a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "What is the primary role of Jaina Proudmoore in the Warcraft universe?",
+    "explanation": "Jaina is a prominent member of the Kirin Tor, an organization based in Dalaran focused on magical research and defense during the Warcraft series.",
+    "options": [
+      "A) Leader of the Alliance",
+      "B) Mage specializing in Fire Magic",
+      "C) Commander of the Kirin Tor faction",
+      "D) Guardian of the Dark Portal"
+    ],
+    "correctAnswer": "C) Commander of the Kirin Tor faction",
+    "tags": [
+      "Jaina Proudmoore",
+      "Kirin Tor",
+      "Mage"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "myqxlfaqs",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "What was the result of Jaina Proudmoore and Illidan destroying the Dark Portal in Warcraft III?",
+    "explanation": "Destroying the Dark Portal severed the link between the Scourge and the Burning Legion, weakening the Lich King's power by cutting off external demonic reinforcements.",
+    "options": [
+      "A) The Lich King fell into a deep sleep",
+      "B) The Scourge lost their connection to the Burning Legion",
+      "C) The Alliance gained control over Northrend",
+      "D) The Horde was disbanded"
+    ],
+    "correctAnswer": "B) The Scourge lost their connection to the Burning Legion",
+    "tags": [
+      "Dark Portal",
+      "Jaina Proudmoore",
+      "Illidan Stormrage"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dd7kq4znf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft Evreninde, Ordu (Horde) ve İttifak (Alliance) arasındaki ana çatışma ne temelindedir?",
+    "explanation": "Warcraft'ta İttifak ve Ordu, kültürel, siyasi ve ideolojik farklılıklar nedeniyle yüzyıllardır çatışmaktadır.",
+    "options": [
+      "Zenginlik ve güç",
+      "Cinsiyet ve cilt rengi",
+      "Kültürel ve siyasi farklılıklar",
+      "Teknoloji seviyesi"
+    ],
+    "correctAnswer": "Kültürel ve siyasi farklılıklar",
+    "tags": [
+      "Warcraft Evreni",
+      "Dünya Yapısı",
+      "Siyaset"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ajyontwnj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft III: Reign of Chaos oyununda, insan (Human) ırkının başkenti hangisidir?",
+    "explanation": "Stormwind, İnsan ırkının başkenti ve Ordu'nun merkezi olarak Warcraft evreninde önemli bir yer tutar.",
+    "options": [
+      "Stratholme",
+      "Stormwind",
+      "Darrowmere",
+      "Auchindoun"
+    ],
+    "correctAnswer": "Stormwind",
+    "tags": [
+      "Warcraft III",
+      "İnsan Irkı",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8gp2m4v84",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft Evreninin kurucusu ve efsanevi kahramanlarından biri olan Arthas Mercenary kimdir?",
+    "explanation": "Arthas Mercenary, Warcraft evreninin efsanevi kahramanlarından biri olarak bilinir ve özellikle Arthas'ın hikayesiyle özdeşleşmiştir.",
+    "options": [
+      "Kral Llane'nin oğlu",
+      "Arthas'ın kendisi",
+      "Uther Lightbringer",
+      "Malfurion Stormrage"
+    ],
+    "correctAnswer": "Arthas'ın kendisi",
+    "tags": [
+      "Warcraft Evreni",
+      "Karakterler",
+      "Efsanevi Kahramanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fpf9ik4d8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "World of Warcraft'ta, bir oyuncu'nun en yüksek seviyesi kaçtır?",
+    "explanation": "World of Warcraft'ta bir oyuncu'nun en yüksek seviyesi 80'dir ve bu, oyunun ana döngüsünü temsil eder.",
+    "options": [
+      "60",
+      "80",
+      "120",
+      "45"
+    ],
+    "correctAnswer": "80",
+    "tags": [
+      "World of Warcraft",
+      "Oyun Mekaniği",
+      "Seviye Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qw17l4xhp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft Evreninde, Lich King (Ölü Kral) kim tarafından yönetilmektedir?",
+    "explanation": "Lich King (Ölü Kral), Arthas Mercenary tarafından yönetilmektedir ve Naxxramas'daki efsanevi kral olarak bilinir.",
+    "options": [
+      "Arthas Mercenary",
+      "Jaina Proudmoore",
+      "Varian Wrynn",
+      "Thrall"
+    ],
+    "correctAnswer": "Arthas Mercenary",
+    "tags": [
+      "Warcraft Evreni",
+      "Karakterler",
+      "Sihirbazlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "syzsbmr4y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Warcraft Evreni'nde Azeroth dünyasını yöneten iki ana güç hangisidir?",
+    "explanation": "Warcraft evreninde Alliance (İttifak) ve Horde (Horde), Azeroth dünyasını kontrol eden iki ana güçtür. Bu gruplar uzun süreli bir savaş içindedir.",
+    "options": [
+      "Büyük İmparatorluk ve Ordo",
+      "Alliance ve Horde",
+      "Düşmanlar ve Dostlar",
+      "Evren ve Yer"
+    ],
+    "correctAnswer": "Alliance ve Horde",
+    "tags": [
+      "Warcraft",
+      "Lore",
+      "Askerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wg3ata8ol",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft III'taki hangi karakter, orijinal Allience lideri olarak bilinir?",
+    "explanation": "Uther, Warcraft oyunlarında Alliance'nın önemli bir kahramanıdır ve Paladin sınıfının kurucularından biri olarak bilinir.",
+    "options": [
+      "Arthas",
+      "Uther",
+      "Jaina",
+      "Thrall"
+    ],
+    "correctAnswer": "Uther",
+    "tags": [
+      "Warcraft III",
+      "Karakterler",
+      "Alliance"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ke8ce4q07",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Dwarf ırkını hangi coğrafi bölgede yaşamaktadırlar?",
+    "explanation": "Dwarflar, Warcraft evreninde genellikle Khaz Modan bölgesinde yaşarlar. Bu bölge, orijinal Dwarfların ana vatanıdır.",
+    "options": [
+      "Lordaeron",
+      "Khaz Modan",
+      "Dun Morogh",
+      "Silvermoon"
+    ],
+    "correctAnswer": "Khaz Modan",
+    "tags": [
+      "Warcraft",
+      "Coğrafya",
+      "Dwarf"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tr6haw0ms",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft Evreni'nde Orjinall'in birleşmesi hangi olaydan sonra gerçekleşmiştir?",
+    "explanation": "Warcraft III'ta Thrall, Horde'un yeni lideri olarak ortaya çıkmış ve bu olay Alliance ile önemli bir gelişme sağlamıştır.",
+    "options": [
+      "Karanlık Lord Arthas",
+      "Thrall'ın dönüşü",
+      "Jaina'nın liderliği",
+      "Uther'ın ölümü"
+    ],
+    "correctAnswer": "Thrall'ın dönüşü",
+    "tags": [
+      "Warcraft III",
+      "Olaylar",
+      "Thrall"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0x12j7oeb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "Azeroth dünyasında hangi bölge, orijinal Alliance üssü olarak bilinir?",
+    "explanation": "Lordaeron, Warcraft evreninde Alliance'nın orijinal ana üssü olarak bilinir. Bu bölge, birçok önemli savaş ve olayın merkezi olmuştur.",
+    "options": [
+      "Stromgarde",
+      "Lordaeron",
+      "Dun Morogh",
+      "Silvermoon"
+    ],
+    "correctAnswer": "Lordaeron",
+    "tags": [
+      "Warcraft",
+      "Coğrafya",
+      "Alliance"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z25h2500h",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft evreninin ilk oyununun adı nedir?",
+    "explanation": "Warcraft I: Orcs & Humans, 1994 yılında Blizzard tarafından yayınlanan ve Warcraft serisinin ilk oyunu olarak kabul edilir.",
+    "options": [
+      "Warcraft III: Reign of Chaos",
+      "Warcraft II: Tides of Darkness",
+      "Warcraft I: Orcs & Humans",
+      "World of Warcraft"
+    ],
+    "correctAnswer": "Warcraft I: Orcs & Humans",
+    "tags": [
+      "warcraft",
+      "history",
+      "european"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i9526zy4h",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Warcraft III'ta oynanabilen üç temel ırktan hangisi değildir?",
+    "explanation": "Warcraft III'ta Human, Orc ve Undead ırkları temel oynanabilir ırklar olarak yer alır. Night Elf ise daha sonra eklenen bir ırktır.",
+    "options": [
+      "Human",
+      "Orc",
+      "Undead",
+      "Night Elf"
+    ],
+    "correctAnswer": "Night Elf",
+    "tags": [
+      "warcraft",
+      "units",
+      "races"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z28rrbdc7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "World of Warcraft'taki ana kıta adı nedir?",
+    "explanation": "World of Warcraft'taki ana kıta ve evrenin adı Azeroth'tır. Kalimdor ise bu kıtadaki bir bölgedir.",
+    "options": [
+      "Kalimdor",
+      "Azeroth",
+      "Lordaeron",
+      "Durotar"
+    ],
+    "correctAnswer": "Azeroth",
+    "tags": [
+      "world of warcraft",
+      "geography",
+      "continental"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k7rc6h1qc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft serisinde İnsanlar (Human) hangi bölgeyi kontrol etmektedir?",
+    "explanation": "İnsanlar (Human) Lordaeron bölgesini kontrol etmektedir. Durotar ise Orcların ana bölgesidir.",
+    "options": [
+      "Durotar",
+      "Stranglethorn Vale",
+      "Lordaeron",
+      "Teldrassil"
+    ],
+    "correctAnswer": "Lordaeron",
+    "tags": [
+      "warcraft",
+      "regions",
+      "human"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9fp4l631x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "Warcraft III: Reign of Chaos'ta 'Alliance of Lordaeron' hangi ırklardan oluşmaktadır?",
+    "explanation": "Alliance of Lordaeron, Human ırkından oluşan Lordaeron ile Night Elf'ten oluşan Teldrassil birliklerini içerir.",
+    "options": [
+      "Human ve Night Elf",
+      "Orc ve Undead",
+      "Human ve Orc",
+      "Night Elf ve Undead"
+    ],
+    "correctAnswer": "Human ve Night Elf",
+    "tags": [
+      "warcraft",
+      "alliance",
+      "factions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "quxp3e4hf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Warcraft III oyununda, Arthas Menethil'in son olarak ne unvanı verildiği?",
+    "explanation": "Arthas, Lich King olarak bilinen Can Sürükleyici Kral unvanını alır ve donmuş tahtın sahibi olur.",
+    "options": [
+      "Can Sürükleyici Kral",
+      "Donmuş Taht Kralı",
+      "Geceli Elf Kralı",
+      "İnsanlar Birliği Lideri"
+    ],
+    "correctAnswer": "Can Sürükleyici Kral",
+    "tags": [
+      "Karakterler",
+      "Efsaneler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sqq42tbxp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Warcraft evrenindeki üç ana ırk hangileridir?",
+    "explanation": "Warcraft III'ta ana oynanan ırklar Orklar, İnsanlar ve Geceli Elf'lerdir.",
+    "options": [
+      "Orklar, İnsanlar, Geceli Elf",
+      "Humanlar, Night Elf, Orcs",
+      "İnsanlar, Orcs, Goblin",
+      "Geceli Elf, Dwarflar, Human"
+    ],
+    "correctAnswer": "Orklar, İnsanlar, Geceli Elf",
+    "tags": [
+      "İrkler",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qgvb74vti",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Hangi genişleme Donmuş Taht (Frozen Throne) olarak bilinir?",
+    "explanation": "Donmuş Taht, Warcraft III'un ikinci genişlemesi olarak kabul edilir.",
+    "options": [
+      "Warcraft III: Reign of Chaos",
+      "Warcraft III: Frozen Throne",
+      "World of Warcraft: The Burning Crusade",
+      "Warcraft II: Tides of Darkness"
+    ],
+    "correctAnswer": "Warcraft III: Frozen Throne",
+    "tags": [
+      "Genişlemeler",
+      "Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hdktfnejr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "Geceli Elflerin Orklarla savaştığı ve Mount Hyjal'da gerçekleşen büyük savaş hangisidir?",
+    "explanation": "Geceli Elflerin Orklar ve İnsanlarla savaştığı bu olay, Warcraft III'un son görevlerinde yer alır.",
+    "options": [
+      "Hyjal Muharebesi",
+      "Mons Hyjal Muharebesi",
+      "İnsanlar Birliği Savaşı",
+      "Donmuş Taht Savaşı"
+    ],
+    "correctAnswer": "Mons Hyjal Muharebesi",
+    "tags": [
+      "Efsaneler",
+      "Savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w278cu5z8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft III'ta Donmuş Taht (Frozen Throne) adlı genişleme hangi yıl yayınlandı?",
+    "explanation": "Donmuş Taht genişlemesi 2003 yılında yayınlandı.",
+    "options": [
+      "2003",
+      "2004",
+      "2002",
+      "2005"
+    ],
+    "correctAnswer": "2003",
+    "tags": [
+      "Genişlemeler",
+      "Tarih Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "avhr4zg7f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı: Warcraft (World of Warcraft) oyununun ilk genişlemesi hangisidir?",
+    "explanation": "Dünya Savaşı: Warcraft oyununun ilk genişlemesi The Burning Crusade'dır ve 2007 yılında piyasaya sürülmüştür. Frostwolf Rising ve Night Elf Chronicles gerçek expansion'lar değildir.",
+    "options": [
+      "The Burning Crusade",
+      "Frostwolf Rising",
+      "The Frozen Throne",
+      "Night Elf Chronicles"
+    ],
+    "correctAnswer": "The Burning Crusade",
+    "tags": [
+      "Warcraft",
+      "World of Warcraft",
+      "Oyun Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pcdoau9eq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "Warcraft evreninde Ordu (Horde) ile İttifak (Alliance) arasındaki temel fark nedir?",
+    "explanation": "Warcraft lore'unda Ordu doğu kıtası (Azeroth) merkezli, İttifak ise batı kıtası (Dalaran çevresi) merkezli bir yapıdadır. Bu, iki faksiyonun coğrafi kökenlerini yansıtır.",
+    "options": [
+      "İttifak teknolojik, Ordu geleneksel",
+      "Ordu doğu kıtasından, İttifak batı kıtasından",
+      "İttifak siyasi birliği, Orda ırksal birlik",
+      "Ordu insan merkezli, İttifak hayvan ve elf merkezli"
+    ],
+    "correctAnswer": "Ordu doğu kıtasından, İttifak batı kıtasından",
+    "tags": [
+      "Warcraft",
+      "Faksiyonlar",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zlakjgten",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Warcraft evreninde 'Azeroth' neyi temsil eder?",
+    "explanation": "Azeroth, Warcraft evreninin temel dünyasıdır ve tüm oyunlarda savaşların bu dünya etrafında geçtiği yarı kurgusal bir yerdir. Baş karakter değil, ana dünya temsil eder.",
+    "options": [
+      "Warcraft oyununun baş karakteri",
+      "Dünya Savaşlarının geçtiği ana dünya",
+      "Bir büyücü kasabası",
+      "Oyunun geliştiricisi"
+    ],
+    "correctAnswer": "Dünya Savaşlarının geçtiği ana dünya",
+    "tags": [
+      "Warcraft",
+      "Lore",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n09aw39oe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft: Orcs & Humans (1994) oyunu ile World of Warcraft arasındaki temel fark nedir?",
+    "explanation": "Warcraft: Orcs & Humans 1994'te çıkan gerçek zamanlı strateji (RTS) oyunudur. World of Warcraft ise 2004'te çıkan çok oyunculu online rol yapma oyunu (MMORPG). Bu, iki farklı oyun türüdür.",
+    "options": [
+      "Her ikisi de aynı oyun",
+      "Orcs & Humans gerçek zamanlı strateji, WoW MMORPG",
+      "Orcs & Humans RPG, WoW strateji",
+      "Hiç fark yok"
+    ],
+    "correctAnswer": "Orcs & Humans gerçek zamanlı strateji, WoW MMORPG",
+    "tags": [
+      "Warcraft",
+      "Oyun Türleri",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3c4313gp0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft evreninde 'Dalaran' neyi temsil eder?",
+    "explanation": "Dalaran, Warcraft evreninde büyücülerin (mages) ve sihirli enerjinin merkezini temsil eden önemli bir yerdir. Özellikle 'The Frozen Throne' genişlemesinde kilit rol oynar.",
+    "options": [
+      "Büyücülerin ana kenti",
+      "Savaşın başlangıç noktası",
+      "Bir kasaba adı",
+      "Oyunun sunucusu"
+    ],
+    "correctAnswer": "Büyücülerin ana kenti",
+    "tags": [
+      "Warcraft",
+      "Lore",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "uzgmgg6m7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Siber güvenlikte 'Phishing' nedir?",
+    "explanation": "Phishing, sahte e-postalar veya mesajlar ile kullanıcıların kişisel bilgilerini ve kimlik doğrulama verilerini çalmaya yönelik bir kimlik avı saldırısıdır.",
+    "options": [
+      "Kötü niyetli yazılım",
+      "Kimlik avı saldırısı",
+      "Ağ kesintisi",
+      "Veri şifreleme"
+    ],
+    "correctAnswer": "Kimlik avı saldırısı",
+    "tags": [
+      "siber güvenlik",
+      "zafiyet",
+      "e-posta güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9l3ycj1m7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Güçlü bir şifre oluştururken hangi özelliklerden kaçınılmalıdır?",
+    "explanation": "Güçlü şifreler uzun olmalı, harf, rakam ve özel karakter içermeli ve kullanıcı adını veya basit kelimeleri (doğum tarihi vb.) içermemeli.",
+    "options": [
+      "Sadece rakamlardan oluşur",
+      "Kendisi basit ve tahmin edilebilir kelimeler içerir",
+      "Uzun ve karmaşıktır (büyük/küçük harf, rakam, simge)",
+      "Her zaman değişimlidir"
+    ],
+    "correctAnswer": "Kendisi basit ve tahmin edilebilir kelimeler içerir",
+    "tags": [
+      "şifreleme",
+      "parola yönetimi",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oobwxwavl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Bir ağ güvenliğini sağlamak için kullanılan 'Firewall'ın temel işlevi nedir?",
+    "explanation": "Firewall, ağlar arası iletişimi izleyen ve güvenli olmayan bağlantıları engelleyerek ağ trafiğini kontrol eden bir güvenlik duvarıdır.",
+    "options": [
+      "Virus koruma programı",
+      "Ağ trafiğini denetleyen bir duvar",
+      "Dosya sunucu",
+      "Yazıcı yazılımı"
+    ],
+    "correctAnswer": "Ağ trafiğini denetleyen bir duvar",
+    "tags": [
+      "ağ güvenliği",
+      "siber güvenlik",
+      "networking"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jov7ngpiu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "'SQL Injection' saldırısı hangi zafiyeti hedefler?",
+    "explanation": "SQL Injection, web uygulamalarındaki kod giriş noktalarında zafiyetleri kullanarak veritabanına istemli sorgular göndererek verileri okuma, değiştirme veya silme yetkisi sağlar.",
+    "options": [
+      "Şifre kırma",
+      "Veritabanı verilerini manipüle etme",
+      "Donanım hackleme",
+      "Fiziksel erişim"
+    ],
+    "correctAnswer": "Veritabanı verilerini manipüle etme",
+    "tags": [
+      "veritabanı güvenliği",
+      "siber güvenlik",
+      "web zafiyeti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v4392e4sv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "'MFA' (Multi-Factor Authentication) nedir?",
+    "explanation": "MFA, kullanıcıların kimlik bilgilerini doğrulamak için birden fazla yöntemi (şifre, biyometrik veya uygulama kodu) birleştirerek güvenliğini artırır.",
+    "options": [
+      "Çoklu Faktörlü Kimlik Doğrulama",
+      "Çoklu Dosya Formatı",
+      "Çoklu Ağ Yönetimi",
+      "Çoklu Faktörlü Filtreleme"
+    ],
+    "correctAnswer": "Çoklu Faktörlü Kimlik Doğrulama",
+    "tags": [
+      "kimlik doğrulama",
+      "siber güvenlik",
+      "güvenlik protokolleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "om2s2djuc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi güçlü bir şifre özelliği değildir?",
+    "explanation": "Güçlü şifreler kişisel bilgiler içermemeli, uzun olmalı ve harf-sayı-sembol karışımı içermelidir. Aynı şifreyi birden fazla hesapta kullanmak güvenlik riski oluşturur çünkü bir hesap sızarsa tüm hesaplar tehdit altında kalır.",
+    "options": [
+      "Uzun (en az 12 karakter)",
+      "Kişiye özel bilgiler içermemeli",
+      "Harf, sayı ve sembol karışımı",
+      "Aynı şifreyi birden fazla hesapta kullanmak"
+    ],
+    "correctAnswer": "Aynı şifreyi birden fazla hesapta kullanmak",
+    "tags": [
+      "Şifre Güvenliği",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l7ebomggj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Phishing saldırısında kullanıcılar genellikle hangi yolu izler?",
+    "explanation": "Phishing saldırılarında saldırganlar kullanıcıları şüpheli e-postalar veya mesajlar aracılığıyla kandırır ve linklere tıklamasını sağlar. Bu linkler genellikle dolandırıcı web siteleri açar.",
+    "options": [
+      "Şüpheli e-postalardaki linklere tıklamak",
+      "Güvenli HTTPS bağlantıları kullanmak",
+      "İki faktörlü kimlik doğrulama aktif tutmak",
+      "E-posta adreslerini gizlemek"
+    ],
+    "correctAnswer": "Şüpheli e-postalardaki linklere tıklamak",
+    "tags": [
+      "Phishing",
+      "Saldırı Yöntemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3gn27sw2n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bir firewall'ın temel işlevlerinden biri değildir?",
+    "explanation": "Firewall'lar ağ trafiğini filtreler, portları yönetir ve güvenlik politikalarını uygular. Ancak veri şifreleme işlevi genellikle end-point güvenliğinde veya SSL/TLS ile sağlanır.",
+    "options": [
+      "Giriş çıkış ağ trafiğini kontrol etme",
+      "Şifreli verileri şifreleyip çözmek",
+      "İzin verilen ve engellenen portları yönetme",
+      "Ağ güvenliği politikalarını uygulama"
+    ],
+    "correctAnswer": "Şifreli verileri şifreleyip çözmek",
+    "tags": [
+      "Firewall",
+      "Ağ Güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ho8u7ijys",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "SQL Enjeksiyon saldırılarında hackerlar ne yapmaya çalışır?",
+    "explanation": "SQL Enjeksiyon saldırılarında saldırganlar, kullanıcı girdilerinin kontrol edilmeyen bir veritabanına gönderilmesine izin veren açıkları kullanarak veri sızdırır veya şifreleri ele geçirir.",
+    "options": [
+      "Veritabanı yapılandırmasını değiştirmek",
+      "Kullanıcı giriş bilgilerini ele geçirmek",
+      "Ağ donanımını bypass etmek",
+      "Şifreleme anahtarlarını çalmak"
+    ],
+    "correctAnswer": "Kullanıcı giriş bilgilerini ele geçirmek",
+    "tags": [
+      "SQL Enjeksiyon",
+      "Veri Güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bhb8e2r9y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi 'Zero Trust' güvenlik modelinin temel prensibidir?",
+    "explanation": "Zero Trust modeli 'asla güven, asla varsayma' prensibine dayanır. Her bağlantı ve istek kimlik doğrulaması gerektirir, konum veya kullanıcıdan bağımsız olarak.",
+    "options": [
+      "Tüm ağ trafiği varsayılan olarak güvenlidir",
+      "Her istek doğrulanmalı, kim bile olsa",
+      "Şifreler asla değişmemeli",
+      "Firewall tüm dış trafiği engellemeli"
+    ],
+    "correctAnswer": "Her istek doğrulanmalı, kim bile olsa",
+    "tags": [
+      "Zero Trust",
+      "Güvenlik Modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0klx2mqe7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi güçlü bir şifre özelliği DEĞİLDİR?",
+    "explanation": "Güçlü şifreler karmaşık, uzun ve bireysel bilgilerin dahil edilmediği şifrelere sahiptir. Kelime dizileri (ör: 'güneş', 'bahar') tahmin edilebilir olduğu için güvenlik riski oluşturur.",
+    "options": [
+      "Uzun (8 karakter ve üzeri)",
+      "Kelime dizileri kullanımı",
+      "Bireysel bilgilerin dahil edilmemesi",
+      "Karmaşıklık"
+    ],
+    "correctAnswer": "Kelime dizileri kullanımı",
+    "tags": [
+      "Siber Güvenlik",
+      "Şifreleme",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nvwxf001b",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Şirket çalışanlarına yönelik bir siber saldırıda en yaygın yöntem nedir?",
+    "explanation": "Phishing, dolandırıcıların kurbanlara sahte elektronik mesajlar göndererek kişisel bilgi çalmak veya kötü amaçlı yazılım indirmesi için kullanılır. Siber güvenlikte en sık karşılaşılan saldırı yöntemidir.",
+    "options": [
+      "DDN Saldırısı",
+      "Ransomware",
+      "Phishing (Oltalama)",
+      "Man-in-the-Middle"
+    ],
+    "correctAnswer": "Phishing (Oltalama)",
+    "tags": [
+      "Siber Güvenlik",
+      "Saldırı Yöntemleri",
+      "İnsan Kaynakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t8wa4iy15",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi Zero Trust mimarisinin temel prensibi DEĞİLDİR?",
+    "explanation": "Zero Trust mimarisinde 'asla güvenme, her zaman doğrula' prensibi vardır. Güvenli varsayım Zero Trust'a zıt bir yaklaşımdır çünkü ağ güvenliği sınırlı kabul edilir.",
+    "options": [
+      "Her istek doğrulanmalıdır",
+      "Saldırıya karşı azami koruma",
+      "Güvenli varsayım",
+      "Kıtasal ağ güvenliği"
+    ],
+    "correctAnswer": "Güvenli varsayım",
+    "tags": [
+      "Siber Güvenlik",
+      "Mimari",
+      "Zero Trust"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l49phtwwp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "İki faktörlü kimlik doğrulamada (2FA) hangi faktörler kullanılır?",
+    "explanation": "İki faktörlü kimlik doğrulamada genellikle 'bilinen bir şey' (şifre) ve 'sahip olunan bir şey' (doğrulama kodu, token vb.) kombinasyonu kullanılır. Bu saldırıları zorlaştırır.",
+    "options": [
+      "Şifre + Cihaz bilgisi",
+      "Şifre + Doğrulama kodu",
+      "IP adresi + Şifre",
+      "Biyometrik + Şifre"
+    ],
+    "correctAnswer": "Şifre + Doğrulama kodu",
+    "tags": [
+      "Siber Güvenlik",
+      "Kimlik Doğrulama",
+      "2FA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jdvs2sl1o",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "SSL/TLS şifreli bağlantıda hangi protokol modern standarttır?",
+    "explanation": "TLS 1.3, SSL'in modern ve güvenli versiyonudur. Şifreleme gücü daha yüksektir ve bağlantı hızı optimize edilmiştir. SSL 3.0 artık güvenlik riski oluşturduğu için kullanılmamalıdır.",
+    "options": [
+      "SSL 3.0",
+      "TLS 1.2",
+      "TLS 1.3",
+      "DTLS"
+    ],
+    "correctAnswer": "TLS 1.3",
+    "tags": [
+      "Siber Güvenlik",
+      "Kriptografi",
+      "Protokoller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fs1ujml0n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi 'phishing' saldırısının temel özelliğidir?",
+    "explanation": "Phishing, sahte e-postalar veya web siteleri oluşturarak kullanıcının gizli bilgilerini (şifre, kredi kartı numarası vb.) çalmak için yapılan sosyal mühendislik saldırısıdır.",
+    "options": [
+      "Kullanıcıya yasa dışı para transferi yapılması",
+      "Sahte e-postalar veya web siteleri ile bilgi çalınması",
+      "Sistemde virüs yazılımının kurulması",
+      "Ağdaki firewall kurallarının değiştirilmesi"
+    ],
+    "correctAnswer": "Sahte e-postalar veya web siteleri ile bilgi çalınması",
+    "tags": [
+      "phishing",
+      "siber-güvenlik",
+      "bilgi-çalma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fg10jr6v7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Güçlü bir şifre oluşturmada aşağıdakilerden hangisi önerilmez?",
+    "explanation": "Kişisel bilgiler (doğum tarihi, isim, adres) tahmin edilebilir şifre oluşturur ve güvenlik riski yaratır. Güçlü şifreler kişisel bilgileri içermemelidir.",
+    "options": [
+      "Harf, rakam ve sembol içerir",
+      "Uzun (en az 12 karakter)",
+      "Kişisel bilgileri (doğum tarihi, isim) kullanır",
+      "Düzenli olarak değiştirilir"
+    ],
+    "correctAnswer": "Kişisel bilgileri (doğum tarihi, isim) kullanır",
+    "tags": [
+      "şifre-güvenliği",
+      "kişisel-veri",
+      "best-practice"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "erx90oxb6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi 'two-factor authentication' (2FA) metodudur?",
+    "explanation": "Two-factor authentication (2FA), şifre ile birlikte ikinci bir doğrulama faktörü (SMS kod, uygulama kodu, biyometrik veri) gerektirir ve güvenlik katmanı sağlar.",
+    "options": [
+      "Sadece şifre ile giriş yapılması",
+      "Şifre + biyometrik veri ile giriş yapılması",
+      "Şifre + mobil uygulama oluşturulan kod ile giriş yapılması",
+      "Farklı hesaplar için farklı e-posta adresleri kullanımı"
+    ],
+    "correctAnswer": "Şifre + mobil uygulama oluşturulan kod ile giriş yapılması",
+    "tags": [
+      "2FA",
+      "kimlik-doğrulama",
+      "güvenlik-protokolü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ggwk9fau",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Şifrelenmiş verilerin güvenliğini sağlamak için aşağıdakilerden hangisi kullanılır?",
+    "explanation": "Encryption, verileri okunamaz hale getirerek yetkisiz erişimi engeller. Şifrelenmiş veriler sadece şifresi olan kişiler tarafından çözülebilir.",
+    "options": [
+      "Firewall",
+      "Antivirüs",
+      "Encryption (Şifreleme)",
+      "Router"
+    ],
+    "correctAnswer": "Encryption (Şifreleme)",
+    "tags": [
+      "şifreleme",
+      "veri-güvenliği",
+      "encryption"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6h69b7oko",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi 'zero-day vulnerability' saldırısını tanımlar?",
+    "explanation": "Zero-day vulnerability, yazılımdaki bir güvenlik açığının keşfedildiği ancak üretici henüz düzeltme (patch) yayınlamadığı kritik durumdur. Bu saldırılar çok tehlikelidir.",
+    "options": [
+      "İnternet bağlantısının kesilmesi",
+      "Yazılım açığının keşfedildiği ama henüz yama bulunamadığı durum",
+      "Şifrenin unutulması ve reset yapılması",
+      "Ağdaki cihazın yeniden başlatılması"
+    ],
+    "correctAnswer": "Yazılım açığının keşfedildiği ama henüz yama bulunamadığı durum",
+    "tags": [
+      "zero-day",
+      "yazılım-açığı",
+      "gelişmiş-saldırı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ukal5593",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Siber güvenlikte 'Phishing' saldırısı nedir?",
+    "explanation": "Phishing, siber saldırganların kullanıcıları kandırarak hassas bilgi toplamak için sahte elektronik posta veya mesajlar göndermesidir.",
+    "options": [
+      "Bilgi toplama ve dolandırıcılık amaçlı sahte mesajlar",
+      "Dosya sistemi virüsü",
+      "Ağdaki trafiği kontrol eden cihaz",
+      "Veri şifreleme standardı"
+    ],
+    "correctAnswer": "Bilgi toplama ve dolandırıcılık amaçlı sahte mesajlar",
+    "tags": [
+      "phishing",
+      "sosyal mühendislik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9wpv07fh1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Ağ güvenliği duvarı (Firewall) ne işe yarar?",
+    "explanation": "Firewall, izole edilen iç ağ ile dış ağ arasındaki akışa izin veren veya engelleyen güvenlik duvarıdır.",
+    "options": [
+      "Şifreli sunucu",
+      "Giriş kısıtları ve ağ trafiği kontrolü",
+      "Antivirüs taraması",
+      "Veri yedekleme"
+    ],
+    "correctAnswer": "Giriş kısıtları ve ağ trafiği kontrolü",
+    "tags": [
+      "firewall",
+      "ağ güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zo7r67h3f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Çoklu Faktörlü Kimlik Doğrulama (MFA) neden kritik bir önlemdir?",
+    "explanation": "MFA, şifreye ek olarak biyometrik veya cihaz kodu gibi ikinci bir faktör gerektirerek güvenliği artırır.",
+    "options": [
+      "Sadece şifre yeterli",
+      "Şifre + 2. faktör gerekir",
+      "IP adresi kontrolü tek başına yeterlidir",
+      "Parola güncellemesi"
+    ],
+    "correctAnswer": "Şifre + 2. faktör gerekir",
+    "tags": [
+      "mfa",
+      "kimlik doğrulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vyvfj6uya",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "SQL Enjeksiyonu saldırısı hangi katmanda gerçekleşir?",
+    "explanation": "SQL Enjeksiyonu, web uygulamasının kullanıcı girdilerini yeterince doğrulamadığından kaynaklanan uygulama katmanı saldırıdır.",
+    "options": [
+      "Fiziksel",
+      "Uygulama Katmanı",
+      "Ağ Katmanı",
+      "İşletim Sistemi"
+    ],
+    "correctAnswer": "Uygulama Katmanı",
+    "tags": [
+      "sql injection",
+      "uygulama güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "581d3usmb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Zero Trust güvenlik modelinin temel felsefesi nedir?",
+    "explanation": "Zero Trust, kullanıcıların veya cihazların kim olduğunu varsayılmadan her erişim isteğini doğrulama prensibine dayanır.",
+    "options": [
+      "Güvenilen yer varsayılır",
+      "Asla güvenme, her zaman doğrula",
+      "Şifre uzunluğu önemli",
+      "Ağ segmentasyonu"
+    ],
+    "correctAnswer": "Asla güvenme, her zaman doğrula",
+    "tags": [
+      "zero trust",
+      "güvenlik modeli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "szlybt3vp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Ateş duvarı (Firewall) temel olarak ne işlevi görür?",
+    "explanation": "Ateş duvarları, ağ trafiğini izleyerek güvenli olmayan erişimleri engeller ve sadece izin verilen bağlantılara izin verir.",
+    "options": [
+      "Kullanıcı yazılımını yönetir",
+      "Gelen ve giden ağ trafiğini denetler",
+      "Sadece veri yedeklemesi yapar",
+      "Şifreleri kırma aracıdır"
+    ],
+    "correctAnswer": "Gelen ve giden ağ trafiğini denetler",
+    "tags": [
+      "siber güvenlik",
+      "temel",
+      "ağ güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xg3rl1ycz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Phishing saldırılarında siber suçlular genellikle hangi yöntemi kullanır?",
+    "explanation": "Phishing, sosyal mühendislik tabanlı bir saldırıdır ve kurbanları sahte iletişim kanalları üzerinden kişisel bilgileri verilmeleri için kandırır.",
+    "options": [
+      "Veri tabanı enjeksiyonu",
+      "Sahte e-posta veya mesajlar göndererek bilgileri çalar",
+      "Fiziksel sunucuya erişirler",
+      "Sadece Wi-Fi ağındaki şifreyi değiştirirler"
+    ],
+    "correctAnswer": "Sahte e-posta veya mesajlar göndererek bilgileri çalar",
+    "tags": [
+      "phishing",
+      "sosyal mühendislik",
+      "e-posta güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bcyzamzt5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Çoklu Faktör Kimlik Doğrulaması (MFA) neden güvenlikte kritiktir?",
+    "explanation": "MFA, bir kullanıcının giriş yaparken şifrelerinin yanı sıra ikinci bir faktör (SMS, uygulamalar) gerektiği için şifrelerin çalınması bile hesabı korur.",
+    "options": [
+      "Kullanıcı deneyimini artırır",
+      "Şifre kırma saldırılarını tamamen engeller",
+      "Tek bir şifreye güvenmek yerine ek bir doğrulama katmanı sağlar",
+      "Veri saklama maliyetini düşürür"
+    ],
+    "correctAnswer": "Tek bir şifreye güvenmek yerine ek bir doğrulama katmanı sağlar",
+    "tags": [
+      "MFA",
+      "kimlik doğrulama",
+      "güvenlik katmanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nhchotl9e",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Zero Trust mimarisi temel prensibi nedir?",
+    "explanation": "Zero Trust (Sıfır Güven), 'asla güvenme, asla doğrula' ilkesine dayanır ve iç ağ trafiğine bile otomatik güven vermez.",
+    "options": [
+      "İç ağlar güvenlidir varsayılır",
+      "Her istek doğrulanmadan önce kontrol edilir, iç ağlar da dahil",
+      "Sadece dış duvar önemlidir",
+      "Şifre uzunluğu tek belirleyicidir"
+    ],
+    "correctAnswer": "Her istek doğrulanmadan önce kontrol edilir, iç ağlar da dahil",
+    "tags": [
+      "zero trust",
+      "mimari",
+      "güvenlik stratejisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1o1tdj2jw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Veritabanı enjeksiyonu saldırılarını önlemek için en etkili uygulama tabanlı yöntem nedir?",
+    "explanation": "Parametreli sorgular, kullanıcı girişlerini SQL komutunun bir parçası olarak değil, verisi olarak işler, bu da enjeksiyon engeller.",
+    "options": [
+      "Firewall kurmak",
+      "Tüm kullanıcı girişlerini manuel onaylamak",
+      "Kullanıcı girdilerini parametreli sorgularla (prepared statements) işleme yapmak",
+      "Veritabanı şifrelemesini artırmak"
+    ],
+    "correctAnswer": "Kullanıcı girdilerini parametreli sorgularla (prepared statements) işleme yapmak",
+    "tags": [
+      "SQL Injection",
+      "veritabanı güvenliği",
+      "kod güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1byfhw61x",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Siber saldırı türü olarak 'Phishing' neyi amaçlar?",
+    "explanation": "Phishing, siber suçluların e-posta veya başka kanallarla kullanıcıları aldatarak bankacılık şifresi, kredi kartı bilgisi gibi hassas verileri çalmayı amaçlayan bir saldırı türüdür.",
+    "options": [
+      "A) Sistem donanımını bozmak",
+      "B) Kullanıcıları kandırarak kişisel bilgi çalmak",
+      "C) Ağ trafiğini yavaşlatmak",
+      "D) Yazılım güncellemelerini engellemek"
+    ],
+    "correctAnswer": "B) Kullanıcıları kandırarak kişisel bilgi çalmak",
+    "tags": [
+      "phishing",
+      "siber-güvenlik",
+      "kişisel-veri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vs4i0l7nu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Kripto paralar ve blockchain teknolojisi hangi güvenlik avantajına sahiptir?",
+    "explanation": "Blockchain, tüm ağ katılımcılarının görebildiği şeffaf ve hash işleviyle değiştirilemez bir dağıtık kayıt defteri teknolojisidir.",
+    "options": [
+      "A) Merkezi veri yapısı",
+      "B) Şeffaf ve değiştirilemez kayıt defteri",
+      "C) Kullanıcı adları gerektirir",
+      "D) Tek sunucu kullanımı"
+    ],
+    "correctAnswer": "B) Şeffaf ve değiştirilemez kayıt defteri",
+    "tags": [
+      "blockchain",
+      "kripto-paralar",
+      "güvenlik-avantajı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f80iyco7h",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Kör tarama (Blind SQL Injection) saldırısında hangi veri tabanı bilgisi çalınır?",
+    "explanation": "Blind SQL Injection, doğrudan veri döndürmeden veritabanının yapısını tahmin etmek için mantık tabanlı sorgular kullanarak şema ve tablo bilgilerini çalar.",
+    "options": [
+      "A) Kullanıcı IP adresleri",
+      "B) Veritabanı şeması ve tablo yapıları",
+      "C) Sunucu işletim sistemi versiyonu",
+      "D) Ağ port numaraları"
+    ],
+    "correctAnswer": "B) Veritabanı şeması ve tablo yapıları",
+    "tags": [
+      "sql-injection",
+      "veritabanı-güvenliği",
+      "siber-saldırı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g56kq8jjf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Malware türü arasında 'Trojan Horse' (Atlı Taht) ne ile karakterizedir?",
+    "explanation": "Trojan Horse, kullanıcıya zararsız görünen ama içinde zararlı kod barındıran ve kişisel bilgi çalmayı veya sistem kontrolünü amaçlayan bir malware türüdür.",
+    "options": [
+      "A) Kendi kendini kopyalanır",
+      "B) Zararlı yükünü gizli bir amaçla sunan programdır",
+      "C) Ağdan keser",
+      "D) Sadece dosya siler"
+    ],
+    "correctAnswer": "B) Zararlı yükünü gizli bir amaçla sunan programdır",
+    "tags": [
+      "trojan",
+      "malware",
+      "zararlı-yazılım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8z63t8goy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Siber güvenlikte 'Zero Trust' modelinin temel prensibi nedir?",
+    "explanation": "Zero Trust modeli, kimse veya hiçbir şey varsayılan olarak güvenilmez prensibiyle, her erişim talebini sürekli doğrulamayı ve en az yetkiyi uygular.",
+    "options": [
+      "A) Tüm ağ trafiğine izin ver",
+      "B) Hiçbir kullanıcı varsayılan olarak güvenilmez",
+      "C) Tek sunucuya güven",
+      "D) Merkezi kimlik doğrulama kullan"
+    ],
+    "correctAnswer": "B) Hiçbir kullanıcı varsayılan olarak güvenilmez",
+    "tags": [
+      "zero-trust",
+      "kimlik-dogrulama",
+      "güvenlik-modeli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dqagu2zd8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Şifre kırma saldırılarında en yaygın kullanılan teknik hangisidir?",
+    "explanation": "Brute Force, şifreyi tahmin etmek için tüm olası kombinasyonları deneme yöntemidir ve en yaygın şifre kırma tekniklerinden biridir.",
+    "options": [
+      "Brute Force",
+      "Phishing",
+      "SQL Injection",
+      "Man-in-the-Middle"
+    ],
+    "correctAnswer": "Brute Force",
+    "tags": [
+      "siber-guvenlik",
+      "saldiri-teknikleri",
+      "sifre-guvlmesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "whrqci0vg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi 'Zero Trust' güvenlik modelinin temel ilkesidir?",
+    "explanation": "Zero Trust modeli, hiçbir kullanıcı, cihaz veya ağ varsayılan olarak güvenilmez kabul edilir ve her erişim isteği doğrulanmalıdır.",
+    "options": [
+      "Her kullanıcı güvenilirdir",
+      "Hiçbir şey varsayılan olarak güvenilmez",
+      "Sadece iç ağ güvenlidir",
+      "Şifreler asla kontrol edilmemelidir"
+    ],
+    "correctAnswer": "Hiçbir şey varsayılan olarak güvenilmez",
+    "tags": [
+      "siber-guvenlik",
+      "guzvenlik-modeli",
+      "zero-trust"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fvwdjxv8c",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Ransomware saldırılarında veriler neden şifrelenir?",
+    "explanation": "Ransomware saldırılarında veriler şifrelenir ve kurbanlardan bu verileri kurtarmak için fidye ödemeleri istenir.",
+    "options": [
+      "Sistem stabilitesi için",
+      "Verileri kalıcı olarak kaybetmek için",
+      "Tahsilat yapmak için",
+      "Yedekleme yapmak için"
+    ],
+    "correctAnswer": "Tahsilat yapmak için",
+    "tags": [
+      "siber-guvenlik",
+      "ransomware",
+      "veriyi-sifreleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ae66wt2ev",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi 'Multi-Factor Authentication' (MFA) yöntemlerinden biri DEĞİLDİR?",
+    "explanation": "MFA, birden fazla faktörü (şifre + biyometrik/SMS vb.) kullanır; sıradan şifre tek faktörlüdür.",
+    "options": [
+      "Şifre",
+      "Biometrik tarama",
+      "SMS doğrulama kodu",
+      "Sıradan şifre"
+    ],
+    "correctAnswer": "Sıradan şifre",
+    "tags": [
+      "siber-guvenlik",
+      "mfa",
+      "dogrulama-yontemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m8jwbke8u",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Karmaşık siber saldırılarda 'Advanced Persistent Threat' (APT) nedir?",
+    "explanation": "APT, uzun süre hedef sistemde gizlenmiş ve veri toplama amaçlı çalışan gelişmiş tehdit gruplarını ifade eder.",
+    "options": [
+      "Uzaktan erişim aracı",
+      "Uzun süreli gizli saldırgan",
+      "Şifre kırma botu",
+      "Fidye yazılımı"
+    ],
+    "correctAnswer": "Uzun süreli gizli saldırgan",
+    "tags": [
+      "siber-guvenlik",
+      "apt",
+      "gizli-saldiri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "12kgju04q",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Ransomware saldırıları aşağıdakilerden hangisi ile tanımlanır?",
+    "explanation": "Ransomware, kullanıcının dosyalarını şifreler ve bunları geri açmak için fidye ödemesi talep eder.",
+    "options": [
+      "A) Kullanıcıların şifrelerini çalan yazılımlar",
+      "B) Dosyaları şifreleyerek ödeme talep eden kötü amaçlı programlar",
+      "C) Sistemleri fiziksel olarak bozan cihazlar",
+      "D) Ağ trafiğini yavaşlatan viruslar"
+    ],
+    "correctAnswer": "B) Dosyaları şifreleyerek ödeme talep eden kötü amaçlı programlar",
+    "tags": [
+      "malware",
+      "ransomware",
+      "siber güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgy71ocap",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Phishing saldırılarında siber suçlular genellikle hangi yöntemi kullanır?",
+    "explanation": "Phishing, kurbanı kandırarak kişisel bilgilerini (şifre, kredi kartı vb.) çalmayı amaçlar.",
+    "options": [
+      "A) Ağ duvarını bypass etme",
+      "B) Dolandırıcı e-postalar veya sahte web siteleri ile bilgi çalma",
+      "C) Fiziksel server kırma",
+      "D) Yazılım güncellemelerini engelleme"
+    ],
+    "correctAnswer": "B) Dolandırıcı e-postalar veya sahte web siteleri ile bilgi çalma",
+    "tags": [
+      "phishing",
+      "social engineering",
+      "elektronik dolandırıcılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qw51missu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Bir güvenlik duvarının (Firewall) temel işlevi nedir?",
+    "explanation": "Firewall, bir ağın içine veya dışına giden trafiği filtreleyerek yetkisiz erişimleri engeller.",
+    "options": [
+      "A) Dosya sıkıştırma",
+      "B) Ağ trafiğinin izleme ve denetimi",
+      "C) Kullanıcı şifrelerinin saklanması",
+      "D) Veritabanı yedekleme"
+    ],
+    "correctAnswer": "B) Ağ trafiğinin izleme ve denetimi",
+    "tags": [
+      "network security",
+      "firewall",
+      "ağ güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ea6hmsg3f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "MFA (Çoklu Faktörlü Kimlik Doğrulama) sistemlerinde hangisi bir doğrulama faktörüdür?",
+    "explanation": "MFA, şifre dışında ikinci bir faktör (biyometri, SMS kod, hardware token) gerektirir.",
+    "options": [
+      "A) Kullanıcı adı",
+      "B) Biyometrik veri veya fiziksel token",
+      "C) Sunucu IP adresi",
+      "D) Dosya boyutu"
+    ],
+    "correctAnswer": "B) Biyometrik veri veya fiziksel token",
+    "tags": [
+      "authentication",
+      "mfa",
+      "kimlik doğrulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w4057o5wx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "Zero Trust mimarisinin temel prensibi aşağıdakilerden hangisidir?",
+    "explanation": "Zero Trust, kimliği doğrulanmış bile olsa her isteği şüpheli varsayar ve sürekli doğrulama gerektirir.",
+    "options": [
+      "A) Veri şifreleme",
+      "B) Her zaman doğrula ve asla güvenme (Never Trust Always Verify)",
+      "C) Fiziksel güvenlik",
+      "D) Antivirüs taraması"
+    ],
+    "correctAnswer": "B) Her zaman doğrula ve asla güvenme (Never Trust Always Verify)",
+    "tags": [
+      "zero trust",
+      "architecture",
+      "güvenlik modeli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fsul4a8at",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EASY",
+    "question": "Hangi tehdit türü, kullanıcıları sahte e-postalar veya mesajlarla kandırarak kişisel bilgilerini çalmayı amaçlar?",
+    "explanation": "Phishing (sahte balıkçılık), kullanıcıları yanıltarak kişisel bilgileri çalmayı hedefleyen siber saldırı yöntemidir. Sahte e-postalar, mesajlar veya web siteleri kullanılır.",
+    "options": [
+      "Malware",
+      "Phishing",
+      "Ransomware",
+      "Spyware"
+    ],
+    "correctAnswer": "Phishing",
+    "tags": [
+      "siber güvenlik",
+      "tehditler",
+      "bilinçli kullanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "34em2zzz6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "İki faktörlü kimlik doğrulama (2FA) hangi güvenlik katmanını artırır?",
+    "explanation": "2FA, şifre dışında ikinci bir doğrulama faktörü (SMS kod, biyometrik, güvenlik anahtarı) kullanarak erişimi güçlendirir.",
+    "options": [
+      "Sadece şifre koruması",
+      "Şifre + ek doğrulama faktörü",
+      "IP adresi kontrolü",
+      "Erişim logu"
+    ],
+    "correctAnswer": "Şifre + ek doğrulama faktörü",
+    "tags": [
+      "kimlik doğrulama",
+      "güvenlik katmanları",
+      "2FA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dyc02uk9h",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "Ransomware saldırılarında hedeflenen neye sahip olursunuz?",
+    "explanation": "Ransomware, sistemdeki dosyaları şifreleyerek erişimi engeller ve kurtarıcı para ödemek için tehdit eder.",
+    "options": [
+      "Dosya silinmesi",
+      "Veri şifrelenmesi",
+      "Donanım bozulması",
+      "Şifre çalınması"
+    ],
+    "correctAnswer": "Veri şifrelenmesi",
+    "tags": [
+      "malware",
+      "veritabanı",
+      "kurtarma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m2uqbe2au",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "GENERAL",
+    "question": "En iyi güvenlik uygulaması hangisidir?",
+    "explanation": "Çok katmanlı koruma (şifre, 2FA, güncel yazılım) en etkili siber güvenlik stratejisidir.",
+    "options": [
+      "Sadece güçlü şifre",
+      "Şifre + 2FA + güncel antivirüs",
+      "İnternet bankacılığı kullanmak",
+      "Sosyal medya hesaplarını kapatmak"
+    ],
+    "correctAnswer": "Şifre + 2FA + güncel antivirüs",
+    "tags": [
+      "güvenlik hijyeni",
+      "en iyi uygulamalar",
+      "korunma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5xxbnk70r",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Siber Güvenlik",
+    "difficulty": "EXPERT",
+    "question": "SQL Injection saldırıları hangi sistemleri hedefler?",
+    "explanation": "SQL Injection, web uygulamalarındaki veritabanlarındaki kod açıklarını kullanarak veri çalmayı veya sistem manipülasyonunu hedefler.",
+    "options": [
+      "E-posta sistemleri",
+      "Veritabanı sistemleri",
+      "Donanım sunucuları",
+      "Şifre yönetimi"
+    ],
+    "correctAnswer": "Veritabanı sistemleri",
+    "tags": [
+      "SQLi",
+      "veritabanı güvenliği",
+      "kod açıkları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

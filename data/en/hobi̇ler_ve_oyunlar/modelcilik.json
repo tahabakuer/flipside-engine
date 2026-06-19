@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "100rnyrqe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Modelciler genellikle hangi ölçekte model yaparlar?",
+    "explanation": "Modelciler genellikle standart ölçekler kullanır. Araç ve uçak modellerinde en yaygın kullanılan ölçümler 1:48, 1:72 ve 1:144 gibi değerlerdir.",
+    "options": [
+      "1:10, 1:20, 1:30",
+      "1:48, 1:72, 1:144",
+      "1:5, 1:10, 1:20",
+      "1:1, 1:2, 1:3"
+    ],
+    "correctAnswer": "1:48, 1:72, 1:144",
+    "tags": [
+      "ölçek",
+      "temel bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kp5cjnm78",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi modelciliğin temel gereksinimleri arasına girmez?",
+    "explanation": "Modelciliğin temel gereksinimleri arasında kesici aletler, yapıştırıcı ve vernik gibi malzemeler bulunur. Bilgisayar programı model yapımında zorunlu değildir.",
+    "options": [
+      "İnce matkap seti",
+      "Yapıştırıcı ve vernik",
+      "Bilgisayar programı",
+      "Kesici aletler"
+    ],
+    "correctAnswer": "Bilgisayar programı",
+    "tags": [
+      "araçlar",
+      "temel bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g6wlfh5qf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Hangi malzeme model uçaklarındaki gövde parçalarında en sık kullanılır?",
+    "explanation": "Model uçaklarında en yaygın kullanılan malzeme plastik, özellikle PMMA ve ABS türleri. Bu malzemeler hafif ve kolay işlenebilir özelliktedir.",
+    "options": [
+      "Alüminyum",
+      "Ahşap",
+      "Plastik (PMMA)",
+      "Cam"
+    ],
+    "correctAnswer": "Plastik (PMMA)",
+    "tags": [
+      "malzemeler",
+      "model uçakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gc6woxlrd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Model arabalarında kullanılan 'kit' (model seti) neyi içerir?",
+    "explanation": "Model setleri genellikle modelin tüm parçalarını, montaj talimatlarını ve bazen gerekli yapıştırıcı malzemelerini içerir.",
+    "options": [
+      "Sadece renkli boyalar",
+      "Parçalar, talimatlar ve bazen yapıştırıcı",
+      "Sadece motor parçaları",
+      "Araç yedek parçaları"
+    ],
+    "correctAnswer": "Parçalar, talimatlar ve bazen yapıştırıcı",
+    "tags": [
+      "kit içeriği",
+      "model arabaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xs0do4p0r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi modelciliğin en önemli dikkat edilmesi gereken konularından biri değildir?",
+    "explanation": "Modelciliğinde parçaların doğru birleştirilmesi, ölçek korunması ve vernik uygulaması önemlidir. Modelin ısıtılması model yapımında gerekli değildir.",
+    "options": [
+      "Parçaların doğru şekilde birleştirilmesi",
+      "Ölçek oranlarının korunması",
+      "Modelin hemen ısıtılması",
+      "Vernik uygulaması"
+    ],
+    "correctAnswer": "Modelin hemen ısıtılması",
+    "tags": [
+      "montaj teknikleri",
+      "dikkat edilmesi gerekenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u9mmegc1y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Modelciliğin en yaygın türü hangisidir?",
+    "explanation": "Taşıt modelleri (araba, uçak, gemi vb.) modelciliğin en yaygın ve popüler türüdür. Özellikle maket arabalar ve uçaklar sıkça bulunur.",
+    "options": [
+      "A) Taşıt modelleri",
+      "B) Bina modelleri",
+      "C) Hayvan modelleri",
+      "D) Uzay gemileri"
+    ],
+    "correctAnswer": "A) Taşıt modelleri",
+    "tags": [
+      "modelcilik",
+      "hobiler",
+      "genel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ec6rw9b9p",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Maketlerde kullanılan asıl malzeme nedir?",
+    "explanation": "Maketlerde en yaygın kullanılan malzeme plastik (özellikle ABS plastik) olup, kolay işlenebilir ve detaylı çalışılabilir.",
+    "options": [
+      "A) Plastik",
+      "B) Ahşap",
+      "C) Metal",
+      "D) Cam"
+    ],
+    "correctAnswer": "A) Plastik",
+    "tags": [
+      "modelcilik",
+      "malzeme",
+      "maket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aaidkywaq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Modelciler maketleri boyarken hangi teknik kullanır?",
+    "explanation": "Modelciler genellikle hem su bazlı (akrilik) hem yağ bazlı boyalar kullanarak maketleri detaylı ve gerçekçi boyar.",
+    "options": [
+      "A) Su bazlı boya",
+      "B) Yağ bazlı boya",
+      "C) Hem su hem yağ bazlı boya",
+      "D) Sadece karbo"
+    ],
+    "correctAnswer": "C) Hem su hem yağ bazlı boya",
+    "tags": [
+      "modelcilik",
+      "boyama",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "53blko85n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Maketlerde kullanılan küçük metal parçalar için hangi araç gerekir?",
+    "explanation": "Maketlerde kullanılan küçük metal parçalar (örneğin ızgaralar) için pres ve kalıp kullanılarak şekillendirilir.",
+    "options": [
+      "A) Makas",
+      "B) Pres ve kalıp",
+      "C) Aseton",
+      "D) Silgi"
+    ],
+    "correctAnswer": "B) Pres ve kalıp",
+    "tags": [
+      "modelcilik",
+      "araçlar",
+      "pres"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w6x5c2ezz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Modelciliğin tarihsel olarak ilk model türü hangisiydi?",
+    "explanation": "Modelciliğin tarihsel olarak ilk model türü gemi modelleriydi. Zamanla araba ve uçak modelleri de yaygınlaşmıştır.",
+    "options": [
+      "A) Araba modelleri",
+      "B) Uçak modelleri",
+      "C) Gemi modelleri",
+      "D) Bina modelleri"
+    ],
+    "correctAnswer": "C) Gemi modelleri",
+    "tags": [
+      "modelcilik",
+      "tarihçe",
+      "hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9nqqy0ke0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Modelcilik hobisinde kullanılan en yaygın malzeme hangisidir?",
+    "explanation": "Modelcilik hobisinde en yaygın kullanılan malzemeler ahşap ve plastiktir. Bu malzemeler kolay işlenebilir, uygun fiyatlı ve çeşitli modellerde kullanılabilir.",
+    "options": [
+      "Ahşap ve plastik",
+      "Cam ve metal",
+      "Taş ve seramik",
+      "Deri ve kağıt"
+    ],
+    "correctAnswer": "Ahşap ve plastik",
+    "tags": [
+      "modelcilik",
+      "malzeme",
+      "hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x6qy1oueq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Taraflı (taraflı) modelcilikte 'kit' nedir?",
+    "explanation": "Taraflı modelcilikte 'kit', önceden hazırlanmış ve numaralandırılmış model parçalarından oluşan hazır setlerdir. Bu kitler kolayca birleştirilerek tamamlanabilir.",
+    "options": [
+      "Hazır model parçaları",
+      "Model boyası",
+      "Yapıştırıcı çeşidi",
+      "Model kuru malzemesi"
+    ],
+    "correctAnswer": "Hazır model parçaları",
+    "tags": [
+      "modelcilik",
+      "kit",
+      "parça"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h1jvewido",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Modelcilik hobisinde 'şekil verme' işlemi için hangi alet kullanılır?",
+    "explanation": "Modelcilik hobisinde kesme işlemleri için keski makinesleri kullanılır. Özellikle hassas ve ince parçalar kesmek için özel keski aletleri tercih edilir.",
+    "options": [
+      "Keski makinesi",
+      "İğne ve ip",
+      "Yazıcı",
+      "Kalemler"
+    ],
+    "correctAnswer": "Keski makinesi",
+    "tags": [
+      "modelcilik",
+      "alet",
+      "işlem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fh74o40c6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Modelcilikte 'pintur' işlemi neyi ifade eder?",
+    "explanation": "Modelcilikte 'pintur', modelin üzerine renk boyası uygulama işlemidir. Bu işlem modeli gerçekçi ve estetik hale getirir.",
+    "options": [
+      "Renk boya uygulaması",
+      "Yapıştırma işlemi",
+      "Kesme işlemi",
+      "Şekil verme"
+    ],
+    "correctAnswer": "Renk boya uygulaması",
+    "tags": [
+      "modelcilik",
+      "pintur",
+      "renk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w929jqb8a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Modelcilik hobisinde 'akrilik boya' neden tercih edilir?",
+    "explanation": "Akrik boya modelcilikte tercih edilir çünkü su bazlıdır, kolay temizlenir, çabuk kurur ve metal yüzeylere iyi yapışır. Ayrıca çevre dostudur.",
+    "options": [
+      "Su bazlı olduğu için",
+      "Hız kuruduğu için",
+      "Metal yüzeye iyi yapıştığı için",
+      "Ucuz olduğu için"
+    ],
+    "correctAnswer": "Su bazlı olduğu için",
+    "tags": [
+      "modelcilik",
+      "akrilik",
+      "boyar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "61bya8krx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Which material is most commonly used for creating beginner-level model ships?",
+    "explanation": "Wood is traditional and easy to work with for beginners, while resin and plastic are more advanced techniques requiring specific tools.",
+    "options": [
+      "Resin",
+      "Wood",
+      "Plastic Injection",
+      "Clay"
+    ],
+    "correctAnswer": "Wood",
+    "tags": [
+      "Hobbies",
+      "Model Building",
+      "Scale Models"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kh5wmewpf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "What does a 1:24 scale model represent in terms of real-world dimensions?",
+    "explanation": "A 1:24 scale means every 1 unit on the model equals 24 units in reality, commonly used for cars and aircraft.",
+    "options": [
+      "The model is 1/24th the size of the original",
+      "The model is 24 times larger than the original",
+      "The model uses 24 units per meter",
+      "The scale has no numerical relationship"
+    ],
+    "correctAnswer": "The model is 1/24th the size of the original",
+    "tags": [
+      "Scale Models",
+      "Mathematics",
+      "Hobbies"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j4ox4d2lq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Which tool is essential for cutting fine details in photo-etch parts used in high-end model building?",
+    "explanation": "Photo-etch parts require precision micro-saws to handle ultra-thin metal sheets without damage, critical for expert-level models.",
+    "options": [
+      "Standard hobby knife",
+      "Precision micro-saws",
+      "Electric drill",
+      "Sandpaper"
+    ],
+    "correctAnswer": "Precision micro-saws",
+    "tags": [
+      "Model Building",
+      "Tools",
+      "Advanced Techniques"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qyvnowpxd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "What is the primary purpose of applying weathering effects like rust or dirt to a model car?",
+    "explanation": "Weathering adds lifelike details that simulate real-world wear, making the model appear authentic and historically accurate.",
+    "options": [
+      "To increase its market value",
+      "To reduce paint costs",
+      "To enhance realism and historical accuracy",
+      "To protect the model from UV damage"
+    ],
+    "correctAnswer": "To enhance realism and historical accuracy",
+    "tags": [
+      "Hobbies",
+      "Painting Techniques",
+      "Model Building"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bctbuu49r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Which type of model building focuses on recreating historical maritime vessels?",
+    "explanation": "Ship modeling specializes in creating detailed replicas of historical vessels, often using materials like wood or resin.",
+    "options": [
+      "Aircraft modeling",
+      "Ship modeling",
+      "Tank modeling",
+      "Robotics"
+    ],
+    "correctAnswer": "Ship modeling",
+    "tags": [
+      "Maritime History",
+      "Hobbies",
+      "Scale Models"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sm3ed2i8i",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Modelcilik hobilinin en önemli avantajı nedir?",
+    "explanation": "Modelcilik, sabır ve dikkatli çalışma becerilerini geliştiren bir hobilir. Detaylı çalışmayı gerektirir ve zihinsel odaklanmayı artırır.",
+    "options": [
+      "Maliyetin düşük olması",
+      "Sabır ve dikkatli çalışma yeteneğinin gelişmesi",
+      "Az yer kaplaması",
+      "Teknik bilgi gerektirmemesi"
+    ],
+    "correctAnswer": "Sabır ve dikkatli çalışma yeteneğinin gelişmesi",
+    "tags": [
+      "Modelcilik",
+      "Hobiler",
+      "Gelişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y3aqp5klq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi modelcilikte kullanılan malzemeler arasında YOKTUR?",
+    "explanation": "Modelcilikte cam boru genellikle kullanılmaz. Plastik kere, metal levha ve ahşap çubuk ise sıkça model yapımda tercih edilen malzemelerdir.",
+    "options": [
+      "Plastik kere",
+      "Metal levha",
+      "Cam boru",
+      "Ahşap çubuk"
+    ],
+    "correctAnswer": "Cam boru",
+    "tags": [
+      "Modelcilik",
+      "Malzemeler",
+      "Araçlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tdxg6rg1i",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Bir araba modeli yaparken en çok dikkat edilmesi gereken detay hangisidir?",
+    "explanation": "Araba modellerinde lastiklerin doğru konuma ve ölçüye yapıştırılması, gerçekçiliği ve dayanıklılığı açısından kritik bir detaydır.",
+    "options": [
+      "Rengi",
+      "Lastiklerin doğru yere yapıştırılması",
+      "Şasisin kalınlığı",
+      "Tavanın yüksekliği"
+    ],
+    "correctAnswer": "Lastiklerin doğru yere yapıştırılması",
+    "tags": [
+      "Modelcilik",
+      "Araba Modeli",
+      "Detaylar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7wgtmuncl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Modelcilik hobisini başlatmak için ilk adım nedir?",
+    "explanation": "Modelcilikte en iyi öğrenme yöntemi, basit bir model kitinden başlamak ve adım adım ilerlemektir. Bu sayede teknikler kazanılır.",
+    "options": [
+      "En pahalı model setini almak",
+      "Basit bir model kitinden başlamak",
+      "Arkadaşlara soru sormak",
+      "İnternette video izlemek"
+    ],
+    "correctAnswer": "Basit bir model kitinden başlamak",
+    "tags": [
+      "Modelcilik",
+      "Başlangıç",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkm4kg6nr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Hangi tür modeller yapımında sabır gereksinimi en fazladır?",
+    "explanation": "Gemi modelleri, çok sayıda küçük parça ve ince detay içerir. Yapım süresi uzun olup sabır gerektiren en zor model türüdür.",
+    "options": [
+      "Araba modelleri",
+      "Uçak modelleri",
+      "Gemi modelleri",
+      "Bina/Endüstriyel modeller"
+    ],
+    "correctAnswer": "Gemi modelleri",
+    "tags": [
+      "Modelcilik",
+      "Detay",
+      "Sabır"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "43vfom3zl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Modelcilik hobilinde en yaygın kullanılan model tipleri aşağıdakilerden hangisidir?",
+    "explanation": "Modelcilikte en yaygın kullanılan malzemeler plastik, ahşap ve metal olup bu malzemeler farklı türde modeller yapılmasını sağlar.",
+    "options": [
+      "Plastik, ahşap ve metal modeller",
+      "Sadece elektronik modeller",
+      "Sadece tekstil modeller",
+      "Sadece seramik modeller"
+    ],
+    "correctAnswer": "Plastik, ahşap ve metal modeller",
+    "tags": [
+      "model-tipleri",
+      "temel-bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3x6d955ln",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Plastik model yapımında kullanılmayan araç hangisidir?",
+    "explanation": "Plastik model yapımında keski, yapıştırıcı ve ayna gibi araçlar kullanılır; mikroskop ise modelcilik hobilinde gerekli bir araç değildir.",
+    "options": [
+      "Keski (X-Acto bıçağı)",
+      "Yapıştırıcı (super glue)",
+      "Mikroskop",
+      "Ayna"
+    ],
+    "correctAnswer": "Mikroskop",
+    "tags": [
+      "araçlar",
+      "plastik-model"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gk9xa6t5u",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Ahşap modelciliğin temel özelliği nedir?",
+    "explanation": "Ahşap modelciliğin temel özelliği ahşabın doğal dokusunu ve görünümünü koruyarak model yapılmasıdır.",
+    "options": [
+      "Kuru yapışma gerektirmez",
+      "Görünümde doğal dokuyu korur",
+      "Elektronik parçalar kullanır",
+      "Sadece dijital olarak yapılır"
+    ],
+    "correctAnswer": "Görünümde doğal dokuyu korur",
+    "tags": [
+      "ahşap-model",
+      "temel-özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "24ls1uq3b",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Metal model yapımında en önemli dikkat edilmesi gereken nokta nedir?",
+    "explanation": "Metal model yapımında kesim hatalarını en aza indirmek modelin kalitesini doğrudan etkiler.",
+    "options": [
+      "Oda sıcaklığının korunması",
+      "Kesim hatalarının minimuma indirilmesi",
+      "Sadece elektronik parçalar kullanılması",
+      "Modelin dijital olarak tasarlanması"
+    ],
+    "correctAnswer": "Kesim hatalarının minimuma indirilmesi",
+    "tags": [
+      "metal-model",
+      "dikkat-edilmesi- gerekenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9g7jjeoww",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Modelcilik hobilinde 'kit' nedir?",
+    "explanation": "Modelcilikte 'kit', hazırlanmış parçalar, yapıştırma ve montaj talimatları içeren tamamlanması gereken model setidir.",
+    "options": [
+      "Hazırlanmış parçalar ve talimatlar içeren set",
+      "Sadece elektronik devre",
+      "Dijital tasarım programı",
+      "Modelin son halidir"
+    ],
+    "correctAnswer": "Hazırlanmış parçalar ve talimatlar içeren set",
+    "tags": [
+      "kit-temel-bilgiler",
+      "modelcilik-terimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a8b60v1ig",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Modelcilikta en yaygın kullanılan malzeme hangisidir?",
+    "explanation": "Modelcilikte ahşap, özellikle maketlerde ve küçük ölçekli modellerde en yaygın kullanılan malzemedir. Kolay işlenebilirliği ve estetik görünümü nedeniyle tercih edilir.",
+    "options": [
+      "Ahşap",
+      "Plastik",
+      "Metal",
+      "Cam"
+    ],
+    "correctAnswer": "Ahşap",
+    "tags": [
+      "malzeme",
+      "temel",
+      "modelcilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ris5nnjux",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Bir modelin ölçülerini doğru almak için hangi araç kullanılmalıdır?",
+    "explanation": "Rafal, modelcilikte ölçülerin doğru alınması için kullanılan temel araçtır. Ahşap işlerinde kesim ve ölçü alma işlemlerinde kullanılır.",
+    "options": [
+      "Makas",
+      "Rafal",
+      "Kalembazı",
+      "Paket"
+    ],
+    "correctAnswer": "Rafal",
+    "tags": [
+      "araç",
+      "ölçüm",
+      "modelcilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5rdugu6d5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Modelde parçaları birleştirirken hangi yapıştırıcı en uygundur?",
+    "explanation": "Modelcilikte sıvı yapıştırıcı (modeller için özel olarak üretilmiş), ahşap ve plastik parçaların birleştirilmesinde en uygun ve yaygın kullanılan yapıştırıcıdır.",
+    "options": [
+      "Sıvı Yapıştıcı",
+      "Epoksi",
+      "Çift Yönlü Bant",
+      "Tırnak"
+    ],
+    "correctAnswer": "Sıvı Yapıştıcı",
+    "tags": [
+      "yapıştırma",
+      "malzeme",
+      "modelcilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sj85cohim",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Maketlerde kullanılan ölçek oranlarından hangisi daha büyük detay gösterir?",
+    "explanation": "1:20 ölçeği, gerçek boyutun 20'ye bölünmesi anlamına gelir. Bu oran daha büyük detaylar göstermek için kullanılır. Yüksek ölçekli maketlerde tercih edilir.",
+    "options": [
+      "1:20",
+      "1:50",
+      "1:100",
+      "1:200"
+    ],
+    "correctAnswer": "1:20",
+    "tags": [
+      "ölçek",
+      "maket",
+      "modelcilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b20ujc3hh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Modelcilik işlemlerinde parçaları keserken hangi güvenlik önlemi alınmalıdır?",
+    "explanation": "Modelcilik işlemlerinde gözlük ve eldiven kullanmak, göz ve cildi kesici malzemelerden ve yapıştırıcı buharlarından korumak için önemli bir güvenlik önlemidir.",
+    "options": [
+      "Gözlük ve eldiven kullanılmalı",
+      "Müzik açılmalı",
+      "Yemek yenilmeli",
+      "Kıyafet değiştirilmeli"
+    ],
+    "correctAnswer": "Gözlük ve eldiven kullanılmalı",
+    "tags": [
+      "güvenlik",
+      "korunma",
+      "modelcilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vgy3ysc2p",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Modelcilikte kullanılan en yaygın malzeme nedir?",
+    "explanation": "Modelcilikte plastik kitler, karton, ahşap gibi malzemeler yaygın olarak kullanılır. Plastik en çok tercih edilen ana malzemedir.",
+    "options": [
+      "Ahşap",
+      "Plastik ve karton",
+      "Metal",
+      "Cam"
+    ],
+    "correctAnswer": "Plastik ve karton",
+    "tags": [
+      "malzeme",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ubilftoa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Model ölçeği 1:72 anlamına ne gelir?",
+    "explanation": "1:72 ölçeği, modelin gerçek nesneden 72 kat küçük olduğu anlamına gelir. Her 1 birim model, gerçekte 72 birime eşittir.",
+    "options": [
+      "Gerçek nesnenin 72 katı boyut",
+      "Gerçek nesnenin 72'ye bölünmüş boyut",
+      "Her bir birim gerçek nesnenin 72 cm'sini temsil eder",
+      "Her bir birim gerçek nesnenin 1/72'sini temsil eder"
+    ],
+    "correctAnswer": "Her bir birim gerçek nesnenin 1/72'sini temsil eder",
+    "tags": [
+      "ölçek",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s4367q19p",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Hangi tür modeller genellikle 'kit' olarak satılır?",
+    "explanation": "Model kitleri, plastik veya metal parçaların içerdığı hazır setlerdir. Bu setler genellikle talimatlarla birlikte gelir.",
+    "options": [
+      "Ahşap maketler",
+      "Plastik ve metal parçalardan oluşan setler",
+      "3D baskı modeller",
+      "El yapımı tasarımlar"
+    ],
+    "correctAnswer": "Plastik ve metal parçalardan oluşan setler",
+    "tags": [
+      "kit",
+      "malzeme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a4rjw1pjv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Modelcilikte 'dekal' nedir?",
+    "explanation": "Dekal, modelin yüzeyine yapıştırılan yapışkanlı baskılı etiketlerdir. Uçak numaraları, logolar ve renk desenleri için kullanılır.",
+    "options": [
+      "Metal parça",
+      "Boyama fırçası",
+      "Yapışkanlı baskılı etiket (logolar, renkler için)",
+      "Ahşap yapıştırıcı"
+    ],
+    "correctAnswer": "Yapışkanlı baskılı etiket (logolar, renkler için)",
+    "tags": [
+      "dekal",
+      "renklendirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m1as7btno",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Başlangıç seviyesinde modelcilik projeleri için önerilen ilk adım nedir?",
+    "explanation": "Başlangıç için kolay plastik kitler önerilir. Bu kitler daha az parça ve basit birleştirmeler içerir, öğrenme sürecini kolaylaştırır.",
+    "options": [
+      "Hemen büyük ölçekli uçak modelleri",
+      "Kolay plastik kitlerden başlamak",
+      "Ahşap parçalarla çalışmak",
+      "Metal işleme öğrenmek"
+    ],
+    "correctAnswer": "Kolay plastik kitlerden başlamak",
+    "tags": [
+      "bağılamlık",
+      "öneri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bqm5ljc2x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Modelcilik hobisinde kullanılan en yaygın malzeme hangisidir?",
+    "explanation": "Plastik, modelcilik hobisinde en çok kullanılan malzemedir çünkü kolay şekillendirilebilir ve detaylı üretim yapılabilir.",
+    "options": [
+      "Ahşap",
+      "Plastik",
+      "Metal",
+      "Cam"
+    ],
+    "correctAnswer": "Plastik",
+    "tags": [
+      "malzeme",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "837wjzifw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Model ölçeği '1:48' ne anlama gelir?",
+    "explanation": "1:48 ölçeği, modelin gerçek nesnenin 48'de bir büyüklüğünde olduğunu gösterir.",
+    "options": [
+      "Gerçek nesnenin 48 katı büyüklüğünde",
+      "Gerçek nesnenin 48'e bölünmüş hali",
+      "Gerçek nesnenin 48'de bir boyutunda",
+      "Modelin tam 48 cm büyüklüğünde"
+    ],
+    "correctAnswer": "Gerçek nesnenin 48'de bir boyutunda",
+    "tags": [
+      "ölçek",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jx0qwx40a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Modelciliğin temel işlemlerinden biri hangisidir?",
+    "explanation": "Modelcilikte kesme, şekillendirme, yapıştırma ve boyama işlemi tümü temel süreçleri oluşturur.",
+    "options": [
+      "Boyama",
+      "Kesme ve şekillendirme",
+      "Yapıştırma",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "temel işlemler",
+      "hobi bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "je3phguia",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Hangi ölçek araç modellerinde daha çok kullanılır?",
+    "explanation": "Araç modellerinde 1:48 ölçeği, orijinal araçların detaylarına daha yakın olduğu için sıkça tercih edilir.",
+    "options": [
+      "1:64",
+      "1:12",
+      "1:48",
+      "1:50"
+    ],
+    "correctAnswer": "1:48",
+    "tags": [
+      "model ölçeği",
+      "araç modelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gs3i46gqy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Model yapıştırıcısı olarak en uygun olan hangisidir?",
+    "explanation": "Siyanoakrilat (Super Glue), plastik model parçalarının hızlı ve güçlü bir şekilde yapıştırılması için en uygun yapıştırıcıdır.",
+    "options": [
+      "Su bazlı",
+      "Siyanakbazı (Silikon)",
+      "Siyanoakrilat (Super Glue)",
+      "Alkol bazlı"
+    ],
+    "correctAnswer": "Siyanoakrilat (Super Glue)",
+    "tags": [
+      "yapıştırıcı",
+      "malzeme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7dwcuj5ss",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EASY",
+    "question": "Modelcilik hobisinde en yaygın kullanılan malzeme hangisidir?",
+    "explanation": "Modelcilik hobisinde en yaygın kullanılan malzeme plastikdir çünkü kolay işlenebilir ve detaylı modellemeye izin verir.",
+    "options": [
+      "Plastik",
+      "Metal",
+      "Meyve",
+      "Taş"
+    ],
+    "correctAnswer": "Plastik",
+    "tags": [
+      "malzeme",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "22z9x37gn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Bir araba modeli yaparken hangi alet ile parçaları birbirine bağlamak kullanılır?",
+    "explanation": "Modelcilik hobisinde parçaları birleştirmek için özel model yapıştırıcıları kullanılır. Sıcak silikon ve bantlama daha çok geçici çözümlerdir.",
+    "options": [
+      "Sıcak silikon",
+      "Bantlama",
+      "Yapıştırıcı",
+      "Dikiş makinesi"
+    ],
+    "correctAnswer": "Yapıştırıcı",
+    "tags": [
+      "alet",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cl2eqku1c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "1/43 ölçekli bir model araba, gerçek hayattaki arabanın kaçta biridir?",
+    "explanation": "1/43 ölçeği, gerçek arabanın uzunluğunun modelin uzunluğunun 43 katı olduğunu gösterir. Yani model gerçek aracın 43'te bir oranındadır.",
+    "options": [
+      "43 katı",
+      "40 katı",
+      "43'te 1 oranı",
+      "4.3 katı"
+    ],
+    "correctAnswer": "43'te 1 oranı",
+    "tags": [
+      "ölçek",
+      "matematik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1bsyju9fj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "GENERAL",
+    "question": "Model uçak yapımında en kritik dikkat edilmesi gereken nokta nedir?",
+    "explanation": "Model uçak yapımında ağırlık dengesi en kritiktir çünkü dengesiz bir model havada düzgün uçamaz ve kontrol edilemez olur.",
+    "options": [
+      "Renk seçimi",
+      "Ağırlık dengesi",
+      "Yerleşim yeri",
+      "Pil türü"
+    ],
+    "correctAnswer": "Ağırlık dengesi",
+    "tags": [
+      "uçak",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ilegul04z",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Modelcilik",
+    "difficulty": "EXPERT",
+    "question": "Bir gemi modeli yaparken hangi ölçek daha az detaylı ancak daha büyük görünür?",
+    "explanation": "Daha küçük ölçekler (1/700 gibi) daha az detaylı ancak gerçek hayattaki nesne kadar büyük görünür. 1/200 veya 1/43 daha detaylı modeller için kullanılır.",
+    "options": [
+      "1/700",
+      "1/200",
+      "1/43",
+      "1/50"
+    ],
+    "correctAnswer": "1/700",
+    "tags": [
+      "gemide",
+      "ölçek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

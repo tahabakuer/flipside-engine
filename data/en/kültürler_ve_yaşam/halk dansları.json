@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "pup5vvzv2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Horon dansı hangi coğrafik bölgede en yaygın olarak yapılır?",
+    "explanation": "Horon, Karadeniz bölgesi halkı tarafından yapılan en bilinen halk danslarından biridir. Özellikle Trabzon, Rize, Artvin gibi illerde yaygındır.",
+    "options": [
+      "Anadolu'nun Batı Kıyıları",
+      "Karadeniz Bölgesi",
+      "Akdeniz Bölgesi",
+      "Doğu Anadolu Bölgesi"
+    ],
+    "correctAnswer": "Karadeniz Bölgesi",
+    "tags": [
+      "folk dans",
+      "horon",
+      "karadeniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6px8r36kr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Halay dansının temel koreografik özelliği nedir?",
+    "explanation": "Halay, Anadolu'nun birçok bölgesinde yapılan halk dansıdır. Katılımcılar el ele ya da kol kola sıralanarak (daire veya çizgi şeklinde) birlikte hareket ederler.",
+    "options": [
+      "Tek kişi serbest hareket eder",
+      "Daire veya çizgi şeklinde sıralanır ve birlikte hareket edilir",
+      "Yer değiştirme hareketi yapılır",
+      "Müzik eşliğinde solo dans edilir"
+    ],
+    "correctAnswer": "Daire veya çizgi şeklinde sıralanır ve birlikte hareket edilir",
+    "tags": [
+      "halay",
+      "folk dans",
+      "koreografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8bdej1017",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Aksak adı verilen halk dansının ritmik özelliği nedir?",
+    "explanation": "Aksak dansı, adı gibi eşitsiz veya düzensiz ayak seslerine sahip bir halk dansıdır. Özellikle Anadolu'nun batı bölgelerinde yaygındır.",
+    "options": [
+      "Düzenli 4/4 ritim",
+      "Eşitsiz ayak sesleri (aksak)",
+      "Tekil tempo",
+      "Hızlı ve akıcı tempo"
+    ],
+    "correctAnswer": "Eşitsiz ayak sesleri (aksak)",
+    "tags": [
+      "aksak",
+      "ritim",
+      "folk dans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9eqj7ijeo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Kars Adası folk dansının bölgesel özelliği nedir?",
+    "explanation": "Kars Adası, Doğu Anadolu Bölgesi'nde yapılan halk danslarındandır. Özellikle Kars ve çevre illerde popülerdir.",
+    "options": [
+      "Anadolu'nun Karadeniz kıyıları",
+      "Doğu Anadolu Bölgesi",
+      "İç Anadolu Bölgesi",
+      "Güneydoğu Anadolu Bölgesi"
+    ],
+    "correctAnswer": "Doğu Anadolu Bölgesi",
+    "tags": [
+      "kars",
+      "folk dans",
+      "doğu anadolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qwz9qnkod",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Halk danslarında kullanılan temel müzik enstrümanlarından biri hangisidir?",
+    "explanation": "Saz (bağlama), Türk halk danslarının en temel müzik enstrümanıdır. Anadolu'nun her bölgesinde folk danslarında kullanılır.",
+    "options": [
+      "Elektrik gitar",
+      "Saz (bağlama)",
+      "Keman",
+      "Piyano"
+    ],
+    "correctAnswer": "Saz (bağlama)",
+    "tags": [
+      "müzik",
+      "folk dans",
+      "enstrüman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z4v397s4n",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en yaygın halk dansı olarak kabul edilen ve düğünlerde, bayramlarda sıkça oynanan dans hangisidir?",
+    "explanation": "Halay, Anadolu'nun farklı bölgelerinde oynanan ve düğünlerde, bayramlarda en sık görülen halk dansıdır.",
+    "options": [
+      "Halay",
+      "Zeybek",
+      "Horon",
+      "Kolo"
+    ],
+    "correctAnswer": "Halay",
+    "tags": [
+      "folk-dance",
+      "halay",
+      "turkish-culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n2wsxh7k7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Rize, Giresun ve çevre illerinde yerel halk tarafından oynanan, genellikle hızlı tempolu bir dans hangisidir?",
+    "explanation": "Horon, Karadeniz bölgesinin halk kültürünün önemli bir parçasıdır ve genellikle hızlı tempoludur.",
+    "options": [
+      "Halay",
+      "Zeybek",
+      "Horon",
+      "Sazlolu"
+    ],
+    "correctAnswer": "Horon",
+    "tags": [
+      "folk-dance",
+      "horon",
+      "black-sea"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wswz4b1hg",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Manisa ve Konya yörelerinde oynanan, genellikle erkeklerin düğünlerde topluluk halinde yaptığı dans hangisidir?",
+    "explanation": "Zeybek, Anadolu'nun iç kesimlerinde özellikle düğünlerde ve coşkulu törenlerde oynanan bir halk dansıdır.",
+    "options": [
+      "Halay",
+      "Horon",
+      "Zeybek",
+      "Hava"
+    ],
+    "correctAnswer": "Zeybek",
+    "tags": [
+      "folk-dance",
+      "zeybek",
+      "konya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d10vllrjv",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Halk danslarında ritmi belirlemek için kullanılan en yaygın geleneksel Türk müzik aleti hangisidir?",
+    "explanation": "Davul, halk danslarının ritmini ve enerjisini belirleyen temel enstrümandır.",
+    "options": [
+      "Keman",
+      "Piano",
+      "Davul",
+      "Gitar"
+    ],
+    "correctAnswer": "Davul",
+    "tags": [
+      "folk-dance",
+      "music-instrument",
+      "davul"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ekr6tav3k",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Anadolu'nun farklı yörelerinde oynanan ve Balkan kökenli kabul edilen, halay'ın da benzeri olan bir dans hangisidir?",
+    "explanation": "Kolo, Balkan ve Anadolu kültüründe karşılıklı olarak oynanan, halk dansı geleneğinin temelini oluşturan bir dans türüdür.",
+    "options": [
+      "Halay",
+      "Horon",
+      "Zeybek",
+      "Kolo"
+    ],
+    "correctAnswer": "Kolo",
+    "tags": [
+      "folk-dance",
+      "kolo",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "24qs4xkcu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Türkiye'de halk dansları arasında en yaygın olan ve genellikle düğünlerde eller tutarak yapılan dans hangisidir?",
+    "explanation": "Halay, Türkiye'nin birçok bölgesinde oynanan en popüler halk dansıdır ve genellikle eller tutarak veya omuz omuza vererek kalkan bir sırada yapılır.",
+    "options": [
+      "Horon",
+      "Halay",
+      "Zeybek",
+      "Hora"
+    ],
+    "correctAnswer": "Halay",
+    "tags": [
+      "halk-dansları",
+      "türkiye-kültürü",
+      "halay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7b54d74sc",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz bölgesine özgü, zurna eşliğinde oynanan ve hızlı tempolu olan halk dansı hangisidir?",
+    "explanation": "Horon, Karadeniz bölgesine özgü halk dansıdır. Genellikle zurna ve davul eşliğinde oynanır ve adımları hızlı tempoludur.",
+    "options": [
+      "Halay",
+      "Horon",
+      "Zeybek",
+      "Karsilama"
+    ],
+    "correctAnswer": "Horon",
+    "tags": [
+      "halk-dansları",
+      "karadeniz-kültürü",
+      "horon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dan74hx9l",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Batı Anadolu'da yaygındır, ağır adımlarla yapılır ve kahramanlık ruhunu temsil eder. Bu dans hangisidir?",
+    "explanation": "Zeybek dansı, Batı Anadolu'da (özellikle Aydın ve Balıkesir) yaygındır. Ağır adımlarla yapılır ve kahramanlık ruhunu simgeler.",
+    "options": [
+      "Halay",
+      "Horon",
+      "Zeybek",
+      "Hora"
+    ],
+    "correctAnswer": "Zeybek",
+    "tags": [
+      "halk-dansları",
+      "batı-anadolu",
+      "zeybek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2ph9okdw",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Çiftlerin veya grupların yüz yüze gelerek ve ritmik adımlarla karşılıklı olarak oynadığı dans türü hangisidir?",
+    "explanation": "Karsilama, çiftlerin veya grupların yüz yüze gelerek ve ritmik adımlarla karşılıklı olarak oynadığı bir halk dansı türüdür.",
+    "options": [
+      "Halay",
+      "Karsilama",
+      "Horon",
+      "Yörük"
+    ],
+    "correctAnswer": "Karsilama",
+    "tags": [
+      "halk-dansları",
+      "dans-tekniği",
+      "karsilama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1cwi325v0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Doğu Anadolu yöresine özgü ve genellikle zurna eşliğinde yapılan, hareketli adımlarıyla bilinen dans hangisidir?",
+    "explanation": "Havasi, Doğu Anadolu'da yaygın olan ve genellikle zurna ile eşlik edilen, hareketli adımlarıyla bilinen bir halk dansıdır.",
+    "options": [
+      "Halay",
+      "Zeybek",
+      "Horon",
+      "Havasi"
+    ],
+    "correctAnswer": "Havasi",
+    "tags": [
+      "halk-dansları",
+      "doğu-anadolu",
+      "havasi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e0cmfufry",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Hangi halk dansı Ege Bölgesi'ne özgü olarak kabul edilir ve genellikle kılıçla oynanır?",
+    "explanation": "Zeybek dansı, Ege Bölgesi'ne (özellikle İzmir ve çevresine) özgü bir halk dansıdır. Tarih boyunca bu bölgedeki beyler tarafından oynanmış ve kılıç tutarak atılan hareketleri ile bilinir.",
+    "options": [
+      "Horon",
+      "Halay",
+      "Zeybek",
+      "Rakşı"
+    ],
+    "correctAnswer": "Zeybek",
+    "tags": [
+      "Tarih",
+      "Kültür",
+      "Halk Oyunları",
+      "Bölgesel Danslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebqbjxlw5",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Halay dansında katılımcılar hangi formasyonda yer alırlar?",
+    "explanation": "Halay, Anadolu'nun birçok bölgesinde oynanan ve halkın el ele tutuşarak oluşturduğu uzun bir sıra ile oynadığı geleneksel bir dans türüdür.",
+    "options": [
+      "Tek başına",
+      "Dairesel bir şekilde",
+      "El ele dizilmiş uzun bir sıra halinde",
+      "Sadece kadınlar tarafından oynanır"
+    ],
+    "correctAnswer": "El ele dizilmiş uzun bir sıra halinde",
+    "tags": [
+      "Topluluk Oyunları",
+      "Halk Kültürü",
+      "Dance Formations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7r5qakcuj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz Bölgesi'nde Pontus kültürüyle özdeşleşmiş ve genellikle hızlı ritimli olan hangi dans yer alır?",
+    "explanation": "Horon, Karadeniz Bölgesi'nde (özellikle Trabzon ve çevresinde) Pontus halkının en yaygın dansıdır. Genellikle zurna ve davul eşliğinde oynanır.",
+    "options": [
+      "Zeybek",
+      "Halay",
+      "Horon",
+      "Saman"
+    ],
+    "correctAnswer": "Horon",
+    "tags": [
+      "Karadeniz Kültürü",
+      "Halk Müziği",
+      "Dance Types"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w08x0f8ap",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Trakya ve Makedonya bölgesi sınırlarında, özgün bir ritmi olan 'Rakşı' dansı hangi yöreye aittir?",
+    "explanation": "Rakşı, Trakya ve Makedonya sınırlarında oynanan, özgün bir ritmi olan ve genellikle zurna ile eşlik edilen geleneksel bir halk dansıdır.",
+    "options": [
+      "Doğu Anadolu",
+      "Ege Bölgesi",
+      "Trakya Bölgesi",
+      "Güneydoğu Anadolu"
+    ],
+    "correctAnswer": "Trakya Bölgesi",
+    "tags": [
+      "Trakya Kültürü",
+      "Tarihsel Danslar",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wg0okcykx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Yörük kültürünü yansıtan ve genellikle atlı yaşam tarzıyla ilişkilendirilen dans türü hangisidir?",
+    "explanation": "Yörük Dansları, Anadolu'nun göçebe yaşam tarzını ve Yörük kültürünü temsil eden dansların genel adıdır. Atla oynayan veya atlı hayvanlarla yapılan hareketler içerir.",
+    "options": [
+      "Şarkıcı",
+      "Yörük Dansları",
+      "Karsan",
+      "Oyun"
+    ],
+    "correctAnswer": "Yörük Dansları",
+    "tags": [
+      "Göçebe Kültürü",
+      "Anadolu Halkı",
+      "Dance History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ybdswdshk",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Hangi halk dansı Karadeniz bölgesine özgü olarak bilinir ve genellikle üç kişi tarafından oynanır?",
+    "explanation": "Horon, Karadeniz bölgesine özgü halk dansıdır ve genellikle üç kişi (iki erkek bir kadın) tarafından oynanır. Sert ritmik karaktere sahiptir.",
+    "options": [
+      "Horon",
+      "Halay",
+      "Zeybek",
+      "Hava"
+    ],
+    "correctAnswer": "Horon",
+    "tags": [
+      "folklor",
+      "dans",
+      "Karadeniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2kiyxraw5",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Anadolu'nun birçok ilinde yaygın olan ve iki cinsiyetin birlikte dans ettiği halk dansının adı nedir?",
+    "explanation": "Halay, Anadolu'nun birçok ilinde yaygın olan geleneksel halk dansıdır. Genellikle iki cinsiyetin birlikte katıldığı uzun kuyruk şeklinde oynanır.",
+    "options": [
+      "Zeybek",
+      "Halay",
+      "Karsiyaka",
+      "Fırın"
+    ],
+    "correctAnswer": "Halay",
+    "tags": [
+      "folklor",
+      "dans",
+      "Anadolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i5v7nn6jr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Aydın ve İzmir bölgesine özgü, güçlü ve cesur karaktere sahip halk dansının adı nedir?",
+    "explanation": "Zeybek, Ege bölgesine (özellikle Aydın ve İzmir) özgü halk dansıdır. Güçlü, cesur karakteriyle bilinir ve genellikle Erkekler tarafından oynanır.",
+    "options": [
+      "Karsiyaka",
+      "Zeybek",
+      "Horon",
+      "Halay"
+    ],
+    "correctAnswer": "Zeybek",
+    "tags": [
+      "folklor",
+      "dans",
+      "Ege"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h2gr5x1kq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Karsiyaka halk dansının hangi bölgede popüler olarak oynandığı bilginize göre aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Karsiyaka, Doğu Anadolu'nun Erzurum bölgesine özgü halk dansıdır. Bölgenin kültürünün önemli bir parçasıdır.",
+    "options": [
+      "Adana",
+      "Erzurum",
+      "İstanbul",
+      "Antalya"
+    ],
+    "correctAnswer": "Erzurum",
+    "tags": [
+      "folklor",
+      "dans",
+      "Doğu Anadolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vebh1s3t6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Fırın dansının hangi şehre özgü olduğu ve bu dansın diğerinden farkı nedir?",
+    "explanation": "Fırın dansı, Kahramanmaraş'a özgüdür. Bu dansın en belirgin özelliği ritmik ve hızlı hareketleridir. Bölgenin kültürel mirasının önemli bir parçasıdır.",
+    "options": [
+      "Kahramanmaraş - Ritmik hareketleri",
+      "Adana - Şarkı eşliğinde",
+      "Antalya - Hızlı tempolu",
+      "İzmir - Kadın odaklı"
+    ],
+    "correctAnswer": "Kahramanmaraş - Ritmik hareketleri",
+    "tags": [
+      "folklor",
+      "dans",
+      "Güneydoğu Anadolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0b3i67isd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en yaygın ve birçok eyalette görülen temel halk dansı hangisidir?",
+    "explanation": "Halay, el ele tutuşarak yapılan ve Anadolu'nun neredeyse tüm bölgelerinde görülen en yaygın halk dansıdır.",
+    "options": [
+      "Halay",
+      "Salsa",
+      "Valsa",
+      "Rumba"
+    ],
+    "correctAnswer": "Halay",
+    "tags": [
+      "Türk Halk Dansları",
+      "Kültür",
+      "Milli Gezi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7rczzcuia",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz bölgesinin geleneksel halk dansından hangisi zurna ve davul eşliğinde hızlı tempoda yapılır?",
+    "explanation": "Horon, Karadeniz bölgesine has olan ve genellikle zurna ile eşlik edilen, ritmik adımlarıyla tanınan bir halk dansıdır.",
+    "options": [
+      "Zeybek",
+      "Horon",
+      "Karsili",
+      "Yassı"
+    ],
+    "correctAnswer": "Horon",
+    "tags": [
+      "Karadeniz Kültürü",
+      "Halk Müziği",
+      "Dans Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tknotkszs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Ege Bölgesi'nde kahramanlık ruhu taşıyan, tarihsel olarak savaşçı figürleri temsil eden meşhur dans hangisidir?",
+    "explanation": "Zeybek dansı, Ege bölgesinde (özellikle Denizli ve çevresi) görülen ve geçmiş dönemlerdeki savaşçıları simgeleyen bir halk dansıdır.",
+    "options": [
+      "Halay",
+      "Horon",
+      "Zeybek",
+      "Karsili"
+    ],
+    "correctAnswer": "Zeybek",
+    "tags": [
+      "Ege Kültürü",
+      "Tarihi Danış",
+      "Anadolu Geleceği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k9haldt8x",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Doğu Anadolu'da özellikle Kars merkezli olarak bilinen ve çift kuyruklu yapıda yapılan dans hangisidir?",
+    "explanation": "Karsili (veya Karslı), Doğu Anadolu kültüründe ve özellikle Kars bölgesinde görülmesiyle bilinen, sıra halinde yapılan halk dansıdır.",
+    "options": [
+      "Halay",
+      "Hava",
+      "Karsili",
+      "Yassı"
+    ],
+    "correctAnswer": "Karsili",
+    "tags": [
+      "Doğu Anadolu",
+      "Halk Oyunları",
+      "Dance History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3pc05z81j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Gaziantep'e özgü olan ve 'Yağlı Göz' adını alan bu dansın özelliği nedir?",
+    "explanation": "Yağlı Göz, Gaziantep'e has halk dansıdır ve çiftlerin birbirine dönerek zıplama hareketleri yaptıkları meşhur bir oyundur.",
+    "options": [
+      "Çember şeklinde yapılır",
+      "Tek başına yapılır",
+      "El ele tutuşarak yapılır",
+      "İki kişi arasında yapılan zıplama hareketleri içerir"
+    ],
+    "correctAnswer": "İki kişi arasında yapılan zıplama hareketleri içerir",
+    "tags": [
+      "Gaziantep Kültürü",
+      "Halk Dansları",
+      "Yerel Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zsw0v11o6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Hangi halk dansı, Türkiye'deki düğünlerde ve kutlamalarda en yaygın olarak yapılan kolları tutarak yapılan dairesel dans türüdür?",
+    "explanation": "Halay, Anadolu'nun hemen hemen her bölgesinde düğünlerde ve bayramlarda yapılan en yaygın kolları tutarak oynanan dairesel halk dansıdır.",
+    "options": [
+      "Zeybek",
+      "Horon",
+      "Halay",
+      "Yörük"
+    ],
+    "correctAnswer": "Halay",
+    "tags": [
+      "halk_dansı",
+      "düğün",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ctlry34n3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Zeybek halk dansının köken aldığı ve bu dansın karakteristik hareketlerini yansıtan ana bölge hangisidir?",
+    "explanation": "Zeybek dansı, özellikle Aydın ve Manisa gibi Ege Bölgesi'nde yaygındır ve genellikle kılıç hareketleri ile karakterize edilir.",
+    "options": [
+      "Karadeniz",
+      "Doğu Anadolu",
+      "Akdeniz",
+      "Ege"
+    ],
+    "correctAnswer": "Ege",
+    "tags": [
+      "zeybek",
+      "ege",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9vuhbutyp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Horon dansı hangi coğrafi bölgede yoğunlaşmış olan ve kemençe ile davul eşliğinde oynanan popüler bir halk dansıdır?",
+    "explanation": "Horon, Karadeniz Bölgesi'nde (Trabzon, Rize, Ordu vb.) yaygın olan ve genellikle kemençe ritmiyle oynanan hızlı tempolu bir dans türüdür.",
+    "options": [
+      "Akdeniz",
+      "Batı Anadolu",
+      "Karadeniz",
+      "Trakya"
+    ],
+    "correctAnswer": "Karadeniz",
+    "tags": [
+      "horon",
+      "karadeniz",
+      "müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vmbd3u48d",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Yörük halk dansı hangi yaşam tarzını ve kültürel özelliği simgeler?",
+    "explanation": "Yörük dansı, Anadolu'nun yayla kültürüne ve göçebe geçmişi olan Yörük Türklerinin özgürlük ruhunu simgeler.",
+    "options": [
+      "Şehirleşmiş yaşam",
+      "Köylülük",
+      "Yaylacılık ve göçebe yaşam",
+      "Saldırganlık"
+    ],
+    "correctAnswer": "Yaylacılık ve göçebe yaşam",
+    "tags": [
+      "yörük",
+      "göçebe",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n98b0922t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Zeybek dansının oynanışında en belirgin özelliklerinden biri aşağıdakilerden hangisidir?",
+    "explanation": "Zeybek dansı, özellikle erkeklerin kollarını gererek kılıç sallama hareketi yapması ve özgürlükçi bir ritimle oynamasıyla bilinir.",
+    "options": [
+      "Yavaş ve ağır adımlar",
+      "Hareketsiz duruşlar",
+      "Kolları gererek kılıç sallama hareketleri",
+      "Sadece kadınların katılımı"
+    ],
+    "correctAnswer": "Kolları gererek kılıç sallama hareketleri",
+    "tags": [
+      "zeybek",
+      "hareket",
+      "detay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e6c2r0ou7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz Bölgesi'ne özgü ve genellikle sıra halinde yapılan halk dansı aşağıdakilerden hangisidir?",
+    "explanation": "Horon, Karadeniz Bölgesi'ne özgü bir halk dansıdır ve genellikle çiftleşerek veya sıra halinde yapılır.",
+    "options": [
+      "Halay",
+      "Horon",
+      "Zeybek",
+      "Böbrek"
+    ],
+    "correctAnswer": "Horon",
+    "tags": [
+      "Halk Dansları",
+      "Karadeniz",
+      "Türk Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ew60d0zee",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Anadolu'nun neredeyse tamamında görülen ve 'Hala' kelimesinin kökenine dayanan halk dansının temel koreografisi nasıldır?",
+    "explanation": "Halay; Anadolu'nun her yerinde görülen, genellikle daire veya sıra şeklinde yapılan ve ellerin tutulmasıyla ilerleyen en yaygın halk dansıdır.",
+    "options": [
+      "Tek kişilik hareketler",
+      "Daire veya sıra halinde dizilim",
+      "Sadece erkeklerin yaptığı danslar",
+      "Hızlı zıplama hareketleri"
+    ],
+    "correctAnswer": "Daire veya sıra halinde dizilim",
+    "tags": [
+      "Halk Dansları",
+      "Koreografi",
+      "Anadolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "moy0hi3gx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Zeybek dansının ritmi ve havası genel olarak hangi bölgeyi temsil eder?",
+    "explanation": "Zeybek dansı, özellikle Ege Bölgesi'nde (İzmir, Aydın, Muğla vb.) yaygın olan ve genellikle sert ritimli, özgürlükçü ruhlu bir dansdır.",
+    "options": [
+      "Doğu Anadolu",
+      "Güneydoğu Anadolu",
+      "Ege ve Batı Anadolu",
+      "Karadeniz"
+    ],
+    "correctAnswer": "Ege ve Batı Anadolu",
+    "tags": [
+      "Halk Dansları",
+      "Ege",
+      "Zeybek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2oritcbcd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Halk dansları toplumsal olarak hangi fonksiyonu yerine getirir?",
+    "explanation": "Halk dansları sadece eğlence değil; aynı zamanda toplumsal dayanışmayı, aile birliğini ve kültürel kimliği pekiştiren önemli bir aracıdır.",
+    "options": [
+      "Sadece eğlence amaçlıdır",
+      "Topluluk bağını güçlendirme ve kimlik bilinci oluşturur",
+      "Dini törenlerin yeri",
+      "Siyasi propagandadır"
+    ],
+    "correctAnswer": "Topluluk bağını güçlendirme ve kimlik bilinci oluşturur",
+    "tags": [
+      "Halk Kültürü",
+      "Sosyoloji",
+      "Toplumsal Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j3daseuh7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi halk danslarında kullanılan geleneksel müzik enstrümanlarından biri değildir?",
+    "explanation": "Halk danslarında geleneksel olarak davul, zurna, ney gibi enstrümanlar kullanılırken klavye modern bir enstrümandır.",
+    "options": [
+      "Davul",
+      "Zurna",
+      "Ney",
+      "Klavye"
+    ],
+    "correctAnswer": "Klavye",
+    "tags": [
+      "Müzik",
+      "Halk Dansları",
+      "Enstrümanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d7odekfwh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin birçok yerinde düğünlerde ve bayramlarda en yaygın olarak oynanan halk dansı hangisidir?",
+    "explanation": "Halay, el ele tutuşarak kare veya daire şeklinde oynanan ve Türkiye'nin neredeyse her yerinde görülen en yaygın halk dansıdır.",
+    "options": [
+      "Horon",
+      "Halay",
+      "Zeybek",
+      "Sırma"
+    ],
+    "correctAnswer": "Halay",
+    "tags": [
+      "Halk Müziği",
+      "Dans",
+      "Türkiye Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uoa7siua0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz Bölgesi'ne özgü ve genellikle bağlama eşliğinde kare şeklinde oynanan dans hangisidir?",
+    "explanation": "Horon, Karadeniz Bölgesi'nde özellikle Ordu, Giresun ve Rize gibi illerde yaygın olan ve genellikle bağlama veya kemençe eşliğinde oynanan bir halk dansıdır.",
+    "options": [
+      "Zeybek",
+      "Halay",
+      "Horon",
+      "Sırma"
+    ],
+    "correctAnswer": "Horon",
+    "tags": [
+      "Karadeniz Kültürü",
+      "Folklor",
+      "Dans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2ioigggo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Hangi halk dansı, Anadolu'nun Ege bölgesine ait olup savaşçı ruh, kahramanlık ve duruş sembolü olarak kabul edilir?",
+    "explanation": "Zeybek dansı, özellikle Aydın ve Muğla gibi Ege bölgelerinde görülen, savaşçı duruş ve kahramanlığı yansıtan özel adımları olan bir halk dansıdır.",
+    "options": [
+      "Halay",
+      "Zeybek",
+      "Horon",
+      "Kılıç Savaş"
+    ],
+    "correctAnswer": "Zeybek",
+    "tags": [
+      "Ege Kültürü",
+      "Tarih",
+      "Kahramanlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5oopiyqx7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Hangi dans türü, Anadolu'nun güneydoğu bölgesinde yaygın olup genellikle çiftlik işleri sırasında veya bayramlarda oynanır?",
+    "explanation": "Sırma, Güneydoğu Anadolu'da yaygın olarak bilinen ve genellikle çiftliklerde veya bayramlarda oynanan geleneksel bir halk dansıdır.",
+    "options": [
+      "Halay",
+      "Horon",
+      "Sırma",
+      "Zeybek"
+    ],
+    "correctAnswer": "Sırma",
+    "tags": [
+      "Güneydoğu Kültürü",
+      "Halk Oyunları",
+      "Töreler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "txw2ikmbs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Halk danslarının toplumsal açıdaki temel amacı nedir?",
+    "explanation": "Halk dansları, insanlar arasındaki bağları güçlendirmek, birlik oluşturmak ve kutlamalarda coşku yaratacak şekilde tasarlanmıştır.",
+    "options": [
+      "Kişisel rekabet yapmaktır",
+      "Topluluk birliğini ve coşku göstermektir",
+      "Sadece para kazanmaktır",
+      "Yatay hareketleri öğrenmektir"
+    ],
+    "correctAnswer": "Topluluk birliğini ve coşku göstermektir",
+    "tags": [
+      "Sosyal",
+      "Kültür",
+      "Birlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "99qira43b",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en yaygın halk dansı olarak bilinen ve düğünlerde, şenliklerde sıkça oynanan dans hangisidir?",
+    "explanation": "Halay, Türkiye'de en yaygın olarak bilinen halk dansıdır ve düğünler gibi topluluk etkinliklerinin simgesi olarak kabul edilir.",
+    "options": [
+      "Halay",
+      "Salsa",
+      "Tango",
+      "Rakı"
+    ],
+    "correctAnswer": "Halay",
+    "tags": [
+      "folk dance",
+      "turkey culture",
+      "halay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3q7imj6q0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Karadeniz Bölgesi'ne özgü, genellikle zurna ve davul eşliğinde oynanan ve 'Horon' adı verilen dans hangi bölgedir?",
+    "explanation": "Horon, Karadeniz bölgesinde Trabzon ve çevrelerinde en çok bilinen geleneksel halk dansıdır.",
+    "options": [
+      "Doğu Anadolu",
+      "Ege",
+      "Karadeniz",
+      "Akdeniz"
+    ],
+    "correctAnswer": "Karadeniz",
+    "tags": [
+      "horon",
+      "black sea region",
+      "folk music"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "83vgx1n2p",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Ege Bölgesi'ne ait ve genellikle kahramanlık ruhunu sembolize eden, tek kişilik veya grup halinde oynanan önemli dans hangisidir?",
+    "explanation": "Zeybek dansı, Ege bölgesinde (Manisa, İzmir vb.) oynanan ve savaşçı ruhunu yansıtan geleneksel bir erkeksi dans türüdür.",
+    "options": [
+      "Zeybek",
+      "Karsılayma",
+      "Sümela",
+      "Havalı"
+    ],
+    "correctAnswer": "Zeybek",
+    "tags": [
+      "zeybek",
+      "aegean",
+      "heroic dance"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p6ogtydng",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "GENERAL",
+    "question": "Halk danslarında genellikle ritmi belirleyen, yüksek sesli çalınan ve topluluğun hareketini senkronize eden ana müzik aleti hangisidir?",
+    "explanation": "Davul, halk danslarında tempo ve ritmi sağlayan en temel vurmalı çalgı aletidir.",
+    "options": [
+      "Davul",
+      "Keman",
+      "Akort",
+      "Saksafon"
+    ],
+    "correctAnswer": "Davul",
+    "tags": [
+      "davul",
+      "folk instruments",
+      "rhythm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1uoikprc3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Halk Dansları",
+    "difficulty": "EXPERT",
+    "question": "Halk danslarının toplumsal bağları güçlendirmedeki temel işlevi ve sembolik anlamı nedir?",
+    "explanation": "Halk dansları, bireylerin bir araya gelmesini, el ele tutuşarak toplu hareket etmesini ve birlik bilincini güçlendirmeyi amaçlar.",
+    "options": [
+      "Rekabet",
+      "Ayrılmak",
+      "Birlik ve Dayanışma",
+      "Yalnızlık"
+    ],
+    "correctAnswer": "Birlik ve Dayanışma",
+    "tags": [
+      "social function",
+      "culture",
+      "symbolism"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

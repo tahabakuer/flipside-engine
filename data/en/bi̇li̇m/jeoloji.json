@@ -1,0 +1,1078 @@
+[
+  {
+    "id": "owi6lokjv",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "Jeolojide 'litosfer' nedir?",
+    "explanation": "Litosfer, yerkürenin katı ve kırılgan dış kabuğunu ifade eder. Bu tabaka mantodan daha serttir ve tektonik levhaların bulunduğu yerdir.",
+    "options": [
+      "Toprak tabakası",
+      "Yerin katı dış kabuğu",
+      "Suyun taşındığı kanal",
+      "Atmosferin alt katmanı"
+    ],
+    "correctAnswer": "Yerin katı dış kabuğu",
+    "tags": [
+      "Jeoloji Temel Kavramlar",
+      "Litosfer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "238hx63wg",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Jeolojik zaman ölçeğinde en uzun süre hangi dönemi temsil eder?",
+    "explanation": "Kambriyen dönemi yaklaşık 541-485 milyon yıl önce başladı ve jeolojik zaman ölçeğinde en uzun süreyi kapsar. Bu dönemde ilk çok hücreli fosiller ortaya çıktı.",
+    "options": [
+      "Kambriyen",
+      "Jura",
+      "Triyas",
+      "Kretase"
+    ],
+    "correctAnswer": "Kambriyen",
+    "tags": [
+      "Jeolojik Zaman Ölçeği",
+      "Fosiller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ytpx1yt92",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "Mantodaki konveksiyon akımları neye neden olur?",
+    "explanation": "Yerin mantosundaki ısıtma ve soğuma nedeniyle oluşan konveksiyon akımları, tektonik levhalara hareket gücü sağlar. Bu akımlar deprem ve volkanizmanın temel nedenidir.",
+    "options": [
+      "Jeolojik yerleşim",
+      "Tektonik levha hareketleri",
+      "Yapay depremler",
+      "Meteor yağmurları"
+    ],
+    "correctAnswer": "Tektonik levha hareketleri",
+    "tags": [
+      "Manto Konveksiyonu",
+      "Tektonik Levhalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4jmg5562a",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "Jeolojide 'volkan' ne demektir?",
+    "explanation": "Volkan, yer kabuğu çatlaklarından erimiş taş (magma) gazların ve kayaç malzemelerinin yeryüzüne çıktığı noktadır. Volkanizma jeolojide önemli bir olaydır.",
+    "options": [
+      "Toprak tabakası",
+      "Yeryüzünde madde atılan nokta",
+      "Atmosfer katmanı",
+      "Su kaynağı"
+    ],
+    "correctAnswer": "Yeryüzünde madde atılan nokta",
+    "tags": [
+      "Volkanoloji",
+      "Jeolojik Olaylar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "my0xbe86r",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Jeolojik zaman ölçeğinde 'Mesozoik' dönem hangi zamanları kapsar?",
+    "explanation": "Mesozoik dönem yaklaşık 252-66 milyon yıl önceydi ve üç ana dönemi kapsar: Triyas, Jura ve Kretase. Bu dönemde dinosauruslar yaşamış ve ilk kuşlar ortaya çıkmıştır.",
+    "options": [
+      "Triyas, Jura ve Kretase",
+      "Kambriyen, Ordoviyen ve Silüryen",
+      "Paleosen, Eosen ve Miyosen",
+      "Pliosen, Pleistosen ve Holosen"
+    ],
+    "correctAnswer": "Triyas, Jura ve Kretase",
+    "tags": [
+      "Mesozoik Dönem",
+      "Jeolojik Zaman Ölçeği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i93fl8jwj",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "What is the primary force driving plate tectonics?",
+    "explanation": "Mantle convection currents in Earth's mantle are the primary force that drives plate tectonics by causing plates to move due to hot material rising and cool material sinking.",
+    "options": [
+      "Earth's rotation",
+      "Mantle convection currents",
+      "Gravitational pull of the moon",
+      "Solar radiation"
+    ],
+    "correctAnswer": "Mantle convection currents",
+    "tags": [
+      "Geology",
+      "Plate Tectonics",
+      "Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tm9wlzwe7",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Which type of rock is formed from cooled magma or lava?",
+    "explanation": "Igneous rocks are formed when magma (below ground) or lava (above ground) cools and solidifies, creating crystalline structures.",
+    "options": [
+      "Sedimentary Rock",
+      "Metamorphic Rock",
+      "Igneous Rock",
+      "Chemical Rock"
+    ],
+    "correctAnswer": "Igneous Rock",
+    "tags": [
+      "Geology",
+      "Rock Types",
+      "Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9bwxmnxpm",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What are P-waves in seismic activity?",
+    "explanation": "P-waves (Primary waves) are compressional seismic waves that travel the fastest through Earth's interior, arriving first at monitoring stations.",
+    "options": [
+      "Surface waves",
+      "Secondary waves that arrive second",
+      "Primary waves that travel fastest through Earth",
+      "Transverse waves that move side-to-side"
+    ],
+    "correctAnswer": "Primary waves that travel fastest through Earth",
+    "tags": [
+      "Geology",
+      "Seismic Waves",
+      "Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5y484kux9",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What does the 'Principle of Superposition' state in geology?",
+    "explanation": "The Principle of Superposition states that in undisturbed sedimentary rock sequences, the oldest layers are at the bottom and newer layers accumulate on top.",
+    "options": [
+      "New layers are always on top of older layers",
+      "Older fossils are found in newer rock layers",
+      "All sedimentary rocks form at the same time",
+      "Layers can be rearranged by wind and water"
+    ],
+    "correctAnswer": "New layers are always on top of older layers",
+    "tags": [
+      "Geology",
+      "Stratigraphy",
+      "Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ktw1bt5p",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "What is the approximate age of Earth according to scientific dating?",
+    "explanation": "Scientific dating methods, including radiometric dating of meteorites and Earth rocks, indicate Earth formed approximately 4.5 to 4.6 billion years ago.",
+    "options": [
+      "1 million years",
+      "4.5 billion years",
+      "6.7 billion years",
+      "13.8 billion years"
+    ],
+    "correctAnswer": "4.5 billion years",
+    "tags": [
+      "Geology",
+      "Earth Science",
+      "Dating Methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jb1g7htwr",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "Which of the following is an example of an igneous rock?",
+    "explanation": "Granite forms from the cooling and solidification of magma, making it an igneous rock.",
+    "options": [
+      "Granite",
+      "Limestone",
+      "Sandstone",
+      "Shale"
+    ],
+    "correctAnswer": "Granite",
+    "tags": [
+      "Rock Types"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ffqtnjs5z",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What type of plate boundary is characterized by plates moving apart?",
+    "explanation": "Divergent boundaries occur where tectonic plates move away from each other, often creating rift valleys or mid-ocean ridges.",
+    "options": [
+      "Convergent",
+      "Divergent",
+      "Transform",
+      "Subduction"
+    ],
+    "correctAnswer": "Divergent",
+    "tags": [
+      "Plate Tectonics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebzpc9tag",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "What is the largest unit of geologic time?",
+    "explanation": "Eons are the broadest divisions in geologic time, encompassing multiple eras and representing the largest scale of Earth's history.",
+    "options": [
+      "Eon",
+      "Era",
+      "Period",
+      "Epoch"
+    ],
+    "correctAnswer": "Eon",
+    "tags": [
+      "Geologic Time"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hsceave16",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "How do sedimentary rocks primarily form?",
+    "explanation": "Sedimentary rocks form from sediments that accumulate over time and are cemented together, such as sandstone or limestone.",
+    "options": [
+      "Heat and pressure",
+      "Cooling of magma",
+      "Accumulation and cementation of particles",
+      "Volcanic activity"
+    ],
+    "correctAnswer": "Accumulation and cementation of particles",
+    "tags": [
+      "Sedimentary Rocks"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ossmyiiq5",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "Which process is responsible for the formation of metamorphic rocks?",
+    "explanation": "Metamorphic rocks result from existing rocks being altered by intense heat and pressure, without melting, such as marble or slate.",
+    "options": [
+      "Deposition",
+      "Cooling of magma",
+      "Heat and pressure",
+      "Weathering"
+    ],
+    "correctAnswer": "Heat and pressure",
+    "tags": [
+      "Metamorphic Rocks"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fzx5dwh1x",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki kayaç türlerinden hangisi magmatik kayaç grubuna ait değildir?",
+    "explanation": "Granit, Bazalt ve Riyolit magmatik (ateşli) kayaçlardır. Kireçtaşı ise sediment (çökelti) kayağıdır.",
+    "options": [
+      "Granit",
+      "Bazalt",
+      "Kireçtaşı",
+      "Riyolit"
+    ],
+    "correctAnswer": "Kireçtaşı",
+    "tags": [
+      "kayaçlar",
+      "magmatik",
+      "sediment"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hb1lt57me",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Yerkürenin en dış katmanı olan kabuğun kalınlığı aşağıdakilerden hangisidir?",
+    "explanation": "Yerkürenin kabuk kısmı okyanus tabanlarında 5-10 km, kıta tabanlarında 20-30 km kalınlığındadır.",
+    "options": [
+      "5-10 km",
+      "20-30 km",
+      "60-70 km",
+      "100-150 km"
+    ],
+    "correctAnswer": "20-30 km",
+    "tags": [
+      "yer kabuğu",
+      "yerküre katmanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7agdokhtv",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "Volkanik patlamalarda en tehlikeli gaz hangisidir?",
+    "explanation": "Karbondioksit, hafif ve zehirli bir gaza sahiptir. Patlamalarda toprak altında sıkışarak ölümcül olabilir.",
+    "options": [
+      "Hidrojen",
+      "Karbon Dioksit",
+      "Metan",
+      "Oksijen"
+    ],
+    "correctAnswer": "Karbon Dioksit",
+    "tags": [
+      "volkanoloji",
+      "gazlar",
+      "tehlikeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jtdqx9a7h",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Fosillerin oluştuğu en uygun ortam aşağıdakilerden hangisidir?",
+    "explanation": "Fosiller sakin su ortamlarında (göl, okyanus) daha iyi korunur ve çökelti ile kaplanır.",
+    "options": [
+      "Çok hızlı akıntı",
+      "Sakin su ortamları",
+      "Dağ zirveleri",
+      "Kurak bölgeler"
+    ],
+    "correctAnswer": "Sakin su ortamları",
+    "tags": [
+      "fosiller",
+      "jeolojik zaman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "02qljwzwj",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Tektonik plakaların sınırında en sık görülen jeolojik olay aşağıdakilerden hangisidir?",
+    "explanation": "Tektonik plakaların sınırında (okyanus, kıta) yer değiştirme sırasında deprem oluşur.",
+    "options": [
+      "Rüzgar",
+      "Sel",
+      "Deprem",
+      "Dönemsel sıcaklık değişimi"
+    ],
+    "correctAnswer": "Deprem",
+    "tags": [
+      "tektonik plakalar",
+      "depremler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yz04js13v",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "What is the process called when rocks break down into smaller pieces due to exposure to air, water, and temperature changes?",
+    "explanation": "Weathering is the process where rocks and minerals break down into smaller pieces through physical and chemical actions from environmental factors like temperature, water, and air.",
+    "options": [
+      "Weathering",
+      "Erosion",
+      "Deposition",
+      "Metamorphism"
+    ],
+    "correctAnswer": "Weathering",
+    "tags": [
+      "Geology",
+      "Rocks",
+      "Earth Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eb0intyec",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Which layer of the Earth contains molten iron and nickel that generates the planet's magnetic field?",
+    "explanation": "The Outer Core is a liquid layer composed mainly of iron and nickel, whose movement generates Earth's magnetic field through the dynamo effect.",
+    "options": [
+      "Outer Core",
+      "Inner Core",
+      "Mantle",
+      "Crust"
+    ],
+    "correctAnswer": "Outer Core",
+    "tags": [
+      "Geology",
+      "Earth Structure",
+      "Planetary Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ohwec6c1p",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "What type of rock forms from the cooling and solidification of magma or lava?",
+    "explanation": "Igneous rocks are formed when magma (underground) or lava (above ground) cools and solidifies, creating crystals that form the rock structure.",
+    "options": [
+      "Igneous Rock",
+      "Sedimentary Rock",
+      "Metamorphic Rock",
+      "Organic Rock"
+    ],
+    "correctAnswer": "Igneous Rock",
+    "tags": [
+      "Geology",
+      "Rock Types",
+      "Earth Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dyvtet978",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Which geological event is responsible for folding and faulting of rock layers in the Earth's crust?",
+    "explanation": "Plate tectonics involves the movement of Earth's lithospheric plates, which causes folding, faulting, mountain building, and seismic activity.",
+    "options": [
+      "Plate Tectonics",
+      "Volcanic Activity",
+      "Meteor Impact",
+      "Ocean Currents"
+    ],
+    "correctAnswer": "Plate Tectonics",
+    "tags": [
+      "Geology",
+      "Tectonics",
+      "Earth Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s2aqsghf7",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "What is the term for a rock formed when existing rocks are subjected to high heat and pressure without melting?",
+    "explanation": "Metamorphic rocks form when pre-existing rocks undergo transformation due to intense heat and pressure, changing their mineral composition and structure without melting.",
+    "options": [
+      "Metamorphic Rock",
+      "Sedimentary Rock",
+      "Igneous Rock",
+      "Chemical Rock"
+    ],
+    "correctAnswer": "Metamorphic Rock",
+    "tags": [
+      "Geology",
+      "Rock Types",
+      "Earth Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s81bye88c",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "Which rock type forms from the solidification of magma or lava?",
+    "explanation": "Igneous rocks are formed when magma or lava cools and solidifies, whereas sedimentary and metamorphic rocks form through other processes.",
+    "options": [
+      "Sedimentary Rocks",
+      "Igneous Rocks",
+      "Metamorphic Rocks",
+      "Organic Sediments"
+    ],
+    "correctAnswer": "Igneous Rocks",
+    "tags": [
+      "Geology",
+      "Science",
+      "Rocks"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "id6msww6o",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What geological process is primarily responsible for most earthquakes?",
+    "explanation": "Most earthquakes occur at plate boundaries where tectonic plates interact, causing stress release in the form of seismic waves.",
+    "options": [
+      "Volcanic Activity",
+      "Plate Tectonics",
+      "Glacial Movement",
+      "Ocean Currents"
+    ],
+    "correctAnswer": "Plate Tectonics",
+    "tags": [
+      "Geology",
+      "Tectonics",
+      "Earthquakes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "47mdaq2y8",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What is a common hazard associated with active volcanoes?",
+    "explanation": "Active volcanoes can produce lahars (mudflows), pyroclastic flows, and ash fall, all of which are hazardous to surrounding areas.",
+    "options": [
+      "Lahars",
+      "Pyroclastic Flows",
+      "Ash Fall",
+      "All of the Above"
+    ],
+    "correctAnswer": "All of the Above",
+    "tags": [
+      "Geology",
+      "Volcanoes",
+      "Hazards"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lyl7sya7a",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "Which condition is essential for the preservation of fossils in sedimentary rock?",
+    "explanation": "Fossils are preserved when organisms are quickly buried by sediment, preventing decay and scavenging.",
+    "options": [
+      "Oxygen-rich Environment",
+      "Rapid Burial",
+      "High Temperatures",
+      "Exposure to Sunlight"
+    ],
+    "correctAnswer": "Rapid Burial",
+    "tags": [
+      "Geology",
+      "Paleontology",
+      "Fossils"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0qsce0krr",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "What evidence supports the theory of continental drift proposed by Alfred Wegener?",
+    "explanation": "Wegener's theory was supported by multiple lines of evidence including matching continental shapes, fossil similarities, and rock type correlations.",
+    "options": [
+      "Magnetic Striping",
+      "Fit of Continents",
+      "Fossil Distribution",
+      "All of the Above"
+    ],
+    "correctAnswer": "All of the Above",
+    "tags": [
+      "Geology",
+      "Tectonics",
+      "Continental Drift"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3f9tf32k",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Dünya'nın merkezindeki sıcaklık yaklaşık olarak kaç derecedir?",
+    "explanation": "Dünya'nın merkezindeki sıcaklık yaklaşık 5000-6000°C arasındadır. Bu yüksek sıcaklık, kayaçların erimesine neden olur.",
+    "options": [
+      "2000°C",
+      "3700°C",
+      "5000°C",
+      "6000°C"
+    ],
+    "correctAnswer": "5000°C",
+    "tags": [
+      "jeoloji",
+      "dünya yapısı",
+      "merkez sıcaklık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qurkq1w6h",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi tektonik plakaların hareketini gösteren bir kanıt değildir?",
+    "explanation": "Tektonik plakaların hareketi, dağ oluşumu, volkanik faaliyetler ve deprem bölgeleri ile gösterilir. Noktasal buzullar ise iklim değişikliklerini gösteren bir kanıttır.",
+    "options": [
+      "Dağ oluşumu",
+      "Volkanik faaliyetler",
+      "Noktasal buzullar",
+      "Deprem bölgeleri"
+    ],
+    "correctAnswer": "Noktasal buzullar",
+    "tags": [
+      "tektonik plakalar",
+      "jeoloji kanıtları",
+      "dağ oluşumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "io3vjvzsh",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Litosferin kalınlığı yaklaşık olarak ne kadardır?",
+    "explanation": "Litosferin kalınlığı kıtalarda 100-200 km, okyanuslarda ise daha azdır. Okyanus kabuğu yaklaşık 5-100 km arasında değişir.",
+    "options": [
+      "50-100 km",
+      "100-200 km",
+      "200-300 km",
+      "300-400 km"
+    ],
+    "correctAnswer": "100-200 km",
+    "tags": [
+      "litosfer",
+      "jeoloji",
+      "katmanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yhaq7a4rb",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "Jeolojik zaman ölçeğinde günümüzden önceki en uzun dönem hangisidir?",
+    "explanation": "Jeolojik zaman ölçeğinde Paleozik Dönemi yaklaşık 541-252 milyon yıl sürer. Mezozik (252-66 my) ve Kenozoik (66-my) daha kısadır.",
+    "options": [
+      "Paleozik",
+      "Mezozik",
+      "Kenozoik",
+      "Arkeozoik"
+    ],
+    "correctAnswer": "Paleozik",
+    "tags": [
+      "jeolojik zaman",
+      "dönemler",
+      "evrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9cm1vju2w",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Okyanus kabuğunun en kalın olduğu yer neresidir?",
+    "explanation": "Okyanus kabuğunun en kalın olduğu yer orta okyanuslarıdır. Burada kabuk 70-100 km arasında olabilir, kıtalık sahil çizgilerinde daha incedir.",
+    "options": [
+      "Orta okyanusları",
+      "Kıtalık sahil çizgileri",
+      "Derinlikler",
+      "Buzulların altı"
+    ],
+    "correctAnswer": "Orta okyanusları",
+    "tags": [
+      "okyanus kabuğu",
+      "jeoloji",
+      "tektonik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "05wp30pjv",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "Jeolojide 'fossiller' en sık hangi tür kayaçlarda bulunur?",
+    "explanation": "Fossiller (artıklar) genellikle kireçtaşı, kumtaşı ve şist gibi sediment kayaçlarda bulunur. Granit ve bazalt magmatik, obsidyen volkaniktir.",
+    "options": [
+      "Granit",
+      "Kireçtaşı",
+      "Obsidyen",
+      "Bazalt"
+    ],
+    "correctAnswer": "Kireçtaşı",
+    "tags": [
+      "jeoloji",
+      "kayaçlar",
+      "fossiller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "opuzkf56z",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Büyük Okyanos'un kıtasal kenarlarında 'subduksiyon' olayı hangi tür levha hareketiyle gerçekleşir?",
+    "explanation": "Subduksiyon, bir levhanın diğerinin altına girdiği konvejen (çarpışma) levha hareketinde gerçekleşir.",
+    "options": [
+      "Divergent",
+      "Transform",
+      "Convergent",
+      "Stationary"
+    ],
+    "correctAnswer": "Convergent",
+    "tags": [
+      "levha tektoniği",
+      "subduksiyon",
+      "jeolojik olaylar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4vmktu98j",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Jeolojide 'karstik' arazi yapısı hangi kayaç türünde gelişir?",
+    "explanation": "Karstik araziler, kireçtaşında (kalker) suyun çözünmesiyle oluşan mağaralar ve sarkıt/speleot yapılarıyla karakterizedir.",
+    "options": [
+      "Granit",
+      "Marmara/Kireçtaşı",
+      "Obsidyen",
+      "Şist"
+    ],
+    "correctAnswer": "Marmara/Kireçtaşı",
+    "tags": [
+      "karst",
+      "jeomorfoloji",
+      "kayaçlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "545hwvp66",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Jeolojik zaman dilimlerinden 'Kretase' dönemi hangi jeolojik olayla bilinir?",
+    "explanation": "Kretase döneminde (yaklaşık 65 milyon yıl önce) dinosaurusların yok olması ve asteroid çarpışmasıyla ilişkilendirilmiştir.",
+    "options": [
+      "Dinosaursun yok olumu",
+      "İlk mamutların ortaya çıkması",
+      "Granitlerin oluşumu",
+      "Marmaraların çökmüş olması"
+    ],
+    "correctAnswer": "Dinosaursun yok olumu",
+    "tags": [
+      "jeolojik zaman",
+      "dinosaurlar",
+      "Kretase"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wkr07v01e",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "Jeolojide 'metamorfik kayaçlar' hangi koşullar altında oluşur?",
+    "explanation": "Metamorfik kayaçlar, mevcut kayaçların yüksek sıcaklık ve basınç altında dönüşümüyle oluşur.",
+    "options": [
+      "Düşük sıcaklık ve basınç",
+      "Yüksek sıcaklık ve basınç",
+      "Sadece suyun etkisiyle",
+      "Levha hareketi olmadan"
+    ],
+    "correctAnswer": "Yüksek sıcaklık ve basınç",
+    "tags": [
+      "metamorfik kayaçlar",
+      "jeolojik süreçler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lutjsk5zm",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Which layer of the Earth is primarily responsible for generating the planet's magnetic field?",
+    "explanation": "The Earth's magnetic field is generated by the motion of molten iron and nickel in the outer core, through a process called the geodynamo.",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Outer Core",
+      "Inner Core"
+    ],
+    "correctAnswer": "Outer Core",
+    "tags": [
+      "Geology",
+      "Earth Structure",
+      "Magnetism"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "im89qo7r2",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "What type of volcanic rock forms when magma cools rapidly at or near the Earth's surface?",
+    "explanation": "Basalt is a fine-grained volcanic rock that forms when basaltic lava cools quickly at the surface, while granite and gabbro are intrusive rocks.",
+    "options": [
+      "Granite",
+      "Basalt",
+      "Obsidian",
+      "Gabbro"
+    ],
+    "correctAnswer": "Basalt",
+    "tags": [
+      "Geology",
+      "Volcanology",
+      "Rock Types"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qnoi4avf9",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Which geological process describes the slow movement of tectonic plates over time?",
+    "explanation": "Plate tectonics is the overarching theory that describes how Earth's lithosphere is divided into plates that move slowly over time due to mantle convection.",
+    "options": [
+      "Subduction",
+      "Seafloor Spreading",
+      "Plate Tectonics",
+      "Convection"
+    ],
+    "correctAnswer": "Plate Tectonics",
+    "tags": [
+      "Geology",
+      "Tectonics",
+      "Earth Science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ujg0gr3gt",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EASY",
+    "question": "What is the name of the fossil fuel formed from ancient marine microorganisms under heat and pressure?",
+    "explanation": "Oil (petroleum) forms from the decomposition of ancient marine microorganisms like plankton and algae buried in sedimentary rock under heat and pressure.",
+    "options": [
+      "Coal",
+      "Oil",
+      "Natural Gas",
+      "Peat"
+    ],
+    "correctAnswer": "Oil",
+    "tags": [
+      "Geology",
+      "Fossil Fuels",
+      "Sedimentary Rocks"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aiwpwbxwe",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "EXPERT",
+    "question": "Which type of unconformity represents a period where deposition stopped, erosion occurred, and then deposition resumed?",
+    "explanation": "A disconformity is an unconformity between parallel layers of sedimentary rock where deposition was interrupted by erosion or a non-depositional gap.",
+    "options": [
+      "Angular Unconformity",
+      "Disconformity",
+      "Paraconformity",
+      "Nonconformity"
+    ],
+    "correctAnswer": "Disconformity",
+    "tags": [
+      "Geology",
+      "Stratigraphy",
+      "Unconformities"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7fri0upcp",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What is the outermost solid layer of the Earth called?",
+    "explanation": "The crust is the rigid, outer shell of the Earth, primarily composed of silicate rocks.",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Core",
+      "Atmosphere"
+    ],
+    "correctAnswer": "Crust",
+    "tags": [
+      "Geology",
+      "Earth Layers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pidslmy2g",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "Which type of rock is formed from solidified lava?",
+    "explanation": "Igneous rocks result from the cooling and crystallization of molten magma or lava.",
+    "options": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Organic"
+    ],
+    "correctAnswer": "Igneous",
+    "tags": [
+      "Geology",
+      "Rock Types"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oo7ay4qlz",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What drives the movement of tectonic plates?",
+    "explanation": "Mantle convection currents transfer heat and move the tectonic plates over time.",
+    "options": [
+      "Convection currents",
+      "Gravity",
+      "Magnetic fields",
+      "Tidal forces"
+    ],
+    "correctAnswer": "Convection currents",
+    "tags": [
+      "Geology",
+      "Plate Tectonics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6u1goeg40",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What do fossils primarily provide evidence for?",
+    "explanation": "Fossils offer insights into past life forms, climate changes, and extinction events over geological time.",
+    "options": [
+      "Evolution of life",
+      "Climate change",
+      "Extinction events",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "tags": [
+      "Geology",
+      "Fossils"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iqqjawyow",
+    "category": "BİLİM",
+    "subcategory": "Jeoloji",
+    "difficulty": "GENERAL",
+    "question": "What is the main cause of most earthquakes?",
+    "explanation": "Most earthquakes occur due to stress release from tectonic plates shifting along faults.",
+    "options": [
+      "Tectonic plate movement",
+      "Volcanic activity",
+      "Human excavation",
+      "Asteroid impacts"
+    ],
+    "correctAnswer": "Tectonic plate movement",
+    "tags": [
+      "Geology",
+      "Earthquakes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

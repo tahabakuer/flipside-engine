@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "qrq1wm68q",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı'nın (II. Dünya Savaşı) başlangıç tarihi olarak kabul edilen olay nedir?",
+    "explanation": "Dünya Savaşı 1 Eylül 1939 tarihinde Almanya'nın Polonya'yı işgal etmesiyle başlamıştır. Bu olay, İngiltere ve Fransa'nın Hitler'e savaş ilan etmesine neden olmuştur.",
+    "options": [
+      "Polonya'nın işgali",
+      "Fransa'nın teslimi",
+      "Stalingrad Muharebesi",
+      "Normandiya İnişi"
+    ],
+    "correctAnswer": "Polonya'nın işgali",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Başlangıç Tarihi",
+      "1939"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "grrhb04xk",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Stalingrad Muharebesi hangi yıl gerçekleşmiştir?",
+    "explanation": "Stalingrad Muharebesi 17 Ağustos 1942'den 2 Şubat 1943'e kadar devam etmiştir. Bu muharebe, II. Dünya Savaşı'nın dönüm noktası kabul edilir.",
+    "options": [
+      "1942-1943",
+      "1940-1941",
+      "1944-1945",
+      "1938-1939"
+    ],
+    "correctAnswer": "1942-1943",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Stalingrad",
+      "Doğu Cephesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0r9alqjii",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Normandiya İnişi (D-Day) tarihinde Normandiya'ya yapılan operasyonun adı nedir?",
+    "explanation": "6 Haziran 1944 tarihinde ABD, İngiltere ve Kanada'nın işbirliğiyle yapılan Normandiya İnişi operasyonunun adı 'Büyük Hareket' (Operation Overlord)'dir.",
+    "options": [
+      "Büyük Hareket",
+      "Savaş Başlangıcı",
+      "Asgari Operasyon",
+      "Toprak Hakkı"
+    ],
+    "correctAnswer": "Büyük Hareket",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Normandiya İnişi",
+      "Batı Cephesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n78juwct6",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "II. Dünya Savaşı'nın Avrupa'daki sonu hangi olayla işaretlenmiştir?",
+    "explanation": "8 Mayıs 1945 tarihinde Berlin'in Sovyetler Birliği tarafından alınmasıyla II. Dünya Savaşı Avrupa'da sona ermiştir. Bu tarihe 'Kasaba Günü' denmektedir.",
+    "options": [
+      "Berlin'in düşmesi",
+      "Tutunma Operasyonu",
+      "Hiroşima bombalanması",
+      "Sovyetler Birliği'nin yenilgisi"
+    ],
+    "correctAnswer": "Berlin'in düşmesi",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Avrupa Cephesi",
+      "1945"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xkkjgp112",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Hiroşima ve Nagazaki şehirlerine atılan atom bombaları hangi ülke tarafından kullanılmıştır?",
+    "explanation": "6 Ağustos 1945 Hiroşima, 9 Ağustos 1945 Nagazaki şehirlerine ABD tarafından atom bombaları atılmıştır. Bu olay Japonya'nın teslimine neden olmuştur.",
+    "options": [
+      "Almanya",
+      "Büyük Britanya",
+      "Sovyetler Birliği",
+      "ABD"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Asya Cephesi",
+      "Atom Bombası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u7b086sey",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı'nın resmi olarak ne zaman başladığı kabul edilir?",
+    "explanation": "Almanya'nın 1 Eylül 1939'da Polonya'ya yaptığı saldırı, Birleşik Milletler örgütü tarafından Dünya Savaşı'nın resmi başlangıcı kabul edilir.",
+    "options": [
+      "1 Eylül 1939 - Almanya'nın Polonya'yı işgali",
+      "15 Mart 1940 - Fransa'na saldırının başlaması",
+      "7 Mayıs 1941 - Yunanistan'a saldırı",
+      "8 Ağustos 1945 - Hiroşima'ya atom bombası"
+    ],
+    "correctAnswer": "1 Eylül 1939 - Almanya'nın Polonya'yı işgali",
+    "tags": [
+      "Dünya Savaşı",
+      "Tarih",
+      "Başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c93o7ourx",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı sırasında hangi ülke 'Eksen Güçleri' (Axis Powers) olarak adlandırılmıştır?",
+    "explanation": "Eksen Güçleri olarak bilinen üç büyük devlet Almanya, İtalya ve Japonya'dır. Bu ülkeler 1940'ta Roma-Berlin-Tokyo Antlaşması ile ittifak kurmuşlardır.",
+    "options": [
+      "Almanya, İtalya ve Japonya",
+      "Almanya, İngiltere ve Fransa",
+      "Rusya, Amerika ve Kanada",
+      "İspanya, Portekiz ve Yunanistan"
+    ],
+    "correctAnswer": "Almanya, İtalya ve Japonya",
+    "tags": [
+      "Dünya Savaşı",
+      "Tarih",
+      "Eksen Güçleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ulbu6zmb9",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı'nın kuzey Afrika cephesindeki Stalingrad Muharebesi ne zaman gerçekleşmiştir?",
+    "explanation": "Stalingrad Muharebesi (aslında Stalingrad'da değil, kuzey Afrika cephinde değil) 1942-1943 yılları arasında gerçekleşmiş ve Eksen Güçleri için dönüm noktası olmuştur.",
+    "options": [
+      "1942-1943",
+      "1940-1941",
+      "1944-1945",
+      "1939-1940"
+    ],
+    "correctAnswer": "1942-1943",
+    "tags": [
+      "Dünya Savaşı",
+      "Tarih",
+      "Muharebeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gxo964lpk",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı'nın bitişinde hangi olaylar Hiroşima ve Nagazaki'ye atom bombası atılmasını takip etmiştir?",
+    "explanation": "ABD'nin ilk olarak Hiroşima'ya 8 Ağustos, daha sonra Nagazaki'ye 9 Ağustos 1945'te atom bombası atması Japonya'nın teslim olmasını sağlamıştır.",
+    "options": [
+      "8 Ağustos 1945 - Hiroşima, 9 Ağustos 1945 - Nagazaki",
+      "6 Haziran 1944 - Normandiya inişi",
+      "23 Mart 1945 - Almanya'nın teslimi",
+      "1 Mayıs 1946 - Potsdam Konferansı"
+    ],
+    "correctAnswer": "8 Ağustos 1945 - Hiroşima, 9 Ağustos 1945 - Nagazaki",
+    "tags": [
+      "Dünya Savaşı",
+      "Tarih",
+      "Bitiş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xxlqbd7n4",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı sırasında hangi konferans 'Büyük Üçlü' (Roosevelt, Churchill, Stalin) tarafından düzenlenmiştir?",
+    "explanation": "Yalta Konferansı (Şubat 1945) Roosevelt, Churchill ve Stalin tarafından düzenlenmiş olup, savaşın sonlanması ve Avrupa'nın paylaşılması konusunda anlaşma sağlanmıştır.",
+    "options": [
+      "Yalta Konferansı",
+      "Potsdam Konferansı",
+      "Münih Antlaşması",
+      "Versay Antlaşması"
+    ],
+    "correctAnswer": "Yalta Konferansı",
+    "tags": [
+      "Dünya Savaşı",
+      "Tarih",
+      "Konferanslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cyfhwiln2",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı'nın başlangıç tarihini hangi olayla birlikte kabul ederiz?",
+    "explanation": "Dünya Savaşı resmi olarak 1 Eylül 1939'da Almanya'nın Polonya'ya saldırısı ile başlamıştır. Bu olaydan sonra İngiltere ve Fransa da Almanya'ya karşı savaş ilan etmiştir.",
+    "options": [
+      "1939 yılında Almanya'nın Polonya'ya saldırısı",
+      "1941 yılında Sovyetler Birliği'ne saldırısı",
+      "1938 yılında Avusturya'nın Almanya'ya bağlanması",
+      "1940 yılında Fransa'nın düşmesi"
+    ],
+    "correctAnswer": "1939 yılında Almanya'nın Polonya'ya saldırısı",
+    "tags": [
+      "Dünya Savaşı",
+      "Başlangıç Tarihi",
+      "1939"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z513tzt27",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı sırasında kurulan 'Birleşmiş Milletler Öncesi' uluslararası örgüt hangisidir?",
+    "explanation": "Birinci Dünya Savaşı sonrası kurulan Versailles Antlaşması ile uluslararası bir düzen oluşmuştur. İkinci Dünya Savaşı sırasında ise bu antlaşma sisteminden hareket edilerek Lozan Konferansı gibi önemli toplantılar yapılmıştır.",
+    "options": [
+      "Londra Barışı",
+      "Versay Antlaşması",
+      "Lozan Antlaşması",
+      "Monrö Doktrini"
+    ],
+    "correctAnswer": "Versay Antlaşması",
+    "tags": [
+      "Dünya Savaşı",
+      "Uluslararası Örgüt",
+      "Versay Antlaşması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o6xsvtgs6",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Dünya Savaşı'nın sona ermesinde Japonların teslim olmasını hangi olay tetiklemiştir?",
+    "explanation": "Dünya Savaşı'nın sona ermesinde ABD'nin Japonlara atom bombası atması (Hiroşima ve Nagasaki) önemli bir rol oynamıştır. Bu olaylar Japonya'nın teslim olması sürecini hızlandırmıştır.",
+    "options": [
+      "Manhattan Projesi'nde atom bombası",
+      "Hibiki operasyonu",
+      "Manila bombardımanı",
+      "Seymur adasının işgali"
+    ],
+    "correctAnswer": "Manhattan Projesi'nde atom bombası",
+    "tags": [
+      "Dünya Savaşı",
+      "Japonya",
+      "Atom Bombası",
+      "1945"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hgqgvf7ph",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı sırasında Almanya ile hangi ülke arasında 'Molotov-Ribbentrop Paktı' imzalanmıştır?",
+    "explanation": "1939 yılında Almanya ile Sovyetler Birliği arasında imzalanan 'Molotov-Ribbentrop Paktı' (Sakız Antlaşması) İkinci Dünya Savaşı'nın başlangıcında önemli bir rol oynamıştır. Bu paktla Polonya'yı bölüşme kararı alınmıştır.",
+    "options": [
+      "Sovyetler Birliği",
+      "İngiltere",
+      "Fransa",
+      "Polonya"
+    ],
+    "correctAnswer": "Sovyetler Birliği",
+    "tags": [
+      "Dünya Savaşı",
+      "Almanya-Sovyet",
+      "Molotov-Ribbentrop"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2i9si60k5",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Dünya Savaşı sırasında kurulan 'Tarih-II' kapsamında hangi konferanslar düzenlenmiştir?",
+    "explanation": "Dünya Savaşı sırasında Casablanca (1943), Teheran (1943) ve Yalta (1945) Konferansları düzenlenmiştir. Bu konferanslar savaşın sona ermesinde ve Avrupa'nın yeniden şekillenmesinde önemli rol oynamıştır.",
+    "options": [
+      "Casablanca, Teheran, Yalta Konferansları",
+      "Versay, Trianon, Lozan Konferansları",
+      "Paris, Londra, Berlin Zirveleri",
+      "Moskova, Kiev, Minsk Toplantıları"
+    ],
+    "correctAnswer": "Casablanca, Teheran, Yalta Konferansları",
+    "tags": [
+      "Dünya Savaşı",
+      "Konferanslar",
+      "Savaş Sonrası Düzenleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "27hiji5xs",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "II. Dünya Savaşı'nda Fransa'nın işgali ve düşmesi hangi yıl gerçekleşmiştir?",
+    "explanation": "II. Dünya Savaşı'nda Almanya, 1940 yılında Fransa'yı işgal etmiş ve Fransa savaştan çekilerek savaşın sona ermesinde rol oynamıştır.",
+    "options": [
+      "1939",
+      "1940",
+      "1941",
+      "1942"
+    ],
+    "correctAnswer": "1940",
+    "tags": [
+      "Fransa",
+      "Hitler",
+      "İşgal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lw03phpfc",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Amerika Birleşik Devletleri'nin II. Dünya Savaşı'na girişini sağlayan olay hangisidir?",
+    "explanation": "1941 yılında Japonya'nın Pearl Harbor'a gerçekleştirdiği saldırı sonucu ABD, II. Dünya Savaşı'na resmen girişmiştir.",
+    "options": [
+      "Pearl Harbor Bombardımanı",
+      "D-Day İstilası",
+      "Stalingrad Muharebesi",
+      "Nükleer Patlamalar"
+    ],
+    "correctAnswer": "Pearl Harbor Bombardımanı",
+    "tags": [
+      "ABD",
+      "Japonya",
+      "Pearl Harbor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e42qgg06j",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Sovyetler Birliği ile Almanya arasında gerçekleşen en önemli muharebelerden biri hangisidir?",
+    "explanation": "Stalingrad Muharebesi (1942-1943), II. Dünya Savaşı'nın dönüm noktası olarak kabul edilir ve Sovyetler'in zaferi Almanya'yı geri çekilmeye zorlamıştır.",
+    "options": [
+      "Stalingrad",
+      "Normandiya",
+      "Berlin",
+      "Moskova"
+    ],
+    "correctAnswer": "Stalingrad",
+    "tags": [
+      "Sovyetler Birliği",
+      "Almanya",
+      "Stalingrad"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uyzq1kv4z",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Almanların Normandiya'ya yaptığı deniz işgali D-Day olarak adlandırılır. Bu olay hangi yılda gerçekleşmiştir?",
+    "explanation": "6 Haziran 1944 tarihinde ABD, İngiltere ve diğer müttefik güçler Normandiya'ya denizden işgal etmiş, bu D-Day olarak adlandırılır.",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1942"
+    ],
+    "correctAnswer": "1944",
+    "tags": [
+      "Normandiya",
+      "Almanya",
+      "D-Day"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "doiqi10r9",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "II. Dünya Savaşı sırasında Yahudi halkına karşı yapılan sistematik soykırıma ne ad verilir?",
+    "explanation": "II. Dünya Savaşı sırasında Nazi Almanyası tarafından Yahudi halkına karşı gerçekleştirilen sistematik soykırıma 'Holocaust' (Şoah) adı verilmiştir.",
+    "options": [
+      "Holocaust",
+      "Genocid",
+      "Etnik Temizlik",
+      "Irkatlı Kışlar"
+    ],
+    "correctAnswer": "Holocaust",
+    "tags": [
+      "Yahudiler",
+      "Soykırım",
+      "Holocaust"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hfrfnqwpp",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı sırasında Fransa'nın başbakanı kimdir?",
+    "explanation": "Dünya Savaşı sırasında Fransa'nın başbakanı Georges Clemenceau'dur. O savaşta İtilaf devletlerinde önemli bir rol oynamıştır.",
+    "options": [
+      "Georges Clemenceau",
+      "Winston Churchill",
+      "David Lloyd George",
+      "Gustav Stresemann"
+    ],
+    "correctAnswer": "Georges Clemenceau",
+    "tags": [
+      "Dünya Savaşı",
+      "Fransa",
+      "Başbakan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "exvh3e5zf",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "II. Dünya Savaşı'nın resmi olarak başladığı tarih hangisidir?",
+    "explanation": "Almanya'nın Polonya'ya saldırmasıyla II. Dünya Savaşı resmi olarak 1 Eylül 1939 tarihinde başlamıştır.",
+    "options": [
+      "1 Eylül 1939",
+      "10 Haziran 1941",
+      "22 Haziran 1941",
+      "6 Haziran 1944"
+    ],
+    "correctAnswer": "1 Eylül 1939",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Tarih",
+      "Başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ffaapt0ct",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "II. Dünya Savaşı'nın hangi savaşla sona erdiği kabul edilir?",
+    "explanation": "ABD'nin Hiroşima ve Nagazaki'ye atom bombası atmasıyla II. Dünya Savaşı sona ermiştir (1945).",
+    "options": [
+      "Manchurya Savaşı",
+      "Tokiyo Savaşı",
+      "Hiroşima ve Nagazaki Bombardımanları",
+      "Berlin Savaşı"
+    ],
+    "correctAnswer": "Hiroşima ve Nagazaki Bombardımanları",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Bitiş",
+      "Japonya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9t3s71aj9",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "II. Dünya Savaşı'nda Sovyetler Birliği ile Almanya arasında imzalanan antlaşma hangisidir?",
+    "explanation": "Molotov-Ribbentrop Paktı (Nazi-Sovyet Antlaşması) 1939 yılında imzalanmıştır.",
+    "options": [
+      "Versay Antlaşması",
+      "Nazi-Sovyet Antlaşması",
+      "Paktlaşması",
+      "Tarihsel Antlaşma"
+    ],
+    "correctAnswer": "Nazi-Sovyet Antlaşması",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Almanya",
+      "Sovyetler Birliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bsobggdku",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "II. Dünya Savaşı'nda D-Day olarak bilinen Normandiya İskânının tarihi nedir?",
+    "explanation": "D-Day olarak bilinen Normandiya İskânı 6 Haziran 1944 tarihinde gerçekleşmiştir.",
+    "options": [
+      "5 Mayıs 1944",
+      "6 Haziran 1944",
+      "20 Temmuz 1944",
+      "8 Eylül 1944"
+    ],
+    "correctAnswer": "6 Haziran 1944",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Normandiya",
+      "İskân"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fn7td53wo",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "II. Dünya Savaşı'nda hangi şehirler atom bombası ile vurulmuştur?",
+    "explanation": "ABD, Hiroşima'ya ilk atom bombasını 6 Ağustos 1945'te ve Nagazaki'ye ikinci bombayı 9 Ağustos 1945'te atmıştır.",
+    "options": [
+      "Berlin ve Paris",
+      "Hiroşima ve Nagazaki",
+      "Tokyo ve Seul",
+      "Budapeşte ve Varşova"
+    ],
+    "correctAnswer": "Hiroşima ve Nagazaki",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Atom Bombası",
+      "Japonya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v7hseu1fa",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı'nın resmi olarak ne zaman sona ermiştir?",
+    "explanation": "Dünya Savaşı'nın Avrupa'da sona ermesi 8 Mayıs 1945'te Almanya'nun teslimiyetiyle gerçekleşti. Ancak savaş resmi olarak 2 Eylül 1945'te Japonya'nın teslimiyetiyle tamamen sona ermiştir.",
+    "options": [
+      "1943 yılının Mayıs ayı",
+      "1945 yılının Mayıs ayı",
+      "1945 yılının Ağustos ayı",
+      "1946 yılının Şubat ayı"
+    ],
+    "correctAnswer": "1945 yılının Mayıs ayı",
+    "tags": [
+      "Dünya Savaşı",
+      "Tarih",
+      "İkinci Dünya Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rxosj6cae",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "D-Day (Pütünlü Saldırısı) hangi tarihte gerçekleştirilmiştir?",
+    "explanation": "D-Day olarak bilinen Normandiya Açılış Saldırısı, 6 Haziran 1944 tarihinde gerçekleşti ve müttefik güçlerin Avrupa'ya karadan çıkışını sağladı.",
+    "options": [
+      "6 Haziran 1943",
+      "6 Haziran 1944",
+      "20 Temmuz 1944",
+      "8 Ağustos 1945"
+    ],
+    "correctAnswer": "6 Haziran 1944",
+    "tags": [
+      "D-Day",
+      "Normandiya Saldırısı",
+      "Dünya Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8mrmvyhvr",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Yalta Konferansı hangi şehirde düzenlenmiştir?",
+    "explanation": "Yalta Konferansı, 4-11 Şubat 1945 tarihleri arasında Soğuk İklimde (Kırım Yarımadası'ndaki) Yalta kentinde düzenlendi ve müttefik devletlerin son kararlarını aldı.",
+    "options": [
+      "London",
+      "Paris",
+      "Moskova",
+      "Washington"
+    ],
+    "correctAnswer": "Moskova",
+    "tags": [
+      "Yalta Konferansı",
+      "Müttefik Konferansları",
+      "Dünya Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ikljt51u1",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Manhattan Projesi'nin amacı nedir?",
+    "explanation": "Manhattan Projesi, İkinci Dünya Savaşı'nda ABD'nin atom bombası geliştirmek için yürüttüğü gizli bir araştırma programıydı ve Hiroşima ile Nagazaki'de kullanılan bomba üretildi.",
+    "options": [
+      "Atom bombasının geliştirilmesi",
+      "Uçak motoru teknolojisi",
+      "Radar sistemleri",
+      "Gemi silahları"
+    ],
+    "correctAnswer": "Atom bombasının geliştirilmesi",
+    "tags": [
+      "Manhattan Projesi",
+      "Nükleer Silahlar",
+      "Dünya Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2urtohf9",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Hiroşima'ya atılan ilk atom bombasının tarihi nedir?",
+    "explanation": "Hiroşima'ya 'Little Boy' adlı atom bombası 6 Ağustos 1945'te atıldı. İkinci bir bomba Nagazaki'ye 9 Ağustos 1945'te atıldı ve Japonya teslim oldu.",
+    "options": [
+      "6 Ağustos 1945",
+      "8 Ağustos 1945",
+      "9 Ağustos 1945",
+      "15 Ağustos 1945"
+    ],
+    "correctAnswer": "6 Ağustos 1945",
+    "tags": [
+      "Atom Bombası",
+      "Hiroşima",
+      "Dünya Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8jb0o6fyd",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "II. Dünya Savaşı'nın Avrupa'da başlatılması için hangi olay gerçekleşmiştir?",
+    "explanation": "II. Dünya Savaşı'nın 1 Eylül 1939'da Hitler'in Polonya'yı işgal etmesiyle başlaması, Avrupa'daki savaşın başlangıcı olarak kabul edilir.",
+    "options": [
+      "Hitler'in Romanya'ya saldırmak için hazırlıkları",
+      "Hitler'in Polonya'yı işgal etmek için harekete geçmesi",
+      "Hitler'in Fransa'yı işgal etmek için planları",
+      "Hitler'in İngiltere'ye bombalama saldırıları"
+    ],
+    "correctAnswer": "Hitler'in Polonya'yı işgal etmek için harekete geçmesi",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Avrupa",
+      "Polonya İşgali"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v63c5uez1",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Hitler'in SSCB'ye karşı açtığı büyük saldırının adı nedir?",
+    "explanation": "Hitler'in 22 Haziran 1941'de SSCB'ye karşı açtığı Barbarossa operasyonu, II. Dünya Savaşı'nın en büyük kara savaşlarından biridir.",
+    "options": [
+      "Operation Barbarossa",
+      "Operation Overlord",
+      "Operation Sea Lion",
+      "Operation Torch"
+    ],
+    "correctAnswer": "Operation Barbarossa",
+    "tags": [
+      "II. Dünya Savaşı",
+      "SSCB",
+      "Barbarossa Operasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "829g954ja",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "II. Dünya Savaşı sırasında Yahudi topluluklarına karşı gerçekleştirilen sistematik katliama ne ad verilir?",
+    "explanation": "Holokost, Nazi Almanyası'nın Yahudi topluluklarına karşı gerçekleştirdiği sistematik katliama verilen isimdir.",
+    "options": [
+      "Holokost",
+      "Genosid",
+      "Şoah",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Holokost",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Holokost",
+      "Katliam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hau3cb4as",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Batı Avrupa'daki II. Dünya Savaşı'na son veren büyük operasyonun adı nedir?",
+    "explanation": "6 Haziran 1944'te gerçekleşen D-Day (Normandiya İstiliği), Batı Avrupa'daki II. Dünya Savaşı'na son veren büyük operasyondur.",
+    "options": [
+      "D-Day",
+      "Operation Market Garden",
+      "Operation Bagration",
+      "Operation Uranus"
+    ],
+    "correctAnswer": "D-Day",
+    "tags": [
+      "II. Dünya Savaşı",
+      "D-Day",
+      "Normandiya İstiliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "82isrdz0z",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "II. Dünya Savaşı'nın Pasifik Cephede nasıl sonuçlandığı ile ilgili doğru bilgi hangisidir?",
+    "explanation": "II. Dünya Savaşı Pasifik Cephede ABD'nin Hiroşima ve Nagazaki'ye atom bombası atmasıyla sonuçlandı, bu da Japonya'nın teslim olmasına neden oldu.",
+    "options": [
+      "Japonya'nın ABD'ye karşı zaferi",
+      "ABD'nin Japonya'ya nükleer bomba atması",
+      "Sovyetlerin Japonya'ya saldırısı",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "ABD'nin Japonya'ya nükleer bomba atması",
+    "tags": [
+      "II. Dünya Savaşı",
+      "Pasifik Cephesi",
+      "Nükleer Bomba"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rtq28pk1e",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı'nın başladığı yıl hangisidir?",
+    "explanation": "Dünya Savaşı Almanya'nın 1 Eylül 1939'da Polonya'yı işgaliyle başlamıştır. Bu olay, savaşın resmen başlangıcı olarak kabul edilir.",
+    "options": [
+      "1935",
+      "1938",
+      "1939",
+      "1940"
+    ],
+    "correctAnswer": "1939",
+    "tags": [
+      "Dünya Savaşı",
+      "Tarih",
+      "Başlangıç Yılı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ztxacv27y",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Savaşın sona erdiği tarih ve yıl hangisidir?",
+    "explanation": "Savaş Batı Cephesinde 8 Mayıs 1945'te (V-E Günü) sona ermiştir. Doğu Cephesi ise Almanya'nın teslimiyetiyle 2-7 Mayıs arası kapanmıştır.",
+    "options": [
+      "1 Mayıs 1945",
+      "8 Mayıs 1945",
+      "2 Eylül 1945",
+      "1 Ocak 1946"
+    ],
+    "correctAnswer": "8 Mayıs 1945",
+    "tags": [
+      "Dünya Savaşı",
+      "Savaşın Sonu",
+      "V-E Günü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zpiomv391",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki devletlerden hangisi Kapanış Anlaşması imzalamamıştır?",
+    "explanation": "Fransa 1940'te işgal edilmiş ve savaş sırasında aktif bir katılımcı olarak Kapanış Anlaşması imzalamamıştır. Almanya, İtalya ve Japonya ise anlaşma imzalayan devletlerdir.",
+    "options": [
+      "Almanya",
+      "İtalya",
+      "Japonya",
+      "Fransa"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "Dünya Savaşı",
+      "Antlaşma Devletleri",
+      "Fransa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ee86zjjoe",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Dünya Savaşı'nda hangi cephe daha uzun sürede işgal edilmiştir?",
+    "explanation": "Doğu Cephesi (Almanya-Rusya) 1939-1945 arası tam 6 yıl işgal edilmiştir. Batı Cephesi ise daha kısa sürede sona ermiştir.",
+    "options": [
+      "Batı Cephesi",
+      "Doğu Cephesi",
+      "Kuzey Afrika Cephesi",
+      "Pasifik Cephesi"
+    ],
+    "correctAnswer": "Doğu Cephesi",
+    "tags": [
+      "Dünya Savaşı",
+      "Cephe İşgali",
+      "Almanya-Rusya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h45ktssx0",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı sırasında hangi atom bombası kullanılmıştır?",
+    "explanation": "8 Ağustos 1945'te Hiroşima'ya ilk atom bombası atılmış, 9 Ağustos'ta Nagazaki'ye ikinci atom bombası düşmüştür.",
+    "options": [
+      "Manhattan",
+      "Hiroşima",
+      "Nagazaki",
+      "Tokyo"
+    ],
+    "correctAnswer": "Hiroşima",
+    "tags": [
+      "Dünya Savaşı",
+      "Atom Bombası",
+      "Japonya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5g3bpodbp",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "II. Dünya Savaşı'nın resmi olarak başladığı tarih aşağıdakilerden hangisidir?",
+    "explanation": "II. Dünya Savaşı, 1 Eylül 1939'da Almanya'nın Polonya'yı işgal etmesiyle başlamıştır.",
+    "options": [
+      "1 Eylül 1939",
+      "22 Haziran 1941",
+      "6 Haziran 1944",
+      "8 Mayıs 1945"
+    ],
+    "correctAnswer": "1 Eylül 1939",
+    "tags": [
+      "Tarih",
+      "Dünya Savaşı",
+      "II. Dünya Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2n9x7vn10",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Normandiya İşlemi (D-Day) hangi yıl gerçekleşmiştir?",
+    "explanation": "Normandiya İşlemi, 6 Haziran 1944'te Alians güçlerinin Avrupa kıtasına çıkışıyla gerçekleşmiştir.",
+    "options": [
+      "1942",
+      "1943",
+      "1944",
+      "1945"
+    ],
+    "correctAnswer": "1944",
+    "tags": [
+      "Tarih",
+      "Dünya Savaşı",
+      "Normandiya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q5dpgdnqq",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "II. Dünya Savaşı sırasında Yahudiler tarafından gerçekleştirilen sistematik katliamın adı nedir?",
+    "explanation": "II. Dünya Savaşı sırasında Nazi Almanyası tarafından sistematik olarak gerçekleştirilen Yahudi katliamına Holokost denilmektedir.",
+    "options": [
+      "Yahudi Soykırımı",
+      "Holokost",
+      "Polonyo Katliamı",
+      "Almanya İşgali"
+    ],
+    "correctAnswer": "Holokost",
+    "tags": [
+      "Tarih",
+      "Dünya Savaşı",
+      "Holokost"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qq5x2hddu",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "II. Dünya Savaşı'nın Avrupa'da son bulduğu tarih aşağıdakilerden hangisidir?",
+    "explanation": "II. Dünya Savaşı'nın Avrupa'daki kısmı, Almanya'nın teslim olmasıyla 8 Mayıs 1945'te son bulmuştur.",
+    "options": [
+      "7 Mayıs 1945",
+      "8 Mayıs 1945",
+      "9 Mayıs 1945",
+      "2 Eylül 1945"
+    ],
+    "correctAnswer": "8 Mayıs 1945",
+    "tags": [
+      "Tarih",
+      "Dünya Savaşı",
+      "Savaşın Sonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ycvqkpnzv",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "İngiltere'den Polonya'yı kurtarmak amacıyla oluşturulan Operasyonun adı nedir?",
+    "explanation": "Operation Market Garden, II. Dünya Savaşı'nda Alians güçlerinin Hollanda'da Polonya'ya doğru ilerlemesi amacıyla düzenlenen operasyondur.",
+    "options": [
+      "Barbarossa",
+      "Falaise",
+      "Mertek",
+      "Market Garden"
+    ],
+    "correctAnswer": "Market Garden",
+    "tags": [
+      "Tarih",
+      "Dünya Savaşı",
+      "Operasyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5mxhvcvm",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "İkinci Dünya Savaşı'nın başlangıç tarihi olarak kabul edilen olay nedir?",
+    "explanation": "İkinci Dünya Savaşı 1 Eylül 1939'da Almanya'nın Polonya'yı işgal etmesiyle resmen başlamıştır.",
+    "options": [
+      "Polonya'nın işgali",
+      "Fransa'nın yenilmesi",
+      "Stalingrad Muharebesi",
+      "Normandiya İni"
+    ],
+    "correctAnswer": "Polonya'nın işgali",
+    "tags": [
+      "Dünya Savaşı",
+      "Başlangıç",
+      "1939"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cx8o2m9q4",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Hangi yıl Normandiya İni operasyonu gerçekleşmiştir?",
+    "explanation": "6 Haziran 1944 tarihinde, müttefik güçler Fransa'nın kuzeyindeki Normandiya bölgesine iniş yapmıştır.",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1942"
+    ],
+    "correctAnswer": "1944",
+    "tags": [
+      "Dünya Savaşı",
+      "Normandiya İni",
+      "1944"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gw0f7c1pc",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Daha sonra 'Almanya'nın kapılarından biri' olarak anılan hangi şehir savaştan hemen sonra işgal edilmiştir?",
+    "explanation": "Mayıs 1945'te müttefik güçler Berlin'i ele geçirmiş ve bu, Almanya'nın yenilgisi anlamına gelmiştir.",
+    "options": [
+      "Berlin",
+      "Praga",
+      "Budapeşte",
+      "Viyana"
+    ],
+    "correctAnswer": "Berlin",
+    "tags": [
+      "Dünya Savaşı",
+      "Almanya",
+      "Savaşın Sonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fcsj3dx8l",
+    "category": "TARİH",
+    "subcategory": "II. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "İkinci Dünya Savaşı sırasında gerçekleşen en büyük katliam hangisidir?",
+    "explanation": "Almanya ve işbirlikçi güçler tarafından yaklaşık 6 milyon Yahudi'nin sistematik olarak öldürülmesi Holokost olarak bilinir.",
+    "options": [
+      "Yahudi Soykırımı (Holokost)",
+      "Stalingrad Katliamı",
+      "Paris Katliamı",
+      "Moskova Katliamı"
+    ],
+    "correctAnswer": "Yahudi Soykırımı (Holokost)",
+    "tags": [
+      "Dünya Savaşı",
+      "Holokost",
+      "Katliamlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

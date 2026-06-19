@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "w2lym1pyg",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük çölü aşağıdakilerden hangisidir?",
+    "explanation": "Saara Çölü, dünyanın en büyük sıcak çölüdür ve Afrika kıtasında yer alır. Yüz ölçümü yaklaşık 9.2 milyon km²'dir.",
+    "options": [
+      "Saara Çölü",
+      "Arabistan Çölü",
+      "Gobi Çölü",
+      "Antarktika"
+    ],
+    "correctAnswer": "Saara Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nzf3s6km9",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de en çok görülen çöl tipi hangisidir?",
+    "explanation": "Türkiye'de Konya Ovası gibi bölgelerde yarı çöl (steppe) koşulları görülür. Bu tür çollerde yıllık yağış 200-500 mm arasındadır.",
+    "options": [
+      "Sıcak Çöl",
+      "Soğuk Çöl",
+      "Yarı Çöl",
+      "Aşırı Çöl"
+    ],
+    "correctAnswer": "Yarı Çöl",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fncoal8xi",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Gobi Çölü hangi kıtada yer alır?",
+    "explanation": "Gobi Çölü, Asya kıtasında Çin ve Mongolya sınırları arasında yer alan büyük bir çöldür.",
+    "options": [
+      "Afrika",
+      "Asya",
+      "Avustralya",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "algnwmuwx",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöl ikliminin temel özelliği nedir?",
+    "explanation": "Çöl ikliminin en temel özelliği düşük nemdir. Günlük sıcaklık farkları büyük olur ve yağışlar çok azdır.",
+    "options": [
+      "Yüksek yağış",
+      "Düşük nem",
+      "Soğuk hava",
+      "Bol bitki"
+    ],
+    "correctAnswer": "Düşük nem",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "iklim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pe3ivj0r8",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Antarktika hangi tipteki çöldür?",
+    "explanation": "Antarktika dünyanın en büyük soğuk çölüdür. Sürekli buzullar ve çok düşük sıcaklıklar ile karakterizedir.",
+    "options": [
+      "Sıcak Çöl",
+      "Soğuk Çöl",
+      "Yarı Çöl",
+      "Akdeniz Çölü"
+    ],
+    "correctAnswer": "Soğuk Çöl",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "antarktika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ct2ibhu7",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Dünyada çöllerin en yaygın olduğu kıtalar nelerdir?",
+    "explanation": "Çöller dünyada en yaygın olarak Asya (Gobi Çölü) ve Afrika (Sahra Çölü) kıtalarında bulunur. Bu bölgeler yüksek sıcaklık ve düşük yağış nedeniyle çölleşmiştir.",
+    "options": [
+      "Asya ve Afrika",
+      "Avrupa ve Güney Amerika",
+      "Okyanusya ve Antarktika",
+      "Kuzey Amerika ve Asya"
+    ],
+    "correctAnswer": "Asya ve Afrika",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "kıtalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "phrz307v9",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Sahra Çölü hangi kıta üzerinde yer alır?",
+    "explanation": "Sahra Çölü dünyanın en büyük sıcak çölüdür ve tamamen Afrika kıtasının kuzey kesimini kaplar. Dünyadaki tüm sahraların yaklaşık %15'ini oluşturur.",
+    "options": [
+      "Asya",
+      "Avustralya",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "sahra"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e9lm3f5ed",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöl bitkilerinin hayatta kalmasını sağlayan özelliği nedir?",
+    "explanation": "Çöl bitkileri genellikle yapraklarını küçültürler veya dikenlere dönüştürerek su buharlaşmasını azaltırlar. Kaktüs gibi bitkilerde su depolama özelliği de bulunur.",
+    "options": [
+      "Uzun kökler",
+      "Yapraklarının su kaybetmemesi",
+      "Hızlı büyüme",
+      "Kış uykusu"
+    ],
+    "correctAnswer": "Yapraklarının su kaybetmemesi",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "bitkiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8io9nq9wb",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Gobi Çölü hangi kıta üzerinde yer alır?",
+    "explanation": "Gobi Çölü Asya kıtasında, Çin ve Moğolistan sınırları arasında yer alır. Kışları çok soğuk, yazları sıcak bir çöldür.",
+    "options": [
+      "Afrika",
+      "Asya",
+      "Avustralya",
+      "Antarktika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "gobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "23uw5h27m",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Çöl topraklarının temel özelliği nedir?",
+    "explanation": "Çöl toprakları aşırı sıcaklık ve düşük yağış nedeniyle yıkanmıştır. Organik madde içeriği çok düşüktür ve kireçli, tuzlu yapıda bulunabilirler.",
+    "options": [
+      "Yüksek mineral içeriği",
+      "Düşek organik madde",
+      "Yüksek pH değeri",
+      "Tuzlu yapı"
+    ],
+    "correctAnswer": "Düşek organik madde",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "toprak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2rydrarz4",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük çölü hangisidir?",
+    "explanation": "Sahra Çölü, Afrika kıtasında yer alan ve yaklaşık 9.2 milyon km² büyüklüğünde dünyanın en büyük sıcak çölüdür.",
+    "options": [
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Antarktika",
+      "Atacama"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "dünya coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "funlsjswg",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Hangi çölde yıllık yağış miktarı 150 mm'nin altındadır?",
+    "explanation": "Atacama Çölü, güney Amerika'da yer alır ve dünyanın en kuru çölüdür. Yıllık yağış ortalama 150 mm'nin altındadır.",
+    "options": [
+      "Kalahari",
+      "Takaraka (Atacama)",
+      "Sahara",
+      "Gobi"
+    ],
+    "correctAnswer": "Takaraka (Atacama)",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "iklim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c4kkzo810",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöl bitkileri hangi özelliğe sahiptir?",
+    "explanation": "Çöl bitkileri su tutmak için derin kök sistemlerine sahiptir. Bazıları su depolayan gövdelere de sahiptir.",
+    "options": [
+      "Geniş yapraklar",
+      "Derin kök sistemleri",
+      "Yeşil gövde",
+      "Su depolayan yapraklar"
+    ],
+    "correctAnswer": "Derin kök sistemleri",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "bitki coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rdwghyb5l",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Hangi çöl Asya kıtasında yer alır?",
+    "explanation": "Gobi Çölü, Asya kıtasında Çin ve Moğolistan sınırlarında yer alan büyük bir çöldür.",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Antarktika",
+      "Kalahari"
+    ],
+    "correctAnswer": "Gobi",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c57w8xloo",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Çöl ikliminin temel özelliği nedir?",
+    "explanation": "Çöl iklimi, gece ile gündüz arasında büyük sıcaklık farklarına sahiptir. Güneş enerjisi yoğun olduğunda çok ısınır, geceleri ise hızlı soğur.",
+    "options": [
+      "Ortalama 100 mm'den fazla yağış",
+      "Gece ile gündüz sıcaklık farkı fazla",
+      "Yüksek nem oranı",
+      "Düzenli yağış"
+    ],
+    "correctAnswer": "Gece ile gündüz sıcaklık farkı fazla",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "iklim",
+      "meteoroloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "si9qkh1xn",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük çölü hangisidir?",
+    "explanation": "Sahra Çölü, Afrika'nın kuzeyinde bulunan ve yaklaşık 9.2 milyon km² alan kaplayan dünyanın en büyük sıcak çölüdür.",
+    "options": [
+      "Sahra Çölü",
+      "Arabistan Çölü",
+      "Gobi Çölü",
+      "Antarktika"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "evh99psu8",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöllerin oluşumunda aşağıdakilerden hangisi etkili değildir?",
+    "explanation": "Çöller doğal olarak yağış azlığı, bitki örtüsü yoksunluğu ve yüksek sıcaklık ile oluşur. Yapay sulama çölleşmeyi önleyen bir uygulamadır.",
+    "options": [
+      "Yüksek sıcaklık",
+      "Nispeten az yağış",
+      "Bitki örtüsü yoksunluğu",
+      "Yapay sulama"
+    ],
+    "correctAnswer": "Yapay sulama",
+    "tags": [
+      "coğrafya",
+      "çöl oluşumu",
+      "iklim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a9ls8u64q",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Hangi çöl Asya kıtasında yer alır?",
+    "explanation": "Gobi Çölü, Çin ve Moğolistan sınırlarında yer alan Asya kıtasındaki önemli çöllerden biridir.",
+    "options": [
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Atacama Çölü",
+      "Kalahari Çölü"
+    ],
+    "correctAnswer": "Gobi Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d5ehvtp1b",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Çöl bitkilerinin en belirgin özelliği nedir?",
+    "explanation": "Çöl bitkileri, sınırlı su kaynağına erişmek için derin kök sistemleri geliştirerek toprağın alt katmanlarından su çekerler.",
+    "options": [
+      "Derin kök sistemleri",
+      "Yaprakların büyük olması",
+      "Hızlı büyüme",
+      "Sulama ihtiyacı"
+    ],
+    "correctAnswer": "Derin kök sistemleri",
+    "tags": [
+      "coğrafya",
+      "bitki örtüsü",
+      "çöl adaptasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsaxposzz",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Antarktika'nın neden bir çöl kabul edildiği nedir?",
+    "explanation": "Antarktika, yılda ortalama 150-250 mm yağış alan dünyanın en kurak bölgesi olarak buzul çöl kabul edilir.",
+    "options": [
+      "Düşük sıcaklık ve az yağış",
+      "Yüksek bitki örtüsü",
+      "Nemli hava koşulları",
+      "Kıyı konumu"
+    ],
+    "correctAnswer": "Düşük sıcaklık ve az yağış",
+    "tags": [
+      "coğrafya",
+      "Antarktika",
+      "çöller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fnq6pvlxt",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en büyük çölü hangisidir?",
+    "explanation": "Sahra Çölü, Afrika kıtasında bulunan ve dünyanın en büyük sıcak çölüdür. Yaklaşık 9 milyon kilometre kare kaplamaktadır.",
+    "options": [
+      "Arabistan Çölü",
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Atacama Çölü"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "coğrafi yapılar",
+      "çöller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o2pwbf64f",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Hangi çöl yılın büyük bir kısmını karla kaplıdır?",
+    "explanation": "Antarktik, dünyanın en büyük çölüdür ve yılın büyük bir kısmını karla kaplıdır. Soğuk çöl olarak sınıflandırılır.",
+    "options": [
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Antarktik",
+      "Atacama Çölü"
+    ],
+    "correctAnswer": "Antarktik",
+    "tags": [
+      "coğrafi yapılar",
+      "çöller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vjif8kglr",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Gobi Çölü hangi kıtada yer alır?",
+    "explanation": "Gobi Çölü, Asya kıtasında Çin ve Moğolistan'ın sınırlarında yer alan soğuk bir çöldür.",
+    "options": [
+      "Afrika",
+      "Asya",
+      "Avustralya",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "coğrafi yapılar",
+      "çöller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iq0d6ilpf",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Atacama Çölü hangi özellik ile bilinir?",
+    "explanation": "Atacama Çölü, dünyanın en kurak bölgesi olarak bilinir ve yılda ortalama 15 milimetre yağış alır.",
+    "options": [
+      "En büyük çöl",
+      "En sıcak çöl",
+      "En kurak çöl",
+      "En yüksek çöl"
+    ],
+    "correctAnswer": "En kurak çöl",
+    "tags": [
+      "coğrafi yapılar",
+      "çöller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hasarn5wj",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Çöllerin oluşmasında en önemli faktör hangisidir?",
+    "explanation": "Çöllerin temel oluşum faktörü yıllık yağış miktarının 250 milimetre altı olmasıdır. Bu da suyun azalması ve bitki örtüsünün seyretmesine neden olur.",
+    "options": [
+      "Toprağın tipi",
+      "Rüzgar hızı",
+      "Yağış eksikliği",
+      "Bitki örtüsü"
+    ],
+    "correctAnswer": "Yağış eksikliği",
+    "tags": [
+      "coğrafi yapılar",
+      "çöller",
+      "jeomorfoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vl1bsjppi",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük çölü hangisidir?",
+    "explanation": "Sahra Çölü, Afrika kıtasında yer alan ve yaklaşık 9 milyon km² büyüklüğünde dünyanın en büyük çölüdür.",
+    "options": [
+      "Arabistan Çöllerı",
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Antarktika"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9i0c4e556",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Hangi çöl Asya kıtasında bulunur?",
+    "explanation": "Gobi Çölü, Çin ve Moğolistan sınırlarında bulunan Asya kıtasının en büyük çöllerinden biridir.",
+    "options": [
+      "Gobi Çölü",
+      "Kalahari Çölü",
+      "Sahara Çölü",
+      "Atacama Çölü"
+    ],
+    "correctAnswer": "Gobi Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2o5eon40l",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöl ikliminin temel özelliği nedir?",
+    "explanation": "Çöl ikliminde günlük sıcaklık farkları çok büyük, gece soğuk gündüz sıcak olur ve yağış çok azdır.",
+    "options": [
+      "Yüksek yağış",
+      "Ortalama sıcaklık 0°C altı",
+      "Düşük nem ve yüksek sıcaklık farkları",
+      "Kar yağışı"
+    ],
+    "correctAnswer": "Düşük nem ve yüksek sıcaklık farkları",
+    "tags": [
+      "coğrafya",
+      "iklim",
+      "çöller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bt3rsfg8s",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de çöl benzeri arazi hangi bölgede daha çok görülür?",
+    "explanation": "İç Anadolu Bölgesi'nde kuraklık ve toprak erozyonu nedeniyle çöl benzeri arazi özellikleri daha belirgindir.",
+    "options": [
+      "Akdeniz",
+      "Karadeniz",
+      "Anadolu İç Anadolu",
+      "Marmara"
+    ],
+    "correctAnswer": "Anadolu İç Anadolu",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "Türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9cnyx04cu",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Sahara Çölü hangi kıtada yer alır?",
+    "explanation": "Sahara Çölü, Afrika kıtasının kuzeyinde yer alan ve geniş bir alan kaplayan çöldür.",
+    "options": [
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Asya"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "kıta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2g8h1edzq",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük çölü aşağıdakilerden hangisidir?",
+    "explanation": "Sahra Çölü, Afrika kıtasında bulunan ve yaklaşık 9 milyon km² alan kaplayan dünyanın en büyük çölüdür.",
+    "options": [
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Antarktika",
+      "Atacama Çölü"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "çöller",
+      "coğrafya",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hbm02mjp4",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Gobi Çölü hangi kıtada yer alır?",
+    "explanation": "Gobi Çölü, Çin'in kuzeybatısında bulunan Asya kıtasındaki bir çöldür.",
+    "options": [
+      "Afrika",
+      "Asya",
+      "Avustralya",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "çöller",
+      "coğrafya",
+      "asiya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "72jrr0qbg",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöl bitkileri su depolama özelliklerine sahip olmalarının temel nedeni nedir?",
+    "explanation": "Çöl bitkileri sınırlı su kaynaklarına sahip olduğu için su depolama mekanizmaları geliştirmişlerdir.",
+    "options": [
+      "Yüksek sıcaklıklara dayanıklılık",
+      "Uzun süreli kuraklığa uyum sağlama",
+      "Hızlı büyüme yeteneği",
+      "Toprak kirliliğine karşı direnç"
+    ],
+    "correctAnswer": "Uzun süreli kuraklığa uyum sağlama",
+    "tags": [
+      "bitkiler",
+      "çöller",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fbknohwuq",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Atacama Çölü hangi ülkenin sınırları içinde bulunur?",
+    "explanation": "Atacama Çölü, Güney Amerika'da Şili'nin sınırları içinde bulunan dünyanın en kurak bölgelerinden biridir.",
+    "options": [
+      "Mısır",
+      "Şili",
+      "Avustralya",
+      "Brezilya"
+    ],
+    "correctAnswer": "Şili",
+    "tags": [
+      "çöller",
+      "coğrafya",
+      "sulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fcteiampu",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Çöl rüzgarları (Sahra Rüzgarı) hangi yöne doğru eser?",
+    "explanation": "Sahra rüzgarları (Harmattan), Sahra çölünden Atlantik okyanusuna doğru, güneyden kuzeye esen sıcak ve kurak rüzgarlardır.",
+    "options": [
+      "Kuzeyden Güney'e",
+      "Batıdan Doğu'ya",
+      "Güneyden Kuzey'e",
+      "Doğudan Batı'ya"
+    ],
+    "correctAnswer": "Güneyden Kuzey'e",
+    "tags": [
+      "çöller",
+      "meteoroloji",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "plfe73ap5",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük çölü hangisidir?",
+    "explanation": "Sahra Çölü, Afrika'nın büyük bir kısmını kaplayan ve dünya yüzeyinin yaklaşık %15'ini oluşturan en büyük çöldür.",
+    "options": [
+      "Sahra Çölü",
+      "Arap Çölü",
+      "Gobi Çölü",
+      "Atacama Çölü"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "dünya",
+      "kıtalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "infiqjuy9",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Hangisi ılıman iklimli bir çöldür?",
+    "explanation": "Gobi Çölü, Asya'da yer alırken ılıman iklimli çöller arasında sınıflandırılır. Kışlar çok soğuk, yazlar ise sıcak geçer.",
+    "options": [
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Çinistan Çölü",
+      "Atacama Çölü"
+    ],
+    "correctAnswer": "Gobi Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "iklim",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cuaitttho",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Sahra Çölü hangi kıtada bulunur?",
+    "explanation": "Sahra Çölü, Afrika kıtasının kuzey ve kuzeybatı bölgelerini kaplar. Dünya'nın en büyük çölüdür.",
+    "options": [
+      "Asya",
+      "Avustralya",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "kıta",
+      "Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b5shmf9gw",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Hangisi yağış almayan bir çöldür?",
+    "explanation": "Atacama Çölü, dünyanın en kuru bölgelerinden biridir ve binlerce yıl yağmur almamıştır.",
+    "options": [
+      "Gobi",
+      "Atacama",
+      "Antarktika",
+      "Sahra"
+    ],
+    "correctAnswer": "Atacama",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "yağış",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ptkei2gk2",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Çin'in Gobi Çölü hangi yörede konumlanmıştır?",
+    "explanation": "Gobi Çölü, Çin'in kuzeybatı ve Moğolistan'ın güney bölgelerini kapsar.",
+    "options": [
+      "Kuzeydoğu",
+      "Güneybatı",
+      "Kuzeybatı",
+      "Doğu"
+    ],
+    "correctAnswer": "Kuzeybatı",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "Çin",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f3ug26qhz",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük çölü hangisidir?",
+    "explanation": "Sahara Çölü, Afrika'nın kuzeyinde yer alan ve yaklaşık 9 milyon km²'ye sahip dünyanın en büyük sıcak çölleridir.",
+    "options": [
+      "A) Sahara Çölü",
+      "B) Antarktika Çölü",
+      "C) Gobi Çölü",
+      "D) Atacama Çölü"
+    ],
+    "correctAnswer": "A) Sahara Çölü",
+    "tags": [
+      "çöller",
+      "coğrafya",
+      "dünya çöllerı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pyust7t5n",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöl ikliminin temel özelliklerinden biri aşağıdakilerden hangisidir?",
+    "explanation": "Çöllerde yıllık yağışlar genellikle 250 mm'nin altındadır ve sıcaklık farkları yüksektir.",
+    "options": [
+      "A) Yüksek nem oranı",
+      "B) Düşük sıcaklık değişimi",
+      "C) Yıllık 500 mm'den fazla yağış",
+      "D) Yüksek sıcaklık ve düşük yağış"
+    ],
+    "correctAnswer": "D) Yüksek sıcaklık ve düşük yağış",
+    "tags": [
+      "iklim",
+      "çöl özellikleri",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m2gi5719j",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de çöl benzeri koşulların görüldüğü bölge hangisidir?",
+    "explanation": "İç Anadolu, özellikle Konya Ovası gibi alanlarda kuraklık ve çöl benzeri iklimsel özellikler görülür.",
+    "options": [
+      "A) Karadeniz Bölgesi",
+      "B) Ege Bölgesi",
+      "C) Akdeniz Bölgesi",
+      "D) İç Anadolu'nun bazı kısımları"
+    ],
+    "correctAnswer": "D) İç Anadolu'nun bazı kısımları",
+    "tags": [
+      "Türkiye coğrafya",
+      "yerel çöl koşulları",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2l9gkf2bw",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöllerde bitki örtüsü nasıl gelişir?",
+    "explanation": "Çöllerde su kaynakları az olduğu için bitkiler kuraklığa dayanıklı (aktik, çamurlu) türlerdir.",
+    "options": [
+      "A) Yoğun ormanlar halinde",
+      "B) Sadece su kenarlarında",
+      "C) Çöl bitkileri (aktik, çamurlu) ve nadir ağaçlar",
+      "D) Çapraz meyve veren bitkiler"
+    ],
+    "correctAnswer": "C) Çöl bitkileri (aktik, çamurlu) ve nadir ağaçlar",
+    "tags": [
+      "bitki örtüsü",
+      "çöl ekosistemi",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bf0w6j4vt",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Hangi çöl soğuk iklim koşullarına sahiptir?",
+    "explanation": "Antarktika, kuzey yarımküre dışında en soğuk çöl olan ve buzul kaplı bir soğuk çöldür.",
+    "options": [
+      "A) Sahara Çölü",
+      "B) Gobi Çölü",
+      "C) Antarktika Çölü",
+      "D) Atacama Çölü"
+    ],
+    "correctAnswer": "C) Antarktika Çölü",
+    "tags": [
+      "soğuk çöller",
+      "dünya coğrafya",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fmna8m7jq",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Afrika'daki çöl bölgesi olarak en büyük çöl hangisidir?",
+    "explanation": "Sahra Çölü, Afrika'nın kuzey kısmında bulunan dünyanın en büyük çölüdür ve yaklaşık 9 milyon kilometrekare kaplar.",
+    "options": [
+      "Arabistan Çölü",
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Atacama Çölü"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6b4spf33x",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Çöl bitki örtüsü için en önemli su kaynağı nedir?",
+    "explanation": "Çöl bölgelerinde yeraltı suları, bitki örtüsü için en kritik su kaynağıdır çünkü yüzey suları genellikle yok veya çok azdır.",
+    "options": [
+      "Yer altı sular",
+      "Yağmur",
+      "Buzullar",
+      "Nehirler"
+    ],
+    "correctAnswer": "Yer altı sular",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "bitkiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hi17zkn7a",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Kuzey Yarımküre'deki en büyük çöl hangisidir?",
+    "explanation": "Antarktika Güney Yarımküre'dedir. Sahra Çölü ise Kuzey Yarımküre'deki en büyük çöldür ve yaklaşık 9 milyon km² kaplar.",
+    "options": [
+      "Antarktika",
+      "Sahra Çölü",
+      "Gobi Çölü",
+      "Çin Çöller"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "kuzey yarımküre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qimgsa85s",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "EXPERT",
+    "question": "Çöl topraklarında asitli yağmurun etkisi neye yol açar?",
+    "explanation": "Çöl topraklarında asitli yağmur ve rüzgar erozyonu, toprak tuzlanmasına ve kireçlenmesine neden olarak bitki örtüsünü zayıflatır.",
+    "options": [
+      "Bitki büyümesi",
+      "Toprak tuzlanması",
+      "Nehirler kuruması",
+      "Volkanik patlamalar"
+    ],
+    "correctAnswer": "Toprak tuzlanması",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "toprak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hfwrzcw1s",
+    "category": "COĞRAFYA",
+    "subcategory": "Çöller",
+    "difficulty": "GENERAL",
+    "question": "Gobi Çölü hangi kıtada bulunur?",
+    "explanation": "Gobi Çölü, Asya kıtasında Çin ve Moğolistan sınırları içinde bulunan büyük bir çöl bölgesidir.",
+    "options": [
+      "Afrika",
+      "Avustralya",
+      "Asya",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "coğrafya",
+      "çöller",
+      "asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

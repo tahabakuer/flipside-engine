@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "hg2ujbv6z",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in en eski imparatorluğu hangisidir?",
+    "explanation": "Şang İmparatorluğu MÖ 1600-1046 yılları arasında hüküm sürmüş ve Çin'in bilinen en eski imparatorluğudur.",
+    "options": [
+      "Han İmparatorluğu",
+      "Şang İmparatorluğu",
+      "Tang İmparatorluğu",
+      "Çou İmparatorluğu"
+    ],
+    "correctAnswer": "Şang İmparatorluğu",
+    "tags": [
+      "çin-tarihi",
+      "impatorluklar",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oknf3430w",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin kültüründe en önemli festival hangisidir?",
+    "explanation": "Lunar Yeni Ay, Çin'in en önemli geleneksel festivalidir ve aile birliği, yeni yıl kutlamaları için yapılır.",
+    "options": [
+      "Tetris Günü",
+      "Yılbaşı",
+      "Tetmiz Festivali",
+      "Lunar Yeni Ay (CNY)"
+    ],
+    "correctAnswer": "Lunar Yeni Ay (CNY)",
+    "tags": [
+      "çin-festival",
+      "gelenekler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ms6lz1xpm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Çin karakterlerinin (Hanzi) kökeni nedir?",
+    "explanation": "Çin karakterleri (Hanzi) piktografik işaretlerden gelmiştir ve ilk olarak nesnelerin şekillerini temsil etmek için kullanılmıştır.",
+    "options": [
+      "Latin alfabesi",
+      "Piktografik işaretler",
+      "Kudretli semboller",
+      "Hiyeroglifler"
+    ],
+    "correctAnswer": "Piktografik işaretler",
+    "tags": [
+      "çin-karakterleri",
+      "hanzi",
+      "yazı-sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s77g3ykac",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in büyük duvarının başlıca amacı nedir?",
+    "explanation": "Çin Büyük Duvarının ana amacı Çin'i dış invazyonlardan korumak ve savunma sistemi olarak kullanılmaktı.",
+    "options": [
+      "Turizm",
+      "Su yolları",
+      "Savunma sistemi",
+      "İmparatorluk sınırları"
+    ],
+    "correctAnswer": "Savunma sistemi",
+    "tags": [
+      "çin-duvarı",
+      "savunma",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qbnbyuk0k",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin kültüründe fil sembolü neyi temsil eder?",
+    "explanation": "Çin kültüründe fil sembolü zenginlik, bilgelik ve uzun yaşamı temsil eder; genellikle yılbaşı hediye olarak verilir.",
+    "options": [
+      "Başarı",
+      "Şans",
+      "Zenginlik, zeki ve uzun yaşam",
+      "Güç"
+    ],
+    "correctAnswer": "Zenginlik, zeki ve uzun yaşam",
+    "tags": [
+      "çin-sembolik",
+      "fil",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "55hatp6ue",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in en bilinen geleneksel festivali ve yılın başlangıcı hangi ayda kutlanır?",
+    "explanation": "Yılın Çin Takvimi'ne göre başlangıcı olan Çin Yeni Yılı, genellikle Şubat ayının ilk on gününde kutlanır ve 15 gün sürer.",
+    "options": [
+      "Şubat",
+      "Mart",
+      "Kasım",
+      "Aralık"
+    ],
+    "correctAnswer": "Şubat",
+    "tags": [
+      "festival",
+      "tarih",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sqv5vtd87",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin felsefesinde 'yin ve yang' kavramı neyi temsil eder?",
+    "explanation": "Yin ve yang, doğadaki tamamlayıcı ve dengeli karşıt güçleri temsil eder; bu kavram Taoizm'in temel öğesidir.",
+    "options": [
+      "Kötü ve iyi",
+      "Beyaz ve siyah",
+      "Dengeleyici karşıt güçler",
+      "Doğru ve yanlış"
+    ],
+    "correctAnswer": "Dengeleyici karşıt güçler",
+    "tags": [
+      "felsefe",
+      "yang-yin",
+      "denge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w5a41fsnz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin kültüründe '8' sayısı neden önemlidir?",
+    "explanation": "Çincede '8' kelimesi ses benzerliğiyle 'zenginlik' anlamına gelir ve bu yüzden iyi şans sembolü olarak kabul edilir.",
+    "options": [
+      "Kötü şans",
+      "Ortalama bir sayı",
+      "İyi şans ve bolluk",
+      "Zenginlik"
+    ],
+    "correctAnswer": "İyi şans ve bolluk",
+    "tags": [
+      "sayılar",
+      "simge",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgoo2r7mx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in eski başkenti ve kültür merkezi olarak bilinen şehir hangisidir?",
+    "explanation": "Beijing, Çin'in başkenti ve çok sayıda tarihi yapı (Yasak Şehir, Büyük Piramit) ile kültür merkezi olarak bilinir.",
+    "options": [
+      "Şanghay",
+      "Beijing",
+      "Guangzhou",
+      "Chengdu"
+    ],
+    "correctAnswer": "Beijing",
+    "tags": [
+      "şehirler",
+      "tarih",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hd1mc2e1x",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağında 'dim sum' neyi ifade eder?",
+    "explanation": "Dim sum, geleneksel Çin mutfağında küçük porsiyonlarda sunulan hafif yemekler bütünüdür; özellikle sabah kahvaltılarında yenir.",
+    "options": [
+      "Tatlılar",
+      "Hafif yemekler veya küçük porsiyonlar",
+      "Et yemekleri",
+      "Baharatlı yiyecekler"
+    ],
+    "correctAnswer": "Hafif yemekler veya küçük porsiyonlar",
+    "tags": [
+      "mutfak",
+      "yemek",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1rl6uf921",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin kültürünün en önemli felsefi okullarından biri olan Konfüçyüsçülüğün temel vurgusu nedir?",
+    "explanation": "Konfüçyüsçülük, toplumsal hiyerarşi, aile bağları ve ahlaki davranışları ön planda tutan bir düşünce sistemi olarak Çin kültürünün temelini oluşturur.",
+    "options": [
+      "Bireysel özgürlük ve bağımsızlık",
+      "Toplumsal düzen ve ahlaki davranışlar",
+      "Doğa ile uyum içinde yaşamak",
+      "Devrimci değişim ve reform"
+    ],
+    "correctAnswer": "Toplumsal düzen ve ahlaki davranışlar",
+    "tags": [
+      "Çin Kültürü",
+      "Konfüçyüsçülük",
+      "Felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qkx63u9hk",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin New Year'ın (Yıl Başı) kutlamalarında en önemli sembollerden biri olan 'Kırmızı Renk' ne anlama gelir?",
+    "explanation": "Çin kültüründe kırmızı renk, bereket, şans ve mutluluğu temsil eder. Bu yüzden Çin New Year'ında kırmızı ipek, kırmızı kumaşlar ve kırmızı giysiler kullanılır.",
+    "options": [
+      "Ölüm ve yas",
+      "Bereket ve şans",
+      "Zenginlik ve güç",
+      "Sevgi ve barış"
+    ],
+    "correctAnswer": "Bereket ve şans",
+    "tags": [
+      "Çin Kültürü",
+      "Kutlamalar",
+      "Renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ycfbz1ec1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin'de 'Panda' hayvanı neden kültürel bir semboldür?",
+    "explanation": "Panda, Çin'in ulusal hayvanı olarak kabul edilir ve nadirliği nedeniyle korunan bir türdür. Çin kültürü ve çevre bilincinin simgesi haline gelmiştir.",
+    "options": [
+      "Savaşçı ve cesur olduğu için",
+      "Nadir görülen nadir bir tür olduğu için",
+      "Zenginlik simgesi olarak kabul edildiği için",
+      "Halkın sevdiği bir sporcu olduğu için"
+    ],
+    "correctAnswer": "Nadir görülen nadir bir tür olduğu için",
+    "tags": [
+      "Çin Kültürü",
+      "Panda",
+      "Doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9eaaowbo6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'de 'İnci' (Pearl) neden değerli bir semboldür?",
+    "explanation": "Çin kültüründe inci, nadirliği, mükemmelliği ve ahlaki temizliği temsil eder. Özellikle Konfüçyüsçülüğün 'altın incisi' metaforunda görülmektedir.",
+    "options": [
+      "Sadece güzelliği için",
+      "Nadirliği ve mükemmelliği temsil ettiği için",
+      "Zenginlik gösterdigi için",
+      "Dini anlamı taşıdığı için"
+    ],
+    "correctAnswer": "Nadirliği ve mükemmelliği temsil ettiği için",
+    "tags": [
+      "Çin Kültürü",
+      "İnci",
+      "Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o1tufhmph",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'de 'Çay' içme geleneği ne anlama gelir?",
+    "explanation": "Çin kültüründe çay, aile birliği, dostluk ve toplumsal iletişim için önemli bir semboldür. Çay partileri sosyal bağları güçlendirmek için kullanılır.",
+    "options": [
+      "Sadece bir tat olarak",
+      "Aile bağlarını güçlendirmek ve sosyal iletişimi artırmak için",
+      "Dini ritüellerde kullanmak için",
+      "Zenginlik göstergesi olarak"
+    ],
+    "correctAnswer": "Aile bağlarını güçlendirmek ve sosyal iletişimi artırmak için",
+    "tags": [
+      "Çin Kültürü",
+      "Çay",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "66jhputt7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in Tang Hanedanlığı döneminde kültürün en parlak evresi yaşanmıştır. Bu hanedanın kurulu olduğu yıl aşağıdakilerden hangisidir?",
+    "explanation": "Tang Hanedanlığı 618 yılında Li Shiming tarafından kurulmuş ve Çin kültürünün altın çağını temsil etmiştir.",
+    "options": [
+      "618",
+      "960",
+      "581",
+      "221"
+    ],
+    "correctAnswer": "618",
+    "tags": [
+      "Çin Tarihi",
+      "Hanedanlar",
+      "Tang Hanedanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e58n30l3c",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Çin felsefesinin en önemli okullarından biri olan Konfüçyüsçülüğün temel ilkesi nedir?",
+    "explanation": "Konfüçyüsçülüğün temel ilkesi 'yan yana' (yüklü) yaşamaktır - bu, toplumsal uyum ve karşılıklı sorumluluk anlamına gelir.",
+    "options": [
+      "Göze göze olmak",
+      "Yan yandan olmak",
+      "Baba oğlu babadan alır",
+      "Zıt kutuplar birbirini çeker"
+    ],
+    "correctAnswer": "Yan yandan olmak",
+    "tags": [
+      "Çin Felsefesi",
+      "Konfüçyüs",
+      "Fikirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ogzsr0t9o",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin Yeni Yılı'nı kutlarken geleneksel olarak hangi meyve yemeleri tercih edilir?",
+    "explanation": "Portakal, Çin Yeni Yılı'nda şans ve bolluğun sembolüdür; kırmızı rengi de bu anlamı güçlendirir.",
+    "options": [
+      "Elma",
+      "Portakal",
+      "Ananas",
+      "Muz"
+    ],
+    "correctAnswer": "Portakal",
+    "tags": [
+      "Çin Gelenekleri",
+      "Bayramlar",
+      "Yeni Yıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "djwgb9mwn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in en önemli tarihsel anıtlarından biri olan Büyük Duvar, hangi hanedanlığında inşa edilmeye başlanmıştır?",
+    "explanation": "Büyük Çin Duvarının modern formu Ming Hanedanlığı döneminde (1368-1644) inşa edilmiştir.",
+    "options": [
+      "Ming",
+      "Han",
+      "Tang",
+      "Qing"
+    ],
+    "correctAnswer": "Ming",
+    "tags": [
+      "Çin Anıtları",
+      "Büyük Duvar",
+      "İnşaat Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ghg1q7ms",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin kültüründe 'çay töresi' hangi hanedanlıkta zirveye ulaşmıştır?",
+    "explanation": "Song Hanedanlığı'nda çay töresi ve sanatsal çay kültürü zirveye ulaşmış, bu dönem çay sanatının altın çağıdır.",
+    "options": [
+      "Ming",
+      "Tang",
+      "Song",
+      "Qing"
+    ],
+    "correctAnswer": "Song",
+    "tags": [
+      "Çay Törenleri",
+      "Ming",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pu7vihcme",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin'in en önemli geleneksel festivali olan Tetya'nın (Yılbaşı) ne zaman kutlanır?",
+    "explanation": "Tetya (Yılbaşı) Çin takvimine göre yılın ilk gününde kutlanır ve genellikle Gregorian takvime karşılık 28 Şubat ile 2 Mart arasında gerçekleşir. Bu festival ailenin bir araya gelmesi için en önemli zamanlardan biridir.",
+    "options": [
+      "1 Ocak",
+      "28 Şubat - 2 Mart",
+      "15 Ağustos",
+      "24 Aralık"
+    ],
+    "correctAnswer": "28 Şubat - 2 Mart",
+    "tags": [
+      "Çin Kültürü",
+      "Festivaller",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lqagqxcs4",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin kültüründe felsefi düşünce sistemi olarak hangi okul daha çok kabul görür?",
+    "explanation": "Konfüçyüs, Çin kültürünün en önemli düşünürlerinden biridir ve Konfüçyüsçülük felsefesi Çin'de binlerce yıldır kabul görür. Bu okul ahlaki değerler, sosyal düzen ve devlet yönetimi üzerine kuruludur.",
+    "options": [
+      "Aristo Okulu",
+      "Konfüçyüs Okulu",
+      "Platon Okulu",
+      "Sokrates Okulu"
+    ],
+    "correctAnswer": "Konfüçyüs Okulu",
+    "tags": [
+      "Çin Kültürü",
+      "Felsefe",
+      "Düşünce"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p4xohtifq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin mutfağına ait hangi yemek 'Long Life Noodle' (Uzun Ömür Makarna) olarak bilinir?",
+    "explanation": "Tangyuan, Çin Yeni Yıl festivali sırasında yenilen geleneksel tatlıdır. Uzun noodle ise (Chunyun) uzun ömür dileği için yenilir.",
+    "options": [
+      "Dim Sum",
+      "Peking Duck",
+      "Tangyuan",
+      "Yum Yum"
+    ],
+    "correctAnswer": "Tangyuan",
+    "tags": [
+      "Çin Kültürü",
+      "Mutfak",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mksckxiid",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin kültüründe 'Feng Shui' ne işe yarar?",
+    "explanation": "Feng Shui, Çin'de binlerce yıldır kullanılan geleneksel bir sistemdir. Evlerin ve binaların enerji akışını düzenlemek, refah ve şans için kullanılır.",
+    "options": [
+      "Makine üretimi",
+      "Evin enerji akışını düzenleme",
+      "Tarım sulama",
+      "Dil öğrenme"
+    ],
+    "correctAnswer": "Evin enerji akışını düzenleme",
+    "tags": [
+      "Çin Kültürü",
+      "Feng Shui",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vyy05n2tq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin kültüründe 'Kung Fu' ne anlama gelir?",
+    "explanation": "Kung Fu, Çin'in geleneksel dövüş sanatları sistemidir. Hem savunma hem de meditatif amaçlarla pratik edilir ve Çin kültürünün önemli bir parçasıdır.",
+    "options": [
+      "Müzik",
+      "Dövüş sanatı",
+      "Dans",
+      "Yazma sanatı"
+    ],
+    "correctAnswer": "Dövüş sanatı",
+    "tags": [
+      "Çin Kültürü",
+      "Kung Fu",
+      "Spor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmdvfwfeh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl Çin'de İmparatorluk döneminin başlangıcı kabul edilir ve 'Çin kültürünün kökü' olarak bilinir?",
+    "explanation": "MS 221 yılında Qin İmparatorluğu birleştirildi ve Çin'in çağdaş anlamda imparatorluk yapısı başladı. Bu yıl 'Çin kültürünün kökü' olarak kabul edilir.",
+    "options": [
+      "MÖ 2095",
+      "MÖ 221",
+      "MS 221",
+      "MS 618"
+    ],
+    "correctAnswer": "MS 221",
+    "tags": [
+      "Çin Kültürü",
+      "Tarih",
+      "İmparatorluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9klza5hvw",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin'de geleneksel olarak hangi festival 'Aile birliği' sembolüdür?",
+    "explanation": "Çin Takvimi Yeni Yılı geleneksel olarak aile birliği, mutlu yaşam ve yeni başlangıçlar sembolüdür. İnsanlar bu dönemde geri dönmeye çalışır.",
+    "options": [
+      "Qingming Festivali",
+      "Lantern Festivali",
+      "Chinese New Year (Takvam Yeni Yıl)",
+      "Dragon Boat Festival"
+    ],
+    "correctAnswer": "Chinese New Year (Takvam Yeni Yıl)",
+    "tags": [
+      "Çin Kültürü",
+      "Festival",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xbecov5nr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin kültüründe 'Feng Shui' neyi ifade eder?",
+    "explanation": "Feng Shui Çin kültüründe yaşam enerjisinin (Chi) akışını dengelemek için ev veya yapıların düzenlenmesi sanatıdır.",
+    "options": [
+      "Geleneksel dans",
+      "Enerji akışı ve yaşam alanı düzeni",
+      "İmparatorluk yönetimi sanatı",
+      "Çin resim teknikleri"
+    ],
+    "correctAnswer": "Enerji akışı ve yaşam alanı düzeni",
+    "tags": [
+      "Çin Kültürü",
+      "Feng Shui",
+      "Geleneksel İnanç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "obx8ytax8",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Çin'de geleneksel müzik enstrümanı olan 'Erhu' hangi tür enstrümandır?",
+    "explanation": "Erhu Çin geleneksel müziğinin en ünlü enstrümanıdır. İki telli, saplı çellikli bir enstrümandır.",
+    "options": [
+      "Gitar",
+      "Violon benzeri çellikli çalgı",
+      "Taş tambur",
+      "Piyan"
+    ],
+    "correctAnswer": "Violon benzeri çellikli çalgı",
+    "tags": [
+      "Çin Kültürü",
+      "Müzik",
+      "Enstrümanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7y0skxnxt",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin kültüründe 'Dragon' (Baykuş) sembolize eder?",
+    "explanation": "Dragon Çin kültüründe mutlu yaşam, bereket, şans ve güç sembolüdür. Özellikle Qingming festivalinde önemlidir.",
+    "options": [
+      "Şanssızlık",
+      "Mutlu yaşam ve bereket",
+      "Karanlık güçler",
+      "Gerekli olmayan"
+    ],
+    "correctAnswer": "Mutlu yaşam ve bereket",
+    "tags": [
+      "Çin Kültürü",
+      "Simgeler",
+      "Baykuş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "du00bhlld",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin kültüründe 'Feng Shui' nedir?",
+    "explanation": "Feng Shui, Çin kökenli bir eski bilimi olup binalarda eşyaların yerleşimi ile yaşam enerjisinin (Chi) akışını dengelemeyi amaçlar.",
+    "options": [
+      "A- Binanın yapım tekniği",
+      "B- Eşyaların konumlandırılması ve enerji akışı",
+      "C- Geleneksel dans türü",
+      "D- Müzik enstrümanı"
+    ],
+    "correctAnswer": "B- Eşyaların konumlandırılması ve enerji akışı",
+    "tags": [
+      "Çin Kültürü",
+      "Feng Shui",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "085ut6pd1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'de 'Kırmızı renkin' kültürel anlamı nedir?",
+    "explanation": "Çin kültüründe kırmızı renk düğünler, yılbaşı kutlamaları ve diğer mutlu olaylarda mutluluk, zenginlik ve şans sembolüdür.",
+    "options": [
+      "A- Acı ve hüzün",
+      "B- Mutluluk, zenginlik ve şans",
+      "C- Ölüm ve yas",
+      "D- Sakinlik ve huzur"
+    ],
+    "correctAnswer": "B- Mutluluk, zenginlik ve şans",
+    "tags": [
+      "Çin Kültürü",
+      "Renkler",
+      "Simgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8e4op8x8r",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Hangi Çin şehri 'Dünyanın en büyük kulesine' sahiptir?",
+    "explanation": "Şanghay'daki Dünya Finanse Merkezi, dünyanın en yüksek binalarından birine sahiptir ve modern Çin sembolüdür.",
+    "options": [
+      "A- Pekin",
+      "B- Şanghay",
+      "C- Canton",
+      "D- Xi'an"
+    ],
+    "correctAnswer": "B- Şanghay",
+    "tags": [
+      "Çin Kültürü",
+      "Şehirler",
+      "Modernlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lmjo5gcwb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in ulusal mutfaklarında 'Pancake' (Jiaozi) hangi festivalde yiyilir?",
+    "explanation": "Jiaozi (jiaozi) Çin Yeni Yılı'nın ilk gününde ailecek birlikte yenen geleneksel bir yiyecektir.",
+    "options": [
+      "A- Qırmızı Bayram",
+      "B- Yılbaşı",
+      "C- Ay Festivali",
+      "D- Çeyiz Bayramı"
+    ],
+    "correctAnswer": "B- Yılbaşı",
+    "tags": [
+      "Çin Kültürü",
+      "Mutfak",
+      "Festivaller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w59intka1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin kültüründe 'Dragon' (Ejderha) sembolü neyi temsil eder?",
+    "explanation": "Çin kültüründe ejderha (long) iyi şans, güç, mutluluk ve yönetimi temsil eder; kötü bir yaratık değildir.",
+    "options": [
+      "A- Kötülük ve felaket",
+      "B- Güç, şans ve mutlak kuvvet",
+      "C- Ölüm ve yıkım",
+      "D- Yas ve acı"
+    ],
+    "correctAnswer": "B- Güç, şans ve mutlak kuvvet",
+    "tags": [
+      "Çin Kültürü",
+      "Ejderha",
+      "Simgeleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ek70tey3j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin kültüründe en önemli felsefi akımlardan biri olan Konfüçyüsçülük'ün temel amacı nedir?",
+    "explanation": "Konfüçyüsçülük, toplumsal düzeni ve ahlaki davranışları teşvik ederek uyumu sağlamayı hedefler.",
+    "options": [
+      "Tarihsel mirası korumak",
+      "Toplumsal uyumu ve ahlaki değerleri sağlamak",
+      "Sanatsal ifade özgürlüğünü artırmak",
+      "Bilimsel keşiflere öncülük etmek"
+    ],
+    "correctAnswer": "Toplumsal uyumu ve ahlaki değerleri sağlamak",
+    "tags": [
+      "Felsefe",
+      "Konfüçyüsçülük"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o582w99zn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin Yeni Yılı'nın kutlamaları sırasında genellikle hangi geleneksel sembolik yiyecek tüketilir?",
+    "explanation": "Yuvarlak şekli tamamlanmayı ve ailenin birliğini simgeler; tatlısı ise bolluğu temsil eder.",
+    "options": [
+      "Tatlı yuvarlak çörek",
+      "Acı sebzeli pilav",
+      "Kızarmış balık fileto",
+      "Fermente peynir"
+    ],
+    "correctAnswer": "Tatlı yuvarlak çörek",
+    "tags": [
+      "Gelenekler",
+      "Yiyecek Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0txib3mqa",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Çin kültüründe 'Yin-Yang' kavramının temel amacı nedir?",
+    "explanation": "Yin-Yang, evrendeki karşıtlıkların birbirini tamamlayan dengeli birlikteliğini ifade eder.",
+    "options": [
+      "Tarihsel olayları analiz etmek",
+      "Denge ve uyumu açıklamak",
+      "Sanatsal stilleri geliştirmek",
+      "Bilimsel hipotezleri test etmek"
+    ],
+    "correctAnswer": "Denge ve uyumu açıklamak",
+    "tags": [
+      "Felsefe",
+      "Mistik Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "012fao7u4",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin edebiyatında 'Klasik Şiirler' (Shijing) hangi dönemle ilişkilidir?",
+    "explanation": "Shijing, Çin'in erken dönem halk şairleri tarafından oluşturulmuş en eski şiir koleksiyonudur.",
+    "options": [
+      "MÖ 11-6. yüzyıl",
+      "MS 5-12. yüzyıl",
+      "13-18. yüzyıl",
+      "19-20. yüzyıl"
+    ],
+    "correctAnswer": "MÖ 11-6. yüzyıl",
+    "tags": [
+      "Edebiyat",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e6wtoujk8",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin kültüründe 'Kırmızı Renk' hangi sembolik anlam taşır?",
+    "explanation": "Kırmızı, Çin kültüründe düğünler ve festivallerde mutluluk, zenginlik ve şansın göstergesidir.",
+    "options": [
+      "Mağruriyet ve yas",
+      "Mutluluk ve şans",
+      "Geri çekilme ve sessizlik",
+      "Savaş ve güç"
+    ],
+    "correctAnswer": "Mutluluk ve şans",
+    "tags": [
+      "Renk Sembolizmi",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7lybafjam",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in antik medeniyetinin ne kadar uzun sürdüğü ve hangi dinlerin önemli rol oynadığı sorusudur.",
+    "explanation": "Çin'in Shang hanedanı M.Ö. 1600 yılında kuruldu ve Konfüçyanizm Çin kültürünün temel felsefi öğesidir.",
+    "options": [
+      "A) M.Ö. 2070, Budizm",
+      "B) M.Ö. 1600, Konfüçyanizm",
+      "C) M.S. 500, Taoizm",
+      "D) M.Ö. 1500, Hinduizm"
+    ],
+    "correctAnswer": "B) M.Ö. 1600, Konfüçyanizm",
+    "tags": [
+      "Çin Tarih",
+      "Dinler",
+      "Konfüçyanizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nw5d3f1us",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Büyük Çin Duvarı hangi yüzyılda inşa edildiği sorusudur.",
+    "explanation": "Büyük Çin Duvarı M.Ö. 3. yüzyılda Qin Hanedanı tarafından başlatıldı ve sonraki hanedanlarda genişletildi.",
+    "options": [
+      "A) M.Ö. 3. yüzyıl",
+      "B) M.S. 1. yüzyıl",
+      "C) M.Ö. 7. yüzyıl",
+      "D) M.S. 5. yüzyıl"
+    ],
+    "correctAnswer": "A) M.Ö. 3. yüzyıl",
+    "tags": [
+      "Büyük Çin Duvarı",
+      "Mimari",
+      "Savaş Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vny4skl2k",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin Yeni Yılı (Bayram) hangi takvim sistemi kullanılarak hesaplanır?",
+    "explanation": "Çin Yeni Yılı, Çin takvimine göre hesaplanır ve genellikle Ocak veya Şubat ayında kutlanır.",
+    "options": [
+      "A) Gregorian",
+      "B) Hicri",
+      "C) Çin Takvimi",
+      "D) Jalali"
+    ],
+    "correctAnswer": "C) Çin Takvimi",
+    "tags": [
+      "Çin Bayramları",
+      "Takvim",
+      "Kültürel Alışkanlıklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jhk5ubdws",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Konfüçyüs'ün öğretilerinde hangi kavram en önemli yer tutar?",
+    "explanation": "Konfüçyüs'ün felsefesi sosyal düzen, ahlaki davranış ve toplumsal sorumluluk üzerine kuruludur.",
+    "options": [
+      "A) Bireysel özgürlük",
+      "B) Sosyal sorumluluk ve ahlaki davranış",
+      "C) Maddi zenginlik",
+      "D) Siyasi güç"
+    ],
+    "correctAnswer": "B) Sosyal sorumluluk ve ahlaki davranış",
+    "tags": [
+      "Konfüçyanizm",
+      "Felsefe",
+      "Ahlak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bgma6kbqz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Pekin Operası hangi kültür öğesini temsil eder?",
+    "explanation": "Pekin Operası Çin'in en eski operasıdır ve geleneksel tiyatro, müzik ve dans öğelerini içerir.",
+    "options": [
+      "A) Geleneksel dans",
+      "B) Opera ve tiyatro",
+      "C) Müzik",
+      "D) Sanat"
+    ],
+    "correctAnswer": "B) Opera ve tiyatro",
+    "tags": [
+      "Pekin Operası",
+      "Geleneksel Sanat",
+      "Tiyatro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qaifk12z6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin Kültüründe en eski ve ünlü yazı sistemi hangisidir?",
+    "explanation": "Hanzi, Çin kültüründe binlerce yıllık bir geçmişi olan geleneksel Çin karakterleri sistemidir. Arap alfabesi Orta Doğu'da, Latince ise Batı dünyasında kullanılır.",
+    "options": [
+      "Arap alfabesi",
+      "Çince karakterler (Hanzi)",
+      "Latince",
+      "Kireç yazısı"
+    ],
+    "correctAnswer": "Çince karakterler (Hanzi)",
+    "tags": [
+      "Çin Kültürü",
+      "Yazı Sistemi",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ezmwzzom",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in başkenti Pekin'de bulunan ve UNESCO Dünya Mirası Listesi'nde yer alan ünlü yapı nedir?",
+    "explanation": "Tiananmen Meydanı, Pekin'in merkezi ve Büyük Avlu olarak bilinir. UNESCO Dünya Mirası Listesi'nde yer alan diğer yapılar arasında Yeraltı Şehri de bulunur.",
+    "options": [
+      "Göbek Taşı",
+      "Yasemin Köprüsü",
+      "Büyük Avlu (Tiananmen)",
+      "Kızıl Kapı"
+    ],
+    "correctAnswer": "Büyük Avlu (Tiananmen)",
+    "tags": [
+      "Pekin",
+      "UNESCO",
+      "Dünya Mirası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9nlsnh5zt",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin kültüründe 'Uzun Ömür' simgesi olarak kabul edilen hayvan hangisidir?",
+    "explanation": "Çin kültüründe kaplumbağa, uzun ömür ve sabır sembolü olarak kabul edilir. Geleneksel Çin tablosu ve hediyelerinde sıkça kullanılır.",
+    "options": [
+      "Kedi",
+      "Büyük Kaplan",
+      "Kaplumbağa",
+      "Baykuş"
+    ],
+    "correctAnswer": "Kaplumbağa",
+    "tags": [
+      "Çin Sembolikleri",
+      "Hayvanlar",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w88nqfk0u",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Çin'in en ünlü tarihi yolunun adı nedir?",
+    "explanation": "İpek Yolu, antik çağlarda Çin ile diğer kıtalar arasında ticaretin yapıldığı tarihi yoldur. İpek ve Çin kilidinin yayılmasıyla bilinir.",
+    "options": [
+      "İpek Yolu",
+      "Ahşap Yolu",
+      "Bakır Yolu",
+      "Demiryolu"
+    ],
+    "correctAnswer": "İpek Yolu",
+    "tags": [
+      "İpek Yolu",
+      "Ticaret Tarihi",
+      "Güney Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l254u7wxn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Çin Kültürü",
+    "difficulty": "EASY",
+    "question": "Çin kültürünün en önemli geleneksel festivali nedir?",
+    "explanation": "Tet, Çin Yeni Yılı olarak adlandırılır ve en önemli geleneksel Çince festivaldir. Aile birleşmesi ve kutlama sembolüdür.",
+    "options": [
+      "Halloween",
+      "Ramazan Bayramı",
+      "Tet Festivali (Yılbaşı)",
+      "Bağımsızlık Günü"
+    ],
+    "correctAnswer": "Tet Festivali (Yılbaşı)",
+    "tags": [
+      "Çin Festivalleri",
+      "Tet",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

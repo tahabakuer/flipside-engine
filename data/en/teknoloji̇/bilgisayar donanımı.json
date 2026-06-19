@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "up7hnz3xd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın merkezi işlem birimini (CPU) hangi donanım parçası temsil eder?",
+    "explanation": "İşlemci (Processor/CPU), bilgisayarın en önemli donanım parçasıdır ve tüm işlemleri yönetir.",
+    "options": [
+      "RAM",
+      "Ana Kart",
+      "İşlemci",
+      "Ekran Kartı"
+    ],
+    "correctAnswer": "İşlemci",
+    "tags": [
+      "CPU",
+      "Donanım",
+      "Temel Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r7iiw9iiv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "RAM belleklerinin temel görevi nedir?",
+    "explanation": "RAM (Random Access Memory), bilgisayarın geçici belleğidir ve işlemciye hızlı veri erişimi sağlar. Bilgisayar kapatıldığında veriler silinir.",
+    "options": [
+      "Kalıcı veri saklamak",
+      "Sistem için geçici veri tutmak",
+      "Şifre korumak",
+      "Donanıma enerji vermek"
+    ],
+    "correctAnswer": "Sistem için geçici veri tutmak",
+    "tags": [
+      "RAM",
+      "Bellek",
+      "Sistem Performansı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n57fo67c8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Hangi depolama cihazı en yüksek okuma/yazma hızına sahiptir?",
+    "explanation": "SSD (Solid State Drive), HDD'ye göre çok daha yüksek hızlara sahiptir çünkü hareketli kısımlar içermez.",
+    "options": [
+      "HDD",
+      "SSD",
+      "Optik Disk",
+      "Floppy Disk"
+    ],
+    "correctAnswer": "SSD",
+    "tags": [
+      "Depolama",
+      "HDD/SSD",
+      "Performans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "245qt3bvh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EXPERT",
+    "question": "Ana kart üzerinde işlemciyi soğutan parçacın adı nedir?",
+    "explanation": "İşlemci soğutucusu (cooling fan veya heatsink), işlemcinin aşırı ısınmasını önlemek için tasarlanmıştır.",
+    "options": [
+      "Power Supply",
+      "Fan/Soyutlayıcı",
+      "RAM Slotu",
+      "PCI Express"
+    ],
+    "correctAnswer": "Fan/Soyutlayıcı",
+    "tags": [
+      "Soğutma",
+      "Ana Kart",
+      "Sistem Bileşenleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vmuucw7d6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Bilgisayar ekran görüntülerini işleyen donanım parçası hangisidir?",
+    "explanation": "GPU (Graphics Processing Unit), grafik işlemleri ve görüntü renderlaması için özel olarak tasarlanmıştır.",
+    "options": [
+      "GPU",
+      "CPU",
+      "RAM",
+      "Motherboard"
+    ],
+    "correctAnswer": "GPU",
+    "tags": [
+      "Ekran Kartı",
+      "GPU",
+      "Grafik İşleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pdxxdkc92",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın merkez işlem birimi (CPU) hangi bileşenden oluşmaz?",
+    "explanation": "CPU (Merkez İşlem Birimi) transistör, kontrol ünitesi ve register içerir. Dedicated GPU ise ayrı bir işlemcidir ve CPU'ya dahil değildir.",
+    "options": [
+      "Transistör",
+      "Dedicated GPU",
+      "Kontrol ünitesi",
+      "Register"
+    ],
+    "correctAnswer": "Dedicated GPU",
+    "tags": [
+      "donanım",
+      "CPU",
+      "işlemci"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jc0uo4w6k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "RAM bellek tiplerinden hangisi en yüksek hızı sunar?",
+    "explanation": "DDR5, DDR4 ve DDR3'ün en son versiyonudur ve en yüksek hızı, bant genişliğini sunar. SRAM ise daha hızlıdır ancak genellikle cache olarak kullanılır.",
+    "options": [
+      "DDR3",
+      "DDR4",
+      "DDR5",
+      "SRAM"
+    ],
+    "correctAnswer": "DDR5",
+    "tags": [
+      "donanım",
+      "RAM",
+      "bellek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1w7xyhjwb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Hangi depolama teknolojisi SSD'ye göre daha yavaştır?",
+    "explanation": "HDD (Hard Disk Drive) mekanik plakalar kullanır ve SSD'ye göre daha yavaştır. Optikal diskler ise hala HDD'den de daha yavaştır.",
+    "options": [
+      "NVMe M.2",
+      "SATA SSD",
+      "HDD (Hard Disk Drive)",
+      "Optical Disc"
+    ],
+    "correctAnswer": "HDD (Hard Disk Drive)",
+    "tags": [
+      "donanım",
+      "depolama",
+      "SSD/HDD"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0eh5grwkh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Anakart üzerindeki hangi bileşen sistem saatini (RTC) yönetir?",
+    "explanation": "CMOS Battery, anakart üzerindeki CMOS belleğini besler ve RTC (Real Time Clock) için güç sağlar. CPU, RAM ve GPU ise saat yönetimi yapmaz.",
+    "options": [
+      "CPU",
+      "RAM",
+      "CMOS Battery",
+      "GPU"
+    ],
+    "correctAnswer": "CMOS Battery",
+    "tags": [
+      "donanım",
+      "anakart",
+      "RTC"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vq8e7xymf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Hangi donanım bileşeni ekran görüntüsünü işler?",
+    "explanation": "GPU (Graphics Processing Unit), grafik işlemlerini ve ekran görüntüsünü işler. CPU genel işlem, RAM bellek depolama, Motherboard ise tüm bileşenleri birbirine bağlar.",
+    "options": [
+      "CPU",
+      "GPU (Graphics Processing Unit)",
+      "RAM",
+      "Motherboard"
+    ],
+    "correctAnswer": "GPU (Graphics Processing Unit)",
+    "tags": [
+      "donanım",
+      "GPU",
+      "ekran"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5zz571dfh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Hangi bileşen bilgisayarın merkezi işlem birimini (CPU) ve veri geçici belleğini barındırır?",
+    "explanation": "Ana kart (motherboard), bilgisayarın tüm bileşenlerini birbirine bağlayan temel devre kartıdır. CPU, RAM, GPU gibi bileşenler doğrudan ana karta monte edilir ve veri alışverişi burada gerçekleşir.",
+    "options": [
+      "RAM",
+      "Motherboard",
+      "Graphics Card",
+      "Power Supply"
+    ],
+    "correctAnswer": "Motherboard",
+    "tags": [
+      "bilgisayar donanımı",
+      "ana kart",
+      "CPU"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pec2qpzbh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Hangi donanım parçası görsel verileri işleyip monitöre aktarır?",
+    "explanation": "Grafik Kartı (Graphics Processing Unit/GPU), görsel hesaplamaları yapar ve monitöre görüntü aktarır. Yüksek çözünürlükli oyunlar ve grafik işlemlerinde kritik öneme sahiptir.",
+    "options": [
+      "Hard Disk",
+      "Sound Card",
+      "Graphics Card (GPU)",
+      "Network Interface"
+    ],
+    "correctAnswer": "Graphics Card (GPU)",
+    "tags": [
+      "grafik kart",
+      "GPU",
+      "monitör"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ltrhz6jxd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Hangi depolama cihazı en yüksek veri aktarma hızına sahip modern SSD teknolojisidir?",
+    "explanation": "NVMe M.2 SSD, SATA arayüzünden daha hızlı veri aktarımı sağlar. NVMe protokolü, doğrudan PCIe üzerinden çalışır ve modern bilgisayarlarda en yüksek performanslı depolama çözümüdür.",
+    "options": [
+      "HDD",
+      "SATA SSD",
+      "NVMe M.2 SSD",
+      "Optical Disk"
+    ],
+    "correctAnswer": "NVMe M.2 SSD",
+    "tags": [
+      "SSD",
+      "depolama",
+      "hız"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ss7v1p71u",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın elektrik enerjisini sağlayan ve tüm bileşenlere güç dağıtan cihaz hangisidir?",
+    "explanation": "Güç Kaynağı Ünitesi (PSU), elektrik şebekesinden aldığı enerjiyi bilgisayar bileşenleri için gerekli DC akıma dönüştürür. Stabil güç tedariki olmadan sistem çalışamaz.",
+    "options": [
+      "CPU Cooler",
+      "Power Supply Unit (PSU)",
+      "Case Fan",
+      "RAM Module"
+    ],
+    "correctAnswer": "Power Supply Unit (PSU)",
+    "tags": [
+      "güç kaynağı",
+      "elektrik",
+      "donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z36fk5ywe",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Hangi donanım parçası ses sinyallerini işleyip hoparlörlere aktarır?",
+    "explanation": "Ses Kartı (Audio/Sound Card), dijital ses sinyallerini işleyerek analog sinyallere çevirir ve hoparlörlara aktarır. Modern anakartlarda entegre audio çipleri de bulunur.",
+    "options": [
+      "Audio Card (Sound Card)",
+      "Network Card",
+      "Motherboard Chipset",
+      "BIOS/UEFI"
+    ],
+    "correctAnswer": "Audio Card (Sound Card)",
+    "tags": [
+      "ses kartı",
+      "audio",
+      "hoparlör"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dmnn68mhj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Hangi bileşen bilgisayarın merkezi işlem birimini (CPU) oluşturur?",
+    "explanation": "CPU (Central Processing Unit) veya işlemci, bilgisayarın tüm işlemlerini yöneten ve gerçekleştiren merkezi bileşendir.",
+    "options": [
+      "RAM",
+      "GPU",
+      "Processor / CPU",
+      "Hard Disk"
+    ],
+    "correctAnswer": "Processor / CPU",
+    "tags": [
+      "donanım",
+      "bilgisayar",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u0u4frvyv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayardaki bellek kapasitesini ölçen birim hangisidir?",
+    "explanation": "Bilgisayar bellek (RAM) kapasitesi genellikle Byte cinsinden ifade edilir. 1 Byte = 8 Bit eder.",
+    "options": [
+      "Bit",
+      "Hertz",
+      "Byte",
+      "Terabyte"
+    ],
+    "correctAnswer": "Byte",
+    "tags": [
+      "bellek",
+      "RAM",
+      "birimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sblm9yjiu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Hangi donanım parçası görüntü işleme ve grafik çıkışı sorumludur?",
+    "explanation": "GPU (Graphics Processing Unit) veya ekran kartı, grafik işlemleri gerçekleştiren ve görüntüyü monitöre çıkaran bileşendir.",
+    "options": [
+      "Network Card",
+      "Sound Card",
+      "Graphics Card / GPU",
+      "Motherboard"
+    ],
+    "correctAnswer": "Graphics Card / GPU",
+    "tags": [
+      "grafik",
+      "donanım",
+      "display"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zrfqnrvbo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Verilerin kalıcı olarak saklandığı donanım parçası hangisidir?",
+    "explanation": "Hard drive veya SSD (Solid State Drive), verilerin kalıcı olarak saklandığı ana depolama birimidir. RAM ise geçici bellektir.",
+    "options": [
+      "RAM",
+      "Cache Memory",
+      "Storage / Hard Drive",
+      "ROM"
+    ],
+    "correctAnswer": "Storage / Hard Drive",
+    "tags": [
+      "depolama",
+      "hard disk",
+      "SSD"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2t3hekl4p",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EXPERT",
+    "question": "Modern bilgisayarların ana devre kartı üzerinde bulunan işlemciler hangi teknolojiyi kullanır?",
+    "explanation": "Modern CPU'lar genellikle multicore (çok çekirdekli) mimarisini kullanır. Bu sayede birden fazla işlemi paralel olarak gerçekleştirebilirler.",
+    "options": [
+      "Multicore / Çok çekirdekli",
+      "Single Core",
+      "Dual Channel",
+      "Hybrid Memory"
+    ],
+    "correctAnswer": "Multicore / Çok çekirdekli",
+    "tags": [
+      "işlemci",
+      "teknoloji",
+      "performans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8jdr70vpb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın beyni olarak kabul edilen ve tüm işlemleri kontrol eden donanım parçası hangisidir?",
+    "explanation": "CPU (Central Processing Unit), bilgisayarın en önemli parçasıdır ve tüm hesaplamaları, komutları yönetir. RAM sadece geçici veri saklar, Hard Disk kalıcı depolama sağlar, Graphics Card ise görüntü işlemlerinden sorumludur.",
+    "options": [
+      "RAM (Rastgele Erişimli Bellek)",
+      "CPU (Merkezi İşlemci Birimi)",
+      "Hard Disk",
+      "Graphics Card"
+    ],
+    "correctAnswer": "CPU (Merkezi İşlemci Birimi)",
+    "tags": [
+      "CPU",
+      "Donanım Temelleri",
+      "Bilgisayar Mimarisı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yl3kwj0wu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi RAM bellek kapasitesini belirleyen ana faktörlerden biri değildir?",
+    "explanation": "RAM kapasitesi modül sayısı, her modülün GB değeri ve kanal yapılandırması ile belirlenir. İşletim sistemi sürümü RAM kapasitesini doğrudan belirlemez, sadece desteklediği maksimum RAM miktarını sınırlar.",
+    "options": [
+      "Bellek modül sayısı",
+      "Her bir modülün boyutu (GB)",
+      "Çoklu kanallı yapılandırma (Dual Channel, Quad Channel)",
+      "İşletim sisteminin sürüm numarası"
+    ],
+    "correctAnswer": "İşletim sisteminin sürüm numarası",
+    "tags": [
+      "RAM",
+      "Bellek Yönetimi",
+      "Donanım Konfigürasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g0z7buqmy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "HDD (Hard Disk Drive) ile SSD (Solid State Drive) arasındaki temel fark nedir?",
+    "explanation": "HDD manyetik diskler ve okuma başlığı kullanır, bu nedenle daha yavaş ve gürültülü çalışır. SSD ise NAND flash bellek teknolojisi kullanır, daha hızlı, sessiz ve dayanıklıdır.",
+    "options": [
+      "SSD daha yüksek ses çıkışı üretir",
+      "HDD, manyetik kafa ile çalışan döner plaka kullanır, SSD ise NAND flash bellek tabanlıdır",
+      "SSD sadece Windows sistemi destekler",
+      "HDD her zaman SSD'den daha hızlıdır"
+    ],
+    "correctAnswer": "HDD, manyetik kafa ile çalışan döner plaka kullanır, SSD ise NAND flash bellek tabanlıdır",
+    "tags": [
+      "Depolama",
+      "HDD",
+      "SSD"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dwrpyxbmw",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın grafik işlemlerinden sorumlu olan donanım parçası hangisidir?",
+    "explanation": "GPU, grafik ve görüntü işlemlerini optimize etmek için tasarlanmıştır. Sound Card ses, Network Interface Card ağ bağlantıları, Motherboard ise tüm bileşenleri birbirine bağlayan ana karttır.",
+    "options": [
+      "Sound Card",
+      "Network Interface Card",
+      "Graphics Processing Unit (GPU)",
+      "Motherboard"
+    ],
+    "correctAnswer": "Graphics Processing Unit (GPU)",
+    "tags": [
+      "GPU",
+      "Grafik Kartı",
+      "Donanım Temelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "twwlwe32k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EXPERT",
+    "question": "Bir bilgisayar sisteminde hangi güç kaynağı (Power Supply Unit - PSU) watt değerini belirler?",
+    "explanation": "PSU watt değeri, CPU, GPU, RAM, depolama ve diğer tüm bileşenlerin toplam güç tüketimini karşılamalıdır. Yetersiz PSU sistem kararlılığını bozar, aşırı PSU ise enerji verimsizliğine neden olur.",
+    "options": [
+      "Sadece CPU'nun güç tüketimi",
+      "Sadece GPU'nun güç tüketimi",
+      "Tüm bileşenlerin toplam güç ihtiyacı",
+      "Sadece Hard Disk'in güç ihtiyacı"
+    ],
+    "correctAnswer": "Tüm bileşenlerin toplam güç ihtiyacı",
+    "tags": [
+      "Power Supply",
+      "Güç Yönetimi",
+      "Sistem Optimizasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6n4fb2iht",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Bilgisayar donanımı arasında ana bilgisayarı (motherboard) üzerinde işlemciyi (CPU) soğutan ve performansını artıran bileşen hangisidir?",
+    "explanation": "CPU soğutucu (cooler), işlemcinin aşırı ısınmasını önlemek ve bilgisayarın stabil çalışmasını sağlamak için kullanılır. RAM bellek, Hard Disk depolama, Grafik Kartı ise görüntü işleme görevlerini yapar.",
+    "options": [
+      "RAM",
+      "Hard Disk",
+      "Soğutucu (Cooler)",
+      "Grafik Kartı"
+    ],
+    "correctAnswer": "Soğutucu (Cooler)",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "CPU Soğutma",
+      "Donanım Bileşenleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "krmln3tcy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi volatif (çıkışta kaybolan) bellek türüdür?",
+    "explanation": "RAM (Random Access Memory) volatif bellektir, yani bilgisayar kapandığında içindeki veriler silinir. SSD, Flash ve HDD ise non-volatile (kalıcı) depolama cihazlarıdır.",
+    "options": [
+      "SSD",
+      "Flash Bellek",
+      "RAM",
+      "HDD"
+    ],
+    "correctAnswer": "RAM",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "Bellek Türleri",
+      "Volatif Bellek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "14mnj2wmn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Bilgisayarın grafiksel işlemleri gerçekleştiren donanım bileşeni hangisidir?",
+    "explanation": "Grafik Kartı (GPU), bilgisayarın grafiksel işlemleri ve görüntü renderlaması için özel olarak tasarlanmıştır. CPU genel işlemciler, RAM bellek, Anakart ise tüm bileşenleri birleştirir.",
+    "options": [
+      "CPU",
+      "RAM",
+      "Grafik Kartı (GPU)",
+      "Anakart"
+    ],
+    "correctAnswer": "Grafik Kartı (GPU)",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "Grafik İşleme",
+      "GPU"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kq04ntgt2",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EXPERT",
+    "question": "Bilgisayar donanımı arasındaki PCIe (Peripheral Component Interconnect Express) slotunun temel kullanım amacı nedir?",
+    "explanation": "PCIe slotu, grafik kartları, ses kartları, ağ kartları ve diğer genişleme kartlarının anakarta bağlanması için kullanılır. Bu yüksek hızlı bağlantı standardı modern bilgisayarların temel bileşenlerinden biridir.",
+    "options": [
+      "Sadece işlemci bağlantısı için",
+      "Genel amaçlı genişleme kartı bağlantısı",
+      "Sadece RAM belleği takmak için",
+      "Depolama cihazları için sadece"
+    ],
+    "correctAnswer": "Genel amaçlı genişleme kartı bağlantısı",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "PCIe Slot",
+      "Genişleme Kartları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uvdu6xv7b",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Bilgisayar donanımı arasında enerji tüketimi açısından en az enerji kullanan depolama cihazı hangisidir?",
+    "explanation": "SSD, HDD'ye göre daha az enerji tüketir çünkü hareketli parçaları yoktur. Floppy disk ve optik disk ise eski teknolojilerdir ve günümüzde nadiren kullanılır.",
+    "options": [
+      "HDD (Hard Disk Drive)",
+      "SSD (Solid State Drive)",
+      "Floppy Disk",
+      "Optik Disk"
+    ],
+    "correctAnswer": "SSD (Solid State Drive)",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "Depolama Cihazları",
+      "Enerji Verimliliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cugg102yg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi işlemci (CPU) bileşenlerinden değildir?",
+    "explanation": "İşlemcilerin temel bileşenleri Kontrol Birimi (Control Unit), Yönlendirici Birimi, ve Arithmetic Logic Unit (ALU) dur. Hafıza birimi işlemci değil, RAM/ROM gibi ayrı donanımlardır.",
+    "options": [
+      "Kontrol Birimi",
+      "Yönlendirici Birimi",
+      "Hafıza Birimi",
+      "Arithmetic Logic Unit"
+    ],
+    "correctAnswer": "Hafıza Birimi",
+    "tags": [
+      "işlemci",
+      "CPU",
+      "donanım bileşenleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h5nnk9pi6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "RAM bellekler aşağıdakilerden hangisine göre sınıflandırılır?",
+    "explanation": "RAM bellekler temel olarak DDR türlerine göre sınıflandırılır: DDR, DDR2, DDR3, DDR4, ve yeni nesil DDR5. Bu türler hız ve performans farkları içerir.",
+    "options": [
+      "Hız",
+      "Kapasite",
+      "Türleri (DDR)",
+      "Fiyat"
+    ],
+    "correctAnswer": "Türleri (DDR)",
+    "tags": [
+      "RAM",
+      "bellek",
+      "DDR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x5ipcy772",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Modern bilgisayar sistemlerinde SSD disklerin HDD'ye göre en büyük avantajı nedir?",
+    "explanation": "SSD diskler NAND flash bellek teknolojisi kullanır ve HDD'lere kıyasla çok daha hızlı veri okuma/yazma işlemleri yapar. Bu modern sistemlerde önemli bir avantajdır.",
+    "options": [
+      "Daha düşük maliyet",
+      "Daha yüksek depolama kapasitesi",
+      "Daha hızlı veri okuma/yazma",
+      "Daha uzun ömür"
+    ],
+    "correctAnswer": "Daha hızlı veri okuma/yazma",
+    "tags": [
+      "SSD",
+      "HDD",
+      "depolama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s11p0qg1f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Graphics Processing Unit (GPU) hangi donanımda bulunur?",
+    "explanation": "GPU (Graphics Processing Unit) grafik işlemlerini hızlandırmak için özel olarak tasarlanmış işlemcidir ve genellikle ayrı bir grafik kartında bulunur. Modern anakartlarda entegre GPU'lar da olabilir.",
+    "options": [
+      "İşlemci içinde",
+      "Grafik Kartı",
+      "Anakart üzerinde",
+      "RAM modülü"
+    ],
+    "correctAnswer": "Grafik Kartı",
+    "tags": [
+      "GPU",
+      "grafik kartı",
+      "donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mwq217ef9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EXPERT",
+    "question": "Anakart üzerindeki BIOS/UEFI firmware'inin temel görevi nedir?",
+    "explanation": "BIOS/UEFI firmware sistem açılışında (POST) tüm donanımları test eder, doğru şekilde başlatır ve işletim sistemi kurulumuna kontrol devreder. Modern sistemlerde UEFI daha gelişmiş özellikler sunar.",
+    "options": [
+      "Veri yedekleme",
+      "Donanımları başlatmak ve OS'e kontrol devretmek",
+      "Grafik rendering yapmak",
+      "İnternet bağlantısını yönetmek"
+    ],
+    "correctAnswer": "Donanımları başlatmak ve OS'e kontrol devretmek",
+    "tags": [
+      "BIOS",
+      "UEFI",
+      "anakart",
+      "boot"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x4eywzfeo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın beyni olarak adlandırılan, tüm işlem ve mantık işlemlerini yürüten ana bileşen hangisidir?",
+    "explanation": "Central Processing Unit (CPU), bilgisayarın merkezi işlemcisi ve işlemlerin yürütüldüğü temel birimdir.",
+    "options": [
+      "RAM",
+      "CPU",
+      "GPU",
+      "Motherboard"
+    ],
+    "correctAnswer": "CPU",
+    "tags": [
+      "hardware",
+      "cpu",
+      "bilgisayar donanımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3s1iofo22",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayar kapatıldığında verilerin silindiği, geçici bellek olarak bilinen donanım parçası hangisidir?",
+    "explanation": "RAM (Random Access Memory), işlemciden gelen verileri geçici olarak tutan bellek birimidir ve enerji kesildiğinde içeriği temizlenir.",
+    "options": [
+      "Hard Disk",
+      "SSD",
+      "ROM",
+      "RAM"
+    ],
+    "correctAnswer": "RAM",
+    "tags": [
+      "hardware",
+      "memory",
+      "ram"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i44lisw51",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Mekanik parçaları olmayan, HDD'ye kıyasla daha hızlı ve sessiz çalışan depolama teknolojisi hangisidir?",
+    "explanation": "Solid State Drive (SSD), manyetik disk yerine yarı iletken çipler kullandığı için okuma-yazma hızı çok daha yüksektir.",
+    "options": [
+      "HDD",
+      "Floppy Disk",
+      "Optical Drive",
+      "SSD"
+    ],
+    "correctAnswer": "SSD",
+    "tags": [
+      "hardware",
+      "storage",
+      "ssd"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bnqspj5ix",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Bilgisayar ekranında görsellerin ve oyunların işlenmesi sorumlu olan, grafik işlemci birimi hangisidir?",
+    "explanation": "Graphics Processing Unit (GPU), grafik kartının işlemcisidir ve görsel iş yükünü CPU'dan ayrılarak üstlenir.",
+    "options": [
+      "CPU",
+      "GPU",
+      "PSU",
+      "Fan"
+    ],
+    "correctAnswer": "GPU",
+    "tags": [
+      "hardware",
+      "graphics",
+      "gpu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5lhfnebo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Bilgisayara elektrik enerjisi sağlayan, voltajı düzenleyen ve güç dağıtan birim hangisidir?",
+    "explanation": "Power Supply Unit (PSU), bilgisayarın dış güç kaynağını alır ve ana bileşenlere uygun voltajda enerji sağlar.",
+    "options": [
+      "PSU",
+      "Case",
+      "Fan",
+      "Motherboard"
+    ],
+    "correctAnswer": "PSU",
+    "tags": [
+      "hardware",
+      "power",
+      "psu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y9a8nlo52",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir bilgisayarın merkezi işlem birimini (CPU) ifade eder?",
+    "explanation": "Processor (İşlemci), bilgisayarın merkezi işlem birimidir ve tüm hesaplama işlemlerini yönetir.",
+    "options": [
+      "RAM",
+      "Processor",
+      "Hard Disk",
+      "Graphics Card"
+    ],
+    "correctAnswer": "Processor",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "CPU",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8g9w8iqbm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Bilgisayarların hafıza kapasitesini belirleyen ve geçici veri depolaması yapan bileşen hangisidir?",
+    "explanation": "RAM (Random Access Memory), bilgisayarın geçici bellek birimidir ve çalışan programlar için veri depolar.",
+    "options": [
+      "RAM",
+      "ROM",
+      "SSD",
+      "HDD"
+    ],
+    "correctAnswer": "RAM",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "RAM",
+      "Hafıza"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2631hlrsv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi sabit disk türü değildir?",
+    "explanation": "RAM geçici bellektir, HDD, SSD ve NVMe SSD sabit disk türleridir.",
+    "options": [
+      "HDD",
+      "SSD",
+      "NVMe SSD",
+      "RAM"
+    ],
+    "correctAnswer": "RAM",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "Depolama",
+      "Diskler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sulx5v387",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın görsel işlemleri ve oyun performansını etkileyen temel bileşen hangisidir?",
+    "explanation": "Graphics Card (Grafik İşlemci), görsel işlemleri ve oyun performansından sorumludur.",
+    "options": [
+      "Motherboard",
+      "Graphics Card (GPU)",
+      "Power Supply",
+      "Cooling Fan"
+    ],
+    "correctAnswer": "Graphics Card (GPU)",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "GPU",
+      "Grafik Kartı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkujvok6k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın tüm bileşenlerini birbirine bağlayan ana kart hangisidir?",
+    "explanation": "Motherboard (Ana Kart), bilgisayarın tüm bileşenlerini birbirine bağlayan temel altyapıdır.",
+    "options": [
+      "RAM",
+      "Motherboard",
+      "CPU Cooler",
+      "Case"
+    ],
+    "correctAnswer": "Motherboard",
+    "tags": [
+      "Bilgisayar Donanımı",
+      "Motherboard",
+      "Ana Kart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d2urh8e19",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Hangi bilgisayar bileşeni, verilerin işlendiği ve komutların yürütüldüğü temel birimi içerir?",
+    "explanation": "CPU (Central Processing Unit), bilgisayarın beyni olarak adlandırılır ve tüm işlemleri yönetir. Verilerin işlenmesi, matematiksel hesaplamalar ve komutların yürütülmesi CPU tarafından gerçekleştirilir.",
+    "options": [
+      "RAM",
+      "CPU (Mikroişlemci)",
+      "GPU (Grafik İşlemci)",
+      "Hard Disk"
+    ],
+    "correctAnswer": "CPU (Mikroişlemci)",
+    "tags": [
+      "donanım",
+      "CPU",
+      "işlemci"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wn6hu8p3a",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi volatiftir (güç kesildiğinde veri kaybolur) bellek türüdür?",
+    "explanation": "RAM (Random Access Memory) volatiftir, yani bilgisayarın elektriği kesildiğinde içindeki tüm veriler kaybolur. SSD, Flash ve Hard Disk ise volatil olmayan depolama cihazlarıdır.",
+    "options": [
+      "SSD",
+      "Flash Bellek",
+      "RAM",
+      "Hard Disk"
+    ],
+    "correctAnswer": "RAM",
+    "tags": [
+      "donanım",
+      "bellek",
+      "volatil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e8o0qr0me",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Modern bilgisayarlarda en hızlı veri saklama cihazı hangisidir?",
+    "explanation": "NVMe (Non-Volatile Memory Express) SSD'ler, SATA SSD'lere göre daha yüksek veri aktarım hızına sahiptir ve doğrudan CPU'ya bağlanır. HDD mekanik bir yapıya sahiptir ve en yavaştır.",
+    "options": [
+      "HDD (Mekanik Hard Disk)",
+      "SSD (Solid State Drive)",
+      "NVMe SSD",
+      "USB Bellek"
+    ],
+    "correctAnswer": "NVMe SSD",
+    "tags": [
+      "donanım",
+      "depolama",
+      "hız"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fzlokkz1s",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "EASY",
+    "question": "Bilgisayarın görsel işlemlerini (oyunlar, grafik tasarım) yönetmekten sorumlu donanım bileşeni hangisidir?",
+    "explanation": "GPU (Graphics Processing Unit), özellikle görsel işlemler, oyunlar ve grafik tasarım için optimize edilmiştir. CPU genel işlemleri, GPU ise paralel görsel hesaplamaları yapar.",
+    "options": [
+      "CPU",
+      "RAM",
+      "GPU (Grafik İşlemci)",
+      "Motherboard"
+    ],
+    "correctAnswer": "GPU (Grafik İşlemci)",
+    "tags": [
+      "donanım",
+      "GPU",
+      "grafik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uf3lhy3m9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Bilgisayar Donanımı",
+    "difficulty": "GENERAL",
+    "question": "Bilgisayarın tüm bileşenlerinin birbirine bağlandığı temel platform hangisidir?",
+    "explanation": "Motherboard (Ana Kart), CPU, RAM, GPU, depolama cihazları ve diğer tüm bileşenlerin birbirine bağlandığı temel platformdur. Sistem bus'larını sağlar ve iletişim kurmayı mümkün kılar.",
+    "options": [
+      "CPU",
+      "RAM",
+      "Motherboard (Ana Kart)",
+      "Power Supply"
+    ],
+    "correctAnswer": "Motherboard (Ana Kart)",
+    "tags": [
+      "donanım",
+      "motherboard",
+      "ana kart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

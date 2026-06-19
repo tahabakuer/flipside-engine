@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "vnrg5e41u",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Türk mutfağında en yaygın kullanılan peynir çeşidi hangisidir?",
+    "explanation": "Kaşar, Türk mutfağında sandviç ve yemeklerde en çok kullanılan peynir çeşididir.",
+    "options": [
+      "Feta",
+      "Kaşar",
+      "Manav",
+      "Peynir"
+    ],
+    "correctAnswer": "Kaşar",
+    "tags": [
+      "peynir",
+      "mutfağımız",
+      "gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iuwyop4oj",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir türü zeytinyağı ile üretilir?",
+    "explanation": "Manav peyniri zeytinyağı kullanılarak üretilen özel bir peynir çeşididir.",
+    "options": [
+      "Gouda",
+      "Brie",
+      "Manav",
+      "Feta"
+    ],
+    "correctAnswer": "Manav",
+    "tags": [
+      "peynir",
+      "zeytinyağı",
+      "gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "egkoc8dbd",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir soya proteini ile yapılır?",
+    "explanation": "Peynir (Türkiye'ye özgü), soya proteini kullanılarak yapılan özel bir peynir çeşididir.",
+    "options": [
+      "Peynir",
+      "Kaşar",
+      "Gouda",
+      "Manav"
+    ],
+    "correctAnswer": "Peynir",
+    "tags": [
+      "peynir",
+      "soya",
+      "gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3vg3fhdo1",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir türü düşük yağlıdır?",
+    "explanation": "Peynir (soya bazlı) düşük yağlı ve sağlıklı bir alternatif olarak üretilmiştir.",
+    "options": [
+      "Kaşar",
+      "Manav",
+      "Peynir",
+      "Gouda"
+    ],
+    "correctAnswer": "Peynir",
+    "tags": [
+      "peynir",
+      "düşük yağlı",
+      "gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxschb1sz",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir çeşidi vegan değildir?",
+    "explanation": "Gouda, hayvansal sütten yapıldığı için vegan değildir. Manav ve Peynir (soya) alternatifleridir.",
+    "options": [
+      "Gouda",
+      "Manav",
+      "Feta",
+      "Peynir"
+    ],
+    "correctAnswer": "Gouda",
+    "tags": [
+      "peynir",
+      "vegan",
+      "gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d343e5h0i",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir türü en yüksek erime özelliğine sahiptir?",
+    "explanation": "Mozzarella peyniri yüksek nem içeriği ve özel sütten elde edildiği için en kolay eriyen peynir türüdür.",
+    "options": [
+      "Mozzarella",
+      "Cheddar",
+      "Parmesan",
+      "Feta"
+    ],
+    "correctAnswer": "Mozzarella",
+    "tags": [
+      "peynir",
+      "erime",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y9yl779kt",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Pejirlerin olgunlaşma süreci ne kadar sürebilir?",
+    "explanation": "Çoğu peynirin olgunlaşma süreci 3-6 ay arasında değişir, bazı özel türler daha uzun sürebilir.",
+    "options": [
+      "1-3 ay",
+      "3-6 ay",
+      "6-12 ay",
+      "12-24 ay"
+    ],
+    "correctAnswer": "3-6 ay",
+    "tags": [
+      "peynir",
+      "olgunlaşma",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "65ehxn8au",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir tuzsuz sütten yapılır?",
+    "explanation": "Gouda peyniri genellikle tuzsuz sütten yapılır ve hafif bir tat profiline sahiptir.",
+    "options": [
+      "Gouda",
+      "Brie",
+      "Camembert",
+      "Ricotta"
+    ],
+    "correctAnswer": "Gouda",
+    "tags": [
+      "peynir",
+      "tuz",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "utgfiy898",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Olgunlaşmamış peynirin yüzeyini nasıl korumalıyız?",
+    "explanation": "Olgunlaşmamış peynirin yüzeyi soğuk ve nemli ortamda daha iyi korunur.",
+    "options": [
+      "Soğuk hava",
+      "Kuru hava",
+      "Nemli hava",
+      "Işık altında"
+    ],
+    "correctAnswer": "Soğuk hava",
+    "tags": [
+      "peynir",
+      "koruma",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lv5ui2is2",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EXPERT",
+    "question": "Hangi peynir türü en yüksek protein içerir?",
+    "explanation": "Parmesan peyniri uzun süre olgunlaştığı ve yoğun bir yapıya sahip olduğu için en yüksek protein içerir.",
+    "options": [
+      "Parmesan",
+      "Mozzarella",
+      "Cheddar",
+      "Swiss"
+    ],
+    "correctAnswer": "Parmesan",
+    "tags": [
+      "peynir",
+      "protein",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j3ikej7bo",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir türü 'Kırmızı Peynir' olarak bilinen ve genellikle çiğ et ile ilişkilendirilen peynirdir?",
+    "explanation": "Cheddar peyniri kırmızı renkte üretilen ve geleneksel olarak çiğ et ile ilişkilendirilen popüler bir peynir türüdür.",
+    "options": [
+      "Cheddar",
+      "Parmesan",
+      "Roquefort",
+      "Provolone"
+    ],
+    "correctAnswer": "Cheddar",
+    "tags": [
+      "peynir",
+      "mutfak",
+      "gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9nrwj9l9o",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki peynirlerden hangisi Asya menşeli 'MUTFAK-Peynirler' kategorisinde yer alabilir?",
+    "explanation": "Tulum peyniri, Türk mutfağında yaygın olarak kullanılan ve 'MUTFAK-Peynirler' kategorisine uygun geleneksel bir peynir türüdür.",
+    "options": [
+      "Siyah Peynir",
+      "Tulum Peyniri",
+      "Gouda",
+      "Requeijón"
+    ],
+    "correctAnswer": "Tulum Peyniri",
+    "tags": [
+      "peynir",
+      "türk mutfak",
+      "gıda kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "halwfgbhy",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynirin yapımında 'Maya ve Süt' kombinasyonu kullanılır?",
+    "explanation": "Brie peyniri, maya ve süt kombinasyonu ile üretilen yumuşak kavrulmuş bir Fransız peyniridir.",
+    "options": [
+      "Brie",
+      "Camembert",
+      "Feta",
+      "Gorgonzola"
+    ],
+    "correctAnswer": "Brie",
+    "tags": [
+      "peynir",
+      "yapım süreci",
+      "fransız mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2cha4g27x",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "'MUTFAK-Peynirler' kategorisinde yer alan peynirlerin özelliklerinden hangisi doğrudur?",
+    "explanation": "MUTFAK-Peynirler kategorisindeki peynirlerin çoğu uygun koşullarda uzun süre saklanabilen kalıcı gıdalardır.",
+    "options": [
+      "Sadece taze kullanılır",
+      "Uzun süre saklanabilir",
+      "Her zaman kırmızıdır",
+      "Asla eritmez"
+    ],
+    "correctAnswer": "Uzun süre saklanabilir",
+    "tags": [
+      "peynir",
+      "saklama",
+      "kullanım özellikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijvyuq2xg",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EXPERT",
+    "question": "Hangi peynirin yapımında 'Peynir ve Tuzlu Süt' yöntemi kullanılır?",
+    "explanation": "Manchego peyniri, tuzlu süt yöntemi ile üretilen İber Yarımadası kökenli geleneksel bir peynirdir.",
+    "options": [
+      "Queso Fresco",
+      "Mozzarella",
+      "Manchego",
+      "Swiss"
+    ],
+    "correctAnswer": "Manchego",
+    "tags": [
+      "peynir",
+      "yapım tekniği",
+      "iber yarımadası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g0xefjbzs",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir türü en yüksek erime noktasına sahiptir?",
+    "explanation": "Parmesan peyniri sert bir peynir olup diğerlerine göre daha yüksek erime noktasına sahiptir.",
+    "options": [
+      "Cheddar",
+      "Gouda",
+      "Mozzarella",
+      "Parmesan"
+    ],
+    "correctAnswer": "Parmesan",
+    "tags": [
+      "peynir",
+      "mutfağ",
+      "bilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "swttkr1x0",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Peynirlerin olgunlaşma süresi en az olan hangisidir?",
+    "explanation": "Feta peyniri genellikle daha kısa süreli bir olgunlaşma sürecine sahiptir.",
+    "options": [
+      "Cheddar",
+      "Camembert",
+      "Brie",
+      "Feta"
+    ],
+    "correctAnswer": "Feta",
+    "tags": [
+      "peynir",
+      "mutfağ",
+      "olgunlaşma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ayiz2vsru",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EXPERT",
+    "question": "Hangi peynir türü kefir mantarı ile üretilir?",
+    "explanation": "Mozzarella peyniri kefir mantarı ile üretilen bir peynir türüdür.",
+    "options": [
+      "Cheddar",
+      "Mozzarella",
+      "Gouda",
+      "Parmesan"
+    ],
+    "correctAnswer": "Mozzarella",
+    "tags": [
+      "peynir",
+      "mutfağ",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sgifez82u",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir en yüksek yağ içeriğine sahiptir?",
+    "explanation": "Gouda peyniri diğerlerine göre daha yüksek yağ içeriğine sahiptir.",
+    "options": [
+      "Cheddar",
+      "Gouda",
+      "Brie",
+      "Mozzarella"
+    ],
+    "correctAnswer": "Gouda",
+    "tags": [
+      "peynir",
+      "mutfağ",
+      "yağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1b5pn7nym",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir türü en düşük erime noktasına sahiptir?",
+    "explanation": "Mozzarella peyniri en düşük erime noktasına sahip olan peynir türüdür.",
+    "options": [
+      "Cheddar",
+      "Mozzarella",
+      "Gouda",
+      "Parmesan"
+    ],
+    "correctAnswer": "Mozzarella",
+    "tags": [
+      "peynir",
+      "mutfağ",
+      "erime"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m17r33njf",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir türü en az yağlı peynir olarak kabul edilir?",
+    "explanation": "Feta peyniri, diğer peynirlere göre daha az yağ içerir ve genellikle koyu renkli peynirler arasında en az yağlı kabul edilir.",
+    "options": [
+      "Feta",
+      "Cheddar",
+      "Gouda",
+      "Parmesan"
+    ],
+    "correctAnswer": "Feta",
+    "tags": [
+      "peynir",
+      "yağ oranı",
+      "süt ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2l3yi3kjd",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Aşılmış süt hangi peynirlerde kullanılır?",
+    "explanation": "Roquefort peyniri, aşılmış sütte yapılır ve bu sayede karakteristik acımsı lezzetini kazanır.",
+    "options": [
+      "Brie",
+      "Camembert",
+      "Roquefort",
+      "Tulum"
+    ],
+    "correctAnswer": "Roquefort",
+    "tags": [
+      "peynir",
+      "aşılı süt",
+      "fransız peyniri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7wrakyb5x",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi ülke en çok kaşar peynir üretir?",
+    "explanation": "İtalya, kaşar peynir üretiminde dünya lideri konumundadır ve yıllık olarak çok büyük miktarda üretir.",
+    "options": [
+      "İtalya",
+      "Türkiye",
+      "Fransa",
+      "İspanya"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "peynir",
+      "ülkeler",
+      "kaşar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yzcb6hubj",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir en uzun süre saklanabilir?",
+    "explanation": "Parmesan peyniri, yaşlılaşması 2-5 yıl arasında olabilir ve bu süre boyunca acımsı lezzet kazanarak saklanabilir.",
+    "options": [
+      "Pepper Jack",
+      "Swiss",
+      "Parmesan",
+      "Havarti"
+    ],
+    "correctAnswer": "Parmesan",
+    "tags": [
+      "peynir",
+      "saklama",
+      "yaşlı peynir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2eke3mdfc",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir türü en sert peynirdir?",
+    "explanation": "Parmesan peyniri, diğer peynirlere göre en sert ve kuru yapıda olan peynirdir.",
+    "options": [
+      "Monterey Jack",
+      "Gouda",
+      "Provolone",
+      "Parmesan"
+    ],
+    "correctAnswer": "Parmesan",
+    "tags": [
+      "peynir",
+      "sertlik",
+      "yaşlı peynir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lzv14daa8",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir türü en uzun süre çürüyebilir?",
+    "explanation": "Tulum peyniri, geleneksel yöntemlerle üretildiği için en uzun süre çürüyebilir.",
+    "options": [
+      "Kaşar",
+      "Tulum",
+      "İçli",
+      "Feta"
+    ],
+    "correctAnswer": "Tulum",
+    "tags": [
+      "peynir",
+      "MUTFAK-Peynirler",
+      "türk peyniri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xvxa9vyic",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Peynirlerin temel hammaddesi nedir?",
+    "explanation": "Peynirlerin temel hammaddesi süt olmalıdır.",
+    "options": [
+      "Et",
+      "Mısır",
+      "Süt",
+      "Baklagil"
+    ],
+    "correctAnswer": "Süt",
+    "tags": [
+      "peynir",
+      "MUTFAK-Peynirler",
+      "hammaddesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "he56fwb6i",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir soğuk hava koşullarında dayanıklıdır?",
+    "explanation": "Tulum peyniri, soğuk hava koşullarında dayanıklıdır.",
+    "options": [
+      "İçli",
+      "Kaşar",
+      "Tulum",
+      "Feta"
+    ],
+    "correctAnswer": "Tulum",
+    "tags": [
+      "peynir",
+      "MUTFAK-Peynirler",
+      "dayanıklılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fvgmx344y",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Peynirlerin en yaygın üretim yöntemi hangisidir?",
+    "explanation": "Peynirlerin en yaygın üretim yöntemi sütten yapılır.",
+    "options": [
+      "Etten",
+      "Mısırdan",
+      "Sütten",
+      "Baklagilden"
+    ],
+    "correctAnswer": "Sütten",
+    "tags": [
+      "peynir",
+      "MUTFAK-Peynirler",
+      "üretim yöntemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jxdppz5ko",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EXPERT",
+    "question": "Hangi peynir türü geleneksel yöntemle üretilir?",
+    "explanation": "Tulum peyniri, geleneksel yöntemlerle üretilir.",
+    "options": [
+      "İçli",
+      "Kaşar",
+      "Tulum",
+      "Feta"
+    ],
+    "correctAnswer": "Tulum",
+    "tags": [
+      "peynir",
+      "MUTFAK-Peynirler",
+      "geleneksel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ikc75ro9",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi Türk mutfağında yaygın kullanılan bir peynir türüdür?",
+    "explanation": "Kaşar peyniri, Türk mutfağında en yaygın kullanılan yumuşak ve eriyen peynir türüdür.",
+    "options": [
+      "Kaşar",
+      "Cheddar",
+      "Parmesan",
+      "Gouda"
+    ],
+    "correctAnswer": "Kaşar",
+    "tags": [
+      "MUTFAK",
+      "Peynirler",
+      "Türk Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0pua8m98q",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir türü genellikle tuzlu suda saklanır?",
+    "explanation": "Feta peyniri geleneksel olarak tuzlu suda saklanır ve bu yöntem onun lezzetini korumaya yardımcı olur.",
+    "options": [
+      "Feta",
+      "Reçel",
+      "Mozzarella",
+      "Brie"
+    ],
+    "correctAnswer": "Feta",
+    "tags": [
+      "Peynirler",
+      "Yapım",
+      "Türk Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yhykrs20f",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi sert bir peynir türüdür?",
+    "explanation": "Cheddar, uzun süre olgunlaştırıldığı için sert bir peynir türüdür.",
+    "options": [
+      "Kaşar",
+      "Pepper Jack",
+      "Cheddar",
+      "Mozzarella"
+    ],
+    "correctAnswer": "Cheddar",
+    "tags": [
+      "Peynirler",
+      "Yapım",
+      "Sert Peynirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cviza9hxd",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir genellikle yoğurtlu yemeklerde kullanılır?",
+    "explanation": "Beyaz peynir, yoğurtlu yemeklerde ve salatalarda yaygın olarak kullanılan hafif tuzlu bir peynirdir.",
+    "options": [
+      "Kaşar",
+      "Beyaz Peynir",
+      "Gouda",
+      "Emmental"
+    ],
+    "correctAnswer": "Beyaz Peynir",
+    "tags": [
+      "Peynirler",
+      "Yemek Kullanımı",
+      "Türk Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7prnqnt9m",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi eriyen bir peynir türüdür?",
+    "explanation": "Mozzarella, yüksek ısıda eridiği için pizza ve diğer eriyen peynirli yemeklerde kullanılır.",
+    "options": [
+      "Parmesan",
+      "Gouda",
+      "Mozzarella",
+      "Brie"
+    ],
+    "correctAnswer": "Mozzarella",
+    "tags": [
+      "Peynirler",
+      "Yapım",
+      "Eriyen Peynirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ou3wl8vdl",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir çeşidi taze peynir olarak sınıflandırılır?",
+    "explanation": "Reykjavik, taze peynir grubuna ait bir çeşittir. Çedar, Brie ve Parmesan ise farklı sınıflandırmalara sahiptir.",
+    "options": [
+      "Çedar",
+      "Brie",
+      "Reykjavik",
+      "Parmesan"
+    ],
+    "correctAnswer": "Reykjavik",
+    "tags": [
+      "peynir",
+      "gıda",
+      "mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v3511hh4h",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Peynirlerin olgunlaşma süresi en uzun hangisidir?",
+    "explanation": "Parmesan gibi sert peynirlerin olgunlaşma süresi genellikle 12-24 ay arasında değişir. Diğer seçenekler daha kısa süreleri ifade eder.",
+    "options": [
+      "1-2 ay",
+      "3-6 ay",
+      "6-12 ay",
+      "12-24 ay"
+    ],
+    "correctAnswer": "12-24 ay",
+    "tags": [
+      "peynir",
+      "olgunlaşma",
+      "mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dbimyq7un",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir soğuk iklimde üretilir?",
+    "explanation": "Til peyniri soğuk iklim koşullarında üretilen özel bir çeşittir. Diğer peynirler ılımlı iklimlerde daha yaygındır.",
+    "options": [
+      "Cheddar",
+      "Gouda",
+      "Edam",
+      "Til"
+    ],
+    "correctAnswer": "Til",
+    "tags": [
+      "peynir",
+      "iklim",
+      "mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q1xp1xmay",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Peynirlerin saklama sıcaklığı ne olmalıdır?",
+    "explanation": "Peynirlerin uygun şekilde saklanması için +4°C ile +8°C arası ideal bir sıcaklıktır. Bu aralık peynirin bozulmasını engeller.",
+    "options": [
+      "-18°C",
+      "+4°C ile +8°C",
+      "+20°C",
+      "+35°C"
+    ],
+    "correctAnswer": "+4°C ile +8°C",
+    "tags": [
+      "peynir",
+      "saklama",
+      "mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "poucj6iw2",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EXPERT",
+    "question": "Hangi peynir kuru ot ve baharatlarla zenginleştirilir?",
+    "explanation": "Reykjavik peyniri kuru ot ve baharatlarla zenginleştirilen özel bir çeşittir. Diğer peynirler farklı baharat kombinasyonlarına sahiptir.",
+    "options": [
+      "Brie",
+      "Camembert",
+      "Reykjavik",
+      "Parmesan"
+    ],
+    "correctAnswer": "Reykjavik",
+    "tags": [
+      "peynir",
+      "baharat",
+      "mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e3trgebje",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Peynirler nasıl sınıflandırılır?",
+    "explanation": "Peynirler temel olarak olgunlaşma derecesine göre yaş, yarı yaş ve taze peynirlere ayrılır.",
+    "options": [
+      "Sadece yaş ve genç olarak",
+      "Yaş, yarı yaş ve taze olarak",
+      "Sadece sert ve yumuşak olarak",
+      "Renk ve şekle göre"
+    ],
+    "correctAnswer": "Yaş, yarı yaş ve taze olarak",
+    "tags": [
+      "peynir",
+      "sınıflandırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s9xwpcg9i",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir türü en yüksek erginlik oranına sahiptir?",
+    "explanation": "Yaş peynirler en uzun süreli olgunlaşma ve erginlik oranına sahiptir.",
+    "options": [
+      "Taze peynirler",
+      "Yarım yaş peynirler",
+      "Yaş peynirler",
+      "Peynir unu"
+    ],
+    "correctAnswer": "Yaş peynirler",
+    "tags": [
+      "peynir",
+      "olgunluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cezbr8po1",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Peynirlerin temel bileşeni nedir?",
+    "explanation": "Peynirlerin temel hammaddesi sütün yoğrulması ve fermentasyonu ile üretilir.",
+    "options": [
+      "Et",
+      "Süt",
+      "Mısır",
+      "Bulama"
+    ],
+    "correctAnswer": "Süt",
+    "tags": [
+      "peynir",
+      "bileşen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1cwk7d3ld",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir türü taze tüketilir?",
+    "explanation": "Taze beyaz peynir uzun olgunlaşma süreci geçirmez, taze tüketilir.",
+    "options": [
+      "Cheddar",
+      "Gouda",
+      "Taze Beyaz Peynir",
+      "Parmesan"
+    ],
+    "correctAnswer": "Taze Beyaz Peynir",
+    "tags": [
+      "peynir",
+      "tüketim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wybq165t7",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EXPERT",
+    "question": "Peynirlerin sertliği hangi faktöre bağlıdır?",
+    "explanation": "Peynirin sertliği yapısal yoğunluğu ve olgunluk süresine bağlıdır.",
+    "options": [
+      "Sadece rengine",
+      "Yapısal yoğunluğa ve yaşa",
+      "Şekline",
+      "Aroma"
+    ],
+    "correctAnswer": "Yapısal yoğunluğa ve yaşa",
+    "tags": [
+      "peynir",
+      "sertlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l8cl8jib9",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EXPERT",
+    "question": "Hangi peynir türü en az sığır yağı içerir?",
+    "explanation": "Adyghe, geleneksel olarak daha az sığır yağı içeren, hafif tuzlu bir peynir türüdür.",
+    "options": [
+      "Kaşar",
+      "Çedar",
+      "Parmesan",
+      "Adyghe"
+    ],
+    "correctAnswer": "Adyghe",
+    "tags": [
+      "peynir",
+      "türler",
+      "yağlıklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vojyjzaoe",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Peynirleri doğru saklamak için ideal sıcaklık kaç derecedir?",
+    "explanation": "Peynirlerin en iyi kalitede tutulması için buzdolabında 0-4°C arası sıcaklık idealdir.",
+    "options": [
+      "0-4°C",
+      "10-15°C",
+      "20-25°C",
+      "-5-0°C"
+    ],
+    "correctAnswer": "0-4°C",
+    "tags": [
+      "saklama",
+      "sıcaklık",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sxwwc9m43",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EASY",
+    "question": "Hangi peynir eritme özellikleriyle bilinir?",
+    "explanation": "Kaşar peyniri yüksek erime noktasına sahiptir ve ısıtıldığında kolayca erir.",
+    "options": [
+      "Parmesan",
+      "Feta",
+      "Kaşar",
+      "Ricotta"
+    ],
+    "correctAnswer": "Kaşar",
+    "tags": [
+      "peynir",
+      "eritme",
+      "kullanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8an5r3vkn",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "EXPERT",
+    "question": "Peynirlerde 'oluklanma' işlemi neden yapılır?",
+    "explanation": "Oluklanma işlemi, peynirin daha iyi tuz almasını ve korunmasını sağlar.",
+    "options": [
+      "Lezzet artırma",
+      "Şekil verme",
+      "Yağ ayırma",
+      "Tuz emdirme"
+    ],
+    "correctAnswer": "Tuz emdirme",
+    "tags": [
+      "peynir",
+      "oluklanma",
+      "işlem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "56q840wbm",
+    "category": "MUTFAK",
+    "subcategory": "Peynirler",
+    "difficulty": "GENERAL",
+    "question": "Hangi peynir türü en uzun süre saklanabilir?",
+    "explanation": "Parmesan, kuru ve sert bir peynir olduğu için en uzun süre (1-2 yıl) saklanabilir.",
+    "options": [
+      "Çedar",
+      "Parmesan",
+      "Kaşar",
+      "Feta"
+    ],
+    "correctAnswer": "Parmesan",
+    "tags": [
+      "peynir",
+      "saklama",
+      "türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

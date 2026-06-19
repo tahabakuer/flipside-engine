@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "i2wubm2n0",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What is the traditional Japanese rice vinegar called that gives sushi its characteristic flavor?",
+    "explanation": "Rice vinegar, known as 'su' in Japanese, is used to season sushi rice and gives it the characteristic tangy flavor that defines authentic sushi dishes.",
+    "options": [
+      "Sake Sisu",
+      "Rice Vinegar (Su)",
+      "Umami Sauce",
+      "Miso Paste"
+    ],
+    "correctAnswer": "Rice Vinegar (Su)",
+    "tags": [
+      "Japanese Cuisine",
+      "Sushi",
+      "Tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uxrq11yh7",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Which of these is NOT a traditional ingredient commonly found in Japanese cuisine?",
+    "explanation": "Ketchup is an American condiment and not traditionally used in authentic Japanese cuisine, while wasabi, soy sauce, and nori are fundamental ingredients.",
+    "options": [
+      "Wasabi",
+      "Soy Sauce (Shoyu)",
+      "Ketchup",
+      "Nori Seaweed"
+    ],
+    "correctAnswer": "Ketchup",
+    "tags": [
+      "Ingredients",
+      "Japanese Cuisine",
+      "Traditional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cap4povbf",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "What is the name of Japan's traditional multi-course dining style that originated in tea ceremonies?",
+    "explanation": "Kaiseki is Japan's refined multi-course dining style that evolved from tea ceremony cuisine, emphasizing seasonal ingredients and artistic presentation.",
+    "options": [
+      "Kaiseki",
+      "Teppanyaki",
+      "Sashimi Platter",
+      "Ramen Bowl"
+    ],
+    "correctAnswer": "Kaiseki",
+    "tags": [
+      "Japanese Cuisine",
+      "Dining Styles",
+      "Tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ugggdyuyk",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Which Japanese dish consists of raw fish served on top of seasoned rice?",
+    "explanation": "Sushi is the dish where raw fish is placed over seasoned vinegared rice. Sashimi is raw fish served without rice, while tempura is fried seafood.",
+    "options": [
+      "Sushi",
+      "Sashimi",
+      "Tempura",
+      "Udon"
+    ],
+    "correctAnswer": "Sushi",
+    "tags": [
+      "Japanese Cuisine",
+      "Raw Fish",
+      "Rice"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x0416cf1p",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "What traditional Japanese utensil is used to mix tea during the tea ceremony?",
+    "explanation": "Chasen is the bamboo whisk used to mix powdered green tea (matcha) during traditional Japanese tea ceremonies, while chawan is the tea bowl.",
+    "options": [
+      "Chasen",
+      "Chawan",
+      "Chaire",
+      "Noren"
+    ],
+    "correctAnswer": "Chasen",
+    "tags": [
+      "Tea Ceremony",
+      "Utensils",
+      "Tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w3b8x83ph",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağının en bilinen ve temel yemeği aşağıdakilerden hangisidir?",
+    "explanation": "Sushi, Japon mutfağının en ikonik ve dünyada en bilinen yemeğidir. Fermente edilmiş balıkla doldurulmuş pirinç tabanı üzerine kuruludur.",
+    "options": [
+      "Sushi",
+      "Ramen",
+      "Tempura",
+      "Okonomiyaki"
+    ],
+    "correctAnswer": "Sushi",
+    "tags": [
+      "Japon Mutfağı",
+      "Temel Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tnoynj5r8",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında 'Wasabi' bitkisi hangi amaçla kullanılır?",
+    "explanation": "Wasabi, geleneksel Japon mutfağında sushi ve sashimi ile birlikte servis edilen acımsı taze lezzetli eşlikçi sos olarak kullanılır.",
+    "options": [
+      "Tatlandırıcı olarak",
+      "Acı ve taze lezzet için eşlikçi sos olarak",
+      "Et yemeği için baharat olarak",
+      "Pişirme sıvısı olarak"
+    ],
+    "correctAnswer": "Acı ve taze lezzet için eşlikçi sos olarak",
+    "tags": [
+      "Japon Mutfağı",
+      "Baharatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3cocme0jw",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında 'Sashimi' yemeği nasıl hazırlanır?",
+    "explanation": "Sashimi, soğuk ve çiğ (veya çok az işlenmiş) taze balık dilimleri olarak servis edilen geleneksel Japon yemeğidir.",
+    "options": [
+      "Haşlanmış pirinç üzerine balıklarla",
+      "Soğuk pişmiş ve kesilmiş taze balık dilimleri olarak",
+      "Pişirilmiş et parçaları ile",
+      "Fırında pişirilen deniz ürünleri ile"
+    ],
+    "correctAnswer": "Soğuk pişmiş ve kesilmiş taze balık dilimleri olarak",
+    "tags": [
+      "Japon Mutfağı",
+      "Deniz Ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "st4ytl1dj",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Japon mutfağında 'Miso' ne tür bir malzemedir?",
+    "explanation": "Miso, Japon mutfağında soya fasulyesi ve deniz tuzu ile fermente edilerek yapılan geleneksel pastane olup miso çorbasının temel malzemesidir.",
+    "options": [
+      "Şekerli sos",
+      "Soya fasulyesi ile yapılan fermente pastane",
+      "Turşu suyu",
+      "Pişirme yağı"
+    ],
+    "correctAnswer": "Soya fasulyesi ile yapılan fermente pastane",
+    "tags": [
+      "Japon Mutfağı",
+      "Malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pz6k25zvz",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında 'Tempura' hangi tür gıdalar için kullanılır?",
+    "explanation": "Tempura, Japon mutfağında hafif un karışımıyla kaplanmış ve kızartılmış deniz ürünleri ile sebze dilimlerinden oluşan geleneksel yemek türüdür.",
+    "options": [
+      "Haşlanmış sebzeler",
+      "Pişirilmiş et parçaları",
+      "Kızartılmış deniz ürünleri ve sebze dilimleri",
+      "Soğuk servis edilen balıklar"
+    ],
+    "correctAnswer": "Kızartılmış deniz ürünleri ve sebze dilimleri",
+    "tags": [
+      "Japon Mutfağı",
+      "Pişirme Teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r6efutu4n",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağının en popüler başlık yemeklerinden biri olan 'Ramen'ın temel bileşeni nedir?",
+    "explanation": "Ramen, Japon mutfağının en popüler noodle yemeğidir ve temel olarak soya soslu tavuk veya domuz suyu bazında hazırlanır. Taze sebzeler (hindi, marul, maydane gibi) ramen'in vazgeçilmez bir bileşenidir.",
+    "options": [
+      "Taze sebzeler",
+      "Yulaf ezmesi",
+      "Nohut",
+      "Mısır"
+    ],
+    "correctAnswer": "Taze sebzeler",
+    "tags": [
+      "ramen",
+      "japon mutfağı",
+      "yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l8xuzzsdr",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağında 'Sushi' ve 'Sashimi' arasındaki temel fark nedir?",
+    "explanation": "Sushi, çiğ veya pişmiş balık/pirinç karışımından yapılırken Sashimi tamamen çiğ balıktan yapılmıştır. Sushi'nin ana bileşeni yoğurmuş pirincidir.",
+    "options": [
+      "Sushi'nin içi pirinçtendir",
+      "Sashimi, çiğ balıktan yapılırken sushi, pişmiş balıktan yapılır",
+      "Farkları yoktur, aynı yemektir",
+      "Sushi, daha çok tatlıdır"
+    ],
+    "correctAnswer": "Sushi'nin içi pirinçtendir",
+    "tags": [
+      "sushi",
+      "sashimi",
+      "japon mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lwge9o2t9",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağının temel soslarından olan 'Miso' hangi gıdaya dayalıdır?",
+    "explanation": "Miso, Japon mutfağının temel fermente sosudur ve soya fasulyesinden (soyabun) yapılır. Miso çorbası ve diğer yemeklerde kullanılır.",
+    "options": [
+      "Soğan",
+      "Soya fasulyesi",
+      "Domates",
+      "Zeytin"
+    ],
+    "correctAnswer": "Soya fasulyesi",
+    "tags": [
+      "miso",
+      "japon mutfağı",
+      "soslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "er8u7qofr",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında 'Teriyaki' usulü nasıl tanımlanır?",
+    "explanation": "Teriyaki, Japon mutfağında soya sosu (tare) ile hazırlanan şerbetli bir usuldür. Genellikle tavuk, balık veya sebze için kullanılır ve şerbetli kızartma yapım tekniğidir.",
+    "options": [
+      "Çiğ balıklık yapım tekniği",
+      "Soyası soslu kızartma",
+      "Su bazlı yemeğin pişirme yöntemi",
+      "Buzlu çay tüketimi"
+    ],
+    "correctAnswer": "Soyası soslu kızartma",
+    "tags": [
+      "teriyaki",
+      "japon mutfağı",
+      "pişirme tekniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l7muwmgjc",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağında 'Udon' noodles'ının en belirgin özelliği nedir?",
+    "explanation": "Udon, Japon mutfağının kalın beyaz noodle yemeğidir. Genellikle tavuk suyu veya miso bazında servis edilir ve ince kırmızı renkli değildir.",
+    "options": [
+      "İnce kırmızı renkli olması",
+      "Kalın beyaz hamurlu olması",
+      "Tatlı soslu olması",
+      "Pişmiş sebzelerle servis edilmesi"
+    ],
+    "correctAnswer": "Kalın beyaz hamurlu olması",
+    "tags": [
+      "udon",
+      "japon mutfağı",
+      "noodles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f7kdbq4v1",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında en yaygın kullanılan ve sushi ile sashimi'ye ana malzeme olan balık türü nedir?",
+    "explanation": "Tonbalık (çivit balığı), Japon mutfağında sushi, sashimi ve suşi için en yaygın kullanılan ana malzemedir.",
+    "options": [
+      "Tonbalık",
+      "Salmon",
+      "Unagi",
+      "Kamaboko"
+    ],
+    "correctAnswer": "Tonbalık",
+    "tags": [
+      "Japon Mutfağı",
+      "Balık",
+      "Sushi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "buu8t11cb",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağının sembolü olarak bilinen ve pirinç unu ile hazırlanan geleneksel tatlı ne adlanır?",
+    "explanation": "Mochi, Japon kültürünün sembolü olarak kabul edilen pirinç unu ile hazırlanan geleneksel tatlıdır.",
+    "options": [
+      "Mochi",
+      "Dango",
+      "Katsu",
+      "Tempura"
+    ],
+    "correctAnswer": "Mochi",
+    "tags": [
+      "Japon Mutfağı",
+      "Tatlı",
+      "Pirinç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9w68brmdr",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında deniz ürünlerinin üzerine soya sosu ve limon suyu eklenerek yapılan yemek ne adlandırılır?",
+    "explanation": "Sashimi, Japon mutfağında soya sosu ve limon suyu ile servis edilen çiğ deniz ürünlerinden oluşan ünlü yemektir.",
+    "options": [
+      "Sashimi",
+      "Kaiseki",
+      "Oden",
+      "Nabe"
+    ],
+    "correctAnswer": "Sashimi",
+    "tags": [
+      "Japon Mutfağı",
+      "Deniz Ürünleri",
+      "Soyasos"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k0exdexar",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında pirinçle yapılan, üzerine çeşitli malzemeler konan geleneksel tatlı ne adlanır?",
+    "explanation": "Okonomiyaki, Japon mutfağında pirinçle yapılan, üzerine çeşitli malzemeler konan geleneksel tatlıdır.",
+    "options": [
+      "Katsu",
+      "Okonomiyaki",
+      "Matcha Tiramisu",
+      "Ramen"
+    ],
+    "correctAnswer": "Okonomiyaki",
+    "tags": [
+      "Japon Mutfağı",
+      "Pirinç",
+      "Geleneksel Yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qatghbfyd",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Japon mutfağının en meşhur yemeklerinden biri olan ve deniz ürünlerinin üzerine buharda pişen geleneksel yemek ne adlandırılır?",
+    "explanation": "Nigiri Sushi, Japon mutfağının en meşhur yemeklerinden biri olarak bilinir ve pirinç balığı ile yapılmıştır.",
+    "options": [
+      "Hokkaido Ramen",
+      "Tempura",
+      "Nigiri Sushi",
+      "Katsu Don"
+    ],
+    "correctAnswer": "Nigiri Sushi",
+    "tags": [
+      "Japon Mutfağı",
+      "Deniz Ürünleri",
+      "Sushi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i9h6bjpip",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağının en ikonik yemeği ve dünyaca ünlü fast food markası olan neye kadar sınıflandırılır?",
+    "explanation": "Sushi, Japon mutfağının en tanınan yemeği olup dünya çapında fast food markaları tarafından da kullanılır.",
+    "options": [
+      "Sushi",
+      "Tempura",
+      "Yakitori",
+      "Ramen"
+    ],
+    "correctAnswer": "Sushi",
+    "tags": [
+      "temel",
+      "ikonik",
+      "sushi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eg2bauydj",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında kullanılan ana baharat ve tatlandırıcı madde hangisidir?",
+    "explanation": "Soy sosu, Japon mutfağında et ve balıklara lezzet katan temel baharat ve tatlandırıcı maddedir.",
+    "options": [
+      "Soy sosu",
+      "Kivi",
+      "Bal",
+      "Zencefil"
+    ],
+    "correctAnswer": "Soy sosu",
+    "tags": [
+      "baharat",
+      "tatlandırıcı",
+      "soy-sos"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "alyp28125",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağının geleneksel yemek aracı olarak hangi alet kullanılır?",
+    "explanation": "Japon mutfağında yemeklerin yenmesinde geleneksel olarak sushi kaşığı (chopsticks) kullanılır.",
+    "options": [
+      "Çatal",
+      "Kaşık",
+      "Sushi kaşığı (chopsticks)",
+      "Bıçak"
+    ],
+    "correctAnswer": "Sushi kaşığı (chopsticks)",
+    "tags": [
+      "araç",
+      "geleneksel",
+      "kaşık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lzd93qt7m",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağının en popüler içeceği ve geleneksel tatlısı hangisidir?",
+    "explanation": "Japon mutfağında yeşil çay, en popüler geleneksel içecek ve tatlı çeşitleriyle birlikte sunulur.",
+    "options": [
+      "Yeşil çay",
+      "Kahve",
+      "Şarap",
+      "Su"
+    ],
+    "correctAnswer": "Yeşil çay",
+    "tags": [
+      "içecek",
+      "geleneksel",
+      "yeşil-çay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rr0sb9o87",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Japon mutfağının sushi yapımında kullanılan ana malzeme hangisidir?",
+    "explanation": "Sushi yapımında beyaz pirinç, ana malzeme olarak kullanılır ve özel bir şekilde pişirilir.",
+    "options": [
+      "Kırmızı pirinç",
+      "Beyaz pirinç",
+      "Sarı mısır",
+      "Siyah pirinç"
+    ],
+    "correctAnswer": "Beyaz pirinç",
+    "tags": [
+      "malzeme",
+      "pirinç",
+      "sushi-yapım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x9v7rwxs5",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağının en temel ve sembolik sosu hangisidir?",
+    "explanation": "Soy sosu, Japon mutfağının en temel ve yaygın kullanılan sosudur. Yemeğin lezzetini artırır ve birçok Japon yemeğinde vazgeçilmez bir bileşendir.",
+    "options": [
+      "Soy sosu",
+      "Teriyaki sosu",
+      "Miso sosu",
+      "Pasta"
+    ],
+    "correctAnswer": "Soy sosu",
+    "tags": [
+      "japon mutfağı",
+      "soslar",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3d73prwhg",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Hangi yemek, çiğ balıklarla yapılan ve çubukla yerilen popüler Japon yemeğidir?",
+    "explanation": "Sushi, çiğ balıklar ve deniz ürünleri ile yapılan, çubukla yerilen dünyanın en bilinen Japon yemeğidir. Nori (deniz yosunu) ile sarılmış pirinç üzerine konur.",
+    "options": [
+      "Ramen",
+      "Sushi",
+      "Tempura",
+      "Yakitori"
+    ],
+    "correctAnswer": "Sushi",
+    "tags": [
+      "japon mutfağı",
+      "yemekler",
+      "balık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "le71al6zt",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında 'Wagyu' neyi ifade eder?",
+    "explanation": "Wagyu, Japonların özel olarak yetiştirdikleri kaliteli ve yağlı dana etidir. Yüksek maraja sahip olup, özellikle soteleme ve steak için tercih edilir.",
+    "options": [
+      "Kuzu eti",
+      "Dana eti",
+      "İstiridye",
+      "Hindi eti"
+    ],
+    "correctAnswer": "Dana eti",
+    "tags": [
+      "japon mutfağı",
+      "etler",
+      "wagyu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fyfxh7bln",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Hangi yemek, sıcak suyla servis edilen ve içinde sebzelerle birlikte çorba benzeri bir Japon yemeğidir?",
+    "explanation": "Ramen, sıcak soya bazlı su ile servis edilen ve içinde noodle (yazı), sebzeler, yumurta ve et parçaları bulunan popüler Japon yemeğidir.",
+    "options": [
+      "Miso şorobu",
+      "Ramen",
+      "Oden",
+      "Natto"
+    ],
+    "correctAnswer": "Ramen",
+    "tags": [
+      "japon mutfağı",
+      "çorbalar",
+      "ramen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5vql966ns",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Japon mutfağının 'Kaiseki' tarzı neyi ifade eder?",
+    "explanation": "Kaiseki, Japon mutfağının en geleneksel ve estetik bir şekilde hazırlanan çok kurslu yemeğidir. Her yemek özel olarak seçilmiş malzemelerle hazırlanır.",
+    "options": [
+      "Hızlı fast food",
+      "Geleneksel çok kurslu yemek",
+      "Çiğ balık yemeği",
+      "Dondurulmuş yiyecek"
+    ],
+    "correctAnswer": "Geleneksel çok kurslu yemek",
+    "tags": [
+      "japon mutfağı",
+      "kaiseki",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5p8csfbe4",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağındaki en yaygın ana yemek hangisidir?",
+    "explanation": "Ramon, Japon mutfağının en popüler noodle tabanıdır ve her bölgede farklı versiyonları bulunur.",
+    "options": [
+      "Sushi",
+      "Ramen",
+      "Tempura",
+      "Yakitori"
+    ],
+    "correctAnswer": "Ramen",
+    "tags": [
+      "japon mutfağı",
+      "ana yemekler",
+      "yapım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5b6gitbj3",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Sushi yapımında kullanılan pirinç nasıl pişirilir?",
+    "explanation": "Sushi için özel olarak üretilen gözenekli pirinç kullanılır çünkü daha iyi şeritlenir.",
+    "options": [
+      "Suyla",
+      "Şeritli pirinç",
+      "Gözenek pirinci",
+      "Hafif tuzlu su"
+    ],
+    "correctAnswer": "Gözenek pirinci",
+    "tags": [
+      "sushi",
+      "pirinç",
+      "materyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dg95pobfs",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Tempura yapımında hangi pişirme tekniği kullanılır?",
+    "explanation": "Tempura, malzemeleri hafif şeritli farla kızartarak yapılır ve genellikle balık veya sebzeler kullanılır.",
+    "options": [
+      "Kızartma",
+      "Haşlama",
+      "Pişirme",
+      "Grillleme"
+    ],
+    "correctAnswer": "Kızartma",
+    "tags": [
+      "tempura",
+      "pişirme",
+      "yapım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rjgnslld8",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Japon çay kültüründe en önemli içecek hangisidir?",
+    "explanation": "Matcha, Japon çay kültürünün en önemli içeceğidir ve geleneksel olarak tatlı veya tatlıyla birlikte tüketilir.",
+    "options": [
+      "Siyah çay",
+      "Matcha çayı",
+      "Yeşil çay",
+      "Bitki çayı"
+    ],
+    "correctAnswer": "Matcha çayı",
+    "tags": [
+      "çay",
+      "matcha",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u88p66ubz",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfaklarında hangi malzeme sos yapımında kullanılır?",
+    "explanation": "Soy sosu, Japon mutfağının temel malzemesidir ve et, sebze veya pirinç tabanları için sıklıkla kullanılır.",
+    "options": [
+      "Tereyağı",
+      "Soy sosu",
+      "Zeytinyağı",
+      "Beyaz şarap"
+    ],
+    "correctAnswer": "Soy sosu",
+    "tags": [
+      "soslar",
+      "malzemeler",
+      "yapım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cqxrz7gnm",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağının en meşhur yemeği olan sushi'yi yaparken hangi balık türü kullanılır?",
+    "explanation": "Sushi, ferah deniz ürünlerinin özellikle ton (salmon), uskumru gibi balıkların yaprak suşi ile birlikte tüketilmesidir.",
+    "options": [
+      "Ton Balığı",
+      "Tavuk Göğsü",
+      "Kuzu Etli",
+      "Domuz Butu"
+    ],
+    "correctAnswer": "Ton Balığı",
+    "tags": [
+      "sushi",
+      "deniz ürünleri",
+      "japon mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6dty7x6ys",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağında kullanılan 'tempura' yemeği nasıl pişirilir?",
+    "explanation": "Tempura, sebzeler ve balıkların ince un sosu ile kaplanıp yüksek ateşte kızartılarak hazırlanır.",
+    "options": [
+      "Haşlama",
+      "Kızartma",
+      "Gril",
+      "Yumuşatma"
+    ],
+    "correctAnswer": "Kızartma",
+    "tags": [
+      "tempura",
+      "pişirme teknikleri",
+      "japon mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0164ejndc",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında hangi baharat sushi'ye eklenmez?",
+    "explanation": "Sushi, geleneksel olarak karabiber içermeyen japon malzemeleriyle hazırlanır.",
+    "options": [
+      "Rice Vinegar",
+      "Soy Sosu",
+      "Karabiber",
+      "Tohru"
+    ],
+    "correctAnswer": "Karabiber",
+    "tags": [
+      "baharatlar",
+      "sushi malzemeleri",
+      "japon mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8h0x2svp6",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında 'ramen' yemeği hangi malzemeden yapılır?",
+    "explanation": "Ramen, çorba bazlı bir ramen yemeği olarak soy sosu ile hazırlanır.",
+    "options": [
+      "Pirinç",
+      "Makarna",
+      "Yulaflı Yumurtalı",
+      "Soyalı"
+    ],
+    "correctAnswer": "Soyalı",
+    "tags": [
+      "ramen",
+      "makarna",
+      "japon mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qrt9c10mi",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Japon mutfağında 'okonomiyaki' neye benzer?",
+    "explanation": "Okonomiyaki, Japon kökenli bir pancake benzeri yemektir, genelde sebzeler ve et ile yapılır.",
+    "options": [
+      "Pancake",
+      "Pizza",
+      "Hamburger",
+      "Sushi"
+    ],
+    "correctAnswer": "Pancake",
+    "tags": [
+      "okonomiyaki",
+      "pancake",
+      "japon mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kknoliive",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "日本料理の代表的な酢飯に混ぜる魚は何が最も一般的ですか？",
+    "explanation": "握り寿司や手巻寿司によく使われる鮨は、主に鰹節（かつおぶし）を酢飯に混ぜて作るのが伝統的な方法です。",
+    "options": [
+      "鮭 (サーモン)",
+      "マグロ (トロ)",
+      "イワシ",
+      "鰹"
+    ],
+    "correctAnswer": "鰹",
+    "tags": [
+      "寿司",
+      "日本料理",
+      "食材"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k13s95kc2",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "「天ぷら」の正解の調理法は何ですか？",
+    "explanation": "天ぷらは、食材に薄い衣をつけて油で揚げる料理です。低温でじっくり揚げることが基本とされています。",
+    "options": [
+      "揚げる",
+      "煮る",
+      "蒸す",
+      "炒める"
+    ],
+    "correctAnswer": "揚げる",
+    "tags": [
+      "天ぷら",
+      "調理法",
+      "日本料理"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p0a6i67li",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "日本の伝統的なお正月の飾り「しめ縄」は何で作られますか？",
+    "explanation": "しめ縄は主に竹で作られ、年末年始の門や家などに飾り、災厄を払い福を招く意味があります。",
+    "options": [
+      "竹",
+      "桜",
+      "松",
+      "ひまわり"
+    ],
+    "correctAnswer": "竹",
+    "tags": [
+      "日本文化",
+      "お正月",
+      "伝統行事"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ybvxw23cv",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "「味噌汁」で使われる代表的な発酵食材は何ですか？",
+    "explanation": "味噌汁の名称通り、味噌が主役です。大豆を発酵させた醤油と違い、米や麦などの穀物も使われることがあります。",
+    "options": [
+      "醤油",
+      "米酢",
+      "味噌",
+      "塩"
+    ],
+    "correctAnswer": "味噌",
+    "tags": [
+      "味噌汁",
+      "発酵食品",
+      "日本料理"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c7aw5m9o1",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "日本の「ラーメン」の起源はどの国から伝わったとされていますか？",
+    "explanation": "ラーメンは1910年代の上海居留地から伝わったとされ、日本の素材や味付けで改良されました。",
+    "options": [
+      "韓国",
+      "中国",
+      "アメリカ",
+      "インド"
+    ],
+    "correctAnswer": "中国",
+    "tags": [
+      "ラーメン",
+      "由来",
+      "日本料理"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yacnblphk",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EASY",
+    "question": "Japon mutfağının en bilinen ve ikonik yemeği aşağıdakilerden hangisidir?",
+    "explanation": "Sushi, Japon mutfağının en bilinen ve ikonik yemeğidir. Bu yemek, taze balık veya diğer deniz ürünleri, nori (deniz yosunu) ve bulgur ile hazırlanır.",
+    "options": [
+      "Sashimi",
+      "Tempura",
+      "Ramen",
+      "Sushi"
+    ],
+    "correctAnswer": "Sushi",
+    "tags": [
+      "temel",
+      "ikonik",
+      "yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2vgvxi4os",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında 'wasabi' ne için kullanılır?",
+    "explanation": "Wasabi, Japon mutfağında genellikle sushi ve sashimi ile birlikte yenir. Acımsı bir tada sahip olan wasabi, deniz ürünlerinin tadını vurgular.",
+    "options": [
+      "Tatlandırıcı olarak",
+      "Acı baharatlı sos olarak",
+      "Etli yemeklerde",
+      "Çay yapımında"
+    ],
+    "correctAnswer": "Acı baharatlı sos olarak",
+    "tags": [
+      "baharat",
+      "sos",
+      "wasabi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7mnifk5tz",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Sushi yapımında kullanılan 'nori' nedir?",
+    "explanation": "Nori, sushi yapımında kullanılan kuru deniz yosunudur. Genellikle sarımsı kahverengi renkte ve ince bir şekilde kesilir.",
+    "options": [
+      "Deniz yosunu",
+      "Mısır nişastası",
+      "Kurutulmuş balık",
+      "Şekerleme"
+    ],
+    "correctAnswer": "Deniz yosunu",
+    "tags": [
+      "nori",
+      "sushi",
+      "deniz_yosunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v36tr0qyj",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfağında 'miso' ne tür bir ürün kullanılır?",
+    "explanation": "Miso, Japon mutfağında fermente bakliyat (genellikle nohut veya soya) bazlı bir sos olarak kullanılır. Genellikle ramen ve miso çorbası yapımında tercih edilir.",
+    "options": [
+      "Taze peynir",
+      "Fermente bakliyat sosu",
+      "Kurutulmuş sebze",
+      "Balık yağı"
+    ],
+    "correctAnswer": "Fermente bakliyat sosu",
+    "tags": [
+      "miso",
+      "sos",
+      "fermente"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ri2g8q976",
+    "category": "MUTFAK",
+    "subcategory": "Japon Mutfağı",
+    "difficulty": "EXPERT",
+    "question": "Japon mutfağında 'katsu' ne tür bir yemekdir?",
+    "explanation": "Katsu, Japon mutfağında kızarmış et (genellikle tavuk veya domuz eti) veya sebze yemekidir. Genellikle ekmek ve mısır nişastası ile kaplanarak kızartılır.",
+    "options": [
+      "Tatlı",
+      "Kızarmış et veya sebze",
+      "Çorba",
+      "Yumurta"
+    ],
+    "correctAnswer": "Kızarmış et veya sebze",
+    "tags": [
+      "katsu",
+      "kızarmış",
+      "et_sebze"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

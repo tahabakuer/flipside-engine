@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "5f4xilc89",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi romanların en eski bilinen örneklerinden biri olarak kabul edilen 'Mickey Mouse' hangi yıl ilk kez yayınlandı?",
+    "explanation": "Mickey Mouse, 1928 yılında 'Steamboat Willie' filminde ilk kez yayınlandı ve bu çizgi karakter Disney'in en bilinen sembollerinden biri oldu.",
+    "options": [
+      "1928",
+      "1930",
+      "1925",
+      "1932"
+    ],
+    "correctAnswer": "1928",
+    "tags": [
+      "çizgi roman",
+      "Mickey Mouse",
+      "tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f4tfj1g86",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Avrupa'da çizgi roman geleneğini geliştiren önemli bir Fransız sanatçı kimdir?",
+    "explanation": "Jean 'Moebius' Giraud, 1942-1952 yılları arasında yaşamış önemli Fransız çizgi roman sanatçısıdır ve 'Valérian ve Laureline' gibi bilinen eserlere imza atmıştır.",
+    "options": [
+      "Moebius",
+      "Françoise Mouly",
+      "Jean Giraud",
+      "Art Spiegelman"
+    ],
+    "correctAnswer": "Moebius",
+    "tags": [
+      "çizgi roman",
+      "Fransız sanatçı",
+      "Moebius"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2fznpqig",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "'Çizgi Romanlar' kategorisinde en çok ödüller alan Amerikan çizgi roman sanatçıları arasında kim bulunur?",
+    "explanation": "Will Eisner, 1948-2005 yılları arasında yaşamış önemli Amerikan çizgi roman sanatçısıdır ve 'Çizgi Romanlar' kategorisinde en çok ödüller alan isimlerden biridir.",
+    "options": [
+      "Harvey Kurtzman",
+      "Joe Kubert",
+      "Will Eisner",
+      "Neal Adams"
+    ],
+    "correctAnswer": "Will Eisner",
+    "tags": [
+      "çizgi roman",
+      "Will Eisner",
+      "ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "usxaxcmpx",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman karakteri ilk kez 1938 yılında yayınlandı?",
+    "explanation": "Superman, 1938 yılında 'Action Comics' #1'de ilk kez yayınlandı ve DC Comics'in en ikonik karakterlerinden biri oldu.",
+    "options": [
+      "Superman",
+      "Batman",
+      "Wonder Woman",
+      "Green Arrow"
+    ],
+    "correctAnswer": "Superman",
+    "tags": [
+      "çizgi roman",
+      "Superman",
+      "DC Comics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r8cno450p",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "'Çizgi Romanlar' kategorisinde 'Maus' adlı eser hangi yıl yayınlandı?",
+    "explanation": "'Maus', Art Spiegelman tarafından yazılan ve 1986 yılında yayınlanan önemli bir Amerikan çizgi romanıdır. Pulitzer Ödülü kazanan ilk çizgi romandır.",
+    "options": [
+      "1986",
+      "1990",
+      "1980",
+      "1992"
+    ],
+    "correctAnswer": "1986",
+    "tags": [
+      "çizgi roman",
+      "Maus",
+      "Art Spiegelman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hxkxviyf2",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi roman türünün en eski örneklerinden biri olarak kabul edilen 'Asterix' serisinin yazarları hangileridir?",
+    "explanation": "Asterix serisi, Fransız yazarlar René Goscinny (senaryo) ve Albert Uderzo (çizimler) tarafından 1959-1980 yılları arasında oluşturulmuştur.",
+    "options": [
+      "Jean-Yves Ferri ve Daniel Pennac",
+      "Alberto Gómez ve Carlos Ruiz",
+      "René Goscinny ve Albert Uderzo",
+      "Maurice Bendel ve Pierre Martin"
+    ],
+    "correctAnswer": "René Goscinny ve Albert Uderzo",
+    "tags": [
+      "çizgi roman",
+      "Asterix",
+      "fransız çizgi roman",
+      "tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i0whktu4m",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi roman endüstrisindeki 'Marvel' yayınevinin kurucusu kimdir?",
+    "explanation": "Marvel Comics, Stan Lee ve Jack Kirby gibi yaratıcılar tarafından 1939 yılında kurulmuştur ve süper kahraman çizgi romanları ile tanınır.",
+    "options": [
+      "Stan Lee ve Jack Kirby",
+      "Joe Simon ve Jack Kirby",
+      "Bill Finger ve Bob Kane",
+      "Jerry Siegel ve Joe Shuster"
+    ],
+    "correctAnswer": "Stan Lee ve Jack Kirby",
+    "tags": [
+      "Marvel",
+      "çizgi roman",
+      "yayınevi",
+      "kurucu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3qbzc4vzx",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "'Watchmen' çizgi romanının yazarı kimdir?",
+    "explanation": "Watchmen, Alan Moore tarafından yazılan ve Dave Gibbons ile çizilen, 1986-1987 yıllarında yayınlanan kült çizgi romandır.",
+    "options": [
+      "Alan Moore",
+      "Neil Gaiman",
+      "Grant Morrison",
+      "Frank Miller"
+    ],
+    "correctAnswer": "Alan Moore",
+    "tags": [
+      "Watchmen",
+      "çizgi roman",
+      "tarihi çizgi roman",
+      "yazar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8evb8medb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi roman formatında yayınlanan ve 'Mafalda' karakterine sahip ünlü çizgi roman serisinin yazarı kimdir?",
+    "explanation": "Mafalda, Arjantinli sanatçı Quino (asıl adı Joaquín Salvador Lavado) tarafından 1964'ten beri yayınlanan ünlü çizgi roman serisidir.",
+    "options": [
+      "Quino (Joaquín Lavado)",
+      "Hiro Mashima",
+      "Osamu Tezuka",
+      "Moebius"
+    ],
+    "correctAnswer": "Quino (Joaquín Lavado)",
+    "tags": [
+      "Mafalda",
+      "çizgi roman",
+      "argantin çizgi roman",
+      "karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "focbry6ut",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi roman endüstrisindeki 'DC Comics' yayınevinin en meşhur süper kahramanlarından biri olan Batman'in yaratıcıları kimlerdir?",
+    "explanation": "Batman, Bob Kane tarafından çizilmiş ve Bill Finger tarafından geliştirilmiştir. Karakter 1939 yılında Detective Comics #27'de ilk kez görülmüştür.",
+    "options": [
+      "Bob Kane ve Bill Finger",
+      "Stan Lee ve Jack Kirby",
+      "Alan Moore ve Dave Gibbons",
+      "Frank Miller ve Tom King"
+    ],
+    "correctAnswer": "Bob Kane ve Bill Finger",
+    "tags": [
+      "Batman",
+      "DC Comics",
+      "süper kahraman",
+      "yaratıcı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3uc5zecxs",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EASY",
+    "question": "Çizgi roman türü arasında en bilinen klasik örnek hangisidir?",
+    "explanation": "Batman, DC Comics tarafından yayınlanan en bilinen çizgi roman karakterlerinden biridir ve super kahraman türünün ikonik örneğidir.",
+    "options": [
+      "Mickey Mouse",
+      "Batman",
+      "Donald Duck",
+      "Tom & Jerry"
+    ],
+    "correctAnswer": "Batman",
+    "tags": [
+      "çizgi roman",
+      "super kahraman",
+      "popüler kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8l08l9lg0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Marvel Comics'in kurucusu kimdir?",
+    "explanation": "Stan Lee, Marvel Comics'in kurucularından biri olarak kabul edilir ve Iron Man, Spider-Man gibi birçok karakterin yaratıcısıdır.",
+    "options": [
+      "Stan Lee",
+      "Jack Kirby",
+      "Joe Shuster",
+      "Bill Finger"
+    ],
+    "correctAnswer": "Stan Lee",
+    "tags": [
+      "marvel",
+      "çizgi roman tarihi",
+      "yazarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y0bqstv63",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi çizgi roman, 1980'lerdeki 'çizgi roman krizi'ne öncülük etmiştir?",
+    "explanation": "Watchmen, The Dark Knight Returns ve V for Vendetta, 1980'lerdeki 'çizgi roman krizi'ne öncülük eden eserlerdir ve mükemmel çizgi roman olarak kabul edilir.",
+    "options": [
+      "Watchmen",
+      "The Dark Knight Returns",
+      "V for Vendetta",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "tags": [
+      "çizgi roman tarihi",
+      "80'ler",
+      "alternatif çizgi roman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g2i05q0tr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi roman formatında yayınlanan ilk Türk eseri hangisidir?",
+    "explanation": "Hikmet Sami, Türkiye'de çizgi roman formatında yayınlanan ilk Türk eseri olarak kabul edilir.",
+    "options": [
+      "Fevziye Çetin",
+      "Ayla Koçyiğit",
+      "Hikmet Sami",
+      "Zülfü Livaneli"
+    ],
+    "correctAnswer": "Hikmet Sami",
+    "tags": [
+      "türk çizgi roman",
+      "edebiyat tarihi",
+      "ilk eserler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q3dgjz4ib",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EASY",
+    "question": "Çizgi roman sanatı için kullanılan tekniklerden biri hangisidir?",
+    "explanation": "Ink (tinta), çizgi roman sanatında en yaygın olarak kullanılan teknik ve malzemedir.",
+    "options": [
+      "Ink (Tinta)",
+      "Watercolor",
+      "Gouache",
+      "Acrylic"
+    ],
+    "correctAnswer": "Ink (Tinta)",
+    "tags": [
+      "çizgi roman tekniği",
+      "sanat malzemeleri",
+      "ink"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i2obxe44q",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman karakteri, 'Sonsuzluk Taşı' ve evrensel güçlerle ünlü Marvel karakteridir?",
+    "explanation": "Thor, Marvel evreninin en bilinen karakterlerinden biri olup sonsuzluk taşları ve asgari güçleriyle tanınır.",
+    "options": [
+      "Spider-Man",
+      "Iron Man",
+      "Captain America",
+      "Thor"
+    ],
+    "correctAnswer": "Thor",
+    "tags": [
+      "çizgi roman",
+      "Marvel",
+      "süper kahraman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2qczbpepv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman türü, gerçek olaylar veya tarihi kişiler üzerine kurgulanır?",
+    "explanation": "Gerçekçi çizgi romanlar, gerçek olaylar veya tarihi kişiler üzerine kurgulanır.",
+    "options": [
+      "Fantezi Çizgi Romanı",
+      "Gerçekçi Çizgi Romanı",
+      "Korku Çizgi Romanı",
+      "Romantik Çizgi Romanı"
+    ],
+    "correctAnswer": "Gerçekçi Çizgi Romanı",
+    "tags": [
+      "çizgi roman türleri",
+      "gerçek olaylar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nufzuw5s8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi karakter, DC Comics evreninin simgesi ve 'Kendini Feda' kahramanıdır?",
+    "explanation": "Batman, DC Comics'in en bilinen karakterlerinden biri olup kendini feda eden kahramandır.",
+    "options": [
+      "Batman",
+      "Superman",
+      "Wonder Woman",
+      "Aquaman"
+    ],
+    "correctAnswer": "Batman",
+    "tags": [
+      "DC Comics",
+      "kahramanlar",
+      "simge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "syx8d0t8k",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman platformu, özellikle genç yetişkin kitlesi için popülerdir?",
+    "explanation": "Genç yetişkin çizgi romanları, özellikle genç yetişkin kitlesi için tasarlanmıştır.",
+    "options": [
+      "Çocuk Kitabı",
+      "Genç Yetişkin Çizgi Romanı",
+      "Büyük Yaşlı Kitap",
+      "Eğitim Materyali"
+    ],
+    "correctAnswer": "Genç Yetişkin Çizgi Romanı",
+    "tags": [
+      "çizgi roman kitlesi",
+      "genç yetişkin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wievq64pq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi çizgi roman karakteri, 'Karanlık Gece' olayının merkezindeki önemli bir DC karakteridir?",
+    "explanation": "Cyborg, 'Karanlık Gece' olayının merkezindeki önemli bir DC Comics karakteridir.",
+    "options": [
+      "Green Arrow",
+      "Flash",
+      "Cyborg",
+      "Nightwing"
+    ],
+    "correctAnswer": "Cyborg",
+    "tags": [
+      "DC Comics",
+      "Cyborg",
+      "karanlık gece"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "en8wxz1a9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman türü, karanlık ve gerilimli atmosfer içeren bir üslup kullanır?",
+    "explanation": "Karanlık çizgi romanlar, karanlık ve gerilimli atmosfer içeren bir üslup kullanır.",
+    "options": [
+      "Açık Çizgi Romanı",
+      "Karanlık Çizgi Romanı",
+      "Romantik Çizgi Romanı",
+      "Komedi Çizgi Romanı"
+    ],
+    "correctAnswer": "Karanlık Çizgi Romanı",
+    "tags": [
+      "çizgi roman türleri",
+      "karanlık atmosfer",
+      "gerilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "undrww2xh",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi platform, 'Çizgi Roman' formatında dijital içerik sunar?",
+    "explanation": "Web çizgi romanları, dijital platformlarda 'Çizgi Roman' formatında içerik sunar.",
+    "options": [
+      "Kitap",
+      "Dergi",
+      "Web Çizgi Romanı",
+      "Video"
+    ],
+    "correctAnswer": "Web Çizgi Romanı",
+    "tags": [
+      "çizgi roman formatları",
+      "dijital platformlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sapt6jugo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman karakteri, 'Kurtuluş Savaşı' ve Milli Mücadele'de önemli bir Türk kahramanıdır?",
+    "explanation": "Mustafa Kemal Atatürk, Kurtuluş Savaşı ve Milli Mücadele'nin en önemli Türk kahramanıdır.",
+    "options": [
+      "Mustafa Kemal Atatürk",
+      "İsmet İnönü",
+      "Fevzi Çakmak",
+      "Ali Fuat Cebesoy"
+    ],
+    "correctAnswer": "Mustafa Kemal Atatürk",
+    "tags": [
+      "çizgi roman karakterleri",
+      "Türk kahramanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2kcgdxm0s",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman platformu, 'Çizgi Roman' formatında mobil uygulama sunar?",
+    "explanation": "Mobil uygulamalar, 'Çizgi Roman' formatında dijital içerik sunar.",
+    "options": [
+      "Tablet",
+      "Mobil Uygulama",
+      "Dijital Kitap",
+      "E-Kitap"
+    ],
+    "correctAnswer": "Mobil Uygulama",
+    "tags": [
+      "çizgi roman platformları",
+      "mobil uygulamalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wnp87107g",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman türü, 'Korku' ve 'Gerilim' öğeleri içeren bir üslup kullanır?",
+    "explanation": "Korku çizgi romanları, 'Korku' ve 'Gerilim' öğeleri içeren bir üslup kullanır.",
+    "options": [
+      "Komedi Çizgi Romanı",
+      "Korku Çizgi Romanı",
+      "Fantezi Çizgi Romanı",
+      "Romantik Çizgi Romanı"
+    ],
+    "correctAnswer": "Korku Çizgi Romanı",
+    "tags": [
+      "çizgi roman türleri",
+      "korku",
+      "gerilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijimy0pu5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EASY",
+    "question": "Hangi çizgi roman karakteri, DC Comics evrenindeki en ünlü süper kahramanlardan biridir ve 'The Dark Knight' olarak bilinir?",
+    "explanation": "Batman, DC Comics tarafından yayınlanan ve 'The Dark Knight' lakabıyla bilinen en ünlü süper kahramanlardan biridir. Gotham City'de faaliyet gösterir.",
+    "options": [
+      "Batman",
+      "Superman",
+      "Wonder Woman",
+      "Green Lantern"
+    ],
+    "correctAnswer": "Batman",
+    "tags": [
+      "DC Comics",
+      "Süper Kahraman",
+      "Çizgi Roman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lecm4cq0i",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman türü, gerçekçi hikayeler anlatmak için kullanılır ve genellikle yetişkin okuyucuya hitap eder?",
+    "explanation": "Graphic Noveller, daha uzun hikayeler anlatır ve genellikle gerçekçi temalar içerir. Yetişkin okuyuculara hitap eden tek boyutlu çizgi romanlardır.",
+    "options": [
+      "Graphic Novel",
+      "Manga",
+      "Webtoon",
+      "Comic Strip"
+    ],
+    "correctAnswer": "Graphic Novel",
+    "tags": [
+      "Çizgi Roman Türleri",
+      "Okuma",
+      "Hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w9pghyzm6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EASY",
+    "question": "Hangi Japon çizgi roman türü, 'Manga' olarak bilinir ve dünya genelinde popülerdir?",
+    "explanation": "Manga, Japonya'da geliştirilen ve dünya genelinde popüler olan Japon çizgi roman türüdür. Webtoon ise Güney Kore kökenli bir türdür.",
+    "options": [
+      "Manhwa",
+      "Manga",
+      "Manhwa",
+      "Manhua"
+    ],
+    "correctAnswer": "Manga",
+    "tags": [
+      "Japon Çizgi Roman",
+      "Kültür",
+      "Popüler Kütle"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yld1vzmvp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi 'Watchmen' çizgi romanı, Norman Mailer tarafından yazılmıştır?",
+    "explanation": "İşte Watchmen, Alan Moore ve Dave Gibbons tarafından yazılmıştır. The Dark Knight Returns ise Frank Miller tarafından yazılmıştır.",
+    "options": [
+      "Watchmen",
+      "The Dark Knight Returns",
+      "V for Vendetta",
+      "Preacher"
+    ],
+    "correctAnswer": "The Dark Knight Returns",
+    "tags": [
+      "Çizgi Roman Klasik",
+      "Süper Kahraman",
+      "Kurgu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u4pziv4ix",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman platformu, dijital ortamda okunabilen çizgi romanları yayınlamaya odaklanır?",
+    "explanation": "Webtoon Platformu, dijital ortamda okunabilen çizgi romanları yayınlamaya odaklanır. Özellikle Güney Kore kökenli çizgi romanlar bu platformda popülerdir.",
+    "options": [
+      "Webtoon Platformu",
+      "Comic Strip",
+      "Graphic Novel Platformu",
+      "Digital Comic Platformu"
+    ],
+    "correctAnswer": "Webtoon Platformu",
+    "tags": [
+      "Dijital Çizgi Roman",
+      "Platform",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ac778qrwr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi romanların tarihsel olarak ilk kez hangi yüzyılda yayınlanmaya başlandığı kabul edilir?",
+    "explanation": "Çizgi romanların tarihsel kökeni 17. yüzyıla dayanır. İlk çizgi roman benzeri yayınlar Fransa'da bu dönemde ortaya çıkmıştır.",
+    "options": [
+      "16. yüzyıl",
+      "17. yüzyıl",
+      "18. yüzyıl",
+      "19. yüzyıl"
+    ],
+    "correctAnswer": "17. yüzyıl",
+    "tags": [
+      "tarih",
+      "çizgi roman",
+      "sanat tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j508od74t",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman karakteri, dünya çapında en çok satan çizgi romanlardan biridir?",
+    "explanation": "Spider-Man, Marvel Comics tarafından yayınlanan ve dünya çapında en çok satan çizgi roman karakterlerinden biridir. 1962'de ilk kez yayınlandı.",
+    "options": [
+      "Spider-Man",
+      "Batman",
+      "X-Men",
+      "Wolverine"
+    ],
+    "correctAnswer": "Spider-Man",
+    "tags": [
+      "karakterler",
+      "Marvel",
+      "popüler kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m5he6bras",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Çizgi romanda 'ink' (boya) kullanımı için hangi terim teknik olarak geçer?",
+    "explanation": "Çizgi romanda boya kullanımı için teknik olarak 'inkçilik' veya 'inking' terimi kullanılır. Bu, çizimlerin kalıcı hale getirilmesi işlemidir.",
+    "options": [
+      "Tusleme",
+      "Boyalama",
+      "İnkçilik",
+      "Renklendirme"
+    ],
+    "correctAnswer": "İnkçilik",
+    "tags": [
+      "teknik terimler",
+      "çizgi roman sanatı",
+      "profesyonel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "71i4dtnmi",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Batı çizgi roman geleneğinde en önemli yayıncılardan biri olan DC Comics hangi yıl kuruldu?",
+    "explanation": "DC Comics, 1934 yılında kurulmuş ve Batman, Superman gibi ikonik karakterleri yayınlamıştır. Marvel ise 1939'da kurulmuştur.",
+    "options": [
+      "1934",
+      "1937",
+      "1940",
+      "1942"
+    ],
+    "correctAnswer": "1934",
+    "tags": [
+      "yayıncılar",
+      "DC Comics",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ye989k9oo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Çizgi romanda sayfa düzeni (panel placement) sanatına ne ad verilir?",
+    "explanation": "Çizgi romanda panel yerleşimi ve sayfa düzeni için 'kompozisyon' terimi kullanılır. Bu, görsel akışı belirleyen önemli bir sanatsal tekniktir.",
+    "options": [
+      "Kompozisyon",
+      "Paneller",
+      "Düzenleme",
+      "Yerleşim"
+    ],
+    "correctAnswer": "Kompozisyon",
+    "tags": [
+      "sanat teknikleri",
+      "çizgi roman sanatı",
+      "profesyonel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o6jrs5ghu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi roman türünde ilk kez hangi yıl 'The Phantom' karakteri yaratıldı?",
+    "explanation": "The Phantom, çizgi roman tarihinde önemli bir karakterdir ve 1936 yılında yaratılmıştır. Bu karakter, uzun ömürlü çizgi roman serisi olarak bilinir.",
+    "options": [
+      "1936",
+      "1928",
+      "1941",
+      "1950"
+    ],
+    "correctAnswer": "1936",
+    "tags": [
+      "çizgi roman",
+      "tarih",
+      "karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y2zwtez1o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi ünlü çizgi romancısı 'Watchmen' adlı yapıtını yazmıştır?",
+    "explanation": "Alan Moore, çizgi roman tarihinde önemli bir yazardır ve 1986-1987 yıllarında yayınlanan Watchmen adlı yapıtını yazmıştır. Bu eser, çizgi roman türünün en tartışılan eserlerinden biridir.",
+    "options": [
+      "Alan Moore",
+      "Neil Gaiman",
+      "Grant Morrison",
+      "Brian Michael Bendis"
+    ],
+    "correctAnswer": "Alan Moore",
+    "tags": [
+      "çizgi roman",
+      "yazarlar",
+      "Watchmen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9mz103y0d",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EASY",
+    "question": "Çizgi romanlar hangi sanat formu ile ilişkilidir?",
+    "explanation": "Çizgi romanlar, grafik tasarım sanatı ile doğrudan ilişkilidir. Görsel anlatım ve karakter tasarımı grafik tasarım prensiplerini içerir.",
+    "options": [
+      "Grafik tasarım",
+      "Siyah-beyaz resim",
+      "Klasik resim",
+      "Dijital sanat"
+    ],
+    "correctAnswer": "Grafik tasarım",
+    "tags": [
+      "çizgi roman",
+      "sanat",
+      "grafik tasarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8qbm44pdc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "'Maus' adlı çizgi romanda fareler hangi tarihi olayı temsil eder?",
+    "explanation": "'Maus', Art Spiegelman tarafından yazılmış ve çizilmiş bir çizgi romandır. Bu eserde fareler Holokost sırasında Yahudi soykırımı mağdurlarını temsil eder.",
+    "options": [
+      "Holokost",
+      "Vietnam Savaşı",
+      "Kore Savaşı",
+      "Fransız Devrimi"
+    ],
+    "correctAnswer": "Holokost",
+    "tags": [
+      "çizgi roman",
+      "Maus",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m6p917bkk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi roman türünde ilk kez kadın karakterin kahraman olarak yer aldığı ünlü seri hangisidir?",
+    "explanation": "Wonder Woman, çizgi roman tarihinde önemli bir kadın kahramandır ve 1941 yılında ilk kez yaratılmıştır. Bu karakter, DC Comics tarafından yayınlanmıştır.",
+    "options": [
+      "Wonder Woman",
+      "X-Men",
+      "Batman",
+      "Spider-Man"
+    ],
+    "correctAnswer": "Wonder Woman",
+    "tags": [
+      "çizgi roman",
+      "kadın karakterler",
+      "kahramanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1kv89gzhr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EASY",
+    "question": "Çizgi romanların ilk ortaya çıktığı ülke hangisidir?",
+    "explanation": "Çizgi romanların (comic books) ilk modern formatı 1930'larda Amerika Birleşik Devletleri'nde ortaya çıkmıştır. The Funnies gibi erken örnekler ABD'de yayınlanmıştır.",
+    "options": [
+      "Fransa",
+      "ABD",
+      "Almanya",
+      "İtalya"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "çizgi roman",
+      "tarih",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "agtxi6yyu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EASY",
+    "question": "Spider-Man karakterini kim yaratmıştır?",
+    "explanation": "Spider-Man (Örümcek Adam) karakteri, Stan Lee ve çizimci Jack Kirby tarafından 1962'de yaratılmıştır. Marvel Comics'a aittir.",
+    "options": [
+      "Stan Lee ve Jack Kirby",
+      "Bob Kane",
+      "Joe Simon",
+      "Bill Finger"
+    ],
+    "correctAnswer": "Stan Lee ve Jack Kirby",
+    "tags": [
+      "çizgi roman",
+      "Marvel",
+      "karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hggoaggtk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi romanların sayfasındaki renkli kutucuklar neyin yerini tutar?",
+    "explanation": "Çizgi romanlarda renkli kutucuklar (baloncuklar) karakterlerin diyaloglarını ve ses efektlerini içerir. Anlatım metni genellikle sayfa kenarlarına yerleştirilir.",
+    "options": [
+      "Diyalog ve ses efektleri",
+      "Anlatım metni",
+      "Sahne açıklamaları",
+      "Karakter biyografisi"
+    ],
+    "correctAnswer": "Diyalog ve ses efektleri",
+    "tags": [
+      "çizgi roman",
+      "format",
+      "tasarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jr122s7ib",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Batman çizgi romanlarında ilk kez yayınlandığı yıl hangisidir?",
+    "explanation": "Batman karakteri 1939 yılında Detective Comics #27'de ilk kez yayınlanmıştır. Bob Kane ve Bill Finger tarafından yaratılmıştır.",
+    "options": [
+      "1937",
+      "1939",
+      "1942",
+      "1945"
+    ],
+    "correctAnswer": "1939",
+    "tags": [
+      "çizgi roman",
+      "DC Comics",
+      "Batman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "au6nai7vq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Manga'nın ana yayılma bölgesi hangisidir?",
+    "explanation": "Manga, Japon çizgi roman formatı olup Doğu Asya kökenlidir ve özellikle Japonya'da yaygındır. Batılı çizgi romanlardan (comic books) farklı bir geleneği temsil eder.",
+    "options": [
+      "Güney Amerika",
+      "Avustralya",
+      "Doğu Asya (özellikle Japonya)",
+      "Kuzey Afrika"
+    ],
+    "correctAnswer": "Doğu Asya (özellikle Japonya)",
+    "tags": [
+      "çizgi roman",
+      "manga",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijawjl8fg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EASY",
+    "question": "Hangi çizgi roman karakteri 'Marvel' evreninde yer alır?",
+    "explanation": "Spider-Man, Marvel Comics tarafından yayınlanan çizgi roman karakteridir. Batman DC Comics'e, Superman ise 'DC' evrenine aittir.",
+    "options": [
+      "Batman",
+      "Superman",
+      "Spider-Man",
+      "Wolverine"
+    ],
+    "correctAnswer": "Spider-Man",
+    "tags": [
+      "çizgi roman",
+      "Marvel",
+      "kahraman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "89ynwm3pt",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "'Çizgi Romanlar' terimiyle ne ifade edilir?",
+    "explanation": "Çizgi romanlar, seriler halinde yayımlanan ve karakterlerin, olayların görsel olarak anlatıldığı hikaye koleksiyonlarıdır.",
+    "options": [
+      "Sadece tek sayfa hikayeler",
+      "Seriler halinde yayınlanan görsel hikaye koleksiyonları",
+      "Animasyonlu filmler",
+      "Tiyatro gösterileri"
+    ],
+    "correctAnswer": "Seriler halinde yayınlanan görsel hikaye koleksiyonları",
+    "tags": [
+      "çizgi roman",
+      "tanım",
+      "hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "elju6qe0a",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi çizgi roman evreninde 'Süperman' bulunur?",
+    "explanation": "Süperman, DC Comics tarafından yayınlanan en bilinen çizgi roman karakterlerinden biridir.",
+    "options": [
+      "Marvel",
+      "DC Comics",
+      "Dark Horse",
+      "Image Comics"
+    ],
+    "correctAnswer": "DC Comics",
+    "tags": [
+      "çizgi roman",
+      "DC",
+      "Süperman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jrbtbyob6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "GENERAL",
+    "question": "Çizgi romanlar ilk kez hangi yüzyılda popülerleşmiştir?",
+    "explanation": "Çizgi romanlar 19. yüzyılda başlasa da, 20. yüzyılda (özellikle 1930'lardan sonra) geniş kitlelere hitap etmeye başlamıştır.",
+    "options": [
+      "16. yüzyıl",
+      "18. yüzyıl",
+      "19. yüzyıl",
+      "20. yüzyıl"
+    ],
+    "correctAnswer": "20. yüzyıl",
+    "tags": [
+      "çizgi roman",
+      "tarih",
+      "popülerlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7t6hkxu84",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Çizgi Romanlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi çizgi roman karakteri 'X-Men' evrenine aittir?",
+    "explanation": "Deadpool, Marvel Comics tarafından yayınlanan ve X-Men ile bağlantılı çizgi roman karakteridir. Captain America ve Iron Man klasik Marvel kahramanlarıdır.",
+    "options": [
+      "Deadpool",
+      "Captain America",
+      "Iron Man",
+      "The Flash"
+    ],
+    "correctAnswer": "Deadpool",
+    "tags": [
+      "çizgi roman",
+      "Marvel",
+      "X-Men"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

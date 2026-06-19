@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "20ldxjmsj",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Selçuklu Devleti'nin kurucusu ve ilk biyatiği kimdir?",
+    "explanation": "Süleyman Şah, Gazı Selçuk'un oğlu olup 1037-1086 yılları arasında Sivas ve Tokat bölgelerini yönetmiş ve Selçukluların temeli atmıştır. Tugrul Bey ise ikinci biyatiği olarak devleti geliştirmiştir.",
+    "options": [
+      "Süleyman Şah",
+      "Tugrul Bey",
+      "Gazı Selçuk",
+      "Melikşah"
+    ],
+    "correctAnswer": "Süleyman Şah",
+    "tags": [
+      "Selçuklu",
+      "Kurucu",
+      "Dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6katbsjt5",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Yıldırım Kocatepe'nin 'İslam Tarihinin en büyük zaferi' olarak kabul edilen savaşında karşılaştığı güç hangisidir?",
+    "explanation": "1073 yılında İstanbul'un fethine yönelik Bizans ordusuna karşı verilen savaşı kazanarak, Selçukluların İslam dünyası açısından en büyük zaferini elde etmiştir.",
+    "options": [
+      "Bizans İmparatorluğu",
+      "Moğol İmparatorluğu",
+      "Horasan Selçukluları",
+      "Saman Devleti"
+    ],
+    "correctAnswer": "Bizans İmparatorluğu",
+    "tags": [
+      "Selçuklu",
+      "Yıldırım Kocatepe",
+      "Savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dltu1olfl",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Melikşah döneminde kurulan ve 500 yıl boyunca hizmet veren devasa kervansaray hangisidir?",
+    "explanation": "Melikşah döneminde kurulan Karaköy Kervansarayı, İslam dünyasının ticaret yollarında 500 yıl boyunca hizmet vermiş ve Selçuklu altyapı başarılarının en iyi örneğidir.",
+    "options": [
+      "Karaköy Kervansarayı",
+      "İstanbul Çarşısı",
+      "Erzurum Kervansarayı",
+      "Ankara Meydan"
+    ],
+    "correctAnswer": "Karaköy Kervansarayı",
+    "tags": [
+      "Melikşah",
+      "Altyapı",
+      "Ticaret"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fc8vnudl5",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin 'Altın Aslan Bayrağı' altında verdiği son büyük savaş hangisidir?",
+    "explanation": "1071 yılında Malazgirt/Manzikert olarak bilinen savaşı, Selçukluların Anadolu'ya geçişinin başlangıcıdır. Bu zaferle Anadolu Selçuklu Devleti kurulmuştur.",
+    "options": [
+      "Malazgirt Savaşı",
+      "Dorylaion Savaşı",
+      "Manzikert Savaşı",
+      "İslam Çarşısı"
+    ],
+    "correctAnswer": "Manzikert Savaşı",
+    "tags": [
+      "Selçuklu",
+      "Manzikert",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ff15mqen",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu mimarisinde 'Gök Medrese', 'İkiz Minareli Cami' ve 'Türbe' olarak bilinen en önemli eserin hangisidir?",
+    "explanation": "1220 yılında inşaa edilen Alâeddin Camii, Selçuklu mimarisinin en önemli örneklerinden biridir. İki minareli ve kubbeli tasarımıyla Selçuklu sanatının zirvesini temsil eder.",
+    "options": [
+      "Konya Alâeddin Camii",
+      "Nemrut Dağı Tapınağı",
+      "Eski Şehir Mezarı",
+      "Güvercin Kulesi"
+    ],
+    "correctAnswer": "Konya Alâeddin Camii",
+    "tags": [
+      "Selçuklu",
+      "Mimari",
+      "Konya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9n59lxy0k",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin kurucusu olan Alp Arslan'ın en önemli zaferlerinden biri olarak kabul edilen Malazgirt Savaşı hangi yıl gerçekleşmiştir?",
+    "explanation": "Malazgirt Savaşı 23 Ağustos 1071 tarihinde gerçekleşmiş ve bu zaferle Osmanlılar Anadolu'ya yerleşme imkanı bulmuştur.",
+    "options": [
+      "1071",
+      "1080",
+      "1092",
+      "1156"
+    ],
+    "correctAnswer": "1071",
+    "tags": [
+      "Selçuklu",
+      "Malazgirt",
+      "Osmanlı Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ek6yz5pip",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu Devleti'nin en güçlü padişahlarından biri olan Kılıç Arslan I. hangi sultan tarafından tahta çıkarılmıştır?",
+    "explanation": "Kılıç Arslan I., babası Melikşah tarafından tahta çıkarılmış ve daha sonra 1085'te Alp Arslan'ın ölümünden sonra taht kavgasında yer almıştır.",
+    "options": [
+      "Alp Arslan",
+      "Melikşah",
+      "Kılıç Arslan II.",
+      "Mehmed I."
+    ],
+    "correctAnswer": "Melikşah",
+    "tags": [
+      "Selçuklu",
+      "Padişahlar",
+      "Siyasi Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qf5o94nn5",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin başkenti olarak kabul edilen Konya şehri hangi dönemin en önemli kültürel merkezlerinden biri olmuştur?",
+    "explanation": "Alaaddin Keykubad döneminde Konya, Selçuklu'nun en büyük başkentlerinden biri haline gelmiş ve burada birçok cami ve medrese inşa edilmiştir.",
+    "options": [
+      "Sultan II.",
+      "Alaaddin Keykubad",
+      "Kayseri",
+      "Nizamiye"
+    ],
+    "correctAnswer": "Alaaddin Keykubad",
+    "tags": [
+      "Selçuklu",
+      "Konya",
+      "Kültürel Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9q15ddaim",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu Devleti'nin son dönemini yaşayan Sultan II. Osman'ın taht kavgasında hangi sultanla karşı karşıya kalmıştır?",
+    "explanation": "Osman II. (Sultan II.) ile Alaaddin Keykubad arasında taht kavgası yaşanmış ve bu dönemde Selçuklu'nun güçsüzleşmeye başladığı görülmektedir.",
+    "options": [
+      "Alaaddin Keykubad",
+      "Kayqubad I.",
+      "Izzeddin Kemaleddin",
+      "Gazneli Mahmud"
+    ],
+    "correctAnswer": "Alaaddin Keykubad",
+    "tags": [
+      "Selçuklu",
+      "Taht Kavgası",
+      "Son Dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t6d9lbo4l",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin Nizamiye Medreseleri hangi padişah döneminde yaygınlaşmıştır?",
+    "explanation": "Nizamiye Medreseleri Melikşah döneminde yaygınlaşmış ve bu medreseler Selçuklu'nun kültürel gelişiminde önemli rol oynamıştır.",
+    "options": [
+      "Melikşah",
+      "Alp Arslan",
+      "Kılıç Arslan I.",
+      "Kayqubad II."
+    ],
+    "correctAnswer": "Melikşah",
+    "tags": [
+      "Selçuklu",
+      "Eğitim",
+      "Müslüman Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1isjpqd31",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin kurucusu Sultan Alp Arslan'ın en ünlü zaferi hangi savaşla elde edildi?",
+    "explanation": "Sultan Alp Arslan'ın en önemli zaferi Manzikert Savaşı (1071) ile elde edilmiştir. Bu savaşta Bizans İmparatorluğu'nun Rumenoğlu Nikiforos'un komutasındaki ordusu yenilmiş ve Anadolu'da Türk yerleşimi başlamıştır.",
+    "options": [
+      "Malazgirt Savaşı",
+      "Dandanakan Savaşı",
+      "Candavar Savaşı",
+      "Manzikert Savaşı"
+    ],
+    "correctAnswer": "Manzikert Savaşı",
+    "tags": [
+      "Selçuklu",
+      "Savaşlar",
+      "Alp Arslan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pusa8ff8h",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin en güçlü halifesi olan Sultan I. Kılıç Arslan'ın tahta çıkışı hangi dönemle ilişkilidir?",
+    "explanation": "Sultan I. Kılıç Arslan, 1072-1092 yılları arasında hüküm sürmüştür ve bu da 11. yüzyılın başlarına denk gelmektedir.",
+    "options": [
+      "11. Yüzyıl Başları",
+      "11. Yüzyıl Orta",
+      "12. Yüzyıl Başları",
+      "12. Yüzyıl Orta"
+    ],
+    "correctAnswer": "11. Yüzyıl Başları",
+    "tags": [
+      "Selçuklu",
+      "Halifeler",
+      "Tarih Kronolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q20qqg6nu",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu Devleti'nin Anadolu'daki ilk vezirlerinden biri olan Nizamülmülk hangi dönemde yaşamıştır?",
+    "explanation": "Nizamülmülk, Melikşah (1076-1092) döneminde yaşamış ve Selçuklu devletine büyük hizmetler etmiştir. İstanbul'da medrese kurmuş ve eğitim sisteminin gelişimine katkıda bulunmuştur.",
+    "options": [
+      "Melikşah dönemi",
+      "Sultan Kılıç Arslan dönemi",
+      "Sultan Alp Arslan dönemi",
+      "Sultan Mesud I dönemi"
+    ],
+    "correctAnswer": "Melikşah dönemi",
+    "tags": [
+      "Selçuklu",
+      "Vezirler",
+      "Nizamülmülk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "34ea4217j",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin son halifesi Sultan I. Kılıç Arslan'ın oğlu Sultan II. Kılıç Arslan hangi yılda tahta çıkmıştır?",
+    "explanation": "Sultan II. Kılıç Arslan, 1105 yılında tahta çıkmış ve 1116 yılında babası I. Kılıç Arslan'ın oğlu olan Sultan II. Kılıç Arslan tarafından öldürülmüştür.",
+    "options": [
+      "1092",
+      "1105",
+      "1116",
+      "1156"
+    ],
+    "correctAnswer": "1105",
+    "tags": [
+      "Selçuklu",
+      "Halifeler",
+      "Taht Değişimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0baln7ok3",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu Devleti'nin 'Harem-i Şerif'i' olarak adlandırılan saray kompleksi nerede yer alırdır?",
+    "explanation": "Selçuklu Devleti'nin merkezi Konya'da idi ve Harem-i Şerif olarak adlandırılan saray kompleksi burada yer alıyordu. Bu bölge Selçuklu yöneticilerinin yaşadığı ana saray bölgesiydi.",
+    "options": [
+      "İstanbul",
+      "Konya",
+      "Nicaea",
+      "Diyarbakır"
+    ],
+    "correctAnswer": "Konya",
+    "tags": [
+      "Selçuklu",
+      "Saraylar",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w0farqm1x",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin Bağdat'ı ele geçirme sürecinde önemli bir rol oynayan Tuğrul Bey'in Bağdat'ı fethettiği yıl aşağıdakilerden hangisidir?",
+    "explanation": "Tuğrul Bey, 945 yılında Bağdat'ı ele geçirerek Büyük Selçuklu Devleti'nin İslam dünyasındaki otoritesini artırmıştır.",
+    "options": [
+      "932",
+      "945",
+      "967",
+      "1000"
+    ],
+    "correctAnswer": "945",
+    "tags": [
+      "Selçuklu",
+      "İslam Tarihi",
+      "TYT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xheh55by5",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Malazgirt Savaşı'nın ardından Anadolu'da kurulan ve ilk sultanı Kaykhusraw I olan devlet aşağıdakilerden hangisidir?",
+    "explanation": "Malazgirt Savaşı (1071) sonrası Anadolu'da kurulan ve Selçuklu Devleti'nin Anadolu'ya devam eden şubesi Selçuklu Sultanlığı (Rum)'dur.",
+    "options": [
+      "Saman Devleti",
+      "Karevel Devleti",
+      "Selçuklu Sultanlığı (Rum)",
+      "Gazneli Devleti"
+    ],
+    "correctAnswer": "Selçuklu Sultanlığı (Rum)",
+    "tags": [
+      "Anadolu Tarihi",
+      "Selçuklu",
+      "TYT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2hm70lxrm",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Alparslan döneminde Selçuklu idaresini güçlendirmiş, Medrese sistemiyle eğitime katkı sunmuş Nişamülmülk'ün vefatı hangi olayla ilişkilidir?",
+    "explanation": "Nişamülmülk, Alp Arslan döneminde idari ve medrese reformları yapmıştır. Vefatı genellikle Malazgirt öncesi dönemde gerçekleşmiştir.",
+    "options": [
+      "Malazgirt Savaşı",
+      "Anadolu'da devletleşme",
+      "İsfahan'ın yağmalanması",
+      "Nizam-ı Alem'in başarısı"
+    ],
+    "correctAnswer": "Malazgirt Savaşı",
+    "tags": [
+      "Selçuklu",
+      "Dönemsel Olaylar",
+      "AYT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hnz0bjorg",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Büyük Selçuklu Devleti'nin sonu ile İsfahan'ın yağmalanmasında etkili olan Moğol hanedanının lideri kimdir?",
+    "explanation": "1256 yılında Hulagu Han tarafından İsfahan yağmalanarak Büyük Selçuklu Devleti'nin sonu gelmiştir.",
+    "options": [
+      "Batuhan",
+      "Hulagu Han",
+      "Ögedei",
+      "Kaidu"
+    ],
+    "correctAnswer": "Hulagu Han",
+    "tags": [
+      "Selçuklu Sonu",
+      "Moğol İslam",
+      "TYT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s6m57x8yh",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Medreselerinin yapımında ve eğitim sisteminde önemli bir rol oynayan Nişamülmülk'ün kurduğu kurumun adı nedir?",
+    "explanation": "Nişamülmülk, Bağdat'ta kurduğu Nizamiyye Medresesi ile İslam dünyasında yükseköğretim sistemini yaygınlaştırmıştır.",
+    "options": [
+      "Hünkâr Mahkemesi",
+      "Nizamiyye Medresesi",
+      "Diyanet İşleri Başkanlığı",
+      "Selçuklu Askeri Okulu"
+    ],
+    "correctAnswer": "Nizamiyye Medresesi",
+    "tags": [
+      "Eğitim Tarihi",
+      "Selçuklu",
+      "TYT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xlqf0ru7l",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Büyük Selçuklu Devleti'nin kurucusu kimdir?",
+    "explanation": "Büyük Selçuklu Devleti, Tughril Bey ve Kara Arslan'ın ortak çabasıyla kurulan imparatorluktur. Alp Arslan ise onlardan sonra gelen ikinci hükümdardır.",
+    "options": [
+      "Tughril Bey",
+      "Alp Arslan",
+      "Mervan ibn Uthman",
+      "Seyfullah"
+    ],
+    "correctAnswer": "Tughril Bey",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Kuruluş",
+      "Osmanlı Öncesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o2gzxz2uq",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Malazgirt Savaşı hangi yıl gerçekleşmiştir?",
+    "explanation": "Malazgirt Savaşı, Büyük Selçuklu Devleti'nin Rum İmparatorluğu'na karşı kazandığı zafer ile 8 Ağustos 1071 tarihinde gerçekleşmiştir.",
+    "options": [
+      "1065",
+      "1071",
+      "1080",
+      "1092"
+    ],
+    "correctAnswer": "1071",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Malazgirt",
+      "Savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rk4dptl5u",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Büyük Selçuklu Devleti'nin ilk başkenti olarak kabul edilen şehir hangisidir?",
+    "explanation": "Tughril Bey döneminde Büyük Selçuklu Devleti'nin başkenti Rey olarak belirlenmiştir. Daha sonra İsfahan da önemli bir merkez olmuştur.",
+    "options": [
+      "İsfahan",
+      "Rey",
+      "Merv",
+      "Nişapur"
+    ],
+    "correctAnswer": "Rey",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Başkentler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9x9guvim8",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Alp Arslan Sultan hangi yıl vefat etmiştir?",
+    "explanation": "Alp Arslan, 1071 Malazgirt Savaşı'ndan sonra 1072 yılında Bağdat'ta vefat etmiştir.",
+    "options": [
+      "1069",
+      "1070",
+      "1072",
+      "1075"
+    ],
+    "correctAnswer": "1072",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Hükümdarlar",
+      "Ölümler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "parg4oepj",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Büyük Selçuklu Devleti'nin dağılmasında en büyük rolü hangi grup oynamıştır?",
+    "explanation": "Büyük Selçuklu Devleti, Moğol İmparatorluğu'nun Hulagu Kağan'ın ordusu tarafından 1256 yılında tamamen yıkılmıştır.",
+    "options": [
+      "Karahanlılar",
+      "Gazneliler",
+      "Moğollar",
+      "Oğuzlar"
+    ],
+    "correctAnswer": "Moğollar",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Dağılma",
+      "İstila"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "unagbe97m",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Selçuklu Devleti'nin kurucusu Alparslan'ın en önemli zaferi hangi savaştır?",
+    "explanation": "Malazgirt Savaşı (1071) Selçukluların Anadolu'daki hakimiyetini ve Türklerin Bizans'a karşı zaferini simgeler. Alparslan bu savaşta Bizans İmparatoru Romanos Diogenes'e karşı büyük bir başarı kazanmıştır.",
+    "options": [
+      "Malazgirt Savaşı",
+      "Dandana Kalesi Savaşı",
+      "Merv Seferi",
+      "İstanbul Kuşatması"
+    ],
+    "correctAnswer": "Malazgirt Savaşı",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Alparslan",
+      "Ortaçağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cci4bjqf7",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin başkenti olarak bilinen şehre aşağıdakilerden hangisi örnek verilebilir?",
+    "explanation": "Konya, Selçuklu Devleti'nin başkenti ve en önemli şehriydi. Gazneli Alparslan'ın oğlu Kılıç Arslan tarafından kente büyük önem verilmiş, burada Selçuklular uzun süre hüküm sürmüştür.",
+    "options": [
+      "Konya",
+      "Nayrab",
+      "Mısır",
+      "Cezire"
+    ],
+    "correctAnswer": "Konya",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Şehirler",
+      "Anadolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ocvbz1x7h",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Birinci Krallık döneminde (1077-1156) Selçukluların en ünlü sultanı kimdir?",
+    "explanation": "Mesud I (1092-1116), Selçukluların Birinci Krallık döneminin en güçlü sultanlarından biriydi. Anadolu seferlerini düzenleyerek ve devleti genişleterek önemli başarılar elde etmiştir.",
+    "options": [
+      "Mesud I",
+      "Kılıç Arslan II",
+      "Gazneli Alparslan",
+      "Toghrul"
+    ],
+    "correctAnswer": "Mesud I",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Sultanlar",
+      "Dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i8o7dfcug",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu Devleti'nin çöktüğünü işaret eden önemli olay aşağıdakilerden hangisidir?",
+    "explanation": "Dandana Kalesi Savaşı (1260) Selçukluların Moğollar'a karşı aldığı son büyük zaferdir. Ancak bu savaşla birlikte devlet çöküş sürecine girmiş, Kardeş Krallık dönemi başlamıştır.",
+    "options": [
+      "Kars Savaşı",
+      "Dandana Kalesi Zaferi",
+      "Anadolu'daki Hakimiyetin Kaybı",
+      "İstanbul'un Fethi"
+    ],
+    "correctAnswer": "Dandana Kalesi Zaferi",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Çöküş",
+      "Kardeş Krallık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lu00gnj1m",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu mimarisinin en önemli eseri olan Konya'daki mezar aşağıdakilerden hangisidir?",
+    "explanation": "Alaaddin Keykubat, Konya'daki türbesiyla Selçuklu mimarisinin en önemli örneklerinden biridir. 1237-1240 yılları arasında inşa edilen eser Selçuklu san'atının zirvesini temsil etmektedir.",
+    "options": [
+      "Derviş Mehmet Türbesi",
+      "Sultan Han Türbesi",
+      "Alaaddin Keykubat Türbesi",
+      "Melikşah Türbesi"
+    ],
+    "correctAnswer": "Alaaddin Keykubat Türbesi",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Mimari",
+      "Konya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9et1moz2q",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Malazgirt Savaşı'nın gerçekleştiği tarihi aşağıdakilerden hangisidir?",
+    "explanation": "Malazgirt Savaşı, Büyük Selçuklu Devleti Sultanı Alp Arslan'ın Bizans İmparatoru Romanoş ile yaptığı ve 15 Ağustos 1071 yılında gerçekleşen savaştır. Bu savaş Anadolu'nun kapılarını Türklere açmıştır.",
+    "options": [
+      "1071",
+      "1080",
+      "955",
+      "1243"
+    ],
+    "correctAnswer": "1071",
+    "tags": [
+      "Selçuklu",
+      "Manzikert",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fvkj30y60",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Büyük Selçuklu Devleti'nin kurucusu olan Tuğrul Bey'in ölümünden sonra hanedanı idaresine kim devam etmiştir?",
+    "explanation": "Tuğrul Bey'in ölümünden sonra oğlu Alp Arslan (Alparslan) tahta geçmiştir. Alparslan, devleti genişletmiş ve Malazgirt Savaşı'nı kazanmıştır.",
+    "options": [
+      "Alparslan",
+      "Melikşah",
+      "Tughril II",
+      "Kılıç Arslan"
+    ],
+    "correctAnswer": "Alparslan",
+    "tags": [
+      "Selçuklu",
+      "Kuruluş",
+      "Sultanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l5le67irt",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu yönetiminin en güçlü viziri olarak bilinen Nizam al-Mulk hangi sultanın döneminde vizier olmuş ve madrasa inşa ettirmiştir?",
+    "explanation": "Nizam al-Mulk, Alp Arslan'ın viziri olarak görev yapmaya başlamış ve Melikşah döneminde devletin eğitim politikalarını (madrasalar) geliştirmiştir. Soruda vizierlik başlangıcı veya genel dönem sorulduğunda Alparslan'da hizmetine girişmesi öne çı",
+    "options": [
+      "Tuğrul Bey",
+      "Alparslan",
+      "Melikşah",
+      "Kılıç Arslan"
+    ],
+    "correctAnswer": "Alparslan",
+    "tags": [
+      "Selçuklu",
+      "Vizier",
+      "Eğitim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j7i22n7hy",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu Devleti'nin idari yapısında vergi toplanması, harçların hesaplanması ve devlet geliri takibi hangi divan ile gerçekleştirilmiştir?",
+    "explanation": "Divan-ı Hisiye, devlet gelirlerinin takibi, vergilerin toplanması ve harçların hesaplanması ile ilgilenen idari bir kurumdur. Divan-ı Inisiye ise yargılama ve hukukla ilgilidir.",
+    "options": [
+      "Divan-ı Inisiye",
+      "Divan-ı Hisiye",
+      "Divan-ı Arası",
+      "Divan-ı Saltanat"
+    ],
+    "correctAnswer": "Divan-ı Hisiye",
+    "tags": [
+      "Selçuklu",
+      "İdare",
+      "Divanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xlf6mt8kp",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Alparslan'ın ölümünden sonra Büyük Selçuklu Devleti'nin toprakları neden parçalanmıştır?",
+    "explanation": "Alparslan'ın ölümünden sonra devletin toprakları oğulları arasında paylaşılacak şekilde parçalandı, bu durum Büyük Selçuklu Devleti'nin zayıflamasına ve bölünmesine neden olmuştur.",
+    "options": [
+      "İslamiyet'ten ayrılma",
+      "Topraklar oğulları arasında paylaşıldı",
+      "Dış tehditler arttı",
+      "Vizierler devlete karşı isyan etti"
+    ],
+    "correctAnswer": "Topraklar oğulları arasında paylaşıldı",
+    "tags": [
+      "Selçuklu",
+      "Parçalanma",
+      "Tarihsel Süreç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p25amgcr5",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Selçukluların kurucusu ve İslam tarihinde Malazgirt Meydan Muharebesini kazandıran hükümdar kimdir?",
+    "explanation": "Alp Arslan, 1071 yılında Malazgirt Meydan Muharebesini kazanarak Anadolu'yu İslam dünyasına açmıştır. Bu zafer Selçuklu Devleti'nin en önemli olaylarından biridir.",
+    "options": [
+      "I. Alp Arslan",
+      "Togrul Beg",
+      "Muhammed Bin Abdullah",
+      "Mehmet Çelebi"
+    ],
+    "correctAnswer": "I. Alp Arslan",
+    "tags": [
+      "Selçuklu Devleti",
+      "Hükümdarlar",
+      "Malazgirt Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1eggelgh3",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçukluların devlet teşkilatı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Selçuklu Devleti, valilikler ve emîrlikler şeklinde organize edilmiş bir devlet teşkilatına sahipti. Bu sistem merkezle yerel yönetimler arasında denge kurmaya çalışıyordu.",
+    "options": [
+      "Devlet, sadece askeri birliklerden oluşuyordu",
+      "Valilikler ve Emîrlikler şeklinde organize edilmişti",
+      "Sadece dini kurumlar yönetiyordu",
+      "Merkezi yönetim yoktu"
+    ],
+    "correctAnswer": "Valilikler ve Emîrlikler şeklinde organize edilmişti",
+    "tags": [
+      "Devlet Teşkilatı",
+      "Yönetim Sistemi",
+      "Selçuklu İdari Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rrbwg5oyr",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçukluların kültür-sanat alanında en önemli eserleri arasında hangisi yer alır?",
+    "explanation": "Divriği ve Sivas Ulu Camileri, Anadolu Selçuklularının döneminde inşa edilen en önemli mimari eserlerdir. Bu yapılar Selçuklu sanata damga vurmuştur.",
+    "options": [
+      "Topkapı Sarayı",
+      "Göbeklitepe",
+      "Divriği ve Sivas Ulu Camileri",
+      "Ayasofya"
+    ],
+    "correctAnswer": "Divriği ve Sivas Ulu Camileri",
+    "tags": [
+      "Kültür-Sanat",
+      "Mimari",
+      "Anadolu Selçukluları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w52ey64cx",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu Devleti'nde dini yönetim ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Selçuklu Devleti'nde İslam hukuku, devletin temel kanunu olarak kabul edilmiştir. Bu durum, devlet yönetiminin dini temellere dayandığını gösterir.",
+    "options": [
+      "Hükümdar, sadece askeri konulardan sorumluydu",
+      "Şeyhülislam devlet yönetimine katılıyordu",
+      "Dini kurumlar tamamen bağımsızdı",
+      "İslam hukuku devletin temel kanunu oldu"
+    ],
+    "correctAnswer": "İslam hukuku devletin temel kanunu oldu",
+    "tags": [
+      "Dini Yönetim",
+      "İslam Hukuku",
+      "Hükümet Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3w7qegfgb",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin dağılmasına neden olan faktörler arasında hangisi yer almaz?",
+    "explanation": "Selçuklu Devleti'nin dağılmasında merkez ile yerel yönetimler arasındaki güç dengesinin bozulması, harbiyeli isyanların artması ve iç anlaşmazlıkların çoğalması önemli faktörlerdir. Dış tehditlerin azalması ise bu süreci kolaylaştırmaz.",
+    "options": [
+      "Merkez ile yerel yönetimler arasındaki güç dengesinin bozulması",
+      "Harbiyeli isyanların artması",
+      "Dış tehditlerin azalması",
+      "İç anlaşmazlıkların çoğalması"
+    ],
+    "correctAnswer": "Dış tehditlerin azalması",
+    "tags": [
+      "Devlet Dağılma",
+      "Selçuklu Tarihi",
+      "Dağılış Nedenleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5s7otnvrc",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Manzikert Savaşı ne yıl gerçekleşmiştir?",
+    "explanation": "Manzikert Savaşı, 26 Ağustos 1071 tarihinde Büyük Selçuklu Devleti Sultanı Alparslan ile Bizans İmparatoru Romanos Diyojenis arasında gerçekleşmiştir.",
+    "options": [
+      "1069",
+      "1071",
+      "1081",
+      "1091"
+    ],
+    "correctAnswer": "1071",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Manzikert",
+      "Savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kkmgcve1n",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Büyük Selçuklu Devleti'nin kurucusu kimdir?",
+    "explanation": "Büyük Selçuklu Devleti'nin kurucusu Tuğrul Bey'dir. Alp Arslan ise devleti yöneten ikinci sultan olarak tanınır.",
+    "options": [
+      "Alp Arslan",
+      "Tuğrul Bey",
+      "Melikşah I",
+      "Kılıç Arslan"
+    ],
+    "correctAnswer": "Tuğrul Bey",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Kurucu",
+      "Hükümdarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gy9z7nf7p",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Melikşah döneminde Büyük Selçuklu Devleti'nin başkenti neresidir?",
+    "explanation": "Melikşah döneminde İsfahan büyük bir ticaret ve kültürel merkez haline getirilmiş devletin başkenti yapılmıştır.",
+    "options": [
+      "Rey",
+      "İsfahan",
+      "Kayseri",
+      "Konya"
+    ],
+    "correctAnswer": "İsfahan",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Başkentler",
+      "Maliyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jjerbs5fx",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Manzikert Savaşı'nda Bizans İmparatoru kimdir?",
+    "explanation": "Manzikert Savaşı'nda Alparslan'a karşı çıkan Bizans İmparatoru Romanos IV Diogenes'tir ve savaştan sonra tutuklanmıştır.",
+    "options": [
+      "Romanos IV Diogenes",
+      "Konstantin VII",
+      "Basil II",
+      "Justinian II"
+    ],
+    "correctAnswer": "Romanos IV Diogenes",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Manzikert",
+      "Bizans İlişkileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mseblk4hh",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Anadolu'daki Büyük Selçuklu temsilcisi ve son sultanı kimdir?",
+    "explanation": "Büyük Selçuklular'ın Anadolu'daki son temsilcisi Kılıç Arslan I'dir. Melikşah'tan sonra Anadolu'daki yönetimi sürdürmüştür.",
+    "options": [
+      "Kılıç Arslan I",
+      "Süleyman Şah",
+      "Tuğrul Bey",
+      "Melikşah"
+    ],
+    "correctAnswer": "Kılıç Arslan I",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Anadolu Türkleri",
+      "Rum Sultanlığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8kunrzviv",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Selçuklu Devleti'nin kurucusu olan Alp Arslan'ın babası kimdir?",
+    "explanation": "Selçuklu Devleti'nin kurucusu Tugrul Bey, Alp Arslan'ın babasıdır. Tugrul Bey'in ölümünden sonra Alp Arslan tahta çıkmıştır.",
+    "options": [
+      "Mehmet I",
+      "Tugrul Bey",
+      "Suleyman Shah",
+      "Ivan III"
+    ],
+    "correctAnswer": "Tugrul Bey",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Kurucu Figürler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "67jw6sqs7",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Malazgirt Savaşı hangi yılda gerçekleşmiştir?",
+    "explanation": "Malazgirt Savaşı 1071 yılında gerçekleşmiş ve Anadolu Selçuklu Devleti'nin kurulması, Bizans İmparatorluğu'nun çöküşü sürecini başlatmıştır.",
+    "options": [
+      "1071",
+      "1092",
+      "1080",
+      "1156"
+    ],
+    "correctAnswer": "1071",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3y8sxlf9r",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Hangisi Selçuklu İmparatorluğu'nun en güçlü padişahlarından biridir?",
+    "explanation": "Melikşah I, Selçuklu İmparatorluğu'nun en geniş sınırlarına sahip olduğu dönemdeki padişahdır. Özellikle 1092-1098 yılları arasında hüküm sürmüştür.",
+    "options": [
+      "Alp Arslan",
+      "Melikşah I",
+      "Suleyman Shah",
+      "Kılıç Arslan II"
+    ],
+    "correctAnswer": "Melikşah I",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Padişahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tinj35a9e",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Selçuklu Devleti'nin sonu hangi padişah döneminde olmuştur?",
+    "explanation": "Selçuklu Devleti'nin Anadolu'daki son hükümdarı Kılıç Arslan II'dir (1237-1246). Moğol istilası sonucu Selçuklu Devleti çökmüştür.",
+    "options": [
+      "Suleyman Shah",
+      "Ivan III",
+      "Kılıç Arslan II",
+      "Ahmet I"
+    ],
+    "correctAnswer": "Kılıç Arslan II",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Son Dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "974oqczyi",
+    "category": "TARİH",
+    "subcategory": "Selçuklu Tarihi",
+    "difficulty": "EASY",
+    "question": "Hangisi Büyük Selçuklu Devleti'nin önemli bir şehiridir?",
+    "explanation": "Konya, Büyük Selçuklu Devleti'nin Anadolu'daki önemli merkezi ve Karamanoğulları'na kadar devam eden bir şehir olmuştur. Melikşah I tarafından kraliyet sarayı yapılmıştır.",
+    "options": [
+      "İstanbul",
+      "Kahire",
+      "Konya",
+      "Bursa"
+    ],
+    "correctAnswer": "Konya",
+    "tags": [
+      "Selçuklu Tarihi",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

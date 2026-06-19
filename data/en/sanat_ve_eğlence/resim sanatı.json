@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "39d3x561f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında, yağlı boya tekniği hangi yüzyıldan itibaren yaygınlaşmıştır?",
+    "explanation": "Yağlı boya tekniği Batı resim sanatında 15. yüzyıl sonunda, özellikle Hollanda'da ve İtalya'da yaygınlaşmaya başlamış, 16. yüzyıldan itibaren dominant bir teknik haline gelmiştir.",
+    "options": [
+      "14. yüzyıl",
+      "15. yüzyıl",
+      "16. yüzyıl",
+      "17. yüzyıl"
+    ],
+    "correctAnswer": "16. yüzyıl",
+    "tags": [
+      "resim",
+      "teknik",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7l0rn9u8f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Türk resminin modern döneminde en önemli isimlerden biri kabul edilen Tevfik Bıçakçı hangi alanda çalışmıştır?",
+    "explanation": "Tevfik Bıçakçı (1887-1956), Türk resminin modern döneminin önemli isimlerinden olup özellikle portre alanında çalışmış, Anadolu'nun insanlarını ve doğasını betimlemiştir.",
+    "options": [
+      "Portre",
+      "Lanskap",
+      "Abstrakt",
+      "Sürrealizm"
+    ],
+    "correctAnswer": "Portre",
+    "tags": [
+      "türk_resmi",
+      "modern_sanat",
+      "tevfik_bıçakçı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hjbo3jaz8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EASY",
+    "question": "İtalyan Rönesans sanatının en büyük ressamı olarak kabul edilen Leonardo da Vinci'nin 'Mona Lisa' tablosu hangi teknikle hazırlanmıştır?",
+    "explanation": "Mona Lisa, Leonardo da Vinci tarafından 1503-1506 yılları arasında yağlı boya tekniğiyle hazırlandı ve bu tablo günümüzde Louvre Müzesi'nde sergilenmektedir.",
+    "options": [
+      "Su boya",
+      "Yağlı boya",
+      "Fresko",
+      "Tempera"
+    ],
+    "correctAnswer": "Yağlı boya",
+    "tags": [
+      "renesans",
+      "leonardo_davinci",
+      "monalisa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vwx7qw25e",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Türk resminin Osmanlı döneminde hangi eserler resim sanatının temeli olarak kabul edilir?",
+    "explanation": "Osmanlı döneminde resim sanatı daha çok İslami geleneklere uygun geometrik desenler, hat ve calligrafi üzerine odaklanmıştır. Portre sanatı ise 16. yüzyıldan itibaren gelişmeye başlamıştır.",
+    "options": [
+      "Divan şairlerinin tasviri",
+      "Hattatların yazıları",
+      "İslami geometrik desenler",
+      "Portre ve manzara tabloları"
+    ],
+    "correctAnswer": "İslami geometrik desenler",
+    "tags": [
+      "osmanlı_resmi",
+      "tasarım",
+      "geometrik_desen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rs1t9ur9c",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Resim sanatında 'Chiaroscuro' tekniği neyi ifade eder?",
+    "explanation": "Chiaroscuro (çiarokuru), İtalyan resim sanatında ışık ve gölge arasındaki güçlü kontrastın kullanılması tekniğidir. Bu teknik özellikle Caravaggio, Rembrandt gibi ressamlar tarafından yoğun olarak kullanılmıştır.",
+    "options": [
+      "Işık-gölge kontrastı",
+      "Renk doygunluğu",
+      "Tasarım simetrisi",
+      "Mekan derinliği"
+    ],
+    "correctAnswer": "Işık-gölge kontrastı",
+    "tags": [
+      "resim_teknikleri",
+      "chiaroscuro",
+      "ışık_gölge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lcladqb0y",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'İmpresyonizm akımı' ne zaman başladı ve hangi sanatçı bu akımın kurucusu olarak kabul edilir?",
+    "explanation": "İmpresyonizm akımı 1864 yılında başladı ve Claude Monet, bu akımın en önemli temsilcilerinden biridir. Bu akım, ışığın değişkenliklerini ve anlık izlenimleri betimlemeyi amaçlar.",
+    "options": [
+      "1850 - Pablo Picasso",
+      "1864 - Claude Monet",
+      "1873 - Vincent van Gogh",
+      "1880 - Paul Cézanne"
+    ],
+    "correctAnswer": "1864 - Claude Monet",
+    "tags": [
+      "sanat-tarihi",
+      "akımlar",
+      "resim-sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8484ucckj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında kullanılan 'Güveç' (vazo) resminin en bilinen örneklerinden biri olan 'Kızıl Vazo' hangi dönemden bir eserdir?",
+    "explanation": "Kızıl Vazo, Yunan antik sanatının en önemli örneğidir. Kırmızı figür tekniğiyle yapılmış ve mitolojik sahneleri betimler.",
+    "options": [
+      "Yunan Antik Sanatı",
+      "Rönesans Dönemi",
+      "Barok Dönemi",
+      "Modern Sanat"
+    ],
+    "correctAnswer": "Yunan Antik Sanatı",
+    "tags": [
+      "antik-sanat",
+      "vazo-resmi",
+      "resim-sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0sdufandu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'Realizm akımı' hangi dönemde ortaya çıkmıştır ve bu akımın temel amacı nedir?",
+    "explanation": "Realizm akımı 1840'lu yıllarda ortaya çıkmış ve günlük hayatın gerçekliğini, idealleştirilmiş sahnelerden kaçınarak yansıtmayı hedeflemiştir.",
+    "options": [
+      "1820 - Fantastik sahneleri çizmek",
+      "1848 - Doğadaki gerçekliği yansıtmak",
+      "1860 - İdealize edilmiş sahneler",
+      "1885 - Soyut formlar"
+    ],
+    "correctAnswer": "1848 - Doğadaki gerçekliği yansıtmak",
+    "tags": [
+      "sanat-tarihi",
+      "akımlar",
+      "realizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "83jejzoa8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Resim sanatında 'Chagall - Marc Chagall' hangi akım ile ilişkilidir ve eserlerinde neler kullanır?",
+    "explanation": "Marc Chagall, Sürrealizm akımıyla ilişkilidir. Eserlerinde rüya, sembol ve mitolojik öğeleri kullanarak duygusal betimlemeler yapar.",
+    "options": [
+      "Kubizm - Geometrik formlar",
+      "Sürrealizm - Rüyalar ve semboller",
+      "Fütüristizm - Hareket ve hız",
+      "Konstrüktivizm - Endüstriyel materyaller"
+    ],
+    "correctAnswer": "Sürrealizm - Rüyalar ve semboller",
+    "tags": [
+      "sanatçı",
+      "surrealism",
+      "resim-sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "akqbm9vh0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'Leonardo da Vinci' hangi dönemin en büyük ustalarından biridir ve hangi tür resimler çizmiştir?",
+    "explanation": "Leonardo da Vinci, Rönesans döneminin en önemli sanatçısıdır. Mona Lisa, Vitruvius Adam ve anatomik çizimleri gibi hem tablo hem de teknik çalışmaları vardır.",
+    "options": [
+      "Ortaçağ - Dini semboller",
+      "Rönesans - Hem tablo hem anatomik çizimler",
+      "Barok - Portreler",
+      "Modern - Soyut formlar"
+    ],
+    "correctAnswer": "Rönesans - Hem tablo hem anatomik çizimler",
+    "tags": [
+      "renesans",
+      "leonardo-da-vinci",
+      "resim-sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vikudzn1n",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'plein air' tekniği nedir?",
+    "explanation": "Plein air Fransızca 'açık hava' anlamına gelir ve 19. yüzyılda özellikle Impresyonist ressamlar tarafından dış mekanlarda doğrudan gözlemlenen ışık ve renklerle yapılan çalışmalar için kullanılmıştır.",
+    "options": [
+      "İç mekanlarda yapılan resim",
+      "Dışarıda doğrudan doğayı gözlemleyerek yapılan resim",
+      "Siyah beyaz çalışmaların yapılması",
+      "Rengin karıştırılması yöntemi"
+    ],
+    "correctAnswer": "Dışarıda doğrudan doğayı gözlemleyerek yapılan resim",
+    "tags": [
+      "Resim Sanatı",
+      "Teknik",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oyhid73yi",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Hangi ressam Modern Resim Sanatının kurucusu kabul edilir?",
+    "explanation": "Pablo Picasso (1881-1973) Kübizm hareketinin kurucusu olarak kabul edilir ve Modern Resim Sanatının en önemli figürlerinden biridir. Abartılı boyutlar, geometrik şekiller ve renklerin özgür kullanımıyla ünlüdür.",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Johannes Vermeer",
+      "Leonardo da Vinci"
+    ],
+    "correctAnswer": "Pablo Picasso",
+    "tags": [
+      "Resim Sanatı",
+      "Modernizm",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cgsvu1ty3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EASY",
+    "question": "Resimde 'karışık boya' tekniği hangi türü ifade eder?",
+    "explanation": "Karışık boya (mixed media) farklı boyalar ve malzemelerin bir arada kullanıldığı çalışma yöntemidir. Bu teknik 20. yüzyıldan sonra popülerleşmiştir.",
+    "options": [
+      "Teknik",
+      "Malzeme",
+      "Yöntem",
+      "Hareket"
+    ],
+    "correctAnswer": "Yöntem",
+    "tags": [
+      "Resim Sanatı",
+      "Teknik",
+      "Malzeme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "20gxpo2u6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Hangi ressam 'Yıldızların Doğuşu' adlı tablosuyla bilinir?",
+    "explanation": "Vincent van Gogh'un 'Yıldızların Doğuşu' (The Starry Night) tablosu Post-İmpresyonizm döneminin en önemli eserlerinden biridir ve 1889 yılında Saint-Rémy-de-Provence'de tutulduğu manastırın penceresinden görülen gece manzarasını konu alır.",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Paul Cézanne",
+      "Edvard Munch"
+    ],
+    "correctAnswer": "Vincent van Gogh",
+    "tags": [
+      "Resim Sanatı",
+      "Tablolar",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8gmacqmhj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'realizm' hareketinin temel amacı nedir?",
+    "explanation": "Realizm 19. yüzyılın ortalarında ortaya çıkmış ve idealize edilmiş sahneler yerine gerçek yaşamı, sıradan insanları ve günlük olayları betimlemeyi amaçlamıştır. Gustave Courbet bu hareketin önemli temsilcilerinden biridir.",
+    "options": [
+      "İdealize edilmiş sahnelerin yaratılması",
+      "Doğal ışık ve renklerin kullanımına odaklanma",
+      "Gerçekçilik ile günlük yaşamın betimlenmesi",
+      "Abstrakt formların kullanılması"
+    ],
+    "correctAnswer": "Gerçekçilik ile günlük yaşamın betimlenmesi",
+    "tags": [
+      "Resim Sanatı",
+      "Hareketler",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vj097ly7x",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'Impresyonizm akımı' hangi yıla tarihlenir ve temsilcisi kimdir?",
+    "explanation": "İmpresyonizm akımı 1874 yılında ilk sergi ile tanındı ve Claude Monet, bu akımın en önemli temsilcisidir. 'Gecikmiş Buharlı Tren' adlı tablosuyla ünlüdür.",
+    "options": [
+      "1862 - Edgar Degas",
+      "1874 - Claude Monet",
+      "1880 - Vincent van Gogh",
+      "1890 - Pablo Picasso"
+    ],
+    "correctAnswer": "1874 - Claude Monet",
+    "tags": [
+      "Resim Sanatı",
+      "Akımlar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cn66vxh5a",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Yeni Çağ resim sanatında 'Sürrealizm' akımının kurucusu kimdir?",
+    "explanation": "Sürrealizm akımının kurucusu ve ilk manifestosunu yazan André Breton'dur. Salvador Dalí, René Magritte ve Max Ernst ise önemli temsilcileridir.",
+    "options": [
+      "Salvador Dali",
+      "René Magritte",
+      "Max Ernst",
+      "André Breton"
+    ],
+    "correctAnswer": "André Breton",
+    "tags": [
+      "Resim Sanatı",
+      "Akımlar",
+      "Sürrealizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v6jbq07uw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Batı resim sanatında 'Barok' dönemi hangi yüzyıldadır?",
+    "explanation": "Barok dönemi 16. yüzyılda başlayıp 17. yüzyılda zirveye ulaşmıştır. Caravaggio ve Rembrandt bu dönemin önemli ressamlarıdır.",
+    "options": [
+      "14.-15. Yüzyıl",
+      "16.-17. Yüzyıl",
+      "18.-19. Yüzyıl",
+      "20. Yüzyıl"
+    ],
+    "correctAnswer": "16.-17. Yüzyıl",
+    "tags": [
+      "Resim Sanatı",
+      "Dönemler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r412cdixu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'Kubizm' akımının başlıca temsilcisi kimdir?",
+    "explanation": "Kubizm akımının en önemli temsilcisi Pablo Picasso'dur. Georges Braque ile birlikte geliştirdiği bu akım, nesneleri geometrik şekillerle ifade eder.",
+    "options": [
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Amedeo Modigliani",
+      "Jean-Auguste-Dominique Ingres"
+    ],
+    "correctAnswer": "Pablo Picasso",
+    "tags": [
+      "Resim Sanatı",
+      "Akımlar",
+      "Kubizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yfox9xon1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'Rönesans' dönemi hangi coğrafyada başladı?",
+    "explanation": "Rönesans (Yeni Doğuş) dönemi 14. yüzyılda İtalya'da başlamıştır. Leonardo da Vinci, Michelangelo ve Raphael bu dönemin büyük ressamlarıdır.",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "İspanya",
+      "Hollanda"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "Resim Sanatı",
+      "Dönemler",
+      "Rönesans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oxrcngxfb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EASY",
+    "question": "İtalyan Rönesans döneminin en ünlü ressamı ve 'Son Yemek' tablosunun yazarı kimdir?",
+    "explanation": "Leonardo da Vinci, İtalyan Rönesans'ının en önemli figürlerinden biridir ve 'Son Yemek', 'Mona Lisa' gibi meşhur tabloların yazarıdır.",
+    "options": [
+      "Mikaelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": "Leonardo da Vinci",
+    "tags": [
+      "Resim Sanatı",
+      "Rönesans",
+      "İtalyan Ressamlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pp8zz8gdk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Sürrealizm akımına mensup ünlü ressam Salvador Dalí hangi teknik ile bilinir?",
+    "explanation": "Sürrealist ressam Salvador Dalí, bilinçaltını yansıtmak için yarım otomatik çizim (automatism) tekniğini kullandı.",
+    "options": [
+      "Özenli Çizim",
+      "Yarı Otomatik Yöntem",
+      "Mistifikasyon",
+      "Kırık Resim"
+    ],
+    "correctAnswer": "Yarı Otomatik Yöntem",
+    "tags": [
+      "Resim Sanatı",
+      "Sürrealizm",
+      "Salvador Dalí"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w1yqyn0zb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Tabloları yağlı boya ile boyayan ve katmanları birleştirerek derinlik oluşturan teknik nedir?",
+    "explanation": "Glazing (camlama), yağlı boya tablolarında renkler üstüne katılarak derinlik ve parlaklık oluşturma tekniğidir.",
+    "options": [
+      "Güçlü Çizim",
+      "Impasti",
+      "Glazing",
+      "Sgraffito"
+    ],
+    "correctAnswer": "Glazing",
+    "tags": [
+      "Resim Sanatı",
+      "Boyama Teknikleri",
+      "Yağlı Boya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vyjj4fpx2",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fransız Impresyonizm akımına ait tablolardan biri hangisidir?",
+    "explanation": "Edgar Degas, Impresyonizm akımına ait önemli ressamlardan biridir ve 'Akışkan Kahverengi' (La Belle Ferronière) meşhurdur.",
+    "options": [
+      "Yıldızlı Gece",
+      "Kahramanlar Tablosu",
+      "Bakımlı Bahçe",
+      "Akışkan Kahverengi"
+    ],
+    "correctAnswer": "Akışkan Kahverengi",
+    "tags": [
+      "Resim Sanatı",
+      "Impresyonizm",
+      "Fransız Ressamlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7koetmojn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Çağdaş resim sanatında pigmentlerin bazen yerine geçmesi için kullanılan modern malzeme nedir?",
+    "explanation": "Akrilik boya, pigmentlerin su bazlı alternatifidir; kuruyarak dayanıklı ve esnek tabakalar oluşturur.",
+    "options": [
+      "Suyalboya",
+      "Akrilik Boya",
+      "Pasta Resim",
+      "Solvent"
+    ],
+    "correctAnswer": "Akrilik Boya",
+    "tags": [
+      "Resim Sanatı",
+      "Modern Malzemeler",
+      "Boya Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "twnhlimn5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Batı resim sanatında, 1400-1600 yılları arasında gelişen ve gerçekçi tasvirmayı amaçlayan akım hangisidir?",
+    "explanation": "Klasik Resim, Rönesans döneminden başlayarak 19. yüzyıla kadar süren ve gerçekçi tasvirmayı amaçlayan batı resim sanatının temel akımıdır.",
+    "options": [
+      "İmpresyonizm",
+      "Klasik Resim",
+      "Romantizm",
+      "Sürrealizm"
+    ],
+    "correctAnswer": "Klasik Resim",
+    "tags": [
+      "resim sanatı",
+      "batı sanatı",
+      "sanat akımları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5jqt6lgws",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EASY",
+    "question": "Su bazlı boyalarla yapılan ve ince fırça darbeleriyle uygulanan resim tekniği hangisidir?",
+    "explanation": "Su bazlı boyalarla yapılan ve ince fırça darbeleriyle uygulanan resim tekniği suyu boya (watercolor) olarak adlandırılır.",
+    "options": [
+      "Akrilik",
+      "Manki",
+      "Suyu Boya",
+      "Güveç"
+    ],
+    "correctAnswer": "Suyu Boya",
+    "tags": [
+      "resim teknikleri",
+      "materyal",
+      "boyama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "opknl5b9d",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında, tablo yüzeyine uygulanan ve koruyucu nitelikte olan katman nedir?",
+    "explanation": "Varnish, resim tablosunun yüzeyine uygulanarak ışığı dağıtan ve koruyucu nitelik kazandıran son katman materyalidir.",
+    "options": [
+      "Primer",
+      "Varnish",
+      "Solvent",
+      "Glaze"
+    ],
+    "correctAnswer": "Varnish",
+    "tags": [
+      "resim teknikleri",
+      "koruma",
+      "materyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vl87llrmt",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "İtalyan ressamlar arasında 15. yüzyılda gerçekçiliği geliştiren ve 'Büyük Usta' olarak anılan sanatçı kimdir?",
+    "explanation": "Masaccio, 15. yüzyıl İtalyan Rönesansı'nın öncülerinden olup gerçekçiliği geliştiren ve 'Büyük Usta' olarak adlandırılan önemli bir ressamdır.",
+    "options": [
+      "Leonardo da Vinci",
+      "Giotto di Bondone",
+      "Masaccio",
+      "Raphael"
+    ],
+    "correctAnswer": "Masaccio",
+    "tags": [
+      "resim sanatı",
+      "İtalyan ressamlar",
+      "rönesans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iyn0shcp7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Modern resim sanatında 1910'larda Fransa'da gelişen ve doğal ışıkla çalışan akım hangisidir?",
+    "explanation": "İmpresyonizm, 19. yüzyıl sonlarında Fransa'da gelişen ve doğal ışıkla çalışan modern resim sanatının ilk önemli akımıdır.",
+    "options": [
+      "Ekspresyonizm",
+      "İmpresyonizm",
+      "Kubizm",
+      "Fütürizm"
+    ],
+    "correctAnswer": "İmpresyonizm",
+    "tags": [
+      "sanat akımları",
+      "modern sanat",
+      "Fransız ressamlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3yt4h6ckm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Resim sanatında 'İmpresyonizm akımına' ait en bilinen tabloyu kim çizmiştir?",
+    "explanation": "Claude Monet, 'Gecme Buzulu' (Impression, Sunrise) adlı tablosu ile İmpresyonizm akımını temsil etmiş ve bu isim de ona verilmiştir.",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "correctAnswer": "Claude Monet",
+    "tags": [
+      "Resim Sanatı",
+      "İmpresyonizm",
+      "Sanat Akımları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yxljn0hj1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en büyük müzesi kabul edilen Louvre Müzesinde bulunan Mona Lisa tablosunun sanatçısı kimdir?",
+    "explanation": "Leonardo da Vinci, 16. yüzyıl İtalyan Rönesans sanatçısı ve Mona Lisa tablosunun yaratıcısıdır.",
+    "options": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Donatello",
+      "Michelangelo"
+    ],
+    "correctAnswer": "Leonardo da Vinci",
+    "tags": [
+      "Resim Sanatı",
+      "Mona Lisa",
+      "İtalyan Sanatçıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gjweyibee",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'Rönesans' dönemi hangi yüzyıllarda yaşanmıştır?",
+    "explanation": "Rönesans dönemi 14. yüzyılın başından 17. yüzyılın sonuna kadar süren bir sanat ve kültür hareketidir.",
+    "options": [
+      "13.-15. Yüzyıllar",
+      "14.-17. Yüzyıllar",
+      "16.-18. Yüzyıllar",
+      "12.-14. Yüzyıllar"
+    ],
+    "correctAnswer": "14.-17. Yüzyıllar",
+    "tags": [
+      "Resim Sanatı",
+      "Rönesans",
+      "Sanat Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ow8fhy19g",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Vincent van Gogh'un 'Geceme Çiçekleri' tablosu hangi sanat akımına aittir?",
+    "explanation": "Vincent van Gogh, Post-Impresyonizm akımının önemli temsilcilerinden biridir ve 'Geceme Çiçekleri' bu akıma aittir.",
+    "options": [
+      "Kubizm",
+      "Sürrealizm",
+      "Post-Impresyonizm",
+      "Ekspresyonizm"
+    ],
+    "correctAnswer": "Post-Impresyonizm",
+    "tags": [
+      "Resim Sanatı",
+      "Vincent van Gogh",
+      "Sanat Akımları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9cehmu6gu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Resim sanatında kullanılan 'Temper Boyası' hangi malzemeden yapılır?",
+    "explanation": "Temper boyası (Tempera), kireç bazında hazırlanan pigmentli bir boya türüdür ve daha hızlı kurur.",
+    "options": [
+      "Su ve Pigment",
+      "Yağ ve Pigment",
+      "Kireç ve Pigment",
+      "Alçı ve Pigment"
+    ],
+    "correctAnswer": "Kireç ve Pigment",
+    "tags": [
+      "Resim Sanatı",
+      "Boyama Teknikleri",
+      "Sanat Malzemeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h7uyox1t8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Dünyaca ünlü sanatçı Leonardo da Vinci'nin en bilinen tablosu hangisidir?",
+    "explanation": "Mona Lisa, Leonardo da Vinci tarafından 1503-1506 yılları arasında çizilmiş ve dünyanın en ünlü tablolarından biri olarak kabul edilir. Gizemli gülümsemesi ve teknik mükemmelliğiyle tanınır.",
+    "options": [
+      "Mona Lisa",
+      "The Last Supper",
+      "Vitruvian Man",
+      "St. John the Baptist"
+    ],
+    "correctAnswer": "Mona Lisa",
+    "tags": [
+      "resim sanatı",
+      "Leonardo da Vinci",
+      "dünya mirası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2nxapckc9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Impresyonizm akımının kurucusu sayılan sanatçı kimdir?",
+    "explanation": "Claude Monet, Fransız ressam olup Impresyonizm akımının en önemli temsilcilerinden biridir. 'Impresyon, Günbatımı' tablosu bu akımın adını vermiştir.",
+    "options": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Salvador Dalí"
+    ],
+    "correctAnswer": "Claude Monet",
+    "tags": [
+      "resim sanatı",
+      "akımlar",
+      "impresyonizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vp5nki03j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Resimde kullanılan ve ışıkla oynayan teknik hangisidir?",
+    "explanation": "Chiaroscuro, resimde parlaklık ve karanlık alanlarının güçlü kontrastıyla oluşturulduğu teknik olup, özellikle Barok dönemini temsil eden Caravaggio gibi ressamlar tarafından kullanılmıştır.",
+    "options": [
+      "Chiaroscuro",
+      "Sfumato",
+      "Cangiamento",
+      "Trompe-l'œil"
+    ],
+    "correctAnswer": "Chiaroscuro",
+    "tags": [
+      "resim sanatı",
+      "teknikler",
+      "ışık-gölge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fyy7blx4r",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Picasso'nun 'Avignon Kızılları' tablosunun hangi akımın ilk çalışması olduğu düşünülür?",
+    "explanation": "Avignon Kızılları, Pablo Picasso'nun 1907 yılında yaptığı ve Kubizm akımının ilk önemli çalışması olarak kabul edilen tabludur. Geleneksel perspektifi yıkan bu çalışma modern resmin dönüm noktasıdır.",
+    "options": [
+      "Kubizm",
+      "Süperrealizm",
+      "Ekspresyonizm",
+      "Fütürist"
+    ],
+    "correctAnswer": "Kubizm",
+    "tags": [
+      "resim sanatı",
+      "Picasso",
+      "akımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b8i690n1g",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Hangi tablo, resim sanatında en pahalı satılan eserler arasında yer alır?",
+    "explanation": "1948 yılında Paul Gauguin'in 'Noa Noa'nun Sahibi' 15 milyon dolara satılmışken, Vincent van Gogh'un bazı eserleri 2007'de 'Yıldızlı Gece' 42 milyon dolara satılarak en pahalı tablolardan biri olmuştur. Bazı kaynaklar bu satışın rekor olduğu beli",
+    "options": [
+      "Salvador Dalí - 'Günlük Hayatın Sessizliği'",
+      "Jean-Michel Basquiat - 'Untitled']",
+      "Paul Gauguin - 'Noa Noa'nun Sahibi'",
+      "Vincent van Gogh - 'Yıldızlı Gece'"
+    ],
+    "correctAnswer": "Vincent van Gogh - 'Yıldızlı Gece'",
+    "tags": [
+      "resim sanatı",
+      "piyasa",
+      "değerleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aidqpx8qs",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Resim sanatında 'İmpresyonizm' akımı hangi yüzyılın sonunda ortaya çıkmıştır?",
+    "explanation": "İmpresyonizm akımı, 1874 yılında Monet'in 'Güneş Çiçekleri' tablosu sergilenmesiyle adını almıştır.",
+    "options": [
+      "1860",
+      "1874",
+      "1889",
+      "1903"
+    ],
+    "correctAnswer": "1874",
+    "tags": [
+      "sanat tarihi",
+      "resim akımları",
+      "impresyonizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n1djkgcrr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Leonardo da Vinci'nin en ünlü resim eseri hangisidir?",
+    "explanation": "Mona Lisa, Leonardo da Vinci'nin 1503-1517 yılları arasında çalıştığı en ünlü portre tablosudur.",
+    "options": [
+      "Mona Lisa",
+      "David",
+      "The Birth of Venus",
+      "Last Supper"
+    ],
+    "correctAnswer": "Mona Lisa",
+    "tags": [
+      "renesans",
+      "da vinci",
+      "dünya mirası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pjiskawr6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Surrealist resim sanatında Salvador Dalí'nin ikonik eseri nedir?",
+    "explanation": "The Persistence of Memory (Yatışıklı Hafıza), Dalí'nin erimiş saatlerle meşhur surrealist tablosudur.",
+    "options": [
+      "The Persistence of Memory",
+      "Guernica",
+      "American Gothic",
+      "Starry Night"
+    ],
+    "correctAnswer": "The Persistence of Memory",
+    "tags": [
+      "sürrealizm",
+      "dali",
+      "modern sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i7pz9tidc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Resim sanatında 'Realizm' akımı hangi yüzyılın başlarında gelişmiştir?",
+    "explanation": "Realizm akımı, 1848 Fransız Devrimi sonrası ortaya çıkmış ve gerçekçiliğe odaklanmıştır.",
+    "options": [
+      "1820",
+      "1835",
+      "1848",
+      "1860"
+    ],
+    "correctAnswer": "1848",
+    "tags": [
+      "sanat tarihi",
+      "realizm",
+      "resim akımları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wfsaghmbt",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Vincent van Gogh'un en meşhur resimleri arasında hangisi bulunur?",
+    "explanation": "Vincent van Gogh, The Starry Night, Sunflowers ve Bedroom in Arles ile birlikte ünlü eserler bırakmıştır.",
+    "options": [
+      "The Starry Night",
+      "Sunflowers",
+      "Bedroom in Arles",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "tags": [
+      "post-impresyonizm",
+      "van gogh",
+      "dünya mirası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "29zpr3n1h",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Dünya'nın en ünlü tablosu olarak bilinen 'Mona Lisa' kim tarafından çizilmiştir?",
+    "explanation": "Mona Lisa, İtalyan Rönesans ressamı Leonardo da Vinci tarafından 1503-1506 yılları arasında çizilen ve dünyanın en ünlü tablolarından biri olan eserdir.",
+    "options": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "correctAnswer": "Leonardo da Vinci",
+    "tags": [
+      "resim sanatı",
+      "famous painting",
+      "İtalyan ressamlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ht9g686on",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Siyah renk üzerine beyaz figürler kullanan ünlü Fransız ressam kimdir?",
+    "explanation": "Henri Matisse, 20. yüzyılın en önemli Fransız ressamlarından biri olup özellikle siyah çizgiler ve renkli alanları kullanan 'Kesilmiş Taşı' teknikleriyle tanınır.",
+    "options": [
+      "Pablo Picasso",
+      "Henri Matisse",
+      "André Derain",
+      "Jean Dubuffet"
+    ],
+    "correctAnswer": "Henri Matisse",
+    "tags": [
+      "resim sanatı",
+      "Fransız ressamlar",
+      "Modernizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2esw6je7x",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'da hangi akım sırasında doğal ışık ve gölgeler üzerine yoğunlaşmıştır?",
+    "explanation": "Rönesans döneminde ressamlar antik Yunan ve Roma sanatına dönüş yaparak doğal ışık, gölge ve gerçekçilik üzerine yoğunlaşmışlardır.",
+    "options": [
+      "Barok",
+      "Gotik",
+      "Rönesans",
+      "Büyük Rönessans"
+    ],
+    "correctAnswer": "Rönesans",
+    "tags": [
+      "resim sanatı",
+      "sanat akımları",
+      "Batı sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t0zx11z60",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Vincent van Gogh'un 'Akustik Çiçek Bahçesi' adlı tablosu hangi yıl çizilmiştir?",
+    "explanation": "Vincent van Gogh'un 'Akustik Çiçek Bahçesi' (Süleyman Çiçeği Bahçesi) adlı tablosu 1888 yılında Arles'de çizilmiştir.",
+    "options": [
+      "1887",
+      "1888",
+      "1889",
+      "1890"
+    ],
+    "correctAnswer": "1888",
+    "tags": [
+      "resim sanatı",
+      "van Gogh",
+      "Vincent van Gogh eserleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u17180co2",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Resim Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Resim sanatında 'en plein air' tekniği neyi ifade eder?",
+    "explanation": "'En plein air' Fransızcada 'tam açık hava' anlamına gelir ve ressamların doğrudan doğa ışığı altında dışarıda çalışma tekniğidir.",
+    "options": [
+      "Atölyede çalışma",
+      "Dışarıda doğa ışığıyla çalışma",
+      "Siyah beyaz resim yapma",
+      "Yağlı boya kullanma"
+    ],
+    "correctAnswer": "Dışarıda doğa ışığıyla çalışma",
+    "tags": [
+      "resim sanatı",
+      "teknik",
+      "fransız ressamlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

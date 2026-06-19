@@ -108,5 +108,995 @@
     ],
     "questionType": "MCQ",
     "sourceType": "generated"
+  },
+  {
+    "id": "v6kuv7zg6",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminin başlangıç noktası olarak kabul edilen şehir hangisidir?",
+    "explanation": "Rönesans, 14. yüzyılda İtalya'nın Florença şehrinde başlamıştır. Bu şehir ticaretin gelişmesi ve bankacılıkla uğraşan Medici ailesinin desteğiyle Rönesans sanatının ve düşünce hareketinin merkezine dönüşmüştür.",
+    "options": [
+      "Paris",
+      "Florença",
+      "Roma",
+      "Lyon"
+    ],
+    "correctAnswer": "Florença",
+    "tags": [
+      "TARİH-Rönesans",
+      "Sanat",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gfw8bbicc",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminin en önemli sanatçılarından biri olan Michelangelo'nun ünlü eseri hangisidir?",
+    "explanation": "Michelangelo'nun en ünlü eseri 1504'te yaratılan David heykeli'dir. Bu eser Rönesans insanının gücünü, mükemmelliğini ve idealizmini yansıtan önemli bir sanat çalışmasıdır.",
+    "options": [
+      "Mona Lisa",
+      "David heykeli",
+      "Pisa Kulesi",
+      "Vatikan Sarayı"
+    ],
+    "correctAnswer": "David heykeli",
+    "tags": [
+      "TARİH-Rönesans",
+      "Sanat",
+      "Mikaelangelo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pmu7d451y",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans düşünürlerinden Niccolò Machiavelli'nin 'Hükümdar' adlı kitabında hangi kavramı ele almıştır?",
+    "explanation": "Machiavelli'nin 'Hükümdar' kitabında devlet yönetimini pragmatik bir yaklaşımla ele almıştır. Siyasi gerçeklerle ideal değerler arasındaki çatışmayı ve zor zamanlarda nasıl davranılması gerektiğini işleyen bu çalışma Rönesans felsefesinin önemli",
+    "options": [
+      "Doğallık",
+      "Pragmatizm",
+      "Romantizm",
+      "Idealizm"
+    ],
+    "correctAnswer": "Pragmatizm",
+    "tags": [
+      "TARİH-Rönesans",
+      "Felsefe",
+      "Machiavelli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dzsyr1rzo",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminde sanatın merkezine gelen 'insancılık' (humanism) akımının temel özelliği nedir?",
+    "explanation": "Rönesans insancılık akımı, Ortaçağ'ın tanrı merkezli düşünce yapısından farklı olarak insanı merkeze alır. İnsanın yetenekleri, akıl ve değerlerinin yüceltilmesi bu dönemin temel özelliğidir.",
+    "options": [
+      "Tanrı merkeze alınması",
+      "İnsanın değerinin yüceltilmesi",
+      "Doğaüstü gücün önemsenmesi",
+      "Mistik deneyimlerin vurgulanması"
+    ],
+    "correctAnswer": "İnsanın değerinin yüceltilmesi",
+    "tags": [
+      "TARİH-Rönesans",
+      "Felsefe",
+      "Humanizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lvie6ryyq",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Leopoldo da Vinci'nin aslında 'Leonardo da Vinci' ile karıştırılan ünlü Rönesans sanatçısı hangi alanda uzmanlaşmıştır?",
+    "explanation": "Leonardo da Vinci Rönesans'ın en çok yönlü sanatçılarından biridir. Hem resim (Mona Lisa, Son Akşam Yemeği), hem mimari çalışmalarıyla hem de bilimsel gözlemleriyle tanınır. Çizimler ve notlar da dahil olmak üzere geniş bir bilgi birikimine sahi",
+    "options": [
+      "Sadece resim",
+      "Sadece heykel",
+      "Resim, mimari ve bilim",
+      "Sadece müzik"
+    ],
+    "correctAnswer": "Resim, mimari ve bilim",
+    "tags": [
+      "TARİH-Rönesans",
+      "Leonardo da Vinci",
+      "Çokyönlü Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "75sa3zq4r",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EASY",
+    "question": "Rönesans dönemi, hangi kelimenin tamlaması olarak bilinir?",
+    "explanation": "Rönesans, Fransızca 'renaisance' kelimesinden gelir ve 'yeniden doğuş' anlamına sahiptir. Bu dönem, Orta Çağ'dan sonra kültürün canlanmasını ifade eder.",
+    "options": [
+      "Doğuş",
+      "Yeniden doğuş",
+      "Karanlık çağ",
+      "Altın çağ"
+    ],
+    "correctAnswer": "Yeniden doğuş",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Anlam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wjwyf81lb",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "İtalya'nın hangi şehri Rönesans döneminin başkentidir?",
+    "explanation": "Floransa, Rönesans döneminin başkentidir. Leonardo da Vinci, Michelangelo gibi büyük sanatçılar Floransa'da yaşamış ve eserlerini burada oluşturmuştur.",
+    "options": [
+      "Milano",
+      "Floransa",
+      "Roma",
+      "Venedik"
+    ],
+    "correctAnswer": "Floransa",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bzzxrj3ub",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminde aşağıdaki sanatçılarından hangisi 'Kara Rönesans' olarak anılır?",
+    "explanation": "Andrea Mantegna, Rönesans döneminin en önemli sanatçılarından biridir. Floransa'da yaşamış ve 'Kara Rönesans' olarak bilinir.",
+    "options": [
+      "Leonardo da Vinci",
+      "Donatello",
+      "Andrea Mantegna",
+      "Sandro Botticelli"
+    ],
+    "correctAnswer": "Andrea Mantegna",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Sanatçılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cb79mbq7u",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans'ta hangi düşünce akımı insan merkezli yaklaşımı öne sürer?",
+    "explanation": "Humanizm, Rönesans döneminin temel düşünce akımıdır. İnsan değerlerini ve yetilerini ön plana çıkarır, insan merkezli yaklaşımla tanınır.",
+    "options": [
+      "Aristokrasi",
+      "Hristiyanlık",
+      "Humanizm",
+      "Katoliklik"
+    ],
+    "correctAnswer": "Humanizm",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Düşünce"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6arubez47",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans döneminde aşağıdaki eserlerden hangisi Michelangelo tarafından yapılmıştır?",
+    "explanation": "Michelangelo, Rönesans döneminin en büyük heykeltıraşlarından biridir. David heykeli ve St. Peter Bazilikası için tasarlanan freskler ünlü eserlerindendir.",
+    "options": [
+      "Monal Lisa",
+      "David heykeli",
+      "Mona Lisa",
+      "Kastilyo kalesi"
+    ],
+    "correctAnswer": "David heykeli",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Eserler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ea2qmtuaj",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EASY",
+    "question": "Rönesans döneminin doğduğu ülke hangisidir?",
+    "explanation": "Rönesans, 14. yüzyılda İtalya'da başlamış ve daha sonra Avrupa'nın diğer ülkelerine yayılmıştır.",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "İngiltere",
+      "Almanya"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "TARİH",
+      "RÖNESANS",
+      "KÜLTÜR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rbl65meqx",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminin en önemli sanatçılarından biri olan Leonardo da Vinci hangi eserlerle bilinir?",
+    "explanation": "Leonardo da Vinci, Mona Lisa tablosu ve Vitruvius Adamı çizimi ile Rönesans'ın en önemli sanatçılarından biridir.",
+    "options": [
+      "Mona Lisa, Vitruvius Adamı",
+      "David heykeli",
+      "Son Akşam Yemeği (Sakat)",
+      "Pisa Kulesi"
+    ],
+    "correctAnswer": "Mona Lisa, Vitruvius Adamı",
+    "tags": [
+      "TARİH",
+      "RÖNESANS",
+      "SANAT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ici3wliaj",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminin insan merkezli düşünce tarzına ne ad verilir?",
+    "explanation": "Rönesans, insan merkezli düşünceye dayalı humanizm felsefesini benimsemiş ve antik Yunan-Roma kültürünü yeniden keşfetmiştir.",
+    "options": [
+      "Humanizm",
+      "Katolikcilik",
+      "Protestanlık",
+      "Mistiklik"
+    ],
+    "correctAnswer": "Humanizm",
+    "tags": [
+      "TARİH",
+      "RÖNESANS",
+      "FELSEFE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l7418abkf",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans döneminin başlangıcına İtalya'da hangisi büyük katkı sağlamıştır?",
+    "explanation": "Medici ailesi, Floransa'daki Rönesans hareketini desteklemiş ve sanatçılara finansal yardım sağlamıştır.",
+    "options": [
+      "Medici Ailesi",
+      "Vespucci",
+      "Magellan",
+      "Columbus"
+    ],
+    "correctAnswer": "Medici Ailesi",
+    "tags": [
+      "TARİH",
+      "RÖNESANS",
+      "POLİTİKA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ps4r7dgrx",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Michelangelo'nun Rönesans döneminin en önemli heykellerinden biri olan 'David' hangi malzemeden yapılmıştır?",
+    "explanation": "Michelangelo'nun David heykeli, İtalyan Carrara mermerinden oyulmuş ve Rönesans'ın en önemli eserlerinden biridir.",
+    "options": [
+      "Mermer",
+      "Taş",
+      "Bronz",
+      "Cam"
+    ],
+    "correctAnswer": "Mermer",
+    "tags": [
+      "TARİH",
+      "RÖNESANS",
+      "SANAT"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "33j8pxcw2",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EASY",
+    "question": "Rönesans (Yenileşme) dönemi coğrafi ve kronolojik olarak hangi bölge ve yüzyıldan başlamıştır?",
+    "explanation": "Rönesans dönemi, kültür ve sanatın yeniden canlanması ile bilinir. Bu hareket Batı Avrupa'da İtalya'da 14. yüzyılın sonlarından itibaren başlamış ve Kuzey Avrupa'ya yayılmıştır.",
+    "options": [
+      "Fransa, 13. Yüzyıl",
+      "İtalya, 14. Yüzyıl",
+      "Almanya, 15. Yüzyıl",
+      "İspanya, 16. Yüzyıl"
+    ],
+    "correctAnswer": "İtalya, 14. Yüzyıl",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c6nu46pa1",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Leonardo da Vinci'nin 'Vitrüvius Adamı' çalışması hangi alandaki birleşmeyi simgeler?",
+    "explanation": "Leonardo da Vinci, insan anatomisi ile matematiksel oranları birleştirerek 'Vitrüvius Adamı' çizmiştir. Bu çalışma Rönesans düşünce yapısının sanat ve bilimin iç içe geçtiğini gösterir.",
+    "options": [
+      "Sadece Sanat",
+      "Sadece Bilim",
+      "Sanat ve Bilim Birliği",
+      "Sadece Mimarlık"
+    ],
+    "correctAnswer": "Sanat ve Bilim Birliği",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Sanatçı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cnj9osfnq",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans döneminin temel felsefi akımı olan 'İnsancılık' (Humanizm) kavramı aşağıdakilerden hangisini vurgular?",
+    "explanation": "İnsancılık (Humanizm), Rönesans düşünürlerinin merkezi fikridir. İnsanın dünyevi hayatının, zihninin ve potansiyelinin Tanrı merkezli yaklaşımların önüne geçilerek vurgulandığını belirtir.",
+    "options": [
+      "Tanrı'nın mutlak otoritesini",
+      "İnsanın değerinin ve yeteneklerinin önemini",
+      "Eski Yunan mimarisini tamamen reddetmeyi",
+      "Dinî dogmatizmi desteklemeyi"
+    ],
+    "correctAnswer": "İnsanın değerinin ve yeteneklerinin önemini",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2zrkcejjw",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Sanatta uzak mesafedeki nesnelerin boyutlarını küçültmek ve derinlik hissi yaratmak için hangi teknik kullanılmıştır?",
+    "explanation": "Perspektif tekniği, sanatta üçüncü boyutu (derinliği) göstermek için icat edilmiştir. Brunelleschi tarafından öne çıkarılmış ve Rönesans resimlerinin vazgeçilmez özelliği haline gelmiştir.",
+    "options": [
+      "Gölgeleme",
+      "Renk Paleti",
+      "Perspektif",
+      "Yazı Tipi"
+    ],
+    "correctAnswer": "Perspektif",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g185739uy",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Kuzey Avrupa Rönesansı'nın İtalya'daki Rönesans'tan ayrıldığı en belirgin özellik aşağıdakilerden hangisidir?",
+    "explanation": "İtalya Rönesansı klasik sanatla bilinirken, Kuzey Avrupa'da (Erasmus vb.) dinî reformlar ve yazı dağıtımı (basım) önemli rol oynamıştır. Ayrıca daha detaylı ve gerçekçi portreler çizilmiştir.",
+    "options": [
+      "Sadece heykeltıraşlık alanında yoğunlaşması",
+      "Dinî reform hareketleri ve tipografi ile ilişkili olması",
+      "Eski Yunan mitolojisine ağırlık vermesi",
+      "Sadece saray resimleri yapılması"
+    ],
+    "correctAnswer": "Dinî reform hareketleri ve tipografi ile ilişkili olması",
+    "tags": [
+      "Tarih",
+      "Rönesans",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2anom2lip",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminin en önemli merkezi olarak kabul edilen şehir hangisidir?",
+    "explanation": "Rönesans dönemi 14-17. yüzyıllarda Batı Avrupa'da yaşanmış olup, Floransa (İtalya) bu hareketin en önemli merkezlerinden biridir. Leonardo da Vinci, Michelangelo gibi büyük sanatçıların çoğu Floransa ile ilgilidir.",
+    "options": [
+      "Paris",
+      "Londra",
+      "Floransa",
+      "Atina"
+    ],
+    "correctAnswer": "Floransa",
+    "tags": [
+      " Rönesans",
+      " Tarih",
+      " Sanat",
+      " Avrupa Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hmflbqwp5",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans sanatında insan merkezciliği anlayışına ne ad verilir?",
+    "explanation": "Rönesans döneminin temel felsefi anlayışı insan merkezciliği olup, bu düşünceye 'humanistik' denir. Yunan-Roma kültürünün yeniden keşfedilmesi ve insani değerlerin ön plana çıkarılması humanist düşünürleri karakterize eder.",
+    "options": [
+      "Antroposentrik",
+      "Humanistik",
+      "Teosentrik",
+      "Kosmopolit"
+    ],
+    "correctAnswer": "Humanistik",
+    "tags": [
+      " Rönesans",
+      " Felsefe",
+      " Sanat",
+      " Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2ws5ypjg",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans döneminde yazılan ve insan doğasını inceleyen önemli eser hangisidir?",
+    "explanation": "'İnsanın Onuruna Dair' (De dignitate hominis) Giovanni Pico della Mirandola tarafından yazılmış önemli Rönesans eseri olup, insanın kendi kaderini tayin etme yeteneğini ve potansiyelini vurgular.",
+    "options": [
+      "Kraliyet Tarihi",
+      "İnsanın Onuruna Dair",
+      "Dünya Gezgini",
+      "Akıl Felsefesi"
+    ],
+    "correctAnswer": "İnsanın Onuruna Dair",
+    "tags": [
+      " Rönesans",
+      " Edebiyat",
+      " Tarih",
+      " Felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15gmfivzu",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminde bilim ve sanatı birleştiren ünlü figür kimdir?",
+    "explanation": "Leonardo da Vinci, Rönesans'ın en çok yönlü figürüdür. Hem ressam, hem heykeltraş, hem mühendis, hem de bilim insanı olarak birçok alanda çalışmıştır. Mona Lisa ve Vitruvius Adamı gibi eseriyle bilinir.",
+    "options": [
+      "Galileo Galilei",
+      "Niccolò Machiavelli",
+      "Leonardo da Vinci",
+      "Johannes Gutenberg"
+    ],
+    "correctAnswer": "Leonardo da Vinci",
+    "tags": [
+      " Rönesans",
+      " Sanat",
+      " Tarih",
+      " Bilim Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gq3gqghdb",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans döneminde İtalya'da yayılan bu düşünce hareketinin Avrupa'ya ilk yayıldığı ülke hangisidir?",
+    "explanation": "Rönesans düşünce hareketi 15-16. yüzyıllarda Fransa'ya yayılmıştır. Fransız Rönesansı, İtalyan etkisini benimseyerek yerel kültürü birleştirerek gelişmiştir ve bu dönemde François Rabelais gibi yazarlar ortaya çıkmıştır.",
+    "options": [
+      "İspanya",
+      "Fransa",
+      "İngiltere",
+      "Hollanda"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      " Rönesans",
+      " Tarih",
+      " Avrupa Tarihi",
+      " Felsefe Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "41adfezme",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EASY",
+    "question": "Rönesans döneminin en önemli merkezlerinden biri olarak kabul edilen şehir hangisidir?",
+    "explanation": "Floransa, Rönesans döneminin başkenti olarak kabul edilir. Bu şehirde Leonardo da Vinci, Michelangelo gibi büyük sanatçılar yaşamış ve Rönesans kültürü gelişmiştir.",
+    "options": [
+      "Atina",
+      "Floransa",
+      "İstanbul",
+      "Paris"
+    ],
+    "correctAnswer": "Floransa",
+    "tags": [
+      "TARİH",
+      "Rönesans",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5u4skq9wf",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans düşünce akımı 'Humanizm'in temel özelliği nedir?",
+    "explanation": "Humanizm, Rönesans döneminin en önemli felsefi akımıdır. Bu akım, insanın değerini ön plana çıkarır ve Antik Yunan-Roma kültürünü yeniden keşfetmeyi amaçlar.",
+    "options": [
+      "Tanrı merkezli düşünüş",
+      "İnsan merkezli düşünüş",
+      "Feodal yapı savunusu",
+      "Aydınlanma hareketi"
+    ],
+    "correctAnswer": "İnsan merkezli düşünüş",
+    "tags": [
+      "TARİH",
+      "Rönesans",
+      "Felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sis82upkj",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans sanatında gerçekçilik ve perspektif kullanımının en önemli temsilcisi kimdir?",
+    "explanation": "Leonardo da Vinci, Rönesans sanatının en önemli temsilcilerinden biridir. Mona Lisa ve son yargılama gibi eserleriyle gerçekçilik ve perspektif tekniklerini mükemmelleştirmiştir.",
+    "options": [
+      "Donatello",
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael"
+    ],
+    "correctAnswer": "Leonardo da Vinci",
+    "tags": [
+      "TARİH",
+      "Rönesans",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4t5q9gisp",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans döneminde yazılan ve insan doğasını açıklayan ünlü eser hangisidir?",
+    "explanation": "Thomas More tarafından yazılan 'Utopia', Rönesans döneminin önemli edebi eserlerinden biridir. Bu kitap, ideal bir toplum vizyonu sunar ve insan doğasını inceler.",
+    "options": [
+      "İlahi Şehir",
+      "Hamlet",
+      "Utopia",
+      "Göze Göre"
+    ],
+    "correctAnswer": "Utopia",
+    "tags": [
+      "TARİH",
+      "Rönesans",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jc6ji61l0",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans dönemi hangi yüzyılda başlayıp hangi yüzyılda son bulmuştur?",
+    "explanation": "Rönesans dönemi, 14. yüzyılın sonlarından başlayıp 16. yüzyılda (özellikle Batı Avrupa'da) son bulmuştur. Bu dönem Orta Çağ ile Modern Çağ arasında bir geçiş dönemidir.",
+    "options": [
+      "14-16",
+      "15-17",
+      "13-15",
+      "12-14"
+    ],
+    "correctAnswer": "14-16",
+    "tags": [
+      "TARİH",
+      "Rönesans",
+      "Zaman Çizelgesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4iw392nxw",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EASY",
+    "question": "Rönesans dönemi hangi yıllar arasında gerçekleşmiştir?",
+    "explanation": "Rönesans dönemi genel olarak 14. yüzyılın ortasından (yaklaşık 1350) 16. yüzyıla kadar uzanan yaklaşık 150 yıllık süreyi kapsar.",
+    "options": [
+      "1400-1500",
+      "1350-1500",
+      "1300-1450",
+      "1200-1350"
+    ],
+    "correctAnswer": "1350-1500",
+    "tags": [
+      "zamanlama",
+      "tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4yqtoxj8a",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "İtalya'daki Rönesans hareketinin başkent olarak kabul edilen şehir hangisidir?",
+    "explanation": "Floransa, Rönesans'ın doğduğu ve geliştiği şehir olarak kabul edilir. Medici ailesi bu şehri sanatsal hareketin merkezi haline getirmiştir.",
+    "options": [
+      "Roma",
+      "Napoli",
+      "Floransa",
+      "Milan"
+    ],
+    "correctAnswer": "Floransa",
+    "tags": [
+      "şehirler",
+      "italya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qeofz8gn5",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans sanatında 'İnsanlık Merkezciliği'ne ne ad verilir?",
+    "explanation": "Humanizm, Rönesans felsefesinin temel ilkesidir ve insanı merkeze alarak antik Yunan-Roma kültürüne ilgiyi artırmıştır.",
+    "options": [
+      "Humanizm",
+      "Idealizm",
+      "Realizm",
+      "Estetizm"
+    ],
+    "correctAnswer": "Humanizm",
+    "tags": [
+      "felsefe",
+      "merkezcilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfmtiacsm",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Leonardo da Vinci'nin en meşhur tabir edilen eseri hangisidir?",
+    "explanation": "Leonardo da Vinci, San Marco Kilisesi için 'Son Akşam Yemeği' tablosunu çizmiştir ve Rönesans sanatının en önemli eserlerinden biridir.",
+    "options": [
+      "Kurtuluş",
+      "Son Akşam Yemeği",
+      "İncil",
+      "Düşünceli Adam"
+    ],
+    "correctAnswer": "Son Akşam Yemeği",
+    "tags": [
+      "Leonardo da Vinci",
+      "tabirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n6v2x79wk",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Michelangelo'nun Sistine Şaprağı'ndaki fresklerine ne ad verilmiştir?",
+    "explanation": "Michelangelo, Sistine Şaprağı'nın tavanına 'Yaratılış' adlı büyük fresk dizisini çizmiştir ve özellikle Adem'in Tanrı'dan nefes alması sahnesi ünlüdür.",
+    "options": [
+      "Yaratılış",
+      "Son Yargı",
+      "İnsanlığın Tarihi",
+      "Ateş ve Su"
+    ],
+    "correctAnswer": "Yaratılış",
+    "tags": [
+      "Michelangelo",
+      "Sistine Şaprağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qv030qbxe",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans Dönemi hangi yüzyılda başlamıştır?",
+    "explanation": "Rönesans, 14. yüzyılda İtalya'da başlamış ve 17. yüzyıla kadar devam etmiştir. Bu dönemin başlangıcı genellikle Dante'nin ölümü (1321) veya Petrarca ile ilişkilendirilir.",
+    "options": [
+      "13. yüzyıl",
+      "14. yüzyıl",
+      "15. yüzyıl",
+      "16. yüzyıl"
+    ],
+    "correctAnswer": "14. yüzyıl",
+    "tags": [
+      "Rönesans",
+      "Tarih",
+      "Kültürel Dönemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v5byupn37",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans'ın en önemli merkezlerinden hangisi değildir?",
+    "explanation": "Rönesans'ın en önemli merkezleri Floransa, Venedik, Roma ve Milano gibi İtalyan şehirleriydi. Paris Rönesans'ta etkili olsa da Atina o dönem bir Rönesans merkezi değildi.",
+    "options": [
+      "Floransa",
+      "Venedik",
+      "Paris",
+      "Atina"
+    ],
+    "correctAnswer": "Atina",
+    "tags": [
+      "Rönesans",
+      "Coğrafya",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sqjvkj3l1",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Leopoldo ile birlikte çalışmış ünlü Rönesans heykeltıraşı kimdir?",
+    "explanation": "Donatello, Rönesans döneminin en önemli heykeltıraşıdır ve Floransa'da çok sayıda eseri yapmıştır. Michelangelo da aynı dönemde yaşamış olsa da daha çok resim ve mimariye odaklanmıştır.",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Sandro Botticelli",
+      "Leonardo da Vinci"
+    ],
+    "correctAnswer": "Donatello",
+    "tags": [
+      "Rönesans",
+      "Sanat",
+      "Heykeltıraşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ityyzupb",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans sanatinin temel özelliklerinden hangisi değildir?",
+    "explanation": "Rönesans sanatinin temel özellikleri insan merkezciliği, antik kültür dönüşü ve doğa perspektifi kullanımıdır. Dini temalar da vardı ancak sadece dini temalı eserler üretilmemiştir.",
+    "options": [
+      "İnsan merkezciliği",
+      "Antik Yunan-Roma kültürüne dönüş",
+      "Doğal perspektif kullanımı",
+      "Sadece dini temalı eserler"
+    ],
+    "correctAnswer": "Sadece dini temalı eserler",
+    "tags": [
+      "Rönesans",
+      "Sanat",
+      "Tasarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5g7dz2agz",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "İlk Rönesans ressamı olarak kabul edilen sanatçı kimdir?",
+    "explanation": "Giotto, 13. yüzyılın sonları ve 14. yüzyılda yaşamış olup Rönesans resim sanatının öncüsü kabul edilir. Çalışmalarında derinlik ve gerçekçilik elementleri kullanmıştır.",
+    "options": [
+      "Giotto di Bondone",
+      "Masaccio",
+      "Fra Angelico",
+      "Piero della Francesca"
+    ],
+    "correctAnswer": "Giotto di Bondone",
+    "tags": [
+      "Rönesans",
+      "Resim",
+      "Sanatçılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p2f0vvqod",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EASY",
+    "question": "Rönesans döneminin coğrafi olarak hangi bölge ile başlayarak yayıldığı bilinir?",
+    "explanation": "Rönesans dönemi 14. yüzyılda İtalya'da başlayarak, özellikle Floransa, Venedik ve Roma gibi şehirlerde gelişmiş, daha sonra Avrupa'nın diğer bölgelerine yayılmıştır.",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "İspanya",
+      "Avusturya"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "coğrafya",
+      "tarih",
+      "rönesans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ke9yder2o",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans sanatının en önemli temsilcilerinden biri olan 'Leonardo da Vinci' hangi tür eserlerle bilinir?",
+    "explanation": "Leonardo da Vinci hem 'Mona Lisa' gibi ünlü tablolar hem de anatomik çizimler, heykel tasarımları ve bilimsel notlarla tanınan Rönesans'un en çok yönlü sanatkârıdır.",
+    "options": [
+      "Sadece resim",
+      "Sadece heykel",
+      "Resim, heykel ve bilim çalışmaları",
+      "Sadece mimari"
+    ],
+    "correctAnswer": "Resim, heykel ve bilim çalışmaları",
+    "tags": [
+      "sanat",
+      "Leonardo da Vinci",
+      "rönesans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5tmbm5qeh",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans düşüncesinin merkezinde yer alan insan odaklı yaklaşım hangi kavramla ifade edilir?",
+    "explanation": "Rönesans döneminde din merkezli anlayış (teocentrizm) yerini insan merkezli insancılığa bırakmış, insanın yetenekleri ve değeri vurgulanmıştır.",
+    "options": [
+      "Teocentrizm",
+      "İnsancılık (Humanizm)",
+      "Mistikcilik",
+      "Baskıncılık"
+    ],
+    "correctAnswer": "İnsancılık (Humanizm)",
+    "tags": [
+      "felsefe",
+      "insancılık",
+      "rönesans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2uikduhed",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "EXPERT",
+    "question": "Rönesans dönemi mimarisinde kullanılan 'domedeki kubbe' tasarımı kimin en önemli eseri olarak kabul edilir?",
+    "explanation": "Filippo Brunelleschi, Floransa Katedrali için Rönesans döneminin ilk büyük kubbesini tasarlayarak mimarinin yeni bir dönemi açmıştır.",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Brunelleschi",
+      "Donatello"
+    ],
+    "correctAnswer": "Brunelleschi",
+    "tags": [
+      "mimari",
+      "kubbe",
+      "rönesans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xp3z02ztg",
+    "category": "TARİH",
+    "subcategory": "Rönesans",
+    "difficulty": "GENERAL",
+    "question": "Rönesans döneminde yazılı eserlerin çoğaltılmasını sağlayan ve bilginin yaygınlaşmasını sağlayan icat hangisidir?",
+    "explanation": "Johannes Gutenberg'in icadetti mekanize baskı makinesi, Rönesans döneminde kitapların ve yazılı eserlerin toplu üretimi sayesinde bilginin yaygınlaşmasını sağlamıştır.",
+    "options": [
+      "Elektrik lambası",
+      "Mekinsiz baskı makinesi",
+      "Telegraf",
+      "İnternet"
+    ],
+    "correctAnswer": "Mekinsiz baskı makinesi",
+    "tags": [
+      "teknoloji",
+      "bilim",
+      "rönesans"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
   }
 ]

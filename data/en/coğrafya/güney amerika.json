@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "lz4ut3dzx",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'nın en uzun nehir hangisidir?",
+    "explanation": "Amazonas nehri Güney Amerika'nın ve dünyanın en uzun nehridir. Yaklaşık 6.400 km ile uzundur.",
+    "options": [
+      "Paraná",
+      "Amazonas",
+      "Nile",
+      "Mississippi"
+    ],
+    "correctAnswer": "Amazonas",
+    "tags": [
+      "coğrafya",
+      "nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bynbhabhn",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'da yer alan en yüksek sıradağlar hangi sistemde bulunur?",
+    "explanation": "And Dağları Güney Amerika kıtasının batı kenarında yer alır ve en yüksek zirvelere sahiptir.",
+    "options": [
+      "Alpler",
+      "And Dağları",
+      "Himalayalar",
+      "Rocky Dağları"
+    ],
+    "correctAnswer": "And Dağları",
+    "tags": [
+      "coğrafya",
+      "dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rovvl463z",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'nın nüfus yoğunluğu en fazla olduğu bölge hangisidir?",
+    "explanation": "Güney Amerika'da nüfus çoğunlukla kıyı şehirlerinde ve Amazon nehri vadisinde yoğunlaşmıştır.",
+    "options": [
+      "Amazon Ormanı",
+      "Atol Bölgesi",
+      "Sahil Şehirleri",
+      "Dağlık Alanlar"
+    ],
+    "correctAnswer": "Sahil Şehirleri",
+    "tags": [
+      "coğrafya",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gx3mblhbu",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'nın en büyük ülkesi hangisidir?",
+    "explanation": "Brezilya Güney Amerika'da hem en büyük yüzölçüme sahip hem de nüfus bakımından ilk sıradadır.",
+    "options": [
+      "Brezilya",
+      "Kolombiya",
+      "Arjantin",
+      "Peru"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "coğrafya",
+      "ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u05jz3jen",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'daki Atol Bölgesi hangi iklim tipine sahiptir?",
+    "explanation": "Güney Amerika'daki Atol (Amazon) bölgesi sıcak ve nemli tropikal iklim sergiler.",
+    "options": [
+      "Sıcak ve Kurak",
+      "Soğuk ve Karlı",
+      "Nemli ve Sıcak",
+      "Karasal"
+    ],
+    "correctAnswer": "Nemli ve Sıcak",
+    "tags": [
+      "coğrafya",
+      "iklim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sm7gvnl7t",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'daki en büyük ülkelerden biri olan Brezilya'nın resmi dili nedir?",
+    "explanation": "Brezilya, Portekiz'in eski kolonisi olduğu için resmi dili Portekizcedir. Latin Amerika'nın çoğu İspanyolca konuşur ancak Brezilya istisnadır.",
+    "options": [
+      "İspanyolca",
+      "Portekizce",
+      "Fransızca",
+      "Hintçe"
+    ],
+    "correctAnswer": "Portekizce",
+    "tags": [
+      "Brezilya",
+      "Dil",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "siodav8eo",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'daki And Dağları hangi kıtaya uzanır?",
+    "explanation": "And Dağları sadece Güney Amerika kıtasında bulunan en uzun dağ sırasıdır. Kuzey Amerika'da farklı dağ sistemleri bulunur.",
+    "options": [
+      "Sadece Güney Amerika",
+      "Kuzey ve Güney Amerika",
+      "Avustralya ve Yeni Zelanda",
+      "Afrika ve Asya"
+    ],
+    "correctAnswer": "Sadece Güney Amerika",
+    "tags": [
+      "And Dağları",
+      "Dağ Sıraları",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qgd08pagg",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'nın en yüksek noktası olan Aconcagua Dağı hangi ülkededir?",
+    "explanation": "Aconcagua, And Dağları'nda bulunan ve Güney Amerika'nın en yüksek noktası olan dağdır. Arjantin ve Şili sınırında yer alır ancak ana kısmı Arjantin'dedir.",
+    "options": [
+      "Brezilya",
+      "Arjantin",
+      "Şili",
+      "Kolombiya"
+    ],
+    "correctAnswer": "Arjantin",
+    "tags": [
+      "Aconcagua",
+      "Dağlar",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ln7jkv6rb",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Amazon Nehri dünyanın en büyük nehirlerinden biridir ve hangi ülkenin topraklarından geçer?",
+    "explanation": "Amazon Nehri Brezilya'nın büyük kısmından geçer ancak Kolombiya, Peru, Venezuela, Ekvador, Bolivya gibi ülkelerin de topraklarından akışır.",
+    "options": [
+      "Sadece Brezilya",
+      "Brezilya, Kolombiya, Peru, Venezuela ve diğerleri",
+      "Sadece Şili",
+      "Sadece Arjantin"
+    ],
+    "correctAnswer": "Brezilya, Kolombiya, Peru, Venezuela ve diğerleri",
+    "tags": [
+      "Amazon Nehri",
+      "Nezler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6fvhqsr4i",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EXPERT",
+    "question": "Güney Amerika'daki en derin göl hangi ülkededir?",
+    "explanation": "Güney Amerika'daki en derin göl Tucuruji Gölüdür (bazı kaynaklarda diğerleri de belirtilir). Ancak en bilinen derin su kütlelerinden biri Venezuela'nın Aragua Gölü veya Gürcistan'ın Tolstoy Gölü ile ilgili olabilir. Doğrusu: Venezuela'da bulunan",
+    "options": [
+      "Brezilya",
+      "Kolombiya",
+      "Venezuela",
+      "Şili"
+    ],
+    "correctAnswer": "Venezuela",
+    "tags": [
+      "Tocantins",
+      "Güller",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jpvjemiwi",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Which mountain peak is the highest in South America?",
+    "explanation": "Mount Aconcagua, located in the Andes range of Argentina, stands at 6,961 meters and is the highest peak in South America and the Americas.",
+    "options": [
+      "Mount Aconcagua",
+      "Mount Kilimanjaro",
+      "Mount Denali",
+      "Mount Elbrus"
+    ],
+    "correctAnswer": "Mount Aconcagua",
+    "tags": [
+      "mountains",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u2mgccw06",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Which country has the largest land area in South America?",
+    "explanation": "Brazil covers approximately 47% of South America's total land area, making it the largest country by surface area in the continent.",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Peru",
+      "Colombia"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "countries",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8zjkm22ft",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Which river has the highest discharge volume in South America?",
+    "explanation": "The Amazon River holds the highest discharge volume in the world, transporting more water than any other river system.",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Congo River"
+    ],
+    "correctAnswer": "Amazon River",
+    "tags": [
+      "rivers",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2eik9b3e1",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Which desert is known as the driest non-polar desert in South America?",
+    "explanation": "The Atacama Desert receives the least rainfall in South America, with some areas recording less than 1mm of rain per year.",
+    "options": [
+      "Atacama Desert",
+      "Patagonian Desert",
+      "Chaco Desert",
+      "Gran Chaco"
+    ],
+    "correctAnswer": "Atacama Desert",
+    "tags": [
+      "deserts",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f95kytx5o",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Which country is home to Angel Falls, the highest waterfall in South America?",
+    "explanation": "Angel Falls, located in Canaima National Park, Venezuela, reaches a height of 979 meters and is the tallest uninterrupted waterfall globally.",
+    "options": [
+      "Brazil",
+      "Peru",
+      "Venezuela",
+      "Colombia"
+    ],
+    "correctAnswer": "Venezuela",
+    "tags": [
+      "waterfalls",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jn1scbw0y",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'daki en uzun nehir hangisidir?",
+    "explanation": "Amazon Nehri, Güney Amerika'daki en uzun ve debili nehir olup dünyadaki en büyük sulama alanına sahiptir.",
+    "options": [
+      "Amazon Nehri",
+      "Nil Nehri",
+      "Yangtze Nehri",
+      "Davyd Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5v4hvxjg7",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika kıtasının en yüksek tepesi neresidir?",
+    "explanation": "Aconcagua Dağı, Güney Amerika'daki en yüksek tepedir ve And Dağları'na aittir.",
+    "options": [
+      "Aconcagua",
+      "Everest",
+      "Kilimanjaro",
+      "Fuji"
+    ],
+    "correctAnswer": "Aconcagua",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5wl5us1t2",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika kıtasını iki yarımaya ayıran dağlık bölge hangisidir?",
+    "explanation": "And Dağları, Güney Amerika kıtasını boyunca uzanır ve kıtanın ana fiziksel özelliğini oluşturur.",
+    "options": [
+      "And Dağları",
+      "Atlas Dağları",
+      "Urall Dağları",
+      "Himalya"
+    ],
+    "correctAnswer": "And Dağları",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tqhycd2bx",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'da yer altı kaynakları açısından en zengin ülke hangisidir?",
+    "explanation": "Peru, bakır, gümüş, kurşun gibi yer altı kaynakları açısından dünyanın en zengin ülkelerinden biridir.",
+    "options": [
+      "Brezilya",
+      "Peru",
+      "Kolombiya",
+      "Venezuela"
+    ],
+    "correctAnswer": "Peru",
+    "tags": [
+      "coğrafya",
+      "yer altı kaynakları",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ie0tsi5uj",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika kıtasının büyük kısmını kaplayan ormanlık alan hangisidir?",
+    "explanation": "Amazon Ormanı, Güney Amerika'nın büyük kısmını kaplayan dünyadaki en büyük sıcak orman alanıdır.",
+    "options": [
+      "Amazon Ormanı",
+      "Sibirya Ormanı",
+      "Kongo Ormanı",
+      "Kaliforniya Ormanı"
+    ],
+    "correctAnswer": "Amazon Ormanı",
+    "tags": [
+      "coğrafya",
+      "ormanlar",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pu2g0xl1q",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'da en uzun nehir hangisidir?",
+    "explanation": "Amazon Nehri Güney Amerika'da en uzun ve debili nehirdir. Dünyanın en büyük nehir havzasına sahiptir.",
+    "options": [
+      "Amazon Nehri",
+      "Nile Nehri",
+      "Mississippi Nehri",
+      "Yangtze Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "nehirler",
+      "coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "54xmmw9p5",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'nın en yüksek tepesi hangisidir?",
+    "explanation": "Aconcagua And Dağları'nda yer alır ve Güney Amerika'nın en yüksek noktasıdır (6.962 metre). Everest Asya'dadır.",
+    "options": [
+      "Aconcagua",
+      "Everest",
+      "K2",
+      "Denali"
+    ],
+    "correctAnswer": "Aconcagua",
+    "tags": [
+      "dağlar",
+      "coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yd3tzstx5",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika kıtasında bulunan büyük platolar hangisidir?",
+    "explanation": "Guiana Platosu Güney Amerika'nın kuzeydoğusunda, Amazon Ovası kıtanın orta kısmında yer alır.",
+    "options": [
+      "Atacama Çölü",
+      "Guiana Eşitsizliği",
+      "Amazon Ovası",
+      "Sahra Çölü"
+    ],
+    "correctAnswer": "Guiana Eşitsizliği",
+    "tags": [
+      "platolar",
+      "coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xbittnps5",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Buenos Aires hangi ülkenin başkentidir?",
+    "explanation": "Buenos Aires Arjantin'in başkentidir ve Güney Amerika'nın en kalabalık metropol yerleşimlerinden biridir.",
+    "options": [
+      "Kolombiya",
+      "Arjantin",
+      "Şili",
+      "Peru"
+    ],
+    "correctAnswer": "Arjantin",
+    "tags": [
+      "başkentler",
+      "ülkeler",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jo2t4sbiv",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Magellan Boğazı hangi iki denizi birbirine bağlar?",
+    "explanation": "Magellan Boğazı Güney Amerika'nın ucunda, Pasifik Okyanusunu Atlas Okyanusu'na bağlayan deniz yolu olarak işlev görür.",
+    "options": [
+      "Atlas Okyanusu - Hint Okyanusu",
+      "Pasifik Okyanusu - Atlas Okyanusu",
+      "Kara Deniz - Marmara Denizi",
+      "Baltık Denizi - Kuzey Denizi"
+    ],
+    "correctAnswer": "Pasifik Okyanusu - Atlas Okyanusu",
+    "tags": [
+      "boğazlar",
+      "coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nlwtco095",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'nın en büyük nehri ve Amazon Nehri hakkında aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Amazon Nehri, Güney Amerika'nın Amazon havzasında yer alır ve dünya üzerinde hem uzunluk hem de su hacimi açısından en büyük nehirdir.",
+    "options": [
+      "Amazon Nehri Güney Amerika'nın en kısa nehridir",
+      "Amazon Nehri dünyanın en uzun ve en hacimli nehridir",
+      "Amazon Nehri sadece Güney Amerika'da bulunur",
+      "Amazon Nehri kuzeyden güneye akar"
+    ],
+    "correctAnswer": "Amazon Nehri dünyanın en uzun ve en hacimli nehridir",
+    "tags": [
+      "Güney Amerika",
+      "Amazon Nehri",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mkpke17d7",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika kıtasında aşağıdaki ülkelerden hangisi en kalabalık nüfusa sahiptir?",
+    "explanation": "Brezilya, Güney Amerika kıtasında en kalabalık nüfusa sahip ülkedir ve aynı zamanda dünyanın en büyük 5. ülkesidir.",
+    "options": [
+      "Brezilya",
+      "Kolombiya",
+      "Arjantin",
+      "Peru"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "Güney Amerika",
+      "Ülkeler",
+      "Nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x7m51qgl5",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "And Dağları Güney Amerika kıtasında hangi yönde uzanır?",
+    "explanation": "And Dağları, Güney Amerika kıtasının batı kenarında kuzeyden güneye doğru uzanır ve dünyanın en uzun dağ sıralarından biridir.",
+    "options": [
+      "Doğu'dan Batı'ya",
+      "Kuzey'den Güney'e",
+      "Güney'den Kuzey'e",
+      "Batı'dan Doğu'ya"
+    ],
+    "correctAnswer": "Batı'dan Doğu'ya",
+    "tags": [
+      "And Dağları",
+      "Coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n6bf4kan4",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'nın en yüksek tepesi hangi ülkede bulunur?",
+    "explanation": "And Dağları'nın en yüksek tepesi Aconcagua'dır, ancak dünyanın en yüksek tepesi olan Everest Güney Amerika'da değil. Güney Amerika'daki en yüksek dağ Aconcagua (6.962m) Arjantin ve Peru sınırındadır.",
+    "options": [
+      "Brezilya",
+      "Arjantin",
+      "Kolombiya ve Ekvador sınırında",
+      "Peru"
+    ],
+    "correctAnswer": "Kolombiya ve Ekvador sınırında",
+    "tags": [
+      "Aconcagua Dağı",
+      "Coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "klmjfjwv3",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EXPERT",
+    "question": "Amazon Havzası hangi iklim tipinde yer alır?",
+    "explanation": "Amazon Havzası, ekvatora yakın konumda bulunduğu için sıcak ve nemli iklim şartları yaşar; bu bölge Ekvatoral veya Tropikal Muson İklimi sınıflandırılır.",
+    "options": [
+      "Buzul İklimi",
+      "Kuru İklimi",
+      "Tropikal Muson İklimi / Ekvatoral İklimi",
+      "Karasal İklim"
+    ],
+    "correctAnswer": "Tropikal Muson İklimi / Ekvatoral İklimi",
+    "tags": [
+      "Amazon Havzası",
+      "İklim",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vrn5zi1k8",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'nın en büyük ülkesi hangisidir?",
+    "explanation": "Brezilya, Güney Amerika'daki ve dünyanın en büyük ülkelerinden biridir. Yüzölçümü yaklaşık 8.5 milyon km² olup, nüfus ve ekonomisi açısından da lider konumdadır.",
+    "options": [
+      "Brezilya",
+      "Arjantin",
+      "Kolombiya",
+      "Peru"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "ülkeler",
+      "coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yhl02n4n7",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Amazon Nehri'nin ağırlıklı olarak hangi ülkenin topraklarından akar?",
+    "explanation": "Amazon Nehri, Güney Amerika'nın en uzun nehridir ve büyük kısmı Brezilya'nın topraklarından akar. Dünya'nın en büyük nehir ağırlıklı olarak Brezilya'dır.",
+    "options": [
+      "Arjantin",
+      "Brezilya",
+      "Venezuela",
+      "Bolivya"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "nehirler",
+      "Amazon",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2lbk0jrr1",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "And Dağları Güney Amerika kıtasının hangi tarafında bulunur?",
+    "explanation": "And Dağları, Güney Amerika kıtasının batı kenarında uzanır. Atlas Okyanusundan Büyük Okyanus'a kadar uzanan bu dağ sistemi, dünyanın en uzun dağ sıralarındandır.",
+    "options": [
+      "Batı",
+      "Doğu",
+      "Kuzey",
+      "Güney"
+    ],
+    "correctAnswer": "Batı",
+    "tags": [
+      "dağlar",
+      "And",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h51oofvvw",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'nın en yüksek dağı hangisidir?",
+    "explanation": "Aconcagua, And Dağları'nda bulunan ve Güney Amerika'nın en yüksek dağıdır. 6.961 metre yüksekliğine sahiptir ve Arjantin sınırları içinde yer alır.",
+    "options": [
+      "Mount Everest",
+      "Kilimanjaro",
+      "Aconcagua",
+      "Fuji"
+    ],
+    "correctAnswer": "Aconcagua",
+    "tags": [
+      "dağlar",
+      "en yüksek",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6l2m6uapt",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EXPERT",
+    "question": "Güney Amerika'da nüfus yoğunluğu en yüksek hangisidir?",
+    "explanation": "Brezilya'nın doğu kıyı bölgesi, Güney Amerika'da nüfus yoğunluğu en yüksek bölgedir. Bu alan Brezilya'nın ekonomisi ve başkenti Brasília'ya yakın olup, büyük şehirler içerir.",
+    "options": [
+      "Amazon Havzası",
+      "Orinoco Havzası",
+      "Brezilya'nın Doğu Sahili",
+      "Patagonya"
+    ],
+    "correctAnswer": "Brezilya'nın Doğu Sahili",
+    "tags": [
+      "nüfus",
+      "coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pqmvwprol",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika kıtası üzerinde yer alan en uzun nehre aşağıdakilerden hangisi denir?",
+    "explanation": "Amazon Nehri, Güney Amerika'da yer alan dünyanın en uzun ve en büyük nehridir. Başka seçeneklerdeki nehirler farklı kıtalarda bulunur.",
+    "options": [
+      "Nil Nehri",
+      "Amazon Nehri",
+      "Yangtze Nehri",
+      "Mississippi Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p014pghcs",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika kıtasının kuzeyinde yer alan, ekvator geçişli ormanlık bölgeye ne ad verilir?",
+    "explanation": "Amazon Yağmur Ormanı, Güney Amerika'nın kuzeyinde ekvator bölgesinde bulunan dünyanın en büyük tropikal yağmur orman bölgesidir.",
+    "options": [
+      "Tundra",
+      "Çöl",
+      "Amazon Yağmur Ormanı",
+      "Karlı Alanlar"
+    ],
+    "correctAnswer": "Amazon Yağmur Ormanı",
+    "tags": [
+      "coğrafya",
+      "ormanlar",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vcjj6wcyd",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika kıtasının batı kenarında yer alan dağ sırasına ne ad verilir?",
+    "explanation": "And Dağları, Güney Amerika kıtasının batı kıyısında uzanan dünyanın en uzun dağ sırasına verilen isimdir. 7000 kilometre civarında devam eder.",
+    "options": [
+      "Alps Dağları",
+      "And Dağları",
+      "Karakoram Dağları",
+      "Atlas Dağları"
+    ],
+    "correctAnswer": "And Dağları",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vpul6oh44",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'nın en büyük ülkesi ve başkenti aşağıdakilerden hangisidir?",
+    "explanation": "Brezilya, Güney Amerika kıtasında alan bakımından en büyük ülkedir. 2023 itibarıyla başkenti Brasília'dır, ancak Rio de Janeiro önemli bir şehir olarak bilinir.",
+    "options": [
+      "Brezilya - Rio de Janeiro",
+      "Kolombiya - Bogotá",
+      "Arjantin - Buenos Aires",
+      "Venezuela - Caracas"
+    ],
+    "correctAnswer": "Brezilya - Rio de Janeiro",
+    "tags": [
+      "coğrafya",
+      "ülkeler",
+      "başkentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zpfaozj9r",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EXPERT",
+    "question": "Güney Amerika kıtasının güneyinde yer alan ve okyanusa açılan yarımada aşağıdakilerden hangisidir?",
+    "explanation": "Terra del Fuego (Ateş Toprağı), Güney Amerika'nın güneyinde Magellan Boğazı civarında yer alan yarımada ve ada bölgesidir. Soğuk iklimi vardır.",
+    "options": [
+      "Yakın Doğu",
+      "Kolon Bölgesi",
+      "Terra del Fuego",
+      "Kaliforniya Yarımadası"
+    ],
+    "correctAnswer": "Terra del Fuego",
+    "tags": [
+      "coğrafya",
+      "yarımada",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hjr6egi5d",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika kıtasındaki en uzun ve büyük nehre aşağıdakilerden hangisi adı verilir?",
+    "explanation": "Amazon Nehri, Güney Amerika kıtasında yer alır ve dünyanın en büyük döküm nehridir. Dünya'nın toplam tatlı suyunun %20'sini oluşturur.",
+    "options": [
+      "Nil Nehri",
+      "Amazon Nehri",
+      "Mississippi Nehri",
+      "Yangtze Nehri"
+    ],
+    "correctAnswer": "Amazon Nehri",
+    "tags": [
+      "Fiziki Coğrafya",
+      "Hidrografya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7okrcr1l4",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika kıtasının batı kenarını boyunca uzanan dağ sisteminin adı nedir?",
+    "explanation": "Andes Dağları, Güney Amerika'nın batı kenarını boyayan ve dünyanın en uzun dağ silsidir (7.000 km'den fazla).",
+    "options": [
+      "Himalaya Dağları",
+      "Atlas Dağları",
+      "Andes Dağları",
+      "Alp Dağları"
+    ],
+    "correctAnswer": "Andes Dağları",
+    "tags": [
+      "Fiziki Coğrafya",
+      "Dağlar",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6mcuoxhrd",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika kıtasında en büyük yüzölçümüne sahip olan ülke hangisidir?",
+    "explanation": "Brezilya, Güney Amerika kıtasında yüzölçümü bakımından en büyük ülkedir ve kıtanın yaklaşık %47'sini kaplar.",
+    "options": [
+      "Peru",
+      "Kolombiya",
+      "Brezilya",
+      "Arjantin"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "Politik Coğrafya",
+      "Ülkeler",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ovtmdqydn",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EXPERT",
+    "question": "Güney Amerika'nın en yüksek noktasını oluşturan Aconcagua dağı hangi ülkenin sınırları içindedir?",
+    "explanation": "Aconcagua, Andes Dağları'nda yer alır ve Güney Yarım Küre'deki en yüksek zirvedir (6.961 m). Arjantin ve Şili sınırında bulunur ancak çoğunlukla Arjantin topraklarında kabul edilir.",
+    "options": [
+      "Şili",
+      "Peru",
+      "Arjantin",
+      "Bolivya"
+    ],
+    "correctAnswer": "Arjantin",
+    "tags": [
+      "Fiziki Coğrafya",
+      "Dağlar",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "no9imev71",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EXPERT",
+    "question": "Dünyanın en kurak bölgelerinden biri olan Atacama Çölü hangi ülkenin batı kıyısında yer alır?",
+    "explanation": "Atacama Çölü, Şili'nin batı kıyısında yer alır ve milyonlarca yıllık yağmur yokluğu ile dünyanın en kurak bölgelerinden biridir.",
+    "options": [
+      "Brezilya",
+      "Venezuela",
+      "Şili",
+      "Kolombiya"
+    ],
+    "correctAnswer": "Şili",
+    "tags": [
+      "İklim",
+      "Coğrafya",
+      "Güney Amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "97epplk16",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EASY",
+    "question": "Güney Amerika kıtasında yüzölçümü en büyük olan ülke hangisidir?",
+    "explanation": "Brezilya, Güney Amerika kıtasında yaklaşık 8.5 milyon km² yüzölçümü ile en büyük devlettir.",
+    "options": [
+      "Brezilya",
+      "Arjantin",
+      "Kolombiya",
+      "Venezuela"
+    ],
+    "correctAnswer": "Brezilya",
+    "tags": [
+      "ülkeler",
+      "siyasi coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kvykmlpm0",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Amazon Nehri'nin döküldüğü okyanus hangisidir?",
+    "explanation": "Dünyanın en büyük nehri olan Amazon, Güney Amerika'nın kuzeyinden doğar ve Atlantik Okyanusu'na dökülür.",
+    "options": [
+      "Hind Okyanusu",
+      "Beyaz Okyanus",
+      "Atlantik Okyanusu",
+      "Pasifik Okyanusu"
+    ],
+    "correctAnswer": "Atlantik Okyanusu",
+    "tags": [
+      "nehirler",
+      "hidrografya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "72g8bhjst",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika kıtasını boydan boya geçen en uzun dağ zinciri hangisidir?",
+    "explanation": "And Dağları, Güney Amerika kıtasının batı kenarını kuzeyden güneye doğru uzanan en büyük dağ sistemidir.",
+    "options": [
+      "Atlas Dağları",
+      "And Dağları",
+      "Alp Dağları",
+      "Himalaya Dağları"
+    ],
+    "correctAnswer": "And Dağları",
+    "tags": [
+      "dağlar",
+      "fiziki coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zkk0w93t8",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'da yer alan en büyük çöl hangisidir?",
+    "explanation": "Atacama Çölü, Peru ve Şili arasında bulunur ve dünyanın en kuru bölgelerinden biri olarak kabul edilir.",
+    "options": [
+      "Atacama Çölü",
+      "Kalahari Çölü",
+      "Sahra Çölü",
+      "Gobi Çölü"
+    ],
+    "correctAnswer": "Atacama Çölü",
+    "tags": [
+      "çöller",
+      "fiziki coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "03miuzgm6",
+    "category": "COĞRAFYA",
+    "subcategory": "Güney Amerika",
+    "difficulty": "EXPERT",
+    "question": "Güney Amerika kıtasının en yüksek noktası hangi dağdır?",
+    "explanation": "Aconcagua, And Dağları'nın bir parçası olup 6.961 metre yüksekliği ile kıtanın en yüksek noktasını oluşturur.",
+    "options": [
+      "Kilimanjaro Dağı",
+      "Everest Dağı",
+      "Aconcagua Dağı",
+      "Denali Dağı"
+    ],
+    "correctAnswer": "Aconcagua Dağı",
+    "tags": [
+      "zirveler",
+      "fiziki coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

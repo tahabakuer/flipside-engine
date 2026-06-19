@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "7jqe29qa7",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir besin zincirinde üretici olarak sınıflandırılır?",
+    "explanation": "Üreticiler fotosentez yoluyla kendi besinlerini üreten canlılardır. Yeşil bitkiler güneş enerjisini kullanarak organik madde sentezler.",
+    "options": [
+      "Büyük aslan",
+      "Yeşil bitki",
+      "Ak su samuru",
+      "Kara yarası"
+    ],
+    "correctAnswer": "Yeşil bitki",
+    "tags": [
+      "besin-zinciri",
+      "ekoloji",
+      "üretici"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ett3adbzt",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Ekosistemlerde enerji akışı aşağıdakilerden hangisine benzer şekilde gerçekleşir?",
+    "explanation": "Ekosistemlerde enerji güneşten üreticiye, ardından tüketiciye doğru tek yönlü akar ve her geçişte 90% kaybedilir.",
+    "options": [
+      "Döngüsel bir yapıda",
+      "Tek yönlü ve azalan",
+      "Geriye doğru",
+      "Eşit dağılımlı"
+    ],
+    "correctAnswer": "Tek yönlü ve azalan",
+    "tags": [
+      "enerji-akışı",
+      "ekosistem",
+      "besin-zinciri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rm911kyec",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "İki türün birbirine bağımlı olarak yaşamını sürdürdüğü ilişkiye ne ad verilir?",
+    "explanation": "Mutualizmde iki tür de birbirinden fayda sağlar. Örnek: Bal arısı ve çiçekli bitkiler arasındaki polinizasyon.",
+    "options": [
+      "Parazitizm",
+      "Mitoz",
+      "Mutualizm",
+      "Kommensalizm"
+    ],
+    "correctAnswer": "Mutualizm",
+    "tags": [
+      "tür-ilişkisi",
+      "ekoloji",
+      "simbiyoz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fw29z11zo",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Biyolojik çeşitliliğin artmasının ekosistem sağlığına etkisi aşağıdakilerden hangisidir?",
+    "explanation": "Yüksek biyolojik çeşitlilik ekosistemin dış etkenlere karşı direncini artırır ve dengesini korumaya yardımcı olur.",
+    "options": [
+      "Daha kararsız hale gelir",
+      "Daha dengeli ve dirençli olur",
+      "Enerji akışı azalır",
+      "Üretici sayısı düşer"
+    ],
+    "correctAnswer": "Daha dengeli ve dirençli olur",
+    "tags": [
+      "biyolojik-çeşitlilik",
+      "ekosistem-sağlığı",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4wki0je6j",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir ekolojik bölgede aynı türden canlıların oluşturduğu grubuna ne ad verilir?",
+    "explanation": "Popülasyon, belirli bir alanda yaşayan aynı türden bireylerin oluşturduğu topluluğa denir.",
+    "options": [
+      "Ekosistem",
+      "Popülasyon",
+      "Biocoenoz",
+      "Biyom"
+    ],
+    "correctAnswer": "Popülasyon",
+    "tags": [
+      "popülasyon",
+      "ekoloji",
+      "canlı-grubu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rszhvsqbi",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Ekolojik piramitte en alt seviyede yer alan ve diğer organizmalara besin sağlayan grup hangisidir?",
+    "explanation": "Ekolojik piramitte en alt seviyede üreticiler (bitkiler) bulunur. Onlar fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürerek ekosistemdeki tüm organizmalara besin sağlar.",
+    "options": [
+      "Tüketici",
+      "Üretici",
+      "Ayrıştırıcı",
+      "Konsüner"
+    ],
+    "correctAnswer": "Üretici",
+    "tags": [
+      "ekoloji",
+      "besin piramidi",
+      "organizasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3hupwatb8",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi biyolojik çeşitliliği artırmada etkili bir yöntemdir?",
+    "explanation": "Biyolojik çeşitliliği artırmak için koruma alanları (milli parklar, doğa koruma bölgeleri) oluşturulmalıdır. Bu alanlar türlerin doğal yaşam alanlarını koruyarak ekosistem dengesi sağlar.",
+    "options": [
+      "Doğal habitatların tahrip edilmesi",
+      "Koruma alanları oluşturulması",
+      "Tek türün yaygınlaştırılması",
+      "Kimyasal maddelerin kullanımı"
+    ],
+    "correctAnswer": "Koruma alanları oluşturulması",
+    "tags": [
+      "biyolojik çeşitlilik",
+      "koruma",
+      "doğa yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ea8htfwag",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Ekosistemde enerji akışının en verimli olduğu besin zinciri seviyesi hangisidir?",
+    "explanation": "Ekosistemde enerji üreticiler seviyesinde en verimlidir. Her beslenme düzeyine geçişte yaklaşık %90 kayıp olur, bu nedenle üreticilerdeki enerji miktarı en fazladır.",
+    "options": [
+      "Üst tüketiciler",
+      "Orta tüketiciler",
+      "Üreticiler",
+      "Ayrıştırıcılar"
+    ],
+    "correctAnswer": "Üreticiler",
+    "tags": [
+      "enerji akışı",
+      "besin zinciri",
+      "ekosistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e1chwju3c",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi ekosistem dengesi bozulduğunda gözlemlenebilir bir sonuçtur?",
+    "explanation": "Ekosistem dengesi bozulduğunda türlerin sayısı azalır, çeşitlilik düşer ve bazı türler tamamen yok olabilir. Bu durum ekosistemin restorasyon yeteneğini sınırlar.",
+    "options": [
+      "Tür sayısının artması",
+      "Besin zincirinde enerji akışının normal seyretmesi",
+      "Çeşitliliğin azalması ve türlerin yok olması",
+      "Habitatların genişlemesi"
+    ],
+    "correctAnswer": "Çeşitliliğin azalması ve türlerin yok olması",
+    "tags": [
+      "ekosistem dengesi",
+      "tür kaybi",
+      "çevre sorunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nuvjs4p97",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Biyolojik bir ortamda enerji akışında her beslenme düzeyine geçişte yaklaşık ne kadar enerji kaybedilir?",
+    "explanation": "Ekolojide enerji akışında her beslenme düzeyine geçişte yaklaşık %90 enerji kaybedilir (soykaynak, vücut ısısı, atık vb.). Bu nedenle ekosistemlerde enerji miktarı üreticilerden tüketicilere azalır.",
+    "options": [
+      "%10",
+      "%50",
+      "%90",
+      "%30"
+    ],
+    "correctAnswer": "%90",
+    "tags": [
+      "enerji akışı",
+      "beslenme düzeyi",
+      "ekoloji prensipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8e2dpjb34",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Bir ekosistemi oluşturan temel bileşenler nelerdir?",
+    "explanation": "Ekosistem, biyotik (canlı) ve abiyotik (cansız) faktörlerin birbirleriyle etkileşim içinde bulunduğu bütündür.",
+    "options": [
+      "Sadece canlı organizmalar",
+      "Canlı ve cansız faktörlerin etkileşimi",
+      "İklim koşulları",
+      "Toprak yapısı"
+    ],
+    "correctAnswer": "Canlı ve cansız faktörlerin etkileşimi",
+    "tags": [
+      "ekosistem",
+      "biyotik",
+      "abiyotik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6aup2ke2q",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir besin zincirinde üreticiler hangi organizmalardır?",
+    "explanation": "Üreticiler, güneş enerjisini kimyasal enerjiye çeviren fotosentez yapan organizmalardır (bitkiler, algler).",
+    "options": [
+      "Bitkiler ve fotosentez yapan alg",
+      "Tüketiciler",
+      "Çürüyen mantarlar",
+      "Avlanan hayvanlar"
+    ],
+    "correctAnswer": "Bitkiler ve fotosentez yapan alg",
+    "tags": [
+      "trofik seviye",
+      "prodüktör",
+      "tüketici"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8tzffsxjt",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Likenler hangi simbiyoz tipine örnektir?",
+    "explanation": "Likenler, mantar ve alg arasındaki karşılıklı fayda sağlayan mutualistik bir simbiyoz örneğidir.",
+    "options": [
+      "Mutualizm",
+      "Parazitizm",
+      "Komensalizm",
+      "Amfibiotizm"
+    ],
+    "correctAnswer": "Mutualizm",
+    "tags": [
+      "simbiyoz",
+      "mutualizm",
+      "parazitizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kk4gcylne",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Ekosistemdeki tür kaybı aşağıdakilerden hangisine neden olur?",
+    "explanation": "Tür kaybı ekosistemin direncini ve işlevselliğini azaltarak biyolojik çeşitliliği düşürür.",
+    "options": [
+      "Ekosistem istikrarının artması",
+      "Biyolojik çeşitliliğin azalması",
+      "Üreticilerin çoğalması",
+      "Tüketicilerin sayısının artması"
+    ],
+    "correctAnswer": "Biyolojik çeşitliliğin azalması",
+    "tags": [
+      "biyolojik çeşitlilik",
+      "ekosistem istikrarı",
+      "tür kaybı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4fbf0o5ua",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "İnsan faaliyetlerinden kaynaklanan habitat kaybının en büyük sonucu nedir?",
+    "explanation": "Habitat kaybi, organizmaların yaşayabileceği alanların azalmasına ve biyolojik çeşitliliğin düşmesine yol açar.",
+    "options": [
+      "Ekosistemlerin yeniden oluşması",
+      "Türeyen türlerin sayısının artması",
+      "Biyolojik çeşitlilikte azalma",
+      "Üreticilerin çoğalması"
+    ],
+    "correctAnswer": "Biyolojik çeşitlilikte azalma",
+    "tags": [
+      "insan etkisi",
+      "habitat kaybı",
+      "ekoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7xxofzd89",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Ekolojide bir ekosistemin üreticileri olarak nitelendirilen canlılar hangileridir?",
+    "explanation": "Ekolojide ekosistemin üreticileri fotosentez yapabilen canlılardır. Yosunlar, bitkiler ve bazı bakteriler (sianobakteriler) ışık enerjisini kimyasal enerjiye çevirebilirler.",
+    "options": [
+      "Yosun, bitkiler, bazı bakteriler",
+      "Küçük hayvanlar",
+      "Büyük hayvanlar",
+      "Mantarlar"
+    ],
+    "correctAnswer": "Yosun, bitkiler, bazı bakteriler",
+    "tags": [
+      "ekoloji-temel",
+      "ekosistem-yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a8mt4b07n",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir besin zincirinde en büyük enerji kaybı hangi seviyede gerçekleşir?",
+    "explanation": "Ekolojide enerji akışında üreticiye (bitki) ulaşan enerjinin yaklaşık %90'ı soğurma, terleme, yansıtma gibi kayipler nedeniyle 1. tüketiciye (hayvanlara) geçmez. Bu nedenle en büyük enerji kaybı üretici seviyesinde gerçekleşir.",
+    "options": [
+      "Üretici seviyesinde",
+      "1. tüketici seviyesinde",
+      "2. tüketici seviyesinde",
+      "3. tüketici ve üzeri seviyelerde"
+    ],
+    "correctAnswer": "Üretici seviyesinde",
+    "tags": [
+      "ekoloji-besin-zinciri",
+      "enerji-akışı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bi4xs5oe7",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir ekosistemde biyolojik çeşitlilik azaldığında ne olur?",
+    "explanation": "Ekolojide biyolojik çeşitlilik ekosistemin stabilitesini ve kendini düzenleme kapasitesini belirler. Çeşitlilik azaldığında ekosistem stres altında kalır ve dış etkilere karşı daha duyarlı hale gelir.",
+    "options": [
+      "Ekosistemin kendini düzenleme gücü artar",
+      "Ekosistemin kendini düzenleme gücü azalır",
+      "Enerji akışı hızlanır",
+      "Besin zinciri uzar"
+    ],
+    "correctAnswer": "Ekosistemin kendini düzenleme gücü azalır",
+    "tags": [
+      "ekoloji-çeşitlilik",
+      "ekosistem-sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j620dyjol",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir ekosistemde biyotik faktör değildir?",
+    "explanation": "Ekolojide biyotik faktörler canlı organizmalardır (bitkiler, hayvanlar, mantarlar). Su ve toprak sıcaklığı abiyotik (canlı olmayan) faktörlerdir.",
+    "options": [
+      "Bitkiler",
+      "Hayvanlar",
+      "Mantarlar",
+      "Su ve toprak sıcaklığı"
+    ],
+    "correctAnswer": "Su ve toprak sıcaklığı",
+    "tags": [
+      "ekoloji-faktörler",
+      "biyotik-abiyotik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4338rc329",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Bir ekosistemde trofik seviyeler arttıkça biyokütle nasıl değişir?",
+    "explanation": "Ekolojide trofik seviyeler yükseldikçe (Üretici → 1. Tüketici → 2. Tüketici → Üst Tüketici) her seviyedeki biyokütle azalır çünkü enerji %90 oranında kaybedilir ve daha az canlı desteklenir.",
+    "options": [
+      "Her seviyede artar",
+      "Her seviyede azalır",
+      "Sadece üretici seviyesinde azalır",
+      "Değişmez"
+    ],
+    "correctAnswer": "Her seviyede azalır",
+    "tags": [
+      "ekoloji-trofik-seviyeler",
+      "biyokütle-enerji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "svlylaid4",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Ekosistemin temel bileşenlerinden hangisi değildir?",
+    "explanation": "Ekosistemin temel bileşenleri üreticiler (bitkiler), tüketiciler (hayvanlar) ve çürütücülerdir. Uçucular ekosistemde bir bileşen değildir.",
+    "options": [
+      "Üreticiler",
+      "Tüketiciler",
+      "Çürütücüler",
+      "Uçucular"
+    ],
+    "correctAnswer": "Uçucular",
+    "tags": [
+      "ekoloji",
+      "ekosistem",
+      "temel-kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p8vun48i7",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir besin zincirinde enerji aktarımının verimliliği yaklaşık olarak ne kadardır?",
+    "explanation": "Ekolojide enerji aktarımının verimliliği yaklaşık %10'dur. Her beslenme seviyesinde %90 kayıp yaşanır.",
+    "options": [
+      "%10",
+      "%50",
+      "%25",
+      "%1"
+    ],
+    "correctAnswer": "%10",
+    "tags": [
+      "ekoloji",
+      "besin-zinciri",
+      "enerji-aktarımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ljrhne9h",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Biyoçeşitliliğin korunmasının önemi nedir?",
+    "explanation": "Biyoçeşitlilik ekosistem dengesinin korunması, türlerin sürdürülebilirliği ve çevre sağlığının iyileştirilmesi için önemlidir.",
+    "options": [
+      "Ekosistem dengesini sağlar",
+      "İklim değişikliğine yol açar",
+      "Enerji kaybına neden olur",
+      "Besin zincirini bozar"
+    ],
+    "correctAnswer": "Ekosistem dengesini sağlar",
+    "tags": [
+      "ekoloji",
+      "biyoçeşitlilik",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ksrwspjpe",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangi kavram 'doğal ortamda var olan canlıların birbirleriyle etkileşimlerini' ifade eder?",
+    "explanation": "Komünite, doğal ortamda var olan canlıların birbirleriyle etkileşimlerini ifade eder. Ekosistem ise canlı ve cansız çevre bileşenlerini kapsar.",
+    "options": [
+      "Popülasyon",
+      "Komünite",
+      "Ekosistem",
+      "Habitat"
+    ],
+    "correctAnswer": "Komünite",
+    "tags": [
+      "ekoloji",
+      "popülasyon-komünite",
+      "canlı-etkileşimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fy9ssnngj",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Küresel ısınma sonucu ekolojik olarak en çok hangi grup etkilenir?",
+    "explanation": "Küresel ısınma sonucu kutuplardaki buzullar eriyerek polar bölgelerdeki türlerin yaşam alanları tehdit altında kalır.",
+    "options": [
+      "Polar bölgelerdeki türler",
+      "Deniz tabanı canlıları",
+      "Dağlık alanlardaki bitkiler",
+      "Açık alan hayvanları"
+    ],
+    "correctAnswer": "Polar bölgelerdeki türler",
+    "tags": [
+      "ekoloji",
+      "küresel-ısınma",
+      "koruma-bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ysfym2b0o",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Ekolojide 'biyoçeşitlilik' neyi ifade eder?",
+    "explanation": "Biyoçeşitlilik, bir ekosistemde bulunan tüm canlı türlerinin (bitki ve hayvan) çeşidi ile miktarını ifade eder. Ekolojide temel bir kavramdır.",
+    "options": [
+      "Bir bölgedeki türlerin sayısı ve çeşidi",
+      "Sadece bitki türlerinin miktarı",
+      "Hayvanların yaşam alanları",
+      "İklim değişikliğinin etkisi"
+    ],
+    "correctAnswer": "Bir bölgedeki türlerin sayısı ve çeşidi",
+    "tags": [
+      "biyoçeşitlilik",
+      "ekolojik kavramlar",
+      "temel ekoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0rfaaw3yd",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir besin zincirinde en üstte yer alan organizma hangisidir?",
+    "explanation": "Besin zincirinde en üstte, diğer organizmaları tüketen ve genellikle yırtıcı hayvanlar bulunur. Üreticiler (bitkiler) zincirin başlangıç noktasıdır.",
+    "options": [
+      "Üretici (bitkiler)",
+      "Tüketici-1. dereceden",
+      "Tüketici-3. dereceden/hayvanlar",
+      "Ayrıştırıcı"
+    ],
+    "correctAnswer": "Tüketici-3. dereceden/hayvanlar",
+    "tags": [
+      "besin zinciri",
+      "trofik seviyeler",
+      "ekosistem dinamikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gr6nlh1xu",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "'Popülasyon' terimi hangi canlı grubunu tanımlar?",
+    "explanation": "Popülasyon, belirli bir alanda yaşayan aynı türün bireylerinden oluşan topluluğu ifade eder. Ekolojide temel yapısal birimdir.",
+    "options": [
+      "Bir bölgedeki aynı türün bireyleri",
+      "Farklı türlerin karışımı",
+      "Sadece bitki topluluğu",
+      "İklim koşulları"
+    ],
+    "correctAnswer": "Bir bölgedeki aynı türün bireyleri",
+    "tags": [
+      "popülasyon",
+      "ekolojik birimler",
+      "temel ekoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j5bu7gj41",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Ekosistemdeki 'ağırlıklı enerji akışı' hangi kavram ile ilişkilidir?",
+    "explanation": "Ekolojide '10% kuralı' veya Lindeman kuralı, bir trofik seviyeden diğerine aktarılan enerjinin yaklaşık %10'unun geçmesi anlamına gelir. Bu nedenle enerji azalır.",
+    "options": [
+      "10% kuralı (enerjinin azalması)",
+      "Enerjinin artması",
+      "Enerjinin korunması",
+      "Enerjinin dönüşümü"
+    ],
+    "correctAnswer": "10% kuralı (enerjinin azalması)",
+    "tags": [
+      "enerji akışı",
+      "trophik seviyeler",
+      "ekosistem verimliliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3mzbn0i1v",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "'Mutualism' (mutualizm) hangi ekolojik ilişkiyi tanımlar?",
+    "explanation": "Mutualizm, iki farklı türün birbirinden fayda sağlayarak yaşadığı simbiyotik ilişkidir. Örneğin, arı ve çiçekli bitkiler.",
+    "options": [
+      "İki türün birbirinden fayda sağladığı simbiyoz",
+      "Bir türün diğerine zarar verdiği",
+      "Sadece bir tarafın fayda aldığı",
+      "Hiçbir etkisi olmayan"
+    ],
+    "correctAnswer": "İki türün birbirinden fayda sağladığı simbiyoz",
+    "tags": [
+      "simbiyoz ilişkiler",
+      "mutualizm",
+      "ekolojik etkileşimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ihsxafkb",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Ekolojide bir organizmanın yaşayabildiği ortamı ve diğer canlılarla olan ilişkilerini inceleyen bilim dalı hangisidir?",
+    "explanation": "Ekoloji, canlıların yaşadıkları çevreleriyle olan ilişkilerini ve ekosistem dinamiklerini inceleyen temel biyolojik bilim dalıdır.",
+    "options": [
+      "Genetik",
+      "Ekoloji",
+      "Fizyoloji",
+      "Mikrobiyoloji"
+    ],
+    "correctAnswer": "Ekoloji",
+    "tags": [
+      "temel kavramlar",
+      "bilim dalları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "shwgtz0bm",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bir besin zincirinde doğru olarak ifade edilir?",
+    "explanation": "Besin zincirinde enerji bitkilerden (üreticiden) birincil tüketicilere, sonra ikinci dereceden tüketicilere doğru aktarılır.",
+    "options": [
+      "Bitkiler → Böcekler → Kuşlar → Yengeç",
+      "Böcekler → Bitkiler → Kuşlar → Yılan",
+      "Bitkiler → Böcekler → Yılan → Kuşlar",
+      "Yılan → Kuşlar → Bitkiler → Böcekler"
+    ],
+    "correctAnswer": "Bitkiler → Böcekler → Kuşlar → Yengeç",
+    "tags": [
+      "besin zinciri",
+      "ekosistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xtjoqu7ym",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "İklim değişimi ve ekosistem dengesizliği nedeniyle küresel olarak en çok tehdit altındaki canlı türü hangisidir?",
+    "explanation": "Küresel iklim değişikliği nedeniyle çok sayıda canlı türü tehdit altında olup nesli tehlikede olanlar artmaktadır.",
+    "options": [
+      "Daha fazla",
+      "Daha az",
+      "Orta seviye",
+      "Değişken"
+    ],
+    "correctAnswer": "Daha fazla",
+    "tags": [
+      "koruma biyolojisi",
+      "çeşitlilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7dkp0caoi",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Ekosistemde bir üretici, birincil tüketici ve ikincil tüketici sırasını doğru şekilde gösteren örnek hangisidir?",
+    "explanation": "Üretici (yosun), birincil tüketici (mayalar) ve ikincil tüketici (yengeç) sıralaması besin zinciri akışını doğru yansıtmaktadır.",
+    "options": [
+      "Yosun → Mayalar → Yengeç",
+      "Böcek → Bitkiler → Kuşlar",
+      "Kuşlar → Yosunlar → Böcekler",
+      "Mayalar → Kuşlar → Yosunlar"
+    ],
+    "correctAnswer": "Yosun → Mayalar → Yengeç",
+    "tags": [
+      "besin piramidi",
+      "tüketiciler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "spr6vjqpq",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Ekolojik ayak izi kavramı, aşağıdakilerden hangisini ölçmekle ilgilidir?",
+    "explanation": "Ekolojik ayak izi, bir toplumun kaynaklarını ne kadar tükettiğini ve çevreye bindirdiği yükü ölçmek için kullanılır.",
+    "options": [
+      "Atıkların miktarı",
+      "Kaynak tüketimi ve çevre yükü",
+      "Canlı sayısı",
+      "Su kalitesi"
+    ],
+    "correctAnswer": "Kaynak tüketimi ve çevre yükü",
+    "tags": [
+      "sürdürülebilirlik",
+      "çevre bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b60b2dz4s",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Bir ekosistemde üretici, tüketiciler ve ayrıştırıcılar arasındaki temel enerji akışı nasıl gerçekleşir?",
+    "explanation": "Doğal ekosistemlerde enerji akışı üreticiler (bitkiler) tarafından başlatılır, bitkiler fotosentezle güneş enerjisini kimyasal enerjiye çevirir, tüketiciler (hayvanlar) bu enerjiyi alır ve ayrıştırıcılar ölü materyalleri parçayarak döngü tamamla",
+    "options": [
+      "Ayrıştırıcı → Üretici → Tüketici",
+      "Üretici → Tüketici → Ayrıştırıcı",
+      "Tüketici → Ayrıştırıcı → Üretici",
+      "Üretici ve Tüketici birbirine bağımlıdır, ayrıştırıcı yok"
+    ],
+    "correctAnswer": "Üretici → Tüketici → Ayrıştırıcı",
+    "tags": [
+      "Ekosistem",
+      "Enerji Akışı",
+      "Beslenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "thyoc3qhm",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Besin zincirinde birincil tüketiciler genellikle hangi gruptan seçilir?",
+    "explanation": "Birincil tüketiciler, bitkilerle beslenen hayvanlardır (herbivorlar). İkincil tüketiciler ise birincil tüketicileri yerler. Mantarlar ve bakteriler ayrıştırıcı görevi görür.",
+    "options": [
+      "Bitkiler",
+      "Hayvanlar",
+      "Mantarlar",
+      "Bakteriler"
+    ],
+    "correctAnswer": "Hayvanlar",
+    "tags": [
+      "Besin Zinciri",
+      "Tüketici",
+      "Ekoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y66h2n5xu",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Ekosistemlerde enerji akışının yaklaşık yüzde kaçı bir besin seviyesinden diğerine geçer?",
+    "explanation": "Lindeman'ın %10 kuralına göre, her besin seviyesinden diğerine yaklaşık %10 enerji geçer. Kalan %90 ısı olarak kaybedilir veya metabolik süreçlerde kullanılır.",
+    "options": [
+      "%10",
+      "%50",
+      "%20",
+      "%90"
+    ],
+    "correctAnswer": "%10",
+    "tags": [
+      "Enerji Akışı",
+      "Ekosistem Dinamiği",
+      "Termal Kayıp"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "quu3rwph1",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Biyolojik çeşitlilik azaldığında ekosistemlerin direnci nasıl etkilenir?",
+    "explanation": "Biyolojik çeşitlilik yüksekse ekosistem stres ve değişimlere karşı daha dayanıklıdır. Çeşitlilik azaldığında bu direnç belirgin şekilde düşer.",
+    "options": [
+      "Artar",
+      "Azalır",
+      "Değişmez",
+      "Önce artar sonra azalır"
+    ],
+    "correctAnswer": "Azalır",
+    "tags": [
+      "Biyolojik Çeşitlilik",
+      "Ekosistem Sağlığı",
+      "Koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pa8h47dtn",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Bir bölgede ormanlık alanın çabuk tarla haline dönüşmesi hangi ekolojik sürecin örneğidir?",
+    "explanation": "Biyolojik ikincil süksesyon, var olan toprakta bir bölgenin yeniden bitkileşmesi sürecidir. Ormanın tarla haline dönüşmesi ekolojik yapıyı değiştirir ve yeni bir ekosistem başlangıcı oluşturur.",
+    "options": [
+      "Biyolojik Birincil",
+      "Biyolojik İkincil",
+      "Klimatik Değişim",
+      "Jeolojik Süreç"
+    ],
+    "correctAnswer": "Biyolojik İkincil",
+    "tags": [
+      "Ekolojik Süksesyon",
+      "Orman Dinamiği",
+      "Çevre Değişimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "irrqojb9c",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Ekolojik bir sistemin temel bileşenleri aşağıdakilerden hangisidir?",
+    "explanation": "Ekolojik sistemler hem biyotik (canlı) hem de abiyotik (cansız) çevre faktörlerini içerir.",
+    "options": [
+      "Sadece canlı organizmalar",
+      "Canlı ve cansız çevre faktörleri",
+      "Yalnızca bitkiler",
+      "Sadece hayvanlar"
+    ],
+    "correctAnswer": "Canlı ve cansız çevre faktörleri",
+    "tags": [
+      "ekoloji",
+      "temel kavramlar",
+      "sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jtu2w90mq",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir ekosistemdeki enerji akışı hangi yolla gerçekleşir?",
+    "explanation": "Ekosistemlerde enerji üreticilerden tüketiciye doğru besin zincirleri ve besin piramitleri ile aktarılır.",
+    "options": [
+      "Çevreden organizmalara doğru",
+      "Organizmadan organizeye doğru besin zinciri ile",
+      "Enerji bir kez kullanılır ve kaybolur",
+      "Sadece üreticiler arasında"
+    ],
+    "correctAnswer": "Organizmadan organizeye doğru besin zinciri ile",
+    "tags": [
+      "enerji akışı",
+      "besin zinciri",
+      "ekosistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lhn1yqv4v",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Biyoçeşitliliğin en yüksek olduğu ekosistem hangisidir?",
+    "explanation": "Tropikal yağmur ormanları, dünya üzerindeki en yüksek biyoçeşitliliğe sahip ekosistemdir.",
+    "options": [
+      "Tundra",
+      "Çöl",
+      "Korunmuş yağmur ormanı",
+      "Kıyı okyanusu"
+    ],
+    "correctAnswer": "Korunmuş yağmur ormanı",
+    "tags": [
+      "biyoçeşitlilik",
+      "ekosistemler",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "70kutwke9",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir organizmanın yaşadığı belirli çevresel koşulların aralığı ne adlandırılır?",
+    "explanation": "Bir organizmanın çevresel faktörlere (ısı, nem vb.) olan uyma aralığı niş olarak adlandırılır.",
+    "options": [
+      "Ekosistem",
+      "Habitat",
+      "Niş (niche)",
+      "Popülasyon"
+    ],
+    "correctAnswer": "Niş (niche)",
+    "tags": [
+      "organizma",
+      "çevre koşulları",
+      "ekoloji terimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2iei376z7",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Ekolojik dengeyi bozan insan faaliyetlerinden hangisi değildir?",
+    "explanation": "Atık yönetimi, çevre dostu uygulamalar ve ekosistemin korunmasına yardımcı olan bir faaliyettir.",
+    "options": [
+      "Aşırı ormansızlaşma",
+      "Atık yönetimi",
+      "Biyolojik çeşitliliğin azaltılması",
+      "Karbon emisyonlarının artması"
+    ],
+    "correctAnswer": "Atık yönetimi",
+    "tags": [
+      "ekolojik denge",
+      "insan faaliyetleri",
+      "sürdürülebilirlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3rkzpjh4e",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EASY",
+    "question": "Ekolojik piramiddeki en alt seviye hangi organizmayı temsil eder?",
+    "explanation": "Ekolojik piramidde en alt seviye fotosentezle besin üretimi yapan üst üretenleri (bitkileri) temsil eder. Bu organizmalar diğer tüm trofik seviyeleri besler.",
+    "options": [
+      "A-Üst üretenler",
+      "B-Tüketiciler",
+      "C-Araklaştırıcılar",
+      "D-Kesiciler"
+    ],
+    "correctAnswer": "A-Üst üretenler",
+    "tags": [
+      "ekolojik-piramit",
+      "trofik-seviye",
+      "organizasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ivaeo7je",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir ekosistemdeki enerji akışının yaklaşık yüzde kaçı bir sonraki trofik seviyeye geçer?",
+    "explanation": "Ekolojide Lindeman kuralına göre, her trofik seviyeden bir sonraki seviyeye yaklaşık %10 oranında enerji geçer. Kalan %90 ısı olarak kaybolur veya organizma tarafından kullanılmaz.",
+    "options": [
+      "A-%10",
+      "B-%50",
+      "C-%90",
+      "D-%25"
+    ],
+    "correctAnswer": "A-%10",
+    "tags": [
+      "enerji-akışı",
+      "Lindeman-kuralı",
+      "trofik-verimlilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "08ovjt4ge",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Biyoçeşitliliğin en yüksek olduğu ekosistem hangisidir?",
+    "explanation": "Yağmur ormanları ve biyolojik hotspot bölgeler dünyada en yüksek biyoçeşitliliğe sahiptir. Yüksek sıcaklık, nem ve uzun büyüme mevsimleri bu bölgede zengin tür çeşitliliğini destekler.",
+    "options": [
+      "A-Tundra",
+      "B-Çöl",
+      "C-Hotspot bölge ve yağmur ormanı",
+      "D-Kutup"
+    ],
+    "correctAnswer": "C-Hotspot bölge ve yağmur ormanı",
+    "tags": [
+      "biyoçeşitlilik",
+      "ekosistem-tipleri",
+      "tropikal-iklim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8uytv8lz6",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "GENERAL",
+    "question": "Nötralleştirici organizmaların (örneğin mantarlar) ekolojik rolü nedir?",
+    "explanation": "Mantarlar ve bakteriler gibi nötralleştirici organizmalar (araplaştırıcılar) ölü organik maddeleri parçalar ve besin döngüsüne geri kazandırır. Bu ekolojik rol araplaştırıcılık olarak adlandırılır.",
+    "options": [
+      "A-Üreticilik",
+      "B-Tüketim",
+      "C-Araklaştırıcılık",
+      "D-Kesicilik"
+    ],
+    "correctAnswer": "C-Araklaştırıcılık",
+    "tags": [
+      "trofik-seviye",
+      "parazitoloji",
+      "araplaşık-organizmalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ayh2wkfho",
+    "category": "BİLİM",
+    "subcategory": "Ekoloji",
+    "difficulty": "EXPERT",
+    "question": "Küresel iklim değişikliğinin biyoçeşitlilik üzerindeki en önemli etkisi nedir?",
+    "explanation": "Küresel iklim değişikliği habitatların daralmasına, türlerin dağılımının değişmesine ve yoğunluk dengesizliklerine yol açarak biyoçeşitlilik kaybına neden olur. Özellikle kademeli olarak uyum sağlayamayan türler yok olma riski taşır.",
+    "options": [
+      "A-Tür sayısı artışı",
+      "B-Yoğunluk dengesizliği ve tür kaybı",
+      "C-Genetik çeşitlilik artışı",
+      "D-Habitat genişlemesi"
+    ],
+    "correctAnswer": "B-Yoğunluk dengesizliği ve tür kaybı",
+    "tags": [
+      "iklim-değişikliği",
+      "biyoçeşitlilik-kaybı",
+      "habitat-daralması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

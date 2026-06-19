@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "sjhuc7hgt",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "İnsan vücudunda kemik yapısı ve kas sistemini içeren anatomik bölge hangisidir?",
+    "explanation": "İnsan vücudunda kemik yapısı ve kas sistemi, Skelet Sistemi olarak adlandırılır. Bu sistem vücuda şekil verir ve hareketi sağlar.",
+    "options": [
+      "Skelet Sistemi",
+      "Sinir Sistemi",
+      "Kalp-Damar Sistemi",
+      "Beyin Gövdesi"
+    ],
+    "correctAnswer": "Skelet Sistemi",
+    "tags": [
+      "Anatomi",
+      "Kemik",
+      "Kas"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tgsj1qxbf",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Kalp kapakları arasında doğru olan anatomik açıklama hangisidir?",
+    "explanation": "Kalp kapakları atriyum ile ventrükül arasındaki geçişleri kontrol eder. Mitral ve trikuspid kapak atriyum-ventrükül arasında, aort ve pulmoner kapak ventrükül-arterler arasında bulunur.",
+    "options": [
+      "Atriyum ile Ventrükül arasında",
+      "Ventrükül ile Aorta arasında",
+      "Safra kesesi ile Mide arasında",
+      "Akciğer ile Karaciğer arasında"
+    ],
+    "correctAnswer": "Atriyum ile Ventrükül arasında",
+    "tags": [
+      "Kalp",
+      "Kapaklar",
+      "Dolaşım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m5tl3r2kf",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Sinir sisteminde beyin ile omurilik arasındaki bağlantı anatomisi nedir?",
+    "explanation": "Sinir sisteminde beyin ile omurilik arasındaki bağlantı, Omurilik olarak adlandırılır. Omurilik beyinden çıkan sinir liflerinin vücuda dağılmasını sağlar.",
+    "options": [
+      "Omurilik",
+      "Nokta Nöronları",
+      "Kas Lifleri",
+      "Kemik Tüberleri"
+    ],
+    "correctAnswer": "Omurilik",
+    "tags": [
+      "Sinir Sistemi",
+      "Beyin",
+      "Omurilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l52gg1hp3",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "İnsan vücudunda akciğerlerin anatomik konumu ve fonksiyonu nasıldır?",
+    "explanation": "Akciğerler göğüs boşluğunda bulunur ve solunum fonksiyonunu gerçekleştirir. Soluk alıp vermede oksijen almaya ve karbondioksit atamaya görevlidir.",
+    "options": [
+      "Göğüs boşluğunda, solunum için",
+      "Karın boşluğunda, sindirim için",
+      "Pelvis'te, üreme için",
+      "Beyin içinde, düşünme için"
+    ],
+    "correctAnswer": "Göğüs boşluğunda, solunum için",
+    "tags": [
+      "Akciğer",
+      "Solunum Sistemi",
+      "Anatomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "47pwe1dyl",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Karaciğerin anatomik yapısı ve vücudundaki rolü hangisidir?",
+    "explanation": "Karaciğer karın boşluğunun sağ üst kısmında bulunur. Vücuttaki metabolizma, detoksifiye, kan filtreleme ve protein sentezi fonksiyonlarını yapar.",
+    "options": [
+      "Göğüs boşluğunda, kan filtreleme",
+      "Karın sağ üstte, metabolizma ve detoksifiye",
+      "Solunum sistemi organı",
+      "Sinir sistemi merkezi"
+    ],
+    "correctAnswer": "Karın sağ üstte, metabolizma ve detoksifiye",
+    "tags": [
+      "Karaciğer",
+      "Sindirim Sistemi",
+      "Metabolizma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ujk1tct9y",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "İnsan vücutunda kalp hangi bölgede yer alır?",
+    "explanation": "Kalp, insan vücudunda sol göğüs kafesinin ortasında ve biraz sola kaymış şekilde yer alır. Bu konum, kalbin sağ ventrikülünden çıkardığı kanın akciğerlere gitmesi için uygun bir yapısal düzenlemeyi sağlar.",
+    "options": [
+      "Sol göğüs kafesi",
+      "Sağ göğüs kafesi",
+      "Karın bölgesi",
+      "Sırt bölgesi"
+    ],
+    "correctAnswer": "Sol göğüs kafesi",
+    "tags": [
+      "Kalp",
+      "Toraks",
+      "Anatomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9778fvue6",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Sinir sistemi vücuttaki temel görevlerinden biri nedir?",
+    "explanation": "Sinir sistemi, vücutta dış uyaranların algılanması (sensör) ve bu bilgilere göre kasların kontrollü hareket etmesini sağlayan koordinasyon görevini üstlenir. Bu temel fonksiyonlar, sinir hücreleri tarafından gerçekleştirilir.",
+    "options": [
+      "Hormon üretimi",
+      "Geliştirme ve kas kontrolü",
+      "Sensör bilgilendirme ve hareket koordinasyonu",
+      "Kan filtreleme"
+    ],
+    "correctAnswer": "Sensör bilgilendirme ve hareket koordinasyonu",
+    "tags": [
+      "Sinir Sistemi",
+      "Nöroanatomi",
+      "Geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j643yzr87",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "İnsan iskelet sisteminde omurların sayısı kaçtır?",
+    "explanation": "İnsan iskelet sisteminde omurlar toplam 33 parçadan oluşur. Bunlar: 7 servikal (boyun), 12 toraksal (göğüs) ve 5 lumbal (bel) omurdan, plus 9 kuyruk omuru (sacrum) ve 4-5 koktiks (kuyruk).",
+    "options": [
+      "26",
+      "30",
+      "33",
+      "42"
+    ],
+    "correctAnswer": "33",
+    "tags": [
+      "İskelet Sistemi",
+      "Omurilik",
+      "Anatomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9v1fa728r",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Akciğerler insan vücudunda hangi fonksiyonu yerine getirir?",
+    "explanation": "Akciğerlerin temel fonksiyonu, solunum sırasında kan ile hava arasındaki gaz alışverişini gerçekleştirmektir. Bu işlemde oksijen alınıp karbondioksit atılır. Akciğerler göğüs kafesi içinde yer alır.",
+    "options": [
+      "Kan taşımak",
+      "Geliştirme yapmak",
+      "Oksijen ve karbondioksit alışverişi",
+      "Safra üretmek"
+    ],
+    "correctAnswer": "Oksijen ve karbondioksit alışverişi",
+    "tags": [
+      "Akciğerler",
+      "Solunum Sistemi",
+      "Anatomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "is2saty0s",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EXPERT",
+    "question": "Beyin vücuttaki en büyük organlardan biri olarak hangi görevi üstlenir?",
+    "explanation": "Beyin, insan vücudunun en karmaşık organlarından biridir. Sensör alımları, bilgi işleme, karar verme ve hareket kontrolü gibi temel fonksiyonları üstlenir. Beyin kafa içinde ve omurgaya bağlı olarak yer alır.",
+    "options": [
+      "Hormon salgılamak",
+      "Sensör işleme ve düşünce kontrolü",
+      "Kan filtreleme",
+      "Kemik üretimi"
+    ],
+    "correctAnswer": "Sensör işleme ve düşünce kontrolü",
+    "tags": [
+      "Beyin",
+      "Sinir Sistemi",
+      "Anatomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "famyfde5s",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "İnsan vücudundaki en uzun kemik hangisidir?",
+    "explanation": "Femur (kalça kemiği), insan vücudundaki en uzun ve en güçlü kemiktir. Uyluk kemiği olarak da bilinir.",
+    "options": [
+      "Femur",
+      "Humerus",
+      "Tibia",
+      "Fibula"
+    ],
+    "correctAnswer": "Femur",
+    "tags": [
+      "kemik",
+      "anatomisi",
+      "iskelet sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cjr0tc5gb",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Kalp hangi torbada bulunur?",
+    "explanation": "Kalp, perikard adlı fibroseröz torbada bulunur. Perikard, kalbe koruma ve sürtünmeyi azaltma sağlar.",
+    "options": [
+      "Pleura",
+      "Perikard",
+      "Kutan",
+      "Duras"
+    ],
+    "correctAnswer": "Perikard",
+    "tags": [
+      "kalp",
+      "anatomisi",
+      "göğüs boşluğu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ryqh5w8zz",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "İnsan vücudunda en büyük organ hangisidir?",
+    "explanation": "Deri, insan vücudunda en büyük organdır. Yüzey alanı yaklaşık 1.5-2 m² arasında değişir.",
+    "options": [
+      "Karaciğer",
+      "Akciğer",
+      "Deri",
+      "Kalın Bağırsak"
+    ],
+    "correctAnswer": "Deri",
+    "tags": [
+      "organ",
+      "anatomisi",
+      "deri sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ql20zeubt",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Sinir sisteminde bilgi iletimini sağlayan yapı hangisidir?",
+    "explanation": "Nöronlar, sinir sisteminde bilgi iletimini sağlayan temel yapıdır. Beyin ve omurilikten oluşur.",
+    "options": [
+      "Nöron",
+      "Miyelin",
+      "Dendrit",
+      "Glial Hücre"
+    ],
+    "correctAnswer": "Nöron",
+    "tags": [
+      "sinir sistemi",
+      "anatomisi",
+      "nöroloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lk7e6f81z",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EXPERT",
+    "question": "İnsan vücudunda en az kan damarı içeren organ hangisidir?",
+    "explanation": "Deri, en az kan damarı içeren organlardan biridir. Ancak epidermis katmanı kan damarından yoksundur.",
+    "options": [
+      "Akciğer",
+      "Karaciğer",
+      "Kalp",
+      "Deri"
+    ],
+    "correctAnswer": "Deri",
+    "tags": [
+      "kan damarı",
+      "anatomisi",
+      "dolaşım sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xlmg5du7u",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "İnsan vücudunda omurgayı oluşturan kemiklere ne ad verilir?",
+    "explanation": "Omurgayı oluşturan kemikler vertebrae olarak adlandırılır. Sternum göğüs kemiği, scapula omuz taşıdır.",
+    "options": [
+      "Sternum",
+      "Vertebrae",
+      "Scapula",
+      "Pelvis"
+    ],
+    "correctAnswer": "Vertebrae",
+    "tags": [
+      "Anatomisi",
+      "Kas-İskelet Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "deawr7wsr",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Kalp boşluğundan kanın aortaya aktığı kapakçık hangisidir?",
+    "explanation": "Kalp sağ ventrikülünden kanın aortaya aktığı kapakçık aortik kapaktır. Mitral kapak sol atriumdan ventriküle, diğerleri de farklı sistemlere yönlendirir.",
+    "options": [
+      "Mitral Kapak",
+      "Aortik Kapak",
+      "Tricuspid Kapak",
+      "Pulmoner Kapak"
+    ],
+    "correctAnswer": "Aortik Kapak",
+    "tags": [
+      "Anatomisi",
+      "Kardiyovasküler Sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7e5qr91bh",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Sinir sisteminde beyin ile omurilik arasındaki yapı hangisidir?",
+    "explanation": "Beyin ile omurilik arasında medulla spinalis (omurilik) bulunur. Serebellum beyin içindeki küçük beyindir.",
+    "options": [
+      "Serebellum",
+      "Medulla Spinalis",
+      "Cerebrum",
+      "Thalamus"
+    ],
+    "correctAnswer": "Medulla Spinalis",
+    "tags": [
+      "Anatomisi",
+      "Sinir Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8bxqhmry7",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Gözlük lensi veya göz yapısında ışığı odaklayan yapı hangisidir?",
+    "explanation": "Kornea gözün ön yüzeyinde bulunan şeffaf yapıdır ve ışığı odaklar. Retina ise görüntüyü alır.",
+    "options": [
+      "Kornea",
+      "Sklera",
+      "Retina",
+      "Iris"
+    ],
+    "correctAnswer": "Kornea",
+    "tags": [
+      "Anatomisi",
+      "Görme Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lht8tl3do",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EXPERT",
+    "question": "İnsan vücudunda diyafram kası hangi sisteme ait değildir?",
+    "explanation": "Diyafram solunum kasıdır ve aynı zamanda kas-iskelet sistemiyle ilişkilidir. Dolaşım sisteminin bir parçası değildir.",
+    "options": [
+      "Solunum Sistemi",
+      "Kas-İskelet Sistemi",
+      "Dolaşım Sistemi",
+      "Hareket Sistemi"
+    ],
+    "correctAnswer": "Dolaşım Sistemi",
+    "tags": [
+      "Anatomisi",
+      "Fizyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ui4gjhxq",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "How many bones are typically present in an adult human skeleton?",
+    "explanation": "The adult human skeleton consists of 206 bones; variations occur in some individuals due to fused or separate vertebrae.",
+    "options": [
+      "206",
+      "208",
+      "210",
+      "198"
+    ],
+    "correctAnswer": "206",
+    "tags": [
+      "Human Anatomy",
+      "Skeletal System"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u12sj1kio",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Which part of the brain is responsible for higher cognitive functions like reasoning and memory?",
+    "explanation": "The cerebrum, the largest part of the brain, controls reasoning, memory, and voluntary movements.",
+    "options": [
+      "Cerebellum",
+      "Brainstem",
+      "Cerebrum",
+      "Thalamus"
+    ],
+    "correctAnswer": "Cerebrum",
+    "tags": [
+      "Human Anatomy",
+      "Nervous System"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pikq76krb",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "What is the primary function of the left ventricle in the heart?",
+    "explanation": "The left ventricle pumps oxygenated blood through the aorta into systemic circulation.",
+    "options": [
+      "Receiving deoxygenated blood",
+      "Pumping oxygen-rich blood to the body",
+      "Filtering waste from blood",
+      "Transporting blood to lungs"
+    ],
+    "correctAnswer": "Pumping oxygen-rich blood to the body",
+    "tags": [
+      "Human Anatomy",
+      "Circulatory System"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "29zfbr68k",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Where in the lungs does gas exchange primarily occur?",
+    "explanation": "Alveoli are tiny air sacs where oxygen enters the blood and carbon dioxide is removed.",
+    "options": [
+      "Bronchi",
+      "Trachea",
+      "Alveoli",
+      "Diaphragm"
+    ],
+    "correctAnswer": "Alveoli",
+    "tags": [
+      "Human Anatomy",
+      "Respiratory System"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "famptwama",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EXPERT",
+    "question": "Which digestive organ secretes hydrochloric acid to break down proteins?",
+    "explanation": "The stomach uses hydrochloric acid and pepsin to digest proteins into peptides.",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Stomach",
+      "Small Intestine"
+    ],
+    "correctAnswer": "Stomach",
+    "tags": [
+      "Human Anatomy",
+      "Digestive System"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "le6us1dgr",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "İnsan vücudunda en büyük organ hangisidir?",
+    "explanation": "Karaciğer, insan vücudunda en büyük solid organ olup yaklaşık 1.5 kg ağırlığındadır ve metabolizma, toksin temizleme gibi önemli fonksiyonları üstlenir.",
+    "options": [
+      "Kalp",
+      "Akciğer",
+      "Karaciğer",
+      "Böbrek"
+    ],
+    "correctAnswer": "Karaciğer",
+    "tags": [
+      "Organlar",
+      "Boyutlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xp967pwba",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Sinir sistemi hangi iki ana bölümden oluşur?",
+    "explanation": "Sinir sistemi Merkezi Sinir Sistemi (beyin ve omurilik) ile Periferik Sinir Sistemi (sinirler) olmak üzere iki ana bölüme ayrılır.",
+    "options": [
+      "Merkezi Sinir Sistemi ve Periferik Sinir Sistemi",
+      "Görsel ve İşitsel Sistem",
+      "İskelet ve Kas Sistemi",
+      "Dolaşım ve Solunum Sistemi"
+    ],
+    "correctAnswer": "Merkezi Sinir Sistemi ve Periferik Sinir Sistemi",
+    "tags": [
+      "Sinir Sistemi",
+      "Anatomi Bölgeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kcavenrc0",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "İskelet sisteminde kemikleri birbirine bağlayan yapı hangisidir?",
+    "explanation": "Ligamentler (bağlar), kemikleri eklemde birbirine bağlayan sert dokulardır ve eklemin kararlılığını sağlar. Tendonlar ise kasları kemiklere bağlar.",
+    "options": [
+      "Fasialar",
+      "Tendonlar",
+      "Eklem Yüzeyleri",
+      "Ligamentler"
+    ],
+    "correctAnswer": "Ligamentler",
+    "tags": [
+      "İskelet Sistemi",
+      "Bağ Yapıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xkhmeaut0",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Kalbin sağ tarafı ne işlev görür?",
+    "explanation": "Kalbin sağ tarafı oksijensiz (kararlı) kanı alıp akciğerlere pompalar. Sol kalp ise oksijenli kanı vücuda gönderir.",
+    "options": [
+      "Oksijenli kanı vücuda pompalar",
+      "Oksijensiz kanı akciğere gönderir",
+      "Kan filtreleme yapar",
+      "Kan pıhtılaşmasını sağlar"
+    ],
+    "correctAnswer": "Oksijensiz kanı akciğere gönderir",
+    "tags": [
+      "Kalp",
+      "Dolaşım Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c1wao9ayo",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EXPERT",
+    "question": "Hangi anatomik yapı beyin ve omuriliği birbirine bağlar?",
+    "explanation": "Spinal kord (omurilik), beyinden omurga boyunca uzanır ve merkezi sinir sisteminin önemli bir parçasıdır. Beyin ile omurilik arasındaki yapısal bağlantıyı oluşturur.",
+    "options": [
+      "Spinal Kord",
+      "Vertebrae",
+      "Meningeks",
+      "Nöroglia"
+    ],
+    "correctAnswer": "Spinal Kord",
+    "tags": [
+      "Merkezi Sinir Sistemi",
+      "Beyin ve Omurilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ungmw2v5l",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Hangi organ vücutta oksijenli solunum için temel rol oynar?",
+    "explanation": "Akciğerler, oksijenli solunum için temel organ olup vücudun oksijen alımını ve karbondioksit atılımını sağlar.",
+    "options": [
+      "Akciğer",
+      "Karaciğer",
+      "Kalp",
+      "Böbrek"
+    ],
+    "correctAnswer": "Akciğer",
+    "tags": [
+      "solunum sistemi",
+      "organ fonksiyonları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b90m5f7t7",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Sinir sistemi hangi iki ana bölümden oluşur?",
+    "explanation": "Sinir sistemi merkezi sinir sistemi (beyin ve omurilik) ile çevresel sinir sistemi (sinirler) olmak üzere ikiye ayrılır.",
+    "options": [
+      "Merkezi sinir sistemi ve çevresel sinir sistemi",
+      "Görsel ve işitsel sistemler",
+      "Kalp ve damarlar",
+      "Kemik ve kas"
+    ],
+    "correctAnswer": "Merkezi sinir sistemi ve çevresel sinir sistemi",
+    "tags": [
+      "sinir sistemi",
+      "anatomik bölümler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "73v15asr1",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Kalp hangi kısımda bulunur?",
+    "explanation": "Kalp göğüs kafesinin sol tarafında, akciğerlerin arasında bulunur.",
+    "options": [
+      "Göğüs kafesi",
+      "Karın boşluğu",
+      "Bacaklar",
+      "Kol"
+    ],
+    "correctAnswer": "Göğüs kafesi",
+    "tags": [
+      "kalp",
+      "organ konumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1rqan4tk4",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Kemik yapısında hangi mineral en yüksek oranda bulunur?",
+    "explanation": "Kemik yapısında kalsiyum en yüksek oranla bulunan mineral olup kemik sertliğini ve gücünü sağlar.",
+    "options": [
+      "Kalsiyum",
+      "Sodyum",
+      "Magnezyum",
+      "Potasyum"
+    ],
+    "correctAnswer": "Kalsiyum",
+    "tags": [
+      "kemik sistemi",
+      "mineral beslenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wo8sbeim4",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Hangi organ vücutta kan filtreleme fonksiyonunu üstlenir?",
+    "explanation": "Böbrekler, vücuttaki kanı filtreleyerek toksinleri atar ve idrar üretimi sağlar.",
+    "options": [
+      "Böbrek",
+      "Akciğer",
+      "Mide",
+      "Pankreas"
+    ],
+    "correctAnswer": "Böbrek",
+    "tags": [
+      "böbrek sistemi",
+      "kan filtrasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jvueqwz5i",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Which part of the long bone contains red bone marrow?",
+    "explanation": "The epiphysis is the rounded end of a long bone and contains red bone marrow, which produces blood cells.",
+    "options": [
+      "Diaphysis",
+      "Epiphysis",
+      "Periosteum",
+      "Metaphysis"
+    ],
+    "correctAnswer": "Epiphysis",
+    "tags": [
+      "skeletal system",
+      "bone structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p7kl62klf",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "What type of muscle lines the walls of the heart?",
+    "explanation": "The heart is composed of cardiac muscle, which has unique properties like involuntary contraction and intercalated discs.",
+    "options": [
+      "Skeletal",
+      "Cardiac",
+      "Smooth",
+      "Striated"
+    ],
+    "correctAnswer": "Cardiac",
+    "tags": [
+      "muscular system",
+      "heart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m40holebg",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Which brain region controls balance and coordination?",
+    "explanation": "The cerebellum is responsible for motor control, balance, and fine-tuning movements.",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Hippocampus"
+    ],
+    "correctAnswer": "Cerebellum",
+    "tags": [
+      "nervous system",
+      "brain"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gud07eg57",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Which chamber of the heart receives oxygenated blood from the lungs?",
+    "explanation": "The left atrium receives oxygen-rich blood from pulmonary veins and passes it to the left ventricle.",
+    "options": [
+      "Right Atrium",
+      "Left Atrium",
+      "Right Ventricle",
+      "Left Ventricle"
+    ],
+    "correctAnswer": "Left Atrium",
+    "tags": [
+      "cardiovascular system",
+      "heart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4en9w1ihl",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Which organ is primarily responsible for gas exchange in the respiratory system?",
+    "explanation": "The lungs contain alveoli where oxygen and carbon dioxide are exchanged during respiration.",
+    "options": [
+      "Trachea",
+      "Bronchi",
+      "Lungs",
+      "Diaphragm"
+    ],
+    "correctAnswer": "Lungs",
+    "tags": [
+      "respiratory system",
+      "organs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kaw8n7bf0",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "İnsan vücudunda kemik oluşumunu ve kalsiyum deposunu sağlayan organ hangisidir?",
+    "explanation": "Kemikler vücudun kalsiyum deposunu yapar ve kemik oluşumunda temel rol oynar. Karaciğer protein sentezi, bağırsak emilim, deri koruma görevleri üstlenir.",
+    "options": [
+      "Karaciğer",
+      "Bağırsak",
+      "Kemik",
+      "Deri"
+    ],
+    "correctAnswer": "Kemik",
+    "tags": [
+      "anatomî",
+      "kemik sistemi",
+      "kalsiyum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vf7h1iblf",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "İnsan kalbinde kanın oksijenli hâle geldiği bölge hangisidir?",
+    "explanation": "Sol atrium, akciğerlerden gelen oksijenlenmiş kanı kalbin sol ventriküle taşır. Sağ atriyum deoksijenli kan taşır.",
+    "options": [
+      "Sol Atrium",
+      "Sağ Ventricle",
+      "Aorta",
+      "Pulmoner Ven"
+    ],
+    "correctAnswer": "Sol Atrium",
+    "tags": [
+      "anatomî",
+      "kalp sistemi",
+      "dolaşım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f7dfc65al",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "İnsan omurlarının en hareketli bölgesi hangisidir?",
+    "explanation": "Servikal bölge (boyun omurları) en çok hareket eder ve çevre organlarına destek sağlar. Torakal ve sakral bölgeler daha az hareketlidir.",
+    "options": [
+      "Servikal",
+      "Torakal",
+      "Lomber",
+      "Sacral"
+    ],
+    "correctAnswer": "Servikal",
+    "tags": [
+      "anatomî",
+      "omur sistemi",
+      "hareketlilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "57rq6pu3k",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "İnsan akciğerlerinde alveollerin görevi nedir?",
+    "explanation": "Alveoller, gaz alışverişinin gerçekleştiği yapıdır. Oksijeni kana geçirir ve karbon dioksiti dışarı atar.",
+    "options": [
+      "Kan filtresi",
+      "Oksijen-carbon dioksit alışverişi",
+      "Hava depolama",
+      "Solunum kası"
+    ],
+    "correctAnswer": "Oksijen-carbon dioksit alışverişi",
+    "tags": [
+      "anatomî",
+      "akciğer sistemi",
+      "solunum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ty5a2x0nr",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "İnsan vücudunda kemiklerin birbirini bağlayan eklemlerin hareketli hâli nedir?",
+    "explanation": "Sinovyal eklemler, kemiklerin hareketli bir şekilde bağlandığı ve sıvı ile beslenen yapıdır. Fibrous ve cartilaginous daha az hareketlidir.",
+    "options": [
+      "Fibrous",
+      "Cartilaginous",
+      "Synovial",
+      "Rigid"
+    ],
+    "correctAnswer": "Synovial",
+    "tags": [
+      "anatomî",
+      "eklem sistemi",
+      "hareket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y6123ygb4",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "İnsan iskelet sisteminde hangi kemik omurgayı destekler?",
+    "explanation": "Tibia (bacak kemiği), omurgayı ve alt ekstremiteyi destekleyen büyük kemiktir. Fibula daha ince bir yardımcı kemik, radius ve ulna ise ön kolun kemikleridir.",
+    "options": [
+      "Fibula",
+      "Tibia",
+      "Radius",
+      "Ulna"
+    ],
+    "correctAnswer": "Tibia",
+    "tags": [
+      "Anatomisi",
+      "İskelet Sistemi",
+      "Kemikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mzh1hssbj",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Kalp kasının en çok görev yaptığı bölmeler hangisidir?",
+    "explanation": "Kasılma gücü açısından ventriküller daha önemli olup, kalpteki kanı vücuda pompalar. Atriyumlar toplama görevi görür, perikard ve endokard ise koruma katmanlarıdır.",
+    "options": [
+      "Atriyum",
+      "Ventrükül",
+      "Perikard",
+      "Endokard"
+    ],
+    "correctAnswer": "Ventrükül",
+    "tags": [
+      "Anatomisi",
+      "Dolaşım Sistemi",
+      "Kalp"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "py0tvcjhd",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "GENERAL",
+    "question": "Sinir sisteminde beyin ile omurilik arasındaki bağlantı hangi yapıdadır?",
+    "explanation": "Nöronlar, beyin ve omurilik arasındaki temel iletim hücreleridir. Glial hücreler destek, sinaps bağlantı noktalarıdır.",
+    "options": [
+      "Nöron",
+      "Glial Hücre",
+      "Sinaps",
+      "Refleks Yolu"
+    ],
+    "correctAnswer": "Nöron",
+    "tags": [
+      "Anatomisi",
+      "Sinir Sistemi",
+      "Beyin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yxjlrl3mv",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EASY",
+    "question": "Mide asidi hangi organ tarafından üretilir?",
+    "explanation": "Mide, sindirim sisteminde asid ve enzim salgılayan ana organdır. Karaciğer safra, pankreas ise sindirim enzimleri üretir.",
+    "options": [
+      "Karaciğer",
+      "Pankreas",
+      "Mide",
+      "İnce Bağırsağ"
+    ],
+    "correctAnswer": "Mide",
+    "tags": [
+      "Anatomisi",
+      "Sindirim Sistemi",
+      "Organlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9zkzvd3x",
+    "category": "BİLİM",
+    "subcategory": "İnsan Anatomisi",
+    "difficulty": "EXPERT",
+    "question": "Kasların kasılması sırasında hangi proteinler etkileşir?",
+    "explanation": "İskelet kaslarında aktin (ince) ve miyozin (kalın) proteinleri, kasılma mekanizması için birbirine bağlanarak kas kısalmasını sağlar.",
+    "options": [
+      "Aktin ve Miyozin",
+      "Tropomiyozin",
+      "Kollajen",
+      "Elastin"
+    ],
+    "correctAnswer": "Aktin ve Miyozin",
+    "tags": [
+      "Anatomisi",
+      "Kas Sistemi",
+      "Mikroskopi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

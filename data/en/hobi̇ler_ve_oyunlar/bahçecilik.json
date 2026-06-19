@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "k87zwvjb1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Toprak pH değeri bitkicilikte neyi ifade eder?",
+    "explanation": "pH, potens hidrojen (potential hydrogen) kısaltmasıdır ve toprağın kimyasal asitlik veya bazlık derecesini ölçer.",
+    "options": [
+      "Toprağın tuz oranı",
+      "Toprağın nem miktarı",
+      "Toprağın asitlik veya bazlık derecesi",
+      "Toprağın kireç içeriği"
+    ],
+    "correctAnswer": "Toprağın asitlik veya bazlık derecesi",
+    "tags": [
+      "toprak",
+      "ph",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o9ebohth0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Domates bitkisi için en uygun ışık miktarı nedir?",
+    "explanation": "Domates gibi meyve verici bitkiler maksimum güneş ışığına ihtiyaç duyar ve genellikle 6-8 saatten fazla direk güneşe maruz kalmalıdır.",
+    "options": [
+      "Günlük 4-6 saat",
+      "Dolgunun tamamı (10+ saat)",
+      "Gölgelikli ortam",
+      "Sadece sabahı"
+    ],
+    "correctAnswer": "Dolgunun tamamı (10+ saat)",
+    "tags": [
+      "domates",
+      "ışık",
+      "bakım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fcuedb29z",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Baklagiller neden bahçecilikte önemlidir?",
+    "explanation": "Baklagillerin köklerindeki bakteriler havadaki azotu toprağa sabitler ve diğer bitkiler için doğal gübre sağlar.",
+    "options": [
+      "Çok hızlı büyürler",
+      "Azot tutarlar",
+      "Çoğu hastalığa dayanıklıdır",
+      "Sadece gülleri güzeldir"
+    ],
+    "correctAnswer": "Azot tutarlar",
+    "tags": [
+      "baklagiller",
+      "azot",
+      "gübre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oge5donyq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Hangi yöntem ile meyve ağaçlarında yeni dallar oluşturulur?",
+    "explanation": "Aşı, bir bitkinin dallarının veya yapraklarının farklı bir kök sistemine bağlanmasıyla yeni ve istenen özellikli bitki oluşumu sağlar.",
+    "options": [
+      "Çekirdek",
+      "Döllenme",
+      "Aşı",
+      "Kışlama"
+    ],
+    "correctAnswer": "Aşı",
+    "tags": [
+      "aşı",
+      "çoğaltma",
+      "meyve"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "me1j38tdx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Kelebek gübreleme yerine doğal toprak yapıcısı hangisidir?",
+    "explanation": "Kompost, bitkisel ve hayvansal atıkların ayrıştırılmasıyla elde edilen doğal toprak yapıcısıdır.",
+    "options": [
+      "Kimyasal gübre",
+      "Kompost",
+      "Çakıtlı zemin",
+      "Plastik film"
+    ],
+    "correctAnswer": "Kompost",
+    "tags": [
+      "organik",
+      "gübre",
+      "toprak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q3uahzhw8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Küçük dalları kesmek için en uygun bahçe aracı hangisidir?",
+    "explanation": "El makası, ince dalları hassas bir şekilde kesmek ve bitkiye zarar vermemek için tasarlanmıştır.",
+    "options": [
+      "Bıçak",
+      "Makas",
+      "El makası",
+      "Kazma"
+    ],
+    "correctAnswer": "El makası",
+    "tags": [
+      "Bahçe Araçları",
+      "Pruner"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i45pzwvbt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Sebze ekerken en önemli faktör aşağıdakilerden hangisidir?",
+    "explanation": "Toprak yapısı, besin dağılımını ve kök gelişimini belirleyerek bitkinin sağlığını etkiler.",
+    "options": [
+      "Toprak türü",
+      "Güneş açısı",
+      "Sulama miktarı",
+      "Çiçek rengi"
+    ],
+    "correctAnswer": "Toprak türü",
+    "tags": [
+      "Bitki Bakımı",
+      "Toprak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fxyf0vdjx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Domates bitkilerinde sıkça görülen zararlı hangisidir?",
+    "explanation": "Yaprak bitileri domates yapraklarını emerek zayıflatır ve hastalık bulaşma riskini artırır.",
+    "options": [
+      "Arı",
+      "Kelebek",
+      "Yaprak biti",
+      "Sinek"
+    ],
+    "correctAnswer": "Yaprak biti",
+    "tags": [
+      "Zararlılar",
+      "Sebze Bakımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "opnvpwuj4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Toprağı doğal yollarla zenginleştirmenin en etkili yöntemi nedir?",
+    "explanation": "Kompost, organik madde ve besinleri artırarak toprağın canlılığını korur.",
+    "options": [
+      "Kimyasal gübre",
+      "Kompost ekme",
+      "Çakıl ekleme",
+      "Yağmur suyu"
+    ],
+    "correctAnswer": "Kompost ekme",
+    "tags": [
+      "Toprak Hazinesi",
+      "Organik Bakım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vh6v7ul4u",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Sulamada su tasarrufunu en iyi sağlayan yöntem hangisidir?",
+    "explanation": "Damlatma sistemi suyu kök bölgesine doğrudan vererek buharlaşmayı azaltır.",
+    "options": [
+      "Musluktan sulama",
+      "Çamurlukla sulama",
+      "Damlama sistemi",
+      "Yağmur bekleyerek"
+    ],
+    "correctAnswer": "Damlama sistemi",
+    "tags": [
+      "Sulama",
+      "Su Tasarrufu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m7ee3e7u8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçe topraklarında bulunması gereken en önemli besin elementi hangisidir?",
+    "explanation": "Potasyum, bitkilerin topraktan su ve besin alımını düzenleyen en kritik elementtir. Toprakta bulunması gereken temel besinlerden biridir.",
+    "options": [
+      "Azot",
+      "Fosfor",
+      "Potasyum",
+      "Kükürt"
+    ],
+    "correctAnswer": "Potasyum",
+    "tags": [
+      "bahçecilik",
+      "toprak",
+      "besin",
+      "potasyum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c7jm6tv03",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Bahçe sulama saatini hangi zamana koymak daha uygundur?",
+    "explanation": "Sabah sulaması, suyun buharlaşmasını azaltır ve bitkilerin güneş enerjisini daha iyi kullanmalarına olanak tanır.",
+    "options": [
+      "Sabah erken saat",
+      "Öğlen vakti",
+      "Akşam geç saat",
+      "Gece yarısı"
+    ],
+    "correctAnswer": "Sabah erken saat",
+    "tags": [
+      "bahçecilik",
+      "sulama",
+      "bitki bakımı",
+      "zamandır"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3l7wg54az",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçe kompost yaparken hangi malzemeler kullanılabilir?",
+    "explanation": "Bahçe kompostu için yeşil atıklar, kuru yapraklar ve diğer organik malzemeler kullanılabilir. Hepsi toprak verimini artırır.",
+    "options": [
+      "Yeşil atık",
+      "Kuru yaprak",
+      "Kafes yatağı",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "bahçecilik",
+      "kompost",
+      "atık yönetimi",
+      "yapım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tkcz4n00s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçede bitkilerin hastalıklarına karşı en etkili önlem hangisidir?",
+    "explanation": "Bitkilerde hastalıkların önlenmesi için düzenli bakım, toprak temizliği ve hastalık atıklarını kontrol etmek gerekir.",
+    "options": [
+      "Düzenli sulama",
+      "Terk edilmiş toprak",
+      "Hastalık atık kontrolü",
+      "Fazla gübreleme"
+    ],
+    "correctAnswer": "Hastalık atık kontrolü",
+    "tags": [
+      "bahçecilik",
+      "hastalık",
+      "önlem",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hn61dvnja",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçe toprağının pH seviyesi ne olmalıdır?",
+    "explanation": "Çoğu bitki 6.5-7.5 arası pH seviyesinde en iyi şekilde gelişir. Bu aralık, toprakta besin elementlerinin alınmasını kolaylaştırır.",
+    "options": [
+      "5.0-6.0",
+      "6.5-7.5",
+      "8.0-9.0",
+      "4.0-5.0"
+    ],
+    "correctAnswer": "6.5-7.5",
+    "tags": [
+      "bahçecilik",
+      "toprak pH",
+      "bitki besleme",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jilvvjsqc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Kompost nedir?",
+    "explanation": "Kompost, bitkisel ve hayvansal atıkların kontrollü şekilde parçalanarak oluşturulmuş organik toprak iyileştiricisidir.",
+    "options": [
+      "Yapay kimyasal gübre",
+      "Bitki artıklarının doğal çürümesi",
+      "Toprağı asitleştiren maddeler",
+      "Sulama için kullanılan tuzlu su"
+    ],
+    "correctAnswer": "Bitki artıklarının doğal çürümesi",
+    "tags": [
+      "temel bilgi",
+      "gübreleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qx0mqvg6f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Toprak pH değeri neyi gösterir?",
+    "explanation": "pH skali, bir maddenin asidi mi yoksa alkali mi olduğunu gösterir. Bitkilerin besin alımı bu değere bağlıdır.",
+    "options": [
+      "Topraktaki suyun miktarı",
+      "Toprağın asitlik veya bazlık derecesi",
+      "Topraktaki gübre miktarı",
+      "Toprağın sıcaklığı"
+    ],
+    "correctAnswer": "Toprağın asitlik veya bazlık derecesi",
+    "tags": [
+      "toprak bilimi",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ufcbvne8v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Domateste en sık karşılaşılan kök çürüğü hastalığı hangisidir?",
+    "explanation": "Fusarium kök çürüğü, toprakta bulunan Fusarium mantarının nedenlediği ciddi bir bitki hastalığıdır.",
+    "options": [
+      "Kelepir Yemliği",
+      "Fusarium Kök Çürüğü",
+      "Yaprak Sararması",
+      "Çiçek Dökülmesi"
+    ],
+    "correctAnswer": "Fusarium Kök Çürüğü",
+    "tags": [
+      "hastalıklar",
+      "domates",
+      "mantar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uzbg1dppg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Bahçecilikte sulama için en uygun su kaynağı hangisidir?",
+    "explanation": "Yağmur suyu, bitkilerin kök zarını zorlamayan ve tuz birikimi oluşturmayan en doğal sulama kaynağıdır.",
+    "options": [
+      "Tuzlu deniz suyu",
+      "Kaynar içme suyu",
+      "Yağmur suyu",
+      "Çok sert boru suyu"
+    ],
+    "correctAnswer": "Yağmur suyu",
+    "tags": [
+      "sulama",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wnkwkb517",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Bahçe işlemlerinde hangi araç toprak hazırlamak için kullanılmaz?",
+    "explanation": "Toprağı karıştırmak ve hazırlamak için mekanik veya elle kullanılan araçlar (Cana, Traktör vb.) kullanılır, bilgisayar bir iş aracıdır.",
+    "options": [
+      "Bahçe traktörü",
+      "Çapa (Cana)",
+      "Sulama hortumu",
+      "Bilgisayar"
+    ],
+    "correctAnswer": "Bilgisayar",
+    "tags": [
+      "bahçe araçları",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hs06wwpfr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Bahçedeki toprak türü olarak 'kumlu toprak' hangi özelliklere sahiptir?",
+    "explanation": "Kumlu toprak hava geçişine izin verir ancak suyu çok iyi tutmaz, bu nedenle sulama sıklığı daha fazla olur.",
+    "options": [
+      "Su tutma kapasitesi yüksektir",
+      "Hava geçirgenliği iyidir ancak su az tutar",
+      "Besin maddeleri zengindir",
+      "Bitki kökleri için en uygunudur"
+    ],
+    "correctAnswer": "Hava geçirgenliği iyidir ancak su az tutar",
+    "tags": [
+      "bahçecilik",
+      "toprak-türü",
+      "temel-bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wcaohvdhf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçe bakımında 'kompost' (çöprül) nedir?",
+    "explanation": "Kompost, organik atıkların kontrollü şekilde çürütülerek oluşturulan besleyici toprak iyileştiricisidir.",
+    "options": [
+      "Yapay gübre",
+      "Bitki atıklarının çürütülmesiyle elde edilen doğal gübre",
+      "Toprak katkısı maddesi",
+      "Sulama cihazı"
+    ],
+    "correctAnswer": "Bitki atıklarının çürütülmesiyle elde edilen doğal gübre",
+    "tags": [
+      "kompost",
+      "gübre",
+      "sürdürülebilirlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j2ualiqsy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bitki hastalığı olarak 'beyaz küf' hangi belirtilerle kendini gösterir?",
+    "explanation": "Beyaz küf, özellikle nemli koşullarda gelişen mantar hastalığı olup beyaz tozumsu yapıyı oluşturur.",
+    "options": [
+      "Yapraklarda siyah lekeler",
+      "Çiçeklerde sararma",
+      "Sap ve yapraklarda beyaz pudralı kaplama",
+      "Köklerde çürüme"
+    ],
+    "correctAnswer": "Sap ve yapraklarda beyaz pudralı kaplama",
+    "tags": [
+      "hastalıklar",
+      "beyaz-küf",
+      "bitki-bakımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tfd8g458d",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Bahçe arazi hazırlığında 'toprak karışımı' için ideal oran nedir?",
+    "explanation": "İdeal bahçe toprak karışımı dengeli yapıda olmalı: organik madde besin kaynağı, bahçe toprağı ana yapısı, kum ise hava ve su geçirgenliği sağlar.",
+    "options": [
+      "%50 kum, %30 çakıl, %20 kil",
+      "%40 organik madde, %40 bahçe toprağı, %20 kum",
+      "%60 kum, %30 organik madde, %10 çakıl",
+      "%70 kil, %20 toprak, %10 gübre"
+    ],
+    "correctAnswer": "%40 organik madde, %40 bahçe toprağı, %20 kum",
+    "tags": [
+      "toprak-hazırlama",
+      "karışım-oranı",
+      "ileri-teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zxh7g1t23",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Bahçedeki 'yaylak sistemi' ne zaman kurulmalıdır?",
+    "explanation": "Yaylak sistemi, toprağın donmaması ve bitkilerin kış hayatta kalması için sonbaharda veya ilkbaharda kurulumu daha uygundur.",
+    "options": [
+      "Yazın",
+      "Sonbahar veya İlkbahar",
+      "Kışın",
+      "Her mevsim"
+    ],
+    "correctAnswer": "Sonbahar veya İlkbahar",
+    "tags": [
+      "sulama-sistemi",
+      "yaylak",
+      "mevsim-bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qvyydl3jd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Bahçecilik hobilere en çok hangi psikolojik faydayı sağlar?",
+    "explanation": "Bahçecilik, doğayla etkileşim kurmak ve bitkileri büyütmek yoluyla stres seviyesini düşürmede etkili bir aktivitedir.",
+    "options": [
+      "Para kazandırma",
+      "Stresi azaltma",
+      "Sadece güzellik vermesi",
+      "Uyku düzenini bozması"
+    ],
+    "correctAnswer": "Stresi azaltma",
+    "tags": [
+      "psikoloji",
+      "faydalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7fwiiwlfl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Hangi bitki türü asidik toprakları (pH 5-6) tercih eder?",
+    "explanation": "Azalea ve diğer erikgiller (Rhododendron) gibi bitkiler, asidik toprak ortamında daha iyi gelişir.",
+    "options": [
+      "Gül",
+      "Azalea",
+      "Kaktüs",
+      "Patates"
+    ],
+    "correctAnswer": "Azalea",
+    "tags": [
+      "bitkiler",
+      "toprak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w38p4xg47",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bitkilerin köklerini kesmek ve toprağı sıkıca basmak için hangi alet kullanılır?",
+    "explanation": "Bahçe çapaları, toprağı işleme ve bitkilerin yerini sağlamlaştırma işleminde kullanılır.",
+    "options": [
+      "Makas",
+      "Çapa",
+      "Saksı",
+      "Kömür"
+    ],
+    "correctAnswer": "Çapa",
+    "tags": [
+      "araçlar",
+      "bahçe malzemeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ilzfefi56",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçedeki sulama işlemi en uygun hangi saatte yapılmalıdır?",
+    "explanation": "Sabah sulama, bitki suyunu emmesini sağlar ve gün boyu buharlaşmayı en aza indirir.",
+    "options": [
+      "Öğlen",
+      "Akşam 20:00 sonrası",
+      "Sabah erken saatler",
+      "Gece yarısı"
+    ],
+    "correctAnswer": "Sabah erken saatler",
+    "tags": [
+      "sulama",
+      "bakım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4siftg0i2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Hangi madde kompost yapımında eklenmemeli çünkü pest riski oluşturur?",
+    "explanation": "Et ve kemik gibi proteinli atıklar kompostta çürümeyi hızlandırsa da, böcekleri ve kötü kokular çekerek eklenmemelidir.",
+    "options": [
+      "Bitki artıkları",
+      "Hayvan gübresi",
+      "Et kalıntıları",
+      "Kahve posası"
+    ],
+    "correctAnswer": "Et kalıntıları",
+    "tags": [
+      "kompost",
+      "atık yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ie2oy14wi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçecilikte bitkilerin sağlıklı büyümesi için en kritik faktör nedir?",
+    "explanation": "Toprak pH seviyesi, bitkilerin besin emilimi için doğrudan etkilidir. Asidik veya bazik topraklar bazı minerallerin kullanılabilirliğini değiştirir.",
+    "options": [
+      "Güneş ışığı miktarı",
+      "Toprak pH seviyesi",
+      "Sulama sıklığı",
+      "Ağır gübre kullanımı"
+    ],
+    "correctAnswer": "Toprak pH seviyesi",
+    "tags": [
+      "Bahçecilik",
+      "Bitki Bakımı",
+      "Toprak Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgxfaoqb2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bahçede doğal gübre olarak kullanılır?",
+    "explanation": "Kompost, çözülmüş organik maddelerden oluşur ve toprağın yapısını iyileştirerek besin sağlar.",
+    "options": [
+      "Plastik atıklar",
+      "Kompost",
+      "Kimyasal çözüntü",
+      "Metal parçaları"
+    ],
+    "correctAnswer": "Kompost",
+    "tags": [
+      "Gübreleme",
+      "Sürdürülebilir Bahçe",
+      "Organik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l7m5skyjk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bitkilerin kök bölgesindeki hava alışverişini artırmak için hangi işlem yapılır?",
+    "explanation": "Toprak gevşetme, köklerin oksijen almasını sağlayarak bitkinin solunumunu destekler.",
+    "options": [
+      "Toprağı sıkıca bastırma",
+      "Toprak gevşetme",
+      "Ağır gübre ekleme",
+      "Sulama kesilmesi"
+    ],
+    "correctAnswer": "Toprak gevşetme",
+    "tags": [
+      "Bahçe Teknikleri",
+      "Tohum Ekişi",
+      "Bitki Sağlığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nzhojxrgo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Bahçedeki zararlı böceklerle mücadelede hangi yöntem doğal bir çözümdür?",
+    "explanation": "Bitkisel sıvı gübre, bitkinin direncini artırarak doğal olarak zararlılara karşı korunmasını sağlar.",
+    "options": [
+      "Kimyasal ilaçlar",
+      "Tuzlu su spreyi",
+      "Sirke ve biber karışımı",
+      "Bitkisel sıvı gübre"
+    ],
+    "correctAnswer": "Bitkisel sıvı gübre",
+    "tags": [
+      "Zararlı Yönetimi",
+      "Organik Bahçe",
+      "Doğal Çözümler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r45cv0uyn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçede meyve veren ağaçlar için hangi yöntem toprak nemini korumak amacıyla kullanılır?",
+    "explanation": "Mantar örtüsü, toprağı su tutmaya yardımcı olarak nem kaybını azaltır ve bitki gelişimini destekler.",
+    "options": [
+      "Mantar örtüsü",
+      "Plastik torba",
+      "Kumlu karışım",
+      "Taş döşeme"
+    ],
+    "correctAnswer": "Mantar örtüsü",
+    "tags": [
+      "Bahçe Bakımı",
+      "Nem Kontrolü",
+      "Sürdürülebilirlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aai0onmq8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçecilikte toprak hazırlama aşamasında en önemli faktör nedir?",
+    "explanation": "Toprakta organik madde bulunması, besin depolama kapasitesini artırır ve kök gelişimini destekler.",
+    "options": [
+      "Su miktarı",
+      "Organik madde içeriği",
+      "Rengi",
+      "Koku"
+    ],
+    "correctAnswer": "Organik madde içeriği",
+    "tags": [
+      "bahçecilik",
+      "toprak",
+      "organik madde"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ibmmrgltd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Hangi sebze türü bahçenizde en az su ister?",
+    "explanation": "Patlıcan orta derecede suya ihtiyaç duyar ve kuru toprakta bile daha uzun süre hayatta kalabilir.",
+    "options": [
+      "Marul",
+      "Domates",
+      "Patlıcan",
+      "Salatalık"
+    ],
+    "correctAnswer": "Patlıcan",
+    "tags": [
+      "sebze",
+      "sulama",
+      "bahçe bakımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0kvsac37y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Bitkilerde hastalık belirtisi olarak en sık görülen renk değişikliği hangisidir?",
+    "explanation": "Bitkilerde sarılaşma genellikle azot eksikliği veya hastalık belirtisi olarak görülür.",
+    "options": [
+      "Kırmızılaşma",
+      "Sarılaşma (Kloroz)",
+      "Mavileşme",
+      "Gümüşleşme"
+    ],
+    "correctAnswer": "Sarılaşma (Kloroz)",
+    "tags": [
+      "hastalıklar",
+      "bitki besinleri",
+      "tani"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "reu14xp07",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Kompost yaparken en uygun sıcaklık aralığı nedir?",
+    "explanation": "Kompost ideal sıcaklığı 20-40°C arasındadır, bu aralıkta mikroorganizma aktivitesi maksimumdur.",
+    "options": [
+      "5-15°C",
+      "20-40°C",
+      "45-60°C",
+      "70-80°C"
+    ],
+    "correctAnswer": "20-40°C",
+    "tags": [
+      "kompost",
+      "organik madde",
+      "sıcaklık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "am5k476pw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Bahçecilikte '721' yöntemi nedir?",
+    "explanation": "721 sulama yöntemi, bitkinin ihtiyaç duyduğu suyu en verimli şekilde dağıtan modern bir tekniktir.",
+    "options": [
+      "Filtreleme sistemi",
+      "Toplama zamanı",
+      "Sulama yöntemi",
+      "Ekim mesafesi"
+    ],
+    "correctAnswer": "Sulama yöntemi",
+    "tags": [
+      "sulama",
+      "bahçe teknikleri",
+      "modern bahçecilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o4mr2xya4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Bahçecilikte bitkilerin fotosentez yapması ve sağlıklı büyüyebilmesi için en temel faktör hangisidir?",
+    "explanation": "Bitkiler güneş ışığını kullanarak fotosentez yapar, bu sayede besin üretirler ve büyürler.",
+    "options": [
+      "Gübre",
+      "Sulama",
+      "Güneş Işığı",
+      "Toprak"
+    ],
+    "correctAnswer": "Güneş Işığı",
+    "tags": [
+      "bahçecilik",
+      "temel-kavramlar",
+      "fotosentez"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ycuv6hybl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Tohum ekiminde toprağın nem oranı neden önemlidir?",
+    "explanation": "Topraktaki yeterli nem, tohumun çimlenmesi ve köklerinin yerleşmesi için şarttır.",
+    "options": [
+      "Su kaybını önler",
+      "Yerleşmesini sağlar",
+      "Hava almasını engeller",
+      "Ömrü uzatır"
+    ],
+    "correctAnswer": "Yerleşmesini sağlar",
+    "tags": [
+      "ekim",
+      "toprak-hazırlığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k5cemb5iv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Azot eksikliğinde bahçe bitkilerinde genellikle hangi renk değişimi görülür?",
+    "explanation": "Azot, yeşil pigment klorofilin yapısında bulunur; eksikliğinde yapraklar sararır.",
+    "options": [
+      "Kırmızılaşma",
+      "Sarılaşma (Kloroz)",
+      "Morlaşma",
+      "Beyazlaşma"
+    ],
+    "correctAnswer": "Sarılaşma (Kloroz)",
+    "tags": [
+      "besin-eksiklikleri",
+      "bitki-sağlığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yi9ck2l8r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçe sulama yöntemlerinden hangisi suyu doğrudan bitki köklerine ulaştırır?",
+    "explanation": "Damla sulama (drip irrigation), suyu borularla kök bölgesine en verimli şekilde ulaştırır.",
+    "options": [
+      "Yüzey Sulama",
+      "Damlalık Sulama",
+      "Fırtınalı Sulama",
+      "Buzulu Sulama"
+    ],
+    "correctAnswer": "Damlalık Sulama",
+    "tags": [
+      "sulama-yöntemleri",
+      "verimlilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tti9wutoj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Toprak pH değeri 7'nin altındaysa toprak hangisi niteliğinde kabul edilir?",
+    "explanation": "Toprak kimyasında pH 7 nötr, 7'den düşük asidik, yüksek bazik olarak sınıflandırılır.",
+    "options": [
+      "Bazik",
+      "Nötr",
+      "Asidik",
+      "Tuzlu"
+    ],
+    "correctAnswer": "Asidik",
+    "tags": [
+      "toprak-kimyası",
+      "ph-değeri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ptuprkdjl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Bahçecilikta tohum ekiminden önce hangi işlem en önemli adımdır?",
+    "explanation": "Toprak hazırlama, tohumların kök salabilmesi için en kritik adımdır. İyi havalandırılmış ve besin açısından zengin bir toprak gerekir.",
+    "options": [
+      "A) Sulama",
+      "B) Toprak hazırlama",
+      "C) Gübreleme",
+      "D) Çapa"
+    ],
+    "correctAnswer": "B) Toprak hazırlama",
+    "tags": [
+      "bahçecilik",
+      "toprak",
+      "tohum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jedy5iqsu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Bahçede hangi bitki çaprazlaması ile yeni türler elde edilebilir?",
+    "explanation": "Hibritleştirme, farklı bitki türlerini çaprazlamayı içerir ve yeni özelliklere sahip bitkiler elde etmek için kullanılır.",
+    "options": [
+      "A) Klonlama",
+      "B) Hibritleştirme",
+      "C) Sürdürülebilir tarım",
+      "D) Organik gübreleme"
+    ],
+    "correctAnswer": "B) Hibritleştirme",
+    "tags": [
+      "genetik",
+      "bitki",
+      "hibrit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7qtmyymzi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EXPERT",
+    "question": "Bahçedeki pH seviyesi hangi aralıkta olmalıdır?",
+    "explanation": "Çoğu bahçe bitkisi için ideal pH aralığı 4.5-6.0 arasındadır. Bu aralık, besin maddelerinin emilimi için en uygun koşulu sağlar.",
+    "options": [
+      "A) 4.5-6.0",
+      "B) 7.5-8.0",
+      "C) 3.0-4.0",
+      "D) 9.0-10.0"
+    ],
+    "correctAnswer": "A) 4.5-6.0",
+    "tags": [
+      "ph",
+      "toprak",
+      "besin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8cj2zx7py",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "GENERAL",
+    "question": "Sularken hangi yöntem köklere daha fazla su götürür?",
+    "explanation": "Damlama sulama, suyu doğrudan köklere iletir ve buharlaşmayı en aza indirerek daha etkilidir.",
+    "options": [
+      "A) Damlama sulama",
+      "B) Yağmur sulama",
+      "C) Çiçekli sulama",
+      "D) Yüzey sulama"
+    ],
+    "correctAnswer": "A) Damlama sulama",
+    "tags": [
+      "sulama",
+      "etkinlik",
+      "kök"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5nqdfhi7o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Bahçecilik",
+    "difficulty": "EASY",
+    "question": "Bahçede hangi gübre bitki büyümesi için azotlu olmalıdır?",
+    "explanation": "Azot, bitkilerin yeşil yapraklarını ve genel büyümesi için kritik bir besin maddesidir.",
+    "options": [
+      "A) Fosforlu",
+      "B) Potasyumlu",
+      "C) Azotlu",
+      "D) Mikroelemenli"
+    ],
+    "correctAnswer": "C) Azotlu",
+    "tags": [
+      "gübre",
+      "azot",
+      "büyüme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

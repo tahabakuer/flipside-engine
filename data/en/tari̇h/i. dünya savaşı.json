@@ -1,0 +1,1085 @@
+[
+  {
+    "id": "a0oi6rgyh",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Birinci Dünya Savaşı hangi tarihler arasında süren savaş olarak kabul edilir?",
+    "explanation": "Birinci Dünya Savaşı 28 Haziran 1914'te Avusturya'nın Saraybosna'yı işgali ile başlayıp, 11 Kasım 1918'de Mondros Ateşkes Antlaşması ile son bulmuştur.",
+    "options": [
+      "1914-1917",
+      "1914-1918",
+      "1915-1918",
+      "1916-1918"
+    ],
+    "correctAnswer": "1914-1918",
+    "tags": [
+      "tarih",
+      "birinci dünya savaşı",
+      "savaş süresi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xnpagiow4",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Birinci Dünya Savaşı'nda ana muharebeleri hangi devletler arasında gerçekleşmiştir?",
+    "explanation": "Birinci Dünya Savaşı Almanya ve Avusturya-Macaristan (İttifak) ile İngiltere, Fransa, Rusya, İtalya (İtilaf) arasında gerçekleşmiştir.",
+    "options": [
+      "İngiltere - Fransa",
+      "Almanya - Rusya",
+      "İttifak Devletleri - İtilaf Devletleri",
+      "Avusturya - Osmanlı"
+    ],
+    "correctAnswer": "İttifak Devletleri - İtilaf Devletleri",
+    "tags": [
+      "tarih",
+      "birinci dünya savaşı",
+      "müttefikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "enoww4z4h",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Birinci Dünya Savaşı'nda en fazla insan kaybına neden olan savaş yöntemi hangisidir?",
+    "explanation": "Birinci Dünya Savaşı'nda Almanya ve İttifak Devletleri ile Fransa, İngiltere arasında yapılan siper savaşları milyonlarca asker kaybına neden olmuştur.",
+    "options": [
+      "Havacılık",
+      "Zirve Muharebeleri",
+      "Siper Savaşları",
+      "Deniz Blokadoları"
+    ],
+    "correctAnswer": "Siper Savaşları",
+    "tags": [
+      "tarih",
+      "birinci dünya savaşı",
+      "savaş yöntemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "38jzvv9bu",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Birinci Dünya Savaşı'nda ilk büyük deniz muharebesi hangi iki donanma arasında gerçekleşmiştir?",
+    "explanation": "Birinci Dünya Savaşı'nda Jutland Muharebesi (31 Mayıs - 1 Haziran 1916) İngiliz ve Alman donanmaları arasında gerçekleşmiştir.",
+    "options": [
+      "İngiliz Donanması - İtalyan Donanması",
+      "Alman Donanması - Rus Donanması",
+      "İngiliz Donanması - Alman Donanması",
+      "Fransa Donanması - Osmanlı Donanması"
+    ],
+    "correctAnswer": "İngiliz Donanması - Alman Donanması",
+    "tags": [
+      "tarih",
+      "birinci dünya savaşı",
+      "deniz muharebesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u4scn3azm",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Birinci Dünya Savaşı'na neden Osmanlı Devleti de katılmıştır?",
+    "explanation": "Birinci Dünya Savaşı'na Osmanlı Devleti 1914'te Almanya ile yakınlaşarak, ticaret ve askeri iş birliği antlaşmaları nedeniyle katılmıştır.",
+    "options": [
+      "Almanya ile ticaret anlaşması",
+      "Avusturya ile askerlik paktı",
+      "İngiltere ile dostluk antlaşması",
+      "Fransa ile sınırlar meselesi"
+    ],
+    "correctAnswer": "Almanya ile ticaret anlaşması",
+    "tags": [
+      "tarih",
+      "birinci dünya savaşı",
+      "Osmanlı katılımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "edyna494h",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Birinci Dünya Savaşı'nın resmi olarak başladığı tarih aşağıdakilerden hangisidir?",
+    "explanation": "İmparatorluklar arası savaşı başlatan Avusturya-Macaristan'ın Sırbist'e saldırısı 28 Temmuz 1914'te gerçekleşti ancak Almanya'nın mobilitet planı ve Rusya'nın mobilizasyonu nedeniyle 1 Ağustos 1914'te resmen başladı.",
+    "options": [
+      "28 Temmuz 1914",
+      "28 Haziran 1914",
+      "1 Ağustos 1914",
+      "5 Kasım 1914"
+    ],
+    "correctAnswer": "1 Ağustos 1914",
+    "tags": [
+      "Bashlangic Tarihi",
+      "Avusturya-Macaristan",
+      "Almanya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9akewznr8",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "İttifaklar (Allies) bloğuna aşağıdakilerden hangisi dahil değildir?",
+    "explanation": "Osmanlı İmparatorluğu Merkez Güçler (Almanya, Avusturya-Macaristan, İtalya) bloğuna katılmıştır. İttifaklar Fransa, İngiltere, Rusya ve ABD'den oluşur.",
+    "options": [
+      "Fransa",
+      "İngiltere",
+      "Rusya",
+      "Osmanlı İmparatorluğu"
+    ],
+    "correctAnswer": "Osmanlı İmparatorluğu",
+    "tags": [
+      "Bloklar",
+      "İttifaklar",
+      "Merkezi Güçler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uwgi4178w",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Fransız General Joffre komutasında gerçekleşen Soma Baskını hangi yıl yapıldı?",
+    "explanation": "Soma Baskını 1 Temmuz - 18 Temmuz 1916 tarihleri arasında gerçekleşen büyük bir çatışmaydı ve yaklaşık 1 milyon asker hayatını kaybetti.",
+    "options": [
+      "1916",
+      "1917",
+      "1918",
+      "1915"
+    ],
+    "correctAnswer": "1916",
+    "tags": [
+      "Soma Baskını",
+      "Joffre",
+      "Fransa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t41b0fob6",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Birinci Dünya Savaşı'nın başlamasına doğrudan neden olan olay aşağıdakilerden hangisidir?",
+    "explanation": "28 Haziran 1914'te Sarajevo'da Archduke Franz Ferdinand ve eşi Elzabeth Gavrilo Princip tarafından öldürüldü. Bu olay Avusturya-Macaristan'ın Sırbist'e saldırısına neden oldu.",
+    "options": [
+      "Archduke Franz Ferdinand'in suikastı",
+      "Almanya'nın Rus mobilizasyonu",
+      "İngiltere'nin Fransa'ya saldırısı",
+      "İtalya'nın çıkması"
+    ],
+    "correctAnswer": "Archduke Franz Ferdinand'in suikastı",
+    "tags": [
+      "Suikast",
+      "Gavrilo Princip",
+      "Sarajevo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3upo68jr5",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Savaşı sonlandıran Versay Antlaşması hangi yıl imzalandı?",
+    "explanation": "Versay Antlaşması 28 Haziran 1919'da imzalandı ve Almanya'nın savaş tazminatları, toprak kayıpları gibi koşullar içeriyordu.",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "Versay Antlaşması",
+      "Savaşın Sonu",
+      "Fransa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qxsov39hc",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Birinci Dünya Savaşı ne zaman başlamıştır?",
+    "explanation": "Birinci Dünya Savaşı 28 Haziran 1914'te Saraybosna'daki Gavrilo Princip'in Avusturya Prensi Franz Ferdinand'ı öldürmesiyle başladı ve resmi olarak 1 Ağustos 1914'te başladı.",
+    "options": [
+      "1914",
+      "1915",
+      "1916",
+      "1917"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "tarih",
+      "birinci-dünya-savaşı",
+      "başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jwuq1jy6y",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Birinci Dünya Savaşı'nın en uzun süren muharebesi hangisidir?",
+    "explanation": "Somme Muharebesi 1916 yılında gerçekleşmiş ve yaklaşık 146 gün sürerek Birinci Dünya Savaşı'nın en uzun süreli muharebelerinden biri olmuştur.",
+    "options": [
+      "Gallipoli Muharebesi",
+      "Verdun Muharebesi",
+      "Somme Muharebesi",
+      "Ardennes Muharebesi"
+    ],
+    "correctAnswer": "Somme Muharebesi",
+    "tags": [
+      "tarih",
+      "birinci-dünya-savaşı",
+      "muharebe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xh0okyqkn",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Birinci Dünya Savaşı hangi yıl sona ermiştir?",
+    "explanation": "Birinci Dünya Savaşı 11 Kasım 1918'de Almanya'nın ateşkes imzasıyla resmi olarak sona ermiştir.",
+    "options": [
+      "1918 Kasım",
+      "1919 Mart",
+      "1920 Aralık",
+      "1917 Temmuz"
+    ],
+    "correctAnswer": "1918 Kasım",
+    "tags": [
+      "tarih",
+      "birinci-dünya-savaşı",
+      "bitiş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hus774403",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Birinci Dünya Savaşı'nda savaşan bir devlet değildir?",
+    "explanation": "Birinci Dünya Savaşı'nda Japon İmparatorluğu doğrudan savaşa girmemiştir. Çin'e karşı olan Japonya, Balkanlar ve Avrupa'daki savaşta yer almamıştır.",
+    "options": [
+      "Fransa",
+      "İngiltere",
+      "Rusya İmparatorluğu",
+      "Japonya"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "tarih",
+      "birinci-dünya-savaşı",
+      "savaşan-devletler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e13w4colu",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Birinci Dünya Savaşı'nın en büyük askerî kayıplarına neden olan muharebe hangisidir?",
+    "explanation": "Verdun Muharebesi 1916 yılında gerçekleşmiş ve yaklaşık 700.000 askerî kayıp ile Birinci Dünya Savaşı'nın en büyük kayıplardan biri olmuştur.",
+    "options": [
+      "Gallipoli Muharebesi",
+      "Verdun Muharebesi",
+      "Marne Muharebesi",
+      "Ypres Muharebesi"
+    ],
+    "correctAnswer": "Verdun Muharebesi",
+    "tags": [
+      "tarih",
+      "birinci-dünya-savaşı",
+      "kayıplar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ip1nxsxx",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "İlk Dünya Savaşı'na katılan ana savaşan taraflar aşağıdakilerden hangisidir?",
+    "explanation": "Savaşın ana tarafı Müttefikler (Fransa, İngiltere, Rusya vb.) ile Merkez Devletler (Almanya, Avusturya-Macaristan, Osmanlı) arasında savaşılmıştır.",
+    "options": [
+      "Müttefik Devletler ve Merkezi Devletler",
+      "Fransa ve Almanya",
+      "İngiltere ve Rusya",
+      "Osmanlı İmparatorluğu ve Avusturya-Macaristan"
+    ],
+    "correctAnswer": "Müttefik Devletler ve Merkezi Devletler",
+    "tags": [
+      "combatants",
+      "allies"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "11egvwkkt",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Verdun Muharebesi hangi yıl gerçekleşmiştir?",
+    "explanation": "Verdun Muharebesi 21 Şubat - 18 Aralık 1916 tarihleri arasında Fransa'da Almanya ve Müttefikler arasında gerçekleşmiştir.",
+    "options": [
+      "1914",
+      "1915",
+      "1916",
+      "1917"
+    ],
+    "correctAnswer": "1916",
+    "tags": [
+      "battles",
+      "france"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cl72if9ge",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "İlk Dünya Savaşı'nın sonucunda imzalanan barış antlaşması aşağıdakilerden hangisidir?",
+    "explanation": "Versay Antlaşması 1919 yılında Almanya'yı yenilgiye uğratan Müttefikler tarafından imzalanmıştır.",
+    "options": [
+      "Versay Antlaşması",
+      "Tiran Antlaşması",
+      "Ginevre Antlaşması",
+      "Lozan Antlaşması"
+    ],
+    "correctAnswer": "Versay Antlaşması",
+    "tags": [
+      "treaties",
+      "germany"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zpj6fdhmu",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Savaş sırasında ilk kez kullanıldığı bilinen araç aşağıdakilerden hangisidir?",
+    "explanation": "Somme Muharebesi sırasında 1916 yılında Müttefikler tarafından ilk kez tanklar kullanılmıştır.",
+    "options": [
+      "Tank",
+      "Uçak",
+      "Radyo",
+      "Telefon"
+    ],
+    "correctAnswer": "Tank",
+    "tags": [
+      "technology",
+      "inventions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t646v9ouc",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı ne zaman sona ermiştir?",
+    "explanation": "İlk Dünya Savaşı, Almanya'nın yenilmesiyle birlikte 11 Kasım 1918 tarihinde armistis (barış) ile sona ermiştir.",
+    "options": [
+      "10 Kasım 1918",
+      "11 Kasım 1918",
+      "12 Aralık 1918",
+      "1 Ocak 1919"
+    ],
+    "correctAnswer": "11 Kasım 1918",
+    "tags": [
+      "dates",
+      "armistice"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "elvyg6hmp",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "1914 yılında I. Dünya Savaşı'nın başlamasına yol açan olay nedir?",
+    "explanation": "28 Haziran 1914 tarihinde Saraybosna'da Avusturya-Fransa Prensi Ferdinand'ın cinayeti I. Dünya Savaşı'nın başlamasına neden olmuştur.",
+    "options": [
+      "Saraybosna'daki cinayet",
+      "Versay Antlaşması",
+      "Gallipoli Muharebesi",
+      "Kıbrıs Barışı"
+    ],
+    "correctAnswer": "Saraybosna'daki cinayet",
+    "tags": [
+      "history",
+      "ww1",
+      "turkish-culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "988xp5ue8",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Osmanlı Devleti hangi yıl I. Dünya Savaşı'na katılmıştır?",
+    "explanation": "Osmanlı Devleti, Enver Paşa'nın emriyle Almanya ile birlikte 1914 yılında I. Dünya Savaşı'na katılmıştır.",
+    "options": [
+      "1914",
+      "1915",
+      "1916",
+      "1917"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "history",
+      "ww1",
+      "ottoman-history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gy58qon8u",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "I. Dünya Savaşı'na karşı savaşan devletler grubu hangisidir?",
+    "explanation": "I. Dünya Savaşı'nda İngiltere, Fransa ve ABD gibi devletler Itilaf Devletleri olarak bilinen grupta yer alırlar.",
+    "options": [
+      "İtilaf Devletleri",
+      "Merkez Powers",
+      "Sovyetler Birliği",
+      "Kuzey Afrika Ordusu"
+    ],
+    "correctAnswer": "İtilaf Devletleri",
+    "tags": [
+      "history",
+      "ww1",
+      "military-groups"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "57hna54tt",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "I. Dünya Savaşı'nın sona erdiği yıl hangisidir?",
+    "explanation": "I. Dünya Savaşı, 1918 yılında Kasım ayında imzalanan ateşkes antlaşmasıyla sona ermiştir.",
+    "options": [
+      "1917",
+      "1918",
+      "1919",
+      "1920"
+    ],
+    "correctAnswer": "1918",
+    "tags": [
+      "history",
+      "ww1",
+      "dates"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iboouttuk",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Savaşın sonunda imzalanan barış antlaşması hangisidir?",
+    "explanation": "I. Dünya Savaşı'nın sona erdiğini resmi olarak belirten ve Almanya'yı etkileyen antlaşma Versay Antlaşması'dır.",
+    "options": [
+      "Versay Antlaşması",
+      "Sèvres Antlaşması",
+      "Lozan Antlaşması",
+      "Tunus Antlaşması"
+    ],
+    "correctAnswer": "Versay Antlaşması",
+    "tags": [
+      "history",
+      "ww1",
+      "treaties"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1hl59quel",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "İlk Dünya Savaşı hangi yıl başladı?",
+    "explanation": "İlk Dünya Savaşı 28 Haziran 1914 tarihinde Saraybosna'daki Gavrilo Princip'in Avusturya-Franz Ferdinand'i öldürmesiyle tetiklenmiş ve resmi olarak 1 Ağustos 1914'te başladı.",
+    "options": [
+      "1912",
+      "1914",
+      "1916",
+      "1918"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "Dünya Savaşı",
+      "Tarih",
+      "Başlangıç Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z3pecm8su",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "İlk Dünya Savaşı hangi tarihlerde son buldu?",
+    "explanation": "İlk Dünya Savaşı 11 Kasım 1918 tarihinde Almanya'nın ateşkes imzalamasıyla son buldu. Resmi olarak Aralık ayında tüm taraflar anlaşmayı tamamladı.",
+    "options": [
+      "1917-1918",
+      "1918 Kasım-Aralık",
+      "1919 Oc-Mart",
+      "1918 Mart-Mayıs"
+    ],
+    "correctAnswer": "1918 Kasım-Aralık",
+    "tags": [
+      "Dünya Savaşı",
+      "Bitiş Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0vre0mgh5",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "İlk Dünya Savaşı'nda hangi cephe daha uzun süre devam etti?",
+    "explanation": "Batı Cephesi (Fransa-Almanya sınırında) yaklaşık 4 yıl boyunca neredeyse sabit kaldı ve en uzun süre devam eden cepheydi.",
+    "options": [
+      "Batı Cephesi",
+      "Doğu Cephesi",
+      "Cephe yoktu",
+      "Güney Cephesi"
+    ],
+    "correctAnswer": "Batı Cephesi",
+    "tags": [
+      "Dünya Savaşı",
+      "Cepheler",
+      "Batı Cephesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6yo3663s8",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "İlk Dünya Savaşı'nda hangi gaz yaygın olarak kullanıldı?",
+    "explanation": "Klor gazı ilk kez 1915'de İper'e karşı kullanıldı ve kimyasal savaşın başlangıcı sayılır. Çok sayıda asker etkilenmiştir.",
+    "options": [
+      "Karbon Monoksit",
+      "Müspat Gazı",
+      "Klor",
+      "Amonyak"
+    ],
+    "correctAnswer": "Klor",
+    "tags": [
+      "Dünya Savaşı",
+      "Kimyasal Silahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9685lefte",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "İlk Dünya Savaşı'nda hangi ülke ABD'nin savaşa katılmasını sağladı?",
+    "explanation": "ABD 1917'de Fransa'nın yoğun istekleri ve İngiltere'nin desteğiyle savaşa katıldı. Ancak doğrudan 'Fransa'nın sağladığı' bir diplomatik müdahale değildi, ABD kendi çıkarlarını gözeterek karar verdi.",
+    "options": [
+      "Almanya",
+      "İngiltere",
+      "Fransa",
+      "Rusya"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "Dünya Savaşı",
+      "ABD Katılımı",
+      "Siyaset"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1m59ob5g5",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Birinci Dünya Savaşı ne zaman başlamıştır?",
+    "explanation": "Birinci Dünya Savaşı 28 Haziran 1914'te Avusturya Saraybosna'daki olaylardan sonra 5 Ağustos 1914'te resmen başlamıştır.",
+    "options": [
+      "1914",
+      "1915",
+      "1916",
+      "1917"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "tarih",
+      "dünya savaşı",
+      "başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xa33muh8f",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki savaşlardan hangisi Birinci Dünya Savaşı'nın en uzun süren savaşıdır?",
+    "explanation": "Verdun Savaşı (21 Şubat 1916 - 18 Aralık 1916) yaklaşık 305 gün sürerek Birinci Dünya Savaşı'nın en uzun süren savaşıdır.",
+    "options": [
+      "Verdun",
+      "Somme",
+      "Gallipoli",
+      "Marne"
+    ],
+    "correctAnswer": "Verdun",
+    "tags": [
+      "tarih",
+      "dünya savaşı",
+      "savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z9vbfe5wy",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Birinci Dünya Savaşında teknolojik gelişmelerden hangisi ÖNEMLİ bir rol oynamıştır?",
+    "explanation": "Birinci Dünya Savaşı'nda uçaklar, submarineler (denizaltıları) ve tanklar önemli rol oynamış askeri teknolojilerdir.",
+    "options": [
+      "Uçaklar",
+      "Submarineler (Hizmetli Gemiler)",
+      "Tanklar",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "tarih",
+      "dünya savaşı",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7otro648f",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Gallipoli Savaşı hangi ülkeler arasında gerçekleşmiştir?",
+    "explanation": "Gallipoli Savaşı (1915) İngiltere, Fransa ve Osmanlı İmparatorluğu arasında Akdeniz'de gerçekleşmiştir.",
+    "options": [
+      "İngiltere-Fransa-Türkiye",
+      "Almanya-Osmanlı-Rusya",
+      "İtalya-Avusturya-Türkiye",
+      "Fransa-İngiltere-Almanya"
+    ],
+    "correctAnswer": "İngiltere-Fransa-Türkiye",
+    "tags": [
+      "tarih",
+      "dünya savaşı",
+      "gallipoli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "elv507lu6",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Birinci Dünya Savaşı hangi yıl sona ermiştir?",
+    "explanation": "Birinci Dünya Savaşı 11 Kasım 1918'de imzalanan armistis ile resmen sona ermiştir.",
+    "options": [
+      "1917",
+      "1918",
+      "1919",
+      "1920"
+    ],
+    "correctAnswer": "1918",
+    "tags": [
+      "tarih",
+      "dünya savaşı",
+      "bitiş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i3b7phcnq",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Birinci Dünya Savaşı'nın başlamasına neden olan ana kriz hangisidir?",
+    "explanation": "28 Haziran 1914 tarihinde Saraybosna'da Avusturya-Macaristan Pransı Ferdinand'ın öldürülmesi, Avusturya'nın Bosna-Hirvazya krizini tetikleyerek Birinci Dünya Savaşı'nın başlamasına neden oldu.",
+    "options": [
+      "Saraybosna Krizi",
+      "Belgrad Krizi",
+      "İstanbul Krizi",
+      "Ankara Krizi"
+    ],
+    "correctAnswer": "Saraybosna Krizi",
+    "tags": [
+      "TARİH",
+      "1. Dünya Savaşı",
+      "Çerçeveleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tawp5ypb9",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "İttifak devletleri arasında hangisi bulunmazdı?",
+    "explanation": "İttifak devletleri arasında Almanya, Avusturya-Macaristan ve Osmanlı İmparatorluğu bulunurdu. İngiltere ise Anlaşma devletleri yanında yer alıyordu.",
+    "options": [
+      "Almanya",
+      "Avusturya-Macaristan",
+      "İngiltere",
+      "Osmanlı İmparatorluğu"
+    ],
+    "correctAnswer": "İngiltere",
+    "tags": [
+      "TARİH",
+      "1. Dünya Savaşı",
+      "İttifaklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qi0wpl2rj",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Marne Meydan Muharebesi hangi yılda gerçekleşmiştir?",
+    "explanation": "Marne Meydan Muharebesi 5-12 Eylül 1914 tarihleri arasında gerçekleşti ve Fransız ordusunun Alman ilerlemesini durdurmasıyla sona erdi.",
+    "options": [
+      "1914",
+      "1915",
+      "1916",
+      "1917"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "TARİH",
+      "1. Dünya Savaşı",
+      "Muharebeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h7wjjr54t",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Gallipoli Meydan Muharebesi hangi devletin katılımıyla yapılmıştır?",
+    "explanation": "Gallipoli Meydan Muharebesi 1915 yılında İngiliz, Avustralyalı ve Yeni Zelandalı birliklerin Osmanlı İmparatorluğu'na karşı giriştiği saldırıyla gerçekleşmiştir.",
+    "options": [
+      "İngiltere, Avustralya, Yeni Zelanda",
+      "Rusya, Fransa, İtalya",
+      "Almanya, Osmanlı, Bulgaristan",
+      "Japonya, ABD, Kuzey Afrika"
+    ],
+    "correctAnswer": "İngiltere, Avustralya, Yeni Zelanda",
+    "tags": [
+      "TARİH",
+      "1. Dünya Savaşı",
+      "Gallipoli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aezdtz0pd",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Birinci Dünya Savaşı ne zaman sona ermiştir?",
+    "explanation": "Birinci Dünya Savaşı 11 Kasım 1918 tarihinde Almanya'nın savaş durdurma anlaşmasıyla sona erdi ve bu tarih 'Armistice Day' olarak anılır.",
+    "options": [
+      "11 Kasım 1918",
+      "23 Ekim 1918",
+      "15 Aralık 1918",
+      "1 Ocak 1919"
+    ],
+    "correctAnswer": "11 Kasım 1918",
+    "tags": [
+      "TARİH",
+      "1. Dünya Savaşı",
+      "Savaşın Sonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ix4i6cryt",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "I.Dünya Savaşı ne yılında başlamıştır?",
+    "explanation": "I.Dünya Savaşı 28 Haziran 1914'te Sırbistan'ın başkenti Belgrad'da Saraybosna'da Arşduke Franz Ferdinand'in katli ile başlamıştır.",
+    "options": [
+      "1912",
+      "1914",
+      "1916",
+      "1918"
+    ],
+    "correctAnswer": "1914",
+    "tags": [
+      "TARİH"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6dyjh3p94",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Saraybosna'da gerçekleştirilen ve I.Dünya Savaşı'nı tetikleyen suikastta kime öldürülmüştür?",
+    "explanation": "Avusturya İmparatoru Franz Ferdinand ve eşi Sophie, 28 Haziran 1914'te Saraybosna'da Gavrilo Princip tarafından öldürülmüştür.",
+    "options": [
+      "Wilhelm II",
+      "Nicholas II",
+      "Franz Ferdinand",
+      "Victor Emmanuel III"
+    ],
+    "correctAnswer": "Franz Ferdinand",
+    "tags": [
+      "TARİH"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z4c5drifh",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Somme Muharebesi ne kadar süre devam etmiştir?",
+    "explanation": "Somme Muharebesi Temmuz 1916 ile Kasım 1916 arasında yaklaşık 4 ay sürmüştür.",
+    "options": [
+      "1 ay",
+      "4 ay",
+      "8 ay",
+      "12 ay"
+    ],
+    "correctAnswer": "4 ay",
+    "tags": [
+      "TARİH"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vyiusoh9h",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Versay Barış Antlaşması ne zaman imzalanmıştır?",
+    "explanation": "Versay Barış Antlaşması 28 Haziran 1919'da imzalanmış ve I.Dünya Savaşı'na son verilmiştir.",
+    "options": [
+      "1915",
+      "1917",
+      "1918",
+      "1919"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "TARİH"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fdx4rvstt",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "I.Dünya Savaşı toplam kaç yıl sürmüştür?",
+    "explanation": "I.Dünya Savaşı 1914'ten 1918'e kadar toplam 4 yıl sürmüştür.",
+    "options": [
+      "3 yıl",
+      "4 yıl",
+      "5 yıl",
+      "6 yıl"
+    ],
+    "correctAnswer": "4 yıl",
+    "tags": [
+      "TARİH"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "554oykqir",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı hangi tarihlerde gerçekleşmiştir?",
+    "explanation": "Dünya Savaşı, 28 Temmuz 1914'te Avusturya-Macaristan'ın Sırbistan'a saldırısı ile başladı ve 11 Kasım 1918'de Compiègne Mütarekesi ile sona ermiştir.",
+    "options": [
+      "1914-1917",
+      "1914-1918",
+      "1915-1919",
+      "1913-1918"
+    ],
+    "correctAnswer": "1914-1918",
+    "tags": [
+      "tarih",
+      "dünya savaşı",
+      "temel bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vzsmo8p8b",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı'nın ilk büyük deniz muharebesi hangisidir?",
+    "explanation": "Jütland Muharebesi, 31 Mayıs - 1 Haziran 1916 tarihleri arasında İngiltere ve Almanya donanmaları arasında gerçekleşen ilk büyük deniz muharebesidir.",
+    "options": [
+      "Jütland Muharebesi",
+      "Gallipoli Muharebesi",
+      "Somme Muharebesi",
+      "Verdun Muharebesi"
+    ],
+    "correctAnswer": "Jütland Muharebesi",
+    "tags": [
+      "deniz savaşı",
+      "muharebe",
+      "tarifi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "obtcvxvnh",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EASY",
+    "question": "Dünya Savaşı'na son veren antlaşma hangisidir?",
+    "explanation": "Compiègne Mütarekesi, 11 Kasım 1918'de General Foch tarafından imzalanan ve Dünya Savaşı'na son veren mütareke anlaşmasıdır.",
+    "options": [
+      "Versay Antlaşması",
+      "Compiègne Mütarekesi",
+      "Trianon Antlaşması",
+      "Sevr Antlaşması"
+    ],
+    "correctAnswer": "Compiègne Mütarekesi",
+    "tags": [
+      "antlaşma",
+      "dünya savaşı",
+      "bitiş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "72fptbs6l",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dünya Savaşı sırasında hangi ülke 'Yıldızlı Devletler' bloğuna katılmıştır?",
+    "explanation": "Dünya Savaşı'nda 'Yıldızlı Devletler' (Entant) bloğuna Fransa, İngiltere, Rusya ve ABD gibi ülkeler katılmıştır. Ancak 1917'de Rus İhtilali sonrası Rusya bu bloktan çekilmiştir.",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "Rusya",
+      "Türkiye"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "bloklar",
+      "russiya",
+      "uluslararası ilişkiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n61yenywj",
+    "category": "TARİH",
+    "subcategory": "I. Dünya Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Dünya Savaşı'nın en uzun süren topçu bombardımanı hangi muharebede gerçekleşmiştir?",
+    "explanation": "Somme Muharebesi, 1 Temmuz 1916'da başlayan ve yaklaşık bir yıl süren en uzun topçu bombardımanı ile ünlüdür. Bu muharebede iki ülke arasında yaklaşık 250 km²'lik alan bombalandı.",
+    "options": [
+      "Verdun",
+      "Somme",
+      "Gallipoli",
+      "Jütland"
+    ],
+    "correctAnswer": "Somme",
+    "tags": [
+      "topçu bombardımanı",
+      "muharebe",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

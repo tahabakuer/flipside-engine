@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "w96oiqv4o",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Gram staining method is based on which structure?",
+    "explanation": "Gram staining differentiates bacteria based on the thickness of their peptidoglycan cell wall. Gram-positive bacteria have a thick layer, while Gram-negative have a thinner one.",
+    "options": [
+      "Bacterial cell wall thickness",
+      "Nucleus structure",
+      "Mitochondrial count",
+      "Ribosome size"
+    ],
+    "correctAnswer": "Bacterial cell wall thickness",
+    "tags": [
+      "bacteria",
+      "gram staining",
+      "microbiology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uleupm3tf",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is a common mechanism for bacterial antibiotic resistance?",
+    "explanation": "Beta-lactamase enzymes break down beta-lactam antibiotics like penicillin, rendering them ineffective. This is a widespread resistance mechanism in bacteria.",
+    "options": [
+      "Beta-lactamase enzyme production",
+      "Cell membrane permeability increase",
+      "Ribosomal protein synthesis enhancement",
+      "Flagellar movement activation"
+    ],
+    "correctAnswer": "Beta-lactamase enzyme production",
+    "tags": [
+      "antibiotics",
+      "resistance",
+      "enzymes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qq4gv6qhp",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Which step is critical for the lytic cycle of a bacteriophage?",
+    "explanation": "In the lytic cycle, the bacteriophage replicates its genome and produces viral components before lysing the host cell. Integration into the host genome occurs in the lysogenic cycle.",
+    "options": [
+      "Integration into host genome",
+      "Synthesis of viral DNA and proteins",
+      "Formation of spores",
+      "Production of antibiotics"
+    ],
+    "correctAnswer": "Synthesis of viral DNA and proteins",
+    "tags": [
+      "viruses",
+      "bacteriophage",
+      "lytic cycle"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gvu7pxwdz",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Fungi are primarily classified based on their:",
+    "explanation": "Mycologists classify fungi mainly by the types of spores they produce and their reproductive methods, such as sexual or asexual reproduction.",
+    "options": [
+      "Cell wall composition",
+      "Reproductive structures",
+      "Motility type",
+      "Metabolic rate"
+    ],
+    "correctAnswer": "Reproductive structures",
+    "tags": [
+      "fungi",
+      "classification",
+      "reproduction"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gtpehqjha",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Polymerase chain reaction (PCR) is most commonly used for:",
+    "explanation": "PCR is a laboratory technique used to amplify small amounts of DNA into millions of copies, essential for genetic testing and research.",
+    "options": [
+      "Antibiotic synthesis",
+      "Amplification of specific DNA sequences",
+      "Viral culture",
+      "Bacterial staining"
+    ],
+    "correctAnswer": "Amplification of specific DNA sequences",
+    "tags": [
+      "PCR",
+      "DNA amplification",
+      "molecular biology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8586ayl1t",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Which of the following best describes a key difference between prokaryotic and eukaryotic cells in microbiology?",
+    "explanation": "Eukaryotic cells lack membrane-bound organelles, but prokaryotes also lack a true nucleus and divide via binary fission. Both contain DNA, making the first option incorrect.",
+    "options": [
+      "Prokaryotes have membrane-bound organelles",
+      "Eukaryotes lack a nucleus",
+      "Prokaryotes do not contain DNA",
+      "Eukaryotes divide by binary fission"
+    ],
+    "correctAnswer": "Prokaryotes do not contain DNA",
+    "tags": [
+      "Cell Structure",
+      "Prokaryotes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "awrol50ia",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "What is the primary mechanism by which bacteria develop antibiotic resistance through horizontal gene transfer?",
+    "explanation": "Conjugation involves the transfer of plasmids between bacteria through direct physical contact, whereas transformation and transduction are other forms but less common for antibiotic resistance.",
+    "options": [
+      "Mutation in chromosomal DNA",
+      "Transformation via plasmids",
+      "Transduction through bacteriophages",
+      "Conjugation via direct contact"
+    ],
+    "correctAnswer": "Conjugation via direct contact",
+    "tags": [
+      "Antibiotic Resistance",
+      "Gene Transfer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "03pwq80i1",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Which virus replication cycle results in immediate lysis of host cells after infection?",
+    "explanation": "The lytic cycle causes rapid viral replication and host cell lysis, while latent cycles involve dormancy without immediate destruction.",
+    "options": [
+      "Latent cycle",
+      "Lytic cycle",
+      "Integration cycle",
+      "Recombination cycle"
+    ],
+    "correctAnswer": "Lytic cycle",
+    "tags": [
+      "Virology",
+      "Replication Cycles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4xd3xzrec",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "In human microbiology, which fungal infection is most commonly associated with immunocompromised states?",
+    "explanation": "Candidiasis is a systemic fungal infection prevalent in immunocompromised individuals, unlike superficial infections like athlete's foot.",
+    "options": [
+      "Athlete's foot",
+      "Candidiasis",
+      "Ringworm",
+      "Tinea capitis"
+    ],
+    "correctAnswer": "Candidiasis",
+    "tags": [
+      "Fungal Pathogens",
+      "Immunology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k6esclwep",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "What role do extremophilic microorganisms play in biotechnology?",
+    "explanation": "Extremophiles produce stable enzymes for industrial processes like PCR (Taq polymerase), which function in high temperatures.",
+    "options": [
+      "Producing renewable energy",
+      "Enzymatic stability in harsh conditions",
+      "Vaccine development",
+      "Antibiotic synthesis"
+    ],
+    "correctAnswer": "Enzymatic stability in harsh conditions",
+    "tags": [
+      "Biotechnology",
+      "Extremophiles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ac4h17efh",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Mikrobiyolojide sterilizasyon yöntemlerinden hangisi etkenli maddeleri öldürmek için en yüksek sıcaklığı kullanır?",
+    "explanation": "Autoklav, 121°C sıcaklıkta ve basınç altında çalışarak etkenli maddeleri (bakteri sporları dahil) etkili bir şekilde öldürür. Pastörizasyon daha düşük sıcaklık kullanır.",
+    "options": [
+      "Pastörizasyon",
+      "Autoklav",
+      "Kurutma",
+      "Filtrasyon"
+    ],
+    "correctAnswer": "Autoklav",
+    "tags": [
+      "mikrobiyoloji",
+      "sterilizasyon",
+      "otoklav"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3er1t4uz5",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi antibiyotik grubu bakterilerin DNA sentezini inhibe ederek etki gösterir?",
+    "explanation": "Fluorokinololler, bakterilerin DNA giraz enzimini inhibe ederek DNA sentezini ve replikasyonunu durdurur. Penisilinler ve sefalosporinler hücre duvarı sentezini, glikopeptidler ise protein sentezini etkiler.",
+    "options": [
+      "Penisilinler",
+      "Sefalosporinler",
+      "Fluorokinololler",
+      "Glikopeptidler"
+    ],
+    "correctAnswer": "Fluorokinololler",
+    "tags": [
+      "mikrobiyoloji",
+      "antibiyotik",
+      "DNA sintezi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rfk4222wk",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mikrobiyolojide koloni sayımında hangisi en yaygın kullanılan besiyeri türüdür?",
+    "explanation": "Nutrient agar, genel bakteri yetiştiriciliği için en yaygın kullanılan besiyeridir. Laktik asit agar laktobasiluslar için, kırmızı kan agar hemolitik özellikleri gösteren bakteriler için kullanılır.",
+    "options": [
+      "Sabunlu agar",
+      "Nutrient agar",
+      "Laktik asit agar",
+      "Kırmızı kan agar"
+    ],
+    "correctAnswer": "Nutrient agar",
+    "tags": [
+      "mikrobiyoloji",
+      "besiyeri",
+      "nutrient agar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ml5ji8v9p",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi mikroorganizma türü HIV/AIDS hastalığına neden olur?",
+    "explanation": "HIV, İnsan İmmün Yetmezlik Virüsü olarak adlandırılan bir retrovirüstür. Bakteriler ve parazitler farklı hastalıklara neden olur.",
+    "options": [
+      "Bakteri",
+      "Virus",
+      "Parazit",
+      "Mantar"
+    ],
+    "correctAnswer": "Virus",
+    "tags": [
+      "mikrobiyoloji",
+      "hastalık",
+      "HIV"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m0wg7enta",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mikrobiyolojide hangisi en küçük prokaryot hücreleri ifade eder?",
+    "explanation": "Bakteriler, ark'lar gibi diğer prokaryotlara göre daha küçük hücrelere sahiptir. Ark'lar genellikle bakterilerden daha büyük ve daha yavaş büyüyen prokaryotlardır.",
+    "options": [
+      "Bakteri",
+      "Ark",
+      "Mantar",
+      "Protozoa"
+    ],
+    "correctAnswer": "Bakteri",
+    "tags": [
+      "mikrobiyoloji",
+      "hücre türü",
+      "prokaryot"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1fe90jf6z",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mikrobiyolojide 'koloni sayısı' (CFU) nedir?",
+    "explanation": "CFU (Colony Forming Unit) = Koloni Oluşturan Birim, kültür ortamında tek bir bakteriden veya birkaç bakteriden oluşan görünen koloniyi ifade eder.",
+    "options": [
+      "Tek bir bakteri hücresi",
+      "Bir bakterinin ürettiği protein miktarı",
+      "Kültür ortamında görülen tek bir bakteriden oluşan görünen grup",
+      "Bakterilerin DNA yapısı"
+    ],
+    "correctAnswer": "Kültür ortamında görülen tek bir bakteriden oluşan görünen grup",
+    "tags": [
+      "mikrobiyoloji",
+      "kültür teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jyex03s3g",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi bakteri türü 'spora' oluşturabilen mikroorganizmadır?",
+    "explanation": "Bacillus ve Clostridium türleri spora oluşturabilen bakterilerdir. Bacillus subtilis, spore oluşturma yeteneğine sahip Gram pozitif bir bakteridir.",
+    "options": [
+      "E. coli",
+      "Staphylococcus aureus",
+      "Bacillus subtilis",
+      "Streptococcus pneumoniae"
+    ],
+    "correctAnswer": "Bacillus subtilis",
+    "tags": [
+      "mikrobiyoloji",
+      "bakteri türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s35fh7svd",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Mikrobiyolojik analizde 'Gram boyama' yöntemi hangi yapıya dayanır?",
+    "explanation": "Gram boyaması, Gram pozitif bakterilerin kalın peptidoglikan duvarının mor kristal boya tutması ve Gram negatif bakterilerin ince duvarının kırmızı konji boya almasına dayanır.",
+    "options": [
+      "Bakteri hücre duvarının kalınlığı",
+      "Bakterinin DNA miktarı",
+      "Bakterinin üreme hızı",
+      "Bakterinin protein içeriği"
+    ],
+    "correctAnswer": "Bakteri hücre duvarının kalınlığı",
+    "tags": [
+      "mikrobiyoloji",
+      "boyama teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ljtiei7n2",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "'Katalaz testi' hangi bakteri türünü ayırt etmek için kullanılır?",
+    "explanation": "Katalaz testi, Staphylococcus (katalaz pozitif) ve Streptococcus (katalaz negatif) türlerini ayırt etmek için kullanılır. Hidrojen peroksit parçlama yeteneği katalaz enzimi ile yapılır.",
+    "options": [
+      "Staphylococcus - Streptococcus",
+      "E. coli - Salmonella",
+      "Bacillus - Clostridium",
+      "Pseudomonas - Proteus"
+    ],
+    "correctAnswer": "Staphylococcus - Streptococcus",
+    "tags": [
+      "mikrobiyoloji",
+      "biyokimyasal testler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r1k4lpjs3",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Mikrobiyolojide 'anaerob' nedir?",
+    "explanation": "Anaerob (oksijen yok), oksijeni kullanmadan veya toksik etkisi altında üreyen mikroorganizmalardır. Örneğin: Clostridium, Bacteroides gibi.",
+    "options": [
+      "Oksijensiz ortamda üreyen mikroorganizmalar",
+      "Sadece oksijenli ortamlarda üreyenler",
+      "Hızlı üreyen bakteriler",
+      "Vitamin üreten mikroorganizmalar"
+    ],
+    "correctAnswer": "Oksijensiz ortamda üreyen mikroorganizmalar",
+    "tags": [
+      "mikrobiyoloji",
+      "metabolizm türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uyhadb8l3",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mikrobiyolojide bakterilerin çoğu hangi beslenme tipine sahiptir?",
+    "explanation": "Çoğu bakteri, organik bileşiklerden enerji ve karbon kaynağı olarak yararlanır. Heterotrof beslenme tipinde organik maddelerle beslenirler.",
+    "options": [
+      "Otrofik",
+      "Heterotrof",
+      "Ototrof",
+      "Kemoorganotrof"
+    ],
+    "correctAnswer": "Heterotrof",
+    "tags": [
+      "Bakteri",
+      "Beslenme",
+      "Mikrobiyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kjwli5u43",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangi virüs ailesi DNA içermektedir?",
+    "explanation": "Herpesviridae ailesi çift sarmallı DNA virüsleri içerir. Diğer seçeneklerdeki virüsler RNA virüsleridir.",
+    "options": [
+      "Retroviridae",
+      "Orthomyxoviridae",
+      "Herpesviridae",
+      "Picornaviridae"
+    ],
+    "correctAnswer": "Herpesviridae",
+    "tags": [
+      "Virüs",
+      "Nükleik Asit",
+      "Mikrobiyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ljl69mi8n",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Mantarların çoğu hangi yapıya sahiptir?",
+    "explanation": "Mantarların çoğu kitin içeren hücre duvarına sahiptir. Bu, bitki ve hayvan hücrelerinden ayırt edici özelliktir.",
+    "options": [
+      "Sitoplazma",
+      "Hücre Duvarı",
+      "Mitokondri",
+      "Ribozom"
+    ],
+    "correctAnswer": "Hücre Duvarı",
+    "tags": [
+      "Mantar",
+      "Hücre Yapısı",
+      "Mikrobiyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dd0ks3imz",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Antibiyotik direncinin gelişmesinde hangi mekanizma etkilidir?",
+    "explanation": "Bakteriler arasında gen transferinin en yaygın yolu horizontal gen transferidir. Bu, antibiyotik direnç genlerinin paylaşılmasını sağlar.",
+    "options": [
+      "Genetik Mutasyon",
+      "Horizontal Gen Transfer",
+      "Transkripsiyon",
+      "Çevresel Faktörler"
+    ],
+    "correctAnswer": "Horizontal Gen Transfer",
+    "tags": [
+      "Antibiyotik Direnci",
+      "Genetik",
+      "Mikrobiyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xj892m7z5",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi sterilizasyon yöntemi ısı kullanır?",
+    "explanation": "Otoklav yüksek basınç altında ısı kullanarak sterilizasyon yapar. Genellikle 121°C ve 15 psi'de çalışır.",
+    "options": [
+      "Filtrasyon",
+      "Otoklav",
+      "Işınlama",
+      "Kimyasal Gaz"
+    ],
+    "correctAnswer": "Otoklav",
+    "tags": [
+      "Sterilizasyon",
+      "Isı",
+      "Mikrobiyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37rz9yw4a",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mikrobiyolojide sterilizasyon sırasında en yüksek sıcaklıkta kullanılan yöntem hangisidir?",
+    "explanation": "Otoklav, mikrobiolojide en etkili sterilizasyon yöntemidir ve 121°C'de 15 psi basınçla kullanılır. Bu sıcaklık tüm mikroorganizmaların sporlarını öldürerek tam sterilite sağlar.",
+    "options": [
+      "Pastörizasyon",
+      "Otoklav (121°C, 15 psi)",
+      "Filtreleme",
+      "Sıcak hava fırını"
+    ],
+    "correctAnswer": "Otoklav (121°C, 15 psi)",
+    "tags": [
+      "mikrobiyoloji",
+      "sterilizasyon",
+      "laboratuvar teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cqx2wyni5",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi bakteriler oksijensiz ortamda yaşayıp enerji elde eder?",
+    "explanation": "Anaerob bakteriler oksijensiz ortamlarda yaşar ve enerji elde eder. Oksijenin yokluğunda elektron taşıma zincirini kullanırlar.",
+    "options": [
+      "Aeroblar",
+      "Anaeroblar",
+      "Facultatif anaeroblar",
+      "Mikroaerofiller"
+    ],
+    "correctAnswer": "Anaeroblar",
+    "tags": [
+      "mikrobiyoloji",
+      "bakteri sınıflandırması",
+      "metabolizma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0wiy033yf",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mikroskop altında gördüğümüz en küçük canlı birim hangisidir?",
+    "explanation": "Virüsler, mikroskobun altındaki en küçük canlı birimlerdir ancak tam olarak 'canlı' kabul edilmezler. Bakteriler ve arkeler daha büyüktür.",
+    "options": [
+      "Bakteri",
+      "Virus",
+      "Arkeler",
+      "Hücre"
+    ],
+    "correctAnswer": "Virus",
+    "tags": [
+      "mikrobiyoloji",
+      "virüsler",
+      "mikroskop"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pkifx5pcg",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangi antibiyotik grubu gram-negatif bakterilere karşı etkilidir?",
+    "explanation": "Gentamisin, aminoglikozid grubundaki antibiyotiktir ve özellikle gram-negatif bakterilere karşı etkilidir. Diğer seçenekler farklı spektrumlara sahiptir.",
+    "options": [
+      "Penisilin G",
+      "Sefalosporinler",
+      "Gentamisin",
+      "Kloramfenikol"
+    ],
+    "correctAnswer": "Gentamisin",
+    "tags": [
+      "mikrobiyoloji",
+      "antibiyotikler",
+      "Gram-negatif bakteriler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1zoyqsuxa",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Mikrobiyolojide Petri kasesi üzerinde koloni sayımı hangi yöntemle yapılır?",
+    "explanation": "Petri kasesinde koloni sayımı, mikroorganizma sayımının en yaygın ve güvenilir yöntemidir. Her koloni tek bir canlıdan türemiştir.",
+    "options": [
+      "Direkt mikroskop",
+      "Sıvı kültür",
+      "Koloni sayma (Plate count)",
+      "Biyokimyasal test"
+    ],
+    "correctAnswer": "Koloni sayma (Plate count)",
+    "tags": [
+      "mikrobiyoloji",
+      "koloni sayımı",
+      "Petri kasesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ausquyazr",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi prokaryotik canlıdır?",
+    "explanation": "Bakteriler prokaryotik canlılardır, yani çekirdeksiz hücre yapısına sahiptirler. Virüsler ise canlı değildir, mantarlar eukaryotiktir.",
+    "options": [
+      "Virus",
+      "Bakteri",
+      "Mantar",
+      "Arkea"
+    ],
+    "correctAnswer": "Bakteri",
+    "tags": [
+      "mikrobiyoloji",
+      "hücre-tipi",
+      "prokaryotik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q8fgfcwaa",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi bakteri türü laktik asit üretir ve gıda endüstrisinde yaygın kullanılır?",
+    "explanation": "Lactobacillus türleri laktik asit fermentasyonu yaparak yoğurt, turşu gibi gıdalarda yaygın kullanılır. E. coli ve Salmonella ise patojendir.",
+    "options": [
+      "E. coli",
+      "Lactobacillus",
+      "Staphylococcus aureus",
+      "Salmonella"
+    ],
+    "correctAnswer": "Lactobacillus",
+    "tags": [
+      "gıda-mikrobiyolojisi",
+      "bakteri-türleri",
+      "laktik-asit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oo3ou0w6t",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi viral bir mikrobiyal ajan olarak sınıflandırılır?",
+    "explanation": "Bacteriophage (bakteriyofaj) bakterileri enfekte eden viral bir mikrobiyal ajandır. Diğer seçenekler bakteri türleridir.",
+    "options": [
+      "Mycoplasma",
+      "Bacteriophage",
+      "Rickettsia",
+      "Chlamydia"
+    ],
+    "correctAnswer": "Bacteriophage",
+    "tags": [
+      "virüsler",
+      "mikrobiyal-ajanlar",
+      "bakteriyofaj"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "japr09ukp",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangi antibiyotik sınıfı hücre duvar sentezini inhibe ederek çalışır?",
+    "explanation": "Penisilin ve beta-laktamlar hücre duvar sentezini inhibe ederek çalışır. Siprofloksasin DNA girazına, Vankomisin ise dipeptitlere bağlanarak etki gösterir.",
+    "options": [
+      "Siprofloksasin",
+      "Penisilin",
+      "Rifampisin",
+      "Vankomisin"
+    ],
+    "correctAnswer": "Penisilin",
+    "tags": [
+      "antibiyotik",
+      "mekanizma",
+      "duvar-sentezi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y4y0y7dyq",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangi besiyer türü kanı içerir ve hemoliz özelliği için kullanılır?",
+    "explanation": "Blood Agar (Kan Agar) kanı içerir ve Staphylococcus, Streptococcus gibi bakterilerin hemoliz özelliğini belirlemek için kullanılır.",
+    "options": [
+      "TSA",
+      "MacConkey",
+      "Blood Agar",
+      "Sabouraud"
+    ],
+    "correctAnswer": "Blood Agar",
+    "tags": [
+      "besiyer-türleri",
+      "hemoliz",
+      "kan-besiyeri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1p6uww6n6",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki bakteriyal yapıdan hangisi, antibiyotikler tarafından hedeflenen ve hücre duvarı sentezini inhibe eden en önemli bileşendir?",
+    "explanation": "Peptidoglikan, bakteriyal hücre duvarının ana yapısal bileşenidir ve peptidoglikan sentetaz inhibitörleri (penisilin, vankomisin gibi) bu yolla antibakteriyel etki gösterir.",
+    "options": [
+      "Ribozom",
+      "Nükleotid",
+      "Peptidoglikan",
+      "Lipopolisakkarit"
+    ],
+    "correctAnswer": "Peptidoglikan",
+    "tags": [
+      "Mikrobiyoloji",
+      "Bakteri Yapısı",
+      "Antibiyotik Hedefi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9x1f69ag",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mikrobiyal laboratuvarda, canlı mikroorganizmaları gözlemlemek için en uygun mikroskopi tekniği hangisidir?",
+    "explanation": "Faze kontrast mikroskopisi, canlı hücrelerin doğal görünümünü koruyarak gözlemlemeyi sağlar. Elektron mikroskopisi ise ölü ve özel preparasyon gerektirir.",
+    "options": [
+      "Elektron Mikroskopisi",
+      "Fluoresans Mikroskopisi",
+      "Faze Kontrast Mikroskopisi",
+      "Karanlık Alan Mikroskopisi"
+    ],
+    "correctAnswer": "Faze Kontrast Mikroskopisi",
+    "tags": [
+      "Mikroskopi",
+      "Laboratuvar Teknikleri",
+      "Mikroorganizma Gözlemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ra650j3c8",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Antibiyotik direncinin en yaygın mekanizmalarından biri olan 'genetik mutasyon' sonucu ortaya çıkan en önemli durum nedir?",
+    "explanation": "Ribozom modifikasyonu, antibiyotiklerin ribozoma bağlanmasını engelleyen en yaygın direnç mekanizmalarından biridir. Örnek: makrolid direncinde metiltransferaz enzimi.",
+    "options": [
+      "Hücre duvarı kalınlaşması",
+      "Ribozom modifikasyonu",
+      "Yumuşak DNA polimeraz aktivitesi",
+      "Glikoziltransferaz inhibisyonu"
+    ],
+    "correctAnswer": "Ribozom modifikasyonu",
+    "tags": [
+      "Antibiyotik Direnci",
+      "Mekanizma",
+      "Genetik Mutasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k27zxwrwo",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Viral replikasyon döngüsünde, virüsün konak hücre DNA'sına entegre olduğu aşama hangisidir?",
+    "explanation": "Entegrasyon, retrovirüslerin ve bazı bakteriyofajların konak hücre DNA'sına kalıcı olarak entegre olduğu aşamadır. Bu durum lizojenik döngünün başlangıcını oluşturur.",
+    "options": [
+      "Adsorpsiyon",
+      "Penetrasyon",
+      "Entegrasyon",
+      "Lizogeni"
+    ],
+    "correctAnswer": "Entegrasyon",
+    "tags": [
+      "Viroloji",
+      "Replikasyon Döngüsü",
+      "Konak Hücre Entegrasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b6s9d4ozl",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Laboratuvarda sterilizasyon için 'kuru ısı' yöntemi hangi sıcaklıkta ve sürede uygulanır?",
+    "explanation": "Kuru ısı sterilizasyonu (fırn ile), 160-170°C arası sıcaklıkta 2 saat uygulanarak yapılır. Bu yöntem, ısıya dayanıklı cam ve metal aletler için uygundur.",
+    "options": [
+      "121°C, 15 dakika",
+      "160°C, 2 saat",
+      "134°C, 30 dakika",
+      "150°C, 1 saat"
+    ],
+    "correctAnswer": "160°C, 2 saat",
+    "tags": [
+      "Sterilizasyon",
+      "Kuru Isı",
+      "Laboratuvar Teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ekwhnxc92",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi mikroorganizma grubu, oksijensiz koşullarda yaşamayı tercih eder?",
+    "explanation": "Anerobik bakteriler, oksijenli ortamda yaşayamaz ve oksijensiz (anaerobik) koşullarda üreyebilirler. Aerobik bakteriler ise oksijene ihtiyaç duyar.",
+    "options": [
+      "Aerobik bakteriler",
+      "Anerobik bakteriler",
+      "Küf mantarları",
+      "Viruslar"
+    ],
+    "correctAnswer": "Anerobik bakteriler",
+    "tags": [
+      "Bakteri",
+      "Metabolizma",
+      "Mikrobiyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ykdt06tw9",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mikrobiyolojide 'sterilizasyon' işlemi neyi ifade eder?",
+    "explanation": "Sterilizasyon, tüm canlı mikroorganizmaların (bakteri, mantar, virus) ve endüre olan sporların tamamen yok edilmesini sağlayan işlem olarak tanımlanır.",
+    "options": [
+      "Araçları boyama",
+      "Tüm mikroorganizma ve sporların yok edilmesi",
+      "Sadece patojen bakterilerin ölümsü olması",
+      "Mikropları büyütme işlemi"
+    ],
+    "correctAnswer": "Tüm mikroorganizma ve sporların yok edilmesi",
+    "tags": [
+      "Sterilizasyon",
+      "Laboratuvar",
+      "Enfeksiyon Kontrolü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5z6tw5tsd",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangi virüs grubu, DNA yapısına sahiptir?",
+    "explanation": "Poxvirüsler, RNA yerine çift helisli DNA yapıya sahip olan nadir virüs grubudur. Diğer seçenekler (Retrovirüsler, Calicivirüsler, Picornavirüsler) RNA'lı virüslere aittir.",
+    "options": [
+      "Retrovirüsler",
+      "Poxvirüsler",
+      "Calicivirüsler",
+      "Picornavirüsler"
+    ],
+    "correctAnswer": "Poxvirüsler",
+    "tags": [
+      "Virus",
+      "Nükleik Asit",
+      "Mikroviroloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3eocobf6c",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Biyolojik göstergede kullanılan 'Geobacillus stearothermophilus' neden tercih edilir?",
+    "explanation": "Geobacillus stearothermophilus, yüksek sıcaklıkta (60-70°C) spor oluşturabilen termofilik bir bakteridir. Otoklav sterilizasyonunun etkinliğini test etmede kullanılır.",
+    "options": [
+      "Çok hızlı üremesi",
+      "Spor oluşturma yeteneği ve yüksek sıcaklık toleransı",
+      "İnsan patogenezine sahip olması",
+      "Düşük besin gereksinimi"
+    ],
+    "correctAnswer": "Spor oluşturma yeteneği ve yüksek sıcaklık toleransı",
+    "tags": [
+      "Sterilizasyon Kontrolü",
+      "Biyolojik Göstergeler",
+      "Endüstri Mikrobiyolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ujvy4cvt5",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi antibiyotik grubu, bakteri hücre duvarı sentezini inhibe eder?",
+    "explanation": "Penisilinler, peptidoglikan sentezini bloke ederek bakteri hücre duvarı oluşumunu inhibe eder. Siprofloksasinler DNA giraz inhibitorudur, Sülfonamidler folik asit sentezini, Aminoglikozidler ise protein sentezini etkiler.",
+    "options": [
+      "Penisilinler",
+      "Siprofloksasinler",
+      "Sülfonamidler",
+      "Aminoglikozidler"
+    ],
+    "correctAnswer": "Penisilinler",
+    "tags": [
+      "Antibiyotik",
+      "Hücre Duvarı",
+      "Farmakoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0roc37byt",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi bakteri yapısı, Gram boyama yönteminde mor renk alarak Gram pozitif olarak sınıflandırılır?",
+    "explanation": "Staphylococcus aureus, kalın peptidoglikan tabakaya sahip Gram pozitif bakteridir ve Gram boyamasında mor renk alırken, E. coli, Salmonella typhi ve Pseudomonas aeruginosa Gram negatif bakterilerdir.",
+    "options": [
+      "E. coli",
+      "Staphylococcus aureus",
+      "Salmonella typhi",
+      "Pseudomonas aeruginosa"
+    ],
+    "correctAnswer": "Staphylococcus aureus",
+    "tags": [
+      "Mikrobiyoloji",
+      "Gram Boyama",
+      "Bakteri Sınıflandırması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8tx39rcuo",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki sterilizasyon yöntemlerinden hangisi en yüksek etkililikte bulunur?",
+    "explanation": "Otoklav, 121°C'de 15 psi basınç altında çalışarak maddelerin içindeki mikroorganizmaların sporlarını bile yok eder. Filtreleme sadece büyük bakteri ve mantarları tutar, kuru ısı daha yavaş etkilidir.",
+    "options": [
+      "Otoklav",
+      "Filtreleme",
+      "Kuru Isı",
+      "Kimyasal Gaz"
+    ],
+    "correctAnswer": "Otoklav",
+    "tags": [
+      "Mikrobiyoloji",
+      "Sterilizasyon",
+      "Laboratuvar Teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qhrvny8ye",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Antibiyotik dirençli bakterilerde en yaygın olarak görülen mekanizma hangisidir?",
+    "explanation": "Plazidler, bakteriler arasında antibiyotik direnç genlerinin taşınmasını sağlayan dairesel DNA molekülleridir. Bu mekanizma, dirençli bakterilerin diğer bakterilere gen transferi yaparak yayılmasını sağlar.",
+    "options": [
+      "Hızlı bölünme",
+      "Gen transferi (plazid)",
+      "Düzenli beslenme",
+      "Yüksek sıcaklık toleransı"
+    ],
+    "correctAnswer": "Gen transferi (plazid)",
+    "tags": [
+      "Mikrobiyoloji",
+      "Antibiyotik Direnci",
+      "Genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmouh2772",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi bakteri türü anaerobik (oksijensiz) ortamda gelişir?",
+    "explanation": "Clostridium türleri anaerobik bakterilerdir ve oksijensiz ortamlarda gelişir. Streptococcus pneumoniae, Bacillus subtilis ve Escherichia coli aerobik veya fakultatif anaerobiktir.",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Clostridium tetani",
+      "Bacillus subtilis",
+      "Escherichia coli"
+    ],
+    "correctAnswer": "Clostridium tetani",
+    "tags": [
+      "Mikrobiyoloji",
+      "Anaerobik Bakteriler",
+      "Patojenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yidaxfc4w",
+    "category": "BİLİM",
+    "subcategory": "Mikrobiyoloji",
+    "difficulty": "EXPERT",
+    "question": "Mikrobiyolojik kültürde koloni sayımı yapılırken hangi dilim tercih edilir?",
+    "explanation": "30-300 arası koloni sayımı, en doğru ve güvenilir sonuçları verir. 10-20 koloni yetersiz veri sağlarken, 500-1000 koloni aşırı yoğunluk nedeniyle sayım hatasına yol açar.",
+    "options": [
+      "30-300 koloni",
+      "10-20 koloni",
+      "500-1000 koloni",
+      "1-5 koloni"
+    ],
+    "correctAnswer": "30-300 koloni",
+    "tags": [
+      "Mikrobiyoloji",
+      "Kültür Teknikleri",
+      "Sayım Yöntemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

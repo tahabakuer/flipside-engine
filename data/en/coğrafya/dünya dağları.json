@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "h2ik4lrwb",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünyanın en yüksek dağı hangisidir?",
+    "explanation": "Mount Everest, Himalaya Dağları'nda yer alır ve Dünya'nın en yüksek noktasıdır. Deniz seviyesinden 8.849 metre yüksekliğindedir.",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Denali",
+      "Elbrus"
+    ],
+    "correctAnswer": "Mount Everest",
+    "tags": [
+      "dağlar",
+      "yükseklik",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3tu953gr1",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "And Dağları hangi kıtada bulunur?",
+    "explanation": "And Dağları, Güney Amerika kıtasının batı kenarında uzanır ve dünyanın en uzun dağ zinciridir.",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Güney Amerika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Güney Amerika",
+    "tags": [
+      "dağlar",
+      "kıta",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6x51fuhpg",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Himalaya Dağları hangi iki ülke sınırlarını oluşturur?",
+    "explanation": "Himalaya Dağları, Çin ve Hindistan sınırlarının önemli bir bölümünü oluşturur ve en yüksek dağ zirvelerini barındırır.",
+    "options": [
+      "Türkiye - İran",
+      "Çin - Hindistan",
+      "ABD - Kanada",
+      "Rusya - Polonya"
+    ],
+    "correctAnswer": "Çin - Hindistan",
+    "tags": [
+      "dağlar",
+      "sınır",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p7r0syr5k",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Kıbrıs adasında bulunan en yüksek nokta hangisidir?",
+    "explanation": "Kokreş Tepesi, Kıbrıs adasının en yüksek noktasıdır ve 1.024 metre yüksekliğindedir.",
+    "options": [
+      "Mount Olympus",
+      "Turuncular Tepesi",
+      "Kokreş Tepesi",
+      "Ağrı Dağı"
+    ],
+    "correctAnswer": "Kokreş Tepesi",
+    "tags": [
+      "dağlar",
+      "Kıbrıs",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "59wepp3oz",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Alp Dağları hangi kıtada yer alır?",
+    "explanation": "Alp Dağları, Avrupa kıtasında bulunan önemli bir dağ zinciridir ve Fransa, İsviçre, İtalya gibi ülkeleri kapsar.",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Afrika",
+      "Okyanusya"
+    ],
+    "correctAnswer": "Avrupa",
+    "tags": [
+      "dağlar",
+      "Alpler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iiy51dbel",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Hangi dünya dağı, Güney Amerika kıtasında yer alır ve 'Günlük Dağ' anlamına gelen isimle bilinir?",
+    "explanation": "And Dağları, Güney Amerika kıtasında yer alan en uzun dağ sırası olup 'And' ismi Günlük Dağ anlamına gelir. Afrika'nın güneydoğu kesimini kapsar.",
+    "options": [
+      "And Dağları",
+      "Atlas Dağları",
+      "Himalaya Dağları",
+      "Alp Dağları"
+    ],
+    "correctAnswer": "And Dağları",
+    "tags": [
+      "coğrafya",
+      "dünya dağları",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "66n8e4ve7",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Himalaya Dağları hangi iki ülkenin sınırlarında konumlanmıştır?",
+    "explanation": "Himalaya Dağları, Asya kıtasında Çin'in güneydoğu kesimini kapsar. Dünya'nın en yüksek zirvesi olan Everest dağının da bu sırada yer alır.",
+    "options": [
+      "Türkiye ve İran",
+      "Çin ve Hindistan",
+      "Rusya ve Ukrayna",
+      "Brezilya ve Arjantin"
+    ],
+    "correctAnswer": "Çin ve Hindistan",
+    "tags": [
+      "coğrafya",
+      "himalaya",
+      "asia"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wpjkp6ycw",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Alp Dağları hangi kıtada bulunur ve kaç ülkenin sınırlarını kapsar?",
+    "explanation": "Alp Dağları, Avrupa kıtasında bulunur ve Fransa, İtalya, İsviçre, Avusturya, Almanya, Slovenya, Lichtenstein ve İtalya'nın sınırlarını kapsayan 8 ülkenin dağlarını içerir.",
+    "options": [
+      "Avrupa, 8 ülke",
+      "Asya, 6 ülke",
+      "Afrika, 4 ülke",
+      "Güney Amerika, 5 ülke"
+    ],
+    "correctAnswer": "Avrupa, 8 ülke",
+    "tags": [
+      "coğrafya",
+      "alp dağları",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "60y6i4wps",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Atlas Dağları hangi kıtada yer alır ve Afrika'nın hangi bölgesini kapsar?",
+    "explanation": "Atlas Dağları, Afrika kıtasında yer alır ve özellikle Kuzey Afrika bölgesini kapsar. Atlas ismi 'Kavak' anlamına gelir.",
+    "options": [
+      "Asya, kuzey afrika",
+      "Avrupa, batı afrika",
+      "Afrika, kuzey afrika",
+      "Güney Amerika, güney afrika"
+    ],
+    "correctAnswer": "Afrika, kuzey afrika",
+    "tags": [
+      "coğrafya",
+      "atlas dağları",
+      "afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kjh0yyxaq",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Dünya'nın en yüksek zirvesi Everest hangi dağ sırasındadır?",
+    "explanation": "Everest dağı, Himalaya Dağları'nda yer alır ve Dünya'nın en yüksek zirvesidir. 8849 metre yüksekliğe sahiptir.",
+    "options": [
+      "And Dağları",
+      "Himalaya Dağları",
+      "Alp Dağları",
+      "Atlas Dağları"
+    ],
+    "correctAnswer": "Himalaya Dağları",
+    "tags": [
+      "coğrafya",
+      "everest",
+      "himalaya",
+      "en yüksek zirve"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eycro4d0v",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünyanın en yüksek dağı hangisidir?",
+    "explanation": "Everest, Himalaya Dağları'nda bulunan ve 8.849 metre yüksekliğe sahip dünyanın en yüksek dağıdır.",
+    "options": [
+      "K2",
+      "Everest",
+      "Kilimanjaro",
+      "Aconcagua"
+    ],
+    "correctAnswer": "Everest",
+    "tags": [
+      "Dağlar",
+      "Dünya Coğrafyası",
+      "En Yüksek Nokta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1qtm9hf75",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Anadolu'nun en yüksek dağları arasında hangisi yer alır?",
+    "explanation": "Ağrı Dağı, Türkiye'nin en yüksek dağıdır (5.137 metre) ve Erzurum ili sınırlarında yer alır.",
+    "options": [
+      "Uludağ",
+      "Erciyes",
+      "Ağrı Dağı",
+      "Taurus"
+    ],
+    "correctAnswer": "Ağrı Dağı",
+    "tags": [
+      "Anadolu",
+      "Dağlar",
+      "Uludağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3inrubtxu",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "And Dağları hangi kıtalarda bulunur?",
+    "explanation": "And Dağları Güney Amerika kıtasında yer alır ve dünyanın en uzun dağ zincirlerinden biridir.",
+    "options": [
+      "Avrupa",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Asya"
+    ],
+    "correctAnswer": "Güney Amerika",
+    "tags": [
+      "Dağlar",
+      "And Dağları",
+      "Kıtalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vo97qh2ph",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Atlas Dağları hangi bölgede konumlanmıştır?",
+    "explanation": "Atlas Dağları Kuzey Afrika'da konumlanır ve Fas, Cezayir, Mısır gibi ülkeleri kapsar.",
+    "options": [
+      "Himalaya",
+      "Anadolu",
+      "Afrika",
+      "Avustralya"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "Atlas Dağları",
+      "Dağlar",
+      "Afrika Coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7q22em6ax",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Dünya dağlarında en yüksek zirveler hangi dağ sisteminde toplanmıştır?",
+    "explanation": "Himalaya Dağları, Everest dahil dünyanın en yüksek zirvelerini barındırır ve en yüksek dağlık sistemdir.",
+    "options": [
+      "And Dağları",
+      "Alp Dağları",
+      "Himalaya Dağları",
+      "Atlas Dağları"
+    ],
+    "correctAnswer": "Himalaya Dağları",
+    "tags": [
+      "En Yüksek Zirveler",
+      "Himalaya",
+      "Dünya Coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a22nkvk9u",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en yüksek dağı hangisidir?",
+    "explanation": "Mount Everest, Himalaya dağlarının içinde bulunan ve 8.849 metre yüksekliğe sahip dünyanın en yüksek noktasıdır.",
+    "options": [
+      "K2",
+      "Everest",
+      "Kilimanjaro",
+      "Elbrus"
+    ],
+    "correctAnswer": "Everest",
+    "tags": [
+      "Dağlar",
+      "Everest",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7q58hzcg8",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Kilimanjaro dağı hangi kıtada yer alır?",
+    "explanation": "Kilimanjaro, Tanzanya'da bulunan ve Afrika kıtasının en yüksek dağıdır.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "Kilimanjaro",
+      "Afrika",
+      "Dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "auxnoret0",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Dünyanın en büyük volkanik yaylası hangisidir?",
+    "explanation": "And Dağları, Güney Amerika kıtasında bulunan ve dünyanın en büyük volkanik yaylasıdır.",
+    "options": [
+      "And Dağları",
+      "Rocky Dağları",
+      "Alp Dağları",
+      "Ural Dağları"
+    ],
+    "correctAnswer": "And Dağları",
+    "tags": [
+      "Volkanik Yayla",
+      "And",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "193o7t198",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Ural Dağları hangi iki ülke arasında konumlanmıştır?",
+    "explanation": "Ural Dağları, Rusya ve Kazakistan arasında bulunur ancak genel olarak Avrupa ve Asya kıtalarını ayıran dağ zinciridir.",
+    "options": [
+      "Türkiye - İran",
+      "Rusya - Ukrayna",
+      "Rusya - Çin",
+      "Kanada - ABD"
+    ],
+    "correctAnswer": "Rusya - Çin",
+    "tags": [
+      "Ural Dağları",
+      "Coğrafya",
+      "Dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z7kpstuq7",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünyanın en derin noktası olan Mariana Çukuru hangi okyanusta yer alır?",
+    "explanation": "Mariana Çukuru, Pasifik Okyanusunda bulunan ve dünyanın en derin noktasıdır.",
+    "options": [
+      "Hint Okyanusu",
+      "Arktik Okyanusu",
+      "Atlas Okyanusu",
+      "Pasifik Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "Mariana Çukuru",
+      "Okyanuslar",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "prdolhy1i",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünya'nın en yüksek dağı hangisidir?",
+    "explanation": "Everest, Himalaya Dağları'nda bulunan ve 8.849 metre yüksekliğe sahip dünyanın en yüksek dağıdır.",
+    "options": [
+      "Everest",
+      "Kilimanjaro",
+      "Fuji",
+      "Mont Blanc"
+    ],
+    "correctAnswer": "Everest",
+    "tags": [
+      "dağlar",
+      "en yüksek",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nxd9qrsip",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Kilimanjaro dağı hangi ülkede yer almaktadır?",
+    "explanation": "Kilimanjaro, Tanzanya'nın kuzeydoğu kısmında bulunan ve 5.895 metre yüksekliğe sahip Afrikalı en yüksek dağıdır.",
+    "options": [
+      "Tanzanya",
+      "Kenya",
+      "Rwanda",
+      "Uganda"
+    ],
+    "correctAnswer": "Tanzanya",
+    "tags": [
+      "dağlar",
+      "ülkeler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wq8yo6uin",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Annapurna dağı hangi kıtada bulunur?",
+    "explanation": "Annapurna, Himalaya Dağları'nda bulunan ve Nepal'de yer alan Asya kıtasında 8.091 metre yüksekliğindedir.",
+    "options": [
+      "Asya",
+      "Avrupa",
+      "Güney Amerika",
+      "Antarktika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "dağlar",
+      "kıtalr",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ah2wzw2uo",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Dünya'nın en büyük dağ silsilesi hangisidir?",
+    "explanation": "And Dağları, Güney Amerika kıtasında bulunan ve 7.000 km uzunluğunda dünyanın en büyük dağ silsilesidir.",
+    "options": [
+      "And Dağları",
+      "Himalaya Dağları",
+      "Rocky Dağları",
+      "Alp Dağları"
+    ],
+    "correctAnswer": "And Dağları",
+    "tags": [
+      "dağ silsileleri",
+      "coğrafya",
+      "jeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4yhnlt02j",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Everest dağının bulunduğu en derin çukur hangisidir?",
+    "explanation": "Everest dünyanın en yüksek noktası iken, Mariana Çukuru 11.034 metre ile dünyanın en derin çukurudur.",
+    "options": [
+      "Mariana Çukuru",
+      "Java Çukuru",
+      "Puerto Rico Çukuru",
+      "Tonga Çukuru"
+    ],
+    "correctAnswer": "Mariana Çukuru",
+    "tags": [
+      "dağlar",
+      "çukurlar",
+      "okyanuslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1q3ecawiq",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünya'nın en yüksek dağı hangisidir?",
+    "explanation": "Everest Dağı, Himalaya Dağları sisteminde yer alır ve deniz seviyesinden 8.849 metre yüksekliğe sahiptir. Dünya'nın en yüksek noktasıdır.",
+    "options": [
+      "Everest Dağı",
+      "K2 Dağı",
+      "Kilimanjaro Dağı",
+      "Elbrus Dağı"
+    ],
+    "correctAnswer": "Everest Dağı",
+    "tags": [
+      "dağlar",
+      "coğrafya",
+      "en yüksek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fxb5repy6",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "K2 Dağı hangi dağ sistemi içinde bulunur?",
+    "explanation": "K2 Dağı, Karakorum Dağları'nın bir parçasıdır ve coğrafi olarak Himalaya Dağları sistemiyle ilişkilendirilir. Everest'ten sonra dünyanın ikinci en yüksek dağıdır.",
+    "options": [
+      "Alp Dağları",
+      "Himalaya Dağları",
+      "And Dağları",
+      "Atlas Dağları"
+    ],
+    "correctAnswer": "Himalaya Dağları",
+    "tags": [
+      "dağlar",
+      "coğrafya",
+      "K2"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3nrw3lans",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Hangi dağ dünyadaki tek aktivasyonlu (yanan) stratovulkandır?",
+    "explanation": "Vesuvius Dağı, İtalya'da bulunan aktif bir stratovulkandır ve 79 MS yılında Pompeii'yi yok eden patlamayla tanınır. Dünyanın en meşhur aktif vulkanlarından biridir.",
+    "options": [
+      "Orta Anadolu'daki Dağlar",
+      "Kilimanjaro Dağı",
+      "Vesuvius Dağı",
+      "Fuji Dağı"
+    ],
+    "correctAnswer": "Vesuvius Dağı",
+    "tags": [
+      "dağlar",
+      "coğrafya",
+      "vulkano"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0mdhlc4fx",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "And Dağları hangi kıta üzerinde bulunur?",
+    "explanation": "And Dağları, Güney Amerika kıtasının batı kenarında uzanır ve dünyanın en uzun dağ sistemlerinden biridir. En yüksek noktası Aconcagua'dır.",
+    "options": [
+      "Asya",
+      "Afrika",
+      "Güney Amerika",
+      "Avustralya"
+    ],
+    "correctAnswer": "Güney Amerika",
+    "tags": [
+      "dağlar",
+      "coğrafya",
+      "And"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "go9437h9a",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Atlas Dağları hangi bölgelerde yer alır?",
+    "explanation": "Atlas Dağları, Kuzey Afrika'da yer alır ve Moritanya, Cezayir, Tunus ve Fas ülkelerinin üzerinden geçer. Dünyanın en eski dağ sistemlerinden biridir.",
+    "options": [
+      "Orta Doğu",
+      "Kuzey Afrika",
+      "Doğu Avrupa",
+      "Güney Asya"
+    ],
+    "correctAnswer": "Kuzey Afrika",
+    "tags": [
+      "dağlar",
+      "coğrafya",
+      "Atlas"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x90pmoenf",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünyanın en yüksek dağı ve yüksekliği nedir?",
+    "explanation": "Mount Everest, Himalayalar Dağı'nda yer alır ve deniz seviyesinden 8.848 metre yüksekliktedir. Nepal ve Çin arasında konumlanmıştır.",
+    "options": [
+      "K2 - 8.611 metre",
+      "Everest - 8.848 metre",
+      "Aconcagua - 6.962 metre",
+      "Kilimanjaro - 5.895 metre"
+    ],
+    "correctAnswer": "Everest - 8.848 metre",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "everest"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5saftqkzl",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Kilimanjaro dağının en çok bulunduğu ülke hangisidir?",
+    "explanation": "Kilimanjaro, Afrika'nın en yüksek dağıdır ve Tanzanya ülkesinde yer alır. Deniz seviyesinden 5.895 metre yüksektir.",
+    "options": [
+      "Etiyopya",
+      "Sudan",
+      "Tanzanya",
+      "Kenya"
+    ],
+    "correctAnswer": "Tanzanya",
+    "tags": [
+      "coğrafya",
+      "kilimanjaro",
+      "afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jy3dbbl9k",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın ikinci en yüksek dağı hangisidir?",
+    "explanation": "K2, Karakoram Dağları'nda yer alır ve Everest'ten sonra dünyanın ikinci en yüksek dağıdır. Yüksekliği 8.611 metredir.",
+    "options": [
+      "K2 (Godwin-Austen)",
+      "Aconcagua",
+      "Denali",
+      "Lhotse"
+    ],
+    "correctAnswer": "K2 (Godwin-Austen)",
+    "tags": [
+      "coğrafya",
+      "k2",
+      "karakoram"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gayxrc8qb",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Aconcagua dağının bulunduğu kıt ve dağ silsilesi hangisidir?",
+    "explanation": "Aconcagua, Güney Amerika kıtasındaki And Dağları'nda yer alır ve deniz seviyesinden 6.962 metre yüksektir. En yüksek dağdır.",
+    "options": [
+      "Asya - Himalayalar",
+      "Afrika - Kilimanjaro",
+      "Güney Amerika - And Dağları",
+      "Avrupa - Alp Dağları"
+    ],
+    "correctAnswer": "Güney Amerika - And Dağları",
+    "tags": [
+      "coğrafya",
+      "aconcagua",
+      "andes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zcgnecv3y",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Matterhorn (Kurt Dağı) hangi ülkelerin sınırında yer alır?",
+    "explanation": "Matterhorn, Alp Dağları'nda yer alır ve İsviçre ile İtalya'nın sınırında konumlanır. Yüksekliği 4.478 metredir.",
+    "options": [
+      "Fransa ve İtalya",
+      "İsviçre ve İtalya",
+      "Almanya ve Avusturya",
+      "İsveç ve Norveç"
+    ],
+    "correctAnswer": "İsviçre ve İtalya",
+    "tags": [
+      "coğrafya",
+      "matterhorn",
+      "alp dağları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rdrav92g9",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünya'nın en yüksek dağ zirvesi hangisidir?",
+    "explanation": "Everest Dağı, Himalaya Dağ Sistemi'nin bir parçası olarak Asya'da bulunan ve dünya üzerindeki en yüksek nokta olan 8.848 metrelik zirveye sahiptir.",
+    "options": [
+      "K2 Dağı",
+      "Everest (Çoqrafiya) Zirvesi",
+      "Denali Dağı",
+      "Mont Blanc"
+    ],
+    "correctAnswer": "Everest (Çoqrafiya) Zirvesi",
+    "tags": [
+      "dağlar",
+      "en yüksek",
+      "Everest",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ogir7gm4v",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Uzunluğu 6400 km olan ve 'Kuzey Amerika'nın omurgası' olarak bilinen dağ sistemi hangisidir?",
+    "explanation": "Rocky Dağları (Batı Taşlı Dağlar), Kuzey Amerika kıtasının batısındaki en uzun dağ sistemi olup yaklaşık 6400 km uzunluğa sahiptir.",
+    "options": [
+      "Rocky Dağları",
+      "And Dağları",
+      "Atlas Dağları",
+      "Urals Dağları"
+    ],
+    "correctAnswer": "Rocky Dağları",
+    "tags": [
+      "dağ sistemleri",
+      "Kuzey Amerika",
+      "Rocky",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tys2107xf",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Hangi dağ sisteminde dünyanın en derin okyanus çukuru bulunur?",
+    "explanation": "Mariana Çukuru, Pasifik Okyanusu'nda Himalaya Dağları'nın yakınında bulunan dünyanın en derin noktasıdır (yaklaşık 11.034 metre). Everest'in zirvesi ile bu çukurun tabanı arasında yaklaşık 20 km fark vardır.",
+    "options": [
+      "And Dağları",
+      "Rocky Dağları",
+      "Himalaya Dağları",
+      "Atlas Dağları"
+    ],
+    "correctAnswer": "Himalaya Dağları",
+    "tags": [
+      "dağlar",
+      "okyanus çukuru",
+      "Himalaya",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1qk6jcw4f",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Avrupa kıtasının en uzun dağ sistemi ve Avrupa'nın 'Kafesi' olarak bilinen yapı hangisidir?",
+    "explanation": "Ural Dağları, Avrupa ve Asya kıtalarını ayıran yaklaşık 2.500 km uzunluğundaki en önemli dağ sistemi olup 'Avrupa'nın Kafesi' olarak da bilinir.",
+    "options": [
+      "Alp Dağları",
+      "Pyrene Dağları",
+      "Urals Dağları",
+      "Atlas Dağları"
+    ],
+    "correctAnswer": "Urals Dağları",
+    "tags": [
+      "Avrupa dağları",
+      "Urals",
+      "dağ sistemleri",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xncgau0hs",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Küresel iklim değişikliğinden en çok etkilenen ve erimeye maruz kalan büyük buzul alanı hangi dağ sisteminde bulunur?",
+    "explanation": "Alp Dağları, Avrupa'da bulunan ve küresel ısınmadan en çok etkilenen buzul alanlarından biridir. Son 100 yılda alp buzullarının %40'ından fazlası erimiştir.",
+    "options": [
+      "And Dağları",
+      "Alp Dağları",
+      "Rocky Dağları",
+      "Himalaya Dağları"
+    ],
+    "correctAnswer": "Alp Dağları",
+    "tags": [
+      "iklim değişikliği",
+      "buzullar",
+      "Alp Dağları",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfhr238sm",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünyanın en yüksek dağı hangi sırada yer alır?",
+    "explanation": "Himalaya sırası, Everest dağı ile birlikte dünyanın en yüksek dağına sahiptir. Everest'in rakımı 8.848 metredir.",
+    "options": [
+      "Alp Sırası",
+      "Himalaya Sırası",
+      "Andez Sırası",
+      "Atlas Sırası"
+    ],
+    "correctAnswer": "Himalaya Sırası",
+    "tags": [
+      "dağlar",
+      "coğrafya",
+      "en yüksek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ku7k8yvx",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Atlas Dağları hangi kıtada yer alır?",
+    "explanation": "Atlas Dağları, Batı Afrika kıtasında yer alır ve Moritanya, Cezayir, Fas ülkelerinin sınırlarından geçer.",
+    "options": [
+      "Asya",
+      "Afrika",
+      "Avrupa",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "dağlar",
+      "kıta",
+      "Atlas"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "shf1ko39y",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Hangi dağ sırası Güney Amerika kıtasının en uzun dağ sistemidir?",
+    "explanation": "Andez dağları, Güney Amerika kıtasının en uzun ve yüksek dağ sırasıdır. Yaklaşık 7 bin km uzunluğundadır.",
+    "options": [
+      "Himalaya",
+      "Andez",
+      "Alpler",
+      "Ural"
+    ],
+    "correctAnswer": "Andez",
+    "tags": [
+      "dağlar",
+      "Güney Amerika",
+      "uzunluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6e3sa1xu7",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Everest Dağı hangi ülkelerin sınırında yer alır?",
+    "explanation": "Everest Dağı, Nepal ve Çin'in Tibet bölgesi arasındaki sınırda yer alır. Rakımı 8.848 metredir.",
+    "options": [
+      "Çin - Vietnam",
+      "İndiya - Pakistan",
+      "Nepal - Çin (Tibet)",
+      "Bangladeş - Hindistan"
+    ],
+    "correctAnswer": "Nepal - Çin (Tibet)",
+    "tags": [
+      "Everest",
+      "dağlar",
+      "ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ul4f6vz3w",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Hangi dağ sırası Avrasya kıtasının doğu-batı yönünde uzanır?",
+    "explanation": "Ural Dağları, Avrasya kıtasının doğu-batı yönünde uzanır ve Avrupa ile Asya kıtalarını ayırır. Yaklaşık 2.500 km uzunluğundadır.",
+    "options": [
+      "Alpler",
+      "Andez",
+      "Ural",
+      "Himalaya"
+    ],
+    "correctAnswer": "Ural",
+    "tags": [
+      "dağlar",
+      "Avrasya",
+      "yön"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4iie09rou",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EASY",
+    "question": "Dünya'nın en yüksek dağı aşağıdakilerden hangisidir?",
+    "explanation": "Everest Dağı, Himalaya Dağ Sistemi'nde yer alır ve 8.849 metre yükseklikle dünyanın en yüksek noktasıdır.",
+    "options": [
+      "K2 Dağı",
+      "Everest Dağı",
+      "Kilimanjaro Dağı",
+      "Aconcagua Dağı"
+    ],
+    "correctAnswer": "Everest Dağı",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "Everest"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mgji2sno4",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Kilimanjaro Dağı hangi kıtada bulunur?",
+    "explanation": "Kilimanjaro Dağı, Tanzanya'da yer alan ve Afika kıtasında bulunan volkanik bir dağdır.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "Kilimanjaro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xc02xws6y",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "GENERAL",
+    "question": "Aconcagua Dağı hangi coğrafi bölgede konumlanmıştır?",
+    "explanation": "Aconcagua Dağı, Güney Amerika'daki And Dağ Sistemi'nde yer alır ve 6.962 metre yüksekliğindedir.",
+    "options": [
+      "And Dağları",
+      "Himalaya Dağları",
+      "Sahara Çölü",
+      "Atlas Dağları"
+    ],
+    "correctAnswer": "And Dağları",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "Aconcagua"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6p1nm71ka",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "Dünya'nın en geniş dağ sistemi hangisidir?",
+    "explanation": "And Dağ Sistemi, Güney Amerika kıtasında uzanır ve dünyanın en uzun (yaklaşık 7.000 km) dağ sistemi olarak bilinir.",
+    "options": [
+      "Himalaya",
+      "And",
+      "Atlas",
+      "Ural"
+    ],
+    "correctAnswer": "And",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "dağ sistemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xfjypfwo1",
+    "category": "COĞRAFYA",
+    "subcategory": "Dünya Dağları",
+    "difficulty": "EXPERT",
+    "question": "K2 Dağı hangi sırada yer alır?",
+    "explanation": "K2 Dağı, Hindistan'ın Kargil bölgesinde bulunan Himalaya Dağ Sistemi'nde yer alır ve 8.611 metre yüksekliğindedir.",
+    "options": [
+      "Atlas",
+      "Himalaya",
+      "Alp",
+      "Ural"
+    ],
+    "correctAnswer": "Himalaya",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "K2"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

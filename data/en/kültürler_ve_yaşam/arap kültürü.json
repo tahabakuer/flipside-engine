@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "3ny22rhok",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe geleneksel olarak erkekler hangi kıyafeti giyer?",
+    "explanation": "Arap toplumunda erkekler geleneksel olarak beyaz Thobe veya Dishdasha adlı kıyafeti giyer. Bu kıyafet sıcak iklime uygun olarak geniş kesimli ve nefes alabilir yapıdadır.",
+    "options": [
+      "Thobe/Dishdasha",
+      "Jeans",
+      "Kazak",
+      "Pantolon"
+    ],
+    "correctAnswer": "Thobe/Dishdasha",
+    "tags": [
+      "arayap kültürü",
+      "giyim",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4fjne7alc",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe misafirperverlik ne şekilde ifade edilir?",
+    "explanation": "Arap kültüründe misafirperverlik çok önemlidir ve geleneksel olarak misafire en azından 3 gün boyunca yemek ikramı yapılması beklenir.",
+    "options": [
+      "En azından 3 gün yemek ikramı",
+      "Misafire en iyi çay ikramı",
+      "Kahve ikramı",
+      "Hediye verme"
+    ],
+    "correctAnswer": "En azından 3 gün yemek ikramı",
+    "tags": [
+      "arayap kültürü",
+      "misafirperverlik",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7h6wx97t2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap alfabesi hangi yönden yazılır?",
+    "explanation": "Arap alfabesi sağdan sola doğru yazılır. Bu, Arap dilinin ve kültürünün temel özelliklerinden biridir.",
+    "options": [
+      "Sağdan sola",
+      "Soldan sağa",
+      "Yukarıdan aşağıya",
+      "Alt alta"
+    ],
+    "correctAnswer": "Sağdan sola",
+    "tags": [
+      "arayap kültürü",
+      "dil",
+      "alfabe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s16f4p6we",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap aile yapısında en önemli unsur nedir?",
+    "explanation": "Arap aile yapısında çok nesil birlikte yaşamak geleneksel olarak önemlidir ve büyük aile yapısı korunur.",
+    "options": [
+      "Çok nesil birlikte yaşamak",
+      "Sadece anne-baba çocukları",
+      "Tek kişi yaşamak",
+      "Duygusal bağı kurmak"
+    ],
+    "correctAnswer": "Çok nesil birlikte yaşamak",
+    "tags": [
+      "arayap kültürü",
+      "aile yapısı",
+      "sosyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ti28vhluf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İslamiyet Arap kültüründe nasıl bir rol oynar?",
+    "explanation": "İslamiyet Arap kültüründe hem dini inancın hem de sosyal değerlerin temelini oluşturur ve günlük yaşamı yönlendirir.",
+    "options": [
+      "Dini inanç ve sosyal değerler belirler",
+      "Sadece bayramlar için önemlidir",
+      "Kültürle ilgisi yoktur",
+      "Yalnızca dini ibadetlerle sınırlıdır"
+    ],
+    "correctAnswer": "Dini inanç ve sosyal değerler belirler",
+    "tags": [
+      "arayap kültürü",
+      "İslamiyet",
+      "inanç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wcueuj6ss",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap dünyasını oluşturan ülkeler arasında hangisi yer almaz?",
+    "explanation": "Türkiye coğrafi olarak Asya ve Avrupa köşesinde yer alırken, Arap dünyasını oluşturan ülkeler arasında yer almaz. Suudi Arabistan, Mısır ve Ürdün ise Arap dünyasının önemli ülkeleridir.",
+    "options": [
+      "Suudi Arabistan",
+      "Mısır",
+      "Türkiye",
+      "Ürdün"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "coğrafya",
+      "Arap dünyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "muehh5q9r",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe 'İhlas' ne anlama gelir?",
+    "explanation": "Arapça 'İhlas' kelimesi samimiyet, içtenlik anlamına gelir. Bu kavram Arap kültüründe insan ilişkilerinde önemli bir değeri taşır ve gerçek dostlukların temelini oluşturur.",
+    "options": [
+      "Sırlama",
+      "Samimiyet",
+      "Kara kuyu",
+      "Dostluk"
+    ],
+    "correctAnswer": "Samimiyet",
+    "tags": [
+      "dil",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gmrfv7k0y",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap dünyasında kutsal kabul edilen şehir hangisidir?",
+    "explanation": "Mekke, İslam dininin kutsal üç şehriden biridir ve Arap dünyasında en önemli dini merkezlerden biri olarak kabul edilir. Müslümanlar için hac ibadeti Mekke'de yapılır.",
+    "options": [
+      "Paris",
+      "Londra",
+      "Mekke",
+      "Berlin"
+    ],
+    "correctAnswer": "Mekke",
+    "tags": [
+      "coğrafya",
+      "dini değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0dst518xx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap dilinde 'Ya Allah' kelimesinin karşılığı nedir?",
+    "explanation": "'Ya Rabbi' Arapçanın önemli dini ifadelerinden biridir ve 'Ey Rabbim' anlamına gelir. Bu ifade İslam dünyasında sıkça kullanılan ibadetlerde yer alır.",
+    "options": [
+      "Ya Rabb",
+      "Ya İlahi",
+      "Ya Rabbi",
+      "Ya Hakk"
+    ],
+    "correctAnswer": "Ya Rabbi",
+    "tags": [
+      "dil",
+      "dini kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vrkxisexj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe yemek sırasında el kullanmanın önemi nedir?",
+    "explanation": "Arap kültüründe yemek sırasında sağ el kullanmak geleneksel bir adettir. Bu uygulama hijyenik değil, kültürel bir değer taşır ve Arap mutfak geleneğinin önemli bir parçasıdır.",
+    "options": [
+      "Sağlık açısından",
+      "Gelenek ve adet olarak",
+      "Zorunlu kurallar",
+      "Yasak"
+    ],
+    "correctAnswer": "Gelenek ve adet olarak",
+    "tags": [
+      "gelenekler",
+      "yemek kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n8wfylu0t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arapsının resmi dili nedir?",
+    "explanation": "Arap ülkelerinin çoğunun resmi dili Arapçadır ve Kur'an-ı Kerim de bu dille yazılmıştır.",
+    "options": [
+      "Farsça",
+      "Arapça",
+      "Türkçe",
+      "İngilizce"
+    ],
+    "correctAnswer": "Arapça",
+    "tags": [
+      "diller",
+      "kültür",
+      "arasılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wv1gbu5ej",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe en önemli sosyal geleneklerden biri nedir?",
+    "explanation": "Arap kültüründe misafirperverlik çok önemlidir ve misafirlerin ağırlanması onurlandırılır.",
+    "options": [
+      "Hediye vermesi",
+      "Misafirperverlik",
+      "Teknoloji kullanımı",
+      "Okuma alışkanlığı"
+    ],
+    "correctAnswer": "Misafirperverlik",
+    "tags": [
+      "gelenekler",
+      "sosyal yaşam",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qxhxxlx2f",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap yarımadasında yer alan önemli bir şehir hangisidir?",
+    "explanation": "Riyad Suudi Arabistan'ın başkentidir ve Arap Yarımadasında yer alan önemli bir şehirdir.",
+    "options": [
+      "İstanbul",
+      "Riyad",
+      "Berlin",
+      "Tokyo"
+    ],
+    "correctAnswer": "Riyad",
+    "tags": [
+      "coğrafya",
+      "şehirler",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ulj7wj8e",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe Ramazan Bayramı neyi kutlar?",
+    "explanation": "Ramazan Bayramı, Ramazan ayının oruç tutma günlerinin bitişini ve teberrük etmeyi kutlar.",
+    "options": [
+      "Yeni yıl",
+      "Kur'an okuma",
+      "Ramazan oruçlarının sonu",
+      "Gurbet dönmesi"
+    ],
+    "correctAnswer": "Ramazan oruçlarının sonu",
+    "tags": [
+      "bayramlar",
+      "din",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tcvqr17gs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap ülkelerinde geleneksel giysi olarak bilinen 'Kaftan' ne işe yarar?",
+    "explanation": "Kaftan geleneksel Arap giysisidir, hem güneşten korur hem de sıcak veya soğuk havada rahatlık sağlar.",
+    "options": [
+      "Sadece şık görünmek için",
+      "Güneş koruması ve soğuk havalarda ısıtma",
+      "Yalnızca törenlerde kullanılır",
+      "Gerekli değildir"
+    ],
+    "correctAnswer": "Güneş koruması ve soğuk havalarda ısıtma",
+    "tags": [
+      "giyim",
+      "gelenekler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6oxdg0fbu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "What is considered one of the most important social values in traditional Arab culture?",
+    "explanation": "Hospitality (Karam) and collective family responsibility are deeply rooted in Arab culture, where guests are treated with honor and the family unit takes precedence over individual interests.",
+    "options": [
+      "Individual independence",
+      "Collective responsibility and hospitality",
+      "Personal wealth accumulation",
+      "Technological advancement"
+    ],
+    "correctAnswer": "Collective responsibility and hospitality",
+    "tags": [
+      "Arab Culture",
+      "Social Values",
+      "Tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6k7wtcvft",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Which language is primarily spoken across Arab countries?",
+    "explanation": "Arabic is the official and widely spoken language in Arab countries, with various dialects used in everyday conversation while Modern Standard Arabic is used for formal writing.",
+    "options": [
+      "Persian",
+      "Arabic",
+      "Turkish",
+      "Urdu"
+    ],
+    "correctAnswer": "Arabic",
+    "tags": [
+      "Arab Culture",
+      "Language",
+      "Communication"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jalwu2t12",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "What role does religion play in traditional Arab cultural life?",
+    "explanation": "Islam, as the predominant religion in Arab countries, significantly influences cultural practices, including dietary laws, prayer times, family structure, and moral guidelines.",
+    "options": [
+      "Minimal importance",
+      "Central influence on daily practices and values",
+      "Only during holidays",
+      "Secular separation"
+    ],
+    "correctAnswer": "Central influence on daily practices and values",
+    "tags": [
+      "Arab Culture",
+      "Religion",
+      "Tradition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jmdtdiv49",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which traditional practice involves gathering for shared meals with extended families?",
+    "explanation": "The Majlis is a traditional gathering place in Arab culture where families and guests come together for discussions, meals, and maintaining social bonds in a respectful setting.",
+    "options": [
+      "Kaffala",
+      "Dabba",
+      "Wasta",
+      "Majlis"
+    ],
+    "correctAnswer": "Majlis",
+    "tags": [
+      "Arab Culture",
+      "Traditions",
+      "Social Gatherings"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rdx9wji41",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EXPERT",
+    "question": "What concept represents the importance of protecting one's family honor in Arab culture?",
+    "explanation": "Sharaf (honor/reputation) is a fundamental concept in Arab culture emphasizing the importance of maintaining and protecting family honor, which influences behavior and social interactions.",
+    "options": [
+      "Karam",
+      "Ard",
+      "Adab",
+      "Sharaf"
+    ],
+    "correctAnswer": "Sharaf",
+    "tags": [
+      "Arab Culture",
+      "Values",
+      "Honor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zbh6v57wn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe ne zaman yediğinin en önemli öğesi kabul edilir?",
+    "explanation": "İslam kültüründe Ramazan ayının iftar yemeği, günün en önemli öğesi olarak kabul edilir.",
+    "options": [
+      "Şeyh",
+      "İftar",
+      "Zekât",
+      "Hicret"
+    ],
+    "correctAnswer": "İftar",
+    "tags": [
+      "Arapsağlık",
+      "DiniGelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qf2tt4t4d",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap dünyasında hangi şehir modern mimari ve kültürel merkezi olarak bilinir?",
+    "explanation": "Dubai, modern mimari yapısı ve kültürel çeşitliliği ile Arap dünyasında önemli bir merkez haline gelmiştir.",
+    "options": [
+      "Kahire",
+      "Dubai",
+      "Riyad",
+      "Beirut"
+    ],
+    "correctAnswer": "Dubai",
+    "tags": [
+      "Şehirler",
+      "ModernKültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xkw004ajy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe aile yapısı ne şekilde tanımlanır?",
+    "explanation": "Arap kültüründe geniş aile yapısı ve çoklu nesil ilişkileri 'çokgen' aile yapısı olarak tanımlanır.",
+    "options": [
+      "Çokgen",
+      "İkili",
+      "Teknolojik",
+      "Dijital"
+    ],
+    "correctAnswer": "Çokgen",
+    "tags": [
+      "AileYapısı",
+      "Toplum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wjtgmazqq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap coğrafyasında hangi tarım ürünü önemli geçim kaynağıdır?",
+    "explanation": "Arap coğrafyasında buğday, temel tarım ürünü ve geçim kaynağı olarak önemli bir rol üstlenir.",
+    "options": [
+      "Buğday",
+      "Mısır",
+      "Arpa",
+      "Tahıl"
+    ],
+    "correctAnswer": "Buğday",
+    "tags": [
+      "Tarım",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h0bpcak34",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Arap kültüründe dil ve edebiyatın ne şekilde geliştiği tanımlanır?",
+    "explanation": "Arap kültüründe dil ve edebiyat, bin yıllık geleneklerle gelişmiş bir şekilde tanımlanır.",
+    "options": [
+      "Gelişmiş",
+      "Basit",
+      "Sınırlı",
+      "Teknolojik"
+    ],
+    "correctAnswer": "Gelişmiş",
+    "tags": [
+      "DilVeEdebiyat",
+      "KültürelGelime"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "genbffcaj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe geleneksel olarak tüketilen ana yemek hangisidir?",
+    "explanation": "Kibbeh, Orta Doğu ve Arap ülkelerinde yaygın olarak tüketilen geleneksel bir yemek türüdür. Bulgur, et ve sebzelere dayalı yapılmaktadır.",
+    "options": [
+      "Pasta",
+      "Kibbeh",
+      "Hamburger",
+      "Çevirme"
+    ],
+    "correctAnswer": "Kibbeh",
+    "tags": [
+      "yemek",
+      "gelenek",
+      "arap kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l7owmwjmh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe 'Selamün Aleyküm' ifadesinin karşılığı nedir?",
+    "explanation": "'Selamün Aleyküm' Arapça'da 'Size Allahın selami' anlamına gelir ve karşılığı 'Aleyküm Selam' (Size de selam olsun) şeklindedir.",
+    "options": [
+      "İyi günler",
+      "Ey Allah'ın rahmeti",
+      "Size selam olsun",
+      "Hoş geldiniz"
+    ],
+    "correctAnswer": "Size selam olsun",
+    "tags": [
+      "dil",
+      "selamlaşma",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ttelvbtkf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe önemli bir dini ve kültürel merkez olan Kaaba nerede bulunur?",
+    "explanation": "Kaaba, İslam'da en kutsal yer olarak kabul edilir ve Mekke'nin ortasında bulunmaktadır.",
+    "options": [
+      "Mekke",
+      "Medine",
+      "Cidda",
+      "Riyad"
+    ],
+    "correctAnswer": "Mekke",
+    "tags": [
+      "din",
+      "kutsal yer",
+      "İslam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a32kwzp95",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe geleneksel müzik aletlerinden biri olan Oud neye benzer?",
+    "explanation": "Oud, Asya kökenli geleneksel bir müzik aletidir ve şekli gitar'a benzemekle birlikte daha küçük boyutludur.",
+    "options": [
+      "Dolap",
+      "Gitar",
+      "Keman",
+      "Ney"
+    ],
+    "correctAnswer": "Gitar",
+    "tags": [
+      "müzik",
+      "enstrüman",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ozz0jj283",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe 'Bedevi' terimi ne anlama gelir?",
+    "explanation": "Bedevi, Arap kültüründe çöl yaşamına uyum sağlamış geleneksel göçebe kabile halkını ifade eder.",
+    "options": [
+      "Şehir insanı",
+      "Çöl göçebe",
+      "Tarım yapıcı",
+      "Denizci"
+    ],
+    "correctAnswer": "Çöl göçebe",
+    "tags": [
+      "gelenek",
+      "yaşam tarzı",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j3owwgy10",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe misafirperverlik gelenekleri ne şekilde ifade edilir?",
+    "explanation": "Arap kültüründe misafirperverlik en temel değerlerden biridir. Ev sahipleri misafirlerini kabul etmek ve onları onurlandırmayı geleneksel olarak benimser.",
+    "options": [
+      "Misafirler için en iyi yemekler sunulur",
+      "Ev sahibi misafiri kabul etme ve onurlandırmayı benimser",
+      "Misafirler sadece kısa süreliğine davet edilir",
+      "Geleneksel olarak misafirler ev dışında karşılanır"
+    ],
+    "correctAnswer": "Ev sahibi misafiri kabul etme ve onurlandırmayı benimser",
+    "tags": [
+      "sosyal_gelenekler",
+      "misafirperverlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d2zlk9z47",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arapsa dilinde 'Ebu' veya 'Bendi' ifadeleri hangi bağlamda kullanılır?",
+    "explanation": "Arapsa dilinde 'Ebu' veya 'Bendi' gibi ifadeler aile büyükleri ve saygıdeğer kişiler için kullanılan hitap şekilleridir.",
+    "options": [
+      "Sıradan hitap şekilleri",
+      "Aile büyükleri için saygı ifadeleri",
+      "Yabancı ülkelere hitap şekli",
+      "Geleneksel şarkı sözlerinde"
+    ],
+    "correctAnswer": "Aile büyükleri için saygı ifadeleri",
+    "tags": [
+      "dil_ve_kültür",
+      "saygı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4mog8gsj0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe aile değerleri nasıl önemsenir?",
+    "explanation": "Arap kültüründe aile bağları ve topluluk sorumluluğu temel değerlerden biridir.",
+    "options": [
+      "Bireysel başarı önceliklidir",
+      "Aile bağları ve topluluk sorumluluğu vurgulanır",
+      "Yalnız yaşam tercih edilir",
+      "Dış ilişkiler ön planda tutulur"
+    ],
+    "correctAnswer": "Aile bağları ve topluluk sorumluluğu vurgulanır",
+    "tags": [
+      "aile_değerleri",
+      "topluluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmccfv4b2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap sanatında geleneksel desenler hangi malzemelerde kullanılır?",
+    "explanation": "Arap sanatında geleneksel desenler kumaş, seramik, ahşap gibi çeşitli malzemelerde kullanılır.",
+    "options": [
+      "Sadece duvarlarda",
+      "Kumaş, seramik ve ahşap gibi çeşitli malzemelerde",
+      "Sadece giyimde",
+      "Sadece ev eşyalarında"
+    ],
+    "correctAnswer": "Kumaş, seramik ve ahşap gibi çeşitli malzemelerde",
+    "tags": [
+      "sanat",
+      "geleneksel_desenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "km8qtzu7b",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe 'Kahve töresi' ne anlama gelir?",
+    "explanation": "Arap kültüründe kahve töresi, misafir ağırlama ve sosyal bağları güçlendirmek için yapılan geleneksel bir aktivitedir.",
+    "options": [
+      "Sadece kahve içme alışkanlığı",
+      "Misafir ağırlama ve sosyal bir gelenek",
+      "Geleneksel bir yemek pişirme yöntemi",
+      "Dış ilişkilerde kullanılan bir yöntem"
+    ],
+    "correctAnswer": "Misafir ağırlama ve sosyal bir gelenek",
+    "tags": [
+      "sosyal_gelenekler",
+      "kahve_töreni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o2j2hu9kb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe misafirperverlik geleneği nasıl ifade edilir?",
+    "explanation": "Arap kültüründe misafirperverlik, en temel değerlerden biridir. Misafirin konuk olarak ağırlanıp ikram edilmesi geleneksel bir uygulamadır.",
+    "options": [
+      "Misafirin ağırlanması ve ikram edilmesi",
+      "Misafiri uzak tutma",
+      "Sadece belirli saatlerde kabul etme",
+      "Misafire ödeme yapmayı gerektirme"
+    ],
+    "correctAnswer": "Misafirin ağırlanması ve ikram edilmesi",
+    "tags": [
+      "misafirperverlik",
+      "gelenekler",
+      "sosyal_normlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h0cmgmnm1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap toplumu nasıl bir yapıya sahiptir?",
+    "explanation": "Arap kültüründe geniş ve çok nesilleri kapsayan aile yapısı yaygındır. Bu yapı sosyal dayanışmanın temelini oluşturur.",
+    "options": [
+      "Genellikle geniş ve çok nesilleri kapsayan aile yapısı",
+      "Çok küçük, çekirdek aileler",
+      "Bireysel yaşam önceliklidir",
+      "Sadece erkek soyu devam eder"
+    ],
+    "correctAnswer": "Genellikle geniş ve çok nesilleri kapsayan aile yapısı",
+    "tags": [
+      "aile_yapısı",
+      "sosyal_düzen",
+      "toplum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7h0pm444j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe kahve ikramı neyi simgeler?",
+    "explanation": "Arap kültüründe kahve ikramı saygı, misafirperverlik ve dostluk simgesi olarak kabul edilir. Arabesk tarzında servis edilebilir.",
+    "options": [
+      "Saygı ve misafirperverlik",
+      "Sadece bir içecek tercihi",
+      "Zenginlik göstergesi",
+      "Dini ibadet"
+    ],
+    "correctAnswer": "Saygı ve misafirperverlik",
+    "tags": [
+      "kahve_kültürü",
+      "ikram",
+      "simge_anlamlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y69j28a5g",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap toplumunda dini pratikler hangi etkiye sahiptir?",
+    "explanation": "Arap kültüründe İslamiyet din pratiği günlük yaşamın, sosyal davranışların ve değer yargılarının önemli bir parçasıdır.",
+    "options": [
+      "Günlük yaşamın ve sosyal davranışların önemli bir parçasıdır",
+      "Sadece belirli günlerde uygulanır",
+      "Yalnızca özel alanlarda yapılır",
+      "Sosyal ilişkilerde etkisi yoktur"
+    ],
+    "correctAnswer": "Günlük yaşamın ve sosyal davranışların önemli bir parçasıdır",
+    "tags": [
+      "di_n_pratikler",
+      "günlük_yaşam",
+      "sosyal_davranış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jzvdb9bj2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap yemek kültüründe hangi özellik ön plandadır?",
+    "explanation": "Arap yemek kültüründe toplulukla yenme, paylaşma ve birlikte sofrada bulunma ön plandadır. Bu sosyal dayanışmayı güçlendirir.",
+    "options": [
+      "Toplulukla yenilmesi ve paylaşılması",
+      "Bireysel olarak tüketilmesi",
+      "Özel lokasyonlarda sunulması",
+      "Sadece belirli soslarla servis edilmesi"
+    ],
+    "correctAnswer": "Toplulukla yenilmesi ve paylaşılması",
+    "tags": [
+      "yemek_kültürü",
+      "paylaşma",
+      "topluluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2tlzvu2eh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap coğrafyasında yaygın olarak konuşulan dil hangisidir?",
+    "explanation": "Arap kültüründe resmi dil ve günlük iletişim Arapçadır. İbranice Yahudi, Farsça İranlıların, Türkçe Türklerin ana dilleridir.",
+    "options": [
+      "İbranice",
+      "Farsça",
+      "Arapça",
+      "Türkçe"
+    ],
+    "correctAnswer": "Arapça",
+    "tags": [
+      "dil",
+      "coğrafya",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9rwg6qkqs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe önemli bir geleneksel yemek hangisidir?",
+    "explanation": "Kibbeh, Arap mutfak geleneğinin önemli bir parçasıdır. Bulgur, et ve baharatlarla yapılan bu yemek Levant bölgesinde yaygındır.",
+    "options": [
+      "Manti",
+      "Plov",
+      "Kibbeh",
+      "Dolma"
+    ],
+    "correctAnswer": "Kibbeh",
+    "tags": [
+      "gastro",
+      "gelenek",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2mgwly1a",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe aile yapısı nasıldır?",
+    "explanation": "Arap kültüründe geniş aile yapısı önemlidir. Büyük aileleri, torunları ve akrabalarıyla birlikte yaşama geleneği yaygındır.",
+    "options": [
+      "Çok büyük ve geniş",
+      "Büyükbaşlı",
+      "Küçük çekirdekli",
+      "Tek kişilik"
+    ],
+    "correctAnswer": "Çok büyük ve geniş",
+    "tags": [
+      "sosyal",
+      "aile",
+      "değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m0ggv8dtr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap ülkelerinde İslamiyet dininin yaygınlığı nasıldır?",
+    "explanation": "Arap ülkelerinde nüfusun büyük çoğunluğu Müslümandır ve İslamiyet günlük yaşamı, gelenekleri etkiler.",
+    "options": [
+      "Çoğunlukta",
+      "Azınlıkta",
+      "Yaygın değil",
+      "Ortalama"
+    ],
+    "correctAnswer": "Çoğunlukta",
+    "tags": [
+      "din",
+      "kültür",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "abr2i0oyd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe önemli bir sosyal değer nedir?",
+    "explanation": "Arap kültüründe nezaket, kibarlık ve hoşgörü önemli sosyal değerlerdir. Misafirperverlik geleneği yaygın bir özelliktir.",
+    "options": [
+      "Hoşgörü",
+      "Saldırganlık",
+      "Bencillik",
+      "Şiddet"
+    ],
+    "correctAnswer": "Hoşgörü",
+    "tags": [
+      "değerler",
+      "sosyal",
+      "karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "33kpyc97f",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap kültüründe sosyal etkileşimlerde en önemli değerlerden biri hangisidir?",
+    "explanation": "Arap kültüründe aile ve topluluk bağları son derece önemlidir. Bireysel başarıdan ziyade toplulukla uyumlu yaşamak önceliklidir.",
+    "options": [
+      "Bireysel başarı",
+      "Topluluk bağlılığı",
+      "Maddi zenginlik",
+      "Kariyer odaklılık"
+    ],
+    "correctAnswer": "Topluluk bağlılığı",
+    "tags": [
+      "Arap Kültürü",
+      "Sosyal Yapı",
+      "Değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f60775c5s",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap coğrafyasında geleneksel barınma biçimleri genellikle hangi faktöre uyumludur?",
+    "explanation": "Arap bölgelerinin çoğu çöl ve yarıçöl iklimine sahiptir. Geleneksel barınmalar (bedevi kulübeleri) bu koşullara uyumlu tasarlanmıştır.",
+    "options": [
+      "Deniz iklimi",
+      "Çöl ve kuraklık koşulları",
+      "Dağlık arazi",
+      "Orman yoğunluğu"
+    ],
+    "correctAnswer": "Çöl ve kuraklık koşulları",
+    "tags": [
+      "Arap Kültürü",
+      "Barınma",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ahchme2gf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap kültüründe dini yaşamla ilgili aşağıdakilerden hangisi doğru bir ifadedir?",
+    "explanation": "Arap kültürünün büyük bir kısmı İslam dinini benimsemiş ve dini yaşam günlük hayata derinden entegre olmuştur.",
+    "options": [
+      "Din çok esnektir",
+      "İslami değerler merkezidir",
+      "Ateizm yaygındır",
+      "Hıristiyanlık ana akımdır"
+    ],
+    "correctAnswer": "İslami değerler merkezidir",
+    "tags": [
+      "Arap Kültürü",
+      "Din",
+      "Manevi Yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n183sxztm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "EASY",
+    "question": "Arap toplumlarında aile yapısı genellikle nasıl tanımlanır?",
+    "explanation": "Arap kültüründe geniş aile yapısı yaygındır. Uzun süreli nesiller birlikte yaşamak ve birbirlerine destek olmak önemlidir.",
+    "options": [
+      "Çekirdek aile",
+      "Geniş aile (köy)",
+      "Tek kişi yaşıyor",
+      "Geleneksel olmayan yapı"
+    ],
+    "correctAnswer": "Geniş aile (köy)",
+    "tags": [
+      "Arap Kültürü",
+      "Aile Yapısı",
+      "Sosyal Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2je7zoeyi",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Arap Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Arap gastronomisinde (mutfakta) en sık kullanılan baharatlardan biri hangisidir?",
+    "explanation": "Arap mutfakta kimyon, karabiber, zeytinyağı gibi baharatlar sıkça kullanılır. Özellikle Doğu Akdeniz mutfağında önemli yer tutar.",
+    "options": [
+      "Sarımsak",
+      "Zerdeçal",
+      "Kimyon",
+      "Nane"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "Arap Kültürü",
+      "Gastronomi",
+      "Mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

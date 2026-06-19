@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "2m145gt7u",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Avrupa'nın en büyük ülkesi hangisidir?",
+    "explanation": "Rusya, hem Avrupa'nın en büyük hem de dünyanın en büyük ülkesidir. Avrupa topraklarının yaklaşık %1'i Rusya sınırları içindedir.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "Rusya",
+      "İtalya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Avrupa",
+      "Ülkeler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gxdnu18f1",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki ülkelerden hangisi Balkan Yarımadası'ndadır?",
+    "explanation": "Yunanistan, Balkan Yarımadası'nın güneyinde yer alan tarihi bir ülkedir. Portekiz ve İzlanda Avrupa'nın diğer bölgelerindedir.",
+    "options": [
+      "Portekiz",
+      "Yunanistan",
+      "İzlanda",
+      "Belçika"
+    ],
+    "correctAnswer": "Yunanistan",
+    "tags": [
+      "Avrupa",
+      "Balkan",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r0ofbplus",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa Birliği'nin kuruluşunda aşağıdaki ülkelerden hangisi üyeydi?",
+    "explanation": "Danimarka, 1953'te Avrupa Ekonomik Topluluğu'na katılan ilk ülkelerden biridir. İsrail ve Türkiye AB üyesi değildir.",
+    "options": [
+      "İsrail",
+      "Türkiye",
+      "Danimarka",
+      "Finlandiya"
+    ],
+    "correctAnswer": "Danimarka",
+    "tags": [
+      "Avrupa Birliği",
+      "Üyeler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bmyslju9n",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "İskandinav yarıadının başlıca ülkeleri hangileridir?",
+    "explanation": "İskandinav yarıadında Norveç, İsveç ve Finlandiya (veya Danimarka) yer alır. İspanya ve Portekiz İber Yarımadası'ndadır.",
+    "options": [
+      "İspanya, Portekiz",
+      "Norveç, İsveç, Finlandiya",
+      "Almanya, Fransa",
+      "İtalya, Yunanistan"
+    ],
+    "correctAnswer": "Norveç, İsveç, Finlandiya",
+    "tags": [
+      "İskandinav",
+      "Avrupa",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6mwkynjgj",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Avrupa'nın en batıdaki ülkesi aşağıdakilerden hangisidir?",
+    "explanation": "Portekiz, Avrupa'nın en batıdaki ülkesidir. İber Yarımadası'nda yer alır ve Atlantik Okyanusu kıyılarındadır.",
+    "options": [
+      "İrlanda",
+      "İngiltere",
+      "Portekiz",
+      "Fransa"
+    ],
+    "correctAnswer": "Portekiz",
+    "tags": [
+      "Avrupa",
+      "Batı",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p8lsbppk7",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Avrupa'nın en büyük ülkesi hangisidir?",
+    "explanation": "Rusya, Avrupa'nın en büyük ülkesidir ve hem Avrupa'dan hem de Asya'ya uzanır. Sadece Rusya Federasyonu'nun yaklaşık %40-41'i Avrupa tarafında yer alır.",
+    "options": [
+      "Rusya",
+      "İsveç",
+      "Norveç",
+      "Almanya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Avrupa",
+      "Ülke Boyutları",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3bka4mxn7",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "İskoçya'nın başkenti hangisidir?",
+    "explanation": "İskoçya'nın resmi başkenti Edinburgh'dur. Glasgow, İskoçya'nın en büyük şehridir ancak başkent değildir.",
+    "options": [
+      "Edinburgh",
+      "Glasgow",
+      "Aberdeen",
+      "Cardiff"
+    ],
+    "correctAnswer": "Edinburgh",
+    "tags": [
+      "İskoçya",
+      "Başkentler",
+      "Avrupa Ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ea1npnjz",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülke Kuzey Atlantik Okyanusu'na kıyısı olmayan bir Avropea ülkesidir?",
+    "explanation": "Almanya Kuzey Atlantik Okyanusu'na doğrudan kıyısı olmayan bir ülkedir. Almanya'nın kıyıları Baltik Denizi ve Kuzey Denizi'ne açılır.",
+    "options": [
+      "İsveç",
+      "Norveç",
+      "Almanya",
+      "Portekiz"
+    ],
+    "correctAnswer": "Almanya",
+    "tags": [
+      "Kıyı Şehirleri",
+      "Avrupa Coğrafyası",
+      "Denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84nl8couq",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa Birliği'nin en güneydeki ülkesi hangisidir?",
+    "explanation": "Portekiz, Avrupa'nın en güneydeki AB üyesi ülkedir. Portekiz'in en güney noktası Algarve bölgesinde yer alır.",
+    "options": [
+      "İspanya",
+      "Portekiz",
+      "Yunanistan",
+      "İtalya"
+    ],
+    "correctAnswer": "Portekiz",
+    "tags": [
+      "Avrupa Birliği",
+      "Ülke Konumu",
+      "Akdeniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ixz1lgqij",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Avrupa kıtasının en batıdaki ülkesi hangisidir?",
+    "explanation": "İrlanda, Avrupa kıtasının en batıdaki ülkesidir. İrlanda'nın en batı noktası Donegal bölgesinde yer alır ve burada Atlantik Okyanusu bulunur.",
+    "options": [
+      "İrlanda",
+      "Portekiz",
+      "İspanya",
+      "Fransa"
+    ],
+    "correctAnswer": "İrlanda",
+    "tags": [
+      "Avrupa Konumu",
+      "Batum Denizi",
+      "Atlantik Okyanusu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jejcllae6",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Fransa'nın en büyük nehir hangisidir?",
+    "explanation": "Loira Fransa'nın en uzun ve en büyük nehridir. Paris şehrinin kuzeyinden geçerek Atlantik Okyanusu'na dökülür.",
+    "options": [
+      "Don",
+      "Loira",
+      "Sen",
+      "Garonna"
+    ],
+    "correctAnswer": "Loira",
+    "tags": [
+      "coğrafya",
+      "fransa",
+      "nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q5gtw3qz6",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "İtalya'nın başkenti hangi coğrafi bölgededir?",
+    "explanation": "Roma İtalya'nın Orta İtalya bölgesinde yer alır ve Tiber Nehri'nin kıyısındaki bir şehirdir.",
+    "options": [
+      "Kuzey İtalya",
+      "Orta İtalya",
+      "Güney İtalya",
+      "Adriyatik Sahili"
+    ],
+    "correctAnswer": "Orta İtalya",
+    "tags": [
+      "coğrafya",
+      "italya",
+      "başkentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ajjwarju7",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "İspanya'daki en yüksek dağı hangisidir?",
+    "explanation": "Sierra Nevada İspanya'nın en yüksek dağlık bölgesidir ve Sierra Nevada dağı ile zirve noktası Pico Mulhacén'dir.",
+    "options": [
+      "Sierra Nevada",
+      "Pirine Dağları",
+      "Atlas Dağları",
+      "Kantabria"
+    ],
+    "correctAnswer": "Sierra Nevada",
+    "tags": [
+      "coğrafya",
+      "spanya",
+      "dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v9d80lnv6",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "İngiltere'nin hangi kıyıları vardır?",
+    "explanation": "İngiltere Ada'sı'nın tüm dört tarafı okyanus kıyılarıyla çevrilidir: Kuzey (Keltik Denizi), Güney (Man Denizi/Atlantik), Doğu (Baltık Denizi) ve Batı (Atlantik Okyanusu).",
+    "options": [
+      "Sadece Karayip",
+      "Kuzey, Güney, Doğu ve Batı",
+      "Sadece Atlantik",
+      "Sadece Baltık"
+    ],
+    "correctAnswer": "Kuzey, Güney, Doğu ve Batı",
+    "tags": [
+      "coğrafya",
+      "ingiltere",
+      "kıyılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zr903d8od",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Almanya'nın hangi şehri Don Nehri'ne açılan limanları vardır?",
+    "explanation": "Hamburg Almanya'nın en büyük limanıdır ve Don Nehri'ne açılan önemli ticaret yollarına sahiptir. Köln de Don'a yakın bir şehirdir ancak Hamburg ana limandır.",
+    "options": [
+      "Münih",
+      "Frankfurt",
+      "Hamburg",
+      "Köln"
+    ],
+    "correctAnswer": "Hamburg",
+    "tags": [
+      "coğrafya",
+      "almanya",
+      "limanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y0vhu3gta",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Avrupa'nın en büyük ülkesi hangisidir?",
+    "explanation": "Rusya, Avrupa'nın yaklaşık %40'ını kaplayan ve toplam alanıyla dünyanın en büyük ülkesidir. Avrupalı bölge de dahil olmak üzere Rusya'nın toplam alanı 17 milyon km²'dir.",
+    "options": [
+      "Rusya",
+      "Fransa",
+      "İspanya",
+      "İtalya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "coğrafya",
+      "avrupa ülkeleri",
+      "ülke büyüklüğü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r7ebnt9w0",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Avrupa ülkesi adalardır?",
+    "explanation": "İzlanda, Atlantik Okyanusu'ndaki bir ada devletidir ve tamamen adalardan oluşur. Diğer seçenekler (İsveç, Norveç, Finlandiya) ana kara üzerindeki ülkelerdir.",
+    "options": [
+      "İsveç",
+      "Norveç",
+      "Finlandiya",
+      "İzlanda"
+    ],
+    "correctAnswer": "İzlanda",
+    "tags": [
+      "coğrafya",
+      "avrupa ülkeleri",
+      "ada devletleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iwlg6t6b2",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en nüfuslu başkenti hangisidir?",
+    "explanation": "Moskova, Rusya'nın başkenti ve Avrupa'nın en büyük kenti olarak nüfus bakımından birinci sıradadır. Paris, Londra ve Berlin ise daha küçük nüfuslara sahiptir.",
+    "options": [
+      "Moskova",
+      "Paris",
+      "Londra",
+      "Berlin"
+    ],
+    "correctAnswer": "Moskova",
+    "tags": [
+      "coğrafya",
+      "avrupa ülkeleri",
+      "başkentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rhbz1ej4p",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "İngiltere'nin adasında bulunan iki ana bölge hangisidir?",
+    "explanation": "İngiltere'nin Büyük Britanya adasında iki ana bölge vardır: İngiltere ve Galler. Kuzey İrlanda ise ada üzerinde ayrı bir siyasi bölgedir. Şampanya, Bordo, Lyon, Marsilya ve Roma ise farklı ülkelerden şehirlerdir.",
+    "options": [
+      "Kuzey İrlanda ve Galler",
+      "Şampanya ve Bordo",
+      "Lyon ve Marsilya",
+      "Roma ve Milano"
+    ],
+    "correctAnswer": "Kuzey İrlanda ve Galler",
+    "tags": [
+      "coğrafya",
+      "avrupa ülkeleri",
+      "İngiltere coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o6nrusx2j",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Avrupa Birliği'nin kurucu üyesi olmayan ülke hangisidir?",
+    "explanation": "Sırbistan, Avrupa Birliği'nin kurucu üyesi değildir. Almanya, Fransa ve İspanya ise AB'nin ilk 6 kurucu üyesinden üç tanesidir.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "İspanya",
+      "Sırbistan"
+    ],
+    "correctAnswer": "Sırbistan",
+    "tags": [
+      "coğrafya",
+      "avrupa ülkeleri",
+      "AVB"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k3o2nj4dx",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en büyük ülkesi (toplam alan açısından) hangisidir?",
+    "explanation": "Rusya, Avrupa'nın sadece bir kısmında olmasına rağmen toplam alan açısından dünyanın en büyük ülkesidir ve Avrupa'daki en büyük ülke konumundadır.",
+    "options": [
+      "Rusya",
+      "Fransa",
+      "İspanya",
+      "Almanya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "coğrafya",
+      "avrupa ülkeleri",
+      "alan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u556vgle3",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa Birliği'ne üye olmayan aşağıdaki hangi ülkedir?",
+    "explanation": "Norveç, Avrupa Birliği'ne tam üye değildir. İsveç ve Finlandiya AB üyesidir. Hırvatistan 2013'ten beri AB üyesidir.",
+    "options": [
+      "Norveç",
+      "İsveç",
+      "Finlandiya",
+      "Hırvatistan"
+    ],
+    "correctAnswer": "Norveç",
+    "tags": [
+      "avrupa birliği",
+      "ülke üyeliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yuyg55gdz",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Avrupa'nın en yüksek dağı aşağıdaki ülkede bulunmaktadır.",
+    "explanation": "Avrupa'nın en yüksek dağı olan Matterhorn ve diğer alpin zirveleri İsviçre ve İtalya sınırındadır, ancak Matterhorn 4.478m ile İsviçre'de yer alır.",
+    "options": [
+      "İsviçre",
+      "İtalya",
+      "Almanya",
+      "Hırvatistan"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "coğrafya",
+      "en yüksek dağ",
+      "alpler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ok14q4gbu",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Avrupa ülkesi adalardan oluşmaktadır?",
+    "explanation": "Malta, Akdeniz'de bulunan bir adalardan oluşan mikrodevlettir. İrlanda yarımadalıdır, Çekya ve Polonya ise kıta Avrupası ülkeleridir.",
+    "options": [
+      "İrlanda",
+      "Malta",
+      "Çekya",
+      "Polonya"
+    ],
+    "correctAnswer": "Malta",
+    "tags": [
+      "coğrafya",
+      "ada ülkeleri",
+      "malta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sj11ybdb0",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en nüfuslu ülkesi (2024 tahmini) hangisidir?",
+    "explanation": "Almanya, Avrupa'daki en nüfuslu ülke konumundadır (yaklaşık 84 milyon). Fransa ve İtalya da yüksek nüfusa sahiptir ancak Almanya daha fazladır.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "İtalya",
+      "Rusya"
+    ],
+    "correctAnswer": "Almanya",
+    "tags": [
+      "coğrafya",
+      "nüfus",
+      "avrupa ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ok5hyk499",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Avrupa'daki en büyük ülke hangi ülkedir?",
+    "explanation": "Rusya, Avrupa'nın yaklaşık %40'ını kapsayan en büyük ülkedir. Ancak coğrafi olarak hem Asya hem de Avrupa kıtasında yer alır.",
+    "options": [
+      "Rusya",
+      "Almanya",
+      "Fransa",
+      "İtalya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "kapital",
+      "ülke büyüklüğü",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w2tu1e8qt",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Avrupa ülkesi İskandinavya Yarımadası'nda bulunur?",
+    "explanation": "İskandinavya Yarımadası genellikle Norveç, İsveç ve Finlandiya ülkelerini kapsar. İsveç bu bölgede yer alan en büyük ülkedir.",
+    "options": [
+      "İsveç",
+      "İspanya",
+      "Portekiz",
+      "Norveç"
+    ],
+    "correctAnswer": "İsveç",
+    "tags": [
+      "iskandinav",
+      "yarımada",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jqnojl4b2",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Avrupa'daki 'Yeşil Köşk' olarak bilinen ülke hangisidir?",
+    "explanation": "Hollanda'nın başkenti Amsterdam'da bulunan saray 'Yeşil Köşk' olarak bilinir. Ayrıca Hollanda, Avrupa'nın en batısındaki ülkelerden biridir.",
+    "options": [
+      "Belçika",
+      "Hollanda",
+      "Almanya",
+      "Lüksemburg"
+    ],
+    "correctAnswer": "Hollanda",
+    "tags": [
+      "yeşil köşk",
+      "hollanda",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "op8ghwtj9",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Avrupa'daki en küçük devlet hangisidir?",
+    "explanation": "Vatikan Şehir, Roma'nın içinde bulunan ve sadece 0.44 km² alan kaplayan dünyanın en küçük devletidir.",
+    "options": [
+      "Monako",
+      "Vatikan",
+      "Lihtenştayn",
+      "Malta"
+    ],
+    "correctAnswer": "Vatikan",
+    "tags": [
+      "küçük devlet",
+      "vatikan",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e9x9urgks",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Avrupa ülkesi 'Alp' sıradağlarının üzerinde bulunur?",
+    "explanation": "İsviçre, Alp Sıradağları'nın kalbinde yer alan ülkedir. Ayrıca Fransa, İtalya ve Avusturya da Alp bölgesinde bulunur.",
+    "options": [
+      "İspanya",
+      "İsviçre",
+      "Portekiz",
+      "Yunanistan"
+    ],
+    "correctAnswer": "İsviçre",
+    "tags": [
+      "alp",
+      "sıradağlar",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cftg0xm6c",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'daki en büyük ülke hangisidir?",
+    "explanation": "Avrupalı kısımdan bakıldığında Rusya, Fransa ve Almanya'dan daha büyük bir alan kaplar. Avrupa'nın en geniş ülkesi olarak kabul edilir.",
+    "options": [
+      "Fransa",
+      "Almanya",
+      "Rusya (Avrupalı kısmı)",
+      "İspanya"
+    ],
+    "correctAnswer": "Rusya (Avrupalı kısmı)",
+    "tags": [
+      "coğrafya",
+      "ülke büyüklüğü",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebcvcm0od",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangisi Avusturya'nın komşu ülkelerindendir?",
+    "explanation": "Avusturya'nın komşu ülkeleri arasında İtalya, Almanya, Çekya, Slovakya, Avstriya ile Sırbistan bulunmaktadır. Portekiz ve Yunanistan ise Avusturya'ya komşu değildir.",
+    "options": [
+      "İtalya",
+      "Portekiz",
+      "Hırvatistan",
+      "Yunanistan"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "coğrafya",
+      "komşuluk",
+      "avusturya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c7vaniraj",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "İngiltere'nin başkenti hangi şehirdir?",
+    "explanation": "İngiltere'nin başkenti Londra'dır. Dublin İrlanda'nın, Edinburgh ise İskoçya'nın (de facto) başkentidir.",
+    "options": [
+      "Londra",
+      "Dublin",
+      "Edinburgh",
+      "Manchester"
+    ],
+    "correctAnswer": "Londra",
+    "tags": [
+      "coğrafya",
+      "başkent",
+      "ingiltere"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t2l481l8n",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Alpler Dağları hangi ülkelerin sınırlarında bulunur?",
+    "explanation": "Alpler Dağları Avrupa'nın en büyük dağ sistemlerinden biridir ve Fransa, Almanya, İtalya, İsviçre, Avusturya, Slovenya gibi ülkelerin sınırlarında bulunur.",
+    "options": [
+      "Fransa-Almanya-İtalya",
+      "İspanya-Portekiz-Fransa",
+      "Bulgaristan-Yunanistan-Türkiye",
+      "Romanya-Macaristan-Slovakya"
+    ],
+    "correctAnswer": "Fransa-Almanya-İtalya",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "alpler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v2ccd7w6e",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hindistan Denizi'ne kıyı olan hangi Avrupa ülkesidir?",
+    "explanation": "Türkiye, Avrupa ve Asya'nın geçiş noktasında bulunan ülkedir. Güneydoğu Anadolu bölgesi Ege Denizi'ne, güneybatı kısmı Akdeniz'e, doğu kısmı ise Karadeniz'e kıyılı. Hindistan Denizi'ne kıyı olan tek ülke Türkiye'dir.",
+    "options": [
+      "Türkiye",
+      "Yunanistan",
+      "Romanya",
+      "Bulgaristan"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "coğrafya",
+      "deniz kıyısı",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fh2vfud4c",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en büyük ülkesi aşağıdakilerden hangisidir?",
+    "explanation": "Rusya, Avrupa'nın en büyük ülkesi olup hem Avrupa hem de Asya kıtasında yer alan devasa bir ülkedir. Sadece Avrupa kısmı bile Fransa'dan çok daha büyüktür.",
+    "options": [
+      "Fransa",
+      "Rusya",
+      "İtalya",
+      "Almanya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Avrupa Coğrafyası",
+      "Ülke Boyutları",
+      "En Büyük Ülke"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3lq7bctg3",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en küçük bağımsız devleti hangisidir?",
+    "explanation": "Vatikan, dünyanın en küçük bağımsız devletidir ve sadece Roma'nın içinde yer alan 0.44 km²'lik bir toprak parçasına sahiptir.",
+    "options": [
+      "Monako",
+      "Vatikan",
+      "Lichtenstein",
+      "Andorra"
+    ],
+    "correctAnswer": "Vatikan",
+    "tags": [
+      "Avrupa Coğrafyası",
+      "En Küçük Ülke",
+      "Bağımsız Devletler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xc35x8po0",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki Avrupa ülkelerinden hangisi Britanya Adası'nda yer almaz?",
+    "explanation": "İngiltere, İskoçya ve İrlanda Britanya Adası'nda yer alırken, Portekiz Avrupa'nın güneybatısında (peninsularda) bulunan bir ülkedir.",
+    "options": [
+      "İngiltere",
+      "İrlanda",
+      "İskoçya",
+      "Portekiz"
+    ],
+    "correctAnswer": "Portekiz",
+    "tags": [
+      "Avrupa Coğrafyası",
+      "Adalar",
+      "Britanya Adası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "voxf57apk",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Avrupa'nın en uzun nehri aşağıdakilerden hangisidir?",
+    "explanation": "Volga nehri, Avrupa'nın en uzun nehridir ve 3.530 km ile dünyanın da en uzun nehre adayıdır. Rusya'dan doğup Kasp Denizi'ne dökülür.",
+    "options": [
+      "Danubius",
+      "Volga",
+      "Rhen",
+      "Seine"
+    ],
+    "correctAnswer": "Volga",
+    "tags": [
+      "Avrupa Coğrafyası",
+      "Nevrler",
+      "En Uzun Nehir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p6eqo9fsq",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki ülkelerden hangisi Schengen Bölgesi'nde yer almaz?",
+    "explanation": "Almanya, Fransa ve İspanya Schengen Bölgesi'ne üyedir. Kuzey İrlanda ise Büyük Britanya'nın bir parçası olarak Schengen dışındadır.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "İspanya",
+      "Kuzey İrlanda"
+    ],
+    "correctAnswer": "Kuzey İrlanda",
+    "tags": [
+      "Avrupa Coğrafyası",
+      "Schengen Bölgesi",
+      "Sınır Kontrolleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0jggedpfy",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Avrupa'nın en büyük ülkesi ve doğu Avrupa'daki en büyük ülke hangisidir?",
+    "explanation": "Rusya, Avrupalı nüfusun büyük kısmıyla birlikte Avrupa'nın en büyük ülkesidir ve doğu Avrupa bölgesinde yer alır.",
+    "options": [
+      "Almanya",
+      "Rusya",
+      "Fransa",
+      "İtalya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Avrupa Coğrafyası",
+      "Ülke Boyutu",
+      "Doğu Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1xd6a9ibe",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa Birliği'nin (AB) şu anki kaç üyesi vardır (yaklaşık)?",
+    "explanation": "Brexit sonrası İngiltere'nin çıkışıyla birlikte Avrupa Birliği'nde 27 üye ülke bulunmaktadır.",
+    "options": [
+      "27",
+      "30",
+      "25",
+      "28"
+    ],
+    "correctAnswer": "27",
+    "tags": [
+      "Avrupa Birliği",
+      "Üye Sayısı",
+      "Siyaasi Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bqnb2gqy0",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "İskandinav Yarımadası'nın üçlü üyeleri hangileridir?",
+    "explanation": "İskandinav Yarımadası'nda Finlandiya, İsveç ve Norveç ülkeleri yer alır.",
+    "options": [
+      "Finlandiya, İsveç, Norveç",
+      "İspanya, Portekiz, Fransa",
+      "Almanya, Polonya, Çekya",
+      "İtalya, Yunanistan, Romanya"
+    ],
+    "correctAnswer": "Finlandiya, İsveç, Norveç",
+    "tags": [
+      "İskandinavya",
+      "Avrupa Bölgeleri",
+      "Ülke Grubu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5fmafp9qw",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en dağlık bölgesi ve Alpler'in bulunduğu ülke hangisidir?",
+    "explanation": "İsviçre, Alpler'in büyük kısmını kapsayan ve dağlık yapıya sahip Avrupa ülkesidir.",
+    "options": [
+      "Almanya",
+      "İsviçre",
+      "Fransa",
+      "İtalya"
+    ],
+    "correctAnswer": "İsviçre",
+    "tags": [
+      "Avrupa Dağları",
+      "Alpler",
+      "Ülke Özellikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kjos05qc2",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Pireneler'in hangi iki ülke arasında yer aldığı doğru?",
+    "explanation": "Pireneler, Fransa ve İspanya ülkeleri arasında bulunan dağlık bölgedir.",
+    "options": [
+      "Fransa-Almanya",
+      "İspanya-Portekiz",
+      "Fransa-İspanya",
+      "Almanya-Polonya"
+    ],
+    "correctAnswer": "Fransa-İspanya",
+    "tags": [
+      "Avrupa Dağları",
+      "Pireneler",
+      "Ülke Sınırları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cay7196gp",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en kalabalık ülkesi hangisidir?",
+    "explanation": "Almanya, Avrupa Birliği'nin en kalabalık ülkesidir ve yaklaşık 83 milyon nüfusa sahiptir. Fransa (67 milyon) ve İtalya (59 milyon) bunlardan sonra gelir.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "İtalya",
+      "İspanya"
+    ],
+    "correctAnswer": "Almanya",
+    "tags": [
+      "coğrafya",
+      "Avrupa ülkeleri",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bdewv23wm",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "İngiltere hangi kıta üzerinde yer alır?",
+    "explanation": "İngiltere, Kuzey Denizi'nde bulunan Adalar ülkesidir ve coğrafi olarak Avrupa kıtasında yer alır. İngiltere'nin adaları Büyük Britanya'dır.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Avrupa",
+    "tags": [
+      "coğrafya",
+      "Adalar",
+      "kıta dağılımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5yon8v9m2",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Portekiz'in başkenti hangisidir?",
+    "explanation": "Portekiz'in başkenti Lisbon'dur. Madrid İspanya'nın, Valencia ve Barcelona da İspanya'nın büyük şehirleridir.",
+    "options": [
+      "Madrid",
+      "Lisbon",
+      "Valencia",
+      "Barcelona"
+    ],
+    "correctAnswer": "Lisbon",
+    "tags": [
+      "coğrafya",
+      "Avrupa başkentleri",
+      "Portekiz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j8m9t5gmu",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Avrupa'nın en uzun nehri hangisidir?",
+    "explanation": "Volga Nehri, tamamen Avrupa üzerinde bulunan ve yaklaşık 3.692 km uzunluğundadır. Don nehri (2.400 km) ve Tuna nehri de önemli Avrupa nehirleridir.",
+    "options": [
+      "Don Nehri",
+      "Volga Nehri",
+      "Davyda Nehri",
+      "Tuna Nehri"
+    ],
+    "correctAnswer": "Volga Nehri",
+    "tags": [
+      "coğrafya",
+      "Avrupa nehirleri",
+      "jeolojik yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rqhleenyv",
+    "category": "COĞRAFYA",
+    "subcategory": "Avrupa Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Şanghay Özerk Bölgesi'nde yer alan Japonya'nın en büyük adası hangisidir?",
+    "explanation": "Not: Bu soru Japonya ile ilgili olsa da Avratp coğrafyası kapsamında değerlendirilebilir. Honşu, Japonya'nın yaklaşık 38 milyon nüfuslu en büyük ve kalabalık adasıdır.",
+    "options": [
+      "Honşu",
+      "Kyuşyu",
+      "Hokkaido",
+      "Shikoku"
+    ],
+    "correctAnswer": "Honşu",
+    "tags": [
+      "coğrafya",
+      "Japonya",
+      "Avrupa-Japonya karşılaştırması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

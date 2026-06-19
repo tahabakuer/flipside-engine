@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "59ispwucp",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "What is a fossil?",
+    "explanation": "Fossils are the preserved remains, impressions, or traces of ancient organisms that were buried and mineralized over millions of years.",
+    "options": [
+      "A mineral deposit formed from ancient plants",
+      "The preserved remains or traces of ancient organisms",
+      "A type of rock formed during volcanic activity",
+      "An artifact made by early humans"
+    ],
+    "correctAnswer": "The preserved remains or traces of ancient organisms",
+    "tags": [
+      "Paleontology",
+      "Fossils",
+      "Introduction"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oy999hk43",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Which time period is known as the 'Age of Dinosaurs'?",
+    "explanation": "The Mesozoic Era (252-66 million years ago) spans the Triassic, Jurassic, and Cretaceous periods when dinosaurs dominated Earth.",
+    "options": [
+      "Paleozoic Era",
+      "Mesozoic Era",
+      "Cenozoic Era",
+      "Precambrian"
+    ],
+    "correctAnswer": "Mesozoic Era",
+    "tags": [
+      "Geological Time",
+      "Dinosaurs",
+      "Era Classification"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ruhc0pl8j",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "What does the study of trace fossils examine?",
+    "explanation": "Trace fossils (ichnofossils) record the activities of organisms such as walking, swimming, feeding, or dwelling rather than their physical bodies.",
+    "options": [
+      "Only complete skeletal remains",
+      "Footprints, burrows, and feeding marks",
+      "Modern living organisms",
+      "Mineral composition of rocks"
+    ],
+    "correctAnswer": "Footprints, burrows, and feeding marks",
+    "tags": [
+      "Trace Fossils",
+      "Paleoecology",
+      "Preservation Types"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zizw97a9l",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Which famous fossil discovery was found in 1922 in China?",
+    "explanation": "The Sinosauropteryx, a small feathered dinosaur from the Early Cretaceous period, was discovered in Liaoning Province, China in 1922.",
+    "options": [
+      "Archaeopteryx",
+      "Tyrannosaurus Rex",
+      "Sinosauropteryx",
+      "Ankylosaurus"
+    ],
+    "correctAnswer": "Sinosauropteryx",
+    "tags": [
+      "Chinese Paleontology",
+      "Dinosaur Discovery",
+      "Fossil Record"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sg1y2ryeb",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "What is radiometric dating used for in paleontology?",
+    "explanation": "Radiometric dating measures radioactive decay to determine the absolute age of rocks and fossils, providing a timeline for evolutionary history.",
+    "options": [
+      "Determining the age of fossils",
+      "Identifying species classification",
+      "Reconstructing animal behavior",
+      "Analyzing fossil colors"
+    ],
+    "correctAnswer": "Determining the age of fossils",
+    "tags": [
+      "Dating Methods",
+      "Geochronology",
+      "Scientific Techniques"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "41fj3lm0l",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Paleontolojinin temel çalışma alanı nedir?",
+    "explanation": "Paleontoloji, sadece kemik veya bitki fosilleri değil; tüm fosil kalıntılarını, izlerini, dışkısını ve diğer biyolojik kanıtları da kapsayan bilimsel bir disiplindir.",
+    "options": [
+      "Canlıların genetik yapılarını incelemek",
+      "Tüm fosil kalıntılarını ve izlerini araştırmak",
+      "Sadece kemik fosillerini analiz etmek",
+      "Bitki kalıntılarını toplayıp sınıflandırmak"
+    ],
+    "correctAnswer": "Tüm fosil kalıntılarını ve izlerini araştırmak",
+    "tags": [
+      "temel bilgi",
+      "paleontoloji tanımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nt2uev2u5",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Triyas dönemde yaşamış ve dinozorlarla yakın akrabalığı olan grup hangisidir?",
+    "explanation": "Triyas dönemindeki arhosaurlar, dinozorların ve modern sürüngenlerin ortak atası olan büyük evrimsel gruplardır.",
+    "options": [
+      "Arhosaurlar",
+      "Ektotermik sürüngenler",
+      "Endotermik memeliler",
+      "Havada uçuşan pterozaurlar"
+    ],
+    "correctAnswer": "Arhosaurlar",
+    "tags": [
+      "dinozor coğrafyası",
+      "triyas dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3quxgpwo9",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Fosilleşme sürecinde en korunabilir yapı hangisidir?",
+    "explanation": "Kemik ve diş gibi sert yapılar, fosilleşme sürecinde yumuşak dokulara göre daha yüksek korunma şansı sunar.",
+    "options": [
+      "Yumuşak dokular",
+      "Kemik ve diş kalıntıları",
+      "Canlı dokusu",
+      "Deri izleri"
+    ],
+    "correctAnswer": "Kemik ve diş kalıntıları",
+    "tags": [
+      "fosilleşme mekanizması",
+      "korunma oranı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p1yjf5qiv",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Paleontolojide 'trilobit' hangi dönemden kalıntıdır?",
+    "explanation": "Trilobitler, Kambriyen'de ortaya çıkan ve Perm'e kadar yaşamış önemli bir fosil grubudur.",
+    "options": [
+      "Kambriyen - Perm",
+      "Devon - Triyas",
+      "Jura - Kretase",
+      "Silur - Kambriyen"
+    ],
+    "correctAnswer": "Kambriyen - Perm",
+    "tags": [
+      "trilobit",
+      "paleozoik dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "osdnfo943",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Paleontolojinin kullanmadığı yöntem hangisidir?",
+    "explanation": "Paleontolojide fosilleşen yumuşak dokularda genellikle DNA korunmaz, bu yüzden genetik analiz modern canlılarda kullanılır.",
+    "options": [
+      "Fosil analiz",
+      "Karbon dating (karbon tarihlendirme)",
+      "Genetik DNA analizi",
+      "İz fosili araştırmaları"
+    ],
+    "correctAnswer": "Genetik DNA analizi",
+    "tags": [
+      "paleontoloji yöntemleri",
+      "sınırlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2db7nk0p1",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "What type of rock most commonly contains fossils?",
+    "explanation": "Sedimentary rocks form from accumulated sediment where organic remains are preserved over time.",
+    "options": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Volcanic"
+    ],
+    "correctAnswer": "Sedimentary",
+    "tags": [
+      "fossils",
+      "geology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "js79uehoh",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Which geological period is most associated with the dominance of dinosaurs?",
+    "explanation": "Dinosaurs were the dominant terrestrial vertebrates throughout the Mesozoic Era, which includes the Triassic, Jurassic, and Cretaceous periods.",
+    "options": [
+      "Paleozoic Era",
+      "Mesozoic Era",
+      "Cenozoic Era",
+      "Proterozoic Eon"
+    ],
+    "correctAnswer": "Mesozoic Era",
+    "tags": [
+      "dinosaurs",
+      "geology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k5p8e4ubp",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Which material is known for preserving fine details of soft tissues in fossils?",
+    "explanation": "Amber, fossilized tree resin, can encapsulate organisms and preserve intricate features including soft tissues.",
+    "options": [
+      "Amber",
+      "Coal",
+      "Limestone",
+      "Sandstone"
+    ],
+    "correctAnswer": "Amber",
+    "tags": [
+      "fossils",
+      "preservation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d2xau6wpz",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "What is a coprolite in paleontology?",
+    "explanation": "Coprolites are fossilized feces that may contain undigested material, providing insights into the diet of extinct organisms.",
+    "options": [
+      "Fossilized plant remains",
+      "Fossilized feces",
+      "Petrified wood",
+      "Footprints of ancient animals"
+    ],
+    "correctAnswer": "Fossilized feces",
+    "tags": [
+      "fossils",
+      "paleontology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "56m0yv353",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Who was the first paleontologist to use the term 'paleontology'?",
+    "explanation": "William Buckland coined the term 'paleontology' in 1836, establishing it as a formal scientific discipline.",
+    "options": [
+      "Georges Cuvier",
+      "William Buckland",
+      "Robert Bakker",
+      "Othniel Marsh"
+    ],
+    "correctAnswer": "William Buckland",
+    "tags": [
+      "paleontology",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "che8iaqen",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Paleontolojide fosil olarak kabul edilen yapılar aşağıdakilerden hangisidir?",
+    "explanation": "Fosiller, organik canlıların taşlaşmış veya kaya içinde korunan kemik, diş, kabuk, izler ve diğer materyalleridir. Sadece kemik değil, tüm korunmuş izler fosil sayılır.",
+    "options": [
+      "A) Sadece kemik kalıntıları",
+      "B) Organik materyallerin kaya içinde korunmuş izleri ve kalıntıları",
+      "C) Mineral zenginleşmeler",
+      "D) Fosil yakıt kaynakları"
+    ],
+    "correctAnswer": "B) Organik materyallerin kaya içinde korunmuş izleri ve kalıntıları",
+    "tags": [
+      "tanımlar",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ajhzv4lc",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Archaeopteryx keşfinden sonra hangi dönemde ortaya çıktı?",
+    "explanation": "Archaeopteryx, yaklaşık 150 milyon yıl önce Jura dönemine ait bir fosildir. Kuş ve dinozor geçiş formu olarak bilinen bu fosil İngiltere'de bulunmuştur.",
+    "options": [
+      "A) Kretase",
+      "B) Jura dönemi",
+      "C) Triyas dönemi",
+      "D) Paleosen"
+    ],
+    "correctAnswer": "B) Jura dönemi",
+    "tags": [
+      "dönemler",
+      "tarihçeser keşifler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lb9q4rrqe",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Paleontolojik bulgulara göre T-Rex'in kuyruğu nasıl kullanılırdı?",
+    "explanation": "T-Rex'in kuyruğu, vücudunun dengeyi koruması ve yürürken stabilite sağlaması için kullanılırdı. Kuyruk kısa ve sert kemikliydi.",
+    "options": [
+      "A) Denge sağlamak için",
+      "B) Yem tutmak için",
+      "C) Saldırı amaçlı olarak",
+      "D) Havada uçmak için"
+    ],
+    "correctAnswer": "A) Denge sağlamak için",
+    "tags": [
+      "dinozorlar",
+      "fonksiyonlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pmswiaxj0",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Trilobitler hangi grupta sınıflandırılır?",
+    "explanation": "Trilobitler, kabuklu ve bacaklı olan artropod grubuna aittir. Milyonlarca yıl önce yaşamış ilk artropodlardan biri olarak kabul edilir.",
+    "options": [
+      "A) Omurgalılar",
+      "B) Yumuşacıklar",
+      "C) Artropodlar",
+      "D) Balıklar"
+    ],
+    "correctAnswer": "C) Artropodlar",
+    "tags": [
+      "sınıflandırma",
+      "artropodlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9s0e80r57",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Fosilleşme sürecinde hangi faktör en önemli rol oynar?",
+    "explanation": "Fosilleşme için en kritik faktör, organik materyalin hızla kaya içinde gömülmesi ve oksijenin olmamasıdır. Bu sayede çürüme önlenir.",
+    "options": [
+      "A) Yüksek sıcaklık",
+      "B) Hızlı gömülme ve oksijensiz ortam",
+      "C) Yavaş kuruma",
+      "D) Minerallerin çözünmesi"
+    ],
+    "correctAnswer": "B) Hızlı gömülme ve oksijensiz ortam",
+    "tags": [
+      "fosilleşme mekanizması",
+      "yöntemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "09we169wo",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Paleontoloji nedir?",
+    "explanation": "Paleontoloji, fosillere dayalı olarak geçmişte yaşamış organizmaları ve onların evrimini inceleyen bilim dalıdır.",
+    "options": [
+      "Duygu ve sanat bilimi",
+      "Geçmişteki yaşam formlarını fosiller yoluyla inceleyen bilim dalı",
+      "Bitki biyolojisi",
+      "Atmosferi araştıran bilim"
+    ],
+    "correctAnswer": "Geçmişteki yaşam formlarını fosiller yoluyla inceleyen bilim dalı",
+    "tags": [
+      "tanım",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xd1gh55sm",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Fosilleşme süreci kaç yıl sürebilir?",
+    "explanation": "Fosilleşme, genellikle 100.000 ila 1 milyon yıl kadar süren nadir bir süreçtir ve uygun koşullar gerektirir.",
+    "options": [
+      "10-50 yıl",
+      "1.000-50.000 yıl",
+      "100.000-1.000.000 yıl",
+      "1 milyon yıldan fazla"
+    ],
+    "correctAnswer": "100.000-1.000.000 yıl",
+    "tags": [
+      "fosilleşme",
+      "süreç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "07hsxv51h",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Dinozorların çoğu hangi dönemde yok oldu?",
+    "explanation": "Dinozorların çoğu 66 milyon yıl önce Kretase döneminin sonunda büyük bir küresel olayla yok oldu.",
+    "options": [
+      "Kambri",
+      "Jura",
+      "Kretase",
+      "Holosen"
+    ],
+    "correctAnswer": "Kretase",
+    "tags": [
+      "dinozorlar",
+      "sönme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ibltp3e9",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangisi en meşhur fosil buluntularından biridir?",
+    "explanation": "Tiktaalik, balık ve dinozorlar arasındaki geçiş formu olarak bilinen meşhur bir fosildir.",
+    "options": [
+      "Tiktaalik",
+      "Moa",
+      "Woolly Mamut",
+      "Sivri Dişli Sürüngen"
+    ],
+    "correctAnswer": "Tiktaalik",
+    "tags": [
+      "fossil",
+      "buluntu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w8llh294s",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Paleontologlar sınıflandırma için ne kullanır?",
+    "explanation": "Paleontologlar, morfolojik (şekilsel) özellikleri ve fosil kayıtlarını kullanarak organizmaları sınıflandırmak için kullanılır.",
+    "options": [
+      "Genetik veriler",
+      "Morfolojik özellikler ve fosil kayıtları",
+      "Sadece radyoaktif tarihleme",
+      "İnsan gözlemi"
+    ],
+    "correctAnswer": "Morfolojik özellikler ve fosil kayıtları",
+    "tags": [
+      "sınıflandırma",
+      "metodoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5libx0d1k",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Paleontoloji nedir?",
+    "explanation": "Paleontoloji, fosiller aracılığıyla geçmişteki canlı organizmaları ve ekosistemleri inceleyen bilim dalıdır.",
+    "options": [
+      "Antik medeniyetlerin incelenmesi",
+      "Fosillerin ve eski organizmaların bilimi",
+      "Kozmik olayların araştırılması",
+      "Jeolojik haritalama"
+    ],
+    "correctAnswer": "Fosillerin ve eski organizmaların bilimi",
+    "tags": [
+      "tanım",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1yw6hb8bc",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "En yaygın bulunan fosil türü hangisidir?",
+    "explanation": "Kemikler fosilleşme şansının en yüksek olduğu yapıdır çünkü sert doku ve mineral içerir.",
+    "options": [
+      "Kemikler",
+      "Yumuşak doku kalıntıları",
+      "Mantarlar",
+      "Bitkiler"
+    ],
+    "correctAnswer": "Kemikler",
+    "tags": [
+      "fosil-türleri",
+      "yaygınlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zluih9bbr",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Dinozorların çoğu hangi devre yaşamıştır?",
+    "explanation": "Dinozorlar Mesozoik Dev'de (252-66 milyon yıl önce) yaşamış ve bu devin dominant canlılarıdır.",
+    "options": [
+      "Kambriyen",
+      "Mesozoik Dev",
+      "Paleozoik Dev",
+      "Neojen"
+    ],
+    "correctAnswer": "Mesozoik Dev",
+    "tags": [
+      "zaman-çerçevesi",
+      "dinozorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lkqyog5g5",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Trilobit fosilleri hangi devden kalıntı olarak bulunur?",
+    "explanation": "Trilobitler Paleozoik Dev'de (özellikle Kambriyen) yaygındı ve Mesozoik'te kayboldular.",
+    "options": [
+      "Paleozoik",
+      "Mesozoik",
+      "Neojen",
+      "Kambriyen"
+    ],
+    "correctAnswer": "Paleozoik",
+    "tags": [
+      "fosil-grubu",
+      "devler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "148ub0l3o",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Karbonatlı fosillerin oluşumu hangi koşullarda daha kolaydır?",
+    "explanation": "Karbonatlı fosiller genellikle taze suda (limnoid) daha iyi korunur çünkü asidik ortam karbonatları çözer.",
+    "options": [
+      "Tuzlu su",
+      "Taze su",
+      "Asidik ortam",
+      "Oksijen eksikliği"
+    ],
+    "correctAnswer": "Taze su",
+    "tags": [
+      "fosil-koşulları",
+      "kalsiyum-karbonat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rtvc02lpb",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Paleontolojinin temel amacı nedir?",
+    "explanation": "Paleontoloji, fosillerin incelenmesi ve bu verilerle geçmiş organizmaların evrim süreçlerinin anlaşılması üzerine kuruludur.",
+    "options": [
+      "Yaşayan bitkileri sınıflandırmak",
+      "Tarihsel fosilleri inceleyerek evrim bilgisini elde etmek",
+      "Jeolojik katmanları keşfetmek",
+      "Modern ekosistemleri korumak"
+    ],
+    "correctAnswer": "Tarihsel fosilleri inceleyerek evrim bilgisini elde etmek",
+    "tags": [
+      "Paleontoloji",
+      "Fosil Bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aukf3i10l",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi dönem 'Mezozik Dönem' olarak bilinir?",
+    "explanation": "Mesozoik Dönem, Triyas, Jura ve Kretase dönemlerini kapsar ve dinosaurusların yaşadığı bilinir bir zamandır.",
+    "options": [
+      "Paleozoik",
+      "Mesozoik",
+      "Karnizoik",
+      "Neojen"
+    ],
+    "correctAnswer": "Mesozoik",
+    "tags": [
+      "Jeolojik Zamanlar",
+      "Dönem Adları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oz4yc8cxc",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi fosil oluşumu için gerekli koşuldur?",
+    "explanation": "Fosillerin korunması için organizmanın hızlıca gömülmesi ve oksijensiz ortamda çözünmemesi gerekir.",
+    "options": [
+      "Organik maddelerin çabuk çözülmesi",
+      "Hızlı gömülme ve oksijensiz ortam",
+      "Yüzeyde kalma süresinin uzun olması",
+      "Klorofil içeren bitkilerin bulunması"
+    ],
+    "correctAnswer": "Hızlı gömülme ve oksijensiz ortam",
+    "tags": [
+      "Fosil Oluşumu",
+      "Jeolojik Süreçler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qcinxkk7e",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "'Archaeopteryx' fosili hangi evrimsel geçişi temsil eder?",
+    "explanation": "Archaeopteryx, dinosavrus ve kuşlar arasında evrimsel bir geçiş formu olarak kabul edilir.",
+    "options": [
+      "Dinosaurus ile kuşlar arasındaki geçiş",
+      "Amfibiler ile reptiller arasındaki geçiş",
+      "Balık ile kurbağalar arası geçiş",
+      "Mantarlarla bitkiler arası geçiş"
+    ],
+    "correctAnswer": "Dinosaurus ile kuşlar arasındaki geçiş",
+    "tags": [
+      "Evrimsel Geçişler",
+      "Kuşların Kökeni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ajnhlk9fo",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangi fosil grubu 'mikrofosil' olarak sınıflandırılır?",
+    "explanation": "Mikrofosiller, mikroskopla incelenebilir boyutlardaki organizma kalıntılarıdır; örneğin foraminiferler.",
+    "options": [
+      "Dinosaurus kemikleri",
+      "Mantar kalıntıları",
+      "Fitoplankton ve foraminiferalar",
+      "Yıkanmış taş parçaları"
+    ],
+    "correctAnswer": "Fitoplankton ve foraminiferalar",
+    "tags": [
+      "Mikrofosiller",
+      "Jeolojik Araştırmalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zsve088zg",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Fosillerin oluşması için gerekli olan en önemli koşulların başında gelen nedir?",
+    "explanation": "Fosil oluşumu için organizmanın yavaşça çürümesi ve uygun jeolojik ortamın (kireçli, kumlu vb.) bulunması gerekir. Hızlı çürüme fosilleşmeyi engeller.",
+    "options": [
+      "Yavaş çürüme süreci ve uygun jeolojik ortam",
+      "Hızlı çürüme ve yüksek sıcaklık",
+      "Sadece su altında kalma",
+      "Bitki örtüsünün yoğunluğu"
+    ],
+    "correctAnswer": "Yavaş çürüme süreci ve uygun jeolojik ortam",
+    "tags": [
+      "fossiller",
+      "jeoloji",
+      "bilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mffwnhi8p",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Dinozorların yaşadığı jeolojik dönemler nelerdir?",
+    "explanation": "Dinozorlar Triyas döneminde ortaya çıkmış, Jura ve Kreta dönemlerinde zirve yapmışlardır. Kretase sonu olayında kütleli yok olmuşlardır.",
+    "options": [
+      "Triyas, Jura ve Kreta",
+      "Karbon, Perm ve Triyas",
+      "Paleosen, Eosen ve Oligosen",
+      "Miosen, Pliosen ve Pleistosen"
+    ],
+    "correctAnswer": "Triyas, Jura ve Kreta",
+    "tags": [
+      "dinozorlar",
+      "jeolojik dönemler",
+      "evrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "akxhg70oa",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Paleontolojinin temel çalışma yöntemi nedir?",
+    "explanation": "Paleontoloji, fosil kalıntıları üzerinden canlıların jeolojik geçmişteki evrimini ve dağılımını inceler. Canlı gözlem Paleo değil, biyoloji alanına girer.",
+    "options": [
+      "Fossilleri inceleyerek evrimsel geçmişi yorumlama",
+      "Sadece canlı türleri gözlemleme",
+      "Atomik yapıyı analiz etme",
+      "Gezegenlerin konumunu belirleme"
+    ],
+    "correctAnswer": "Fossilleri inceleyerek evrimsel geçmişi yorumlama",
+    "tags": [
+      "paleontoloji",
+      "bilim yöntemi",
+      "evrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hgd8mudwy",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de ünlü bir fosil yatağı olan 'Sancaktepe' hangi dönemde yaşamış organizmalar için önemlidir?",
+    "explanation": "Sancaktepe fosil yatağı, Kretase sonu olayından (65 milyon yıl önce) kalan dinazor kalıntıları ve diğer organizmalar için önemlidir. Türkiye'de önemli paleontolojik alanlardan biridir.",
+    "options": [
+      "Kreta dönemi dinazorları",
+      "Triyas dönemi balıkları",
+      "Oligosen dönemi memelileri",
+      "Jura dönemi kuşları"
+    ],
+    "correctAnswer": "Kreta dönemi dinazorları",
+    "tags": [
+      "türkiye",
+      "fosil yatakları",
+      "dinazorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0elarr8ep",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Paleontologlar fosilleri yaşlandırmak için hangi yöntemi kullanır?",
+    "explanation": "Karbon-14 tarihleme 50.000 yıl civarı için uygundur. Daha eski fosiller için Potasyum-Argon veya Uranium-Lead gibi diğer radyometrik yöntemler kullanılır.",
+    "options": [
+      "Karbon-14 tarihleme (düşük seviyeli fosiller)",
+      "Sadece görsel analiz",
+      "Mikroskopla inceleme",
+      "Röntgen ile taranma"
+    ],
+    "correctAnswer": "Karbon-14 tarihleme (düşük seviyeli fosiller)",
+    "tags": [
+      "tarihleme",
+      "karbon-14",
+      "paleontoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2pk08cbhj",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Paleontolojinin temel amacı nedir?",
+    "explanation": "Paleontoloji, geçmişteki canlıları fosiller üzerinden inceleyen bilim dalıdır.",
+    "options": [
+      "Canlı organizmaların mevcut ekosistemlerini incelemek.",
+      "Geçmişteki yaşamı fosiller aracılığıyla araştırmak.",
+      "Taş devri insanlarının kültürünü analiz etmek.",
+      "Jeolojik katmanların oluşumunu belirlemek."
+    ],
+    "correctAnswer": "Geçmişteki yaşamı fosiller aracılığıyla araştırmak.",
+    "tags": [
+      "paleontoloji",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "azz4hjnn0",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Fosillerin korunması en etkili hangi koşullarda gerçekleşir?",
+    "explanation": "Fosillerin korunması için hızlı gömülme ve bozulmadan (örneğin sedimentasyon) korunma şarttır.",
+    "options": [
+      "Yüksek sıcaklık ve oksijenli ortamda.",
+      "Hızlı gömülme ve bozulmadan korunma süreciyle.",
+      "Volkanik faaliyetlerin yoğun olduğu bölgelerde.",
+      "Deniz seviyesinin yükseldiği alanlarda."
+    ],
+    "correctAnswer": "Hızlı gömülme ve bozulmadan korunma süreciyle.",
+    "tags": [
+      "fosil oluşumu",
+      "jeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lrknxf83b",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Trilobitler hangi biyolojik gruba aittir?",
+    "explanation": "Trilobitler, eski çağlarda yaygın olan ekze (arthropod) grubundaki fosildir.",
+    "options": [
+      "Molluskalar.",
+      "Omurgalılar.",
+      "Ekzemalılar.",
+      "Amfibiler."
+    ],
+    "correctAnswer": "Ekzemalılar.",
+    "tags": [
+      "trilobit",
+      "sınıflandırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ehgo9dya",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Dinosaur adını ilk veren bilim insanı kimdir?",
+    "explanation": "Richard Owen, 1842'de 'Dinosaur' terimini ilk kez kullanmıştır.",
+    "options": [
+      "Charles Darwin.",
+      "Richard Owen.",
+      "Louis Leakey.",
+      "Mary Anning."
+    ],
+    "correctAnswer": "Richard Owen.",
+    "tags": [
+      "dinazor",
+      "paleontologlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kzgd3o09b",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Morrison Formasyonu'nun fosil buluntuları hangi dönemde bulunur?",
+    "explanation": "Morrison Formasyonu, Jura Dönemi'nde (yaklaşık 150-145 mya) oluşmuş ve önemli dinazor fosillerini barındırır.",
+    "options": [
+      "Kambriyen.",
+      "Devonyen.",
+      "Jura.",
+      "Triyas."
+    ],
+    "correctAnswer": "Jura.",
+    "tags": [
+      "Morrison Formasyonu",
+      "Jura dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wfmbaxbrt",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Paleontolojinin temel konusu nedir?",
+    "explanation": "Paleontoloji, tarih öncesi yaşam formlarını fosiller yoluyla inceleyen bilim dalıdır. Fosiller, yeryüzündeki jeolojik yapıları değil, canlı kalıntıları temsil eder.",
+    "options": [
+      "Yeryüzünün jeolojik yapısının incelenmesi",
+      "Tarih öncesi canlı fosillerinin araştırılması",
+      "Mikroorganizmaların sınıflandırılması",
+      "Bitki coğrafyasının çalışılması"
+    ],
+    "correctAnswer": "Tarih öncesi canlı fosillerinin araştırılması",
+    "tags": [
+      "Paleontoloji",
+      "Tanım",
+      "Bilim Dalları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "umyyy202v",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi dönemde ilk çok hücreli hayvan fosilleri bulunmuştur?",
+    "explanation": "Kambriyen devri (541-485 milyon yıl önce) çok hücreli hayvan fosillerinin ilk yoğun olarak görüldüğü dönemdir. Kambriyen patlaması olarak bilinir.",
+    "options": [
+      "Prekambriyen",
+      "Kambriyen",
+      "Devonian",
+      "Triyas"
+    ],
+    "correctAnswer": "Kambriyen",
+    "tags": [
+      "Paleontoloji",
+      "Jeolojik Dönemler",
+      "Evrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lrv54kxfe",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "GENERAL",
+    "question": "Dinosaurusların çoğunun sönüşü hangi olayla ilişkilidir?",
+    "explanation": "Meksika'nın Yucatán Yarımadası'nda bulunan Chicxulub krateri, yaklaşık 66 milyon yıl önceki meteor çarpışmasıyla oluşmuştur ve dinosaurusların sönüşüyle ilişkilendirilir.",
+    "options": [
+      "Volkanik aktiviteler",
+      "Meteor çarpması",
+      "Buzul çağları",
+      "Deniz seviyesi değişimi"
+    ],
+    "correctAnswer": "Meteor çarpması",
+    "tags": [
+      "Paleontoloji",
+      "Dinosauruslar",
+      "Sönüm Olayları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2juq4m8wj",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EASY",
+    "question": "Hangisi bir fosil türüdür?",
+    "explanation": "Fosiller canlı kalıntılarını, iz ve içi boşlukları (kavite), biyokimyasal izleri de kapsar. Tüm bu yapılar fosil olarak kabul edilir.",
+    "options": [
+      "Canlı kalıntısı",
+      "Biyokimyasal iz",
+      "İz ve içi boşluk",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "Paleontoloji",
+      "Fosil Türleri",
+      "Klasifikasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8slq4pmh9",
+    "category": "BİLİM",
+    "subcategory": "Paleontoloji",
+    "difficulty": "EXPERT",
+    "question": "Paleontologların evrim çalışmalarında kullandıkları temel kanıt nedir?",
+    "explanation": "Paleontologlar evrim araştırmalarında fosil kayıtlarını temel kanıt olarak kullanır. Genetik ve moleküler veriler daha çok genetik bilimiyle ilişkilidir.",
+    "options": [
+      "Genetik diziler",
+      "Fosil kayıtları",
+      "Moleküler saatler",
+      "Jeolojik haritalar"
+    ],
+    "correctAnswer": "Fosil kayıtları",
+    "tags": [
+      "Paleontoloji",
+      "Evrim",
+      "Bilimsel Kanıtlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

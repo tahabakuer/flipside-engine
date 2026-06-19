@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "0uyglpujy",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangisi Türkiye'nin en popüler sokak lezzetlerinden biri olarak bilinir?",
+    "explanation": "Simit, Türkiye'de sokak lezzetlerinin en klasik ve tanınan örneğidir. İstanbul kökenli olan simit, mermer benzeri kavrulmuş bir ekmeği temsil eder.",
+    "options": [
+      "Menemen",
+      "Simit",
+      "Yufka",
+      "Pide"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "sokak-lezzetleri",
+      "türkiye-mutfak",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2gxzx93sj",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Sokak lezzetleri mutfak türünün hangi özelliğine örnek olur?",
+    "explanation": "Sokak lezzetleri, uzun yıllardır süregelen ve halk arasında yaygın olan geleneksel mutfak tarzının bir parçasıdır.",
+    "options": [
+      "Geleneksel",
+      "Modern",
+      "Uluslararası",
+      "Deneysel"
+    ],
+    "correctAnswer": "Geleneksel",
+    "tags": [
+      "sokak-lezzetleri",
+      "mutfak-tipi",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yyrmd21hy",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangisi sokak lezzetlerinde kullanılan temel malzemelerden biri değildir?",
+    "explanation": "Sokak lezzetlerinde alkol kullanılmaz. Temel malzemeler yumurta, baharat ve tereyağı gibi iştah açıcı içeriklerdir.",
+    "options": [
+      "Yumurta",
+      "Tereyağı",
+      "Alkol",
+      "Baharat"
+    ],
+    "correctAnswer": "Alkol",
+    "tags": [
+      "sokak-lezzetleri",
+      "malzeme",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "74y55s7hv",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Türkiye sokak lezzetleri mutfak türü hangi coğrafi bölgede daha yaygındır?",
+    "explanation": "Karadeniz bölgesinde özellikle İstanbul ve çevresinde sokak lezzetleri daha yoğun olarak tüketilir.",
+    "options": [
+      "Karadeniz",
+      "Doğu Anadolu",
+      "Batı Anadolu",
+      "Aksa"
+    ],
+    "correctAnswer": "Karadeniz",
+    "tags": [
+      "sokak-lezzetleri",
+      "coğrafya",
+      "türkiye-bölge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bhwtcit0y",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EXPERT",
+    "question": "Sokak lezzetlerinin mutfak türü hangi tarih döneminde popülerleşmiştir?",
+    "explanation": "Sokak lezzetleri, Osmanlı İmparatorluğu döneminde halk arasında yaygın olarak tüketilmeye başlanmıştır.",
+    "options": [
+      "Osmanlı Dönemi",
+      "Cumhuriyet Dönemi",
+      "Yeniçağ Dönemi",
+      "Antik Dönem"
+    ],
+    "correctAnswer": "Osmanlı Dönemi",
+    "tags": [
+      "sokak-lezzetleri",
+      "tarih",
+      "osmanlı-mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ybcufsml",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti, İstambül'ün en ünlü simgelerinden biri olarak kabul edilir?",
+    "explanation": "Simit, İstambül'ün en ünlü sokak lezzetlerinden biridir. Yumuşak ekmek üzerine simit şeklinde konan, içi doldurulmuş ve baharatlı bu lezzet, İstambül'ün kültürel kimliğinin parçasıdır.",
+    "options": [
+      "Simit",
+      "Balık ekmek",
+      "Döner",
+      "Kebap"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "sokak lezzetleri",
+      "istanbul",
+      "simge yiyecekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bjfuu08j9",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti, deniz kenarında bulunan balık restoranlarının sembolik yiyeceği olarak bilinir?",
+    "explanation": "Balık ekmek, İstambül Boğazı ve deniz kenarındaki simge yiyeceklerinden biridir. Genellikle balık soslu ekmek üzerine konan bu lezzet, sokak lezzetleri arasında en tanınanlardan biridir.",
+    "options": [
+      "Balık ekmek",
+      "Lokum",
+      "Turşu",
+      "Peynir"
+    ],
+    "correctAnswer": "Balık ekmek",
+    "tags": [
+      "sokak lezzetleri",
+      "deniz kenarı",
+      "balık restoranları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5kw9qbaem",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, genellikle döner tabağında servis edilir ve et veya tavuk olarak sunulur?",
+    "explanation": "Döner, Türkiye'nin en popüler sokak lezzetlerinden biridir. Döner tabağında servis edilir ve et veya tavuk olarak sunulur. Genellikle limon ve soğan ile eşleştirilir.",
+    "options": [
+      "Döner",
+      "Kebap",
+      "İçli köfte",
+      "Simit"
+    ],
+    "correctAnswer": "Döner",
+    "tags": [
+      "sokak lezzetleri",
+      "döner",
+      "et/tavuk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r85bnfflh",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, genellikle baharatlı ekmek üzerine konan ve içi doldurulmuş bir yiyecektir?",
+    "explanation": "Simit, genellikle baharatlı ekmek üzerine konan ve içi doldurulmuş bir yiyecektir. İstambül'ün en popüler sokak lezzetlerinden biri olarak kabul edilir.",
+    "options": [
+      "Simit",
+      "Balık ekmek",
+      "İçli köfte",
+      "Lokum"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "sokak lezzetleri",
+      "dolu",
+      "baharatlı ekmek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ir56xl32",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi sokak lezzeti, genellikle et veya tavuk döner tabağında servis edilir ve limon ile sunulur?",
+    "explanation": "Döner, genellikle et veya tavuk döner tabağında servis edilir ve limon ile sunulur. Türkiye'nin en popüler sokak lezzetlerinden biri olarak kabul edilir.",
+    "options": [
+      "Döner",
+      "Simit",
+      "Balık ekmek",
+      "Kebap"
+    ],
+    "correctAnswer": "Döner",
+    "tags": [
+      "sokak lezzetleri",
+      "döner tabağı",
+      "limon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wofzps6o1",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Sokak lezzetleri arasında en yaygın olarak sunulan hangi yiyecek Türk mutfağının simgelerinden biridir?",
+    "explanation": "Döner Türk sokak lezzetlerinin en meşhur türlerinden biridir ve uzun yıllardır halk tarafından tüketilmektedir.",
+    "options": [
+      "Döner",
+      "Pizza",
+      "Burger",
+      "Sandviç"
+    ],
+    "correctAnswer": "Döner",
+    "tags": [
+      "mutfak",
+      "sokak lezzetleri",
+      "türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h0tmt6di2",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti genellikle ekmek dilimleriyle servis edilir?",
+    "explanation": "Balık Ekmek, İstanbul'da deniz kenarlarında satılan ve balık dilimleriyle özel ekmeklerle servis edilen meşhur sokak lezzetidir.",
+    "options": [
+      "Balık Ekmek",
+      "Döner",
+      "Kebap",
+      "Çizgeli"
+    ],
+    "correctAnswer": "Balık Ekmek",
+    "tags": [
+      "sokak lezzetleri",
+      "deniz ürünleri",
+      "balık ekmek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wl3uupi1n",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında hangi lezzet genellikle fırınlanmış ekmek ile birlikte sunulur?",
+    "explanation": "Pide, Türk mutfağında özel ekmek hamurlarıyla fırınlanır ve genellikle iç harçlarla birlikte servis edilir.",
+    "options": [
+      "Kebap",
+      "Simit",
+      "Gözleme",
+      "Pide"
+    ],
+    "correctAnswer": "Pide",
+    "tags": [
+      "mutfak",
+      "pide",
+      "ekmek lezzetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t63nzrtjz",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti sebze bazlı olarak hazırlanır?",
+    "explanation": "Patates, Türk sokak lezzetlerinde en yaygın sebze içeren yiyecektir ve çeşitli şekillerde hazırlanır.",
+    "options": [
+      "Patates",
+      "Döner",
+      "Balık Ekmek",
+      "Kebap"
+    ],
+    "correctAnswer": "Patates",
+    "tags": [
+      "sokak lezzetleri",
+      "sebze",
+      "patates lezzeti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4xvgm230d",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EXPERT",
+    "question": "Türk sokak mutfağında hangi lezzet genellikle baharatlı olarak servis edilir?",
+    "explanation": "Döner, Türk mutfağında özel baharat karışımlarıyla hazırlanır ve genellikle acılı olarak servis edilir.",
+    "options": [
+      "Döner",
+      "Simit",
+      "Çizgili",
+      "Balık Ekmek"
+    ],
+    "correctAnswer": "Döner",
+    "tags": [
+      "mutfak",
+      "döner",
+      "baharatlı lezzetler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ky0ft8ai9",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti, Türlü (Turkish) mutfak kültürünün en bilinen temsilcilerinden biridir?",
+    "explanation": "Simit, Türk sokak lezzetlerinin en popüler ve tanınmışlarından biridir. İçerdiği tohumlar (susam gibi) ile karakterizedir.",
+    "options": [
+      "Simit",
+      "Döner",
+      "Tavuk Göğsü",
+      "Mercimek"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "sokak-lezzetleri",
+      "türk-mutfak",
+      "simet-kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gnh3oolt3",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Sokak lezzetlerinde kullanılan hangi malzeme, sindirimi kolaylaştırır?",
+    "explanation": "Zeytinyağı, sokak lezzetlerinde sindirimi kolaylaştıran ve sağlıklı bir yağ kaynağıdır.",
+    "options": [
+      "Zeytinyağı",
+      "Şeker",
+      "Tuz",
+      "Baharat"
+    ],
+    "correctAnswer": "Zeytinyağı",
+    "tags": [
+      "malzemeler",
+      "sağlık",
+      "lezzet-temelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kk60t7t3q",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi, sokak lezzeti mutfak kültürünün temel özelliklerinden biri DEĞİLDİR?",
+    "explanation": "Sokak lezzetlerinin temel özellikleri arasında hızlı tüketim, düşük maliyet ve mevsimlik malzemeler yer alır. Yüksek sağlık riski ise bir dezavantajdır.",
+    "options": [
+      "Hızlı tüketim",
+      "Düşük maliyet",
+      "Yüksek sağlık riski",
+      "Mevsimlik malzemeler"
+    ],
+    "correctAnswer": "Yüksek sağlık riski",
+    "tags": [
+      "mutfak-özellikleri",
+      "sokak-lezzetleri",
+      "gıda-güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tvr7aszxx",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti, genellikle sabahları tercih edilir?",
+    "explanation": "Simit, Türk kültüründe genellikle sabah kahvaltısı veya öğle arası için tercih edilen bir sokak lezzetidir.",
+    "options": [
+      "Döner",
+      "Simit",
+      "Kebap",
+      "Tavuk"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "sokak-lezzetleri",
+      "kahvaltı",
+      "günlük-mevsimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7lky6uh4f",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Sokak lezzetleri mutfak kültürünün en önemli avantajı nedir?",
+    "explanation": "Sokak lezzetlerinin en önemli avantajlarından biri, hızlı ve pratik tüketim imkanı sağlayarak zaman kazanımıdır.",
+    "options": [
+      "Yüksek fiyat",
+      "Zaman kazanımı",
+      "Aşırı kalori",
+      "Gıda zehirlenmesi"
+    ],
+    "correctAnswer": "Zaman kazanımı",
+    "tags": [
+      "avantajlar",
+      "sokak-lezzetleri",
+      "pratik-mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ay6r84748",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti, genellikle ekmek üzerine konulan ve içine peynir, domates, salatalık ilave edilen klasik Türk yiyeceğidir?",
+    "explanation": "Sandviç, iki ekmek diliminin arasına konan malzemelerle hazırlanan temel sokak lezzetlerinden biridir.",
+    "options": [
+      "Döner",
+      "Simit",
+      "Sandviç",
+      "Tavuklu Gözleme"
+    ],
+    "correctAnswer": "Sandviç",
+    "tags": [
+      "sokak lezzetleri",
+      "ekmek",
+      "sandviç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wyau8urh6",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi yiyecek, acılı ve soğuk soslu olarak servis edilen ve genellikle pide veya taze ekmek üzerine konulan sokak lezzetidir?",
+    "explanation": "Acılı pide, üzerine acılı sos dökülerek servis edilen geleneksel sokak lezzetidir.",
+    "options": [
+      "Dürüm",
+      "Sokak Tavuğu",
+      "Acılı Pide",
+      "Tavuklu Döner"
+    ],
+    "correctAnswer": "Acılı Pide",
+    "tags": [
+      "pide",
+      "acılı sos",
+      "sokak lezzetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "81emyhaee",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, genelde döner fırınları tarafından hazırlanan ve peynir eklenerek ekmek içinde veya yanında servis edilir?",
+    "explanation": "Döner, döner fırınlarında pişirilen ve genellikle ekmek içinde veya yanında servis edilen sokak lezzetidir.",
+    "options": [
+      "Simit",
+      "Tavuk Döner",
+      "Kebap",
+      "Lahmacun"
+    ],
+    "correctAnswer": "Tavuk Döner",
+    "tags": [
+      "döner",
+      "tavuk",
+      "sokak lezzetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dgnkxzgic",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi yiyecek, genelde acılı soslu pide üzerine konulan ve içine peynir, domates eklenerek servis edilen sokak lezzetidir?",
+    "explanation": "Acılı pide, üzerine acılı sos dökülerek servis edilen klasik sokak lezzetidir.",
+    "options": [
+      "Acılı Pide",
+      "Tavuk Döner",
+      "Simit",
+      "Kebap"
+    ],
+    "correctAnswer": "Acılı Pide",
+    "tags": [
+      "pide",
+      "acılı sos",
+      "sokak lezzetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yi9vzey41",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, genelde ekmek içinde veya yanında konan ve içine döner eklenerek servis edilir?",
+    "explanation": "Döner, ekmek içinde veya yanında konarak servis edilen temel sokak lezzetlerinden biridir.",
+    "options": [
+      "Dürüm",
+      "Kebap",
+      "Tavuk Döner",
+      "Simit"
+    ],
+    "correctAnswer": "Tavuk Döner",
+    "tags": [
+      "döner",
+      "ekmek",
+      "sokak lezzetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e0ukxmnjt",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, İzmir'in Meşhur bir deniz ürünleri ve sosu içerir?",
+    "explanation": "Balık Eri, İzmir'de meşhur bir sokak lezzeti olup taze deniz balığı ve özel sos içerir.",
+    "options": [
+      "Balık Eri",
+      "Sokak Şırrı",
+      "Deniz Lezzetleri",
+      "İzmir Balık"
+    ],
+    "correctAnswer": "Balık Eri",
+    "tags": [
+      "MUTFAK",
+      "Sokak Lezzetleri",
+      "Türk Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t23pvu6re",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, İstanbul'un Meşhur bir pide türü olarak kabul edilir?",
+    "explanation": "Sokak Pidesi, İstanbul'da meşhur bir sokak lezzeti olup pide türüdür.",
+    "options": [
+      "Pide Lezzet",
+      "Sokak Pidesi",
+      "İstanbul Pide",
+      "Deniz Pidesi"
+    ],
+    "correctAnswer": "Sokak Pidesi",
+    "tags": [
+      "MUTFAK",
+      "Sokak Lezzetleri",
+      "Pide"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wl7mkpqax",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, Ankara'nın Meşhur bir etli börek türü olarak bilinir?",
+    "explanation": "Sokak Et Böreği, Ankara'da meşhur bir sokak lezzeti olup etli börek türüdür.",
+    "options": [
+      "Et Böreği",
+      "Sokak Et Böreği",
+      "Ankara Böreği",
+      "Deniz Böreği"
+    ],
+    "correctAnswer": "Sokak Et Böreği",
+    "tags": [
+      "MUTFAK",
+      "Sokak Lezzetleri",
+      "Börek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1qfcogti3",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, Bursa'nın Meşhur bir tavuklu yemek olarak kabul edilir?",
+    "explanation": "Sokak Tavuk, Bursa'da meşhur bir sokak lezzeti olup tavuklu yemeğe sahiptir.",
+    "options": [
+      "Tavuk Lezzet",
+      "Sokak Tavuk",
+      "Bursa Tavuk",
+      "Deniz Tavuk"
+    ],
+    "correctAnswer": "Sokak Tavuk",
+    "tags": [
+      "MUTFAK",
+      "Sokak Lezzetleri",
+      "Tavuk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xc5ep62en",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, Adana'nın Meşhur bir kebap türü olarak bilinir?",
+    "explanation": "Adana Kebap, Adana'da meşhur bir sokak lezzeti olup kebap türüdür.",
+    "options": [
+      "Adana Kebap",
+      "Sokak Kebap",
+      "Meşhur Kebap",
+      "Deniz Kebap"
+    ],
+    "correctAnswer": "Adana Kebap",
+    "tags": [
+      "MUTFAK",
+      "Sokak Lezzetleri",
+      "Kebap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "09vr5hehd",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti, İstanbullular arasında 'döner' olarak bilinen etli dönerin yanında en çok tercih edilen garnitürdür?",
+    "explanation": "Salatalık, döner ve sokak lezzetlerinde en yaygın kullanılan ve tazeleten garnitürdür.",
+    "options": [
+      "Salatalık",
+      "Maydanoz",
+      "Peynir",
+      "Çavdar"
+    ],
+    "correctAnswer": "Salatalık",
+    "tags": [
+      "sokak lezzetleri",
+      "istanbul",
+      "garnitür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nw7mygd1c",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "'Mutfağın Sokak Lezzetleri' konseptinde hangi yiyecek, Türk mutfağının ulusal yemeklerinden biri olarak kabul edilir?",
+    "explanation": "Keşkek, Türk mutfağının en önemli ulusal yemeklerinden biri olarak kabul edilir.",
+    "options": [
+      "Keşkek",
+      "Güveç",
+      "Menemen",
+      "Dolma"
+    ],
+    "correctAnswer": "Keşkek",
+    "tags": [
+      "türk mutfağı",
+      "ulusal yemek",
+      "keşkek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "13zc6gyxf",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, Anadolu'nun birçok bölgesinde 'çiğ köfte' adı verilen etli yiyeceğin yanında bulunabilir?",
+    "explanation": "Dolma, Anadolu sokak lezzetlerinde sıkça bulunan ve çiğ köftenin yanında tercih edilen yiyecektir.",
+    "options": [
+      "Dolma",
+      "Sarma",
+      "Tuluması",
+      "Peynir"
+    ],
+    "correctAnswer": "Dolma",
+    "tags": [
+      "sokak lezzetleri",
+      "anadolu",
+      "dolma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "otankvjs8",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "'Mutfağın Sokak Lezzetleri' konseptinde hangi yiyecek, Türk mutfaklarının yöresel yemeklerinden biri olarak kabul edilir?",
+    "explanation": "Güveç, Türk mutfaklarının yöresel yemeklerinden biri olarak kabul edilir.",
+    "options": [
+      "Güveç",
+      "Menemen",
+      "Dolma",
+      "Sarma"
+    ],
+    "correctAnswer": "Güveç",
+    "tags": [
+      "yöresel yemekler",
+      "türk mutfakları",
+      "güveç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o0t2xqd08",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti, Anadolu'nun birçok bölgesinde 'menemen' adı verilen yumurtalı yiyeceğin yanında bulunabilir?",
+    "explanation": "Maydanoz, menemen ve sokak lezzetlerinde sıkça kullanılan yeşillik garnitürüdür.",
+    "options": [
+      "Salatalık",
+      "Maydanoz",
+      "Peynir",
+      "Çavdar"
+    ],
+    "correctAnswer": "Maydanoz",
+    "tags": [
+      "sokak lezzetleri",
+      "anadolu",
+      "menemen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zies2riib",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti İstanbul'un Tünel bölgesinde popüler bir deniz ürünleri yemeği olarak bilinir?",
+    "explanation": "Balık ekmek, İstanbul'un Tünel ve Karaköy bölgelerinde en popüler sokak lezzeti olan deniz ürünü yemeğidir.",
+    "options": [
+      "Balık Ekmek",
+      "Midye Dolma",
+      "Çıtır Köfte",
+      "Karaçay"
+    ],
+    "correctAnswer": "Balık Ekmek",
+    "tags": [
+      "sokak lezzetleri",
+      "istanbul",
+      "deniz ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "40t5xeghv",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti Ankara'nın Sıhhiye bölgesinde meşhur bir et yemeği olarak bilinir?",
+    "explanation": "Karaçay, Ankara'nın Sıhhiye bölgesinde meşhur sokak lezzeti olan etli bir yemeğidir.",
+    "options": [
+      "Tavuk Şiş",
+      "Karaçay",
+      "Adana Kebap",
+      "İskender"
+    ],
+    "correctAnswer": "Karaçay",
+    "tags": [
+      "sokak lezzetleri",
+      "ankara",
+      "et yemeği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sxhwtlkoh",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti İzmir'in Bornova bölgesinde popüler bir baklava türü olarak bilinir?",
+    "explanation": "İzmir'in Bornova bölgesinde baklava popüler sokak lezzeti olan tatlı yemeğidir.",
+    "options": [
+      "Şekerpare",
+      "Baklava",
+      "Künefe",
+      "Simit"
+    ],
+    "correctAnswer": "Baklava",
+    "tags": [
+      "sokak lezzetleri",
+      "izmir",
+      "tatlı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t2g5g53cx",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Sokak lezzetleri arasında hangisi en çok tuz ve baharat içerir?",
+    "explanation": "Adana kebabı, özellikle tuz ve baharat yoğunluğuyla ünlü bir sokak lezzeti türüdür.",
+    "options": [
+      "Bal ekmek",
+      "Midye dolma",
+      "Adana kebab",
+      "Karaçay"
+    ],
+    "correctAnswer": "Adana kebab",
+    "tags": [
+      "sokak lezzetleri",
+      "baharat",
+      "tuz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5apglbqk6",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti en çok ekmek üzerine servis edilir?",
+    "explanation": "Balık ekmek, adını aldığı gibi ekmek üzerine servis edilen en popüler sokak lezzeti türüdür.",
+    "options": [
+      "Karaçay",
+      "Balık ekmek",
+      "Çıtır köfte",
+      "Simit"
+    ],
+    "correctAnswer": "Balık ekmek",
+    "tags": [
+      "sokak lezzetleri",
+      "ekmek",
+      "servis"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q4fkbmvzi",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti, Türk mutfağının en meşhur ve her yere yayılmış versiyonudur?",
+    "explanation": "Simit, Türk mutfağının en meşhur sokak lezzeti olup her şeherde ve kasabada bulunabilir.",
+    "options": [
+      "Simit",
+      "Balık Ekmek",
+      "Döner",
+      "Tavuk Çişi"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "sokak-lezzetleri",
+      "turk-mutfagi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tji8318im",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "İstanbul'da ünlü olarak satılan ve deniz ürünlerinden yapılan sokak lezzeti hangisidir?",
+    "explanation": "Balık Ekmek, İstanbul'da Balıkçılar Çarşısı'nda ünlü olarak satılan deniz ürünlerinden yapılan meşhur sokak lezzetidir.",
+    "options": [
+      "Balık Ekmek",
+      "Tavuk Çişi",
+      "Simit",
+      "Döner"
+    ],
+    "correctAnswer": "Balık Ekmek",
+    "tags": [
+      "sokak-lezzetleri",
+      "istanbul"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w6z5tk4jr",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti, ızgara yapılarak ve genellikle ekmekle birlikte servis edilir?",
+    "explanation": "Döner, ızgara yapılarak ve genellikle ekmekle birlikte servis edilen meşhur sokak lezzetidir.",
+    "options": [
+      "Döner",
+      "Balık Ekmek",
+      "Simit",
+      "Kebap"
+    ],
+    "correctAnswer": "Döner",
+    "tags": [
+      "sokak-lezzetleri",
+      "izgara"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2xm9t8zie",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Sokak lezzetlerinde kullanılan en yaygın sos hangisidir?",
+    "explanation": "Sokak lezzetlerinde yaygın olarak kullanılan sos, acılı sos ve bazı durumlarda şalgam sosudur.",
+    "options": [
+      "Yayık Sosu",
+      "Acılı Sos",
+      "Meyve Suları",
+      "Tatlı Sos"
+    ],
+    "correctAnswer": "Acılı Sos",
+    "tags": [
+      "sokak-lezzetleri",
+      "soslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "31sbnojjx",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi sokak lezzeti, Türk mutfağının en eski ve geleneksel versiyonudur?",
+    "explanation": "Kebap, Türk mutfağının en eski ve geleneksel sokak lezzeti olup Anadolu'nun birçok yerinde bulunur.",
+    "options": [
+      "Kebap",
+      "Döner",
+      "Balık Ekmek",
+      "Simit"
+    ],
+    "correctAnswer": "Kebap",
+    "tags": [
+      "sokak-lezzetleri",
+      "turk-mutfagi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dtp8m5s6a",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Sokak lezzetlerinin en önemli özelliği nedir?",
+    "explanation": "Sokak lezzetleri halkın günlük hayatta kolayca erişebileceği, hızlı ve ekonomik yemektir.",
+    "options": [
+      "Pahalı malzemeler kullanılması",
+      "Hızlı ve ekonomik olması",
+      "Lüks restoranlarda servis edilmesi",
+      "İthal ürünlerin tercih edilmesi"
+    ],
+    "correctAnswer": "Hızlı ve ekonomik olması",
+    "tags": [
+      "sokak lezzetleri",
+      "yemek kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7asfgjfog",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EASY",
+    "question": "Hangi sokak lezzeti Türk mutfağının en meşhur örneklerinden biridir?",
+    "explanation": "Simit, Türk sokak lezzetlerinin en meşhur ve özgün örneklerinden biridir.",
+    "options": [
+      "İtalyan pizzası",
+      "Simit",
+      "Fransız croissant",
+      "Japon sashimi"
+    ],
+    "correctAnswer": "Simit",
+    "tags": [
+      "sokak lezzetleri",
+      "türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c532i7yzu",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Sokak lezzetleri neden sosyal olarak önemlidir?",
+    "explanation": "Sokak lezzetleri herkesin bir arada keyifle paylaşabileceği sosyal bir kültürdür.",
+    "options": [
+      "Aile bağlarını zayıflatır",
+      "Toplulukla paylaşımı kolaylaştırır",
+      "Lüks tüketimi teşvik eder",
+      "Teknoloji kullanımını artırır"
+    ],
+    "correctAnswer": "Toplulukla paylaşımı kolaylaştırır",
+    "tags": [
+      "sosyal yaşam",
+      "sokak lezzetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "npx4k58cm",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi sokak lezzeti sebzelerle ve baharatlarla zenginleştirilir?",
+    "explanation": "Döner, sos ve sebzelerle servis edilen Türk sokak lezzetlerinin özenli örneğidir.",
+    "options": [
+      "Döner",
+      "Adana kebabı",
+      "Pide",
+      "Tava"
+    ],
+    "correctAnswer": "Döner",
+    "tags": [
+      "türk mutfağı",
+      "sokak lezzetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qi1rt9gsj",
+    "category": "MUTFAK",
+    "subcategory": "Sokak Lezzetleri",
+    "difficulty": "EXPERT",
+    "question": "Sokak lezzetlerinin geleceği için ne yapılmalıdır?",
+    "explanation": "Sokak lezzetlerinin değerini korumak için malzeme kalitesinin önemi büyüktür.",
+    "options": [
+      "Malzeme kalitesinin korunması",
+      "Pahalılaşması sağlanması",
+      "Teknolojiye tam geçilmesi",
+      "Yerinden kalkması"
+    ],
+    "correctAnswer": "Malzeme kalitesinin korunması",
+    "tags": [
+      "yemek kültürü",
+      "sokak lezzetleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

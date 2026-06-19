@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "1773fmrcn",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültür tanımında hangi unsur en temel bileşendir?",
+    "explanation": "Dil, kültürün en temel bileşenidir çünkü kültürel bilgiyi aktarmak ve nesilden nesile devretmek için kullanılır.",
+    "options": [
+      "Dil",
+      "Gelenek",
+      "Yapı",
+      "Teknoloji"
+    ],
+    "correctAnswer": "Dil",
+    "tags": [
+      "kültür",
+      "tanım",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "334977ili",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülke 'Kızıl Kapı' (Red Gate) festivalini düzenler?",
+    "explanation": "Kızıl Kapı festivali, Çin'in önemli kültürel törenlerinden biridir ve geleneksel sanatları sergiler.",
+    "options": [
+      "Çin",
+      "Japonya",
+      "Hindistan",
+      "Türkiye"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "festival",
+      "kültürel olay",
+      "ülke"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ldn4bgjd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kültürü korumak için hangi yaklaşım en etkilidir?",
+    "explanation": "Kültürü korumak için eğitim ve bilinçlendirme, sürdürülebilir bir yaklaşımdır çünkü toplumu kültürel değerlere karşı duyarlı kılar.",
+    "options": [
+      "Modernizasyon",
+      "Eğitim ve Bilinçlendirme",
+      "Yasaklama",
+      "Geliştirme"
+    ],
+    "correctAnswer": "Eğitim ve Bilinçlendirme",
+    "tags": [
+      "kültür koruma",
+      "eğitim",
+      "yaklaşım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eey3sx35v",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Antropologlara göre kültür hangi kavramla ilişkilidir?",
+    "explanation": "Antropologlar, kültürün anlam ve bağlam içinde geliştiğini savunur; her davranış belirli bir kültürel bağlama sahiptir.",
+    "options": [
+      "Aşkınlık",
+      "Yeterlilik",
+      "Özgürlük",
+      "Bağlam"
+    ],
+    "correctAnswer": "Bağlam",
+    "tags": [
+      "antropoloji",
+      "kültür",
+      "kavram"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "slfbx97n6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültürel mirasın korunmasında hangi unsur önceliklidir?",
+    "explanation": "Kültürel mirasın korunmasında tarihsel değer en önemli önceliktir çünkü geçmişin aktarılması ve nesiller için bilgi kaynağıdır.",
+    "options": [
+      "Ekonomik Kazanç",
+      "Tarihsel Değer",
+      "Politik Güç",
+      "Görsel Estetik"
+    ],
+    "correctAnswer": "Tarihsel Değer",
+    "tags": [
+      "kültürel miras",
+      "koruma",
+      "değer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aauw7ocxa",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EASY",
+    "question": "Kültür kavramının temel tanımı aşağıdakilerden hangisidir?",
+    "explanation": "Kültür, belirli bir toplumun üyelerinin paylaştığı inançlar, değerler, gelenekler ve davranış biçimlerinin bütünüdür.",
+    "options": [
+      "Sadece bir ülkenin sahip olduğu sanat eserleri.",
+      "Toplumun sahip olduğu ortak değerler ve davranış kalıplarıdır.",
+      "Bireysel tercihlere dayalı kişisel alışkanlıklardır.",
+      "Sadece yazılı dilleri ifade eder."
+    ],
+    "correctAnswer": "Toplumun sahip olduğu ortak değerler ve davranış kalıplarıdır.",
+    "tags": [
+      "Kültür Tanımı",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iy79cyn6o",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi kültürün somut unsurlarından biri değildir?",
+    "explanation": "Toplumsal ahlaki değerler, inançlar ve normlar somut olmayan kültürel miras unsurlarıdır. Dil, mimari ve giyim ise somut unsurlardır.",
+    "options": [
+      "Bina mimarisi",
+      "Dil ve dilbilgisi kuralı",
+      "Geleneksel giyim kuşam",
+      "Toplumsal ahlaki değerler"
+    ],
+    "correctAnswer": "Toplumsal ahlaki değerler",
+    "tags": [
+      "Kültürel Unsur",
+      "Somut ve Somut Olmayan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k3vdjz0au",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Birey ile kültür arasındaki ilişki nasıl tanımlanır?",
+    "explanation": "Kültür, bireye sosyalleşme sürecinde öğretilen değerleri ve davranışları kazandırır; birey ise bu yapıyı yaşayarak sürdürür.",
+    "options": [
+      "Birey kültürü tamamen değiştirir.",
+      "Kültür bireyi tamamen engeller.",
+      "Birey, kültürün bir parçası olarak sosyal normları benimser.",
+      "İlişki yoktur, iki ayrı varlıktır."
+    ],
+    "correctAnswer": "Birey, kültürün bir parçası olarak sosyal normları benimser.",
+    "tags": [
+      "Birey-Kültür İlişkisi",
+      "Sosyal Psikoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fof43xhe2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Yüksek kültür ile popüler kültür arasındaki temel fark nedir?",
+    "explanation": "Yüksek kültür genellikle eğitimli kesimlere hitap ederken popüler kültür daha geniş kitlelere yönelik eğlence odaklı içerikler sunar; ayrım sosyo-ekonomik faktörlere dayanır.",
+    "options": [
+      "Hiçbir farkı yoktur.",
+      "Eğitim ve sosyo-ekonomik düzeylere göre ayrıştırılır.",
+      "Sadece fiziki konumla ilgilidir.",
+      "Yüksek kültür yok denebilir."
+    ],
+    "correctAnswer": "Eğitim ve sosyo-ekonomik düzeylere göre ayrıştırılır.",
+    "tags": [
+      "Kültür Çeşitleri",
+      "Yüksek ve Popüler Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7npz75oam",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kültürel mirasın korunması neden önemlidir?",
+    "explanation": "Kültürel miras koruması, sadece fiziksel yapıları değil, aynı zamanda gelenekleri, sanatları ve inançları gelecek kuşaklara aktarmayı hedefler.",
+    "options": [
+      "Gelecek nesillere somut ve somut olmayan kültür değerlerinin aktarılmasıdır.",
+      "Sadece fiziki binaların onarılmak istenmesidir.",
+      "Tarihi şehirleri tamamen yenilemek içindir.",
+      "Kültürü yok etmek için yapılan bir harekettir."
+    ],
+    "correctAnswer": "Gelecek nesillere somut ve somut olmayan kültür değerlerinin aktarılmasıdır.",
+    "tags": [
+      "Kültürel Miras",
+      "Koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2tfpxiqgs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EASY",
+    "question": "Kültür nedir?",
+    "explanation": "Kültür, bir toplumun paylaşdığı değerler, inançlar, gelenekler, dil ve yaşam tarzlarını ifade eder.",
+    "options": [
+      "Sadece teknolojik gelişmeler",
+      "Bir topluluğun ortak değerleri, inançları ve gelenekleri",
+      "Sadece ekonomik yapılar",
+      "Sadece siyasi sistemler"
+    ],
+    "correctAnswer": "Bir topluluğun ortak değerleri, inançları ve gelenekleri",
+    "tags": [
+      "kültür",
+      "temel kavramlar",
+      "toplum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgj8ey64f",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi kültürün özelliklerinden DEĞİLDİR?",
+    "explanation": "Kültür öğrenme yoluyla aktarılır, genetik değil. Sadece genetik kültür değildir.",
+    "options": [
+      "Öğrenilebilir",
+      "Paylaşılan",
+      "Dinamik",
+      "Sadece genetik olarak aktarılır"
+    ],
+    "correctAnswer": "Sadece genetik olarak aktarılır",
+    "tags": [
+      "kültür özellikleri",
+      "sosyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7sxleqm1a",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Yüksek kültür ile gündelik kültür arasındaki fark nedir?",
+    "explanation": "Yüksek kültür genellikle edebiyat, sanat ve tarih gibi alanları içerirken gündelik kültür günlük yaşam alışkanlıklarıdır.",
+    "options": [
+      "Yüksek kültür sadece zenginler için",
+      "Günlük yaşam aktiviteleri vs sanat/tarih bilgisi",
+      "Hiçbir farkı yoktur",
+      "Yüksek kültür daha basittir"
+    ],
+    "correctAnswer": "Günlük yaşam aktiviteleri vs sanat/tarih bilgisi",
+    "tags": [
+      "kültür türleri",
+      "sanat",
+      "yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wnbgmw4eb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültürel değişim neye bağlıdır?",
+    "explanation": "Kültürel değişim teknoloji, iletişim, ekonomik durum ve diğer sosyo-kültürel faktörlere bağlıdır.",
+    "options": [
+      "Sadece teknoloji",
+      "Çoklu faktörler: teknoloji, iletişim, ekonomi",
+      "Sadece siyasi kararlar",
+      "Hiçbir şeye bağlı değildir"
+    ],
+    "correctAnswer": "Çoklu faktörler: teknoloji, iletişim, ekonomi",
+    "tags": [
+      "kültürel değişim",
+      "toplumsal gelişme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ae5mfkj7i",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EASY",
+    "question": "Hangi kavram kültürü tanımlar?",
+    "explanation": "Kültür toplumun ortak yaşam tarzı, değerleri ve inançlarını kapsayan bütündür.",
+    "options": [
+      "Sadece dil",
+      "Sadece yemek",
+      "Toplumun paylaştığı yaşam tarzı, değerler, inançlar",
+      "Sadece giyim"
+    ],
+    "correctAnswer": "Toplumun paylaştığı yaşam tarzı, değerler, inançlar",
+    "tags": [
+      "kültür tanımı",
+      "sosyal bilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9cvqtgzer",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EASY",
+    "question": "Kültür nedir?",
+    "explanation": "Kültür, bir toplumun nesil nesile aktardığı inançlar, gelenekler, sanat, dil ve yaşam tarzının bütünüdür.",
+    "options": [
+      "Bir toplumun sahip olduğu gelenek, değerler ve yaşam biçimi",
+      "Sadece maddi eşyaların toplamı",
+      "Kişisel bir tercih sonucu oluşan alışkanlıklar",
+      "Tüm insanlığın ortak özellikleri"
+    ],
+    "correctAnswer": "Bir toplumun sahip olduğu gelenek, değerler ve yaşam biçimi",
+    "tags": [
+      "kültür",
+      "temel",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "skiwwxgom",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangisi kültürel mirasın bir parçasıdır?",
+    "explanation": "Kültürel miras, geçmişten aktarılan maddi ve manevi değerleri içerir; antik eserler bu kapsamda yer alır.",
+    "options": [
+      "Modern teknoloji",
+      "Antik eserler ve yapılar",
+      "Kişisel dijital veriler",
+      "Global marka logoları"
+    ],
+    "correctAnswer": "Antik eserler ve yapılar",
+    "tags": [
+      "kültürel miras",
+      "tarih",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "91uandxzr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Farklı kültürler arasında ne tür etkileşimler olabilir?",
+    "explanation": "Kültürel etkileşimler hem pozitif (uyum, öğrenme) hem negatif (çatışma) boyutlar içerir.",
+    "options": [
+      "Sadece çatışma",
+      "Çatışma, uyum ve karşılıklı öğrenme",
+      "Hiçbir etkileşim olmaz",
+      "Sadece ticari iş birlikleri"
+    ],
+    "correctAnswer": "Çatışma, uyum ve karşılıklı öğrenme",
+    "tags": [
+      "kültürler arası",
+      "etkileşim",
+      "globalleşme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6zahgrbe9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültürel kimlik nasıl korunabilir?",
+    "explanation": "Kültürel kimlik, geleneklerin, dilin ve değerlerin gelecek nesillere aktarılmasıyla korunur.",
+    "options": [
+      "Sadece yabancı diller öğrenmek",
+      "Gelenekleri ve dili koruyarak nesillere aktarmak",
+      "Modernleşmeyi tamamen reddetmek",
+      "Tüm kültürleri aynılaştırmak"
+    ],
+    "correctAnswer": "Gelenekleri ve dili koruyarak nesillere aktarmak",
+    "tags": [
+      "kültürel kimlik",
+      "koruma",
+      "gelecek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dwr16d1tq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Hangisi kültüre özgü bir özellik DEĞİLDİR?",
+    "explanation": "İnsan hakları evrensel değerlerdir; dil, yemek, sanat gibi farklılıklar ise kültüre özgüdür.",
+    "options": [
+      "Evrensel insan hakları",
+      "Özel yemek geleneği",
+      "Dil ve yazı sistemi",
+      "Sanat ve müzik tarzı"
+    ],
+    "correctAnswer": "Evrensel insan hakları",
+    "tags": [
+      "kültür",
+      "evrensel",
+      "özgü özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y0zt3ongy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EASY",
+    "question": "Kültürel farklılıkların en temel kaynağı nedir?",
+    "explanation": "Kültürel farklılıklar coğrafi konum, dil, inanç sistemleri ve gelenekler gibi faktörlerden kaynaklanır.",
+    "options": [
+      "Coğrafi konum",
+      "Dil ve inanç sistemleri",
+      "Gelenekler",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "kültür",
+      "farklılık",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3iyllcfco",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Bir kültürün sembollerine örnek hangisidir?",
+    "explanation": "Kültürel semboller bayraklar, dil ve mutfak gibi unsurları içerir.",
+    "options": [
+      "Bayraklar",
+      "Dil",
+      "Mutfak",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "sembol",
+      "kültür",
+      "örnek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37n6fsbwb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültürel mirasın korunması neden önemlidir?",
+    "explanation": "Kültürel miras korunması gelecek nesillere aktarım, tarihin yaşatılması ve kimlik bilinci açısından önemlidir.",
+    "options": [
+      "Gelecek nesillere aktarım",
+      "Tarihin yaşatılması",
+      "Kimlik bilinci",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "kültürel_miras",
+      "koruma",
+      "neden"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zps1g5l86",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültürlerin karşılıklı saygı çerçevesinde etkileşimi neye örnektir?",
+    "explanation": "Kültürel diyalog, zenginleşme ve kimlik geliştirme kültürel etkileşimin olumlu sonuçlarıdır.",
+    "options": [
+      "Kültürel diyalog",
+      "Kültürel zenginleşme",
+      "Kimlik geliştirme",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "karşılıklı_saygı",
+      "etkileşim",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5qn0hmis",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Globalleşme döneminde kültürlerin korunma stratejileri nelerdir?",
+    "explanation": "Globalleşme döneminde yerel dil, geleneksel sanatlar ve kültürel aktivite katılımı koruma stratejileridir.",
+    "options": [
+      "Yerel dil kullanımını destekleme",
+      "Geleneksel sanatları tanıtmak",
+      "Kültürel aktivitelere katılma",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": "Tüm seçenekler",
+    "tags": [
+      "globalleşme",
+      "koruma_stratejisi",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b508nnznl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültür kelimesinin kökeni hangi dilden gelmektedir?",
+    "explanation": "Kültür kelimesi Yunanca 'khólos' ve 'kultūra' kelimelerinden gelmektedir. Önceki anlamı 'toprak işleme' ve sonra 'medeniyet bilimi' olarak kullanılmıştır.",
+    "options": [
+      "Latin",
+      "Yunanca",
+      "Farsça",
+      "Hintçe"
+    ],
+    "correctAnswer": "Yunanca",
+    "tags": [
+      "kelimekökeni",
+      "tarih",
+      "kültürelbilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0xs3ss0ir",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi maddi kültür öğesidir?",
+    "explanation": "Maddi kültür, somut ve fiziki nesneleri ifade eder. Dil, gelenekler ve normlar ise maddi olmayan kültür öğeleridir.",
+    "options": [
+      "Dil",
+      "Gelenekler",
+      "Eserler",
+      "Normlar"
+    ],
+    "correctAnswer": "Eserler",
+    "tags": [
+      "maddikültür",
+      "edimiyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o00i4q4vq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültürün işlevlerinden hangisi yanlıştır?",
+    "explanation": "Kültürün işlevlerinden biri, bireyi topluma uyum sağlarken değişim ve yeniliği de desteklemesidir. Sadece değişime karşı direnç göstermek doğru değildir.",
+    "options": [
+      "Bireyi topluma entegre etme",
+      "Zihni açık tutma",
+      "Değişime karşı direnç gösterme",
+      "Sosyal kontrol sağlama"
+    ],
+    "correctAnswer": "Değişime karşı direnç gösterme",
+    "tags": [
+      "işlevler",
+      "sosyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q8959dool",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Hangi kültür teorisi 'kavramsal yapı' ile ilgilidir?",
+    "explanation": "Clifford Geertz, kültürü 'kavramsal yapı' olarak tanımlar ve sembolik anlatım üzerinden inceleyen bir yaklaşımdır.",
+    "options": [
+      "Edward Said",
+      "Levitt",
+      "Geertz",
+      "Sapir-Whorf"
+    ],
+    "correctAnswer": "Geertz",
+    "tags": [
+      "kültürelteori",
+      "geertz",
+      "antropoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "im7x71fh6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültürlerarası iletişimde en çok sorun olan unsur hangisidir?",
+    "explanation": "Kültürlerarası iletişimde dil bariyeri öne çıksa da norm ve değerler farkları daha temel sorunlardır.",
+    "options": [
+      "Dil bariyeri",
+      "Norm farkları",
+      "Teknoloji eksikliği",
+      "Mesafeler"
+    ],
+    "correctAnswer": "Norm farkları",
+    "tags": [
+      "kültürlerarası",
+      "iletişim",
+      "sosyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i7fokjmj2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EASY",
+    "question": "Kültür kelimesi hangi dilden gelmektedir?",
+    "explanation": "Kültür kelimesi Latince 'cultura' (tarım, ekin bakımı) kelimesinden gelir. Bu kök ile ilgili tüm kültür kavramları Türkçede bu şekilde kullanılır.",
+    "options": [
+      "Latince",
+      "Fransızca",
+      "İspanyolca",
+      "İtalyanca"
+    ],
+    "correctAnswer": "Latince",
+    "tags": [
+      "kelime-öğre",
+      "etimoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2u21zs28f",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangisi Türk kültürünün önemli bir unsuru değildir?",
+    "explanation": "Siyah kedi batı kültüründe şanssızlık sembolüdür. Türk kültüründe önemli bir yer tutmaz; diğerleri Türk geleneğinin parçasıdır.",
+    "options": [
+      "Türk Bayrağı",
+      "Divan Edebiyatı",
+      "Siyah Kedi",
+      "Köy Düğünü"
+    ],
+    "correctAnswer": "Siyah Kedi",
+    "tags": [
+      "folklor",
+      "kültür-simgeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "650u83xrd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kültüründe 'misafirperverlik' nasıl ifade edilir?",
+    "explanation": "Türk kültüründe misafirperverlik ziyaretçilere karşı samimi ve kibar davranmak anlamına gelir. Bu gelenek binlerce yıldır devam eder.",
+    "options": [
+      "Evde oturmayı kabul etmek",
+      "Ziyaretçiye iyi davranmak",
+      "Sadece yemek sunmak",
+      "Hediye vermek"
+    ],
+    "correctAnswer": "Ziyaretçiye iyi davranmak",
+    "tags": [
+      "sosyal-davranışlar",
+      "kültür-özgünlük"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6oea0a4y3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangisi Türk halk edebiyatının temel özelliklerinden biri değildir?",
+    "explanation": "Türk halk edebiyati daha çok sözlü gelenek, şiir ve destan şeklinde devam eder; yazılı eserin ön planda olmadığı bir kültür budur.",
+    "options": [
+      "Ağzın, dilin özelliği",
+      "Daha çok yazılı eserler",
+      "Halk arasında söylenir",
+      "Anlatıcılık vardır"
+    ],
+    "correctAnswer": "Daha çok yazılı eserler",
+    "tags": [
+      "edebiyat",
+      "folklor-özellikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0c35rk9ao",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Kültürlerarası iletişim hangi kavramla ilişkilidir?",
+    "explanation": "Kültürlerarası iletişim dil, gelenek ve norm farklılıklarını içerir. Dil farklılıkları kültürlere özgü iletişim biçimlerini yansıtır.",
+    "options": [
+      "Dil farklılıkları",
+      "Tek tip yaşam",
+      "Sadece ticaret",
+      "Yalnızca turizm"
+    ],
+    "correctAnswer": "Dil farklılıkları",
+    "tags": [
+      "kültür-ilişkiler",
+      "etnografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cbw7ezmm3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EASY",
+    "question": "Hindistan'ın başkenti olan şehir hangisidir?",
+    "explanation": "Hindistan Cumhuriyeti'nin resmi başkenti Yeni Delhi'dir (New Delhi).",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Yeni Delhi",
+      "Kalkutta"
+    ],
+    "correctAnswer": "Yeni Delhi",
+    "tags": [
+      "Hint",
+      "Coğrafya",
+      "Başkent"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pv95iprdo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hindistan'da nüfusun büyük çoğunluğunun inandığı din hangisidir?",
+    "explanation": "Hinduizm, Hindistan'ın nüfusunun yaklaşık %80'ini oluşturan en yaygın dindir.",
+    "options": [
+      "İslam",
+      "Hinduizm",
+      "Budizm",
+      "Hristiyanlık"
+    ],
+    "correctAnswer": "Hinduizm",
+    "tags": [
+      "Hint",
+      "Din",
+      "Toplum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "13uyn8igl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hindistan'ın ulusal kuşu olarak kabul edilen hayvan hangisidir?",
+    "explanation": "Hindistan'ın ulusal kuşu Mavimsi Tavuskuşu (Indian Peacock) olarak belirlenmiştir.",
+    "options": [
+      "Kartal",
+      "Bozkır Atı",
+      "Mavimsi Tavuskuşu",
+      "Papağan"
+    ],
+    "correctAnswer": "Mavimsi Tavuskuşu",
+    "tags": [
+      "Hint",
+      "Simgeler",
+      "Fauna"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jq27d3ldy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Hint'in en önemli geleneksel ve ulusal milli sporları arasında kabul edilen hangisidir?",
+    "explanation": "Kabaddi, Hint kökenli geleneksel bir vuruşlu spordur ve Hindistan'da milli spor olarak kabul edilir.",
+    "options": [
+      "Kabbadi",
+      "Voleybol",
+      "Futbol",
+      "Basketbol"
+    ],
+    "correctAnswer": "Kabbadi",
+    "tags": [
+      "Hint",
+      "Spor",
+      "Gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w39hkh5rg",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Hindistan'ın ulusal hayvanı olan büyük kedigil türü hangisidir?",
+    "explanation": "Hindistan'ın ulusal hayvanı Bengal Kaplanı (Bengal Tiger) olarak tanınır.",
+    "options": [
+      "Aslan",
+      "Yılan",
+      "Bengali Kaplanı",
+      "Ayı"
+    ],
+    "correctAnswer": "Bengali Kaplanı",
+    "tags": [
+      "Hint",
+      "Simgeler",
+      "Fauna"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iidqy4h80",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EASY",
+    "question": "Kültür kavramı aşağıdakilerden hangisini ifade eder?",
+    "explanation": "Kültür; bir toplumun sahip olduğu değerler, inançlar, gelenekler, sanat, dil ve yaşam tarzlarını kapsayan bütündür.",
+    "options": [
+      "Sadece maddi değerler",
+      "Toplumsal normlar, inançlar ve yaşam biçimleri",
+      "Yalnızca dil bilgisi kuralları",
+      "Sadece tarih bilgisi"
+    ],
+    "correctAnswer": "Toplumsal normlar, inançlar ve yaşam biçimleri",
+    "tags": [
+      "kültür",
+      "toplum",
+      "tanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tg1urroso",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İslam kültüründe 'Cemaat' kavramı neyi ifade eder?",
+    "explanation": "Cemaat; İslam kültüründe toplulukla birlikte ibadet eder, sosyal dayanışmayı ve ahlaki değerleri vurgular.",
+    "options": [
+      "Yalnız yaşam",
+      "Toplulukla birlikte ibadet etme",
+      "Bireysel başarı",
+      "Maddi varlık"
+    ],
+    "correctAnswer": "Toplulukla birlikte ibadet etme",
+    "tags": [
+      "islam",
+      "cemaat",
+      "ibadet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r85cmjk2m",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Güneydoğu Asya'da 'Kebaya' kıyafeti hangi kültürün parçasıdır?",
+    "explanation": "Kebaya, Endonezya kültüründe geleneksel kadın kıyafetidir ve kültürel mirası temsil eder.",
+    "options": [
+      "Endonezya",
+      "Tayland",
+      "Singapur",
+      "Filipinler"
+    ],
+    "correctAnswer": "Endonezya",
+    "tags": [
+      "kültür",
+      "giyim",
+      "asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b6ttwf5rm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi Kültürün temel özelliklerinden DEĞİLDİR?",
+    "explanation": "Kültür öğrenilen ve paylaşılan bir yapıdır, tamamen doğal değildir; insan etkileşimiyle oluşur.",
+    "options": [
+      "Öğrenilme",
+      "Paylaşılma",
+      "Doğal olma",
+      "Kendi kendine gelişme"
+    ],
+    "correctAnswer": "Doğal olma",
+    "tags": [
+      "kültür",
+      "özellikler",
+      "felsefe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "reyxjjbwd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Arap dünyasında 'Edeb-kaleme' neyi ifade eder?",
+    "explanation": "Edeb-kaleme, Arap kültüründe dil bilimi ve edebi yazın anlamına gelir; kültürel mirastır.",
+    "options": [
+      "Mühendislik",
+      "Bilgisayar bilimi",
+      "Dil ve edebiyat",
+      "Tıp"
+    ],
+    "correctAnswer": "Dil ve edebiyat",
+    "tags": [
+      "arap",
+      "edebiyat",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n2b78rvul",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültür kavramı aşağıdakilerden hangisini ifade eder?",
+    "explanation": "Kültür, bir toplumun sahip olduğu değerler, inançlar, gelenekler, sanat, dil ve yaşam tarzı gibi unsurları kapsar.",
+    "options": [
+      "Sadece sanat eserlerini",
+      "Bir topluluğun değerleri, gelenekleri ve yaşam biçimi",
+      "Dil öğrenme süreci",
+      "Teknoloji kullanım becerileri"
+    ],
+    "correctAnswer": "Bir topluluğun değerleri, gelenekleri ve yaşam biçimi",
+    "tags": [
+      "kültür",
+      "toplum",
+      "bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7hb2hru95",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Türk kültüründe 'şeref' neyi ifade eder?",
+    "explanation": "Türk kültüründe şeref, kişinin toplumdaki konumu ve saygınlığıyla ilişkilendirilen bir değerdir.",
+    "options": [
+      "Maddi kazanç",
+      "Toplumsal onur ve saygınlık",
+      "Dil bilgisi",
+      "Yabancı dil yeteneği"
+    ],
+    "correctAnswer": "Toplumsal onur ve saygınlık",
+    "tags": [
+      "şeref",
+      "değerler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mnv2lvsus",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültürel kimlik neyi içermez?",
+    "explanation": "Kültürel kimlik, dil, gelenekler, sanat ve yaşam tarzı gibi unsurları içerir; maddi servet kültürel bir özellik değildir.",
+    "options": [
+      "Dil ve konuşma alışkanlıkları",
+      "Yemek gelenekleri",
+      "Maddi servet miktarı",
+      "Sanat ve müzik tercihleri"
+    ],
+    "correctAnswer": "Maddi servet miktarı",
+    "tags": [
+      "kimlik",
+      "kültür",
+      "değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wjyarlqcl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Türk kültüründe 'aile' için önemli bir değerdir?",
+    "explanation": "Türk kültüründe aile, topluluk bilinci, dayanışma ve birbirine bağlılık üzerine kuruludur.",
+    "options": [
+      "Bireysel özgürlük",
+      "Topluluk bilinci ve dayanışma",
+      "Yabancılaşma",
+      "Teknolojik ilerleme"
+    ],
+    "correctAnswer": "Topluluk bilinci ve dayanışma",
+    "tags": [
+      "aile",
+      "değerler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zu1qn76xv",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Hint Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Kültür geçişini ne ifade eder?",
+    "explanation": "Kültür geçişi, bir nesilden diğerine değerler, gelenekler ve bilgilerin aktarılması sürecidir.",
+    "options": [
+      "Bir nesilden diğerine bilgi aktarımı",
+      "Yalnızca dil öğrenimi",
+      "Teknoloji değişimi",
+      "Yurt dışına göç"
+    ],
+    "correctAnswer": "Bir nesilden diğerine bilgi aktarımı",
+    "tags": [
+      "kültür",
+      "bilgi aktarımı",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

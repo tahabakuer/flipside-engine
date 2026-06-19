@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "x7ce0z59e",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İnsanlığın uzayda ilk kez ayak basıldığı tarih hangisidir?",
+    "explanation": "Apollo 11 görevi ile Neil Armstrong ve Buzz Aldrin, 20 Temmuz 1969'da Ay'ın yüzeyine ayak bastı. Bu tarihte insanlık uzayda ilk kez bir gök cismine ayak basma başarısını gerçekleştirdi.",
+    "options": [
+      "1969",
+      "1972",
+      "1981",
+      "1990"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "uzay keşifleri",
+      "Apollo misyonu",
+      "Aylık yürüyüş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsstk3w4o",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Uluslararası Uzay İstasyonu'nun (ISS) görev süresi ne kadar planlanmıştır?",
+    "explanation": "Uluslararası Uzay İstasyonu, 1998'den bu yana aktif olarak kullanılmakta ve yaklaşık 30 yıllık bir görev süresi planlanmıştır. Bu dönemde dünyadaki bilimsel araştırmalar için önemli platform olmuştur.",
+    "options": [
+      "5 yıl",
+      "10 yıl",
+      "20 yıl",
+      "Yaklaşık 30 yıl"
+    ],
+    "correctAnswer": "Yaklaşık 30 yıl",
+    "tags": [
+      "ISS",
+      "Uzay istasyonu",
+      "Birleşmiş Milletler uzay programı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vqtke8i0s",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "Mars'ta çalışan 'Curiosity' roversinin hangi ülke uzay ajansı tarafından gönderildiği nedir?",
+    "explanation": "Curiosity roversi, NASA tarafından 2011'de Mars'a gönderilmiş ve 2012'de başarıyla indirme işlemi gerçekleştirmiştir. Arama amaçlı bilimsel deneyler yapmaktadır.",
+    "options": [
+      "NASA (ABD)",
+      "ESA (Avrupa)",
+      "JAXA (Japonya)",
+      "Roscosmos (Rusya)"
+    ],
+    "correctAnswer": "NASA (ABD)",
+    "tags": [
+      "Mars keşifleri",
+      "Curiosity roversi",
+      "NASA görevleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ih7z5qej2",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Voyager 1 uzay sondası hangi yıldan sonra 'uzayın sınırları'ndan geçmiştir?",
+    "explanation": "Voyager 1, Nisan 2018'de 'heliosfer'ın dışına çıkarak uzayın sınırsız bölgelerine geçmiştir. Bu, insanlığın o güne kadar keşfettiği en uzak noktadır.",
+    "options": [
+      "1977",
+      "2012",
+      "2018",
+      "2020"
+    ],
+    "correctAnswer": "2018",
+    "tags": [
+      "Voyager sondaları",
+      "Uzay sınırları",
+      "Heliosfer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ycekgbmo",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Apollo 13 görevi hangi yıl gerçekleşti ve neden iptal edildi?",
+    "explanation": "Apollo 13, Nisan 1970'te fırlatıldı ancak oksijen tanklarında patlama sonucu görev iptal edildi. 'Herkesin en büyük başarısı' olarak bilinen bir kurtarma işlemi gerçekleştirilerek astronamlar dünyaya geri döndü.",
+    "options": [
+      "1970 - Oksijen tankı patlaması",
+      "1969 - Motor arızası",
+      "1971 - Kabin yangını",
+      "1972 - Aylık dönüş problemi"
+    ],
+    "correctAnswer": "1970 - Oksijen tankı patlaması",
+    "tags": [
+      "Apollo 13",
+      "Uzay görevleri",
+      "Kriz yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1743o2ja7",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İlk insan uzaya ne zaman gitti?",
+    "explanation": "Yuri Gagarin, 12 Nisan 1961 tarihinde Vostok 1 roketi ile ilk insan uzaya gitti ve Dünya'yı çevreleyen bir tur attı.",
+    "options": [
+      "1957",
+      "1961",
+      "1969",
+      "1972"
+    ],
+    "correctAnswer": "1961",
+    "tags": [
+      "uzay",
+      "tarih",
+      "keşif"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t9eodu1ot",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "NASA'nın Mars'a gönderdiği en başarılı rover hangisidir?",
+    "explanation": "Curiosity, 2012 yılında Mars'a indikten beri en uzun süre aktif olan ve bilimsel veriler üreten başarılı roverdir.",
+    "options": [
+      "Spirit",
+      "Opportunity",
+      "Curiosity",
+      "Perseverance"
+    ],
+    "correctAnswer": "Curiosity",
+    "tags": [
+      "mars",
+      "nasa",
+      "rover"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6u1og1yug",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Hubble Uzay Teleskobu ne yıl uzaya çıkarıldı?",
+    "explanation": "Hubble Uzay Teleskobu, 16 Nisan 1990 yılında Space Shuttle Discovery ile uzaya çıkarıldı.",
+    "options": [
+      "1985",
+      "1990",
+      "1995",
+      "2000"
+    ],
+    "correctAnswer": "1990",
+    "tags": [
+      "teleskop",
+      "hubble",
+      "uzay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84l1rn48w",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Jüpiter'in en büyük uydusu hangisidir?",
+    "explanation": "Ganymed, Jüpiter'in en büyük uydusu ve Güneş Sistemi'ndeki tüm cisimlerin arasında en büyük uydu olarak bilinir.",
+    "options": [
+      "Io",
+      "Europa",
+      "Ganymed",
+      "Callisto"
+    ],
+    "correctAnswer": "Ganymed",
+    "tags": [
+      "jüpiter",
+      "uydu",
+      "gezegenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wavg6ut92",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "James Webb Uzay Teleskobu hangi yıl çalışmaya başladı?",
+    "explanation": "James Webb Uzay Teleskobu, 25 Temmuz 2022 tarihinde ilk resmi verilerini yayınladı ve çalışmaya başladı.",
+    "options": [
+      "2018",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "correctAnswer": "2022",
+    "tags": [
+      "teleskop",
+      "james webb",
+      "uzay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r5nyd4234",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İlk insan yapımı uydunun adı nedir?",
+    "explanation": "Sovyetler Birliği'nin 1957 yılında fırlattığı Sputnik-1, insan yapımı ilk uydudur.",
+    "options": [
+      "Sputnik-1",
+      "Voyager-1",
+      "Apollo-11",
+      "Curiosity"
+    ],
+    "correctAnswer": "Sputnik-1",
+    "tags": [
+      "uzay",
+      "türikçe",
+      "tarih",
+      "kayıtlı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wk19a0bac",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "NASA'nın Mars yüzeyine indiren roketinin adı nedir?",
+    "explanation": "NASA'nın 2021 yılında Mars yüzeyine indiren Perseverance roketi, yaşam izlerini araştırmak için tasarlanmıştır.",
+    "options": [
+      "Perseverance",
+      "InSight",
+      "Viking 1",
+      "Spirit"
+    ],
+    "correctAnswer": "Perseverance",
+    "tags": [
+      "uzay",
+      "mars",
+      "nasa",
+      "roket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t4lhqvny4",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Uzayda insanları taşıyan ilk kapsül hangisidir?",
+    "explanation": "Yuri Gagarin'in 1961 yılında Vostok-1 kapsülüyle uzaya çıkışı, insanlığın ilk uzay uçuşudur.",
+    "options": [
+      "Vostok-1",
+      "Apollo-11",
+      "Mercury-Redstone",
+      "Soyuz-1"
+    ],
+    "correctAnswer": "Vostok-1",
+    "tags": [
+      "uzay",
+      "insanlar",
+      "kapsül",
+      "sovyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1f4r6262y",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "James Webb Uzay Teleskobunun ana görevi nedir?",
+    "explanation": "James Webb Uzay Teleskobu, Hubble'den daha güçlü olup evrenin ilk ışıklarını ve galaksilerin oluşumunu incelemek için tasarlanmıştır.",
+    "options": [
+      "Küçük kırmızı cisimleri keşfetmek",
+      "Daha erken evreni incelemek",
+      "Mars yüzeyini haritalamak",
+      "Ay'ın kraterlerini görüntülemek"
+    ],
+    "correctAnswer": "Daha erken evreni incelemek",
+    "tags": [
+      "uzay",
+      "teleskop",
+      "evren",
+      "keşif"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vftnu8oqj",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Uzayda çalışan ilk kadın astronot kimdir?",
+    "explanation": "Valentina Tereshkova, 1963 yılında Vostok-6 uzay gemisiyle uzaya çıkan ilk kadın astronottur.",
+    "options": [
+      "Sally Ride",
+      "Peggy Whitson",
+      "Elena Oganessian",
+      "Valentina Tereshkova"
+    ],
+    "correctAnswer": "Valentina Tereshkova",
+    "tags": [
+      "uzay",
+      "astronot",
+      "kadın",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jonj25n02",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İlk Ay yüzeyine ayak basan insan kimdir?",
+    "explanation": "Apollo 11 görevi sırasında Neil Armstrong, 20 Temmuz 1969'da Ay'ın yüzeyine ilk olarak inen ve yürüyen insan oldu.",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins",
+      "Alan Shepard"
+    ],
+    "correctAnswer": "Neil Armstrong",
+    "tags": [
+      "Ay Keşifleri",
+      "Astronotlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "crihygeci",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Voyager 2'nin Altın Plakası ne içerir?",
+    "explanation": "Voyager 2'nin Altın Plakası, uzaya gönderilen ilk kültürel mesaj içerir; Yeryüzünden müzik ve selamlar taşır.",
+    "options": [
+      "Yeryüzünden müzik ve selamlar",
+      "Uzaylı mesajları",
+      "Mars keşif verileri",
+      "Ay haritaları"
+    ],
+    "correctAnswer": "Yeryüzünden müzik ve selamlar",
+    "tags": [
+      "Uzay Sondaları",
+      "Kültürel Etkileşim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z5wunjngt",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Mars'taki Curiosity roversinin ana amacı nedir?",
+    "explanation": "Curiosity roversi, Mars'ın geçmişte yaşam için uygun olup olmadığını incelemek amacıyla tasarlanmıştır.",
+    "options": [
+      "Mars'ın atmosferini analiz etmek",
+      "Geçmişte yaşam için uygun koşulları araştırmak",
+      "Yeni bir uzay istasyonu kurmak",
+      "Ay'a keşif yapmak"
+    ],
+    "correctAnswer": "Geçmişte yaşam için uygun koşulları araştırmak",
+    "tags": [
+      "Mars Keşifleri",
+      "Bilimsel Araştırmalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "08vzpvctb",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "James Webb Uzay Teleskobu'nun en önemli avantajı nedir?",
+    "explanation": "James Webb, evrenin ilk ışıklarını ve sıcak nesneleri kızılötesi bölgede inceleyebilir.",
+    "options": [
+      "Hubble'a göre daha büyük ayna",
+      "Kızılötesi dalga boyunda gözlem yapma yeteneği",
+      "Daha düşük maliyetli olması",
+      "Yerleşik uydu sistemi"
+    ],
+    "correctAnswer": "Kızılötesi dalga boyunda gözlem yapma yeteneği",
+    "tags": [
+      "Uzay Teleskopları",
+      "Kızılötesi Astronomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j08r2pf2m",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Uluslararası Uzay İstasyonu'nun ortak ülkelerinden hangisi değildir?",
+    "explanation": "ISS, ABD, Rusya, Kanada ve diğer ülkeler tarafından işletilmektedir. Çin henüz bir ortak değildir.",
+    "options": [
+      "ABD",
+      "Rusya",
+      "Çin",
+      "Kanada"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Uluslararası İşbirliği",
+      "Uzay İstasyonları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "673dfvd36",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İlk insan uzay keşfi hangi görevle yapılmıştır?",
+    "explanation": "Yuri Gagarin, 12 Nisan 1961'de Vostok 1 uzay aracıyla ilk insansız keşfi gerçekleştirmiştir.",
+    "options": [
+      "Apollo 11",
+      "Vostok 1",
+      "Soyuz TMA-01M",
+      "Falcon Heavy"
+    ],
+    "correctAnswer": "Vostok 1",
+    "tags": [
+      "uzay",
+      "tarih",
+      "soyuz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5868o8p6y",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "James Webb Uzay Teleskobu hangi yıl fırlatılmıştır?",
+    "explanation": "James Webb Uzay Teleskobu 25 Aralık 2021'de Ariane 5 roketiyle uzaya fırlatılmıştır.",
+    "options": [
+      "2018",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "correctAnswer": "2021",
+    "tags": [
+      "teleskop",
+      "james webb",
+      "fırlatma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rh46rzok7",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "Uluslararası Uzay İstasyonu (ISS) kaç ülke tarafından işletilmektedir?",
+    "explanation": "Uluslararası Uzay İstasyonu Amerika, Rusya, Avrupa ve Kanada tarafından birlikte işletilmektedir.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "iss",
+      "uluslararası",
+      "işletme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c1jxa085z",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Perseverance uzay aracı hangi gezegene gönderilmiştir?",
+    "explanation": "Perseverance uzay aracı 2021'de Mars'a gönderilmiş ve Jezero Crater bölgesine iniş yapmıştır.",
+    "options": [
+      "Mars",
+      "Jüpiter",
+      "Venüs",
+      "Satürn"
+    ],
+    "correctAnswer": "Mars",
+    "tags": [
+      "perseverance",
+      "mars",
+      "nasa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9dmcvjm4y",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi görev ilk kez insanlı Mars keşfi hedeflemektedir?",
+    "explanation": "Mars One projesi insanlı Mars kolonisi kurma hedefiyle tasarlanmış ancak finansman bulamamıştır.",
+    "options": [
+      "Mars One",
+      "Mars Sample Return",
+      "Artemis Programı",
+      "Cassini-Robert"
+    ],
+    "correctAnswer": "Mars One",
+    "tags": [
+      "mars",
+      "insanlı",
+      "gelecek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r5wlcidal",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Uzay Keşifleri alanında NASA'nın ünlü uzay aracı Apol 11 misyonu hangi yıldıza ilk insanlı inişi gerçekleştirmiştir?",
+    "explanation": "Apollo 11 misyonu, 1969 yılında Ay yüzeyine ilk insanlı inişi gerçekleştiren NASA projesidir. Neil Armstrong ve Buzz Aldrin Apollo 11 ile Ay'a iniş yapmışlardır.",
+    "options": [
+      "Mars",
+      "Venüs",
+      "Ay",
+      "Jüpiter"
+    ],
+    "correctAnswer": "Ay",
+    "tags": [
+      "NASA",
+      "Apollo",
+      "Uzay Avcıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dvdt3qbwp",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "Mars'ta görev yapan ünlü rovers arasında Perseverance rover'ının 2021 yılında Mars yüzeyine inişi hangi yıl gerçekleşmiştir?",
+    "explanation": "NASA'nın Perseverance Mars rover'ı 30 Temmuz 2021'de Mars yüzeyine başarılı bir şekilde iniş yapmıştır. Bu, uzay keşiflerinde önemli bir kilometre taşını temsil eder.",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correctAnswer": "2021",
+    "tags": [
+      "Mars",
+      "Rovers",
+      "Perseverance"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fz3bzrbbd",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Uluslararası Uzay İstasyonu (ISS) kaç ülkenin ortak girişimi ile inşa edilmiştir?",
+    "explanation": "İSS, ABD (NASA), Rusya (Roscosmos), Avrupa Uzay Ajansı (ESA) ve Japonya'nın uzay ajansının ortak girişimi ile inşa edilmiştir. Toplam 4 büyük uydu ajansı tarafından desteklenmektedir.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "ISS",
+      "Uluslararası İşbirliği",
+      "Uzay İstasyonları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gbvazi67a",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "Hubble Uzay Teleskobu hangi yıldan beri aktif olarak uzayı gözlemlemektedir?",
+    "explanation": "Hubble Uzay Teleskobu 24 Nisan 1990'da uzaya gönderilmiş ve bu tarihten beri aktif olarak uzayı gözlemlemektedir. Astronomi tarihindeki en önemli teleskoplardan biridir.",
+    "options": [
+      "1985",
+      "1990",
+      "1995",
+      "2000"
+    ],
+    "correctAnswer": "1990",
+    "tags": [
+      "Hubble",
+      "Teleskoplar",
+      "Uzay Gözlemleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rbzrhjhyg",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "SpaceX'in Dragon kapsülü hangi yıl ISS'ye ilk kargo inişi gerçekleştirmiştir?",
+    "explanation": "SpaceX'in Dragon kapsülü 3 Mayıs 2016'da Uluslararası Uzay İstasyonu'na ilk kargo inişini gerçekleştirmiştir. Bu, uzay keşiflerinde önemli bir adım olmuştur.",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "correctAnswer": "2016",
+    "tags": [
+      "SpaceX",
+      "Dragon",
+      "Kargo İstasyonları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tkvxxzije",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İnsanlığın Ay yüzeyine ilk ayak basışını gerçekleştiren astronot kimdir?",
+    "explanation": "Neil Armstrong, Apollo 11 görevi sırasında 20 Temmuz 1969'da Ay yüzeyine ilk ayak basan insan olarak tarihe geçmiştir. Buzz Aldrin ikinci kişi olmuştur.",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correctAnswer": "Neil Armstrong",
+    "tags": [
+      "uzay keşifleri",
+      "Ay misyonu",
+      "Apollo 11"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d32j8ekdp",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi uzay teleskobu, Hubble Teleskobundan daha büyük bir alan görüntüleyebilmektedir?",
+    "explanation": "James Webb Uzay Teleskobu, Hubble'den daha büyük bir ana aza (6.5 metre) ve kızılötesi ışıkta çalışabilmektedir. İlk kez 2021 yılında uzaya gönderilmiştir.",
+    "options": [
+      "James Webb Uzay Teleskobu",
+      "Spitzer Uzay Teleskopu",
+      "Chandra X-Ray Gözlemevi",
+      "Kepler Uzay Teleskobu"
+    ],
+    "correctAnswer": "James Webb Uzay Teleskobu",
+    "tags": [
+      "uzay teleskopları",
+      "astronomi teknolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "knme72xee",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "İnternational Space Station (ISS) kaç farklı ülke tarafından ortaklaşa yönetilmektedir?",
+    "explanation": "ISS, ABD, Rusya, Avrupa Uzaj Ajansı (ESA), Japonya Uzay Ajansı (JAXA) ve Kanada Uzay Ajansı'nın (CSA) ortak projesidir. Toplamda 5 farklı ulusun katılımı vardır.",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "ISS",
+      "uluslararası uzay istasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "08ibzz637",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Mars'a gönderilen ilk başarılı rover görevi hangisidir?",
+    "explanation": "Spirit rover, NASA'nın Mars Exploration Rover programının ilk aracı olarak 2004 yılında başarıyla Mars'a iniş yapmıştır. Opportunity ikinci araçtı.",
+    "options": [
+      "Spirit",
+      "Opportunity",
+      "Curiosity",
+      "Perseverance"
+    ],
+    "correctAnswer": "Spirit",
+    "tags": [
+      "Mars keşifleri",
+      "rover görevleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4suq04b24",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Voyager uzay sondası hangi yıldan beri keşfedilen en uzak nesne olmuştur?",
+    "explanation": "Voyager 1 ve Voyager 2, NASA'nın 1977 yılında fırlatılan uzay sondalarıdır. Bu sondalar insanlığın en uzak nesnelerini keşfetme görevi sürdürmektedir.",
+    "options": [
+      "1976",
+      "1977",
+      "1980",
+      "1983"
+    ],
+    "correctAnswer": "1977",
+    "tags": [
+      "Voyager sondaları",
+      "derin uzay keşfi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ka8z0fu3v",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İlk insanın uzaya çıktığı tarih nedir?",
+    "explanation": "Neil Armstrong ve Buzz Aldrin'i taşıyan Apollo 11 uzay aracı, 4 Temmuz 1969'da Ay yüzeyine iniş yaptı. Bu tarihte ilk kez insanlar Ay'a kondu.",
+    "options": [
+      "A) 4 Temmuz 1969",
+      "B) 12 Nisan 1957",
+      "C) 20 Ağustos 1961",
+      "D) 3 Ekim 1957"
+    ],
+    "correctAnswer": "A) 4 Temmuz 1969",
+    "tags": [
+      "uzay keşfi",
+      "Apollo programı",
+      "historik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rvrimzyje",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "İlk yapay uydu olan Sputnik'ten sorumlu ülke hangisidir?",
+    "explanation": "İlki yapay uydu olan Sputnik 1, 4 Ekim 1957'de Sovyetler Birliği tarafından fırlatıldı. Bu olay soğuk savaş döneminde önemli bir bilimsel başarı oldu.",
+    "options": [
+      "A) Amerika Birleşik Devletleri",
+      "B) Rusya (SSCB)",
+      "C) Almanya",
+      "D) Fransa"
+    ],
+    "correctAnswer": "B) Rusya (SSCB)",
+    "tags": [
+      "Sputnik",
+      "uydu teknolojis",
+      "soğuk savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k5e1oyaes",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Hubble Uzay Teleskobu ne yılında uzaya çıkarılmıştır?",
+    "explanation": "Hubble Uzay Teleskobu, 24 Nisan 1990'da Discovery uzay aracının taşıdığıyla başarıyla uzaya çıkarıldı. Günümüzde en aktif uzay teleskoblarından biridir.",
+    "options": [
+      "A) 1990",
+      "B) 2003",
+      "C) 1985",
+      "D) 1997"
+    ],
+    "correctAnswer": "A) 1990",
+    "tags": [
+      "Hubble",
+      "teleskop",
+      "uzay aracı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yt8yuwtfw",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "James Webb Uzay Teleskobunun ilk görüntülerini aldığı tarih nedir?",
+    "explanation": "James Webb Uzay Teleskobu, 25 Temmuz 2022'de ilk gerçek görüntülerini yayınladı. Bu teleskop Hubble'dan daha hassas ve derinlemesine gözlemler yapabilmektedir.",
+    "options": [
+      "A) 7 Aralık 2021",
+      "B) 25 Temmuz 2022",
+      "C) 12 Nisan 2023",
+      "D) 8 Ağustos 2022"
+    ],
+    "correctAnswer": "B) 25 Temmuz 2022",
+    "tags": [
+      "James Webb",
+      "teknoloji",
+      "güncel bilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9s3nxaw8g",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Mars'a gönderilen ilk başarılı insanlı görev hangisidir?",
+    "explanation": "Viking 1, 20 Temmuz 1976'da Mars yüzeyine iniş yapmış ve ilk başarılı Mars keşif görevi olmuştur. Viking 2 ise birkaç hafta sonra takip edilmemiştir.",
+    "options": [
+      "A) NASA'nın Mars One projesi",
+      "B) Rosalind Franklin (ESA)",
+      "C) Viking 1 (ABD)",
+      "D) Phoenix Mavi (NASA)"
+    ],
+    "correctAnswer": "C) Viking 1 (ABD)",
+    "tags": [
+      "Mars",
+      "insan görevi",
+      "geçmiş araştırmalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t1pmtbhz6",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İnsanların ilk kez Ay yüzeyine indiği yıl hangisidir?",
+    "explanation": "Apollo 11 görevi, Temmuz 1969'da Ay yüzeyine ilk kez insanlı inişi gerçekleştirmiştir.",
+    "options": [
+      "1969",
+      "1970",
+      "1968",
+      "1971"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "Apollo",
+      "Ay Keşfi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1uq65siry",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Voyager uzay aracının Altın Plakanın temel amacı nedir?",
+    "explanation": "Altın Plaka, potansiyel uzaylı yaşamla iletişim kurmak amacıyla yerlilerden ses ve müzik kayıtlarını içermektedir.",
+    "options": [
+      "Yerliler için müzik ve ses kayıtları barındırmak",
+      "Uzaydaki radyo sinyallerini yansıtmak",
+      "Dış gezegenlerin fotoğraflarını içermek",
+      "Bilimsel verileri saklamak"
+    ],
+    "correctAnswer": "Yerliler için müzik ve ses kayıtları barındırmak",
+    "tags": [
+      "Voyager",
+      "Uzay Araçları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "77km0gj9o",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Kepler Uzay Teleskobu, dış gezegenleri hangi yöntemle keşfetmiştir?",
+    "explanation": "Kepler, gezegenlerin yıldız geçişlerini (transit) tespit ederek dış gezegenleri keşfetmiştir.",
+    "options": [
+      "Transit yöntemi",
+      "Radyo dalgaları ile",
+      "Görsel gözlem yoluyla",
+      "Mikro lensleme"
+    ],
+    "correctAnswer": "Transit yöntemi",
+    "tags": [
+      "Kepler",
+      "Dış Gezegenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uaqbj9273",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Curiosity Mars Roversı'nın keşfettiği önemli bir unsur hangisidir?",
+    "explanation": "Curiosity, Mars yüzeyinde organik molekül izleri bulmuştur ve yaşam potansiyeli üzerine çalışmıştır.",
+    "options": [
+      "Organik moleküller",
+      "Yüzey buzulları",
+      "Magnetik alanlar",
+      "Atmosferik su buharı"
+    ],
+    "correctAnswer": "Organik moleküller",
+    "tags": [
+      "Mars Rovers",
+      "Mars Keşifleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "052teh3fv",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "Hubble Uzay Teleskopu'nun evrenin genişleme hızını ölçmesinin hangi keşfe katkı sağlamıştır?",
+    "explanation": "Hubble, supernova verileriyle evrenin genişleme hızını ölçerek karanlık enerjinin varlığını desteklemiştir.",
+    "options": [
+      "Karanlık enerji varlığının doğrulanması",
+      "Yıldız oluşum süreçlerinin anlaşılması",
+      "Uzaydaki madde miktarının hesaplanması",
+      "Görsel gözlem tekniklerinin geliştirilmesi"
+    ],
+    "correctAnswer": "Karanlık enerji varlığının doğrulanması",
+    "tags": [
+      "Hubble",
+      "Karanlık Enerji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "81bx0yg5p",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "İlk insan uzaya ne zaman gönderildi?",
+    "explanation": "Yuri Gagarin, 12 Nisan 1961'de Vostok 1 uzay aracı ile ilk insan olarak uzaya gönderildi.",
+    "options": [
+      "A) 1957",
+      "B) 1961",
+      "C) 1969",
+      "D) 1975"
+    ],
+    "correctAnswer": "B) 1961",
+    "tags": [
+      "uzay",
+      "tarih",
+      "soyetnik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8yow16rug",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EASY",
+    "question": "NASA'nın Apollo görevi ile Ay'a iniş ne zaman gerçekleşti?",
+    "explanation": "Apollo 11 görevi ile Neil Armstrong ve Buzz Aldrin, 20 Temmuz 1969'da Ay yüzeyine indi.",
+    "options": [
+      "A) 1965",
+      "B) 1969",
+      "C) 1972",
+      "D) 1980"
+    ],
+    "correctAnswer": "B) 1969",
+    "tags": [
+      "Apollo",
+      "Ay",
+      "NASA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1h5sil1uy",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Hubble Uzay Teleskobu ne zaman uzaya gönderildi?",
+    "explanation": "Hubble Uzay Teleskobu, 24 Nisan 1990'da Discovery uzay aracı ile başarıyla fırlatıldı.",
+    "options": [
+      "A) 1985",
+      "B) 1990",
+      "C) 2003",
+      "D) 2010"
+    ],
+    "correctAnswer": "B) 1990",
+    "tags": [
+      "Hubble",
+      "teleskop",
+      "uzay istasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ojobtd1f5",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "EXPERT",
+    "question": "James Webb Uzay Teleskobu ne zaman aktif hale geldi?",
+    "explanation": "James Webb Uzay Teleskobu, 25 Aralık 2021'de ilk resmi görüntüleri yayınladı ve aktif hale geldi.",
+    "options": [
+      "A) 2018",
+      "B) 2020",
+      "C) 2021",
+      "D) 2023"
+    ],
+    "correctAnswer": "C) 2021",
+    "tags": [
+      "James Webb",
+      "teknoloji",
+      "jeometrik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "in13w1mbj",
+    "category": "BİLİM",
+    "subcategory": "Uzay Keşifleri",
+    "difficulty": "GENERAL",
+    "question": "Mars keşif görevi'ne gönderilen en uzak uzay aracı hangisidir?",
+    "explanation": "Voyager 1, Güneş Sistemi'nden çıkmış en uzak nesnedir ve Mars'tan çok daha uzaktır.",
+    "options": [
+      "A) Voyager 1",
+      "B) Pioneer 10",
+      "C) New Horizons",
+      "D) Curiosity"
+    ],
+    "correctAnswer": "A) Voyager 1",
+    "tags": [
+      "Voyager",
+      "keşif",
+      "Mars"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

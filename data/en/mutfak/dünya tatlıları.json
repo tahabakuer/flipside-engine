@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "k61vn1kev",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Hangi tatlı, Osmanlı mutfağının en bilinen dünyaca ünlü tatlılarından biridir?",
+    "explanation": "Baklava, Osmanlı mutfağının en bilinen ve dünyaca ünlü tatlılarından biridir. Fıstıklı veya cevizli dolgu ile yapılan bu tatlıya baklava denir.",
+    "options": [
+      "Baklava",
+      "Künefe",
+      "Tulum",
+      "Sadece Tatlılar"
+    ],
+    "correctAnswer": "Baklava",
+    "tags": [
+      "Osmanlı Mutfağı",
+      "Dünya Tatlıları",
+      "Türk Tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfpuwq7sh",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi tatlı, İslam mutfağından esinlenerek yapılmış Arap kökenli bir tatlıdır?",
+    "explanation": "Halva, İslam mutfağından esinlenerek yapılmış Arap kökenli bir tatlıdır. Çekirdeksiz şekerli veya fındıklı dolgu ile yapılan bu tatlıya halva denir.",
+    "options": [
+      "Halva",
+      "Künefe",
+      "Baklava",
+      "Sadece Tatlılar"
+    ],
+    "correctAnswer": "Halva",
+    "tags": [
+      "Arap Mutfağı",
+      "Dünya Tatlıları",
+      "İslam Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eqvq85gq0",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi tatlı, Fas mutfağının en bilinen dünyaca ünlü tatlılarından biridir?",
+    "explanation": "Makrune, Fas mutfağının en bilinen dünyaca ünlü tatlılarından biridir. Şekerli ve fındıklı dolgu ile yapılan bu tatlıya makrune denir.",
+    "options": [
+      "Makrune",
+      "Künefe",
+      "Baklava",
+      "Sadece Tatlılar"
+    ],
+    "correctAnswer": "Makrune",
+    "tags": [
+      "Fas Mutfağı",
+      "Dünya Tatlıları",
+      "Afrika Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ao9bd6oy",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi tatlı, Mısır mutfağının en bilinen dünyaca ünlü tatlılarından biridir?",
+    "explanation": "Tatlı Makarna, Mısır mutfağının en bilinen dünyaca ünlü tatlılarından biridir. Şekerli ve fındıklı dolgu ile yapılan bu tatlıya tatlı makarna denir.",
+    "options": [
+      "Tatlı Makarna",
+      "Künefe",
+      "Baklava",
+      "Sadece Tatlılar"
+    ],
+    "correctAnswer": "Tatlı Makarna",
+    "tags": [
+      "Mısır Mutfağı",
+      "Dünya Tatlıları",
+      "Amerika Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qwgxensy1",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EXPERT",
+    "question": "Hangi tatlı, Hindistan mutfağının en bilinen dünyaca ünlü tatlılarından biridir?",
+    "explanation": "Pudina Tatlısı, Hindistan mutfağının en bilinen dünyaca ünlü tatlılarından biridir. Şekerli ve fındıklı dolgu ile yapılan bu tatlıya pudina tatlısı denir.",
+    "options": [
+      "Pudina Tatlısı",
+      "Künefe",
+      "Baklava",
+      "Sadece Tatlılar"
+    ],
+    "correctAnswer": "Pudina Tatlısı",
+    "tags": [
+      "Hindistan Mutfağı",
+      "Dünya Tatlıları",
+      "Asya Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mwyo5nblj",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Hangi dünya tatlısı İtalyan kökenlidir?",
+    "explanation": "Tiramisu, İtalya'nın Veneto bölgesine özgü geleneksel bir tatlıdır. Kahve, mascarpone peyniri ve bisküvilerden yapılır.",
+    "options": [
+      "Tiramisu",
+      "Crème Brûlée",
+      "Cheesecake",
+      "Apple Pie"
+    ],
+    "correctAnswer": "Tiramisu",
+    "tags": [
+      "tatlılar",
+      "itальяn mutfağı",
+      "dünya mutfakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0x5l13kk4",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağının ikonik tatlısı olan Crème Brûlée hangi malzemeden ünlüdür?",
+    "explanation": "Crème Brûlée, vanilyalı krema içeren ve üzerinde kavrulmuş şekeri (karamelize şeker) ile ünlü bir Fransız tatlısıdır.",
+    "options": [
+      "Karamelize şeker üstü",
+      "Çikolata sosu",
+      "Fırınlanmış limon",
+      "Muz katmanı"
+    ],
+    "correctAnswer": "Karamelize şeker üstü",
+    "tags": [
+      "fransız mutfağı",
+      "tatlılar",
+      "dünya tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xmo94uzqx",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağının en meşhur tatlılarından biri olan Baklava hangi bölgeye özgüdür?",
+    "explanation": "Baklava, Osmanlı döneminde İstanbul'da yaygınlaşan ve günümüzde Türk mutfağının en ikonik tatlılarından biridir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Trabzon",
+      "Sivas"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "türk mutfağı",
+      "baklava",
+      "tatarlılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pbjbaicq7",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EXPERT",
+    "question": "İspanyol kökenli Elche'ye özgü tatlı olan Turron hangi malzemeden üretilir?",
+    "explanation": "Turrón, İspanya'nın Valencia bölgesinde Elche'ye özgü geleneksel bir tatlıdır. Genellikle çikolata ve badem içerir.",
+    "options": [
+      "Çikolata ve badem",
+      "Kahve ve muz",
+      "Portakal ve limon",
+      "Şeker ve pirinç"
+    ],
+    "correctAnswer": "Çikolata ve badem",
+    "tags": [
+      "espanyol mutfağı",
+      "turron",
+      "dünya tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nwql5k3id",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EXPERT",
+    "question": "Geleneksel olarak Hindistan kökenli olan Gulab Jamun hangi malzemeden yapılır?",
+    "explanation": "Gulab Jamun, Hindistan kökenli geleneksel bir tatlıdır. Hindi peyniri ve süt içerir. Şekerli şerbet içinde servis edilir.",
+    "options": [
+      "Hindi peyniri ve süt",
+      "Muz ve vanilya",
+      "Çikolata ve fındık",
+      "Portakal ve limon"
+    ],
+    "correctAnswer": "Hindi peyniri ve süt",
+    "tags": [
+      "hindistan mutfağı",
+      "gulab jamun",
+      "dünya tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d7a531q8j",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Tiramisu tatlısı hangi ülkenin milli lezzetidir?",
+    "explanation": "Tiramisu, İtalya'nın en meşhur tatlılarından biridir. Kahve ve mascarpone peyniri ile yapılır.",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "İspanya",
+      "Portekiz"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "Dünya Tatlıları",
+      "İtalyan Mutfağı",
+      "Tiramisu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "djmkttuo2",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Baklava hangi kıtanın tatlıları arasında yer alır?",
+    "explanation": "Baklava, Asya ve Avrupa ülkelerinde tüketilen bir tatlıdır ancak kökeni Anadolu'dadır.",
+    "options": [
+      "Asya",
+      "Afrika",
+      "Avrupa",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Avrupa",
+    "tags": [
+      "Dünya Tatlıları",
+      "Baklava",
+      "Türk Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jatdrul1m",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EXPERT",
+    "question": "Crème Brûlée'nin doğru kahve eşleştirilmesi hangisidir?",
+    "explanation": "Crème Brûlée, Fransız kökenli bir tatlıdır ve genellikle Fransız kahvesi ile servis edilir.",
+    "options": [
+      "Espresso",
+      "Fransız Kahvesi",
+      "Kahve Makinası",
+      "İtalyan Kahvesi"
+    ],
+    "correctAnswer": "Fransız Kahvesi",
+    "tags": [
+      "Dünya Tatlıları",
+      "Fransız Mutfağı",
+      "Crème Brûlée"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uw6eji3b0",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Mochi hangi ülkenin geleneksel tatlısıdır?",
+    "explanation": "Mochi, Japonya'da geleneksel olarak yapılan buğdaylı bir tatlıdır.",
+    "options": [
+      "Japonya",
+      "Çin",
+      "Kore",
+      "Vietnam"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "Dünya Tatlıları",
+      "Asya Mutfağı",
+      "Mochi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0qhbdk0cy",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Cheesecake hangi kıtanın tatlıları arasında sınıflandırılır?",
+    "explanation": "Cheesecake, Kuzey Amerika'da popüler olan bir tatlıdır ve kökeni ABD'ye dayanır.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Kuzey Amerika",
+      "Afrika"
+    ],
+    "correctAnswer": "Kuzey Amerika",
+    "tags": [
+      "Dünya Tatlıları",
+      "Amerikan Mutfağı",
+      "Cheesecake"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hjgd1jffv",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Hangi tatlı Fransa kökenlidir ve karamelize muzlarla servis edilir?",
+    "explanation": "Fransız crêp, ince ve yumuşak bir hamuruyla yapılır ve genellikle karamelize muz, çikolata veya tereyağı ile servis edilir.",
+    "options": [
+      "Crêpes",
+      "Tiramisu",
+      "Opera",
+      "Macarons"
+    ],
+    "correctAnswer": "Crêpes",
+    "tags": [
+      "Fransa",
+      "tatlılar",
+      "mutfağın temelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iexok616e",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "İtalyan kökenli hangi tatlı kahve bazında yapılar ve esmer şekerle servis edilir?",
+    "explanation": "Tiramisu, kahve ve mascarpone peynirini temel alan İtalyan kökenli tatlıdır.",
+    "options": [
+      "Panna Cotta",
+      "Tiramisu",
+      "Gelato",
+      "Cannoli"
+    ],
+    "correctAnswer": "Tiramisu",
+    "tags": [
+      "İtalya",
+      "kahve tatlıları",
+      "mutfağın temelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8crz7i9ep",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "İspanya'daki hangi tatlı şaraplı krema ve badem ezmesi içerir?",
+    "explanation": "İspanyol churros, şaraplı krema ve badem ezmesi içerir.",
+    "options": [
+      "Churros",
+      "Flan",
+      "Crema Catalana",
+      "Tarta de Queso"
+    ],
+    "correctAnswer": "Churros",
+    "tags": [
+      "İspanya",
+      "şaraplı krema",
+      "mutfağın temelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aaw4by3q5",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Portekiz kökenli tatlı hangi meyve ile servis edilir?",
+    "explanation": "Portekiz kökenli Pastel de Nata, portu ile servis edilir.",
+    "options": [
+      "Portu",
+      "Pastel de Nata",
+      "Bacalhau",
+      "Feijoada"
+    ],
+    "correctAnswer": "Pastel de Nata",
+    "tags": [
+      "Portekiz",
+      "tatlılar",
+      "portu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pdo3owbos",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Japon kökenli tatlı hangi hamuruyla yapılır?",
+    "explanation": "Mochi, Japon kökenli tatlıdır ve glutensiz pirinç hamuruyla yapılır.",
+    "options": [
+      "Mochi",
+      "Sushi",
+      "Nabemono",
+      "Tempura"
+    ],
+    "correctAnswer": "Mochi",
+    "tags": [
+      "Japon",
+      "hamur işi",
+      "mutfağın temelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tqpcry98j",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Dünya tatlıları arasında hangi ülke, 'Tiramisu' adında kahveli ve beyaz kremalı ünlü tatlıyı geliştirmiştir?",
+    "explanation": "Tiramisu, İtalya kökenli ünlü tatlıdır. Kahve ile ıslatılmış ladyfingers, beyaz mascarpone kreması ve kakao püskürtmesiyle hazırlanır.",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "İspanya",
+      "Portekiz"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "Dünya Tatlıları",
+      "İtalyan Mutfağı",
+      "Tiramisu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gpzsi0x9t",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin ulusal tatlılarından biri olan 'Paçoca', yer fıstıklı ve şekersiz bir çikolata türüdür?",
+    "explanation": "Paçoca, Türkiye'de ünlü yer fıstıklı çikolata türüdür. Şekersiz ve tuzlu bir versiyon olarak da bilinir.",
+    "options": [
+      "Türkiye",
+      "Meksika",
+      "Peru",
+      "Brezilya"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "Dünya Tatlıları",
+      "Türk Mutfağı",
+      "Paçoca"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i2c2ud69d",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Dünya tatlılarında hangi ülkenin 'Macaristan Tatlısı' (Hungarian Dessert) olarak bilinen şekerleme, 'Honeycomb' veya 'Taffy' çeşitleriyle meşhurdur?",
+    "explanation": "Macaristan, şekerleme ve tatlı çeşitleriyle meşhurdur. Özellikle 'Macaristan Tatlısı' (Hungarian Dessert) popülerdir.",
+    "options": [
+      "Macaristan",
+      "Çekya",
+      "Avusturya",
+      "Polonya"
+    ],
+    "correctAnswer": "Macaristan",
+    "tags": [
+      "Dünya Tatlıları",
+      "Macar Mutfağı",
+      "Şekerlemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y5gzyh8h5",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin ulusal tatlılarından biri olan 'Crème Brûlée', yanmış şeker tabakası ile süslü kremalı tatlıdır?",
+    "explanation": "Crème Brûlée, Fransız mutfağının klasik ve meşhur tatlılarından biridir. Yanmış şekerli kremalı yapısıyla ünlüdür.",
+    "options": [
+      "Fransa",
+      "İtalya",
+      "Belçika",
+      "Hollanda"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "Dünya Tatlıları",
+      "Fransız Mutfağı",
+      "Crème Brûlée"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4t4g4evx7",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Dünya tatlıları arasında hangi ülke, 'Cheesecake' (Peynirli kek) adında peynir ağırlıklı tatlıyı popülerleştirmiştir?",
+    "explanation": "Cheesecake, Amerika Birleşik Devletleri kökenli popüler tatlıdır. Peynirli ve kremsi yapısıyla ünlüdür.",
+    "options": [
+      "ABD",
+      "İtalya",
+      "Fransa",
+      "İspanya"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "Dünya Tatlıları",
+      "Amerikan Mutfağı",
+      "Cheesecake"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "70q7u3phw",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi tatlı, İtalyan gelato kültürünün en yaygın örneğidir?",
+    "explanation": "Cannoli, Sicilya kökenli İtalyan tatlısıdır ve taze buğday unu veya meringue ile doldurulmuş şerbetli bir içine sahiptir.",
+    "options": [
+      "Tiramisu",
+      "Cannoli",
+      "Panna Cotta",
+      "Gelato"
+    ],
+    "correctAnswer": "Cannoli",
+    "tags": [
+      "Dünya Tatlıları",
+      "İtalyan Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nv3gaesa1",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Fransız mutfağına ait aşağıdaki tatlılardan hangisi, krem brülü olarak bilinir?",
+    "explanation": "Crème Brûlée, Fransız kökenli tatlıdır ve şerbetli bir tabanın üzerine karbonatlı veya krem brülü ile servis edilir.",
+    "options": [
+      "Macarons",
+      "Creme Brulee",
+      "Pavlova",
+      "Opera"
+    ],
+    "correctAnswer": "Creme Brulee",
+    "tags": [
+      "Dünya Tatlıları",
+      "Fransız Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r43so4o4m",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Türk mutfağının en meşhur tatlılarından biri hangisidir?",
+    "explanation": "Baklava, Türk mutfağının en meşhur tatlılarından biridir ve ince şerbetli katmanlardan yapılır.",
+    "options": [
+      "Halva",
+      "Baklava",
+      "Künefe",
+      "İçli Köfte"
+    ],
+    "correctAnswer": "Baklava",
+    "tags": [
+      "Dünya Tatlıları",
+      "Türk Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cb7pwp5mm",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi tatlı, Yeni Zelanda kökenli bir pavlova olarak bilinir?",
+    "explanation": "Pavlova, Yeni Zelanda kökenli bir tatlıdır ve şerbetli bir tabanın üzerine muz veya limon ile servis edilir.",
+    "options": [
+      "Eton Mess",
+      "Pavlova",
+      "Sticky Toffee Pudding",
+      "Trifle"
+    ],
+    "correctAnswer": "Pavlova",
+    "tags": [
+      "Dünya Tatlıları",
+      "Yeni Zelanda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m2fxguvu5",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki hangi tatlı, Şaraplı içeceklerle eşleştirilir?",
+    "explanation": "Tiramisu, İtalyan kökenli bir tatlıdır ve şaraplı içeceklerle eşleştirilir. Krem brülü veya pavlova ile servis edilir.",
+    "options": [
+      "Tiramisu",
+      "Chocolate Fondant",
+      "Sticky Toffee Pudding",
+      "Bavarian Cream"
+    ],
+    "correctAnswer": "Tiramisu",
+    "tags": [
+      "Dünya Tatlıları",
+      "İtalyan Mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1v85ec6i1",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Dünya tatlılarından 'Tiramisu' hangi ülkenin milli tatlısı olarak kabul edilir?",
+    "explanation": "Tiramisu, İtalya'nın en meşhur tatlılarından biridir. Kahve, mascarpone peyniri ve safranlı bisküvi içerir.",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "İspanya",
+      "Almanya"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "tatlılar",
+      "dünya mutfakları",
+      "tiramisu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4k05y2moc",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki tatlılardan hangisi Fransız mutfak geleneğine aittir?",
+    "explanation": "Paris-Brest, Opera ve Mille-feuille hepsi Fransız mutfaktan gelmektedir. Bu tatlılar Fransa'da yaygındır.",
+    "options": [
+      "Paris-Brest",
+      "Opera",
+      "Mille-feuille",
+      "Tous les deux"
+    ],
+    "correctAnswer": "Tous les deux",
+    "tags": [
+      "fransız tatlıları",
+      "mutfak tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b2gvbwl7x",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "'Sponge Cake' (Külah Kek) temel olarak hangi malzemeden yapılır?",
+    "explanation": "Sponge Cake, temel olarak yumurta, şekeri ve biraz un içerir. Yumurta köpüğü ile kabartma sağlanır.",
+    "options": [
+      "Sadece yumurta ve şeker",
+      "Kahve ve kakao",
+      "Mascarpone peyniri",
+      "Bisküvi ve krema"
+    ],
+    "correctAnswer": "Sadece yumurta ve şeker",
+    "tags": [
+      "kek türleri",
+      "malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "frulgslxo",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "'Chocolate Fudge' tatlısı hangi malzemeden üretilmez?",
+    "explanation": "Chocolate Fudge, kakao, şeker ve tereyağı içerir. Mascarpone peyniri İtalyan tatlılarına özgüdür.",
+    "options": [
+      "Kakao",
+      "Şeker",
+      "Tereyağı",
+      "Mascarpone peyniri"
+    ],
+    "correctAnswer": "Mascarpone peyniri",
+    "tags": [
+      "çikolata tatlıları",
+      "malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4rp1sp8e6",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "'Baklava' hangi kültüre ait geleneksel tatlıdır?",
+    "explanation": "Baklava, Ortadoğu ve Türk mutfaklarının en meşhur tatlılarından biridir. İnce hamur katmanları ile yapılır.",
+    "options": [
+      "Türk Mutfakları",
+      "Arap Mutfakları",
+      "Hint Mutfakları",
+      "Fars Mutfakları"
+    ],
+    "correctAnswer": "Türk Mutfakları",
+    "tags": [
+      "turkish sweets",
+      "baklava"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "639h7znpz",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki tatlılardan hangisi Osmanlı döneminde bilinen ve günümüze ulaşan bir Türk mutfağı ürünüdür?",
+    "explanation": "Lokum, Osmanlı döneminde bilinen ve günümüze ulaşan Türk mutfağı ürünüdür. Diğer seçenekler farklı kültürlerin tatlılarıdır.",
+    "options": [
+      "Baklava",
+      "Tiramisu",
+      "Panettone",
+      "Lokum"
+    ],
+    "correctAnswer": "Lokum",
+    "tags": [
+      "MUTFAK-Dünya Tatlıları",
+      "Osmanlı Mutfak Kültürü",
+      "Dünya Tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vipppluf8",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Pancake'ların Polonya versiyonu olarak bilinen Pączki (Polonyalı Tatlı) hangi özelliğe sahiptir?",
+    "explanation": "Pączki, Polonya mutfağının bir ürünü olup genellikle bal ile kaplı ve içi çeşitli dolgularla doldurulur.",
+    "options": [
+      "Bal ile kaplı",
+      "Mantar içli",
+      "Süt bazlı",
+      "Fıstıklı"
+    ],
+    "correctAnswer": "Bal ile kaplı",
+    "tags": [
+      "MUTFAK-Dünya Tatlıları",
+      "Polonya Mutfağı",
+      "Dünya Tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4gdmso1k9",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "İspanya'nın geleneksel tatlılarından Turrón'un ana hammaddesi nedir?",
+    "explanation": "Turrón, İspanya'nın geleneksel tatlısı olup ana hammaddesi şekerleme (nougat) ve genellikle fıstık içerir.",
+    "options": [
+      "Fıstık",
+      "Nougat (Şekerleme)",
+      "Muz",
+      "Kakao"
+    ],
+    "correctAnswer": "Nougat (Şekerleme)",
+    "tags": [
+      "MUTFAK-Dünya Tatlıları",
+      "İspanya Mutfağı",
+      "Dünya Tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "49ts8afy0",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "İtalya'da Noel zamanı yaygın olarak tüketilen Panettone tatlısının yapımında hangi malzeme kullanılır?",
+    "explanation": "Panettone, İtalya'nın geleneksel tatlısı olup portakal kabuğu ve diğer meyve kabukları kullanılarak yapılır.",
+    "options": [
+      "Portakal kabuğu",
+      "Elma",
+      "Muz",
+      "Şeftali"
+    ],
+    "correctAnswer": "Portakal kabuğu",
+    "tags": [
+      "MUTFAK-Dünya Tatlıları",
+      "İtalya Mutfağı",
+      "Dünya Tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z83utoynj",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi dünya tatlısı genellikle düz yufka üzerine katmanlar halinde hazırlanır?",
+    "explanation": "Baklava, düz yufka üzerine katmanlar halinde hazırlanır ve fıstık ile şekerli sosla kaplanarak yapılır.",
+    "options": [
+      "Baklava",
+      "Mousse",
+      "Cheesecake",
+      "Brownie"
+    ],
+    "correctAnswer": "Baklava",
+    "tags": [
+      "MUTFAK-Dünya Tatlıları",
+      "Türk Mutfağı",
+      "Dünya Tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pdb5vbjx1",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Hangi tatlı İtalyan kökenlidir ve süt, yulaf, şeker ve vanilya içerir?",
+    "explanation": "Tiramisu İtalyan kökenli bir tatlıdır ve süt, kahve, yulaf, şeker ve vanilya içerir.",
+    "options": [
+      "Pavlova",
+      "Tiramisu",
+      "Baklava",
+      "Zencefil"
+    ],
+    "correctAnswer": "Tiramisu",
+    "tags": [
+      "tatlılar",
+      "İtalyan mutfağı",
+      "dünya tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "62shg0lpg",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Meksika'dan gelen ve karamel, fındık ve krema içeren meşhur tatlı hangisidir?",
+    "explanation": "Flan Meksika kökenli bir tatlıdır ve karamel, krema ile hazırlanır.",
+    "options": [
+      "Churro",
+      "Flan",
+      "Caramelo",
+      "Nacatillo"
+    ],
+    "correctAnswer": "Flan",
+    "tags": [
+      "Meksika mutfağı",
+      "tatlılar",
+      "dünya tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8zuhi2435",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EASY",
+    "question": "Hangi tatlı Osmanlı kökenlidir ve fındık, şeker ve vanilya içerir?",
+    "explanation": "Baklava Osmanlı kökenli bir tatlıdır ve fındık, şeker ve vanilya içerir.",
+    "options": [
+      "Dondurma",
+      "Baklava",
+      "Künefe",
+      "Sütlaç"
+    ],
+    "correctAnswer": "Baklava",
+    "tags": [
+      "Osmanlı mutfağı",
+      "tatlılar",
+      "dünya tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5y4pulyy8",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Yunanistan'dan gelen ve yoğurt, meyve ve şeker içeren tatlı hangisidir?",
+    "explanation": "Galaktoboureko Yunanistan kökenli bir tatlıdır ve yoğurt, meyve ile hazırlanır.",
+    "options": [
+      "Kataifi",
+      "Galaktoboureko",
+      "Loukoumi",
+      "Souvlaki"
+    ],
+    "correctAnswer": "Galaktoboureko",
+    "tags": [
+      "Yunan mutfağı",
+      "tatlılar",
+      "dünya tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ez4td7lru",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EXPERT",
+    "question": "Hangi tatlı Hint kökenlidir ve badem, şeker ve vanilya içerir?",
+    "explanation": "Gulab Jamun Hint kökenli bir tatlıdır ve badem, şeker ve vanilya içerir.",
+    "options": [
+      "Gulab Jamun",
+      "Biryani",
+      "Samosa",
+      "Naan"
+    ],
+    "correctAnswer": "Gulab Jamun",
+    "tags": [
+      "Hint mutfağı",
+      "tatlılar",
+      "dünya tatlıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nv3mltiyo",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi Türk tatlısı, bademli ve şerbetli olarak bilinir?",
+    "explanation": "Baklava, ince hamur katmanları ve içinde badem ezmesi ile şerbetli olarak bilinen geleneksel Türk tatlısıdır.",
+    "options": [
+      "Sütlaç",
+      "Baklava",
+      "Şekerpare",
+      "Künefe"
+    ],
+    "correctAnswer": "Baklava",
+    "tags": [
+      "tatlı",
+      "baklava",
+      "türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "16et1uluh",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Türk lokumu (lokum) hangi bölgede en meşhur hale gelmiştir?",
+    "explanation": "Türk lokumu (lokum), İstanbul'da üretilen ve dünyaca ünlü geleneksel Türk tatlısıdır.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Trabzon",
+      "İzmir"
+    ],
+    "correctAnswer": "İstanbul",
+    "tags": [
+      "tatlı",
+      "lokum",
+      "türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yqgdajp0k",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Sütlaç hangi malzemeden yapılır?",
+    "explanation": "Sütlaç, süt, şeker ve tahıl (genellikle pirinç veya bulgur) malzemeleri ile yapılan geleneksel Türk tatlısıdır.",
+    "options": [
+      "Muz",
+      "Şekerpare",
+      "Tahıl (pirinç/bulgur)",
+      "Hurma"
+    ],
+    "correctAnswer": "Tahıl (pirinç/bulgur)",
+    "tags": [
+      "tatlı",
+      "sütlaç",
+      "türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9yux3kh7o",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "EXPERT",
+    "question": "Künefe hangi bölgelerde üretilir?",
+    "explanation": "Künefe, genelde Hatay ve çevre bölgelerinde üretilen, ince hamur katmanları ve şerbetli geleneksel Türk tatlısıdır.",
+    "options": [
+      "Sadece İstanbul",
+      "Genellikle Hatay ve çevresi",
+      "Trabzon",
+      "Ankara"
+    ],
+    "correctAnswer": "Genellikle Hatay ve çevresi",
+    "tags": [
+      "tatlı",
+      "künefe",
+      "türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ecvdwgc2",
+    "category": "MUTFAK",
+    "subcategory": "Dünya Tatlıları",
+    "difficulty": "GENERAL",
+    "question": "Hangi tatlı, ceviz veya fıstıklı olarak bilinen bir türdür?",
+    "explanation": "Baklava, ceviz veya fıstıklı olarak bilinen geleneksel Türk tatlısıdır.",
+    "options": [
+      "Baklava",
+      "Hurma tatlısı",
+      "Tatlısı (şekerli)",
+      "Şekerpare"
+    ],
+    "correctAnswer": "Baklava",
+    "tags": [
+      "tatlı",
+      "baklava",
+      "türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

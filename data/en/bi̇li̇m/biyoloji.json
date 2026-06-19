@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "7f300bz0t",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Hücrenin enerji üretimi ve kullanımı ile ilgili organel hangisidir?",
+    "explanation": "Mitokondri, hücrenin enerji üretim merkezidir ve ATP sentezleyerek hücreye enerji sağlar.",
+    "options": [
+      "Kloroplast",
+      "Mitokondri",
+      "Çekirdek",
+      "Ribozom"
+    ],
+    "correctAnswer": "Mitokondri",
+    "tags": [
+      "Hücre Yapısı",
+      "Enerji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zdy1thh2p",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi canlılar ototrof (kendi besinini sentezleyen) organizmalardır?",
+    "explanation": "Bitkiler klorofil içerir ve fotosentez yoluyla kendi besinlerini sentezlerler (ototroftur).",
+    "options": [
+      "Hesap",
+      "Bakteriler",
+      "Bitkiler",
+      "Mantarlar"
+    ],
+    "correctAnswer": "Bitkiler",
+    "tags": [
+      "Beslenme",
+      "Ototrof/Heterotrof"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oq8k5t6wy",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "DNA'da bulunan nükleik asit hangisidir?",
+    "explanation": "DNA (Deoksiribo Nükleik Asit) genetik bilginin taşınması için kullanılan moleküldür.",
+    "options": [
+      "RNA",
+      "ATP",
+      "ADN",
+      "Protein"
+    ],
+    "correctAnswer": "ADN",
+    "tags": [
+      "Genetik",
+      "Moleküller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "42rgdtcwe",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EXPERT",
+    "question": "Hangi organel hücrenin hareketini sağlayan yapısal bir bileşendir?",
+    "explanation": "Sitokelet, hücrenin şekil ve hareketini sağlayan içskelet yapısını oluşturur.",
+    "options": [
+      "Sitoplazma",
+      "Sitokelet (Sitofuz)",
+      "Hücre Duvarı",
+      "Plazma Zarı"
+    ],
+    "correctAnswer": "Sitokelet (Sitofuz)",
+    "tags": [
+      "Hücre Yapısı",
+      "Hareket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u5x374x8e",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Fotosentez sırasında hangi gaz atmosferden alınır?",
+    "explanation": "Fotosentez sırasında bitkiler karbon dioksit alır ve oksijen üretir.",
+    "options": [
+      "Oksijen",
+      "Azot",
+      "Karbon Dioksit",
+      "Hidrojen"
+    ],
+    "correctAnswer": "Karbon Dioksit",
+    "tags": [
+      "Fotosentez",
+      "Ağır Gazlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uj3e4q3ei",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Bir hücrenin temel yapı birimi nedir?",
+    "explanation": "Nükleus, hücrenin kontrol merkezi ve DNA'nın bulunduğu temel yapı birimidir.",
+    "options": [
+      "Mitokondri",
+      "DNA",
+      "Ribozom",
+      "Nükleus"
+    ],
+    "correctAnswer": "Nükleus",
+    "tags": [
+      "hücre",
+      "biyoloji",
+      "genel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0fmd8w7ud",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Fotosentez sırasında bitkiler hangi gazı üretir?",
+    "explanation": "Fotosentez sırasında bitkiler karbon dioksiti alıp oksijen üretirler.",
+    "options": [
+      "Oksijen",
+      "Hidrogen",
+      "Karbon Dioksit",
+      "Azot"
+    ],
+    "correctAnswer": "Oksijen",
+    "tags": [
+      "fotosentez",
+      "bitkiler",
+      "gazlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l30ujr4rj",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Kalıtımın temel birimi nedir?",
+    "explanation": "Genler, kromozomların üzerindeki ve kalıtımın temel birimlerini oluşturur.",
+    "options": [
+      "Hücre",
+      "Kromozom",
+      "Gen",
+      "Doku"
+    ],
+    "correctAnswer": "Gen",
+    "tags": [
+      "kalıtım",
+      "genetik",
+      "temel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "70w5sibs4",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi hayvan omurgasızdır?",
+    "explanation": "Böcekler, kısıtlı omurları olmayan ve omurgasız hayvanlardır.",
+    "options": [
+      "Kedi",
+      "Balık",
+      "Böcek",
+      "İnek"
+    ],
+    "correctAnswer": "Böcek",
+    "tags": [
+      "hayvanlar",
+      "omurgasızlar",
+      "genel bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "igo6sthda",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EXPERT",
+    "question": "Mitoz bölünme sonucu oluşan hücre sayısı nedir?",
+    "explanation": "Mitoz bölünme sonucu bir ana hücre 2 eşit kromozomlu yavru hücre oluşturur.",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "mitoz",
+      "bölünme",
+      "hücre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zl81436gw",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Who proposed the part of cell theory stating that all living organisms are composed of one or more cells?",
+    "explanation": "Theodor Schwann extended cell theory to animals, while Schleiden focused on plants. Virchow later added that cells arise from pre-existing cells.",
+    "options": [
+      "Matthias Schleiden",
+      "Theodor Schwann",
+      "Rudolf Virchow",
+      "Robert Hooke"
+    ],
+    "correctAnswer": "Theodor Schwann",
+    "tags": [
+      "cell theory",
+      "biology history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "42cxqyq0m",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "In the DNA molecule, adenine (A) pairs with which nitrogenous base?",
+    "explanation": "Adenine always pairs with thymine via two hydrogen bonds in DNA. Uracil is found in RNA instead of thymine.",
+    "options": [
+      "Thymine (T)",
+      "Guanine (G)",
+      "Cytosine (C)",
+      "Uracil (U)"
+    ],
+    "correctAnswer": "Thymine (T)",
+    "tags": [
+      "genetics",
+      "molecular biology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1hekg3dty",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "What are the primary products of photosynthesis in plants?",
+    "explanation": "Photosynthesis converts CO₂ and water into glucose and oxygen using sunlight energy.",
+    "options": [
+      "Glucose and Oxygen",
+      "Carbon Dioxide and Water",
+      "ATP and NADPH",
+      "Proteins and Lipids"
+    ],
+    "correctAnswer": "Glucose and Oxygen",
+    "tags": [
+      "plant physiology",
+      "energy transfer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nooj4xq87",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Which blood type has both A and B antigens on red blood cells?",
+    "explanation": "Type AB individuals have both A and B antigens, making them universal recipients for blood transfusions.",
+    "options": [
+      "Type A",
+      "Type B",
+      "Type AB",
+      "Type O"
+    ],
+    "correctAnswer": "Type AB",
+    "tags": [
+      "immunology",
+      "blood groups"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bmyuekq8i",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EXPERT",
+    "question": "Which of the following statements accurately describes the function of the electron transport chain in mitochondria?",
+    "explanation": "The electron transport chain creates a proton gradient that drives ATP synthase to produce ATP during oxidative phosphorylation.",
+    "options": [
+      "It generates a proton gradient used for ATP synthesis",
+      "It directly produces NADH from glucose",
+      "It occurs during glycolysis in the cytoplasm",
+      "It converts pyruvate into acetyl-CoA"
+    ],
+    "correctAnswer": "It generates a proton gradient used for ATP synthesis",
+    "tags": [
+      "cellular respiration",
+      "mitochondrial function"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fr6c9yyiu",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi yapı hücrenin tüm genetik bilginin saklandığı yerdir?",
+    "explanation": "Çekirdek, hücrenin tüm DNA'sının ve genetik bilginin saklandığı ana yapıdır. Ribozom protein sentezinde, mitokondri enerji üretiminde, lizozom ise sindirim görevi görür.",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Çekirdek",
+      "Lizozom"
+    ],
+    "correctAnswer": "Çekirdek",
+    "tags": [
+      "Hücre Yapısı",
+      "Genetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f6y5x5c4f",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Fotosentez hangi organelde gerçekleşir?",
+    "explanation": "Kloroplast, bitki hücrelerinde fotosentez olayının gerçekleştiği organeldir. İçindeki klorofil pigmenti ışık enerjisini kullanarak organik maddeler üretir.",
+    "options": [
+      "Mitokondri",
+      "Kloroplast",
+      "Ribozom",
+      "Endoplazmik Retikulum"
+    ],
+    "correctAnswer": "Kloroplast",
+    "tags": [
+      "Bitki Biyolojisi",
+      "Fotosentez"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qf4r0zz8a",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Mendel'in kalıtım yasaları hangi tür deneylerle elde edilmiştir?",
+    "explanation": "Gregor Mendel, kalıtım yasalarını Pisum sativum (bezelye) adı verilen çiçekli bitkilerle yaptığı kontrollü hibritizasyon deneyleriyle ortaya koymuştur.",
+    "options": [
+      "Maymuza",
+      "Çiçekli bitkilere (Pisum sativum)",
+      "Sinekler",
+      "Böcekler"
+    ],
+    "correctAnswer": "Çiçekli bitkilere (Pisum sativum)",
+    "tags": [
+      "Genetik",
+      "Kalıtım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "msku5ll0f",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi organel \"hücrenin enerji santrali\" olarak adlandırılır?",
+    "explanation": "Mitokondri, hücrelerin ATP (adenozin trifosfat) üretmesi sayesinde \"enerji santrali\" olarak bilinir. Solunum zinciri burada gerçekleşerek enerji sağlar.",
+    "options": [
+      "Çekirdek",
+      "Ribozom",
+      "Mitokondri",
+      "Golgi"
+    ],
+    "correctAnswer": "Mitokondri",
+    "tags": [
+      "Hücre Yapısı",
+      "Enerji Üretimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y2e8fvpiv",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "DNA'nın yapısında bulunmayan baz hangisidir?",
+    "explanation": "DNA'nın yapısında Adenin (A), Guanin (G), Sitozin (C) ve Timin (T) olmak üzere 4 baz bulunur. \"Sitamin\" diye bir baz yoktur, doğru isim Sitozindir.",
+    "options": [
+      "Adenin",
+      "Guanin",
+      "Sitamin",
+      "Timin"
+    ],
+    "correctAnswer": "Sitamin",
+    "tags": [
+      "Genetik",
+      "DNA Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4p3zeqfj1",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Biyolojide organizmaları sınıflandıran temel birim nedir?",
+    "explanation": "Hücre, biyolojide organizmaları sınıflandıran temel yapısal ve fonksiyonel birimdir. Tüm canlılar hücrelerden oluşur.",
+    "options": [
+      "Gen",
+      "Hücre",
+      "Atom",
+      "Molekül"
+    ],
+    "correctAnswer": "Hücre",
+    "tags": [
+      "Biyoloji",
+      "Sınıflandırma",
+      "Hücre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5voq7h3l",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi organel fotosentez işlevini yerine getirir?",
+    "explanation": "Kloroplast, bitki hücrelerinde bulunan ve fotosentez işlevini yerine getiren organeldir. Işık enerjisini kimyasal enerjiye dönüştürür.",
+    "options": [
+      "Mitokondri",
+      "Kloroplast",
+      "Ribozom",
+      "Golgi Aparatı"
+    ],
+    "correctAnswer": "Kloroplast",
+    "tags": [
+      "Biyoloji",
+      "Organel",
+      "Fotosentez"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ldtamr17y",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "DNA'nın yapısında hangi baz bulunmaz?",
+    "explanation": "DNA'da Adenin, Timin, Guanin ve Sitozin bazları bulunur. Urasil sadece RNA'da bulunur.",
+    "options": [
+      "Adenin",
+      "Timin",
+      "Urasil",
+      "Guanin"
+    ],
+    "correctAnswer": "Urasil",
+    "tags": [
+      "Biyoloji",
+      "DNA",
+      "Baz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9yvm4lx5o",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi organel hücrenin enerji üretim merkezidir?",
+    "explanation": "Mitokondri, hücrenin enerji üretim merkezidir. Sitrik asit döngüsü ve oksidatif fosforilasyon yoluyla ATP üretir.",
+    "options": [
+      "Kloroplast",
+      "Mitokondri",
+      "Ribozom",
+      "Lizozom"
+    ],
+    "correctAnswer": "Mitokondri",
+    "tags": [
+      "Biyoloji",
+      "Organel",
+      "Enerji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j2v6hbxmm",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EXPERT",
+    "question": "Bakteri hücrelerinin en dış katmanı nedir?",
+    "explanation": "Bakteriler prokaryot canlılardır ve gerçek bir çekirdeğe sahip değillerdir. Çift katlı zar hücrenin en dış katmanıdır.",
+    "options": [
+      "Çift katlı zar",
+      "Sitoplazma",
+      "Kapsül veya Çeper",
+      "Hücre çekirdeği"
+    ],
+    "correctAnswer": "Çift katlı zar",
+    "tags": [
+      "Biyoloji",
+      "Bakteri",
+      "Hücre Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fefhwd71b",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hücrenin enerji üretimini sağlayan organel hangisidir?",
+    "explanation": "Mitokondri, hücrelerin enerji (ATP) üretimini sağlayan organel olarak bilinir. Ribozom protein sentezler, Golgi aygıtı madde paketleme yapar.",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Golgi Aygıtı",
+      "Endoplazmik Retikulum"
+    ],
+    "correctAnswer": "Mitokondri",
+    "tags": [
+      "hücre",
+      "biyoloji",
+      "organel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4m7f57zq7",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi bitki hücresinin hayvan hücresinden farklı özelliğidir?",
+    "explanation": "Bitki hücresinin hayvan hücresinden temel farkı hücre duvarının bulunmasıdır. Çekirdek, mitokondri ve sitoplazma her iki hücrede de bulunur.",
+    "options": [
+      "Çekirdek",
+      "Hücre duvarı",
+      "Mitokondri",
+      "Sitoplazma"
+    ],
+    "correctAnswer": "Hücre duvarı",
+    "tags": [
+      "hücre",
+      "bitki",
+      "hayvan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "975p9u11v",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EXPERT",
+    "question": "DNA'daki baz çiftlerinden hangisi doğru eşleşme yapmaz?",
+    "explanation": "DNA'da adenin (A) timin (T) ile, sitozin (C) guanin (G) ile eşleşir. A-C eşleşmesi DNA baz ekleme kurallarına uygun değildir.",
+    "options": [
+      "A-T",
+      "C-G",
+      "A-C",
+      "T-A"
+    ],
+    "correctAnswer": "A-C",
+    "tags": [
+      "genetik",
+      "DNA",
+      "baz çifti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xx29di487",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi organ sistemimizde kanın filtrelenmesi ve idrar oluşumu gerçekleşir?",
+    "explanation": "Böbrekler, vücudun kanını filtreler ve idrar oluşumundan sorumludur. Kalp kan pompalar, akciğer gaz alışverişinde bulunur, karaciğer detoksifikasyon yapar.",
+    "options": [
+      "Kalp",
+      "Akciğer",
+      "Böbrek",
+      "Karaciğer"
+    ],
+    "correctAnswer": "Böbrek",
+    "tags": [
+      "insan biyolojisi",
+      "böbrek",
+      "kan sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lq0b47psh",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Fotosentez hangi organelde gerçekleşen bir olaydır?",
+    "explanation": "Fotosentez, bitkilerin kloroplast organelinde güneş enerjisini kullanarak besin üretme olayıdır. Mitokondri enerji üretir, diğer organeller farklı işlevlere sahiptir.",
+    "options": [
+      "Mitokondri",
+      "Kloroplast",
+      "Ribozom",
+      "Lizozom"
+    ],
+    "correctAnswer": "Kloroplast",
+    "tags": [
+      "bitki biyolojisi",
+      "fotosentez",
+      "organel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0kp7y1a1v",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi eukaryotik hücrelerin özelliğidir?",
+    "explanation": "Eukaryotik hücrelerde çekirdek zarı bulunur ve genetik materyal bu zarlın içinde korunur. Prokaryotik hücrelerde ise çekirdek zarı yoktur.",
+    "options": [
+      "Çekirdek zarı bulunması",
+      "Ribozomların sitoplazmada olması",
+      "Mitokondri içermemesi",
+      "Hücre duvarı bulunması"
+    ],
+    "correctAnswer": "Çekirdek zarı bulunması",
+    "tags": [
+      "hücre",
+      "eukaryotik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8l3d60tpl",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Bitki hücresinin hayvan hücresi ile özelleşmiş yapısı aşağıdakilerden hangisidir?",
+    "explanation": "Bitki hücrelerinde hücre duvarı bulunur, bu yapı hücrenin şeklini korur ve ekzositosistik materyallerin dışarı atılmasını sağlar.",
+    "options": [
+      "Hücre duvarı",
+      "Ribozom",
+      "Mitokondri",
+      "Çekirdek"
+    ],
+    "correctAnswer": "Hücre duvarı",
+    "tags": [
+      "bitki-hayvan-hücre-farkları",
+      "hücre-organelleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cp7dscagg",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi kloroplastlarda bulunan pigmenttir?",
+    "explanation": "Kloroplastlarda klorofil adı verilen yeşil pigment fotosentez sürecinde ışık enerjisinin kullanılması için görev yapar.",
+    "options": [
+      "Klorofil",
+      "Karoten",
+      "Antokyan",
+      "Melanin"
+    ],
+    "correctAnswer": "Klorofil",
+    "tags": [
+      "fotosentez",
+      "pigmentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lkr1zxvsn",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "DNA replikasyonu sırasında aşağıdakilerden hangisi gerçekleşir?",
+    "explanation": "DNA replikasyonu sırasında iki enzim (helicaz ve DNA polimeraz) aracılığıyla tek zincirli DNA ikiye ayrılır ve yeni bir DNA molekülü sentezlenir.",
+    "options": [
+      "Tek zincirli DNA'nın ikiye ayrılması",
+      "RNA polimeraz enziminin çalışması",
+      "Protein sentezinin başlaması",
+      "Hücre bölünmesinin durması"
+    ],
+    "correctAnswer": "Tek zincirli DNA'nın ikiye ayrılması",
+    "tags": [
+      "DNA-replikasyonu",
+      "moleküler-biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3alxxv8dw",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi mitoz bölünme sonucu oluşan hücre sayısıdır?",
+    "explanation": "Mitoz bölünme sonucu tek bir hücre ikiye ayrılır ve iki genetik olarak aynı hücre oluşur.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "hücre-bölünmesi",
+      "mitoz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "in5h0oyv2",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Mitoz bölünme sonucu hangi hücre türleri oluşur?",
+    "explanation": "Mitoz bölünme, vücut (somatik) hücrelerinin çoğalması için kullanılır. Üreme hücreleri meiosis bölünmesiyle oluşur.",
+    "options": [
+      "Üreme hücreleri",
+      "Vücut (somatik) hücreleri",
+      "Sadece beyaz kan hücreleri",
+      "Hormon salgılayan hücreler"
+    ],
+    "correctAnswer": "Vücut (somatik) hücreleri",
+    "tags": [
+      "hücre bölünmesi",
+      "mitoz",
+      "biyoloji temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zxyetik69",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi fotosentezin gerçekleştiği yerdir?",
+    "explanation": "Fotosentez, kloroplast içinde klorofil pigmenti sayesinde gerçekleşir ve bitkilerde karbonhidrat sentezi yapar.",
+    "options": [
+      "Mitokondri",
+      "Kloroplast",
+      "Ribozom",
+      "Çekirdek"
+    ],
+    "correctAnswer": "Kloroplast",
+    "tags": [
+      "fotosentez",
+      "hücre organelleri",
+      "bitki biyolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "78mjf5tqi",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "DNA'nın temel yapı birimi aşağıdakilerden hangisidir?",
+    "explanation": "DNA, nükleotid zincirlerinden oluşur. Her nükleotid bir fosfat grubu, şeker ve baz içerir.",
+    "options": [
+      "Amino asit",
+      "Nükleotid",
+      "Glukoz",
+      "Lipit"
+    ],
+    "correctAnswer": "Nükleotid",
+    "tags": [
+      "DNA",
+      "genetik",
+      "moleküler biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lupnmmpm9",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "İnsan vücudunda oksijenli solunum yapan hücre organeli hangisidir?",
+    "explanation": "Mitokondri, hücrede ATP (enerji) üretiminden sorumludur ve oksijenli solunum gerçekleştiği yerdir.",
+    "options": [
+      "Ribozom",
+      "Golgi aparatı",
+      "Mitokondri",
+      "Lizozom"
+    ],
+    "correctAnswer": "Mitokondri",
+    "tags": [
+      "solunum",
+      "hücre organelleri",
+      "enerji üretimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k6cw636mm",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Doğal seçilim kuramını kim geliştirmiştir?",
+    "explanation": "Charles Darwin, 1859 yılında 'Türlerin Kökeni' adlı eserinde doğal seçilim kuramını geliştirmiştir.",
+    "options": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "James Watson",
+      "Francis Crick"
+    ],
+    "correctAnswer": "Charles Darwin",
+    "tags": [
+      "evrim teorisi",
+      "doğal seçilim",
+      "biyoloji tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f7qod1o1r",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi canlıların ortak özelliklerinden biri değildir?",
+    "explanation": "Canlıların ortak özellikleri arasında hücreden oluşma, beslenme, enerji kullanma ve taşıyıcı DNA yapısına sahip olma bulunur. İnsanlara zarar verme canlıların ortak bir özelliği değildir.",
+    "options": [
+      "Hücreden oluşma",
+      "Beslenme ve enerji kullanma",
+      "Taşıyıcı DNA yapısına sahip olma",
+      "İnsanlara zarar verme"
+    ],
+    "correctAnswer": "İnsanlara zarar verme",
+    "tags": [
+      "biyoloji",
+      "canlılar",
+      "temel özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nlkpe4vzk",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Bitkiler fotosentez işlemi sırasında hangi gazı emerek oksijen üretir?",
+    "explanation": "Bitkiler fotosentez sırasında karbon dioksit gazını alarak güneş enerjisiyle suyu parçalayarak oksijen üretir. Bu süreç canlılar için önemlidir.",
+    "options": [
+      "Oksijen",
+      "Azot",
+      "Hidrogen",
+      "Karbon dioksit"
+    ],
+    "correctAnswer": "Karbon dioksit",
+    "tags": [
+      "biyoloji",
+      "bitkiler",
+      "fotosentez"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ub2cv37gw",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi omurgalı hayvanlardan biri değildir?",
+    "explanation": "Yengeç, eklem bacaklı hayvandır ve omurgalı değildir. Balık, amfibi ve memeli ise omurgalı hayvanlardır.",
+    "options": [
+      "Balık",
+      "Amfibi",
+      "Yengeç",
+      "Memeli"
+    ],
+    "correctAnswer": "Yengeç",
+    "tags": [
+      "biyoloji",
+      "hayvanlar",
+      "sınıflandırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1yov113hu",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hücrenin enerji depolama işlevini yapan organelli hangisidir?",
+    "explanation": "Mitokondri, hücrenin enerji üretimi ve depolama işlevini yapar. Ribozom protein sentezi, lizozom sindirim, Golgi aygıtı paketleme görevleri üstlenir.",
+    "options": [
+      "Mitokondri",
+      "Ribozom",
+      "Lizozom",
+      "Golgi aygıtı"
+    ],
+    "correctAnswer": "Mitokondri",
+    "tags": [
+      "biyoloji",
+      "hücre",
+      "organeller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "up520jwk0",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi eukaryot canlılara örnek verilebilir?",
+    "explanation": "Bitkiler eukaryot canlıdır, çekirdekli hücre yapısına sahiptir. Bakteri ve arke prokaryottur, virus ise canlı değildir.",
+    "options": [
+      "Bakteri",
+      "Arke",
+      "Bitki",
+      "Virus"
+    ],
+    "correctAnswer": "Bitki",
+    "tags": [
+      "biyoloji",
+      "sınıflandırma",
+      "canlı türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ek2jd1mtv",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Hangi hücre organelli protein sentezinden sorumludur?",
+    "explanation": "Ribozomlar, hücrelerde protein sentezi yapmaktan sorumludur. mRNA ile yönlendirilen amino asitleri birleştirerek proteinleri oluştururlar.",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Golgi aygıtı",
+      "Lizozom"
+    ],
+    "correctAnswer": "Ribozom",
+    "tags": [
+      "hücre",
+      "organeller",
+      "protein sentez"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "911o8wf06",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "Bitkiler fotosentez sırasında hangi maddeyi üretilir?",
+    "explanation": "Bitkiler fotosentez sırasında suyu ve karbon dioksiti kullanarak glikoz üretirler ve bu sırada oksijen açığa çıkarırlar.",
+    "options": [
+      "Oksijen",
+      "Karbon dioksit",
+      "Hidrojensülfür",
+      "Metan"
+    ],
+    "correctAnswer": "Oksijen",
+    "tags": [
+      "fotosentez",
+      "bitki fiziolojisi",
+      "gaz değişimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "loqidexwc",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "DNA'nın ikiz sarmal yapısında hangi baz çifti bulunmaz?",
+    "explanation": "DNA'da adenin (A) tiremin (T) ile eşleşir, urasil (U) RNA'ya özgüdür ve DNA'da bulunmaz.",
+    "options": [
+      "A-T",
+      "G-C",
+      "T-G",
+      "A-U"
+    ],
+    "correctAnswer": "A-U",
+    "tags": [
+      "DNA",
+      "nükleik asit",
+      "baz çifti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cp1rzczva",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "GENERAL",
+    "question": "Hangi ekosistem en yüksek biyoçeşitliliğe sahiptir?",
+    "explanation": "Tropikal yağmur ormanları, Dünya'nın en yüksek biyoçeşitliliğine sahip ekosistemdir ve çok sayıda bitki ve hayvan türü barındırır.",
+    "options": [
+      "Kutuplar",
+      "Tropikal yağmur ormanları",
+      "Çöller",
+      "Okyanuslar"
+    ],
+    "correctAnswer": "Tropikal yağmur ormanları",
+    "tags": [
+      "ekosistem",
+      "biyoçeşitlilik",
+      "çevre bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cvsf97zub",
+    "category": "BİLİM",
+    "subcategory": "Biyoloji",
+    "difficulty": "EASY",
+    "question": "İnsan kalbinin soluklarında hangi kan bulunur?",
+    "explanation": "İnsan kalbinde sol ventrikül oksijenli (zengin) kanı vücuda pompalar, sağ ventrikül ise karbon dioksitli (eksik) kanı akciğerlere gönderir.",
+    "options": [
+      "Eksi (oksijenli) kan",
+      "Oksijenli (zengin) kan",
+      "Karbondioksitli (eksik) kan",
+      "Metan gazlı kan"
+    ],
+    "correctAnswer": "Oksijenli (zengin) kan",
+    "tags": [
+      "kalp",
+      "kan dolaşımı",
+      "anatomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

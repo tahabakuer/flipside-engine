@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "e2e0lfpwc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi masa oyunu stratejik düşünme yeteneğini geliştirmek için tasarlanmıştır?",
+    "explanation": "Go oyunu, 19. yüzyıldan beri Asya'da oynanan ve stratejik düşünme yeteneğini geliştirmek için tasarlanmış en eski masa oyunlarından biridir.",
+    "options": [
+      "Uno",
+      "Bakugan",
+      "Go (Ren)",
+      "Jenga"
+    ],
+    "correctAnswer": "Go (Ren)",
+    "tags": [
+      "masa oyunları",
+      "strateji",
+      "düşünme becerisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f70y5pdby",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Masa oyunları topluluk nefesinde hangi türü daha yaygındır?",
+    "explanation": "Masa oyunları genellikle çok oyunculu olarak tasarlanmıştır ve topluluk içinde etkileşim sağlar.",
+    "options": [
+      "Tek oyunculu",
+      "Çok oyunculu",
+      "Aile içi",
+      "Duygusal"
+    ],
+    "correctAnswer": "Çok oyunculu",
+    "tags": [
+      "masa oyunları",
+      "topluluk",
+      "sosyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ohdsvf8sp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Hangi masa oyunu hız ve refleks yeteneğini geliştirmek için uygundur?",
+    "explanation": "Uno oyunu hızlı karar verme ve refleks yeteneğini geliştirmek için uygun bir masa oyunudur.",
+    "options": [
+      "Chess (Satranç)",
+      "Uno",
+      "Bakugan",
+      "Go"
+    ],
+    "correctAnswer": "Uno",
+    "tags": [
+      "masa oyunları",
+      "hız",
+      "refleks"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pcip5brm9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masa oyunları ile ilgili hangi ifade doğrudur?",
+    "explanation": "Masa oyunları farklı zorluk seviyelerine göre her yaş grubu için uygun şekilde tasarlanabilir.",
+    "options": [
+      "Sadece çocuklar için uygundur",
+      "Her yaş grubu için uygun olabilir",
+      "Teknoloji gerektirir",
+      "Düşünmeyi engeller"
+    ],
+    "correctAnswer": "Her yaş grubu için uygun olabilir",
+    "tags": [
+      "masa oyunları",
+      "yaş grupları",
+      "eğitim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9vbnyr57",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi masa oyunu matematiksel becerileri geliştirmek için faydalıdır?",
+    "explanation": "Satranç oyunu, matematiksel mantık ve hesaplama becerilerini geliştirmek için faydalı bir masa oyunudur.",
+    "options": [
+      "Uno",
+      "Chess (Satranç)",
+      "Go",
+      "Jenga"
+    ],
+    "correctAnswer": "Chess (Satranç)",
+    "tags": [
+      "masa oyunları",
+      "matematik",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6kiwg6kk7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi masa oyunu ilk kez 1962 yılında Albert Hadley tarafından tasarlandı ve 'Zaman Makinesi' konseptine sahiptir?",
+    "explanation": "Time Lord Adventure, 1962'de Albert Hadley tarafından tasarlandı ve Doctor Who evreninden ilham alır. Ancak doğru cevap için dikkat edilecek: Bu soru genellikle 'Catan' ile karıştırılır çünkü Catan 1995'te Klaus Teuber tarafından tasarlandı.",
+    "options": [
+      "Catan",
+      "Risk",
+      "Time Lord Adventure",
+      "Carcassonne"
+    ],
+    "correctAnswer": "Time Lord Adventure",
+    "tags": [
+      "masa oyunu",
+      "tarihçe",
+      "tasarım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nkaw8qubb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masa oyunlarında 'kolektif oyunlar' neyi ifade eder?",
+    "explanation": "Kolektif oyunlar, oyuncuların birlikte hedeflere ulaşmak için iş birliği yaptıkları masa oyunlarıdır. Bu oyunlarda rekabet yerine iş birliği ön plandadır.",
+    "options": [
+      "Tek oyunculu oyunlar",
+      "Birlikte çalışılan grup oyunları",
+      "Yarışmacı ağırlıklı oyunlar",
+      "Stratejik tek seferlik kararlar"
+    ],
+    "correctAnswer": "Birlikte çalışılan grup oyunları",
+    "tags": [
+      "oyun türü",
+      "masa oyunu",
+      "kolektif"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xc4pjkhyj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi oyun 'en iyi strateji oyunu' olarak kabul edilir ve 1970'te Steve Jackson tarafından tasarlandı?",
+    "explanation": "Diplomacy, 1970 yılında Steve Jackson tarafından tasarlandı ve I. Dünya Savaşı konseptini temel alır. Bu oyun diplomasi ve gizli emir mekanizması ile bilinir.",
+    "options": [
+      "Chess",
+      "Go",
+      "Diplomacy",
+      "Munchkin"
+    ],
+    "correctAnswer": "Diplomacy",
+    "tags": [
+      "strateji",
+      "tarihçe",
+      "masa oyunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vnvab9rkw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masa oyunlarında 'karar ağacı' (decision tree) hangi türde oyunlarda sıkça kullanılır?",
+    "explanation": "Karar ağaçları, oyuncuların farklı seçeneklerin sonuçlarını analiz etmek için kullanılır ve özellikle tek oyunculu strateji oyunlarında yaygındır.",
+    "options": [
+      "Tek oyunculu strateji oyunları",
+      "Yarışmacı kart oyunları",
+      "Kolektif iş birliği oyunları",
+      "Tüm masalarda"
+    ],
+    "correctAnswer": "Tek oyunculu strateji oyunları",
+    "tags": [
+      "oyun tasarımı",
+      "karar ağacı",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zqijbokhs",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi masa oyunu 'Catan' evreninden ilham alır ve 'kaynak toplama' mekanizmasına sahiptir?",
+    "explanation": "Ticket to Ride, Catan'dan ilham alır ve aynı kaynak toplama mekanizmasını kullanır. 1990'ların sonlarında Bruno Faidutti tarafından tasarlandı.",
+    "options": [
+      "Ticket to Ride",
+      "Pandemic",
+      "King of Tokyo",
+      "Scythe"
+    ],
+    "correctAnswer": "Ticket to Ride",
+    "tags": [
+      "masa oyunu",
+      "Catan",
+      "kaynak toplama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iibcu9vxm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masa oyunları arasında en eski olarak bilinen oyunlardan biri hangisidir?",
+    "explanation": "Satranç, en azından M.Ö. 1500 yıllarına kadar uzanan tarihçeyle dünyanın en eski stratejik masalı oyunlarından biridir.",
+    "options": [
+      "Monopoly",
+      "Chess (Satranç)",
+      "Scrabble",
+      "Uno"
+    ],
+    "correctAnswer": "Chess (Satranç)",
+    "tags": [
+      "masa-oyunları",
+      "tarih",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hjfjy5qxu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Monopoly oyununda hamur malzemesi (property) satmak için ne yapmak gerekir?",
+    "explanation": "Monopoly'de mülk satmak için tutanağı (deed) imzalamak ve parayı yatırmak gerekir.",
+    "options": [
+      "Parayı yatırmak",
+      "Tutanağı imzalamak",
+      "Kredi almak",
+      "Satıcıyı aramak"
+    ],
+    "correctAnswer": "Tutanağı imzalamak",
+    "tags": [
+      "monopoly",
+      "kurallar",
+      "ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z197tgqdu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Scrabble oyununda en yüksek puanlı harf kombinasyonu nedir?",
+    "explanation": "Scrabble'de tek harfler arasında J en yüksek puanı (8 puan) verirken, BAG gibi üç harfli kombinasyonlar genellikle 12-16 puan arası verir.",
+    "options": [
+      "BAG",
+      "J",
+      "Q",
+      "X"
+    ],
+    "correctAnswer": "J",
+    "tags": [
+      "scrabble",
+      "puanlama",
+      "dilbilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3qyq7f1ma",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masa oyunları tarihçesi hangi medeniyete dayanır?",
+    "explanation": "Masa oyunu tarihçesi, Babil medeniyetindeki 'Royal Game of Ur' oyununa dayanır ve M.Ö. 3000 yıllarına kadar uzanır.",
+    "options": [
+      "Romalı",
+      "Babil",
+      "Çin",
+      "Mısır"
+    ],
+    "correctAnswer": "Babil",
+    "tags": [
+      "tarih",
+      "medeniyetler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vcyvaje5g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Catan (Sicilya) oyununda en önemli kaynaklardan biri hangisidir?",
+    "explanation": "Catan oyununda taş, odun ve buğday en temel kaynaklardır. Odun inşa faaliyetleri için kritik öneme sahiptir.",
+    "options": [
+      "Taş",
+      "Odun",
+      "Tuz",
+      "Maden"
+    ],
+    "correctAnswer": "Odun",
+    "tags": [
+      "catan",
+      "kaynaklar",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yedb58rf2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Hangi masada oynanan oyunlar kategorisi en yaygın olarak bilinen ve stratejik düşünmeyi gerektiren oyun türüdür?",
+    "explanation": "Masa oyunları, stratejik düşünmeyi gerektiren ve genellikle bir masada oynanan oyun kategorisidir. Monopol, Risk, Catan gibi popüler örnekler bu kategoriye girer.",
+    "options": [
+      "Masa Oyunları",
+      "Video Oyunları",
+      "Kart Oyunları",
+      "Rakip Sporlar"
+    ],
+    "correctAnswer": "Masa Oyunları",
+    "tags": [
+      "hobiler",
+      "oyun türleri",
+      "masa oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k2odayzuk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "\"Risk\" adlı masada oynanan oyunda hangi tür oyun mekanikleri öne çıkar?",
+    "explanation": "Risk, dünya haritası üzerinde ülkeleri kontrol etmek ve savaşlar vermek üzerine kurulmuş strateji oyunudur. Oyuncular askeri birliklerle hareket ederler.",
+    "options": [
+      "Savaş ve strateji",
+      "Kart çekme",
+      "Yazı tahtası çözme",
+      "Zeka testleri"
+    ],
+    "correctAnswer": "Savaş ve strateji",
+    "tags": [
+      "risk",
+      "masa oyunları",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0wgur8o58",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "\"Catan\" (Hesap) adlı masada oynanan oyunda hangi kaynak türleri kullanılır?",
+    "explanation": "Catan'da oyuncu taş, ahşap, kil ve ovall gibi kaynakları kullanarak yerleşimler kurar, maden ocakları açar ve ticaret yolu inşa eder.",
+    "options": [
+      "Taş, ahşap, kil, ovallar",
+      "Kartlar ve zarlar",
+      "Mikroip çözümleri",
+      "Yazılımlar"
+    ],
+    "correctAnswer": "Taş, ahşap, kil, ovallar",
+    "tags": [
+      "catan",
+      "masa oyunları",
+      "kaynaklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3mzoschn5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangi masada oynanan oyunlar kategorisi genellikle \"turn-based\" (sıra tabanlı) mekanik kullanır?",
+    "explanation": "Masa oyunlarının çoğu turn-based (sıra tabanlı) mekanik kullanır. Bu, her oyuncunun sırayla hareket etmesi ve strateji geliştirmesi anlamına gelir.",
+    "options": [
+      "Çoğu masa oyunu",
+      "Sadece video oyunları",
+      "Rakip sporlar",
+      "Yalıtılmış kart oyunları"
+    ],
+    "correctAnswer": "Çoğu masa oyunu",
+    "tags": [
+      "masa oyunları",
+      "oyun mekanikleri",
+      "turn-based"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dt823r4nb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "\"Diplomasi\" adlı masada oynanan oyunda hangi tür oyun elementleri öne çıkar?",
+    "explanation": "Diplomasi, oyuncuları birbirleriyle konuşarak, pazarlık yaparak ve ittifaklar kurarak hedeflerine ulaşmaya teşvik eden bir masada oynanan oyundur.",
+    "options": [
+      "İletişim ve pazarlık",
+      "Zeka testleri",
+      "Savaş simülasyonu",
+      "Kart çözümleri"
+    ],
+    "correctAnswer": "İletişim ve pazarlık",
+    "tags": [
+      "diplomasi",
+      "masa oyunları",
+      "iletişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wgabzw2z1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki masa oyunlarından hangisi stratejik düşünmeyi ve planlamayı gerektirir?",
+    "explanation": "Go (Baduk), tahta üzerine taşlar yerleştirerek bölgeler kontrol eder ve stratejik derinlik gerektiren klasik bir Doğu oyunudur.",
+    "options": [
+      "Monopoly",
+      "Go (Baduk)",
+      "Uno",
+      "Yahtzee"
+    ],
+    "correctAnswer": "Go (Baduk)",
+    "tags": [
+      "strateji",
+      "doğu oyunu",
+      "planlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lp6vm0hpk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Masa oyunları dünyasında, oyunun sonunda kazanan belirlenmesi için kullanılan en yaygın yöntem hangisidir?",
+    "explanation": "Çoğu modern masa oyununda, oyun sonunda en yüksek puanı veya avantajı elde eden oyuncu kazanan olarak ilan edilir.",
+    "options": [
+      "En yüksek puanı alan",
+      "Oyun kurallarına göre",
+      "Rastgele seçilen",
+      "Oyuncu tercihi"
+    ],
+    "correctAnswer": "En yüksek puanı alan",
+    "tags": [
+      "kazanma",
+      "puan",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nb6kfcsld",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki oyunlardan hangisi 'Eurogame' kategorisine örnek gösterilebilir?",
+    "explanation": "Catan (Kelt), modern Eurogame tarzının en bilinen örneklerinden biridir; doğa kaynakları ve ticaret üzerine kuruludur.",
+    "options": [
+      "Risk",
+      "Catan (Kelt)",
+      "Pandemic",
+      "Wingspan"
+    ],
+    "correctAnswer": "Catan (Kelt)",
+    "tags": [
+      "eurogame",
+      "modern",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0n4ugno4p",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Masa oyunlarında 'Farklılaştırılmış Kazanma' neyi ifade eder?",
+    "explanation": "Farklılaştırılmış Kazanma, oyun tasarımı prensibi olup her oyuncunun benzersiz bir strateji ile kazanma şansı sunmayı hedefler.",
+    "options": [
+      "Her oyuncunun farklı bir yol izleyerek kazanabilmesi",
+      "Sadece en hızlı oyuncu kazandır",
+      "Rastgele seçim ile kazanma",
+      "Ekip çalışması gerektirme"
+    ],
+    "correctAnswer": "Her oyuncunun farklı bir yol izleyerek kazanabilmesi",
+    "tags": [
+      "oyun tasarımı",
+      "kazanma mekanizması",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zf282bx94",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki oyunlardan hangisi tamamen şans bazlı değildir?",
+    "explanation": "Satranç tamamen strateji ve zekaya dayalı bir oyun olup, şans faktörü içermez; her hamle oyuncunun kontrolündedir.",
+    "options": [
+      "Ludo",
+      "Monopoly (Mülk)",
+      "Chess (Satranç)",
+      "Backgammon"
+    ],
+    "correctAnswer": "Chess (Satranç)",
+    "tags": [
+      "strateji",
+      "takım oyunu",
+      "zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4n113bxsq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Hangisi Türk kökenli bir masa oyunudur?",
+    "explanation": "Baba Yeri, Türk kökenli bir masal oyunu olup 1987 yılında tasarlandı ve dünya çapında popülerlik kazandı.",
+    "options": [
+      "Monopoly",
+      "Spor Toto",
+      "Poker",
+      "Baba Yeri"
+    ],
+    "correctAnswer": "Baba Yeri",
+    "tags": [
+      "masa oyunları",
+      "türk kültürü",
+      "Baba Yeri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9dbzlwfta",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Monopoly oyununda ilk olarak hangi yıl piyasaya sürüldü?",
+    "explanation": "Monopoly, 1935 yılında Parker Brothers tarafından piyasaya sürüldü ve dünya çapında en ünlü masa oyunlarından biri haline geldi.",
+    "options": [
+      "1903",
+      "1924",
+      "1935",
+      "1948"
+    ],
+    "correctAnswer": "1935",
+    "tags": [
+      "monopoly",
+      "masa oyunları",
+      "oyun tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37d2x5lnn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Skat (Schafkopf) hangi tür bir oyundur?",
+    "explanation": "Skat, Almanya kökenli popüler bir kart oyunudur ve genellikle 4 oyuncu arasında oynanır.",
+    "options": [
+      "Strateji",
+      "Kart oyunu",
+      "Mekanik",
+      "Video oyunu"
+    ],
+    "correctAnswer": "Kart oyunu",
+    "tags": [
+      "Skat",
+      "kart oyunları",
+      "masa oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b6cbjaxso",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Catan (Settlers of Catan) oyununda neyi temsil eden kaynaklar kullanılır?",
+    "explanation": "Catan oyununda taş, ağaç, koyun, talaş ve buğday gibi kaynaklar temsil eden kartlar kullanılır.",
+    "options": [
+      "Dünyayı",
+      "Kaynakları",
+      "Şehirleri",
+      "Askeri güç"
+    ],
+    "correctAnswer": "Kaynakları",
+    "tags": [
+      "Catan",
+      "masa oyunları",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9du9nhrec",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Yahtzee oyununda en yüksek puan hangi kombinasyonla alınır?",
+    "explanation": "Yahtzee oyununda 'Cubes' (Küp) kombinasyonu, 5 aynı sayı gösterdiğinde en yüksek puanı verir.",
+    "options": [
+      "Poker",
+      "Straight",
+      "Cubes",
+      "Chances"
+    ],
+    "correctAnswer": "Cubes",
+    "tags": [
+      "yahtzee",
+      "masa oyunları",
+      "kutu oyunu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lwl9wrpkb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Masa oyunu Monopoly'in temel amacı nedir?",
+    "explanation": "Monopoly'de oyuncular kendi mallarını satın alarak gelir elde eder ve rakiplerin mallarından kira toplar. Bu, oyunu kazanmanın temel yoludur.",
+    "options": [
+      "Pazar almak ve kiralar toplamak",
+      "Kartları en yüksek puanlı olanı seçmek",
+      "Rakiplerin kaynaklarını çalmak",
+      "Oyunu kazanmak için en kısa sürede bitirmek"
+    ],
+    "correctAnswer": "Pazar almak ve kiralar toplamak",
+    "tags": [
+      "Masa Oyunları",
+      "Monopoly",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bges8zvb8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Satrançta hangi piyon iki yönde hareket edebilir?",
+    "explanation": "Satrançta fil sadece tepe yönünde hareket ederken, kale düz çizgilerde, şah her yönde bir kare, at ise L şeklinde hareket eder. Fil iki tepe üzerinde hareket edebilir.",
+    "options": [
+      "At",
+      "Fil",
+      "Kale",
+      "Şah"
+    ],
+    "correctAnswer": "Fil",
+    "tags": [
+      "Masa Oyunları",
+      "Satranç",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ilsdb5nqb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Masa oyunu Scrabble'da hangi harf en yüksek puan değerine sahiptir?",
+    "explanation": "Scrabble'da Q harfi, genellikle en yüksek puan değerine sahiptir (10 puan), çünkü sesli harflerle birlikte kullanılması zorunludur ve nadirdir.",
+    "options": [
+      "R",
+      "Q",
+      "S",
+      "T"
+    ],
+    "correctAnswer": "Q",
+    "tags": [
+      "Masa Oyunları",
+      "Scrabble",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vno64phsx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Risk oyununda oyuncunun temel hedefi nedir?",
+    "explanation": "Risk oyununda oyuncu, tüm dünyayı kontrol etmeyi hedefler. Bu, rakiplerin ülkelerini ele geçirerek dünya haritasını tamamen domine etmektir.",
+    "options": [
+      "Kontrol edilen ülkelerin sayısını artırmak",
+      "Dünyayı tamamen ele geçirmek",
+      "Rakiplerin kaynaklarını çalmak",
+      "En kısa sürede oyunu bitirmek"
+    ],
+    "correctAnswer": "Dünyayı tamamen ele geçirmek",
+    "tags": [
+      "Masa Oyunları",
+      "Risk",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pgwvfv6aq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Catan oyununda bir yerleşim yeri şehir nasıl yükseltilebilir?",
+    "explanation": "Catan'da yerleşim yeri şehir yapmak için ağaç ve maden kaynaklarına ihtiyaç vardır. Kireç sadece yerleşim yeri inşasında kullanılır.",
+    "options": [
+      "Ağaç ve Kireç",
+      "Ağaç ve Maden",
+      "Koyun ve Buğday",
+      "Hiçbiri"
+    ],
+    "correctAnswer": "Ağaç ve Maden",
+    "tags": [
+      "Masa Oyunları",
+      "Catan",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1g1crtiit",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Çevre oyunlarında kullanılan 'Monopoly' oyununun ilk sürümü hangi yıl piyasaya çıkarıldı?",
+    "explanation": "Monopoly, 1932 yılında Charles Darrow tarafından piyasaya çıkarılan ilk sürümüyle tanındı. Oyunun temel mantığı, mülk satın alıp kiralar alarak rakipleri baskılamak üzerine kuruludur.",
+    "options": [
+      "1932",
+      "1945",
+      "1950",
+      "1963"
+    ],
+    "correctAnswer": "1932",
+    "tags": [
+      "Masa Oyunları",
+      "Tarih",
+      "Monopoly"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "orjwbida4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Satranç oyununda bir piyon ne zaman 'şah' olur?",
+    "explanation": "Piyon asla şah olamaz. Satrançta 'şah' kelimesi yanlış kullanılmıştır; doğru ifade 'kral' veya 'şah mat'. Piyon krala dönüşemez, farklı bir taş türüdür.",
+    "options": [
+      "Herhangi bir taşla değişim yapıldığında",
+      "Krala yaklaştığında",
+      "Tahta üzerinde hareket ettiğinde",
+      "Asla şah olmaz"
+    ],
+    "correctAnswer": "Asla şah olmaz",
+    "tags": [
+      "Masa Oyunları",
+      "Satranç",
+      "Kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsw0ajko1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Dixit adlı modern masa oyununun temel mekanizması nedir?",
+    "explanation": "Dixit, her oyuncunun bir hikaye kartı seçip görsel ipuçları vererek diğer oyuncuların doğru kartı tahmin etmesini sağlar. Oyun yaratıcılık ve tahmin üzerine kuruludur.",
+    "options": [
+      "Kartları eşleştirme",
+      "Görsel ipuçları ile tahmin etme",
+      "Stratejik yerleşim",
+      "Rakibi engelleme"
+    ],
+    "correctAnswer": "Görsel ipuçları ile tahmin etme",
+    "tags": [
+      "Masa Oyunları",
+      "Modern Oyunlar",
+      "Dixit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zqo5ikbev",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Checkers (Satranç benzeri) oyununda taşlar nasıl hareket eder?",
+    "explanation": "Checkers oyununda taşlar genellikle ileri hareket eder ve özel kurallar çerçevesinde 'zıpla' (jump) hareketi yapabilirler. Rakip taşı atlamak zıplama kuralının temelidir.",
+    "options": [
+      "Herhangi yöne serbestçe",
+      "Sadece ileri veya çapraz, zıplar yapabilir",
+      "Sadece geriye doğru",
+      "Tahta üzerinde sabit"
+    ],
+    "correctAnswer": "Sadece ileri veya çapraz, zıplar yapabilir",
+    "tags": [
+      "Masa Oyunları",
+      "Checkers",
+      "Hareket Kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "an1e55q4l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Catan adlı popüler masa oyununun temel hedefi nedir?",
+    "explanation": "Catan'da oyuncular kaynak (ahşap, taş, kil, buğday, koyun, demir) toplayarak ticaret yolu kurar ve şehir/basamak inşa eder. Kazanan en yüksek puanı biriktiren oyuncudur.",
+    "options": [
+      "En çok para kazanmak",
+      "En fazla kaynak toplamak ve şehir kurmak",
+      "Rakibi engellemek",
+      "Hızlı hareket etmek"
+    ],
+    "correctAnswer": "En fazla kaynak toplamak ve şehir kurmak",
+    "tags": [
+      "Masa Oyunları",
+      "Catan",
+      "Kaynak Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "unxuijq4y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Masa oyunlarında en yaygın kullanılan kart türü hangisidir?",
+    "explanation": "Poker kartları, masa oyunlarında en yaygın kullanılan kart türüdür. Genellikle 52 kartlı ve joker olmadan 4 renkten oluşur.",
+    "options": [
+      "Poker kartları",
+      "Bridge kartları",
+      "Spidey kartları",
+      "Türkçe alfabe kartları"
+    ],
+    "correctAnswer": "Poker kartları",
+    "tags": [
+      "masa oyunları",
+      "kart oyunları",
+      "poker"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lssdnwd6m",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masa oyunları oynarken hangi davranış tabu olarak kabul edilir?",
+    "explanation": "Masa oyunları oynarken dürüstlük ve saygı esastır. Düşmanca hareket etmek, kurnazlık yapmak veya kurala aykırı davranmak tabu olarak kabul edilir.",
+    "options": [
+      "Oyuncuya saygılı olmak",
+      "Kurala uymak",
+      "Düşmanca hareket etmek",
+      "Turneyi kaybetmek"
+    ],
+    "correctAnswer": "Düşmanca hareket etmek",
+    "tags": [
+      "masa oyunları",
+      "oyun etiği",
+      "davranış kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sbeo7bqi3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masa oyunlarında turne kazananına ne denir?",
+    "explanation": "Masa oyunlarında turneyi kazanan kişiye 'şampiyon' denir. Bu, o turnede en iyi performans gösteren oyuncudur.",
+    "options": [
+      "Şampiyon",
+      "Oyuncu",
+      "Damat",
+      "Yarışmacı"
+    ],
+    "correctAnswer": "Şampiyon",
+    "tags": [
+      "masa oyunları",
+      "turne sistemi",
+      "terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o65k4hdh3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Hangi masa oyunu strateji ve hesap gerektirir?",
+    "explanation": "Satranç, masa oyunlarının en temsili strateji oyunudur. Her iki tarafın hamleleri hesaplanarak oynanır ve 2000 yıllık bir tarihî geçmişe sahiptir.",
+    "options": [
+      "Satranç",
+      "Bilardo",
+      "Tenis",
+      "Voleybol"
+    ],
+    "correctAnswer": "Satranç",
+    "tags": [
+      "masa oyunları",
+      "strateji oyunları",
+      "satranç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "algzmxldb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Masa oyunlarında 'turne' ne anlama gelir?",
+    "explanation": "Masa oyunlarında 'turne', oyuncuların belirli bir süre boyunca aynı oyunda oynamasını ifade eder. Turneler genellikle yarışma veya turnuva amaçlı yapılır.",
+    "options": [
+      "Oyunun tekrar edilmesi",
+      "Oyuncu grubunun kazanması",
+      "Oyunun belirli bir süre boyunca oynanması",
+      "Oyuna giren oyuncu sayısı"
+    ],
+    "correctAnswer": "Oyunun belirli bir süre boyunca oynanması",
+    "tags": [
+      "masa oyunları",
+      "turne sistemi",
+      "oyun organizasyonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2wan0opqx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EASY",
+    "question": "Masa oyunları kavramı genel olarak hangi tür oyunları tanımlar?",
+    "explanation": "Masa oyunları, fiziksel bileşenleri (kartlar, taşlar, tahtalar) içeren ve genellikle bir masa üzerinde oynanan oyunların genel kategorisidir.",
+    "options": [
+      "Dijital ve mobil oyunlar",
+      "Bir masada oynanan kart ve tahta tabanlı oyunlar",
+      "Spor müsabakaları",
+      "Yüzme ve koşu gibi fiziksel aktiviteler"
+    ],
+    "correctAnswer": "Bir masada oynanan kart ve tahta tabanlı oyunlar",
+    "tags": [
+      "Hobiler_ve_Oyunlar",
+      "Masa Oyunları",
+      "Tanımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e1vev79ju",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Satranç oyununda oyuncuların kazanma hedefi nedir?",
+    "explanation": "Satranç, stratejik bir oyun olup, rakibin şah (krallık) taşını mat altına almak ve oyunu kazandırmak temel amaçtır.",
+    "options": [
+      "Şahı mat etmek",
+      "Pionları en fazla toplamak",
+      "Rok atmak",
+      "Tahtayı temizlemek"
+    ],
+    "correctAnswer": "Şahı mat etmek",
+    "tags": [
+      "Satranç",
+      "Strateji Oyunları",
+      "Masa Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4w6isnm2r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Monopoly oyununda oyuncu hareketi ve strateji hangi mekaniklerle sağlanır?",
+    "explanation": "Monopoly, zar atarak hareket eden ve rakiplerine karşı stratejik olarak mülk satın alıp satış yaparak baskınlık kurmayı hedefleyen bir oyundur.",
+    "options": [
+      "Sadece kart çekmek",
+      "Zar atmak ve mülk alıp satmak",
+      "Gizli görevler yerine getirmek",
+      "Tek başına zeka bulmacaları çözmek"
+    ],
+    "correctAnswer": "Zar atmak ve mülk alıp satmak",
+    "tags": [
+      "Monopoly",
+      "Emlak Oyunları",
+      "Masa Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2uniin1s5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "GENERAL",
+    "question": "Hangi masa oyunu kelime oluşturma ve puanlama üzerine kuruludur?",
+    "explanation": "Scrabble, harfli taşlarla kelime oluşturarak puan kazandıran bir masa oyunudur ve diğer seçeneklerden farklı olarak dil becerisi gerektirir.",
+    "options": [
+      "Scrabble",
+      "Risk",
+      "Carcassonne",
+      "Dungeons & Dragons"
+    ],
+    "correctAnswer": "Scrabble",
+    "tags": [
+      "Kelime Oyunları",
+      "Scrabble",
+      "Masa Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wn3l90p1z",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Masa Oyunları",
+    "difficulty": "EXPERT",
+    "question": "Bir Worker Placement mekanik kurgusu ile geleneksel zar atma mekaniklerinin temel farkı nedir?",
+    "explanation": "Worker Placement, oyuncuların eylem noktalarını yerleştirerek kaynak yönetimi yapmasını sağlarken, geleneksel zar atma tamamen rastgeleliğe dayalıdır.",
+    "options": [
+      "Rastgelelik yerine stratejik karar verme",
+      "Sadece kart çekmek",
+      "Zar atarak hareket etmek",
+      "Tek oyunculu oynanabilir olması"
+    ],
+    "correctAnswer": "Rastgelelik yerine stratejik karar verme",
+    "tags": [
+      "Mekanikler",
+      "Worker Placement",
+      "Avans Oyunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

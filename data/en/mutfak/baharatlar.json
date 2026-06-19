@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "7f639t122",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, et yemeklerinde aromayı güçlendirmek için en sık kullanılanlardan biridir?",
+    "explanation": "Kekik, özellikle et yemeklerinde ve pide gibi面食lerde yaygın olarak kullanılır. Ete doğal bir aroma katar.",
+    "options": [
+      "Zencefil",
+      "Biber",
+      "Kekik",
+      "Kimyon"
+    ],
+    "correctAnswer": "Kekik",
+    "tags": [
+      "baharatlar",
+      "mutfak",
+      "yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bxeuaob9d",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharatın kökeni Asya'da bulunan Hindistan'dır?",
+    "explanation": "Karabiberin kökeni Asya'da bulunan Hindistan ve İndonezya bölgeleridir. Dünyada en çok ticaret edilen baharattır.",
+    "options": [
+      "Karabiber",
+      "Pul Biber",
+      "Tarçın",
+      "Zencefil"
+    ],
+    "correctAnswer": "Karabiber",
+    "tags": [
+      "baharatlar",
+      "menşei",
+      "hindistan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0cybt7uzf",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharat, sıcaklık hassasiyeti olan kişilere dikkatli kullanılmalıdır?",
+    "explanation": "Biber, aşırı tüketildiğinde mide rahatsızlığı ve hassasiyet yaratabilir. Özellikle gastrit hastalarında dikkatli kullanılmalıdır.",
+    "options": [
+      "Nane",
+      "Zencefil",
+      "Karanfil",
+      "Biber"
+    ],
+    "correctAnswer": "Biber",
+    "tags": [
+      "baharatlar",
+      "sağlık",
+      "kullanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0o1ttj24e",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, tatlı yemeklerinde kullanılır?",
+    "explanation": "Tarçın, tatlı yemeklerde ve içeceklerde yaygın olarak kullanılır. Özellikle Türk kahvesi ile servis edilir.",
+    "options": [
+      "Kimyon",
+      "Tarçın",
+      "Nane",
+      "Pul Biber"
+    ],
+    "correctAnswer": "Tarçın",
+    "tags": [
+      "baharatlar",
+      "tatlı",
+      "kullanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5f9dfyj54",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharatın rengi sarıdır ve aroması güçlüdür?",
+    "explanation": "Kimyonun rengi açık sarıdır ve güçlü bir aroması vardır. Özellikle sebze yemeklerinde kullanılır.",
+    "options": [
+      "Kimyon",
+      "Zahtar",
+      "Nane",
+      "Biber"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "baharatlar",
+      "renk",
+      "aroma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r7qiqvere",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, Türk mutfağında et yemeklerinde en sık kullanılan aromatik karışımlardan biridir?",
+    "explanation": "Kimyon, Türk mutfağında özellikle et yemeklerinde ve köfte gibi karışımlarda en yaygın kullanılan baharatlardan biridir.",
+    "options": [
+      "Nane",
+      "Kimyon",
+      "Zencefil",
+      "Biber"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "baharatlar",
+      "türk-mutfak",
+      "et-yemekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "holqfbe99",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Türk mutfağında 'pul biber' hangi amaçla kullanılır?",
+    "explanation": "Pul biber, Türk mutfağında etli yemeklerde ve soslarda kırmızı renk ve acı tat vermek için kullanılır.",
+    "options": [
+      "Soyada",
+      "Salata sosunda",
+      "Etli yemeklerde",
+      "Tatlılarda"
+    ],
+    "correctAnswer": "Etli yemeklerde",
+    "tags": [
+      "baharatlar",
+      "pul-biber",
+      "et-yemekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o7eeyoh91",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, Türk mutfağında soğanlı yemekler ve çorbalarda sıkça bulunur?",
+    "explanation": "Karabiber, Türk mutfağında soğanlı yemekler, çorbalar ve genel aromatik karışımlarda yaygın kullanılır.",
+    "options": [
+      "Karabiber",
+      "Sarımsan",
+      "Pul biber",
+      "Nane"
+    ],
+    "correctAnswer": "Karabiber",
+    "tags": [
+      "baharatlar",
+      "soğan-yemekleri",
+      "çorba"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m4a8m0lqg",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Türk mutfağında 'zerdeçal' hangi tür yemeklerde tercih edilir?",
+    "explanation": "Zerdeçal, Türk mutfağında etli yemeklerde sarı renk ve aromatik özellikler vermek için kullanılır.",
+    "options": [
+      "Etli yemeklerde",
+      "Tatlılarda",
+      "Salatalarda",
+      "Soslarda"
+    ],
+    "correctAnswer": "Etli yemeklerde",
+    "tags": [
+      "baharatlar",
+      "zerdeçal",
+      "et-yemekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p16lzkxag",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharat, Türk mutfağında özellikle 'kuru fasulye' gibi bakliye yemeklerinde bulunur?",
+    "explanation": "Kimyon, Türk mutfağında kuru fasulye gibi bakliye yemeklerinde en sık kullanılan baharatlardan biridir.",
+    "options": [
+      "Kimyon",
+      "Yabani biber",
+      "Nane",
+      "Karabiber"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "baharatlar",
+      "bakliye-yemekleri",
+      "kuru-fasulye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "spzmmfwqq",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat Türk mutfağında dolma ve salatalarda sıkça kullanılır?",
+    "explanation": "Sumak, asidik tadıyla Türk mutfağında dolma, salata ve çorbalarda yaygın olarak tercih edilen bir baharattır.",
+    "options": [
+      "Karabiber",
+      "Sumak",
+      "Kimyon",
+      "Sırma"
+    ],
+    "correctAnswer": "Sumak",
+    "tags": [
+      "spices",
+      "Turkish cuisine",
+      "basic knowledge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c81f7959s",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharatın kökeni Hindistan'dır ve Türk kebaplarında önemli bir rol oynar?",
+    "explanation": "Kimyon, Hindistan'da yetişen ve Türk kebaplarında ete aromatik tat katan geleneksel bir baharattır.",
+    "options": [
+      "Kimyon",
+      "Zencefil",
+      "Karabiber",
+      "Kırmızı Biber"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "spices",
+      "origins",
+      "Turkish kebap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2mb1cuzsd",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharatın Türk mutfağında nadiren kullanıldığı bilinir?",
+    "explanation": "Sırma, modern Türk mutfağında az kullanılır ancak tarihi bazı tariflerde gölgeleme veya aromatik amaçla tercih edilebilir.",
+    "options": [
+      "Nane",
+      "Sırma",
+      "Maydanoz",
+      "Pul Biber"
+    ],
+    "correctAnswer": "Sırma",
+    "tags": [
+      "spices",
+      "rare usage",
+      "Turkish cuisine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yhepqofx6",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharatın depolama koşulları diğerlerine göre daha hassastır?",
+    "explanation": "Kimyon, ısı ve neme karşı daha duyarlıdır; bu nedenle serin ve kuru ortamda saklanmalıdır.",
+    "options": [
+      "Karabiber",
+      "Sumak",
+      "Kimyon",
+      "Kırmızı Biber"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "spices",
+      "storage",
+      "culinary basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ccd2oc4f5",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat Türk mutfağında et yemeklerinde tuz yerine kullanılır?",
+    "explanation": "Sumak, asidik yapısıyla etlerde tuz yerine aromatik ve lezzetli bir seçenek olarak kullanılır.",
+    "options": [
+      "Karabiber",
+      "Sumak",
+      "Kimyon",
+      "Taze Soğan"
+    ],
+    "correctAnswer": "Sumak",
+    "tags": [
+      "spices",
+      "Turkish cuisine",
+      "salt alternative"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ojs2r0uqv",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat, Türk mutfağında et yemeklerinde en çok kullanılan ve kırmızı rengi veren baharattır?",
+    "explanation": "Kırmızı biber puluru, Türk mutfağında et yemeklerinde ve kızartmalarda en çok kullanılan baharattır. Doğal kırmızı rengini verir.",
+    "options": [
+      "Karabiber",
+      "Kırmızı Biber Puluru",
+      "Nane",
+      "Maydanoz"
+    ],
+    "correctAnswer": "Kırmızı Biber Puluru",
+    "tags": [
+      "baharatlar",
+      "mutfak",
+      "renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "75ppa73ht",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharatın yapımında fındık, badem gibi kuruyemişler kullanılır?",
+    "explanation": "Yuduma baharat, fındık, badem gibi kuruyemişlerin kırmızı biber ile birlikte öğütülmesiyle elde edilir. Güçlü bir aroma ve renk sağlar.",
+    "options": [
+      "Yuduma Baharat",
+      "Kırmızı Biber Tozu",
+      "Nane Puluru",
+      "Maydanoz"
+    ],
+    "correctAnswer": "Kırmızı Biber Tozu",
+    "tags": [
+      "baharatlar",
+      "kuruyemişler",
+      "doğal baharat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bwmohwtkn",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, soğuk yemeklerde, meze soslarında ve salatalarda en çok tercih edilen baharattır?",
+    "explanation": "Nane puluru, Türk mutfağında soğuk yemeklerde, mezelerde ve salatalarda taze ferahlık veren en çok kullanılan baharattır.",
+    "options": [
+      "Karabiber",
+      "Biber Puluru",
+      "Nane Puluru",
+      "Sarımsak"
+    ],
+    "correctAnswer": "Nane Puluru",
+    "tags": [
+      "baharatlar",
+      "soğuk yemekler",
+      "meze"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fuvn35g15",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharat, acı biberle birlikte kullanıldığında daha keskin bir aroma oluşturur?",
+    "explanation": "Hardal tozu, acı biberle birlikte kullanıldığında daha keskin ve güçlü bir aroma oluşturur. Genellikle et yemeklerinde tercih edilir.",
+    "options": [
+      "Karabiber",
+      "Hardal Tozu",
+      "Kimyon",
+      "Kekik"
+    ],
+    "correctAnswer": "Hardal Tozu",
+    "tags": [
+      "baharatlar",
+      "acılık",
+      "aroma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dwj9aulhh",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat, çorbaların ve krema soslarının rengini sarı tutar?",
+    "explanation": "Kimyon, Türk mutfağında çorbaların ve krema soslarının sarı rengini veren en çok kullanılan baharattır. Hafif acılı aroması vardır.",
+    "options": [
+      "Kekik",
+      "Kimyon",
+      "Karabiber",
+      "Nane"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "baharatlar",
+      "çorbalar",
+      "renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aaq5l37h7",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat, taze ve kurutulmuş olarak kullanılarak yemeklerin lezzetini artırır?",
+    "explanation": "Karabiber, evlerde sıkça kullanılan temel baharatlardan biridir ve hem taze hem de kurutulmuş olarak yemeklere eklenerek lezzet artırır.",
+    "options": [
+      "Karabiber",
+      "Tuz",
+      "Şeker",
+      "Nane"
+    ],
+    "correctAnswer": "Karabiber",
+    "tags": [
+      "baharat",
+      "temel-lezzetler",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m3fjmctzq",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, et yemeklerinde özellikle kebap ve kuru yemelerde tercih edilir?",
+    "explanation": "Köri tozu, et yemeklerinde özellikle kebap ve kuru yemelerde kullanılan yaygın baharattır.",
+    "options": [
+      "Kimyon",
+      "Köri tozu",
+      "Nane",
+      "Sarımsak"
+    ],
+    "correctAnswer": "Köri tozu",
+    "tags": [
+      "et-yemekleri",
+      "baharat-mışalları",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b8et27bgz",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, sıcak yemeklerde soğuk yemeklerde de kullanılabilir?",
+    "explanation": "Karabiber hem sıcak hem de soğuk yemeklerde kullanılabilen çok yönlü bir baharattır.",
+    "options": [
+      "Karabiber",
+      "Biber",
+      "Kimyon",
+      "Taze nane"
+    ],
+    "correctAnswer": "Karabiber",
+    "tags": [
+      "baharat",
+      "temel-lezzetler",
+      "esnek-kullanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3xqaq86hs",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharat, asidik gıdalarda ekşilik oluşturmak için kullanılır?",
+    "explanation": "Limon tuzu, asidik gıdalarda ekşilik oluşturmak için kullanılan özel bir baharattır.",
+    "options": [
+      "Tuz",
+      "Şeker",
+      "Limon tuzu",
+      "Biber"
+    ],
+    "correctAnswer": "Limon tuzu",
+    "tags": [
+      "baharat",
+      "asidik-lezzetler",
+      "mutfak-teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vtf4nun9n",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, baharat karışımlarının temel bileşenidir?",
+    "explanation": "Karabiber, çoğu baharat karışımının temel bileşeni olarak yer alır ve lezzeti dengeler.",
+    "options": [
+      "Karabiber",
+      "Tuz",
+      "Şeker",
+      "Nane"
+    ],
+    "correctAnswer": "Karabiber",
+    "tags": [
+      "baharat",
+      "karışımlar",
+      "temel-lezzetler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a7p59y4kf",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat, Türk mutfağında et yemeklerinde ve pilavlarda sıklıkla kullanılır?",
+    "explanation": "Kekik, Türk mutfağında et yemekleri (özellikle kebablar), pilavlar ve salatalarda yaygın olarak kullanılan geleneksel bir baharattır.",
+    "options": [
+      "Kekik",
+      "Kimyon",
+      "Nane",
+      "Pırasa"
+    ],
+    "correctAnswer": "Kekik",
+    "tags": [
+      "baharat",
+      "türk mutfağı",
+      "kecik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4m93oji7o",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Baharatların uzun süre tazeliğini korumak için en uygun saklama koşulu nedir?",
+    "explanation": "Baharatlar karanlık, kuru ve hava almayan kaplarda saklandığında en uzun süre tazeliğini korurlar; nem ve ışık aromalarını bozar.",
+    "options": [
+      "Buzdolabında",
+      "Nemli ortamda",
+      "Karanlık, kuru ve hava almayan kapta",
+      "Güneş ışığı altında"
+    ],
+    "correctAnswer": "Karanlık, kuru ve hava almayan kapta",
+    "tags": [
+      "saklama",
+      "tazelik",
+      "baharat bakımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q4128ccwl",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, aslında Hindistan'da yetişen bir bitkinin tohumudur?",
+    "explanation": "Kimyon, Asya'da (özellikle Hindistan) yetişen bir bitkinin tohumudur; Türk mutfağında pilav ve et yemeklerinde kullanılır.",
+    "options": [
+      "Tarçın",
+      "Kekik",
+      "Kimyon",
+      "Zencefil"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "kimyon",
+      "menşei",
+      "baharat kökeni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "055pgjipa",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharat kombinasyonu, Türk mutfağında 'Kırmızı Biber Salçası'na benzer şekilde sıklıkla bulunur?",
+    "explanation": "Türk mutfağında pul biber ve kekik kombinasyonu, et yemeklerinde ve pilavlarda sıkça kullanılan klasik bir baharat ikilisidir.",
+    "options": [
+      "Karabiber + Tuz",
+      "Kekik + Kimyon",
+      "Tarçın + Nane",
+      "Pul biber + Kekik"
+    ],
+    "correctAnswer": "Pul biber + Kekik",
+    "tags": [
+      "kombinasyon",
+      "pul biber",
+      "kecik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hl5z9ro0q",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, Türk mutfağında 'Çorba' yapımında özellikle kullanılır?",
+    "explanation": "Kimyon, Türk çorbalarından (özellikle Mercimek Çorbası) sıklıkla baharat olarak kullanılır; lezzetini derinleştirir.",
+    "options": [
+      "Zencefil",
+      "Kimyon",
+      "Nane",
+      "Tarçın"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "korba",
+      "kimyon",
+      "türk mutfağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b4let4les",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat, sıcak havalarda yetişen ve genellikle et yemeklerinde kullanılır?",
+    "explanation": "Acı biber sıcak havalarda yetişen ve et yemeklerinde tatlandırıcı olarak kullanılan baharattır.",
+    "options": [
+      "Kekik",
+      "Karabiber",
+      "Kimyon",
+      "Acı Biber"
+    ],
+    "correctAnswer": "Acı Biber",
+    "tags": [
+      "baharatlar",
+      "mutfak",
+      "gıda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jay46kc8f",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Karabiberin kökeni hangi bölgededir?",
+    "explanation": "Karabiber Hindistan'da yetişen ve dünyanın birçok yerinde kullanılan baharattır.",
+    "options": [
+      "Balkan",
+      "Hindistan",
+      "Türkiye",
+      "Orta Asya"
+    ],
+    "correctAnswer": "Hindistan",
+    "tags": [
+      "baharatlar",
+      "köken",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "moop1xnit",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat, kurutulmuş nane yaprağından yapılır?",
+    "explanation": "Nane baharati kurutulmuş nane yaprağından yapılır ve soğuk içeceklerde de kullanılır.",
+    "options": [
+      "Kimyon",
+      "Kekik",
+      "Nane",
+      "Acı Biber"
+    ],
+    "correctAnswer": "Nane",
+    "tags": [
+      "baharatlar",
+      "yerel",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cg43ib6rc",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Baharatların doğru saklanması için hangi koşul gereklidir?",
+    "explanation": "Baharatların tazelik特性を korumaları için kuru ve serin ortamlarda saklanmaları gerekir.",
+    "options": [
+      "Nemli ortam",
+      "Güneş ışığı",
+      "Kuru ve serin yer",
+      "Oda sıcaklığı"
+    ],
+    "correctAnswer": "Kuru ve serin yer",
+    "tags": [
+      "saklama",
+      "baharatlar",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rittrn49d",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Kimyon baharatinin ana kullanım alanı hangisidir?",
+    "explanation": "Kimyon makarna ve hamur işlerinde yaygın olarak kullanılan baharattır.",
+    "options": [
+      "Et yemekleri",
+      "Makarna",
+      "Salatalık",
+      "Bisküvi"
+    ],
+    "correctAnswer": "Makarna",
+    "tags": [
+      "baharatlar",
+      "kullanım",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "40vvqlnjh",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat, soğan ve sarımsak gibi kokulu gıdalara eklenerek yemeğin aromasını arttırmak için yaygın olarak kullanılır?",
+    "explanation": "Kekik, özellikle et yemekleri ve sebze yemeklerinde soğan-sarımsak ile birlikte aromayı güçlendirmek için sıkça kullanılır.",
+    "options": [
+      "Zencefil",
+      "Karabiber",
+      "Kekik",
+      "Nane"
+    ],
+    "correctAnswer": "Kekik",
+    "tags": [
+      "baharatlar",
+      "mutfak",
+      "aroma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5m3iftc5s",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat aslen Hindistan kökenlidir ve geleneksel olarak Hindistan cevizi veya süt içeren yemeklerde kullanılır?",
+    "explanation": "Kimyon, Hindistan kökenlidir ve geleneksel olarak Hindistan cevizi veya süt içeren yemeklerde kullanılır.",
+    "options": [
+      "Kardamom",
+      "Kimyon",
+      "Tarçın",
+      "Zeytin"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "kökenler",
+      "hindistan",
+      "baharatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sf0er4du1",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharatta yüksek antioksidan içeriği bulunur ve sağlık açısından kalp sağlığına faydalıdır?",
+    "explanation": "Zerdeçal, yüksek antioksidan içeriği bulunur ve sağlık açısından kalp sağlığına faydalıdır.",
+    "options": [
+      "Sıhıf",
+      "Zerdeçal",
+      "Biber",
+      "Pul"
+    ],
+    "correctAnswer": "Zerdeçal",
+    "tags": [
+      "sağlık",
+      "antioksidan",
+      "baharatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3gsh7a7aa",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat et yemekleri ile en iyi uyum sağlar ve lezzetini artırır?",
+    "explanation": "Pul biber, et yemekleri ile en iyi uyum sağlar ve lezzetini artırır.",
+    "options": [
+      "Karabiber",
+      "Pul Biber",
+      "Biber",
+      "Kekik"
+    ],
+    "correctAnswer": "Pul Biber",
+    "tags": [
+      "et yemekleri",
+      "lezzet",
+      "baharatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ukcktkdym",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharatın toz formunda olması, taze hâliyle kıyılmış haline göre daha az kokulu olduğu bilinir?",
+    "explanation": "Kimyonun toz formunda olması, taze hâliyle kıyılmış haline göre daha az kokulu olduğu bilinir.",
+    "options": [
+      "Meyan",
+      "Tarçın",
+      "Kimyon",
+      "Zencefil"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "toz",
+      "taze",
+      "kokular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "28nmibww9",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Baharatların en temel işlevi nedir?",
+    "explanation": "Baharatların en temel işlevi yemeğin lezzetini, aromasını ve bazen renk vermesidir. Baharatlar sadece renk vermek veya pişirme süresini kısaltmak için kullanılmaz.",
+    "options": [
+      "Meyve tutmak",
+      "Yemeğin lezzetini ve aromasını artırmak",
+      "Sadece renk vermek",
+      "Pişirme süresini kısaltmak"
+    ],
+    "correctAnswer": "Yemeğin lezzetini ve aromasını artırmak",
+    "tags": [
+      "baharatlar",
+      "mutfak",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "leq4gc1d7",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat Türk mutfağında 'pul biber' ile benzer şekilde kullanılır?",
+    "explanation": "Pul biber ve karabiber, hem Türk mutfağında hem de genel mutfakta soslarda, etlerde ve salatalarda yaygın olarak kullanılan baharatlardır.",
+    "options": [
+      "Zencefil",
+      "Karabiber",
+      "Sarımsak tozu",
+      "Kekik"
+    ],
+    "correctAnswer": "Karabiber",
+    "tags": [
+      "baharatlar",
+      "turk mutfağı",
+      "pul biber"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r9fg1sqcf",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat çay yapımında sıkça kullanılır?",
+    "explanation": "Nane baharati çay yapımında sıkça kullanılan aromatik bir malzemedir. Yerel biber, kırmızı toz ve tuz çayda kullanılmaz.",
+    "options": [
+      "Yerel biber",
+      "Nane",
+      "Kırmızı toz",
+      "Tuz"
+    ],
+    "correctAnswer": "Nane",
+    "tags": [
+      "baharatlar",
+      "çay",
+      "nane"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xuek3wq09",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi baharat soğanla birlikte yemeklerin temel karışımı oluşturur?",
+    "explanation": "Soğan ve karabiber, Türk mutfağında yemeklerin temel lezzet karışımı oluşturur. Kekik, zencefil ve kimyon daha özel tariflerde kullanılır.",
+    "options": [
+      "Kekik",
+      "Karabiber",
+      "Zencefil",
+      "Kimyon"
+    ],
+    "correctAnswer": "Karabiber",
+    "tags": [
+      "baharatlar",
+      "soğan",
+      "temel karışım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijqtefz36",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat bahçe bitkisi olarak yetişir?",
+    "explanation": "Nane bahçe bitkisi olarak yetişir ve hem taze hem kurutulmuş olarak kullanılır. Tuz mineraldir, pul biber ve kimyon farklı bitki kökenlidir.",
+    "options": [
+      "Tuz",
+      "Nane",
+      "Pul biber",
+      "Kimyon"
+    ],
+    "correctAnswer": "Nane",
+    "tags": [
+      "baharatlar",
+      "bahçe bitkisi",
+      "nane"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t9jwnp3sn",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat genellikle et yemeklerinde ve kırmızı çorbalarda kullanılır?",
+    "explanation": "Kırmızı biber tozu, özellikle et yemekleri, kırmızı çorbalar ve bazı soslarda renk ve baharatlı tat için yaygın olarak kullanılır.",
+    "options": [
+      "Karabiber",
+      "Kırmızı Biber Tozu",
+      "Zencefil",
+      "Hardal"
+    ],
+    "correctAnswer": "Kırmızı Biber Tozu",
+    "tags": [
+      "Baharatlar",
+      "Mutfak",
+      "Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3ypy2s0m",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharatın taze halinde sarı veya turuncu renk vardır?",
+    "explanation": "Zencefil hem taze hem kuru haliyle sarı-turuncu renk gösterir ve özellikle Asya mutfağında yaygın kullanılır.",
+    "options": [
+      "Karabiber",
+      "Zağar Muskat",
+      "Hardal Tohumu",
+      "Zencefil"
+    ],
+    "correctAnswer": "Zencefil",
+    "tags": [
+      "Baharatlar",
+      "Mutfak",
+      "Taze Baharatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dz7pzcagy",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharat, çay yapımında ve balık yemeklerinde sıkça kullanılır?",
+    "explanation": "Zencefil, çay yapımında (zencefil çayı) ve balık yemeklerinde lezzet katmak için çok sık kullanılır.",
+    "options": [
+      "Karabiber",
+      "Nane",
+      "Kimyon",
+      "Zencefil"
+    ],
+    "correctAnswer": "Zencefil",
+    "tags": [
+      "Baharatlar",
+      "Çay",
+      "Balık Yemekleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "izysu2jv4",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "EASY",
+    "question": "Hangi baharatın taze dalı mutfakta dekorasyon amaçlı olarak kullanılabilir?",
+    "explanation": "Nane dalı, mutfakta yemekleri dekorasyon amaçlı süslemek için taze olarak kullanılabilir.",
+    "options": [
+      "Hardal Tohumu",
+      "Karabiber Dalı",
+      "Kimyon",
+      "Nane Dalı"
+    ],
+    "correctAnswer": "Nane Dalı",
+    "tags": [
+      "Baharatlar",
+      "Mutfak Dekorasyonu",
+      "Taze Baharatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3esqw84nj",
+    "category": "MUTFAK",
+    "subcategory": "Baharatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi baharat, ekşi soğan yapımında ve bazı çorbalarda kullanılır?",
+    "explanation": "Kimyon, ekşi soğan yapımında ve bazı Türk çorbalarında (menemen hariç) aroma katmak için kullanılır.",
+    "options": [
+      "Kimyon",
+      "Karabiber",
+      "Nane",
+      "Hardal"
+    ],
+    "correctAnswer": "Kimyon",
+    "tags": [
+      "Baharatlar",
+      "Çorba",
+      "Ekşi Soğan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "y7cwbgu1z",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatı hangi unsurlarla tanımlanır?",
+    "explanation": "Fotoğraf sanatı, ışık ve gölge ilişkisinin yanı sıra kompozisyon kurallarının estetik bir şekilde uygulandığı bir sanatsal ifade biçimidir.",
+    "options": [
+      "Sadece teknik ekipman kullanımı",
+      "Işık, gölge ve kompozisyonun estetik birleştirilmesi",
+      "Sadece dijital kamera ile çekim yapılması",
+      "Renklerin yoğun kullanılmasını gerektirir"
+    ],
+    "correctAnswer": "Işık, gölge ve kompozisyonun estetik birleştirilmesi",
+    "tags": [
+      "SANAT_VE_EĞLENCE",
+      "Fotoğraf Sanatı",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aub28tyjk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğrafçılıkta 'Altın Kesim' kuralı neyi ifade eder?",
+    "explanation": "Altın Kesim kuralı, fotoğrafçılıkta görsel dengeli bir kompozisyon oluşturmak için kullanılan temel prensiptir.",
+    "options": [
+      "Kareyi tam ortadan bölmek",
+      "Önemli öğeleri karenin kenarlarına yerleştirmek yerine dengeli bir kompozisyon oluşturmak",
+      "Sadece ışık kaynaklarını ayırmak",
+      "Renk paletini belirlemek"
+    ],
+    "correctAnswer": "Önemli öğeleri karenin kenarlarına yerleştirmek yerine dengeli bir kompozisyon oluşturmak",
+    "tags": [
+      "SANAT_VE_EĞLENCE",
+      "Fotoğraf Sanatı",
+      "Kompozisyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ssa3g79hc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Siyah-beyaz fotoğrafçılığın en önemli özelliği nedir?",
+    "explanation": "Siyah-beyaz fotoğrafçılık, renklerin olmaması nedeniyle ışık ve gölge oyunlarını ön plana çıkarır.",
+    "options": [
+      "Işık ve gölge oyunlarına odaklanması",
+      "Sadece dijital sensör ile çekilmesi",
+      "Renk tonlaması gerektirmemesi",
+      "Her zaman düşük ışıkta çekilmesidir"
+    ],
+    "correctAnswer": "Işık ve gölge oyunlarına odaklanması",
+    "tags": [
+      "SANAT_VE_EĞLENCE",
+      "Fotoğraf Sanatı",
+      "Teknik Bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jf9mcir8h",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Dış hat karesi (wide angle) lens hangi tür çekimler için uygundur?",
+    "explanation": "Dış hat karesi lensler geniş açı sayesinde manzara ve geniş alanları kapsayan çekimler için uygundur.",
+    "options": [
+      "Portre ve yakın planlar",
+      "Manzara ve geniş alanlar",
+      "Makro ve çok detaylı objeler",
+      "İç mekan ışık oyunları"
+    ],
+    "correctAnswer": "Manzara ve geniş alanlar",
+    "tags": [
+      "SANAT_VE_EĞLENCE",
+      "Fotoğraf Sanatı",
+      "Lens Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vqzuohn7f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Analog fotoğrafçılığın temel sürecinde ne rol oynar?",
+    "explanation": "Analog fotoğrafçılık, ışığın film üzerindeki kimyasal maddeye tepkimesiyle görüntünün oluştuğu bir süreçtir.",
+    "options": [
+      "Sensör üzerinde dijital görüntü oluşumu",
+      "Film üzerindeki ışığa duyarlı kimyasal tepkime",
+      "LED ekran kullanımı",
+      "Mekanik shutter hızı ayarı"
+    ],
+    "correctAnswer": "Film üzerindeki ışığa duyarlı kimyasal tepkime",
+    "tags": [
+      "SANAT_VE_EĞLENCE",
+      "Fotoğraf Sanatı",
+      "Analog Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfmq7bvjc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi fotoğraf sanatının temel amaçlarından biri DEĞİLDİR?",
+    "explanation": "Fotoğraf sanatının temel amaçları arasında gerçekliği yansıtmak, duyguları iletmek ve anıyı kaydetmek yer alır. Sanal gerçeklik oluşturmak fotoğrafçılığın doğal amacı değildir.",
+    "options": [
+      "Gerçekliği yansıtmak",
+      "Sanal gerçeklik oluşturmak",
+      "Duyguları iletmek",
+      "Anıyı kaydetmek"
+    ],
+    "correctAnswer": "Sanal gerçeklik oluşturmak",
+    "tags": [
+      "fotoğraf sanatı",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nft65fplp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Henri Cartier-Bresson'ın 'Kararlı An' (Decisive Moment) kavramı fotoğraflarda neyi ifade eder?",
+    "explanation": "Henri Cartier-Bresson'ın 'Kararlı An' kavramı, fotoğrafçıya en doğru zamanlamayı yakalamayı ve kompozisyonun mükemmelleşmesini ifade eder.",
+    "options": [
+      "Teknik kusursuzluk",
+      "En uygun zamanlama",
+      "Yüksek ışık değerleri",
+      "Renk uyumu"
+    ],
+    "correctAnswer": "En uygun zamanlama",
+    "tags": [
+      "fotoğraf sanatı",
+      "famous photographers",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1muvi2crc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraflarda 'Kural Üçte Biri' (Rule of Thirds) kompozisyon tekniği nasıl çalışır?",
+    "explanation": "Kural Üçte Biri, fotoğraf karesini 3x3'lük bir ızgara haline getirir ve önemli unsurları bu ızgaranın kesim noktalarında veya üçte bir çizgilerinde konumlandırır.",
+    "options": [
+      "Önemi olan unsurları karenin üçte birinde yerleştirerek",
+      "Tüm kareyi simetrik hale getirerek",
+      "Işık değerlerini dengelerken",
+      "Renk tonlarını ayarlayarak"
+    ],
+    "correctAnswer": "Önemi olan unsurları karenin üçte birinde yerleştirerek",
+    "tags": [
+      "fotoğraf sanatı",
+      "kompozisyon",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zhmbeaaev",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Fotoğrafçıların 'Siyah-Beyaz' çeken en temel nedeni nedir?",
+    "explanation": "Siyah-beyaz fotoğrafçılık, renkler olmadan form, çizgi, doku ve ışık değerlerine daha fazla odaklanmayı sağlar. Bu da fotoğrafın duygusal derinliğini artırır.",
+    "options": [
+      "Daha yüksek renk doygunluğu",
+      "Form ve ışık üzerine odaklanma",
+      "Hızlı çekim imkanı",
+      "Düşük maliyet"
+    ],
+    "correctAnswer": "Form ve ışık üzerine odaklanma",
+    "tags": [
+      "fotoğraf sanatı",
+      "siyah-beyaz",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o1kiwfuqf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Fotoğrafçılıkta 'Karanlık Odaklama' (Darkroom) sürecinde kullanılan kimyasal madde hangisidir?",
+    "explanation": "Karanlık odaklamada, negatiften pozitif fotoğraf elde etmek için geliştirici (developer) kimyasal çözeltisi kullanılır. Bu madde ışığa maruz kalan filmi işler.",
+    "options": [
+      "Filtre kağıtları",
+      "Geliştirici (Developer)",
+      "Işık sensörü",
+      "LED lamba"
+    ],
+    "correctAnswer": "Geliştirici (Developer)",
+    "tags": [
+      "fotoğraf sanatı",
+      "karanlık oda",
+      "kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yt7u1co1p",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Fotoğraf sanatında 'kompozisyon' neyi ifade eder?",
+    "explanation": "Kompozisyon, fotoğraf karesindeki unsurların (nesnelerin, ışığın, rengin) nasıl düzenlendiğini ve yerleştirildiğini ifade eder. İyi kompozisyon izleyicinin dikkatini doğru yönlendirir.",
+    "options": [
+      "Işıklandırma tekniklerini",
+      "Kare içindeki düzeni ve eleman yerleşimini",
+      "Enjeksiyon yöntemlerini",
+      "Renk paletini"
+    ],
+    "correctAnswer": "Kare içindeki düzeni ve eleman yerleşimini",
+    "tags": [
+      "Fotoğraf Sanatı",
+      "Kompozisyon",
+      "Temel Kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pg1donp9o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf çekiminde 'kare' kavramı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Fotoğrafta 'kare', çekilen görüntünün çerçevesini ve görsel alanını belirleyen temel kavramdır. Kare içindeki kompozisyon, izleyicinin algısını doğrudan etkiler.",
+    "options": [
+      "Kare her zaman dikdörtgen olmalıdır",
+      "Kare, fotoğrafın çerçevesi ve görsel alanını belirler",
+      "Kare sadece dijital fotoğraflarda geçerlidir",
+      "Kare ışık yoğunluğunu artırmak için kullanılır"
+    ],
+    "correctAnswer": "Kare, fotoğrafın çerçevesi ve görsel alanını belirler",
+    "tags": [
+      "Fotoğraf Sanatı",
+      "Kare Kavramı",
+      "Teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kcbjtib9r",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatında 'gölge' kullanımı ne amaçla yapılır?",
+    "explanation": "Açıklama üretilmedi.",
+    "options": [
+      "Sadece estetik değerini artırmak için",
+      "Derinlik ve boyut hissi vermek amacıyla",
+      "Kareyi küçük göstermek için",
+      "Işığı tamamen silmek için"
+    ],
+    "correctAnswer": "Derinlik ve boyut hissi vermek amacıyla",
+    "tags": [
+      "Fotoğraf Sanatı",
+      "Gölge",
+      "Işık-Yağmurlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tr8auax5a",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğrafçılıkta 'renk teoris' hangi konuda bilgi verir?",
+    "explanation": "Renk teorisi, renklerin birbirleriyle uyumu (harmonisi), sıcak-soğuk tonları ve görsel dengesi hakkında bilgi verir. Doğru renk kullanımı fotoğrafin duygusal etkisini artırır.",
+    "options": [
+      "Işık şiddetini ayarlamak için",
+      "Renklerin uyumu ve harmonisini belirlemek için",
+      "Kare boyutunu seçmek için",
+      "Enjeksiyon tekniklerini açıklamak için"
+    ],
+    "correctAnswer": "Renklerin uyumu ve harmonisini belirlemek için",
+    "tags": [
+      "Fotoğraf Sanatı",
+      "Renk Teorisi",
+      "Görsel Estetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6twlqk08c",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Fotoğraf sanatında 'doku' kavramı nedir?",
+    "explanation": "Doku, fotoğraf karesindeki nesnelerin yüzey özelliklerini (pürüzlülük, yumuşaklık, parlaklık vb.) ifade eder. İyi doku algısı fotoğrafin gerçekçiliğini ve inceliğini artırır.",
+    "options": [
+      "Kare içindeki ışık yoğunluğunu",
+      "Nesnelerin yüzey özelliklerini ve inceliklerini",
+      "Renk paletini sınırlayan bir kural",
+      "Kare çerçevesinin kalınlığını"
+    ],
+    "correctAnswer": "Nesnelerin yüzey özelliklerini ve inceliklerini",
+    "tags": [
+      "Fotoğraf Sanatı",
+      "Doku",
+      "Görsel Detaylar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ii4diau4o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Fotoğraf sanatında 'kompozisyon' terimi neyi ifade eder?",
+    "explanation": "Kompozisyon, fotoğraf çekim alanında bulunan tüm unsurların (nesneler, ışık, renk vb.) nasıl yerleştirildiği ve düzenlendiğinin ifade edilmesidir. İyi bir kompozisyon göze hoş gelen dengeli bir görüntü oluşturur.",
+    "options": [
+      "Kamera lensinin odak mesafesi",
+      "İzleyicinin fotoğrafı algılama sırası",
+      "Çekim alanındaki unsurların yerleşimi ve düzeni",
+      "Fotoğraf filminin boyutu"
+    ],
+    "correctAnswer": "Çekim alanındaki unsurların yerleşimi ve düzeni",
+    "tags": [
+      "kompozisyon",
+      "temel kavramlar",
+      "fotoğraf sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "69m6e5s0i",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatının tarihi gelişiminde en önemli teknolojik atılım hangisidir?",
+    "explanation": "Dijital sensör teknolojisi, fotoğraf sanatında en büyük teknolojik atılımdır. Bu teknoloji sayesinde fotoğraflar anlık olarak görüntülenebilir, düzenlenebilir ve saklanabilir hale gelmiştir. Fotoğrafçılık tarihindeki önemli dönüm noktalarından b",
+    "options": [
+      "Mekanik kameraların icadı",
+      "Dijital sensör teknolojisinin ortaya çıkışı",
+      "Film negatiflerinin geliştirilmesi",
+      "Tripod kullanımı"
+    ],
+    "correctAnswer": "Dijital sensör teknolojisinin ortaya çıkışı",
+    "tags": [
+      "tarihçe",
+      "teknoloji",
+      "dijital fotoğraf"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "25nwnd5z6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf kompozisyon tekniklerinden 'altın oran' nedir?",
+    "explanation": "Altın oran (φ), yaklaşık 1:1.618 matematiksel orandır ve doğada sıkça görülen ideal dengeyi temsil eder. Fotoğrafçılıkta kompozisyonda kullanılarak göze hoş gelen, dengeli görüntüler oluşturulur.",
+    "options": [
+      "Kare boyutunun tam altı",
+      "1:1.618 oranında matematiksel denge",
+      "Fotoğraf filminin kalitesini belirleyen ölçüt",
+      "Kamera lensinin diyafram açısı"
+    ],
+    "correctAnswer": "1:1.618 oranında matematiksel denge",
+    "tags": [
+      "altın oran",
+      "kompozisyon",
+      "matematik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k1cbjin44",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Fotoğraf sanatında 'ışık' en temel hangi unsurdur?",
+    "explanation": "Işık, fotoğraf sanatında en temel kompozisyon unsurlarından biridir. Işik yönü, yoğunluğu ve rengi fotoğrafin atmosferini, derinliğini ve duygusallığını belirler. İyi ayarlanmış ışık olmadan başarılı bir fotoğraf çekilemez.",
+    "options": [
+      "Renk paleti",
+      "Kompozisyon öğesi",
+      "Dijital filtre",
+      "Tripod stabilizasyonu"
+    ],
+    "correctAnswer": "Kompozisyon öğesi",
+    "tags": [
+      "ışık",
+      "temel kavramlar",
+      "fotoğraf teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ua2endewa",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Fotoğraf sanatında 'f-stop' değeri neyi ifade eder?",
+    "explanation": "F-stop, lens diyafram açısını belirleyen değerdir. Küçük f-stop (örn: f/1.8) daha açık diyafram ve dar derinlik alanı, büyük f-stop (örn: f/16) kapalı diyafram ve geniş derinlik alanı yaratır. Fotoğrafçılıkta en kritik teknik parametrelerden bir",
+    "options": [
+      "Lensin kalitesini gösteren oran",
+      "Diyafram açıklığı ve derinlik alanı etkisi",
+      "Kamera filminin hızını belirleyen değer",
+      "Fotoğrafın boyutunu gösteren ölçü"
+    ],
+    "correctAnswer": "Diyafram açıklığı ve derinlik alanı etkisi",
+    "tags": [
+      "f-stop",
+      "diyafram",
+      "fotoğraf teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "do452uqmf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "When was photography first recognized as an art form in major international exhibitions?",
+    "explanation": "Photography gained acceptance as an art form during the late 19th century, particularly in the 1890s when it was included in major exhibitions like the Salon des Indépendants in Paris.",
+    "options": [
+      "1850s",
+      "1890s",
+      "1920s",
+      "1950s"
+    ],
+    "correctAnswer": "1890s",
+    "tags": [
+      "Photography History",
+      "Art Recognition"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bbbnwws7o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Which genre of photography focuses on capturing candid moments in everyday life?",
+    "explanation": "Street photography is known for its emphasis on spontaneous, unposed scenes in public spaces, highlighting the beauty of ordinary life.",
+    "options": [
+      "Portrait",
+      "Street",
+      "Landscape",
+      "Macro"
+    ],
+    "correctAnswer": "Street",
+    "tags": [
+      "Photography Genres",
+      "Artistic Techniques"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n07fq783f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Which term describes photography that emphasizes technical precision and natural light without manipulation?",
+    "explanation": "Straight photography prioritizes clarity and authenticity, rejecting the artistic manipulation seen in earlier movements like Pictorialism.",
+    "options": [
+      "Pictorialism",
+      "Straight Photography",
+      "Soft Focus",
+      "High Key"
+    ],
+    "correctAnswer": "Straight Photography",
+    "tags": [
+      "Photography Techniques",
+      "Artistic Movements"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0vznyc01i",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Which philosophical text discusses the impact of mechanical reproduction on art perception?",
+    "explanation": "Walter Benjamin's essay explores how technology changes how art is perceived and valued, influencing modern photography's role in society.",
+    "options": [
+      "The Communist Manifesto",
+      "The Origin of Species",
+      "The Work of Art in the Age of Mechanical Reproduction",
+      "Leviathan"
+    ],
+    "correctAnswer": "The Work of Art in the Age of Mechanical Reproduction",
+    "tags": [
+      "Philosophy of Photography",
+      "Art Theory"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0pfs3y1h4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Which artistic movement utilized photomontage to deconstruct conventional visual narratives?",
+    "explanation": "Dadaism employed photomontage in works like those by Hannah Höch to disrupt traditional perceptions of art and society.",
+    "options": [
+      "Cubism",
+      "Futurism",
+      "Dadaism",
+      "Suprematism"
+    ],
+    "correctAnswer": "Dadaism",
+    "tags": [
+      "Art Movements",
+      "Photography Techniques"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hfcm4hirk",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Fotoğraf sanatında en önemli teknik özelliklerden biri nedir?",
+    "explanation": "Fotoğraf sanatında kompozisyon (kadrin düzeni) ve ışık kullanımı, görseli ifade güçlendirerek en önemli teknik özelliklerdir.",
+    "options": [
+      "Renk paletinin genişliği",
+      "Kompozisyon ve ışık kullanımı",
+      "Fotoğraf makinesinin fiyatı",
+      "Çekilen konunun meşhurluğu"
+    ],
+    "correctAnswer": "Kompozisyon ve ışık kullanımı",
+    "tags": [
+      "fotoğraf",
+      "sanat",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dhop3s3vp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "1826 yılında Nisiyev tarafından geliştirilen ilk fotoğraf yöntemi ne ad verilmiştir?",
+    "explanation": "1826 yılında Joseph Nicéphore Niépce tarafından geliştirilen ilk fotoğraf yöntemi Calotyp olarak bilinir.",
+    "options": [
+      "Daguerreotype",
+      "Calotyp",
+      "Vandermarck",
+      "Polaroid"
+    ],
+    "correctAnswer": "Calotyp",
+    "tags": [
+      "fotoğraf tarihi",
+      "geliştirme",
+      "Nisiyev"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o778ys0h6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatında 'kader' veya 'an' kavramı neden önemlidir?",
+    "explanation": "Fotoğraf sanatında 'an' kavramı önemlidir çünkü kaydedilen an asla yenilenebilir ve tek turlu bir eserdir.",
+    "options": [
+      "Çünkü her an tekrarlanabilir",
+      "Çünkü kaydedilen an asla yenilenebilir",
+      "Çünkü anlar dijitalleştirilir",
+      "Çünkü anlar silinmez"
+    ],
+    "correctAnswer": "Çünkü kaydedilen an asla yenilenebilir",
+    "tags": [
+      "fotoğraf felsefesi",
+      "an",
+      "kader"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zwm098inl",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Fotoğrafçılıkta 'silhouette' veya 'kontur' çekimi ne ifade eder?",
+    "explanation": "Silhouette veya kontur çekiminde konunun sadece dış hatları belirginleştirilir ve detaylar gizlenir.",
+    "options": [
+      "Arka planın parlak olması",
+      "Konunun sadece dış hatlarının görünmesi",
+      "Renklerin çok çeşitli olması",
+      "Işığın çok zayıf olması"
+    ],
+    "correctAnswer": "Konunun sadece dış hatlarının görünmesi",
+    "tags": [
+      "silhouette",
+      "kontur",
+      "fotoğraf teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t4oqtghsy",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Fotoğraf sanatında 'günlük' veya 'belgesel' fotoğrafçılık arasındaki fark nedir?",
+    "explanation": "Belgesel fotoğrafçılık gerçek olayları, insanları ve toplumsal durumları objektif şekilde kaydeder; günlük fotoğrafçılık ise daha sanatsal.",
+    "options": [
+      "Günlük fotoğrafçılık daha sanatsaldır",
+      "Belgesel fotoğrafçılık gerçek olayları kaydeder",
+      "Aynı şeydir",
+      "Farkı yoktur"
+    ],
+    "correctAnswer": "Belgesel fotoğrafçılık gerçek olayları kaydeder",
+    "tags": [
+      "belgesel",
+      "günlük",
+      "fotoğraf türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "swcwjs74j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatının erken dönemlerinde kullanılan ilk fotoğraf makinesi neye dayanıyordu?",
+    "explanation": "Fotoğraf sanatının ilk dönemlerinde negatif pozitif sistemi kromatiktik levhalar kullanılmadan önce gümüş halojen film teknolojisi yaygın olarak kullanılıyordu.",
+    "options": [
+      "Silikon tabanlı sensörler",
+      "Gümüş halojen film",
+      "Kromatiktik levhalar",
+      "Dijital piksel matrisi"
+    ],
+    "correctAnswer": "Gümüş halojen film",
+    "tags": [
+      "tarihçe",
+      "teknoloji",
+      "fotoğraf"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c1bwygad1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Svetlana Aleksiyeviç'in fotoğraf eserleri hangi fotoğrafçılık akımına örnek teşkil eder?",
+    "explanation": "Svetlana Aleksiyeviç'in eserleri doğalcı ve gerçekçi yaklaşımla tanınır, doğal ışık ve anları yakalamayı önemser.",
+    "options": [
+      "Doğalcı fotoğrafçılık",
+      "Konseptüel fotoğrafçılık",
+      "Abstrakt fotoğrafçılık",
+      "Minimalist fotoğrafçılık"
+    ],
+    "correctAnswer": "Doğalcı fotoğrafçılık",
+    "tags": [
+      "akım",
+      "fotoğrafçı",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ip70cqv8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Henri Cartier-Bresson'un 'Karar Anı' (Decisive Moment) teorisinde ne vurgulanır?",
+    "explanation": "Cartier-Bresson'un 'Karar Anı' teorisi, fotoğrafçının doğru zamanda doğru kompozisyonda anı yakalama becerisini vurgular.",
+    "options": [
+      "Sadece estetik düzen",
+      "Anlık zamanlama ve kompozisyon",
+      "Güçlü renk kullanımı",
+      "Düşük ışıkta çekim"
+    ],
+    "correctAnswer": "Anlık zamanlama ve kompozisyon",
+    "tags": [
+      "teori",
+      "fotoğrafçı",
+      "kompozisyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jt6cnvmyz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Ansel Adams'ın fotoğrafları hangi tür manzaraları en çok işler?",
+    "explanation": "Ansel Adams, özellikle Yosemite Ulusal Parkı'nda çektiği doğa ve dağ fotoğraflarıyla tanınır, siyah-beyaz işleme becerisiyle ünlüdür.",
+    "options": [
+      "Şehir manzaraları",
+      "Doğa ve dağ manzaraları",
+      "Portre fotoğrafları",
+      "Makro çekimler"
+    ],
+    "correctAnswer": "Doğa ve dağ manzaraları",
+    "tags": [
+      "fotoğrafçı",
+      "manzara",
+      "doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uof375m9n",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatında 'Long Exposure' (uzun poz) tekniği neyi ifade eder?",
+    "explanation": "Long Exposure tekniği, uzun poz süresi ile hareket eden nesnelerin akışını veya yolunu fotoğrafta gösterir.",
+    "options": [
+      "Hareketli nesnelerin donması",
+      "Hareketin iz bırakılması",
+      "Yüksek ışık değerlerinde çekim",
+      "Gecikmeli flaş kullanımı"
+    ],
+    "correctAnswer": "Hareketin iz bırakılması",
+    "tags": [
+      "teknik",
+      "poz",
+      "hareket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yxf49146v",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatında 'güzel bir kompozisyon' oluşturmak için en önemli kural hangisidir?",
+    "explanation": "Negatif alan (boşluk) ve pozitif alan (nesneler) arasındaki denge, göze hoş gelen bir kompozisyon oluşturmanın temel kuralıdır.",
+    "options": [
+      "A) Tüm nesneleri merkeze almak",
+      "B) Negatif alan ve pozitif alan dengesini kurmak",
+      "C) Sadece parlak renkler kullanmak",
+      "D) Uzak mesafeden çekim yapmak"
+    ],
+    "correctAnswer": "B) Negatif alan ve pozitif alan dengesini kurmak",
+    "tags": [
+      "kompozisyon",
+      "fotoğraf-teknik",
+      "sanat-kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rzdgc22qm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğrafçılıkta 'güçlü ışıklandırma' için en uygun saat kaçtır?",
+    "explanation": "Altın saat, gün doğumundan bir saat sonra ve gün batımından bir saat önce gerçekleşen zaman aralığıdır. Bu saatlerde ışık daha yumuşak ve güzel renkler verir.",
+    "options": [
+      "A) Öğle saati (12:00-14:00)",
+      "B) Altın saat (tutulduktan sonra gün batımından önce)",
+      "C) Gece vakti",
+      "D) Sabah erken saatler dışındadır"
+    ],
+    "correctAnswer": "B) Altın saat (tutulduktan sonra gün batımından önce)",
+    "tags": [
+      "ışıklandırma",
+      "fotoğraf-teknik",
+      "zamanlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qosuxm0df",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatında 'çalışma' (studio) fotoğrafçılığının temel özelliği nedir?",
+    "explanation": "Çalışma (studio) fotoğrafçılığı, ışığın ve kompozisyonun tamamen kontrol edilebildiği düzenli bir ortamda yapılır.",
+    "options": [
+      "A) Doğal ışık kullanımı",
+      "B) Kontrol edilmiş ışık ve kompozisyon ortamı",
+      "C) Sadece dış mekan çekimleri",
+      "D) Hızlı ve rastgele pozlar"
+    ],
+    "correctAnswer": "B) Kontrol edilmiş ışık ve kompozisyon ortamı",
+    "tags": [
+      "studio-fotoğrafçılık",
+      "ışık-kontrolü",
+      "ortam-planlaması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6uay36yt5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatında 'sürdürülebilirlik' kavramı neyi ifade eder?",
+    "explanation": "Sürdürülebilirlik, sanatın gelecekteki nesillere aktarılması ve kültürel miras olarak korunması anlamına gelir.",
+    "options": [
+      "A) Teknolojik gelişmeler",
+      "B) Sanatın gelecek nesillere aktarılması ve korunması",
+      "C) Pahalı ekipman kullanımı",
+      "D) Sadece dijital fotoğrafçılık"
+    ],
+    "correctAnswer": "B) Sanatın gelecek nesillere aktarılması ve korunması",
+    "tags": [
+      "sürdürülebilirlik",
+      "sanat-kültürü",
+      "gelecek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "458qgqcac",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğrafçılıkta 'siyah-beyaz fotoğraf' kullanmanın en büyük avantajı nedir?",
+    "explanation": "Siyah-beyaz fotoğraflarda renkler olmadığı için izleyicinin dikkati şekil, form ve ışık yoğunluğuna daha fazla odaklanır.",
+    "options": [
+      "A) Daha hızlı işleme süreci",
+      "B) Renklerin tamamen kaybolması",
+      "C) Dikkatin form ve ışığa odaklanması",
+      "D) Pahalı ekipman gereksinimi"
+    ],
+    "correctAnswer": "C) Dikkatin form ve ışığa odaklanması",
+    "tags": [
+      "siyah-beyaz-fotoğraf",
+      "estetik",
+      "dikkat-odaklanma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gojrab85o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Fotoğrafçıda 'üçgen' terimi hangi kavramı ifade eder?",
+    "explanation": "Üçgen (exposure triangle), kapak açıklığı, enstantane süresi ve ISO ayarları arasındaki dengeyi ifade eder.",
+    "options": [
+      "Ayarların dengesi",
+      "Kompozisyonun simetrisi",
+      "Işık kaynağı dağılımı",
+      "Kamera stabilizasyonu"
+    ],
+    "correctAnswer": "Ayarların dengesi",
+    "tags": [
+      "temel kavramlar",
+      "fotoğrafçılık teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8h6ai7akf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Rule of Thirds (Üçte Bir Kuralı) hangi amaçla kullanılır?",
+    "explanation": "Rule of Thirds, kadrajı üçe bölerek görsel dengeyi ve simetriyi korumayı hedefler.",
+    "options": [
+      "Fotoğrafın simetrisini sağlamak",
+      "Dengeyi bozmak",
+      "Karmaşıklık yaratmak",
+      "Nokta odaklama yapmak"
+    ],
+    "correctAnswer": "Fotoğrafın simetrisini sağlamak",
+    "tags": [
+      "kompozisyon",
+      "kuralar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "984yi5biw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Ansel Adams fotoğrafçılık tarihine hangi katkıyla tanınır?",
+    "explanation": "Ansel Adams, siyah-beyaz doğa ve landscape fotoğraflarıyla ünlü bir fotoğraf sanatçıdır.",
+    "options": [
+      "Dijital fotoğrafçılığın öncüsü",
+      "Sinema yönetmenliği",
+      "Doğa fotoğrafları",
+      "Portre sanatı"
+    ],
+    "correctAnswer": "Doğa fotoğrafları",
+    "tags": [
+      "fotoğrafçılık tarihi",
+      "sanatçılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1uxsxnk44",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Kamera 'f-stop' ayarının daralması derinliği nasıl etkiler?",
+    "explanation": "Daha küçük f-stop (yüksek sayı), derinliği artırarak arka planın net görünmesini sağlar.",
+    "options": [
+      "Derinlik azalır",
+      "Derinlik artar",
+      "Derinlik sabit kalır",
+      "Derinlik değişmez"
+    ],
+    "correctAnswer": "Derinlik artar",
+    "tags": [
+      "teknik ayarlar",
+      "optik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a1j09jckv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "ISO 100'den ISO 1600'ye geçiş fotoğraf kalitesine ne etkiler?",
+    "explanation": "Yüksek ISO, sensör gürültüsünü artırarak detay kaybına neden olur.",
+    "options": [
+      "Gürültü azalır",
+      "Gürültü artar",
+      "Resim sabit kalır",
+      "Renkler değişir"
+    ],
+    "correctAnswer": "Gürültü artar",
+    "tags": [
+      "ISO ayarı",
+      "kalite"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3kescckrv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğraf sanatında 'Polaroid' veya 'Analog fotoğrafçılık' ile hangi tür fotoğraf çekimi kastedilir?",
+    "explanation": "Polaroid ve diğer analog fotoğraf makineleri, kimyasal film kullanılarak görüntüyü fiziksel olarak filme kaydeden sistemlerdir. Dijital değil, kodak veya özel polaroid filmleri kullanılır.",
+    "options": [
+      "Dijital görüntü işleme",
+      "Kodak film üzerine çekim",
+      "Akıllı telefonla anlık çekim",
+      "Gün doğumu fotoğrafçılığı"
+    ],
+    "correctAnswer": "Kodak film üzerine çekim",
+    "tags": [
+      "fotoğrafçılık",
+      "analog",
+      "temeller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "itois0k3b",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğrafçılıkta 'Altın Kesim' kuralı neyi ifade eder?",
+    "explanation": "Altın Kesim (Golden Ratio) veya Kompozisyon kuralları, fotoğraf çekiminde görsel elementlerin çerçevede doğal ve estetik bir şekilde yerleşmesi için kullanılan prensiplerdir.",
+    "options": [
+      "Renklerin dengeli olması",
+      "Görüntünün ışıklandırılması",
+      "Kompozisyon için görsel elementlerin yerleşimi",
+      "Film hızının ayarlanması"
+    ],
+    "correctAnswer": "Kompozisyon için görsel elementlerin yerleşimi",
+    "tags": [
+      "kompozisyon",
+      "kurallar",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ar72qjv6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EASY",
+    "question": "Fotoğrafçılıkta 'Portre' fotoğrafçılığının temel amacı nedir?",
+    "explanation": "Portre fotoğrafçılığı, insanın yüz ifadesi, kişiliği ve kimliği ön plana çıkarılan çekimlerdir. Doğa, hareket veya makro farklı türlerin temel amaçlarıdır.",
+    "options": [
+      "Doğa manzaralarını belgelemek",
+      "Kişinin yüzünü ve kimliğini vurgulamak",
+      "Hareketli sahneleri yakalamak",
+      "Makro detayları göstermek"
+    ],
+    "correctAnswer": "Kişinin yüzünü ve kimliğini vurgulamak",
+    "tags": [
+      "portre",
+      "temel türler",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s3xd0y7hz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "EXPERT",
+    "question": "Fotoğrafçılıkta 'Bunlar' (Soft Light) ile hangi ışık tipi kastedilir?",
+    "explanation": "Soft Light (Yumuşak Işık), gölgelerin az olduğu, görüntünün daha doğal durmasını sağlayan ışık türüdür. Genellikle diffüzör veya bulutlu hava ile elde edilir.",
+    "options": [
+      "Sert gölgeli doğrudan güneş ışığı",
+      "Yumuşak, difüz ve gölge azı olan ışık",
+      "Farek ışığı veya flaş",
+      "Mavi saat ışığı"
+    ],
+    "correctAnswer": "Yumuşak, difüz ve gölge azı olan ışık",
+    "tags": [
+      "ışıklandırma",
+      "teknik",
+      "profesyonel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sgg3vxwyy",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Fotoğraf Sanatı",
+    "difficulty": "GENERAL",
+    "question": "Fotoğrafçılıkta 'Makro' çekim nedir?",
+    "explanation": "Makro fotoğrafçılık, çok küçük nesneleri veya detayları yakın mesafeden çekerek büyütür. Insekler, çiçekler ve küçük detaylar için kullanılır.",
+    "options": [
+      "Uzak manzaraları çekmek",
+      "Dokunma mesafesindeki detayları büyüterek çekmek",
+      "Gece fotoğrafları çekmek",
+      "Siyah beyaz fotoğraf çekmek"
+    ],
+    "correctAnswer": "Dokunma mesafesindeki detayları büyüterek çekmek",
+    "tags": [
+      "makro",
+      "detay",
+      "türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

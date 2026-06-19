@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "q3mwqcxhq",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Fermente gıdaların temel özelliklerinden hangisi doğrudur?",
+    "explanation": "Fermentasyon sürecinde yararlı bakteriler (probiyotikler) gıdaya eklenir ve bu bakterilerin aktivitesi fermentasyon sırasında artar. Bu da gıdanın bozulma dayanıklılığını artırır.",
+    "options": [
+      "A) Fermentasyon sırasında bakteriyel aktivite artar",
+      "B) Fermente gıdalar sadece sıcaklıkta saklanır",
+      "C) Fermente gıdalar vitamin içeriği azalır",
+      "D) Tüm fermente gıdalar aynı bakteri türünü içerir"
+    ],
+    "correctAnswer": "A) Fermentasyon sırasında bakteriyel aktivite artar",
+    "tags": [
+      "fermente",
+      "gıda",
+      "bakteri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3fj8fuc4o",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Hangisi fermente bir gıda örneğidir?",
+    "explanation": "Yoğurt, süt bakterilerinin (Lactobacillus ve Streptococcus türleri) fermentasyonu sonucu elde edilen klasik fermente bir gıdadır.",
+    "options": [
+      "A) Yoğurt",
+      "B) Taze sebze",
+      "C) Süt",
+      "D) Yumurta"
+    ],
+    "correctAnswer": "A) Yoğurt",
+    "tags": [
+      "fermente",
+      "yoğurt",
+      "probiyotik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "msfkupesn",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdaların saklama koşulları nelerdir?",
+    "explanation": "Fermente gıdalar genellikle serin, kuru ve hava almayan ortamlarda saklanmalıdır. Bu koşullar bakteri aktivitesini dengede tutarak gıdanın bozulmasını önler.",
+    "options": [
+      "A) Serin ve kuru ortam",
+      "B) Mutlaka buzdolabı",
+      "C) Sadece sıcaklıkta",
+      "D) Işık altında"
+    ],
+    "correctAnswer": "A) Serin ve kuru ortam",
+    "tags": [
+      "saklama",
+      "fermente",
+      "koşul"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o7leuoioy",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi fermente gıda türü daha yüksek probiyotik içerir?",
+    "explanation": "Kefir, süt bakterileri ve maya mantarlarının birlikte fermentasyonu sonucu üretilen en yüksek probiyotik içeren fermente gıdalar arasında yer alır.",
+    "options": [
+      "A) Kefir",
+      "B) Turşu",
+      "C) Tereyağı",
+      "D) Peynir (sert türler)"
+    ],
+    "correctAnswer": "A) Kefir",
+    "tags": [
+      "kefir",
+      "probiyotik",
+      "fermente"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k6oopv687",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Fermentasyon sürecinde hangi vitaminler artabilir?",
+    "explanation": "Fermentasyon sürecinde bakteriyel aktivite sayesinde B12, folik asit gibi B grubu vitaminler sentezlenebilir ve gıdanın vitamin içeriği artabilir.",
+    "options": [
+      "A) B grubu vitaminleri",
+      "B) C vitamini",
+      "C) D vitamini",
+      "D) E vitamini"
+    ],
+    "correctAnswer": "A) B grubu vitaminleri",
+    "tags": [
+      "fermente",
+      "vitamin",
+      "B grubu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ec59bf2sx",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "What is the primary process used to create fermented foods?",
+    "explanation": "Fermentation involves the use of beneficial bacteria, yeast, or mold to break down carbohydrates and create sour flavors in foods.",
+    "options": [
+      "Freezing",
+      "Fermentation by microorganisms",
+      "Pasteurization",
+      "Drying"
+    ],
+    "correctAnswer": "Fermentation by microorganisms",
+    "tags": [
+      "fermented foods",
+      "process"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1hdfs422g",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Which of the following is NOT a common fermented food?",
+    "explanation": "Chocolate is not a fermented food. Yogurt, kefir, and cheese are all created through fermentation processes.",
+    "options": [
+      "Yogurt",
+      "Kefir",
+      "Cheese",
+      "Chocolate"
+    ],
+    "correctAnswer": "Chocolate",
+    "tags": [
+      "fermented foods",
+      "examples"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ntdzto9mt",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "What health benefit is associated with consuming fermented foods?",
+    "explanation": "Fermented foods contain probiotics that support digestive health and increase the diversity of beneficial bacteria in the gut.",
+    "options": [
+      "Increased sugar content",
+      "Improved gut microbiome diversity",
+      "Reduced protein absorption",
+      "Higher fat levels"
+    ],
+    "correctAnswer": "Improved gut microbiome diversity",
+    "tags": [
+      "fermented foods",
+      "health benefits"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hx1d8qoce",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Which microorganism is primarily responsible for fermenting vegetables like sauerkraut?",
+    "explanation": "Lactobacillus plantarum is a lactic acid bacteria commonly used in vegetable fermentation, converting sugars to lactic acid.",
+    "options": [
+      "Saccharomyces cerevisiae",
+      "Lactobacillus plantarum",
+      "Penicillium roqueforti",
+      "Bacillus subtilis"
+    ],
+    "correctAnswer": "Lactobacillus plantarum",
+    "tags": [
+      "fermented foods",
+      "microorganisms",
+      "sauerkraut"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ntelldabg",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "What distinguishes traditionally fermented foods from commercially produced versions?",
+    "explanation": "Traditionally fermented foods are made without added preservatives, relying on natural fermentation processes for preservation.",
+    "options": [
+      "Traditional methods lack preservatives",
+      "Commercial versions are always healthier",
+      "Traditional methods use only one type of bacteria",
+      "Commercial versions contain no probiotics"
+    ],
+    "correctAnswer": "Traditional methods lack preservatives",
+    "tags": [
+      "fermented foods",
+      "production methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "89kbf9w4g",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi fermente gıda örneği değildir?",
+    "explanation": "Yoğurt, ezme ve sucuk fermentasyon yöntemiyle hazırlanan gıdalardır. Muz ise doğal bir meyvedir ve fermente değildir.",
+    "options": [
+      "Yoğurt",
+      "Ezme",
+      "Sucuk",
+      "Muz"
+    ],
+    "correctAnswer": "Muz",
+    "tags": [
+      "fermantasyon",
+      "gıda",
+      "yoğurt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kbrd4bt4j",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdaların en önemli yararlarından biri nedir?",
+    "explanation": "Fermente gıdalar, probiyotik bakteriler içerir ve sindirim sistemi sağlığı için faydalıdır.",
+    "options": [
+      "Vitamin eksikliği",
+      "Probiyotik içerir",
+      "Türkiye'de üretilmez",
+      "Sadece tuz içerir"
+    ],
+    "correctAnswer": "Probiyotik içerir",
+    "tags": [
+      "probiyotik",
+      "sağlık",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wxees7jow",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Hangi fermente gıda laktik asit üretimiyle bilinir?",
+    "explanation": "Şalgam, laktik asit fermantasyonuyla üretilen geleneksel bir fermente içecektir.",
+    "options": [
+      "Tereyağı",
+      "Şalgam",
+      "Kahve",
+      "Çay"
+    ],
+    "correctAnswer": "Şalgam",
+    "tags": [
+      "şalgam",
+      "laktik asit",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v9i9ijd2k",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Fermente gıdaların saklanma süresi genellikle nasıldır?",
+    "explanation": "Fermente gıdalar, doğru saklandığında uzun süre dayanabilir ve bozulmaz.",
+    "options": [
+      "Uzun olabilir",
+      "Sadece 1 gün",
+      "Hiç saklanamaz",
+      "Sadece buzdolabında"
+    ],
+    "correctAnswer": "Uzun olabilir",
+    "tags": [
+      "saklama",
+      "fermantasyon",
+      "tazeleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5pygh4uum",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi fermente gıda yüksek tuz içerir?",
+    "explanation": "Sucuk, yüksek tuz içeriğiyle fermentasyonu destekleyen geleneksel bir ızgara et ürünüdür.",
+    "options": [
+      "Kefir",
+      "Sucuk",
+      "Tereyağı",
+      "Bal"
+    ],
+    "correctAnswer": "Sucuk",
+    "tags": [
+      "sucuk",
+      "tuz",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "22ekib9p9",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Türk mutfağında sıkça kullanılan fermente bir gıdadır?",
+    "explanation": "Yoğurt, süt ürünlerinin fermente edilmesiyle elde edilen en yaygın Türk mutfağındaki fermente gıdadır.",
+    "options": [
+      "Yoğurt",
+      "Tereyağı",
+      "Ekmek",
+      "Peynir"
+    ],
+    "correctAnswer": "Yoğurt",
+    "tags": [
+      "fermente gıdalar",
+      "türk mutfağı",
+      "yoğurt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xar3nmzsi",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdalarda gerçekleşen biyokimyasal süreç aşağıdakilerden hangisidir?",
+    "explanation": "Fermente gıdalarda bakteriler veya mayalar tarafından gerçekleşen kimyasal değişime 'mayalanma' denir.",
+    "options": [
+      "Pastaşılma",
+      "Mayalanma",
+      "Kurutma",
+      "Pişirme"
+    ],
+    "correctAnswer": "Mayalanma",
+    "tags": [
+      "fermente gıdalar",
+      "mayalanma",
+      "biyokimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "btlotfq79",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Hangi fermente gıda soğuk iklimlerde daha çok tüketilir?",
+    "explanation": "Kimchi, Kore mutfağında kullanılan, genellikle soğukta saklanan fermente sebzelerdir.",
+    "options": [
+      "Somon",
+      "Salatalık turşusu",
+      "Kimchi",
+      "Zeytin turşusu"
+    ],
+    "correctAnswer": "Kimchi",
+    "tags": [
+      "fermente gıdalar",
+      "kore mutfağı",
+      "kimchi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w5hlemoyh",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Fermente gıdalarda protonun birikmesi sonucu oluşur:",
+    "explanation": "Fermente gıdalarda laktik asit bakterileri sayesinde organik asitler oluşur, bu da asitliliği artırır.",
+    "options": [
+      "Asitlik",
+      "Tuzluluk",
+      "Şekerlilik",
+      "Yağlılık"
+    ],
+    "correctAnswer": "Asitlik",
+    "tags": [
+      "fermente gıdalar",
+      "kimya",
+      "asitlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "451069lvg",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "MUTFAK konsepti kapsamında fermente gıdalarda hangisi doğru saklama koşulu değildir?",
+    "explanation": "Fermente gıdalar genellikle nemli değil, kuru ve soğuk ortamlarda daha iyi saklanır.",
+    "options": [
+      "Soğuk ortam",
+      "Nemli ortam",
+      "Kapalı kavanoz",
+      "Güneş ışığından korunma"
+    ],
+    "correctAnswer": "Nemli ortam",
+    "tags": [
+      "fermente gıdalar",
+      "saklama",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "es6s66rm2",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdalardan hangisi en yüksek probiyotik içeriğe sahiptir?",
+    "explanation": "Kefir, yoğurta kıyasla daha fazla çeşitli probiyotik bakterisi içerir ve sütten fermente edilerek üretilen en zengin probiyotik kaynaktır.",
+    "options": [
+      "Kefir",
+      "Yoğurt",
+      "Tzatziki",
+      "Süzmeli Yoghurt"
+    ],
+    "correctAnswer": "Kefir",
+    "tags": [
+      "probiyotik",
+      "fermentasyon",
+      "mutfak",
+      "sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1b1ofzwbm",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Fermentasyon sürecinde hangi mikroskobu rol oynar?",
+    "explanation": "Fermentasyon sürecinde anahtar rolü bakteriler oynar, özellikle laktik asit bakterileri süt gıdalarında fermente etme yeteneğine sahiptir.",
+    "options": [
+      "Bakteri",
+      "Mantar",
+      "Virus",
+      "Parazit"
+    ],
+    "correctAnswer": "Bakteri",
+    "tags": [
+      "fermantasyon",
+      "mikrobiyoloji",
+      "sağlık",
+      "bakteri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z8xdqxigv",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi fermente gıda en uzun raf ömrüne sahiptir?",
+    "explanation": "Kombucha, şekerli çaydan fermente edilen ve doğal asitler sayesinde daha uzun raf ömrüne sahip olan bir fermente içecektir.",
+    "options": [
+      "Kefir",
+      "Kombucha",
+      "Süzme Yoğurt",
+      "Tzatziki"
+    ],
+    "correctAnswer": "Kombucha",
+    "tags": [
+      "raf ömrü",
+      "fermentasyon",
+      "mutfak",
+      "gıda teknolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bm1rstkkf",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdaların sindirim sistemine etkisi nedir?",
+    "explanation": "Fermente gıdalar, laktik asit bakterileri içerir ve bu bakteriler sindirim sistemini destekleyerek besin emilimini kolaylaştırır.",
+    "options": [
+      "Sindirimi kolaylaştırır",
+      "Sindirimi zorlaştırır",
+      "Hiç etkisi yoktur",
+      "Karbonhidrat emilimini artırır"
+    ],
+    "correctAnswer": "Sindirimi kolaylaştırır",
+    "tags": [
+      "sindirim",
+      "fermente gıdalar",
+      "sağlık",
+      "beslenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cmvq3o011",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Hangi fermente gıda en yüksek vitamin B12 içeriğine sahiptir?",
+    "explanation": "Kefir, diğer fermente gıdalara kıyasla daha yüksek vitamin B12 içeriğine sahiptir ve düzenli tüketilmesi önerilen bir kaynaktır.",
+    "options": [
+      "Kefir",
+      "Süzme Yoğurt",
+      "Tzatziki",
+      "Fermente Peynir"
+    ],
+    "correctAnswer": "Kefir",
+    "tags": [
+      "vitamin B12",
+      "fermentasyon",
+      "besin değerleri",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dqn5s16o0",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Fermente gıdalar ne olarak tanımlanır?",
+    "explanation": "Fermente gıdalar, bakteriler, maya veya mantar gibi mikroorganizmaların doğal süreçleriyle üretilen besinlerdir. Bu süreç gıdaya yeni lezzet ve sağlık özellikleri kazandırır.",
+    "options": [
+      "A. Yüksek sıcaklıkta pişmiş besinler",
+      "B. Mikroorganizmalar yardımıyla doğal süreçle üretilen besinler",
+      "C. Soğuk muhafaza edilmiş gıdalar",
+      "D. Kimyasal katkı maddeleri içeren ürünler"
+    ],
+    "correctAnswer": "B. Mikroorganizmalar yardımıyla doğal süreçle üretilen besinler",
+    "tags": [
+      "fermantasyon",
+      "temel kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wijx8hpnm",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi fermente bir gıda örneğidir?",
+    "explanation": "Yoğurt, laktoz fermentasyonu yoluyla üretilen en yaygın fermente süt ürünüdür. Laktobasilus ve Laktofillus gibi bakterilerle yapılır.",
+    "options": [
+      "A. Taze meyve suyu",
+      "B. Yoğurt",
+      "C. Pişmiş pirinç",
+      "D. Salata"
+    ],
+    "correctAnswer": "B. Yoğurt",
+    "tags": [
+      "gıda örnekleri",
+      "süt ürünleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rt10a7hok",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdaların sağlık faydası nedir?",
+    "explanation": "Fermente gıdalar probiyotik içerir, bağırsaktaki yararlı bakterileri artırır ve sindirim sistemini destekler.",
+    "options": [
+      "A. Vitamin B12 içeriğini artırır",
+      "B. Bağırsak florasını destekler ve sindirimi kolaylaştırır",
+      "C. Kalori miktarını azaltır",
+      "D. Protein yapısını değiştirir"
+    ],
+    "correctAnswer": "B. Bağırsak florasını destekler ve sindirimi kolaylaştırır",
+    "tags": [
+      "sağlık faydaları",
+      "bağırsak sağlığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lu15idjta",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Hangi fermente ürün mantarlarla üretilmiştir?",
+    "explanation": "Bira ve benzeri alkollü içeceklerde mayalar (Sacccharomyces cerevisiae) kullanılarak fermentasyon yapılır.",
+    "options": [
+      "A. Kefir",
+      "B. Şıra",
+      "C. Mısır ekmeği (bira)",
+      "D. Soya salçası"
+    ],
+    "correctAnswer": "C. Mısır ekmeği (bira)",
+    "tags": [
+      "mantar fermentasyonu",
+      "alkollü içecekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8gwjd3eqr",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdaların saklanma koşulu nasıldır?",
+    "explanation": "Fermente gıdalar soğuk ortamda saklanmalıdır. Bu, istenmeyen bakteri gelişimini önler ve fermente süreci kontrol altında tutar.",
+    "options": [
+      "A. Yüksek sıcaklık ve nem",
+      "B. Soğuk muhafaza (1-4°C)",
+      "C. Güneş ışığı altında",
+      "D. Hava akışının olduğu ortam"
+    ],
+    "correctAnswer": "B. Soğuk muhafaza (1-4°C)",
+    "tags": [
+      "saklama koşulları",
+      "muhafaza"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bq9p5ey43",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi geleneksel Türk fermente gıdasıdır?",
+    "explanation": "Yoğurt, süt ürününün mayalanarak fermente edilmiş en yaygın Türk fermente gıdasıdır.",
+    "options": [
+      "Yoğurt",
+      "Meyve suyu",
+      "Taze soğan",
+      "Peynir"
+    ],
+    "correctAnswer": "Yoğurt",
+    "tags": [
+      "Fermented Foods",
+      "Turkish Cuisine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cydghshub",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdaların sağlığa faydaları arasında hangisi öne çıkar?",
+    "explanation": "Fermente gıdalar canlı bakteriler (probiyotikler) içerir ve sindirim sistemi sağlığını destekler.",
+    "options": [
+      "Laktoz intoleransına çözüm",
+      "Probiyotik içerir",
+      "Yüksek kalori sağlar",
+      "Glikoz seviyesini artırır"
+    ],
+    "correctAnswer": "Probiyotik içerir",
+    "tags": [
+      "Health Benefits",
+      "Fermentation Process"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s8755u7as",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi fermente gıda, turşu yapımında kullanılan lakto-fermantasyon prensibiyle üretilir?",
+    "explanation": "Turşular, sebze veya meyvelerin tuzlu suda lakto-fermantasyon ile fermente edilerek hazırlanır.",
+    "options": [
+      "Ayran",
+      "Şalgam",
+      "Kefir",
+      "Turşu"
+    ],
+    "correctAnswer": "Turşu",
+    "tags": [
+      "Traditional Food",
+      "Fermentation Methods"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gh00dqi0c",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Şalgamın ana fermente malzemesi nedir?",
+    "explanation": "Şalgam, şalgam yapraklarının fermente edilmesiyle hazırlanan geleneksel Türk içeceğidir.",
+    "options": [
+      "Peynir",
+      "Havuç",
+      "Fasulye",
+      "Şalgam yaprağı"
+    ],
+    "correctAnswer": "Şalgam yaprağı",
+    "tags": [
+      "Regional Specialty",
+      "Fermentation Ingredients"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n1h6ozsoq",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi fermente bir gıda değildir?",
+    "explanation": "Meyve suyu fermente edilmiş bir gıda değil, meyvelerin sıkılmasıyla elde edilen içecektir.",
+    "options": [
+      "Kefir",
+      "Ayran",
+      "Meyve suyu",
+      "Yogurt"
+    ],
+    "correctAnswer": "Meyve suyu",
+    "tags": [
+      "Fermented Foods",
+      "Misconception Check"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p3jx9l745",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi fermente gıda, mısır ve buğday gibi tahılların mayalanmasıyla üretilir?",
+    "explanation": "Mısır maya, mısır ve buğday gibi tahılların mayalanmasıyla üretilen fermente bir içecektir.",
+    "options": [
+      "Yogurt",
+      "Kimchi",
+      "Mısır maya",
+      "Sourdough ekmek"
+    ],
+    "correctAnswer": "Mısır maya",
+    "tags": [
+      "fermantasyon",
+      "tahıllar",
+      "geleneksel gıdalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vhuo5z44v",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Fermente gıdaların sağlık faydası açısından en önemli özelliği hangisidir?",
+    "explanation": "Fermente gıdalar, sindirim sistemi için yararlı bakteri olan probiyotikler barındırır.",
+    "options": [
+      "Kolesterolü düşürme",
+      "Probiyotik içerme",
+      "Şeker oranını artırma",
+      "Vitamin B12 üretme"
+    ],
+    "correctAnswer": "Probiyotik içerme",
+    "tags": [
+      "sağlık",
+      "probiyotik",
+      "fermantasyon faydaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4bpnhzebr",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi fermente gıda, asitli tadı laktik asit bakterisi ile oluşur?",
+    "explanation": "Sauerkraut (turşu), lahana sebzelerinin laktik asit bakterisiyle fermente edilmesiyle oluşur.",
+    "options": [
+      "Kombucha",
+      "Sauerkraut",
+      "Yogurt",
+      "Miso"
+    ],
+    "correctAnswer": "Sauerkraut",
+    "tags": [
+      "laktik asit",
+      "fermantasyon süreci",
+      "sebzeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rcza6cd4m",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Hangi fermente gıda, soya fasulyesi kullanılarak üretilir?",
+    "explanation": "Miso, soya fasulyesinin mayalanmasıyla elde edilen geleneksel fermente bir pastadır.",
+    "options": [
+      "Yogurt",
+      "Kimchi",
+      "Miso",
+      "Kombucha"
+    ],
+    "correctAnswer": "Miso",
+    "tags": [
+      "soya ürünleri",
+      "fermantasyon",
+      "geleneksel gıdalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "22xgw3a0a",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Fermente gıdaların saklama süresini uzatma özelliği hangi süreçten kaynaklanır?",
+    "explanation": "Fermente gıdalarda asit üretimi, pH düşüşüyle bakteri büyümesini engelleyerek saklama süresini uzatır.",
+    "options": [
+      "Şekerin tüketilmesi",
+      "Asit üretimi",
+      "Protein çökelmesi",
+      "Vitamin azalması"
+    ],
+    "correctAnswer": "Asit üretimi",
+    "tags": [
+      "saklama",
+      "fermantasyon mekanizması",
+      "gıda güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lcbhzs6nq",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Fermente gıdalar ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Fermentasyon, laktik asit bakterileri veya mayalar gibi yararlı mikroorganizmaların gıdaya eklenmesi ve çoğalmasıyla gerçekleşir. Bu süreç sırasında gıdaların korunması ve besleyici değerlerinin artması sağlanır.",
+    "options": [
+      "Fermente gıdaların hepsi yüksek kalori içerir.",
+      "Fermentasyon süreci yararlı bakterilerin çoğalmasını sağlar.",
+      "Tüm fermente gıdalar soğuk iklimde üretilir.",
+      "Fermente gıdalar vitamin içeriği azdır."
+    ],
+    "correctAnswer": "Fermentasyon süreci yararlı bakterilerin çoğalmasını sağlar.",
+    "tags": [
+      "fermantasyon",
+      "bakteriler",
+      "gıda güvenliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "23q5esr9n",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi fermente bir gıdadır?",
+    "explanation": "Yoğurt, sütün laktik asit bakterileri tarafından fermente edilmesiyle elde edilen klasik bir fermente gıdadır. Beyaz peynir de fermente edilmiştir ancak yoğurt daha yaygın bilinen örnektir.",
+    "options": [
+      "Taze salatalık",
+      "Yoğurt",
+      "Süt çorbası",
+      "Beyaz peynir"
+    ],
+    "correctAnswer": "Yoğurt",
+    "tags": [
+      "yoğurt",
+      "fermente gıda",
+      "balkabağı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k9nvdjr55",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermente gıdaların insan sağlığına faydaları nelerdir?",
+    "explanation": "Fermente gıdalar probiyotik içerir, bağırsak florasını destekler, bağışıklık sistemini güçlendirir ve sindirim sağlığını iyileştirir. Vitamin B grubu ve K vitamini içerir.",
+    "options": [
+      "Bağırsak florasını dengelemesi",
+      "Kan şekerini yükseltmesi",
+      "Kemik erimesine neden olması",
+      "Uyku bozukluğuna yol açması"
+    ],
+    "correctAnswer": "Bağırsak florasını dengelemesi",
+    "tags": [
+      "sağlık",
+      "bağırsak florası",
+      "probiyotikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijnfy3ztc",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Kefir ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Kefir, hem laktik asit bakterileri hem de maya mantarları içeren kompleks bir fermente süt ürünüdür. Probiyotik açısından yoğurt ve ayran'a göre daha zengindir.",
+    "options": [
+      "Sadece mayalar içerir",
+      "Laktik asit bakterileri ve mayalar içerir",
+      "Hayvansal kaynaklı değildir",
+      "İçinde şeker bulunmaz"
+    ],
+    "correctAnswer": "Laktik asit bakterileri ve mayalar içerir",
+    "tags": [
+      "kefir",
+      "probiyotik",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4esobs5oo",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Fermentasyon sürecinde hangi vitamin artar?",
+    "explanation": "Fermentasyon sürecinde, özellikle laktik asit bakterileri tarafından Vitamin B grubu vitaminleri (B12, folik asit) artırılır. Bazı fermente gıdalarda B12 içeriği önemli ölçüde yükselir.",
+    "options": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D"
+    ],
+    "correctAnswer": "Vitamin B12",
+    "tags": [
+      "vitaminler",
+      "beslenme",
+      "mikronutrientler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hn3ktf0zx",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Fermente gıdaların en temel özelliklerinden biri nedir?",
+    "explanation": "Fermente gıdalar, süt asidi bakterileri veya maya gibi canlı probiyotik mikroorganizmalar sayesinde üretilir ve sindirim sistemine faydalı etkiler gösterirler.",
+    "options": [
+      "Yüksek sıcaklıkta pişirilmesi",
+      "Probiyotik mikroorganizmalar içerirler",
+      "Tatlandırıcı eklenmesi",
+      "Katkı maddesi kullanılması"
+    ],
+    "correctAnswer": "Probiyotik mikroorganizmalar içerirler",
+    "tags": [
+      "fermantasyon",
+      "probiyotik",
+      "sağlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zkj34ui56",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi fermente bir yiyecektir?",
+    "explanation": "Kombucha, çay ve şekerden yapılan fermente bir içecektir. Taze domates, haşlanmış patates ve salata fermente değildir.",
+    "options": [
+      "Taze domates",
+      "Kecmboça",
+      "Haşlanmış patates",
+      "Sade salata"
+    ],
+    "correctAnswer": "Kecmboça",
+    "tags": [
+      "fermantasyon",
+      "yiyecek",
+      "kombucha"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kbchn7ftq",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Fermentasyon sürecinde en çok hangi mikroorganizmalar rol oynar?",
+    "explanation": "Fermentasyon hem bakteriler (laktik asit bakterileri) hem de mayalar tarafından gerçekleştirilebilir. Örneğin, yoğurtta bakteriler, ekmek ve şarapta mayalar rol alır.",
+    "options": [
+      "Sadece bakteriler",
+      "Bakteri ve maya",
+      "Viral ajanlar",
+      "Parazitler"
+    ],
+    "correctAnswer": "Bakteri ve maya",
+    "tags": [
+      "mikroorganizma",
+      "fermantasyon",
+      "bakteri",
+      "maya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dicnq23ad",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "GENERAL",
+    "question": "Yoğurdun fermantasyon sürecinde hangi bakteri türü en yaygın olarak kullanılır?",
+    "explanation": "Yoğurt, Lactobacillus bulgaricus ve Streptococcus thermophilus bakterilerinin birlikte fermantasyonuyla oluşur. Diğer seçenekler farklı gıdalar veya hastalık yapan mikroorganizmalardır.",
+    "options": [
+      "Escherichia coli",
+      "Lactobacillus bulgaricus ve Streptococcus thermophilus",
+      "Saccharomyces cerevisiae",
+      "Staphylococcus aureus"
+    ],
+    "correctAnswer": "Lactobacillus bulgaricus ve Streptococcus thermophilus",
+    "tags": [
+      "yoğurt",
+      "bakteri",
+      "fermantasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b7uva2ewe",
+    "category": "MUTFAK",
+    "subcategory": "Fermente Gıdalar",
+    "difficulty": "EXPERT",
+    "question": "Fermente gıdaların insan sağlığına faydaları arasında aşağıdakilerden hangisi yer almaz?",
+    "explanation": "Fermente gıdalar bağırsak florasını düzenler, vitamin B içerir ve bağışıklık sistemini destekler. Karbonhidrat emilimini yavaşlatma fermente gıdaların temel özelliği değildir.",
+    "options": [
+      "Bağırsak florasını düzenleme",
+      "Vitamin B grubu içeriğini artırma",
+      "Karbonhidrat emilimini yavaşlatma",
+      "Hastalık yapan bakterilere karşı direnci artırma"
+    ],
+    "correctAnswer": "Karbonhidrat emilimini yavaşlatma",
+    "tags": [
+      "sağlık",
+      "bağırsak",
+      "fermente",
+      "fayda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

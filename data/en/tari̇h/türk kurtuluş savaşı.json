@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "twr37u5sb",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Türk Kurtuluş Savaşı'nın en önemli komutanı kimdir?",
+    "explanation": "Mustafa Kemal Atatürk, Kurtuluş Savaşı'nın en önemli komutanı ve lideri olarak bilinir.",
+    "options": [
+      "Mustafa Kemal Atatürk",
+      "Ali Fethi Okyar",
+      "İsmet İnönü",
+      "Fevzi Çakmak"
+    ],
+    "correctAnswer": "Mustafa Kemal Atatürk",
+    "tags": [
+      "Komutanlar",
+      "Mustafa Kemal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j5qf9uspq",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Türk Kurtuluş Savaşı'nda düşman hangi gücün temsilcisidir?",
+    "explanation": "Türk Kurtuluş Savaşı, İtilaf Devletleri (Birleşik Krallık, Fransa vb.) tarafından desteklenen Osmanlı topraklarının paylaşımına karşı yapıldı.",
+    "options": [
+      "İtilaf Devletleri",
+      "Osmanlı İmparatorluğu",
+      "Balkan Devletleri",
+      "Sovyetler Birliği"
+    ],
+    "correctAnswer": "İtilaf Devletleri",
+    "tags": [
+      "Düşman Güçler",
+      "İtilaf Devletleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "32l5pfnze",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Kuva-yı Milliye'nin kurulduğu yıl hangisidir?",
+    "explanation": "Kuva-yı Milliye, 1919 yılında Mustafa Kemal Atatürk'ün yönlendirmesiyle kuruldu ve Kurtuluş Savaşı'nın temel gücü oldu.",
+    "options": [
+      "1919",
+      "1920",
+      "1921",
+      "1922"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "Kuva-yı Milliye",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxvyjwhxa",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EXPERT",
+    "question": "İngilizlerin Anadolu'dan çekildikleri yıl hangisidir?",
+    "explanation": "İngilizler, Ankara Anlaşması sonrası 1923 yılında Anadolu'dan çekildiler ve Türk Kurtuluş Savaşı'nın son aşamasını işaret ettiler.",
+    "options": [
+      "1921",
+      "1922",
+      "1923",
+      "1924"
+    ],
+    "correctAnswer": "1923",
+    "tags": [
+      "İngiliz Çekilmesi",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2t0ujf4sn",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı'nda düşmanla yapılan ilk anlaşma hangisidir?",
+    "explanation": "Mudanya Ateşkesi, 1922 yılında imzalanan ve Türk Kurtuluş Savaşı'nın sona ermesini sağlayan ilk anlaşmadır.",
+    "options": [
+      "İstanbul Antlaşması",
+      "Mudanya Ateşkesi",
+      "Sèvres Antlaşması",
+      "Ankara Antlaşması"
+    ],
+    "correctAnswer": "Mudanya Ateşkesi",
+    "tags": [
+      "Antlaşmalar",
+      "Mudanya Ateşkesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gz0fw0clr",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Mustafa Kemal Atatürk, Türk Kurtuluş Savaşı'nın hangi yılında Ankara'da kurulan hükümetin başına gelmiştir?",
+    "explanation": "Mustafa Kemal Atatürk, 13 Ekim 1920'de Ankara'da kurulan hükümetin başına gelmiştir. Bu tarih Türk Kurtuluş Savaşı'nın önemli dönüm noktalarından biridir.",
+    "options": [
+      "1919",
+      "1920",
+      "1921",
+      "1922"
+    ],
+    "correctAnswer": "1920",
+    "tags": [
+      "Türk Kurtuluş Savaşı",
+      "Mustafa Kemal Atatürk",
+      "Ankara Hükümeti"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lx0jl4ybf",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı hangi yıl sona ermiş ve Lozan Antlaşması imzalanmıştır?",
+    "explanation": "Türk Kurtuluş Savaşı, 24 Temmuz 1923'te imzalanan Lozan Antlaşması ile resmen sona ermiştir. Bu antlaşma Türkiye'nin uluslararası statüsünü belirlemiştir.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1923",
+    "tags": [
+      "Türk Kurtuluş Savaşı",
+      "Lozan Antlaşması",
+      "Savaşın Sonu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g5pf7kcux",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dumlupınar Zaferi hangi yıl gerçekleşmiş ve Türk Kurtuluş Savaşı'nın en önemli zaferlerinden biridir?",
+    "explanation": "Dumlupınar Zaferi, 30 Ağustos 1921'de gerçekleşmiş ve Türk Kurtuluş Savaşı'nın en önemli zaferlerinden biridir. Bu zaferle Yunan ordusu yenilmiştir.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1921",
+    "tags": [
+      "Türk Kurtuluş Savaşı",
+      "Dumlupınar Zaferi",
+      "Zaferler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ib8cwh0n7",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Türk Kurtuluş Savaşı hangi yıl başlamıştır?",
+    "explanation": "Türk Kurtuluş Savaşı, Mustafa Kemal Atatürk'ün 19 Mayıs 1919'da Samsun'a çıkışıyla başlamıştır. Bu tarih savaşın resmi başlangıcı olarak kabul edilir.",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "Türk Kurtuluş Savaşı",
+      "Savaşın Başlangıcı",
+      "Mustafa Kemal Atatürk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdtzog6ag",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı boyunca hangi şehir Yunanların işgali altında tutulmuş ve en son kurtarılmıştır?",
+    "explanation": "İzmir, Türk Kurtuluş Savaşı boyunca Yunanların işgali altında tutulmuş ve 9 Eylül 1922'de Dumlupınar Zaferi sonrası kurtarılmıştır. Bu şehir savaşın sona ermesinin sembolü olmuştur.",
+    "options": [
+      "Ankara",
+      "İzmir",
+      "Samsun",
+      "Erzurum"
+    ],
+    "correctAnswer": "İzmir",
+    "tags": [
+      "Türk Kurtuluş Savaşı",
+      "İşgal Şehirleri",
+      "Kurtarılan Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d140asiuc",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Türk Kurtuluş Savaşı'nın başladığı tarih hangisidir?",
+    "explanation": "Türk Kurtuluş Savaşı, Mustafa Kemal Atatürk'ün Samsun'a çıkarak başlayarak 19 Mayıs 1919'da resmen başlamıştır.",
+    "options": [
+      "19 Mayıs 1919",
+      "23 Nisan 1920",
+      "30 Ağustos 1922",
+      "11 Ekim 1923"
+    ],
+    "correctAnswer": "19 Mayıs 1919",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Mustafa Kemal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d5cuvipr8",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Başkomutanlık Kanunu'nun kabul edildiği yıl hangisidir?",
+    "explanation": "Sivas Kongresi'nden sonra 19 Mayıs 1920'de Ankara'da toplanan TBMM, Mustafa Kemal'i Başkomutan olarak kabul etmiştir.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1920",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Meclis"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmks7m98n",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Dumlupınar Zaferi hangi tarihte gerçekleşmiştir?",
+    "explanation": "Dumlupınar Zaferi, Türk Kurtuluş Savaşı'nın en önemli zaferlerinden biri olarak 30 Ağustos 1922'de gerçekleşmiştir.",
+    "options": [
+      "30 Ağustos 1922",
+      "26 Ağustos 1922",
+      "15 Ağustos 1922",
+      "20 Ağustos 1922"
+    ],
+    "correctAnswer": "30 Ağustos 1922",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Zaferler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5y79u1dog",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Mondros Mütarekesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Mondros Mütarekesi (1 Kasım 1918) ile Yunan ordusunun Anadolu'ya girmesine ve İngilizlerin bazı bölgeleri işgal etmesine izin verilmiştir.",
+    "options": [
+      "Türk ordusu tamamen yok edilmiştir",
+      "Ankara hükümeti tanınmıştır",
+      "Yunan ordusu Anadolu'ya girmesine izin verilmiştir",
+      "İngilizler Türkiye'nin tamamını işgal etmiştir"
+    ],
+    "correctAnswer": "Yunan ordusu Anadolu'ya girmesine izin verilmiştir",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Mütareke"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "duz0vt1j1",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Kurtuluş Savaşı sırasında kurulan devlet hangisidir?",
+    "explanation": "Kurtuluş Savaşı sırasında Mustafa Kemal Atatürk tarafından Ankara'da kurulan ve savaş sonrası 1923'te resmen ilan edilen devlet Anadolu Cumhuriyeti (sonra Türkiye Cumhuriyeti) olarak kurulmuştur.",
+    "options": [
+      "Ankara Cumhuriyeti",
+      "Türkiye Büyük Millet Meclisi Hükümeti",
+      "İstanbul Hükümeti",
+      "Diyanet İşleri Başkanlığı"
+    ],
+    "correctAnswer": "Ankara Cumhuriyeti",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Devlet Kuruluşu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m7k8rfftu",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Mustafa Kemal Atatürk Kurtuluş Savaşı'nı hangi tarihi ve yerle başlattı?",
+    "explanation": "Mustafa Kemal Atatürk, 19 Mayıs 1919 tarihinde Samsun'a iniş yaparak Kurtuluş Savaşı'nı resmen başlattı. Bu tarih Türk milleti için önemli bir anma günü olarak kabul edilir.",
+    "options": [
+      "19 Mayıs 1919 - Samsun",
+      "23 Nisan 1920 - Ankara",
+      "7 Ağustos 1922 - Dumlupınar",
+      "10 Ağustos 1922 - Sakarya"
+    ],
+    "correctAnswer": "19 Mayıs 1919 - Samsun",
+    "tags": [
+      "Kurtuluş Savaşı",
+      "Mustafa Kemal Atatürk",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2soa1gyav",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Kurtuluş Savaşı'nda Lozan Antlaşması hangi antlaşmanın yerine geçmiştir?",
+    "explanation": "Lozan Antlaşması (1923), Osmanlı'ya ağır şartlar getiren Sevres Antlaşması'nın (1920) yerine geçerek Türkiye'nin toprak bütünlüğünü ve bağımsızlığını garanti altına almıştır.",
+    "options": [
+      "Mondros Ateşkes Anlaşması",
+      "Sevres Antlaşması",
+      "Versay Antlaşması",
+      "Lausanne Barış Antlaşması"
+    ],
+    "correctAnswer": "Sevres Antlaşması",
+    "tags": [
+      "Kurtuluş Savaşı",
+      "Antlaşmalar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z60buodrq",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Kurtuluş Savaşı'nda gerçekleşen en önemli zaferlerden biri olan Dumlupınar Savaşı hangi tarihte olmuştur?",
+    "explanation": "Dumlupınar Zaferi, 30 Ağustos 1922 tarihinde gerçekleşen ve Türk Kurtuluş Savaşı'nın önemli bir dönüm noktası olan zaferdir.",
+    "options": [
+      "30 Ağustos 1922",
+      "13 Ağustos 1922",
+      "25 Ağustos 1922",
+      "1 Eylül 1922"
+    ],
+    "correctAnswer": "30 Ağustos 1922",
+    "tags": [
+      "Kurtuluş Savaşı",
+      "Dumlupınar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4kbg58vs6",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Kurtuluş Savaşı sırasında kurulan geçici hükümet hangi isimle anılmıştır?",
+    "explanation": "Teşkilât-ı Esasıye Heyeti, 19 Mayıs 1919 tarihinde Mustafa Kemal tarafından kurulmuş geçici yönetimsel yapıdır. Daha sonra Erzurum ve Sivas Kongreleri ile TBMM'ye dönüşmüştür.",
+    "options": [
+      "İkinci Meclis Hükümeti",
+      "Teşkilât-ı Esasıye Heyeti",
+      "Ulusal Kuvvetler Komitesi",
+      "Cumhuriyet Hükümeti"
+    ],
+    "correctAnswer": "Teşkilât-ı Esasıye Heyeti",
+    "tags": [
+      "Kurtuluş Savaşı",
+      "Hükümet",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pqb9pb0au",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Kurtuluş Savaşı'nın sona erdiği antlaşma hangi şehirde imzalanmıştır?",
+    "explanation": "Lozan Antlaşması, 10 Ağustos 1923 tarihinde İtalya'nın Lozan şehrinde imzalanmış ve Türk Kurtuluş Savaşı'nın resmen sona erdiğini ifade etmiştir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Lozan",
+      "Samsun"
+    ],
+    "correctAnswer": "Lozan",
+    "tags": [
+      "Kurtuluş Savaşı",
+      "Lozan Antlaşması",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "956jdbcdc",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Mustafa Kemal Paşa Kurtuluş Savaşı'na hangi yılda başlamıştır?",
+    "explanation": "Mustafa Kemal Paşa 4 Mayıs 1919'da Samsun'a çıkarak Kurtuluş Savaşı'nı başlatmıştır.",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "Kurtuluş Savaşı",
+      "Mustafa Kemal",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rk4jxjdsc",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "İzmit Antlaşması hangi yılda imzalanmıştır?",
+    "explanation": "İzmit Antlaşması 14-15 Mayıs 1920'de imzalanmış, Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti tarafından kabul edilmiştir.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1920",
+    "tags": [
+      "Antlaşmalar",
+      "Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y8hrgja11",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı'nda Ermenistan Antlaşması hangi yıl gerçekleşmiştir?",
+    "explanation": "Ermenistan Antlaşması 2 Nisan 1921'de imzalanmıştır.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1921",
+    "tags": [
+      "Antlaşmalar",
+      "Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "slombc7oq",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Türk Kurtuluş Savaşı'nın en önemli antlaşması ve bitiş yılı nedir?",
+    "explanation": "Lozan Antlaşması 24 Temmuz 1923'te imzalanmış, Kurtuluş Savaşı'nın sonuçlandığı ve Türkiye'nin bağımsızlığını uluslararası olarak tanıttığı en önemli antlaşmadır.",
+    "options": [
+      "Mondros - 1918",
+      "Sevr - 1920",
+      "Lozan - 1923",
+      "Nöteborg - 1921"
+    ],
+    "correctAnswer": "Lozan - 1923",
+    "tags": [
+      "Antlaşmalar",
+      "Kurtuluş Savaşı",
+      "Lozan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t6cai9by9",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı'nda Mustafa Kemal Paşa ilk kez hangi yerde toplanmıştır?",
+    "explanation": "Erzurum Kongresi 23 Temmuz - 7 Ağustos 1919'da toplanmış, Kurtuluş Savaşı'nın ilkesel ve idari altyapısını oluşturmuştur.",
+    "options": [
+      "Erzurum",
+      "Sivas",
+      "İstanbul",
+      "Ankara"
+    ],
+    "correctAnswer": "Erzurum",
+    "tags": [
+      "Erzurum Kongresi",
+      "Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e3dvdla6b",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Türk Kurtuluş Savaşı'nın başladığı yıl hangisidir?",
+    "explanation": "Türk Kurtuluş Savaşı, 19 Mayıs 1919'da Mustafa Kemal'in Samsun'a çıkışıyla resmen başlamıştır.",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "tarih",
+      "kurtuluş savaşı",
+      "yıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0d67ix6kk",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Erzurum Kongresi hangi yıl toplanmıştır?",
+    "explanation": "Erzurum Kongresi, 23 Temmuz - 7 Ağustos 1919 tarihleri arasında toplanmış olup Milli Mücadele'nin ilk örgütsel aşamasını temsil etmiştir.",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "tarih",
+      "kurtuluş savaşı",
+      "kongre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iup7g8csn",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Sivas Kongresi'nin amacı aşağıdakilerden hangisidir?",
+    "explanation": "Sivas Kongresi, 9 Eylül - 13 Ekim 1919'da toplanmış ve Milli Birliği tesis etmek amacıyla kurulmuştur.",
+    "options": [
+      "Erzurum Kongresi'ni iptal etmek",
+      "Milli Birliği tesis etmek",
+      "İtilaf Devletleriyle antlaşma yapmak",
+      "Mondros Ateşkes Antlaşması imzalamak"
+    ],
+    "correctAnswer": "Milli Birliği tesis etmek",
+    "tags": [
+      "tarih",
+      "kurtuluş savaşı",
+      "kongre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gcbg5de75",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Türk Kurtuluş Savaşı'nda ilk büyük zafer hangi savaşta kazanılmıştır?",
+    "explanation": "Kocatepe Meydan Muharebesi, 1920'de kazanılmış olup Türk Kurtuluş Savaşı'nda ilk büyük zaferdir.",
+    "options": [
+      "Gelibolu Meydan Muharebesi",
+      "İzmit-Sakarya Savunması",
+      "Kocatepe Meydan Muharebesi",
+      "Büyük Taarruz"
+    ],
+    "correctAnswer": "Kocatepe Meydan Muharebesi",
+    "tags": [
+      "tarih",
+      "kurtuluş savaşı",
+      "savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9nhnh8wh4",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı'nın sona erdiği tarih hangisidir?",
+    "explanation": "Türk Kurtuluş Savaşı, 1 Kasım 1922'de Lozan Antlaşması ile resmen sona ermiş olup, 1 Ağustos 1923'te TBMM'nin Ankara'ya taşınmasıyla tamamlanmıştır.",
+    "options": [
+      "1 Kasım 1922",
+      "1 Ağustos 1923",
+      "29 Ekim 1923",
+      "3 Mart 1924"
+    ],
+    "correctAnswer": "1 Ağustos 1923",
+    "tags": [
+      "tarih",
+      "kurtuluş savaşı",
+      "yıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "apmuco2sd",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Mustafa Kemal Paşa Samsun'a ne zaman çıktı?",
+    "explanation": "Mustafa Kemal Paşa, Kurtuluş Savaşı'nın başlaması ve Milli Mücadele'nin ilk adımı olarak 15 Mayıs 1919'da Samsun'a çıktı.",
+    "options": [
+      "14 Mayıs 1919",
+      "15 Mayıs 1919",
+      "23 Nisan 1919",
+      "1 Ekim 1919"
+    ],
+    "correctAnswer": "15 Mayıs 1919",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Mustafa Kemal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "umv6ghen8",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "TBMM ilk kez hangi tarihte açıldı?",
+    "explanation": "Genel Kurumlar Meclisi (TBMM), Kuvayı Milliye tarafından oluşturulmuş ve 23 Nisan 1920 tarihinde Ankara'da ilk kez açılarak yönetimi devralmıştır.",
+    "options": [
+      "14 Mayıs 1919",
+      "23 Nisan 1920",
+      "1 Eylül 1921",
+      "10 Temmuz 1923"
+    ],
+    "correctAnswer": "23 Nisan 1920",
+    "tags": [
+      "Tarih",
+      "TBMM",
+      "Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "29upcn9jk",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Mudanya Ateşkes Antlaşması ne zaman imzalandı?",
+    "explanation": "Mudanya Ateşkes Antlaşması, Kurtuluş Savaşı'nın askeri olarak sonlanmasına neden olmuş ve 3 Ekim 1922 tarihinde İsmet Paşa tarafından imzalanmıştır.",
+    "options": [
+      "3 Ekim 1922",
+      "14 Mart 1919",
+      "23 Ağustos 1922",
+      "10 Temmuz 1923"
+    ],
+    "correctAnswer": "3 Ekim 1922",
+    "tags": [
+      "Tarih",
+      "Mudanya",
+      "Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r2d7o0xpx",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Dumlupınar Zaferi hangi tarihte gerçekleşti?",
+    "explanation": "Dumlupınar Zaferi, Yunan ordusuna karşı kazanılan son büyük zaferdir ve 30 Ağustos 1922 tarihinde Eskişehir civarında gerçekleşmiştir.",
+    "options": [
+      "26 Ağustos 1922",
+      "30 Ağustos 1922",
+      "1 Eylül 1922",
+      "10 Ekim 1922"
+    ],
+    "correctAnswer": "30 Ağustos 1922",
+    "tags": [
+      "Tarih",
+      "Dumlupınar",
+      "Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y5varfr4h",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EXPERT",
+    "question": "Lozan Antlaşması imza tarihi nedir?",
+    "explanation": "Lozan Antlaşması, Türkiye'nin bağımsızlığını uluslararası antlaşmalarla tanımlayan ve 10 Temmuz 1923 tarihinde İsviçre'de imzalanmıştır.",
+    "options": [
+      "1 Temmuz 1923",
+      "10 Temmuz 1923",
+      "24 Temmuz 1923",
+      "28 Temmuz 1923"
+    ],
+    "correctAnswer": "10 Temmuz 1923",
+    "tags": [
+      "Tarih",
+      "Lozan",
+      "Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o3goegoaw",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Türk Kurtuluş Savaşı'nın başlaması hangi tarih ile ilişkilendirilir?",
+    "explanation": "Mustafa Kemal Paşa, 19 Mayıs 1919'da Çanakkale'ye gelerek Ermenistan işgali ve Selanik'te TBMM'yi kurarak Kurtuluş Savaşı'nı başlatmıştır.",
+    "options": [
+      "19 Mayıs 1919",
+      "23 Nisan 1920",
+      "19 Ağustos 1920",
+      "11 Kasım 1922"
+    ],
+    "correctAnswer": "19 Mayıs 1919",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Başlangıç Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z1khoik24",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı sonunda imzalanan ve kabul edilmediği için 'Savaşın' adı verilen antlaşma hangisidir?",
+    "explanation": "8 Ağustos 1920'de imzalanan Sevr Antlaşması, Türk milletine kabul edilemez şartlar sunduğu için 'Sevriye' veya 'Savaşın' adı verildi ve TBMM tarafından reddedildi.",
+    "options": [
+      "Versay Antlaşması",
+      "Lozan Antlaşması",
+      "Mudanya Mütarekesi",
+      "Sevr Antlaşması"
+    ],
+    "correctAnswer": "Sevr Antlaşması",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Antlaşmalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k0jgluaoj",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı'nın en önemli zaferlerinden biri olan Dumlupınar Savaşı hangi tarih gerçekleşmiştir?",
+    "explanation": "30 Ağustos 1922'de kazanılan Dumlupınar (Sakarya) Zaferi, Kurtuluş Savaşı'nın en önemli zaferlerinden biri olup TBMM'ye büyük moral verdi.",
+    "options": [
+      "26 Ağustos 1920",
+      "30 Ağustos 1922",
+      "13 Nisan 1921",
+      "11 Kasım 1922"
+    ],
+    "correctAnswer": "30 Ağustos 1922",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Dumlupınar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jmq88qsai",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Türk Kurtuluş Savaşı sırasında Ermenistan işgali ve Selanik'te TBMM'nin açılması hangi yıl gerçekleşmiştir?",
+    "explanation": "Mustafa Kemal Paşa, 19 Mayıs 1919'da Ermenistan işgali sırasında Selanik'te TBMM'nin açılmasını sağlamış ve Kurtuluş Savaşı'na başlamıştır.",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Selanik-TBMM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8luyz52rx",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı sonunda imzalanan Lozan Antlaşması hangi yıl gerçekleşmiştir?",
+    "explanation": "10 Ağustos 1923'te imzalanan Lozan Antlaşması, Türk Kurtuluş Savaşı'nın sonucunu resmileştirmiş ve Türkiye Büyük Millet Meclisi tarafından onaylanmıştır.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1923",
+    "tags": [
+      "Tarih",
+      "Kurtuluş Savaşı",
+      "Lozan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hqb3l1u80",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Grand Ulusal Meclis'in Ankara'da bağımsızlık ilanı yaptığı tarih aşağıdakilerden hangisidir?",
+    "explanation": "Grand Ulusal Meclis, 23 Nisan 1920'de Ankara'da bağımsızlığı ilan etmiştir. Bu tarih, Türk Kurtuluş Savaşı'nın önemli kilometre taşlarından biridir.",
+    "options": [
+      "23 Nisan 1920",
+      "1 Kasım 1920",
+      "5 Temmuz 1920",
+      "9 Eylül 1920"
+    ],
+    "correctAnswer": "23 Nisan 1920",
+    "tags": [
+      "tarihler",
+      "bağımsızlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5oewq4vi",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Sakarya Meydan Muharebesi hangi yıl gerçekleşmiştir?",
+    "explanation": "Sakarya Meydan Muharebesi, Yunan ordusuna karşı Türk Kurtuluş Savaşı'nın dönüm noktası olan 1921 yılında gerçekleşmiştir. Bu savaş, Ankara hükümetinin zaferini sağlamıştır.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1921",
+    "tags": [
+      "meydan muharebeleri",
+      "yıllar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dhl0n8zy9",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Lozan Antlaşması hangi tarihte imzalanmıştır?",
+    "explanation": "Lozan Antlaşması, Türk Kurtuluş Savaşı'nın sonucunda imzalanan ve Türkiye'nin bağımsızlığını tanıyan antlaşma olan 24 Temmuz 1923'te imzalanmıştır.",
+    "options": [
+      "24 Temmuz 1923",
+      "3 Mart 1923",
+      "10 Ekim 1923",
+      "31 Aralık 1923"
+    ],
+    "correctAnswer": "24 Temmuz 1923",
+    "tags": [
+      "antlaşmalar",
+      "tarihler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jd3hwmu2l",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "EASY",
+    "question": "Dumlupinar Meydan Muharebesi hangi yıl gerçekleşmiştir?",
+    "explanation": "Dumlupinar Meydan Muharebesi, Büyük Taarruz'un ardından kazanılan ve Ankara hükümetinin zaferini pekiştiren 1922 yılında gerçekleşmiştir.",
+    "options": [
+      "1921",
+      "1922",
+      "1923",
+      "1924"
+    ],
+    "correctAnswer": "1922",
+    "tags": [
+      "meydan muharebeleri",
+      "yıllar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d350sbop7",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Mustafa Kemal Atatürk Grand Ulusal Meclis'in ilk başkanı hangi yıl seçilmiştir?",
+    "explanation": "Mustafa Kemal Atatürk, Grand Ulusal Meclis'in ilk başkanı olarak 1920 yılında seçilmiştir. Bu seçim, Kurtuluş Savaşı'nın liderliğini sağlamıştır.",
+    "options": [
+      "1920",
+      "1921",
+      "1923",
+      "1924"
+    ],
+    "correctAnswer": "1920",
+    "tags": [
+      "figürler",
+      "yıllar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qlylmdhbp",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "İstanbul'un fethinden sonra Türk Kurtuluş Savaşı'nın ilk büyük zaferi hangi savaşla elde edildi?",
+    "explanation": "Gelibolu Savaşı, Osmanlı'nın İstanbul'unun fethinden sonra elde ettiği ilk büyük zaferlerden biri olmuştur. Türk Kurtuluş Savaşı'nın önemli dönüm noktalarından biridir.",
+    "options": [
+      "Saruhanlı Savaşı",
+      "Gelibolu Savaşı",
+      "Mugla Savaşı",
+      "Kütahya-Eskişehir Savaşı"
+    ],
+    "correctAnswer": "Gelibolu Savaşı",
+    "tags": [
+      "Türk Kurtuluş Savaşı",
+      "Savaşlar",
+      "Zaferler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gpsse2n6d",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı'nda Lozan Antlaşması hangi yıl imzalandı?",
+    "explanation": "Lozan Antlaşması 10 Ağustos 1923 tarihinde imzalandı. Bu antlaşma Türk Kurtuluş Savaşı'nın sona ermesini ve Türkiye'nin uluslararası statüsünü belirlemiştir.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1923",
+    "tags": [
+      "Lozan Antlaşması",
+      "Antlaşmalar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zjlovh9o2",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı'nda Mustafa Kemal Paşa hangi şehirde TBMM'yi kurmuştur?",
+    "explanation": "19 Mayıs 1919'da Mustafa Kemal Paşa Sivas'tan hareket ederek TBMM'yi kurdu. Sivas Kongresi Türk Kurtuluş Savaşı'nın önemli karar alma merkezlerinden biridir.",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "Sivas",
+      "Erzurum"
+    ],
+    "correctAnswer": "Sivas",
+    "tags": [
+      "TBMM",
+      "Mustafa Kemal",
+      "Kuruluş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ms0zahmtu",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı sırasında Erzurum Kongresi hangi yıl yapıldı?",
+    "explanation": "Erzurum Kongresi 23-29 Temmuz 1919 tarihleri arasında yapıldı. Bu kongrede Kurtuluş Savaşı'nın ilk kararları alınmış ve Anadolu'daki direniş birleştirilmiştir.",
+    "options": [
+      "1918",
+      "1919",
+      "1920",
+      "1921"
+    ],
+    "correctAnswer": "1919",
+    "tags": [
+      "Erzurum Kongresi",
+      "Kongreler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oac288w6p",
+    "category": "TARİH",
+    "subcategory": "Türk Kurtuluş Savaşı",
+    "difficulty": "GENERAL",
+    "question": "Türk Kurtuluş Savaşı'nda Kars Antlaşması hangi yıl imzalandı?",
+    "explanation": "Kars Antlaşması 4 Aralık 1921 tarihinde imzalandı. Bu antlaşma ile Kars, Ardahan ve Batum'ın bağımsızlık talepleri kabul edildi.",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "correctAnswer": "1921",
+    "tags": [
+      "Kars Antlaşması",
+      "Antlaşmalar",
+      "Türk Kurtuluş Savaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

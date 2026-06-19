@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "xqhcqsxyu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe 'hygge' kavramı hangi ülkenin geleneksel yaşam tarzına özgüdür?",
+    "explanation": "Hygge, Danimarkalıların rahat ve keyifli anlar geçirmelerini sağlayan geleneksel yaşam tarzı kavramıdır. Isıtmalı iç mekanlar, samiyi sosyalleşme ve huzurlu anlar anlamına gelir.",
+    "options": [
+      "Norveç",
+      "Finlandiya",
+      "Danimarka",
+      "İsveç"
+    ],
+    "correctAnswer": "Danimarka",
+    "tags": [
+      "Kültür",
+      "Yaşam Tarzı",
+      "İskandinav"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g208w40fy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinde 'lagom' kelimesi hangi ülkenin felsefesini temsil eder?",
+    "explanation": "Lagom, İsveç felsefesidir ve 'tamamen yeterli' veya 'denge' anlamına gelir. Az çokta yaşamayı, israf olmamayı ve ortalamanın üstünde olmamayı ifade eder.",
+    "options": [
+      "Norveç",
+      "İsveç",
+      "Finlandiya",
+      "Danimarka"
+    ],
+    "correctAnswer": "İsveç",
+    "tags": [
+      "Kültür",
+      "Felsefe",
+      "Yaşam Tarzı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a5witgg78",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe karışık yemekler ve baharat kullanımı hangi ülkenin mutfak geleneğine aittir?",
+    "explanation": "İsveç mutfakta karışık yemekler ve baharat kullanımıyla bilinir. Fincandery (fincan) gibi geleneksel tatlarda farklı malzemeler bir arada bulunur.",
+    "options": [
+      "Norveç",
+      "Finlandiya",
+      "İsveç",
+      "Danimarka"
+    ],
+    "correctAnswer": "İsveç",
+    "tags": [
+      "Mutfak",
+      "Kültür",
+      "Yemek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cv41mbxq2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinde 'sisu' kavramı hangi ülkenin yaşam felsefesini tanımlar?",
+    "explanation": "Sisu, Finlandiya yaşam felsefesidir ve 'direnç' veya 'azim' anlamına gelir. Zorluklara karşı sabırla mücadele etmeyi ifade eder.",
+    "options": [
+      "Norveç",
+      "Finlandiya",
+      "İsveç",
+      "Danimarka"
+    ],
+    "correctAnswer": "Finlandiya",
+    "tags": [
+      "Kültür",
+      "Felsefe",
+      "Yaşam Tarzı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q2wzrv0xw",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe 'fika' geleneği hangi ülkenin kahve kültürüne özgüdür?",
+    "explanation": "Fika, İsveç kahve kültürünün merkezindedir. Kahve içilen kısa molalar ve sosyalleşme anları anlamına gelir. Gün içinde birden fazla kez yapılır.",
+    "options": [
+      "Norveç",
+      "Finlandiya",
+      "İsveç",
+      "Danimarka"
+    ],
+    "correctAnswer": "İsveç",
+    "tags": [
+      "Kültür",
+      "Kahve",
+      "Yaşam Tarzı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n35biocnb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe 'Fika' neyi ifade eder?",
+    "explanation": "Fika, İsveç kültüründe önemli bir kavram olup kahve (veya çay) içmek ve tatlıyla birlikte sohbet etmek anlamına gelir. Bu gelenek iş yerlerinde ve evlerde günlük hayatın parçasıdır.",
+    "options": [
+      "A) Günlük iş toplantısı",
+      "B) Kahve ve tatlı molası",
+      "C) Öğle yemeği ritüeli",
+      "D) Akşam yürüyüş geleneği"
+    ],
+    "correctAnswer": "B) Kahve ve tatlı molası",
+    "tags": [
+      "iskandinav",
+      "kültür",
+      "fika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vfce0568j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "İskandinav ülkelerinden hangisi İskandinavya coğrafi tanımına dahil değildir?",
+    "explanation": "İskandinavya genellikle Norveç, İsveç ve Finlandiya'yı içerir. Danimarka ise 'Danimark' olarak bilinir ve İskandinavya tanımına resmi olarak dahil değildir.",
+    "options": [
+      "A) Norveç",
+      "B) İsveç",
+      "C) Finlandiya",
+      "D) Danimarka"
+    ],
+    "correctAnswer": "D) Danimarka",
+    "tags": [
+      "iskandinav",
+      "coğrafya",
+      "ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aoujzjvxz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İskandinav mutfak kültürünün en bilinen yemeklerinden hangisidir?",
+    "explanation": "Fårikål, Norveç'in ulusal yemeği olarak bilinir; kuzu eti ve lahana ile yapılan geleneksel bir yemekdir. İskandinav mutfak kültürünün önemli parçasıdır.",
+    "options": [
+      "A) Lahmacun",
+      "B) Köfte",
+      "C) İskandinav köftesi (Fårikål)",
+      "D) Simit"
+    ],
+    "correctAnswer": "C) İskandinav köftesi (Fårikål)",
+    "tags": [
+      "iskandinav",
+      "mutfak",
+      "yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cow6m1bwm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe 'Lagom' kavramı neyi ifade eder?",
+    "explanation": "Lagom, İsveç kültüründe 'çok fazla değil, çok az da değil' anlamına gelir. Dengeli yaşam tarzı ve sürdürülebilir tüketimi ifade eder.",
+    "options": [
+      "A) Zengin olmak",
+      "B) Az ve çok arası dengeli",
+      "C) Hızlı yaşamak",
+      "D) Rekabetçi olmak"
+    ],
+    "correctAnswer": "B) Az ve çok arası dengeli",
+    "tags": [
+      "iskandinav",
+      "değerler",
+      "lagom"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37003l3x5",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinin ortak özelliği hangisidir?",
+    "explanation": "İskandinav ülkeleri (Norveç, İsveç, Finlandiya, Danimarka) yüksek sosyal güvenlik sistemleri ve refah devleti modelleriyle bilinir. Bu, bölgenin temel ortak değerlerinden biridir.",
+    "options": [
+      "A) Yüksek nüfus yoğunluğu",
+      "B) Sosyal güvenlik sistemi",
+      "C) Tropikal iklim",
+      "D) Aşırı rekabetçi pazar"
+    ],
+    "correctAnswer": "B) Sosyal güvenlik sistemi",
+    "tags": [
+      "iskandinav",
+      "sosyal",
+      "değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qfp6mqf28",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "What traditional Swedish dish often includes meatballs served with creamy sauce, mashed potatoes, and lingonberry jam?",
+    "explanation": "Köttbullar, or Swedish meatballs, are a classic dish typically served with lingonberry jam and mashed potatoes.",
+    "options": [
+      "A. Fika",
+      "B. Köttbullar",
+      "C. Smörgåsbord",
+      "D. Lutefisk"
+    ],
+    "correctAnswer": "B. Köttbullar",
+    "tags": [
+      "food",
+      "Swedish culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a7zxa5skl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Which term describes the Scandinavian concept of balance and moderation in lifestyle?",
+    "explanation": "Lagom is a Swedish word meaning 'just enough' or balance, reflecting moderation in daily life.",
+    "options": [
+      "A. Fika",
+      "B. Lagom",
+      "C. Janteloven",
+      "D. Midsummer"
+    ],
+    "correctAnswer": "B. Lagom",
+    "tags": [
+      "social values",
+      "Swedish culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xhzf1ksoq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "In Scandinavian countries, what holiday celebrates summer with flowers and bonfires?",
+    "explanation": "Midsummer is a major celebration marked by decorating with flowers and lighting bonfires.",
+    "options": [
+      "A. Christmas",
+      "B. Easter",
+      "C. Midsummer",
+      "D. New Year"
+    ],
+    "correctAnswer": "C. Midsummer",
+    "tags": [
+      "tradition",
+      "holidays"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "reqf7r96i",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Which Scandinavian country uses Danish as its official language but shares cultural similarities?",
+    "explanation": "Denmark speaks Danish, while neighboring countries like Sweden and Norway have distinct languages but shared cultural traits.",
+    "options": [
+      "A. Norway",
+      "B. Sweden",
+      "C. Denmark",
+      "D. Iceland"
+    ],
+    "correctAnswer": "C. Denmark",
+    "tags": [
+      "language",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "owbdw6zrt",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "What is 'Fika' in Scandinavian culture?",
+    "explanation": "Fika is a cherished tradition of taking time for coffee and a pastry, promoting social connection.",
+    "options": [
+      "A. A coffee break with pastries",
+      "B. A winter festival",
+      "C. Traditional fish dish",
+      "D. Language class"
+    ],
+    "correctAnswer": "A. A coffee break with pastries",
+    "tags": [
+      "lifestyle",
+      "Swedish culture"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rykwzgmad",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe 'Hygge' kavramı ne ifade eder?",
+    "explanation": "Hygge, Danimarka kökenli bir kavram olup konfor, sıcaklık ve huzuru ifade eder. Çanek, mum ışığı, rahat kıyafetler ve sevdikleriyle vakit geçirmek gibi aktivitelerle yakından ilişkilidir.",
+    "options": [
+      "Sosyal medyada aktif olmak",
+      "Konforlu, sıcak ve huzurlu bir yaşam tarzı",
+      "Şehirlerde hızlı hareket etmek",
+      "Doğada yalnız kalmak"
+    ],
+    "correctAnswer": "Konforlu, sıcak ve huzurlu bir yaşam tarzı",
+    "tags": [
+      "Yaşam Tarzı",
+      "İskandinav Kültürü",
+      "Duygusal Zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sdtxb3cgx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinde eğitim sistemi neye vurgu yapar?",
+    "explanation": "İskandinav eğitim sistemi öğrencileri merkeze alır, pratik beceriler, eleştirel düşünme ve işbirlikçi öğrenmeyi teşvik eder. Standartlaşmış sınavlardan çok yaratıcılığı destekler.",
+    "options": [
+      "Sınav odaklı başarı",
+      "Öğrenci merkezi öğrenme ve pratik beceriler",
+      "Hafıza temalı ders çalışma",
+      "Teorik bilgi ağırlıklı eğitim"
+    ],
+    "correctAnswer": "Öğrenci merkezi öğrenme ve pratik beceriler",
+    "tags": [
+      "Eğitim",
+      "İskandinav Kültürü",
+      "Pedagoji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0s2p8v7p9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İskandinav kültüründe 'Lagom' kavramı hangi ülkeye ait bir anlayıştır?",
+    "explanation": "Lagom, İsveç kökenli bir kavram olup 'fazla değil, az da değil' veya 'orta yol' anlamına gelir. Dengeli yaşam, tutumlu tüketim ve aşırılıktan kaçınmayı ifade eder.",
+    "options": [
+      "Norveç",
+      "İsveç",
+      "Finlandiya",
+      "Danimarka"
+    ],
+    "correctAnswer": "İsveç",
+    "tags": [
+      "Kültürel Kavramlar",
+      "İskandinav Kültürü",
+      "Duygusal Zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hi48srbn0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinde çalışma saatleri genellikle nasıl karakterize edilir?",
+    "explanation": "İskandinav ülkelerinde çalışma kültürü esneklik ve iş-yaşam dengesine vurgu yapar. Çalışanların kişisel zamanlarını korumasına izin veren politika uygulanır.",
+    "options": [
+      "Çok uzun ve yoğun",
+      "Esnek ve dengeye odaklı",
+      "Sabit ve katı",
+      "Azami verimlilik odaklı"
+    ],
+    "correctAnswer": "Esnek ve dengeye odaklı",
+    "tags": [
+      "İş Kültürü",
+      "İskandinav Kültürü",
+      "Yaşam Tarzı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qixu0lubc",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Finlandiya'daki 'Sisu' kavramı neyi temsil eder?",
+    "explanation": "Sisu, Finlandiya kökenli bir kavram olup zorluklara karşı gösterilen direnç, azim ve içsel güç anlamına gelir. Kış koşullarında hayatta kalmak gibi zorlu ortamlarda bu özelliğin önemini vurgular.",
+    "options": [
+      "Zayıflık ve teslimiyet",
+      "İrade, direnç ve azim",
+      "Maddi zenginlik",
+      "Toplumsal statü"
+    ],
+    "correctAnswer": "İrade, direnç ve azim",
+    "tags": [
+      "Kültürel Kavramlar",
+      "Finlandiya Kültürü",
+      "Duygusal Zeka"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uies6u4ta",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe yerel halk olarak yaşayan Sami insanları hangi coğrafi bölgede yaşamaktadır?",
+    "explanation": "Sami halkı İskandinav yarımadasının kuzeyinde Norveç, İsveç, Finlandiya ve Rusya'nın Kuzeydoğu bölgelerinde yaşayan yerli topluluktur.",
+    "options": [
+      "Danimarka ve İsveç",
+      "Norveç, İsveç, Finlandiya ve Rusya'nın Kuzeydoğu bölgeleri",
+      "Sverige ve Norveç'in güney kesimleri",
+      "Finlandiya ve Danimarka"
+    ],
+    "correctAnswer": "Norveç, İsveç, Finlandiya ve Rusya'nın Kuzeydoğu bölgeleri",
+    "tags": [
+      "İskandinav Kültürü",
+      "Sami",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rzc253ujs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinin resmi bayrakları arasında hangisi bulunmaz?",
+    "explanation": "Sami bir yerli halktır ve kendi bayrağı olsa da İskandinav bayrakları resmi devlet bayraklarına aittir. Sami Bayrağı resmi İskandinav bayrakları arasında değildir.",
+    "options": [
+      "Norveç Bayrağı",
+      "Sami Bayrağı (yerel halk)",
+      "İsveç Bayrağı",
+      "Finlandiya Bayrağı"
+    ],
+    "correctAnswer": "Sami Bayrağı (yerel halk)",
+    "tags": [
+      "İskandinav Kültürü",
+      "Bayraklar",
+      "Halk Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "slvsry8x8",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe 'hygge' benzeri kavram olarak hangi değer ifade edilir?",
+    "explanation": "Lagom İsveç kültüründe 'çok değil, az değil, tam o kadar' anlamına gelir ve dengeli yaşam felsefesini ifade eder.",
+    "options": [
+      "Çok çalışmak",
+      "Dengeli yaşam (lagom)",
+      "Şehirden kaçış",
+      "Zenginleşmek"
+    ],
+    "correctAnswer": "Dengeli yaşam (lagom)",
+    "tags": [
+      "İskandinav Kültürü",
+      "Değerler",
+      "Yaşam Tarzı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c26o4og0t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İskandinav ülkelerinin tamamında hangi dil ailesi konuşulur?",
+    "explanation": "İsveççe, Danca ve Norveççe Germanik dil ailesine aittir. Sami dilleri ise Ural ailesine bağlıdır.",
+    "options": [
+      "Romance Dilleri",
+      "Slavyan Dilleri",
+      "Germanik Dilleri",
+      "Sami Dilleri"
+    ],
+    "correctAnswer": "Germanik Dilleri",
+    "tags": [
+      "İskandinav Kültürü",
+      "Dilbilim",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9jxqwz7f6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe 'Jul' hangi festivale atıfta bulunur?",
+    "explanation": "İsveç'te 'Jul' Kış Bayramını ifade eder ve Noel dönemindeki gelenekleri kapsar.",
+    "options": [
+      "Yaz Bayramı",
+      "Bayram (Kış/Karşılıklı)",
+      "Haçlı Seferi",
+      "Sami Festivali"
+    ],
+    "correctAnswer": "Bayram (Kış/Karşılıklı)",
+    "tags": [
+      "İskandinav Kültürü",
+      "Jul",
+      "Festivaller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xir73bsc9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Skandinav kültürünün temelini oluşturan hangi değer en çok vurgulanır?",
+    "explanation": "Skandinav kültüründe eşitlik, adalet ve sosyal güvenlik en temel değerlerden biridir.",
+    "options": [
+      "Zenginlik",
+      "Eşitlik",
+      "Güç",
+      "Din"
+    ],
+    "correctAnswer": "Eşitlik",
+    "tags": [
+      "skandinav",
+      "değerler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15azz2yj4",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İsveç'in ulusal şarkısı ne adla bilinir?",
+    "explanation": "\"Du gamla du fria\" İsveç'in en bilinen ulusal marşıdır ve özgürlük temasını içerir.",
+    "options": [
+      "Visa avlof",
+      "Sverige lilla",
+      "Du gamla du fria",
+      "Kungliga sång"
+    ],
+    "correctAnswer": "Du gamla du fria",
+    "tags": [
+      "isveç",
+      "müzik",
+      "ulusal şarkı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ayu2gnwi",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Norveç'te hangi festival kış aylarında kutlanır?",
+    "explanation": "Norveç'te Yule (Noel) festivali kış aylarında kutlanır ve geleneksel olarak aile toplanmalarıyla yapılır.",
+    "options": [
+      "Midsommar",
+      "Yule Festivali",
+      "Midnight Sun",
+      "Valentine"
+    ],
+    "correctAnswer": "Yule Festivali",
+    "tags": [
+      "norveç",
+      "festival",
+      "kış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7tddixxk9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Finlandiya'nın ulusal hayvanı nedir?",
+    "explanation": "Finlandiya'da geyik (elk) ulusal hayvan olarak kabul edilir ve doğadaki önemli bir yer tutar.",
+    "options": [
+      "Kurt",
+      "Ayı",
+      "Geyik",
+      "Tavşan"
+    ],
+    "correctAnswer": "Geyik",
+    "tags": [
+      "finlandiya",
+      "hayvanlar",
+      "ulusal sembol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "acakvn0ex",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "Danimarka'nın başkenti neresidir?",
+    "explanation": "Danimarka'nın başkenti Kopenhag'dır ve ülkenin en büyük şehridir.",
+    "options": [
+      "Oslo",
+      "Stockholm",
+      "Kopenhag",
+      "Helsinki"
+    ],
+    "correctAnswer": "Kopenhag",
+    "tags": [
+      "danimarka",
+      "başkent",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y2mptq0kp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav Kültürü'nde 'Hygge' kavramı hangi ülkenin kültüründe daha yaygın olarak görülür?",
+    "explanation": "Hygge, Danimarka kültüründe yaygın olarak kullanılan bir kavram olup rahat, sıcak ve huzurlu ev ortamını ifade eder. Norveç'te 'koselig', İsveç'te 'mysig' benzeri kavramlar bulunur.",
+    "options": [
+      "Norveç",
+      "Danimarka",
+      "İsveç",
+      "Finlandiya"
+    ],
+    "correctAnswer": "Danimarka",
+    "tags": [
+      "kültür",
+      "danimarka",
+      "yaşam-birliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p2p5m81th",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinin çoğunda hangi bayram 1 Aralık günü kutlanır?",
+    "explanation": "İskandinav ülkelerinin çoğunda 1 Aralık Yılbaşı olarak kutlanır ve Noel'den önceki önemli bir tatil günüdür. Finlandiya'da Sinterklaas farklı zamanlarda, İsveç'te Midvinterblot ise daha eski geleneklerdir.",
+    "options": [
+      "Noel",
+      "Yılbaşı",
+      "Sinterklaas",
+      "Midnight Sun"
+    ],
+    "correctAnswer": "Yılbaşı",
+    "tags": [
+      "bayram",
+      "kültür",
+      "iskandinav"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ouhq3cfcu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav Kültürü'nde 'lagom' ifadesi neyi temsil eder?",
+    "explanation": "Lagom, İsveç kültüründe 'ne kadar çok, tam o kadar iyi' anlamına gelir. Dengeli tüketim, az ve yeti prensibini temsil eder.",
+    "options": [
+      "Aşırı tüketim",
+      "Dengeli ve ılımlı yaşam",
+      "Zenginlik",
+      "Bağımsızlık"
+    ],
+    "correctAnswer": "Dengeli ve ılımlı yaşam",
+    "tags": [
+      "kültür",
+      "isveç",
+      "yaşam-felsefesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4m7pzjbzp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İskandinav ülkelerinin çoğunda hangi dil ailesine mensuptur?",
+    "explanation": "İskandinav ülkeleri (Norveç, Danimarka, İsveç, Finlandiya) genel olarak Germanik dil ailesine mensuptur. Finlandiya hariç diğerlerinin hepsi Germanik kökenlidir.",
+    "options": [
+      "Romans Dili",
+      "Germanik Dili",
+      "Slavyan Dili",
+      "Hind-Avrupa"
+    ],
+    "correctAnswer": "Germanik Dili",
+    "tags": [
+      "dil",
+      "kültür",
+      "iskandinav"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rmbh384l8",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İskandinav Kültürü'nde 'Sisu' kavramı hangi ülkenin halk arasında en çok konuşulan özelliğidir?",
+    "explanation": "Sisu, Finlandiya kültüründe en sık kullanılan kavramlardan biridir. Direnç, azim ve zorluklarla başa çıkma yeteneğini ifade eder.",
+    "options": [
+      "Norveç",
+      "Danimarka",
+      "İsveç",
+      "Finlandiya"
+    ],
+    "correctAnswer": "Finlandiya",
+    "tags": [
+      "kültür",
+      "finlandiya",
+      "yaşam-özelliği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g0s6vd2cd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav Kültüründe 'Hygge' kavramı neyi ifade eder?",
+    "explanation": "Hygge, İskandinav kültüründe konforlu, sıcak ve huzurlu ev ortamını ifade eden bir kavramdır. Özellikle kış aylarında aile ile geçirilen keyifli anları vurgular.",
+    "options": [
+      "Sosyal sorumluluk bilinci",
+      "Konforlu ve rahat ev ortamı ile huzur",
+      "Doğa ile yapılan spor aktiviteleri",
+      "Geleneksel müzik türü"
+    ],
+    "correctAnswer": "Konforlu ve rahat ev ortamı ile huzur",
+    "tags": [
+      "Kültür",
+      "İskandinav",
+      "Yaşam Tarzı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8dk88avvx",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "İskandinavya'nın coğrafi konumu hangi bölgededir?",
+    "explanation": "İskandinav yarımadası, Norveç, İsveç ve Danimarka ülkelerini kapsayan Kuzey Avrupa'da yer alır. Bu bölge soğuk iklime sahiptir.",
+    "options": [
+      "Akdeniz Bölgesi",
+      "Karadeniz Bölgesi",
+      "Kuzey Avrupa (Skandinaviya Yarımadası)",
+      "Orta Asya"
+    ],
+    "correctAnswer": "Kuzey Avrupa (Skandinaviya Yarımadası)",
+    "tags": [
+      "Coğrafya",
+      "İskandinav",
+      "Konum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9msvjiplg",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe geleneksel olarak hangi yemek tüketilir?",
+    "explanation": "İskandinav mutfu genellikle jambon, peynir, ekmek gibi basit ve doğal gıdaları içerir. Ayrıca balık da yaygın bir tüketimdir.",
+    "options": [
+      "Pilav ve baklava",
+      "Salata ve makarna",
+      "Sucuklu menemen",
+      "Jambon, peynir ve ekmek"
+    ],
+    "correctAnswer": "Jambon, peynir ve ekmek",
+    "tags": [
+      "Mutfak",
+      "İskandinav",
+      "Geleneksel Yemekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2q9l4fwni",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "İskandinav ülkelerinde hangi dil ağırlıklı konuşulur?",
+    "explanation": "İskandinav ülkelerinde İsveççe, Norveççe, Danca gibi Kuzey dilleri konuşulur. Bu diller Almanca ile akrabadır.",
+    "options": [
+      "Türkçe",
+      "İngilizce",
+      "İsveççe ve Norveççe gibi Kuzey dilleri",
+      "Fransızca"
+    ],
+    "correctAnswer": "İsveççe ve Norveççe gibi Kuzey dilleri",
+    "tags": [
+      "Dil",
+      "İskandinav",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hbv15grb2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İskandinav kültüründe 'lagom' kavramı hangi değeri temsil eder?",
+    "explanation": "Lagom, İsveç kültüründe 'az çoktur' anlamına gelir. Gereksiz tüketimden kaçınan, dengeli ve orta yolu tercih eden yaşam felsefesidir.",
+    "options": [
+      "Zenginlik ve gösteriş",
+      "Az çoktur - dengeli yaşam",
+      "Yarışma ve başarı",
+      "Teknoloji kullanımı"
+    ],
+    "correctAnswer": "Az çoktur - dengeli yaşam",
+    "tags": [
+      "Değerler",
+      "İskandinav",
+      "Yaşam Tarzı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wjzvc9qdl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav kültüründe geleneksel 'smörgåsbord' neyi ifade eder?",
+    "explanation": "Smörgåsbord, İsveç geleneksel büyük yemek sepetidir. Genellikle balık, et, sebze ve tatlı çeşitleri içerir.",
+    "options": [
+      "A) Tuzlu balık tabağı",
+      "B) Kızarmış köfte yemeği",
+      "C) Geniş yemek sepeti/büyük kahvaltı",
+      "D) Tatlılar ve çay"
+    ],
+    "correctAnswer": "C) Geniş yemek sepeti/büyük kahvaltı",
+    "tags": [
+      "geleneksel_yemek",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lf20nhu3a",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "İskandinav ülkelerinin iklim özelliklerinden hangisi doğrudur?",
+    "explanation": "İskandinav ülkeleri kuzeyde yer aldığı için kışları oldukça uzun ve soğuk, yazları ise kısa ve serindir.",
+    "options": [
+      "A) Yıllarca sıcak",
+      "B) Kışları uzun ve soğuk, yazları kısa",
+      "C) Nemli ve yağmurlu",
+      "D) Çöplü"
+    ],
+    "correctAnswer": "B) Kışları uzun ve soğuk, yazları kısa",
+    "tags": [
+      "iklim",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k1pexcuck",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İsveç kültüründe 'lagom' kavramı neyi ifade eder?",
+    "explanation": "Lagom, İsveç kültüründe 'tam olarak' veya 'olduğun kadar' anlamına gelir. Fazla ya da az olmamak ilkesidir.",
+    "options": [
+      "A) Çok az",
+      "B) Tam olarak/olduğun kadar",
+      "C) Çekirdeksiz",
+      "D) Üst düzey"
+    ],
+    "correctAnswer": "B) Tam olarak/olduğun kadar",
+    "tags": [
+      "sosyal_değerler",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1u5vqg258",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinde geleneksel yılbaşı yemeği olarak ne tüketilir?",
+    "explanation": "İskandinav ülkelerinde yılbaşında tuzlu haring gibi geleneksel balıklar tüketilir.",
+    "options": [
+      "A) Et köfteleri",
+      "B) Tuzlu haring (balık)",
+      "C) Sütlaç",
+      "D) Pirinç pilavı"
+    ],
+    "correctAnswer": "B) Tuzlu haring (balık)",
+    "tags": [
+      "geleneksel_yemek",
+      "yılbaşı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "39xc3baxb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İskandinav kültüründe 'Jante Yasası' neyi ifade eder?",
+    "explanation": "Jante Yasası, İskandinav kültüründe kişilerin kendini başkalarının üstünde göstermemesini ve herkesin eşit olduğunu vurgular.",
+    "options": [
+      "A) Herkesin eşit olması gerektiği",
+      "B) Kişinin kendini başkalarının üstünde göstermemesi",
+      "C) Zengin olmanın önemi",
+      "D) Sanatın desteklenmesi"
+    ],
+    "correctAnswer": "B) Kişinin kendini başkalarının üstünde göstermemesi",
+    "tags": [
+      "sosyal_değerler",
+      "kültür_felsefesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6edxh1wnh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "İskandinav Kültüründe 'Hygge' kavramı neyi ifade eder?",
+    "explanation": "Hygge, Danimarka kökenli bir kavram olup sıcak ev ortamı, güzel yemekler ve sevgi dolu insanlar anlamına gelir.",
+    "options": [
+      "Sosyal medya kullanımı",
+      "Konforlu ve samimi yaşam tarzı",
+      "Gastronomik deneyimler",
+      "Spor aktiviteleri"
+    ],
+    "correctAnswer": "Konforlu ve samimi yaşam tarzı",
+    "tags": [
+      "yaşam-tarzı",
+      "kültürel-kavramlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9pskh7l81",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav ülkelerinin ortak temel değeri aşağıdakilerden hangisidir?",
+    "explanation": "İskandinav kültürü eşitlik, özgürlük ve demokratik değerlere önem verir. Tüm vatandaşların aynı haklara sahip olması temel prensiptir.",
+    "options": [
+      "Rekabetçilik",
+      "Eşitlikçi topluluk",
+      "Başkent odaklı yönetim",
+      "Geleneksel hiyerarşi"
+    ],
+    "correctAnswer": "Eşitlikçi topluluk",
+    "tags": [
+      "değerler",
+      "toplum-yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v5k6k3rcs",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mutfaklarında en yaygın kullanılan ana yemek ne türdür?",
+    "explanation": "İskandinav mutfakta dana eti, kırmızı balık gibi et ağırlıklı ısıtmalı yiyecekler yaygındır. Geleneksel olarak sıcak yemekler tüketilir.",
+    "options": [
+      "Et ağırlıklı sıcak yemekler",
+      "Sebzeli salatalar",
+      "Meyveli tatlılar",
+      "Baharatlı çorbalardan"
+    ],
+    "correctAnswer": "Et ağırlıklı sıcak yemekler",
+    "tags": [
+      "mutfak",
+      "gıda-kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a7l5h4j1s",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EXPERT",
+    "question": "İskandinav Kültüründe 'Sisu' neyi temsil eder?",
+    "explanation": "Sisu, Fin kökenli bir kavram olup zorluklara karşı direnç gösterme, inatçı azim ve cesaret anlamına gelir. İskandinav kültürünün önemli değerlerinden biridir.",
+    "options": [
+      "Lüks yaşam tarzı",
+      "Sezgisel karar alma",
+      "Direnci ve azmi",
+      "Tatil alışkanlıkları"
+    ],
+    "correctAnswer": "Direnci ve azmi",
+    "tags": [
+      "kültürel-kavramlar",
+      "değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i3ldgx2ar",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "İskandinav Kültürü",
+    "difficulty": "EASY",
+    "question": "İskandinav ülkelerinin çoğunda ortak geleneksel hediye verme zamanı ne zamandır?",
+    "explanation": "İskandinav kültüründe Yılbaşı ve Noel dönemi en önemli hediye verme zamanıdır. Ağaç süsleme, aile toplanmaları yaygın bir gelenektir.",
+    "options": [
+      "Yılbaşı",
+      "Ramazan Bayramı",
+      "Aşure Günü",
+      "Gazi Bayramı"
+    ],
+    "correctAnswer": "Yılbaşı",
+    "tags": [
+      "gelenekler",
+      "kutlamalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

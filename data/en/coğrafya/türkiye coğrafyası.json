@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "t6j6bj1g5",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin coğrafi konumuyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Türkiye, Kuzey Amerika kıtasının batısında değil, Avrupa ve Asya kıtalarının kesişim noktasında yer alır. Karadeniz'i sınırlayan dağlar ile Anadolu'nun güneyindeki dağlar arasında konumlanmıştır.",
+    "options": [
+      "Sadece Asya kıtasında yer alır",
+      "Avrupa ve Asya kıtalarının buluşma noktasındadır",
+      "Sadece Afrika kıtasına komşudur",
+      "Hiçbir kıta ile sınır paylaşmaz"
+    ],
+    "correctAnswer": "Avrupa ve Asya kıtalarının buluşma noktasındadır",
+    "tags": [
+      "coğrafya",
+      "konum",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zmnhdlr35",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin topraklarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Türkiye'nin yaklaşık 783.562 km²'lik toprakları vardır. Türkiye, Karadeniz, Marmara, Ege ve Akdeniz olmak üzere dört farklı denizle kıyıya sahiptir.",
+    "options": [
+      "14 ülke ile sınır paylaşır",
+      "15 bölgeye ayrılır",
+      "Yaklaşık 783.562 km² yüzölçümüne sahiptir",
+      "Hiçbir deniz kıyıya komşu değildir"
+    ],
+    "correctAnswer": "Yaklaşık 783.562 km² yüzölçümüne sahiptir",
+    "tags": [
+      "coğrafya",
+      "yüzölçüm",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r8nf195e1",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "İstanbul'un coğrafi konumuyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "İstanbul, Bosphorus Boğazı'nın iki tarafında yer alır. Boğaz, Avrupa ve Asya kıtalarını birbirine bağlayan bir köprü görevi görür.",
+    "options": [
+      "Sadece Asya tarafında yer alır",
+      "Avrupa ve Asya taraflarını birbirine bağlayan bir köprüdür",
+      "Türkiye'nin en güneydoğusundaki şehridir",
+      "Karadeniz kıyısında yer alır"
+    ],
+    "correctAnswer": "Avrupa ve Asya taraflarını birbirine bağlayan bir köprüdür",
+    "tags": [
+      "coğrafya",
+      "istanbul",
+      "konum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "swuimicn6",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin iklim bölgelerinden hangisi doğrudur?",
+    "explanation": "Türkiye'de Karadeniz, Akdeniz, Karasal ve Geçiş iklimi olmak üzere dört farklı iklim bölgesi bulunur. Karadeniz iklimi kuzey kıyı bölgelerinde görülür.",
+    "options": [
+      "Sadece karasal iklim vardır",
+      "Akdeniz iklimi sadece güneyde bulunur",
+      "Karadeniz iklimi kuzey kıyılarındadır",
+      "Tüm topraklarda aynı iklim görülür"
+    ],
+    "correctAnswer": "Karadeniz iklimi kuzey kıyılarındadır",
+    "tags": [
+      "coğrafya",
+      "iklim",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bdvmlqcdt",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Asgari Ararat (Mount Ararat) Türkiye'nin hangi coğrafi konumunda yer alır?",
+    "explanation": "Mount Ararat, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alır. Dağ, Ermenistan sınırında ve Kars-İgdir arasında konumlanmıştır.",
+    "options": [
+      "Doğu Anadolu Bölgesi'nde",
+      "Batı Anadolu'da",
+      "Marmara bölgesinde",
+      "Karadeniz kıyısında"
+    ],
+    "correctAnswer": "Doğu Anadolu Bölgesi'nde",
+    "tags": [
+      "coğrafya",
+      "doğal",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t8lslgy8n",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye, hangi kıtaların arasında konumlanmıştır?",
+    "explanation": "Türkiye, coğrafi olarak Avrupa kıtasının güneydoğu ve Asya kıtasının batısı arasında konumlanmış önemli bir köprü ülkedir. İstanbul Boğazı bu iki kıtayı birbirine bağlar.",
+    "options": [
+      "Sadece Avrupa",
+      "Avrupa ve Asya",
+      "Kuzey Amerika ve Güney Amerika",
+      "Afrika ve Asya"
+    ],
+    "correctAnswer": "Avrupa ve Asya",
+    "tags": [
+      "lokalizasyon",
+      "konum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdzh6z0wd",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Türkiye'nin kuzeydeki komşu ülkesi değildir?",
+    "explanation": "Türkiye'nin kuzey komşuları Gürcistan, Ermenistan ve Azerbaycan'dır. Sırbistan ise Türkiye ile doğrudan sınıra sahip olmayan Balkan bölgesindeki bir ülkedir.",
+    "options": [
+      "Gürcistan",
+      "Ermenistan",
+      "Sırbistan",
+      "Azerbaycan"
+    ],
+    "correctAnswer": "Sırbistan",
+    "tags": [
+      "komşu ülkeler",
+      "sınırlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v87ukwl9p",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en önemli doğal limanı aşağıdakilerden hangisidir?",
+    "explanation": "İzmir, Türkiye'nin en büyük ve en önemli doğal limanıdır. Ege Denizi'nde konumlanan İzmir Limanı, Akdeniz'in kuzeyindeki başlıca ticari liman olarak bilinir.",
+    "options": [
+      "İzmir",
+      "Trabzon",
+      "Mersin",
+      "Samsun"
+    ],
+    "correctAnswer": "İzmir",
+    "tags": [
+      "limanlar",
+      "denizcilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ae6fbp81q",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de 'Karadeniz İklimi' aşağıdaki özelliklerden hangisi ile karakterizedir?",
+    "explanation": "Karadeniz İklimi, kış aylarının soğuk ve sürekli yağışlı geçmesiyle bilinir. Yazlar ise ılımandır ve bölgede kar yağışı sık görülebilir.",
+    "options": [
+      "Yazlar sıcak ve kuraktır",
+      "Kışlar soğuk ve yağışlıdır",
+      "Sıcak, kuru ve güneşli bir iklime sahiptir",
+      "Bölgede hiç kar yağmaz"
+    ],
+    "correctAnswer": "Kışlar soğuk ve yağışlıdır",
+    "tags": [
+      "iklimler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a45qgq328",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en uzun nehri aşağıdakilerden hangisidir?",
+    "explanation": "Kızılırmak, Türkiye'nin en uzun nehri olup yaklaşık 1.350 kilometre uzunluğundadır. Dicle ve Fırat'ın ardından gelir.",
+    "options": [
+      "Kızılırmak",
+      "Dicle",
+      "Fırat",
+      "Sakarya"
+    ],
+    "correctAnswer": "Kızılırmak",
+    "tags": [
+      "nehirler",
+      "su kaynakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gtqu2ds7m",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin coğrafi konumu hangi kıtalara uzanır?",
+    "explanation": "Türkiye kuzey yarımkürede bulunur ve hem Avrupa'nın güneydoğusunda hem de Asya'nın batısında yer alır.",
+    "options": [
+      "Sadece Asya",
+      "Avrupa ve Asya",
+      "Afrika",
+      "Amerika"
+    ],
+    "correctAnswer": "Avrupa ve Asya",
+    "tags": [
+      "Location"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7dmms9ah6",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülke ile Türkiye'nin kara sınırı yoktur?",
+    "explanation": "Türkiye ile Mısır arasında kara sınırı bulunmaz; bu iki ülke farklı kıtalarda yer alır.",
+    "options": [
+      "Ermenistan",
+      "Yunanistan",
+      "Bulgaristan",
+      "Mısır"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "Borders"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e803u8ahj",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de hangi bölge Akdeniz iklimine sahiptir?",
+    "explanation": "Ege Bölümü, Akdeniz kıyısında yer alır ve Akdeniz iklimi özelliklerini gösterir.",
+    "options": [
+      "Karadeniz Bölümü",
+      "Doğu Anadolu Bölümü",
+      "Ege Bölümü",
+      "İç Anadolu Bölümü"
+    ],
+    "correctAnswer": "Ege Bölümü",
+    "tags": [
+      "Climate"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "reaq7qq13",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Taurus Dağları'na göre hangisi doğru bir ifadedir?",
+    "explanation": "Taurus Dağları, Türkiye'nin güneyinde yer alır ve Akdeniz kıyısına paralel olarak uzanır.",
+    "options": [
+      "Kuzeyde bulunur",
+      "Türkiye'nin en uzun nehri buradan kaynaklanır",
+      "Güneydoğu'da yer alır",
+      "Akdeniz'e bakan yamaçları vardır"
+    ],
+    "correctAnswer": "Akdeniz'e bakan yamaçları vardır",
+    "tags": [
+      "Mountains"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x60h6kmwr",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin toplam alanı yaklaşık kaç km²'dir?",
+    "explanation": "Türkiye'nin toplam alanı 783.562 km² civarındadır.",
+    "options": [
+      "783.562",
+      "1.000.000",
+      "600.000",
+      "900.000"
+    ],
+    "correctAnswer": "783.562",
+    "tags": [
+      "Area"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ef8r41vs3",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'de kaç il bulunmaktadır?",
+    "explanation": "Türkiye Cumhuriyeti 2023 itibarıyla toplam 81 il ve bunların bağlı olduğu 945 ilçeden oluşmaktadır.",
+    "options": [
+      "81",
+      "76",
+      "94",
+      "105"
+    ],
+    "correctAnswer": "81",
+    "tags": [
+      "coğrafya",
+      "türkiye",
+      "il sayısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r463fmkj3",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en yüksek dağı hangisidir?",
+    "explanation": "Türkiye'nin en yüksek dağı Ağrı Dağı'dır ve 5.137 metre yüksekliğindedir, Uludağ ise 2.546 metredir.",
+    "options": [
+      "Erciyes Dağı",
+      "Agri Dağı (Ağrı)",
+      "Mount Ararat (Ararat)",
+      "Uludağ"
+    ],
+    "correctAnswer": "Agri Dağı (Ağrı)",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "en yüksek nokta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1y7xz6zc6",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en uzun nehri hangisidir?",
+    "explanation": "Türkiye'nin en uzun nehri Kızılırmak'tır (1.353 km), Fırat Nehri ise 1.428 km ile ikinci sırada, Türkiye'deki kısmı daha kısadır.",
+    "options": [
+      "Kızılırmak Nehri",
+      "Dicle Nehri",
+      "Euphrates (Fırat) Nehri",
+      "Seyhan Nehri"
+    ],
+    "correctAnswer": "Kızılırmak Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "su kaynakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ermtmrwzd",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin coğrafi konumu hangi kıtalara komşudur?",
+    "explanation": "Türkiye coğrafi olarak Avrupa ile Anadolu (Asya) arasında bir köprü konumundadır, Boğazlar bu iki kıtayı birbirine bağlar.",
+    "options": [
+      "Sadece Avrupa",
+      "Avrupa ve Asya",
+      "Avrupa, Asya ve Afrika",
+      "Avrupa ve Afrika"
+    ],
+    "correctAnswer": "Avrupa ve Asya",
+    "tags": [
+      "coğrafya",
+      "konum",
+      "kıtalar arası köprü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1ji10h11p",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi Türkiye'nin jeolojik yapısına göre bir levhadır?",
+    "explanation": "Türkiye jeolojik olarak Afrika, Arap ve Anadolu levhalarının kesişim noktasında yer almaktadır, bu bölgedeki depremler bu levha hareketlerinden kaynaklanır.",
+    "options": [
+      "Afrika Levhası",
+      "Arap Levhası",
+      "Avrupa Levhası",
+      "Asya Levhası"
+    ],
+    "correctAnswer": "Arap Levhası",
+    "tags": [
+      "coğrafya",
+      "jeoloji",
+      "levha tectonics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mglwz12df",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en uzun nehri hangisidir?",
+    "explanation": "Kızılırmak, Türkiye'nin en uzun nehridir ve 1.350 km uzunluğundadır. Fırat ve Dicle ise daha kısa olup, Kızılırmak'a kıyasla daha az uzanır.",
+    "options": [
+      "Dicle Nehri",
+      "Kızılırmak Nehri",
+      "Fırat Nehri",
+      "Meriç Nehri"
+    ],
+    "correctAnswer": "Kızılırmak Nehri",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "snu9dyjtw",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en yüksek noktası hangisidir?",
+    "explanation": "Ağrı Dağı, Türkiye'nin en yüksek noktasıdır ve 5.167 metre rakımda bulunur. Erzurum'dan sonra gelen diğer dağlar daha alçaktır.",
+    "options": [
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Uludağ",
+      "Candar Dağı"
+    ],
+    "correctAnswer": "Ağrı Dağı",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "en yüksek nokta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tb518be2u",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin karasal iklimi hangi bölgede daha baskındır?",
+    "explanation": "İç Anadolu Bölgesi, Türkiye'nin en karasal iklimli bölgesidir. Yazları çok sıcak ve kurak, kışları soğuk ve kar yağışı baskındır.",
+    "options": [
+      "Akdeniz Bölgesi",
+      "Ege Bölgesi",
+      "İç Anadolu Bölgesi",
+      "Marmara Bölgesi"
+    ],
+    "correctAnswer": "İç Anadolu Bölgesi",
+    "tags": [
+      "coğrafya",
+      "iklimler",
+      "bölgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aeewk0f7b",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en büyük gölü hangisidir?",
+    "explanation": "Van Gölü, Türkiye'nin en büyük gölüdür ve 3.780 km² yüz ölçümüne sahiptir. Marmara ve Tuzla Golları da daha küçüktür.",
+    "options": [
+      "Van Gölü",
+      "Sapanca Gölü",
+      "Irmak Gölü",
+      "Bafa Gölü"
+    ],
+    "correctAnswer": "Van Gölü",
+    "tags": [
+      "coğrafya",
+      "güller",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j7bnxvy3h",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en sıcak iklimi hangi bölgede bulunur?",
+    "explanation": "Akdeniz Bölgesi, Türkiye'nin en sıcak iklimine sahiptir. Yazları çok sıcak ve kurak geçer, kışları ise ılık ve yağmurludur.",
+    "options": [
+      "Karadeniz Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "Akdeniz Bölgesi",
+      "Muson Gölü"
+    ],
+    "correctAnswer": "Akdeniz Bölgesi",
+    "tags": [
+      "coğrafya",
+      "iklimler",
+      "en sıcak bölge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ddgx14eg",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en yüksek dağı hangisidir?",
+    "explanation": "Ağrı Dağı, Türkiye'nin en yüksek noktasıdır ve 5.137 metre yüksekliğindedir.",
+    "options": [
+      "Erciyes Dağı",
+      "Süphan Dağı",
+      "Ağrı Dağı",
+      "Uludağ"
+    ],
+    "correctAnswer": "Ağrı Dağı",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5xiwwbj4d",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin kaç komşu ülkesi vardır?",
+    "explanation": "Türkiye, Balkan Yarımadası ve Anadolu'nun kesişim noktasında yer alır; sınır komşuları ile toplam 8 ülke sınırlaştığı kabul edilir (Bulgaristan, Yunanistan, Gürcistan, Azerbaycan, İran, Irak, Suriye, Ermenistan).",
+    "options": [
+      "A) 6",
+      "B) 7",
+      "C) 8",
+      "D) 9"
+    ],
+    "correctAnswer": "C) 8",
+    "tags": [
+      "coğrafya",
+      "sınır"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "adwxxupos",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'de en uzun nehri hangisidir?",
+    "explanation": "Kızılırmak, Türkiye'nin en uzun nehridir ve yaklaşık 1350 km uzunluğa sahiptir. Fırat ve Dicle ise komşu ülkelerden akar.",
+    "options": [
+      "A) Kızılırmak",
+      "B) Sakarya",
+      "C) Fırat",
+      "D) Dicle"
+    ],
+    "correctAnswer": "A) Kızılırmak",
+    "tags": [
+      "coğrafya",
+      "nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j6cj32sa6",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en büyük şehri hangi bölgede yer alır?",
+    "explanation": "Türkiye'nin en büyük şehri İstanbul'dur ve bu şehir Marmara Bölgesi'nde yer alır.",
+    "options": [
+      "A) Karadeniz",
+      "B) Akdeniz",
+      "C) İç Anadolu",
+      "D) Marmara"
+    ],
+    "correctAnswer": "D) Marmara",
+    "tags": [
+      "coğrafya",
+      "şehirlere"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k6v4xud90",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'de bulunan en büyük doğal gaz rezervi hangi bölgede yer alır?",
+    "explanation": "Türkiye'nin en büyük doğal gaz rezervleri Karadeniz Bölgesi'nde bulunan sahil şeridinde yer alır.",
+    "options": [
+      "A) Karadeniz",
+      "B) Akdeniz",
+      "C) İç Anadolu",
+      "D) Marmara"
+    ],
+    "correctAnswer": "A) Karadeniz",
+    "tags": [
+      "coğrafya",
+      "doğal kaynaklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fptnk88o6",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Toros Dağları hangi bölgede yer alır?",
+    "explanation": "Toros Dağları, Akdeniz Bölgesi'nde yer alır ve yaklaşık 1200 km uzunluğunda bir dağ sırasıdır.",
+    "options": [
+      "A) Karadeniz",
+      "B) Akdeniz",
+      "C) Marmara",
+      "D) Doğu Anadolu"
+    ],
+    "correctAnswer": "B) Akdeniz",
+    "tags": [
+      "coğrafya",
+      "dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e7f8kk1fn",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en büyük nehir hangisidir?",
+    "explanation": "Kızılırmak, Türkiye'nin en uzun ve en büyük nehridir. Dicle'yi aşıp Karadeniz'e dökülür.",
+    "options": [
+      "Dicle Nehri",
+      "Kızılırmak",
+      "Fırat Nehri",
+      "Seyhan Nehri"
+    ],
+    "correctAnswer": "Kızılırmak",
+    "tags": [
+      "coğrafya",
+      "nehirler",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yto1efq64",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de yer alan en yüksek dağı hangisidir?",
+    "explanation": "Ağrı Dağı, Türkiye'nin en yüksek noktasıdır (5.165 metre). Erzurum sınırları içindedir.",
+    "options": [
+      "Uludağ",
+      "Erciyes Dağı",
+      "Ağrı Dağı",
+      "Beydağ"
+    ],
+    "correctAnswer": "Ağrı Dağı",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gclncsz8b",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin iklimi hangi ana bölüme aittir?",
+    "explanation": "Türkiye'nin ana iklimi Karasal'dır, ancak Akdeniz ve Karadeniz bölgesinde de farklı iklim özellikleri görülür.",
+    "options": [
+      "Sadece Akdeniz",
+      "Sadece Karasal",
+      "Karasal ve Akdeniz",
+      "Sadece Okyanusal"
+    ],
+    "correctAnswer": "Karasal ve Akdeniz",
+    "tags": [
+      "coğrafya",
+      "iklim",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d7js3ii3v",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de yer alan en büyük göl hangisidir?",
+    "explanation": "Van Gölü, Türkiye'nin en büyük ve en derin gölüdür. Doğu Anadolu Bölgesi'nde yer alır.",
+    "options": [
+      "Sapanca Gölü",
+      "İznik Gölü",
+      "Van Gölü",
+      "Bafa Gölü"
+    ],
+    "correctAnswer": "Van Gölü",
+    "tags": [
+      "coğrafya",
+      "güller",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "38ynm75i0",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin ana kıyıları kaç tanedir?",
+    "explanation": "Türkiye'nin ana kıyıları: Karadeniz, Akdeniz ve Ege'dir. İç kısımlarda da bazı kıyı özellikleri bulunur.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "coğrafya",
+      "kıyılar",
+      "türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p0f7n9srl",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin coğrafi konumu hangi iki kıtaya yakındır?",
+    "explanation": "Türkiye, Avrupa ve Asya kıtaları arasında yer alan bir ülkedir. Boğazlar (Boğazlar) ve Karadeniz gibi özellikler sayesinde hem Avrupa hem de Asya'da bulunur.",
+    "options": [
+      "Avrupa ve Asya",
+      "Afrika ve Avrupa",
+      "Kuzey Amerika ve Güney Amerika",
+      "Antarktika ve Avustralya"
+    ],
+    "correctAnswer": "Avrupa ve Asya",
+    "tags": [
+      "coğrafi konum",
+      "Türkiye",
+      "kıta geçişleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vgr63h02q",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en yüksek dağı hangisidir?",
+    "explanation": "Ağrı Dağı, Türkiye'nin en yüksek dağıdır ve 5165 metre rakıma sahiptir. Erzurum ilinde yer alır ve volkanik bir dağdır.",
+    "options": [
+      "Erciyes",
+      "Ararat",
+      "Süphan",
+      "Ağrı"
+    ],
+    "correctAnswer": "Ağrı",
+    "tags": [
+      "dağlar",
+      "en yüksek nokta",
+      "Türkiye coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a30i266kf",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de bulunan önemli bir nehre ait hangisidir?",
+    "explanation": "Kızılırmak, Türkiye'nin en uzun nehridir (1355 km) ve Konya'da başlar. Karadeniz'e dökülür.",
+    "options": [
+      "Kızılırmak",
+      "Sakarya",
+      "Dicle",
+      "Ceyhan"
+    ],
+    "correctAnswer": "Kızılırmak",
+    "tags": [
+      "nehirler",
+      "su kaynakları",
+      "Türkiye coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gwpgc84k9",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin hangi bölgesinde Akdeniz iklimi daha baskındır?",
+    "explanation": "Batı Anadolu'da Akdeniz kıyıları boyunca Akdeniz iklimi daha baskındır. Yılın dört mevsimi belirgin, yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır.",
+    "options": [
+      "Doğu Anadolu",
+      "Kuzeydoğu Anadolu",
+      "Batı Anadolu",
+      "İç Anadolu"
+    ],
+    "correctAnswer": "Batı Anadolu",
+    "tags": [
+      "iklim bölgeleri",
+      "Akdeniz iklimi",
+      "Türkiye coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l740zsv5t",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'nin en büyük adası hangisidir?",
+    "explanation": "Gökçeada, Türkiye'nin en büyük adasıdır ve Marmara Denizi'nde (Çanakkale ilinde) yer alır. Bozcaada ise ikinci büyük ada olup Gökçeada'dan sonra gelir.",
+    "options": [
+      "Gökçeada",
+      "Bozcaada",
+      "Muğla Adası",
+      "İzmir Adası"
+    ],
+    "correctAnswer": "Gökçeada",
+    "tags": [
+      "adalar",
+      "Marmara Denizi",
+      "Türkiye coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qb7qv8kkp",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en büyük nehir hangisidir?",
+    "explanation": "Kızılırmak, Türkiye'nin en uzun ve en büyük nehridir. 1354 km uzunluğunda olup Sivas ilinden doğar.",
+    "options": [
+      "Kızılırmak",
+      "Dicle",
+      "Fırat",
+      "Gediz"
+    ],
+    "correctAnswer": "Kızılırmak",
+    "tags": [
+      "coğrafya",
+      "türkiye",
+      "nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "52jylp5sc",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de yerel saat farkının temel nedeni nedir?",
+    "explanation": "Türkiye'nin doğu-batı uzanışı (boyolamları) nedeniyle, doğudaki yerel saat batıdakinden 1 saat ileridedir.",
+    "options": [
+      "Enlem farklılığı",
+      "Boylam farklılığı",
+      "İklim koşulları",
+      "Dağlık arazi"
+    ],
+    "correctAnswer": "Boylam farklılığı",
+    "tags": [
+      "coğrafya",
+      "zaman",
+      "boylam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gi7tyucnf",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin en yüksek dağı hangisidir?",
+    "explanation": "Ağrı Dağı, Türkiye'nin en yüksek noktasıdır ve 5165 metre iklime sahiptir.",
+    "options": [
+      "Erciyes Dağı",
+      "Uludağ",
+      "Ağrı Dağı",
+      "Sultan Murat"
+    ],
+    "correctAnswer": "Ağrı Dağı",
+    "tags": [
+      "coğrafya",
+      "dağlar",
+      "yükseklik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "883pb02ea",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de yağışın en az olduğu bölge hangisidir?",
+    "explanation": "Karadeniz Bölümü, Türkiye'nin en nemli bölgesi olmasına rağmen, iç bölgelere göre daha az yağış almaktadır.",
+    "options": [
+      "Karadeniz Bölümü",
+      "Akdeniz Bölümü",
+      "Doğu Anadolu Bölümü",
+      "Güneydoğu Anadolu Bölümü"
+    ],
+    "correctAnswer": "Karadeniz Bölümü",
+    "tags": [
+      "coğrafya",
+      "iklim",
+      "yağış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "47z77otvb",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EXPERT",
+    "question": "Türkiye'nin jeopolitik önemini artıran coğrafi konumu nedir?",
+    "explanation": "Türkiye, Asya ve Avrupa kıtalarını birbirine bağlayan stratejik konumuyla jeopolitik önem taşımaktadır.",
+    "options": [
+      "Sadece Asya'da olması",
+      "Asya ve Avrupa köprüsü olması",
+      "Afrika'ya yakın olması",
+      "İnsan nüfusunun az olması"
+    ],
+    "correctAnswer": "Asya ve Avrupa köprüsü olması",
+    "tags": [
+      "coğrafya",
+      "jeopolitik",
+      "konum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ulsj2vt0c",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin en uzun nehri olan Kızılırmak hangi iki büyük havza arasında akış gösterir?",
+    "explanation": "Kızılırmak, Türkiye'nin en uzun nehri olup Konya Ovası ile Sakarya Nehri arasında coğrafi olarak akış gösterir. Fırat ve Dicle ise daha güneyde yer alır.",
+    "options": [
+      "Fırat-Dicle",
+      "Pamukova-Havza",
+      "Konya-Havzası-Sakarya",
+      "Meriç-Marmara"
+    ],
+    "correctAnswer": "Konya-Havzası-Sakarya",
+    "tags": [
+      "nehirler",
+      "coğrafi-havzalar",
+      "türkiye-coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v0021ohca",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de en yüksek dağ zirvesi olan Ağrı Dağı hangi bölgede konumlanır?",
+    "explanation": "Ağrı Dağı, Türkiye'nin en yüksek noktası olup Doğu Anadolu Bölgesi'nde yer alır. Yüksekliği 5137 metredir ve volkanik kökenlidir.",
+    "options": [
+      "Karadeniz Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "Güneydoğu Anadolu",
+      "Ege Bölgesi"
+    ],
+    "correctAnswer": "Doğu Anadolu Bölgesi",
+    "tags": [
+      "dağlar",
+      "bölgesel-coğrafya",
+      "türkiye-coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bh3li7g64",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "EASY",
+    "question": "Türkiye'nin coğrafi konumu açısından hangi okyanusa bakış açısı vardır?",
+    "explanation": "Türkiye'nin coğrafi konumu Akdeniz ve Karadeniz'e yakındır ancak doğrudan Pasifik veya Atlas Okyanusu'na bakışı yoktur.",
+    "options": [
+      "Pasifik Okyanusu",
+      "Atlas Okyanusu",
+      "Hiçbirine bakışı yoktur",
+      "Hint Okyanusu"
+    ],
+    "correctAnswer": "Hiçbirine bakışı yoktur",
+    "tags": [
+      "coğrafi-konum",
+      "okyanuslar",
+      "türkiye-coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sj8bzlld9",
+    "category": "COĞRAFYA",
+    "subcategory": "Türkiye Coğrafyası",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de en sıcak iklim bölgesi olarak kabul edilen yer neresidir?",
+    "explanation": "Aksaray ve çevresi Seyhan Havzası olarak bilinir ve Türkiye'nin en sıcak bölgelerinden biridir. Orta Anadolu'da yer alır.",
+    "options": [
+      "Karadeniz Bölgesi",
+      "Doğu Anadolu",
+      "Aksaray-Sakarya",
+      "Seyhan-Havzası"
+    ],
+    "correctAnswer": "Seyhan-Havzası",
+    "tags": [
+      "iklim",
+      "coğrafi-bölgeler",
+      "türkiye-coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

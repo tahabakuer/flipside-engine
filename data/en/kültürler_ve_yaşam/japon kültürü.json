@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "v009e6p67",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japon kültüründe 'Chopstick' (Çubuk) kullanımı hangi yemeğe özellikle dikkat çekicidir?",
+    "explanation": "Japon kültüründe sushi, çubukla yenilen en geleneksel ve simgesel yemeğidir. Chabuk kullanımı özellikle sushiyi yemek için tasarlanmıştır.",
+    "options": [
+      "Sushi",
+      "Ramen",
+      "Tempura",
+      "Tofu"
+    ],
+    "correctAnswer": "Sushi",
+    "tags": [
+      "kültür",
+      "yemek",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a88hruanj",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'da 'Kawaii' (sevimli) kavramının popüler olduğu kültürel alan hangisidir?",
+    "explanation": "Japon kültüründe 'Kawaii' kavramı özellikle anime ve manga dünyasında yaygınlaşmış ve sevimli karakter tasarımları ile ilişkilendirilmiştir.",
+    "options": [
+      "Anime ve Manga",
+      "Tiyatro",
+      "Müzik",
+      "Resim"
+    ],
+    "correctAnswer": "Anime ve Manga",
+    "tags": [
+      "sanat",
+      "kültür",
+      "gelenek"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4q7dxob0j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japon geleneksel giyim olan 'Kimono'nun rengi sembolik anlam taşır. Hangisi doğum gününü temsil eder?",
+    "explanation": "Japon kimono kültüründe mavi renk, özellikle çocukların ve doğum günleriyle ilişkilendirilir. Mor ise yetişkinler için daha uygundur.",
+    "options": [
+      "Beyaz",
+      "Mavi",
+      "Mor",
+      "Kırmızı"
+    ],
+    "correctAnswer": "Mavi",
+    "tags": [
+      "giyim",
+      "gelenek",
+      "sembolizm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tb11pl3uo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japonya'nın geleneksel bahçesi 'Zen' tarzı bahçeleri hangi felsefeye dayanır?",
+    "explanation": "Japon Zen tarzı bahçeleri, Budist felsefesine dayanır. Minimalist tasarımlar ve doğa ile uyum içindeki düzenler Buddist修行 ile ilişkilendirilir.",
+    "options": [
+      "Buddhaizm",
+      "Hristiyanlık",
+      "Islam",
+      "Yahudilik"
+    ],
+    "correctAnswer": "Buddhaizm",
+    "tags": [
+      "felsefe",
+      "bahçe",
+      "din"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m7x8cvq7j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon kültüründe 'Omotenashi' kavramı neyi ifade eder?",
+    "explanation": "Omotenashi, Japon kültüründe mükemmel bir şekilde yapılan misafirperverlik ve hizmet anlayışını ifade eder. Bu kavram Japonya'nın değerli geleneksel değerlerinden biridir.",
+    "options": [
+      "Hoşgörü",
+      "Mükemmel misafirperverlik",
+      "Denge",
+      "Sadakat"
+    ],
+    "correctAnswer": "Mükemmel misafirperverlik",
+    "tags": [
+      "kültür",
+      "misafirperverlik",
+      "değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3eluwhqm1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonculukta 'Cherry Blossom' (Sakura) ne zaman çiçek açar ve hangi anlam taşır?",
+    "explanation": "Sakura genellikle mart-nisan aylarında ilkbahar başında çiçek açar. Japon kültüründe geçicilik, yaşamın kısalığı ve yeniliğin sembolüdür.",
+    "options": [
+      "Kış başı - Yeni yılın başlaması",
+      "İlkbahar başı - Geçici yaşam ve yeniliğin sembolü",
+      "Yaz ortası - Turist çekiciliği için",
+      "Sonbahar sonu - Hasat vakti"
+    ],
+    "correctAnswer": "İlkbahar başı - Geçici yaşam ve yeniliğin sembolü",
+    "tags": [
+      "gelenek",
+      "doğa",
+      "semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "87swmnc1k",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon mutfak kültürünün en meşhur öğelerinden biri olan 'Ramen' nereden gelmiştir?",
+    "explanation": "Ramen, Çin mutfağından gelen noodle tabirinin varyasyonudur ve Japonlar tarafından yerel lezzetlerle uyarlanmıştır.",
+    "options": [
+      "Çin'den",
+      "Tayland'dan",
+      "Kore'den",
+      "Vietnam'dan"
+    ],
+    "correctAnswer": "Çin'den",
+    "tags": [
+      "mutfak",
+      "yemekler",
+      "tarihi köken"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gllllet4x",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japonca'da 'Wabi-sabi' neyi ifade eder?",
+    "explanation": "Wabi-sabi, Japon estetiğinde doğallık, kusurluluk, durgunluk ve geçiciliği vurgulayan bir felsefedir.",
+    "options": [
+      "Mükemmellik ve süsleme",
+      "Doğallık, durgunluk ve geçicilik",
+      "Zenginlik ve gösteriş",
+      "Hız ve dinamizm"
+    ],
+    "correctAnswer": "Doğallık, durgunluk ve geçicilik",
+    "tags": [
+      "felsefe",
+      "sanat",
+      "estetik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdpygepzb",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon kültüründe 'Omotenashi' neyi ifade eder?",
+    "explanation": "Omotenashi, Japonlukta karşılıksız misafirperverlik, özenli hizmet ve diğerlerinin ihtiyaçlarını önceden düşünmeyi ifade eder.",
+    "options": [
+      "Yüksek teknoloji",
+      "Karşılıksız misafirperverlik ve hizmet",
+      "Dış ticaret",
+      "Spor aktiviteleri"
+    ],
+    "correctAnswer": "Karşılıksız misafirperverlik ve hizmet",
+    "tags": [
+      "gelenek",
+      "hizmet",
+      "değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nj99zmmxu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'nın ulusal sporu olarak kabul edilen 'Sumo' ne zaman ortaya çıkmıştır?",
+    "explanation": "Sumo, Japonların geleneksel sporu olarak 2. yüzyıla kadar uzanır ve milli kültürün önemli bir parçasıdır.",
+    "options": [
+      "19. yüzyıl",
+      "2. yüzyıl - Antik dönem",
+      "17. yüzyıl",
+      "20. yüzyıl"
+    ],
+    "correctAnswer": "2. yüzyıl - Antik dönem",
+    "tags": [
+      "spor",
+      "tarih",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f5m31ssor",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "日本での「お辞儀」の主な目的は何ですか？",
+    "explanation": "お辞儀は日本の伝統的な挨拶で、相手の尊敬や感謝を伝えるために用いられます。",
+    "options": [
+      "時間の経過後を示すため",
+      "敬意を表し挨拶するため",
+      "食事の開始を告げるため",
+      "交通の安全を確認するため"
+    ],
+    "correctAnswer": "敬意を表し挨拶するため",
+    "tags": [
+      "日本文化",
+      "マナー",
+      "礼儀"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yxim40zri",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "日本の新年に食べる「おせち料理」にはどのような特徴がありますか？",
+    "explanation": "おせちは新年の吉祥を願って、様々な意味を持つ食材で作られる伝統的な料理です。",
+    "options": [
+      "安価な食材で作られるもの",
+      "祝い事の吉祥を願うため",
+      "季節外れの野菜のみ",
+      "外国人向けに作られたもの"
+    ],
+    "correctAnswer": "祝い事の吉祥を願うため",
+    "tags": [
+      "食文化",
+      "伝統",
+      "正月"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nqrsovrhk",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "日本での「おもてなし」精神にはどのような要素が含まれますか？",
+    "explanation": "おもてなしは、客の立場に立って相手の要望を超えた心を込めた接待を意味します。",
+    "options": [
+      "相手の期待を上回るサービス",
+      "最低限の対応のみ",
+      "費用対効果を重視する",
+      "効率性を最優先する"
+    ],
+    "correctAnswer": "相手の期待を上回るサービス",
+    "tags": [
+      "日本文化",
+      "サービス精神",
+      "おもてなし"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1jyyvwzx3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "日本の「茶道」における「わびさび」の概念は何を表していますか？",
+    "explanation": "わびさびは、侘び寂びと呼ばれる、自然な不完美や簡素さの中に美を見出す日本の美学です。",
+    "options": [
+      "豪華な装飾と繁栄",
+      "簡素で不完全な美しさ",
+      "技術の高度化",
+      "量産品の質"
+    ],
+    "correctAnswer": "簡素で不完全な美しさ",
+    "tags": [
+      "茶道",
+      "美学",
+      "わびさび"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k1fiddam3",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "日本での「いなり寿司」は何を意味していますか？",
+    "explanation": "いなり寿司は、魚介類を包むことで神様に捧げる伝統から発展した料理です。",
+    "options": [
+      "祭りの食材としてのみ",
+      "神道の影響を受けた料理",
+      "西洋料理の和風化",
+      "季節限定の食べ物"
+    ],
+    "correctAnswer": "神道の影響を受けた料理",
+    "tags": [
+      "食文化",
+      "神道",
+      "寿司"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9f0fh0j6h",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'da 'Cherry Blossom' (Kozano) olarak bilinen ve Japon kültüründe önemli bir yer tutan ağaç türü hangisidir?",
+    "explanation": "Sakura (Kozano) ağaçları, Japonya'nın meşhur çiçekli ağaçlarıdır ve Japon kültüründe güzelliğin geçiciliği sembolüdür. Her yıl düzenlenen Hanami (çiçek izleme) festivali Sakura'ya adandır.",
+    "options": [
+      "Zeytin",
+      "Sakura",
+      "Çam",
+      "Meşe"
+    ],
+    "correctAnswer": "Sakura",
+    "tags": [
+      "Japon Kültürü",
+      "Doğa",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bv6kivp7z",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon yemek kültürünün en bilinen öğesinden biri olan 'Sushi', hangi malzeme üzerine yapılır?",
+    "explanation": "Sushi, Japon mutfak geleneğinin en bilinen öğesidir ve taze balık veya diğer deniz ürünleri, özel olarak hazırlanmış nori (deniz yosunu) üzerine konularak yapılır.",
+    "options": [
+      "Ekmek",
+      "Tavuk",
+      "Balık",
+      "Et"
+    ],
+    "correctAnswer": "Balık",
+    "tags": [
+      "Japon Kültürü",
+      "Yemek",
+      "Gastronomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uap9nt6xy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon dilinde 'Tadaima' kelimesi neyi ifade eder?",
+    "explanation": "Tadaima, Japon evlerinde geleneksel bir ifade olup, işten veya dışarıdan döndüğünüzde aile üyelerine 'evdeyim' demeyi ifade eder. Bu, Japon kültüründe aile değerlerinin önemini gösterir.",
+    "options": [
+      "Evden çıkıyorum",
+      "Döndüm evdeyim",
+      "Uyandım",
+      "Yaralıyım"
+    ],
+    "correctAnswer": "Döndüm evdeyim",
+    "tags": [
+      "Japon Kültürü",
+      "Dil",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lxsy3pxh1",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonlar geleneksel olarak hangi kıyafeti giyerler?",
+    "explanation": "Kimono, Japonlar tarafından giyilen geleneksel kıyafettir. Şerit (obi) ile beline bağlanır ve özel durumlarda (düğünler, festivaller) giyilir.",
+    "options": [
+      "Kemer",
+      "Kimono",
+      "Şapka",
+      "Buzluğa"
+    ],
+    "correctAnswer": "Kimono",
+    "tags": [
+      "Japon Kültürü",
+      "Kıyafet",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "21924lszv",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japonya'da 'Sen no Habu' olarak bilinen ve Japon kültüründe önemli bir yeri olan şair hangisidir?",
+    "explanation": "Sen no Habu, Japon edebiyatında önemli bir şair olarak kabul edilir. Japon kültüründe şiir (haiku) geleneği çok önemlidir ve bu gelenek 2000'den fazla Japonya'da yaygındır.",
+    "options": [
+      "Miyazaki",
+      "Nakamura",
+      "Yonekura",
+      "Yamagata"
+    ],
+    "correctAnswer": "Nakamura",
+    "tags": [
+      "Japon Kültürü",
+      "Edebiyat",
+      "Şiir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ezs5qvl2t",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'da Yeni Yıl kutlamalarında en yaygın geleneksel yiyecek nedir?",
+    "explanation": "Osechi-ryōri, Japonya'daki Yeni Yıl (Shogatsu) döneminde hazırlanan özel yemek kutularıdır. Her bölge ve aile kendi çeşitlerine sahiptir.",
+    "options": [
+      "Onigiri",
+      "Osechi-ryōri",
+      "Sushi",
+      "Tempura"
+    ],
+    "correctAnswer": "Osechi-ryōri",
+    "tags": [
+      "gelenekler",
+      "yiyecekler",
+      "yeni yıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "03iq2q5ah",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japon kültüründe 'senpai' ve 'kohai' kavramları neyi ifade eder?",
+    "explanation": "'Senpai', daha eski veya deneyimli kişiyi; 'kohai' ise yeni başlayan veya daha genç kişiyi ifade eder. Bu kavramlar Japon iş kültüründe önemlidir.",
+    "options": [
+      "Düşman ve dost",
+      "Kariyer üstü ve kariyer altı",
+      "Eski arkadaş ve yeni arkadaş",
+      "Büyük ve küçük kardeş"
+    ],
+    "correctAnswer": "Kariyer üstü ve kariyer altı",
+    "tags": [
+      "sosyal yapı",
+      "iş dünyası",
+      "gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxp2re12j",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'da hangi mevsim çiçeki (hanami) töreni yapılır?",
+    "explanation": "Hanami, Japonya'da baharda sakura (kiri çiçeği) açtığında yapılan çiya törenidir. İnsanlar ağaçların altında piknik yapar.",
+    "options": [
+      "Kış",
+      "Yaz",
+      "Bahar",
+      "Sonbahar"
+    ],
+    "correctAnswer": "Bahar",
+    "tags": [
+      "gelenekler",
+      "mevsimler",
+      "çiçekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ajdqrlzig",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japon dilinde 'Kintsugi' nedir?",
+    "explanation": "Kintsugi, Japon geleneksel sanatında kırık seramikler altın veya gümüş ile birleştirilerek onarılır. Bu, hatanın güzelliğini vurgular.",
+    "options": [
+      "Su temizleme sanatı",
+      "Altınla kırık seramikleri birleştirme sanatı",
+      "Geleneksel balık avlama yöntemi",
+      "Zemin döşeme sanatı"
+    ],
+    "correctAnswer": "Altınla kırık seramikleri birleştirme sanatı",
+    "tags": [
+      "sanat",
+      "gelenekler",
+      "seramik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n11ns2tp9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'da 'Izakaya' ne tür yerdir?",
+    "explanation": "Izakaya, Japonya'da geleneksel bar-restoran yeridir. İnsanlar burada yemek yiyip içki içer ve sosyal aktiviteler yapar.",
+    "options": [
+      "Lüks restoran",
+      "Sokak lezzet dükkanı",
+      "Bar/restoran karışımı",
+      "Kahve dükkanı"
+    ],
+    "correctAnswer": "Bar/restoran karışımı",
+    "tags": [
+      "yiyecekler",
+      "sosyal yaşam",
+      "barlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nm2rauodf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japonya'nın geleneksel dans ve müzik gösterisinin adı nedir?",
+    "explanation": "Kabuki, Japonya'nın geleneksel tiyatro sanatı ve dans gösterisidir. 1600'lerden beri devam eden bu sanat formu, yüz boyası ve karmaşık kostüm ile bilinir.",
+    "options": [
+      "Kabuki",
+      "Noh",
+      "Kendo",
+      "Origami"
+    ],
+    "correctAnswer": "Kabuki",
+    "tags": [
+      "sanat",
+      "gelenek",
+      "müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6uvnvlqde",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japon kültüründe 'Omotemae' neyi ifade eder?",
+    "explanation": "Omotemae, Japon mutfak kültüründe konuklara gösterilen saygılı ve detaylı ağırlama sanatıdır. Bu gelenek 17. yüzyıldan beri devam etmektedir.",
+    "options": [
+      "Yükseklik",
+      "Ulu hizmetkarlık",
+      "Huzur",
+      "Güzel sanat"
+    ],
+    "correctAnswer": "Ulu hizmetkarlık",
+    "tags": [
+      "kültür",
+      "gelenek",
+      "mutfak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7qacpgnow",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'da yılın en önemli festivalinden biri olan Gion Festivali nerede düzenlenir?",
+    "explanation": "Gion Festivali, Kyoto'da düzenlenir ve 1860'lerden beri devam eden geleneksel bir su festivalidir. Özellikle Temmuz ayında yapılır.",
+    "options": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Nara"
+    ],
+    "correctAnswer": "Kyoto",
+    "tags": [
+      "festival",
+      "gelenek",
+      "geografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ov1kc8jbc",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon kültüründe 'Ikigai' neyi ifade eder?",
+    "explanation": "Ikigai, Japon kültüründe 'her sabah uyandığında yapmak istediğiniz şey' veya hayatınızın anlamını ifade eder. Bu kavram Japonya'nın uzun yaşam felsefesine dahil edilmiştir.",
+    "options": [
+      "Ölüm",
+      "Hayatın amacı",
+      "Sevgi",
+      "Doğa"
+    ],
+    "correctAnswer": "Hayatın amacı",
+    "tags": [
+      "felsefe",
+      "kültür",
+      "yaşam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pmnsq8u8x",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japon geleneksel giyiminden biri olan Kimono hangi malzemeden dikiş yapar?",
+    "explanation": "Kimono geleneksel olarak keten, ipek veya sentetik kumaşlardan dikiştir. Özellikle düğünlerde ve özel günlerde ipek kullanılır.",
+    "options": [
+      "Yün",
+      "Pamuk",
+      "Keten ve ipek",
+      "Deri"
+    ],
+    "correctAnswer": "Keten ve ipek",
+    "tags": [
+      "giyim",
+      "gelenek",
+      "madde"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bsyrm4aeu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'da geleneksel bir şerit sanatı olarak bilinen ve törenlerde kullanılan 'haya' (hayato) nedir?",
+    "explanation": "Haya veya Hayato, Japonya'da geleneksel törenlerde kullanılan ve belirli renklerle işaretlenen şeritlerden oluşan dekoratif nesnelerdir. Genellikle düğünlerde, geçiş törenlerinde ve diğer özel olaylarda sembolik anlam taşır.",
+    "options": [
+      "Kamışlardan yapılmış dekoratif nesneler",
+      "Geleneksel Japon dansı hareketleri",
+      "Rengi belirgin şeritler ile yapılan sembolik törenler",
+      "Yapay çiçeklerle süslenen kapılar"
+    ],
+    "correctAnswer": "Rengi belirgin şeritler ile yapılan sembolik törenler",
+    "tags": [
+      "Japon Kültürü",
+      "Geleneksel Sanatlar",
+      "Törenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxxaexiss",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japon yazı sistemlerinden biri olan hiragana harfleri nasıl geliştirilmiştir?",
+    "explanation": "Hiragana, Japon dilinin eski Çin karakterlerinden (kanji) türetilen ve sesli kelimeler için kullanılan basitleştirilmiş harflerdir. Katakana ile birlikte Japon yazım sisteminin temelini oluşturur.",
+    "options": [
+      "Çin karakterlerinin basitleştirilmiş formları",
+      "Doğrudan Latin alfabesinden türetilmiştir",
+      "Sadece sesli kelimeler için kullanılır",
+      "Yapay zeka ile oluşturulmuştur"
+    ],
+    "correctAnswer": "Çin karakterlerinin basitleştirilmiş formları",
+    "tags": [
+      "Japon Kültürü",
+      "Dil ve Yazı",
+      "Eğitim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4iqd3vspg",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon kültüründe 'ikebana' sanatı neyi ifade eder?",
+    "explanation": "Ikebana, Japonya'nın geleneksel çiçek düzenleme sanatıdır. Minimalist yaklaşımla, doğadaki form ve dengeyi vurgular. Japon estetiğinin önemli bir parçasıdır.",
+    "options": [
+      "Geleneksel bir yemek hazırlama tekniği",
+      "Çiçek düzenleme ve bitkisel sanat",
+      "Yazıya dayalı dekoratif teknik",
+      "Müzik aletleri tasarımı"
+    ],
+    "correctAnswer": "Çiçek düzenleme ve bitkisel sanat",
+    "tags": [
+      "Japon Kültürü",
+      "Geleneksel Sanatlar",
+      "Doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5xyv14fas",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japon kültüründe 'senpai' ve 'kohai' kavramları ne anlama gelir?",
+    "explanation": "Senpai, deneyimli veya uzun süredir bulunan kişi; Kohai ise yeni başlayan veya daha az deneyime sahip kişidir. Bu kavramlar, Japonya'da okul ve iş yerlerinde sosyal hiyerarşiyi ifade eder.",
+    "options": [
+      "Yabancı öğrenciler ile yerel öğretmenler",
+      "Eşit derecede çalışan kişiler",
+      "Deneyimli olan ile yeni başlayanlar arası ilişki",
+      "Farklı şehirlerin temsilcileri"
+    ],
+    "correctAnswer": "Deneyimli olan ile yeni başlayanlar arası ilişki",
+    "tags": [
+      "Japon Kültürü",
+      "Sosyal İlişkiler",
+      "Çalışma Hayatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vh3i8wx0f",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon kültüründe 'omotenashi' nedir?",
+    "explanation": "Omotenashi, Japonya'nın geleneksel misafirperverlik anlayışıdır. Misafirlere özenle hizmet etmek ve onların ihtiyaçlarını önceden tahmin edip karşılamak anlamına gelir.",
+    "options": [
+      "Geleneksel bir oyun kuralları",
+      "Mükemmel misafirperverlik ve hizmet anlayışı",
+      "Dinî törenler için kullanılan terim",
+      "Sanat sergisi organizasyonu"
+    ],
+    "correctAnswer": "Mükemmel misafirperverlik ve hizmet anlayışı",
+    "tags": [
+      "Japon Kültürü",
+      "Hizmet",
+      "Sosyal Değerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cqaj147g0",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japonya'nın ulusal bayrağında ne bulunmaktadır?",
+    "explanation": "Japonya'nın bayrağı 'Nisshōki' olarak bilinir ve beyaz arka plan üzerinde kırmızı bir daire (Gökkuşağı Takımyıldızı'nın sembolü) içerir.",
+    "options": [
+      "Yeşil bir kare",
+      "Beyaz zemin üzerinde kırmızı daire",
+      "Mavi ve beyaz çizgiler",
+      "Kırmızı zemin üzerinde sarı ay"
+    ],
+    "correctAnswer": "Beyaz zemin üzerinde kırmızı daire",
+    "tags": [
+      "Bayrak",
+      "Simge",
+      "Genel Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lyurec3nc",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japon geleneksel elbisesinin adı nedir?",
+    "explanation": "Kimono, Japon geleneğine ait geleneksel elbisedir ve özellikle özel günler, düğünler ve festivallerde giyilir.",
+    "options": [
+      "Hijab",
+      "Kimono",
+      "Sari",
+      "Chador"
+    ],
+    "correctAnswer": "Kimono",
+    "tags": [
+      "Giyim",
+      "Gelenek",
+      "Moda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t8ightkax",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japon mutfağında en temel gıda maddesi nedir?",
+    "explanation": "Japon mutfağının temelini pirinç oluşturur. Sushi, sashimi ve diğer yemekler genellikle pirincin yanında servis edilir.",
+    "options": [
+      "Arpa",
+      "Bulgur",
+      "Kıyık",
+      "Rice (Pirinç)"
+    ],
+    "correctAnswer": "Rice (Pirinç)",
+    "tags": [
+      "Mutfak",
+      "Gıda",
+      "Beslenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tybzqh6mq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'da Yeni Yıl kutlamalarında hangi gelenek önemlidir?",
+    "explanation": "Yeni Yıl'da Japonlar 'Toshikoshi Soba' (Yıl Geçen Ramen) ve 'Osechi Ryori' gibi geleneksel yemekler tüketirler. Ayrıca kapıların üzerine takvim kapağı asarlar.",
+    "options": [
+      "Oğlanlık",
+      "Takımyıldızı Kapağı",
+      "Köy ziyaretleri",
+      "Okulların kapanması"
+    ],
+    "correctAnswer": "Takımyıldızı Kapağı",
+    "tags": [
+      "Bayram",
+      "Gelenek",
+      "Kültürel Pratikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u7abodzcz",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japon kültüründe hangi tören en ünlüdır?",
+    "explanation": "Japon çay seremonisi (Sadō veya Chadō), Japon zen felsefesi ve estetiğiyle derin bir kültürel gelenektir. Çay ikramı sırasında belirli hareketler, sessizlik ve saygı ön plandadır.",
+    "options": [
+      "Çay seremonisi",
+      "Kahve seremonisi",
+      "Şekerleme töreni",
+      "Bisküvi seremonisi"
+    ],
+    "correctAnswer": "Çay seremonisi",
+    "tags": [
+      "Tören",
+      "Gelenek",
+      "Kültürel Pratikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e9qypu5qd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japonya'nın ulusal çiçeği aşağıdakilerden hangisidir?",
+    "explanation": "Kamelya, Japonya'nın ulusal çiçeği olarak kabul edilir ve Japon kültüründe önemli bir yere sahiptir.",
+    "options": [
+      "Kamelya",
+      "Gül",
+      "Lale",
+      "Menekşe"
+    ],
+    "correctAnswer": "Kamelya",
+    "tags": [
+      "Japon Kültürü",
+      "Simgeler",
+      "Doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4pt922x9k",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japoncada 'merhaba' anlamına gelen kelime hangisidir?",
+    "explanation": "'Konnichiwa' Japoncadaki günlük karşılama ifadesidir ve 'merhaba/günaydın' anlamına gelir.",
+    "options": [
+      "Salamat",
+      "Konnichiwa",
+      "Arigato",
+      "Sayonara"
+    ],
+    "correctAnswer": "Konnichiwa",
+    "tags": [
+      "Japon Dili",
+      "Temel Kelimeler",
+      "Karşılama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9flw0r2ei",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japonya'da yılbaşı kutlamaları sırasında gelenekel bir yemek aşağıdakilerden hangisidir?",
+    "explanation": "Osechi Ryori, Japonya'da yılbaşı期间ında yenilen geleneksel kutlama yemekleri bütünüdür.",
+    "options": [
+      "Sushi",
+      "Osechi Ryori",
+      "Tempura",
+      "Ramen"
+    ],
+    "correctAnswer": "Osechi Ryori",
+    "tags": [
+      "Japon Mutfak",
+      "Yılbaşı",
+      "Gelenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lul1yv801",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japonya'nın en ünlü geleneksel sanatı aşağıdakilerden hangisidir?",
+    "explanation": "Mizuhiki, Japonya'da geleneksel düğümlendirme sanatıdır ve önemli bir el işidir.",
+    "options": [
+      "Siyah",
+      "Kalligrafi",
+      "Mizuhiki",
+      "Koto Çalmak"
+    ],
+    "correctAnswer": "Mizuhiki",
+    "tags": [
+      "Geleneksel Sanat",
+      "El İşi",
+      "Dekorasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fn4bvedld",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japoncada 'teşekkür ederim' anlamına gelen ifade hangisidir?",
+    "explanation": "'Arigato gozaimasu' Japoncadaki resmi teşekkür ifadesidir ve 'çok teşekkürler' anlamına gelir.",
+    "options": [
+      "Doumo",
+      "Arigato gozaimasu",
+      "Sumimasen",
+      "Gomen nasai"
+    ],
+    "correctAnswer": "Arigato gozaimasu",
+    "tags": [
+      "Japon Dili",
+      "Karşılama",
+      "Teşekkür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dcejzfgft",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EXPERT",
+    "question": "Japonya'da geleneksel olarak hangi sanat formu, kataname yapımı ve şeritlerle işlenmiş malzemeler kullanılarak üretilir?",
+    "explanation": "Noh Tiyatrosu, Japonya'nın en eski geleneksel tiyatrosu olup, maskeler ve minimalist sahneler kullanılarak 400 yıldır devam etmektedir.",
+    "options": [
+      "Kalligrafisi",
+      "Gölgelendirme Sanatı",
+      "Katana Yapımı",
+      "Noh Tiyatrosu"
+    ],
+    "correctAnswer": "Noh Tiyatrosu",
+    "tags": [
+      "sanat",
+      "geleneksel",
+      "tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jpt46qd5x",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japon kültüründe 'omotenashi' kavramı ne ifade eder?",
+    "explanation": "Omotenashi, Japon kültüründe kendini feda eden, sessiz ve düşünen misafirperverlik anlayışını ifade eder.",
+    "options": [
+      "Toplu çalışma",
+      "Hoşgörülü misafirperverlik",
+      "Kendi başına olmak",
+      "Dini ritüel"
+    ],
+    "correctAnswer": "Hoşgörülü misafirperverlik",
+    "tags": [
+      "kavramlar",
+      "toplumsal değerler",
+      "modern kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hfegtn28m",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "EASY",
+    "question": "Japonya'daki en önemli geleneksel festival hangisidir?",
+    "explanation": "Cherry Blossom (Sakura) Festivali, Japonya'da her baharda yapılan en önemli geleneksel festival olup, çiçekli ağaçların açışını kutlar.",
+    "options": [
+      "Oktoberfest",
+      "Cherry Blossom Festivali",
+      "Lunar Yeni Ay",
+      "Diwali"
+    ],
+    "correctAnswer": "Cherry Blossom Festivali",
+    "tags": [
+      "festival",
+      "geleneksel",
+      "doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yrzqvgumh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Hangi Japon şehri, eski kalesi ve geleneksel mimarisiyle ünlüdür?",
+    "explanation": "Kyoto, 1200 yıldır Japon imparatorluk başkenti olarak hizmet verdi ve geleneksel tapınakları ile ünlüdür.",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Kyoto",
+      "Hiroşima"
+    ],
+    "correctAnswer": "Kyoto",
+    "tags": [
+      "şehirler",
+      "mimari",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ruuuyods7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Japon Kültürü",
+    "difficulty": "GENERAL",
+    "question": "Japon kültüründe en önemli sosyal değer hangisidir?",
+    "explanation": "Japonya'da grup uyumu, toplumsal düzeni ve harmoniyi koruyan en önemli sosyal değer olarak kabul edilir.",
+    "options": [
+      "Bireysel başarı",
+      "Grup uyumu",
+      "Kriz yönetimi",
+      "Teknolojik gelişme"
+    ],
+    "correctAnswer": "Grup uyumu",
+    "tags": [
+      "toplumsal değerler",
+      "kültürel normlar",
+      "sosyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

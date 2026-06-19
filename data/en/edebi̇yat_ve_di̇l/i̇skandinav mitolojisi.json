@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "2ajwuaq9r",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisindeki yaratıcı tanrı Odin, hangi yılanı boynuna asarak güç kazanır?",
+    "explanation": "Odin, bilgelik tanrısı Mimir'ın başını boynunda taşıyan yılan olarak gösterir. Bu yılan Odin'e sonsuz bilgi ve güç sağlar.",
+    "options": [
+      "Mimir",
+      "Jormungand",
+      "Fenrir",
+      "Sleipnir"
+    ],
+    "correctAnswer": "Mimir",
+    "tags": [
+      "Odin",
+      "Yaratıcı Tanrılar",
+      "Norse God"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4f9ptsl8k",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Ragnarok mitolojisinde hangi tanrı Thor tarafından öldürülür?",
+    "explanation": "Ragnarok'ta Thor, dev yılan Jormungand'ı öldürür ancak bu sırada 9 adımlı dev yılan tarafından zehirlenerek ölür.",
+    "options": [
+      "Loki",
+      "Odin",
+      "Fenrir",
+      "Jormungand"
+    ],
+    "correctAnswer": "Jormungand",
+    "tags": [
+      "Thor",
+      "Ragnarok",
+      "Son Savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qadooxujq",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde 'Dünyanın Sonu' olarak bilinen olayın adı nedir?",
+    "explanation": "Ragnarok, İskandinav mitolojisindeki Dünyanın Sonu ve büyük savaş olayıdır. Odin, Thor gibi birçok tanrı bu savaştan sonra ölür.",
+    "options": [
+      "Valhalla",
+      "Muspelheim",
+      "Ragnarok",
+      "Asgard"
+    ],
+    "correctAnswer": "Ragnarok",
+    "tags": [
+      "Dünya Sonu",
+      "Norse Mythology",
+      "Yazışma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8x6nltj3z",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "İskandinav mitolojisinde Loki'nin çocuğu olan dev yılanın adı nedir?",
+    "explanation": "Loki'nin çocuğu Fenrir, dev bir kurdur ve Ragnarok'ta Odin tarafından öldürülür. Jormungand ise Loki'nin diğer çocuklarından biri olan dev yılan.",
+    "options": [
+      "Jormungand",
+      "Fenrir",
+      "Hrimnir",
+      "Surtr"
+    ],
+    "correctAnswer": "Fenrir",
+    "tags": [
+      "Loki",
+      "Devler",
+      "Son Savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "acrqukc4s",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde Valhalla'da yaşamak için hangi tanrılar savaşa katılır?",
+    "explanation": "Valhalla'da yaşamak için savaşlarda ölen erkekler Odin'in çağrısı ile oraya gider. Valkyrie'ler bu seçimi yapar ve savaş alanından cesetleri Valhalla'a taşırlar.",
+    "options": [
+      "Odin",
+      "Thor",
+      "Freya",
+      "Valkyrie"
+    ],
+    "correctAnswer": "Odin",
+    "tags": [
+      "Valhalla",
+      "Savaş Tanrıları",
+      "Norse God"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "drpkeaoke",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde 'Odin' tanrısının simgesi hangisidir?",
+    "explanation": "Odin, İskandinav mitolojisinde en güçlü tanrı olup büyüler ve sihirle ilişkilendirilir. Adını 'Allfather' veya 'Kılıç Babası' olarak da bilinir.",
+    "options": [
+      "Kılıç",
+      "Göz",
+      "Büyü",
+      "Sertlik"
+    ],
+    "correctAnswer": "Büyü",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Odin",
+      "Tanrılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jr5ngwq1l",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Yaratılış efsanesine göre dünya hangi yerin altında oluşturulmuştur?",
+    "explanation": "İskandinav mitolojisinde dünya yaratılış efsanesine göre Ymir'in kafatası ve Niflheim'daki buzulardan oluşmuştur.",
+    "options": [
+      "Muspelheim",
+      "Niflheim",
+      "Asgard",
+      "Midgard"
+    ],
+    "correctAnswer": "Niflheim",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Yaratılış",
+      "Kozmoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1glh29nf8",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Ragnarök'te hangi tanrılar birlikte yok olur?",
+    "explanation": "Ragnarök'te Odin, Fenris Kurdu tarafından ve Thor, Jörmungand deniz eylemi tarafından yok olur.",
+    "options": [
+      "Odin ve Thor",
+      "Thor ve Loki",
+      "Odin ve Freya",
+      "Loki ve Heimdall"
+    ],
+    "correctAnswer": "Odin ve Thor",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Ragnarök",
+      "Yıkılış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wwnyjknfa",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde 'Thor' tanrısının kılıcının adı nedir?",
+    "explanation": "Thor'un kılıcının adı Mjolnir olup, bu kılıçla yıldırım atar.",
+    "options": [
+      "Mjolnir",
+      "Gungnir",
+      "Ragnarök",
+      "Valhalla"
+    ],
+    "correctAnswer": "Mjolnir",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Thor",
+      "Kılıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k530d1j6c",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde 'Loki' kimin oğludur?",
+    "explanation": "Loki, İskandinav mitolojisinde Odin'in oğludur ve karmaşık karakteriyle bilinen tanrıdır.",
+    "options": [
+      "Odin",
+      "Thor",
+      "Balder",
+      "Njord"
+    ],
+    "correctAnswer": "Odin",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Loki",
+      "Tanrılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ep0s09syo",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "Thor'un çekiç adı nedir?",
+    "explanation": "Thor'un çekiçi Mjolnir'dir ve bu çekiç mitolojide önemli bir semboldür.",
+    "options": [
+      "Mjolnir",
+      "Gungnir",
+      "Dáððr",
+      "Hlídý"
+    ],
+    "correctAnswer": "Mjolnir",
+    "tags": [
+      "thor",
+      "mjolnir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9iazgj3ai",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Odin'in kuzgunları hangileridir?",
+    "explanation": "Odin, iki kuzgunu olan Hugin (Düşünce) ve Munin (Hatırlama) ile dünyayı izler.",
+    "options": [
+      "Hugin ve Munin",
+      "Fenrir ve Hati",
+      "Loki ve Jörmungandr",
+      "Baldr ve Höðr"
+    ],
+    "correctAnswer": "Hugin ve Munin",
+    "tags": [
+      "odin",
+      "kuzgunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "guiamegsf",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Valhalla'da savaşan askerlerin adı nedir?",
+    "explanation": "Einherjar, Odin tarafından öldürülen savaşçıları Valhalla'da beklemektedir.",
+    "options": [
+      "Einherjar",
+      "Jötunnar",
+      "Æsir",
+      "Vanir"
+    ],
+    "correctAnswer": "Einherjar",
+    "tags": [
+      "valhalla",
+      "einherjar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6v8dl9fb4",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Mitgard'ın yok oluşu hangi olayla ilişkilidir?",
+    "explanation": "Ragnarok, Skandinav mitolojisinde Mitgard'ın yok oluşunu temsil eden son savaş olayıdır.",
+    "options": [
+      "Ragnarok",
+      "Valhalla Savaşı",
+      "Norns'un Kararı",
+      "Loki'nin Hilesi"
+    ],
+    "correctAnswer": "Ragnarok",
+    "tags": [
+      "ragnarok",
+      "mitgard"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3jd2fz1fk",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "Nornların görevi nedir?",
+    "explanation": "Nornlar, insanları ve tanrıların kaderini belirleyen üç kardeştir.",
+    "options": [
+      "Kaderi belirlemek",
+      "Mitgard'ı savunmak",
+      "Odin'in kılıcını yapmak",
+      "Jötunnar ile savaşmak"
+    ],
+    "correctAnswer": "Kaderi belirlemek",
+    "tags": [
+      "nornlar",
+      "kader"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gso7btcrq",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "İskandinav mitolojisinde insanları ve diğer canlıları yaratan baş tanrının adı nedir?",
+    "explanation": "İskandinav mitolojisinde Odin, Asgar'da en güçlü tanrıdır ve insanları (Attiler) diğer canlıları da yarattığına inanılır. Ayrıca bilgeliği temsil eder.",
+    "options": [
+      "Odin",
+      "Thor",
+      "Loki",
+      "Frigg"
+    ],
+    "correctAnswer": "Odin",
+    "tags": [
+      "tanrılar",
+      "yaratılış",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vc9qbybg7",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav efsanesinde denizleri sarsan kılıçla mücadele eden tanrının adı nedir?",
+    "explanation": "Thor, İskandinav mitolojisindeki kurtarıcı tanrıdır. Mjolnir adlı ejderha kılıcıyla denizleri ve kötü güçlerle mücadele eder.",
+    "options": [
+      "Odin",
+      "Thor",
+      "Tyr",
+      "Heimdall"
+    ],
+    "correctAnswer": "Thor",
+    "tags": [
+      "tanrılar",
+      "kılıç",
+      "denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "matf56i6g",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "İskandinav mitolojisinde Loki'nin en önemli özelliği nedir?",
+    "explanation": "Loki, İskandinav mitolojisindeki en bilinen kötü tanrıdır. Asgırlıların sürekli dolandırması ve kötülük yapmasıyla bilinir.",
+    "options": [
+      "Güçlü olmak",
+      "Dolandırmak",
+      "Sevmek",
+      "Akademik olmak"
+    ],
+    "correctAnswer": "Dolandırmak",
+    "tags": [
+      "Loki",
+      "tanrılar",
+      "özellikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "47wxxk68k",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "İskandinav efsanesinde Ragnarok adlı son savaştan önce hangi olay gerçekleşir?",
+    "explanation": "Ragnarok, İskandinav mitolojisindeki son savaşlardan biridir. Odin'in öldüğü bu savaştan sonra yeni bir dünya oluşur.",
+    "options": [
+      "Odin'in ölümü",
+      "Thor'un ölümü",
+      "Loki'nin ölümü",
+      "Tyr'in ölümü"
+    ],
+    "correctAnswer": "Odin'in ölümü",
+    "tags": [
+      "Ragnarok",
+      "son savaş",
+      "ölüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0a2fm7ws5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde Asgard ile Midgarden'ı birbirine bağlayan köprüün adı nedir?",
+    "explanation": "Bifrost, İskandinav mitolojisindeki Asgard ile Midgarden'ı birbirine bağlayan renkli köprüdür. Odin'in tahtına giden yol olarak bilinir.",
+    "options": [
+      "Bifrost",
+      "Valkyrie",
+      "Yggdrasil",
+      "Jotunheim"
+    ],
+    "correctAnswer": "Bifrost",
+    "tags": [
+      "köprü",
+      "Asgard",
+      "Midgarden"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kwntex0w2",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "İskandinav mitolojisinde 'Odin' tanrısı hangi yönle ilişkilidir?",
+    "explanation": "Odin, İskandinav mitolojisindeki en önemli tanrıdır. Bilgelik, savaş, ölüm ve sihir ile ilişkilendirilir. Yedili meşe ağacı (Yggdrasil) altında oturur ve 9 dilli konuşabildiğine inanılır.",
+    "options": [
+      "A) Deniz ve su yönetimi",
+      "B) Savaş ve ölüm, bilgelik",
+      "C) Aşık ve şarkı",
+      "D) Toprak ve bereket"
+    ],
+    "correctAnswer": "B) Savaş ve ölüm, bilgelik",
+    "tags": [
+      "mitoloji",
+      "Odin",
+      "İskandinav"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j88yeummt",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde 'Valkyrie'ler ne işlev görür?",
+    "explanation": "Valkyrie'ler (kız savaşçılar), Odin'in hizmetkarlarıdır. Savaş alanından ölen cesetleri toplar ve Valhalla'ya götürürler. Özellikle savaşta cesaret gösteren askerleri seçerler.",
+    "options": [
+      "A) Ölüleri cennete götürür",
+      "B) Savaş alanından ölen askerleri Valhalla'ya seçer",
+      "C) Yeryüzünde aşkı yönetir",
+      "D) Deniz canavarlarını kontrol eder"
+    ],
+    "correctAnswer": "B) Savaş alanından ölen askerleri Valhalla'ya seçer",
+    "tags": [
+      "Valkyrie",
+      "Valhalla",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wyjhe5z0k",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisindeki 'Valhalla' neresidir?",
+    "explanation": "Valhalla, Odin'in Valhall'da oturduğu ve oraya seçilen ölü askerlerin barındığı gökyüzündeki yerdir. 'Ölülerin gidişi' anlamına gelir ve sadece savaşta cesaret gösterenler için ayrılmıştır.",
+    "options": [
+      "A) Yeryüzündeki en büyük şehir",
+      "B) Ölü tanrıların oturduğu cennet",
+      "C) Ölülerin gittiği savaşçı mezarı",
+      "D) Deniz altındaki krallık"
+    ],
+    "correctAnswer": "C) Ölülerin gittiği savaşçı mezarı",
+    "tags": [
+      "Valhalla",
+      "ölüler",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "neeniv36m",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "İskandinav mitolojisinde 'Thor' tanrısı hangi özellikle bilinir?",
+    "explanation": "Thor, İskandinav mitolojisindeki gücün tanrısıdır. Mjølnir (yıldız taşı) adı verilen kılıcıyla bilinir. Yeryüzünün korunması ve canavarlardan (örn: Jörmungandr) savunma görevi görür.",
+    "options": [
+      "A) Bilgelik ve sihir",
+      "B) Gökkuşağı kılıcı",
+      "C) Yıldız taşı ve güç",
+      "D) Deniz canavarı"
+    ],
+    "correctAnswer": "C) Yıldız taşı ve güç",
+    "tags": [
+      "Thor",
+      "tanrı",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ensct8w2b",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "İskandinav mitolojisindeki 'Yggdrasil' neresidir?",
+    "explanation": "Yggdrasil (veya Yggdrasill), İskandinav mitolojisindeki devasa meşe ağacıdır. Dünyayı birbirine bağlar ve Odin'in oturduğu yerdir. Ağacın dalları 9 kılıçla tutulur.",
+    "options": [
+      "A) Odin'in oturduğu meşe ağacı",
+      "B) Valhalla'nın kapısı",
+      "C) Thor'un kılıcı",
+      "D) Valkyrie'nin atı"
+    ],
+    "correctAnswer": "A) Odin'in oturduğu meşe ağacı",
+    "tags": [
+      "Yggdrasil",
+      "meşe",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kihz6i80w",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisindeki 'Ragnarök' neyi temsil eder?",
+    "explanation": "Ragnarök, İskandinav mitolojisindeki karanlık günleri ve tanrıların büyük son savaşını temsil eder. Odin, Thor gibi tanrılar bu savaşta ölür.",
+    "options": [
+      "Tanrıların doğuşu",
+      "Büyük son savaş ve yok oluş",
+      "Ateşin kontrolü",
+      "Kraliyet tahtı"
+    ],
+    "correctAnswer": "Büyük son savaş ve yok oluş",
+    "tags": [
+      "mitoloji",
+      "İskandinav",
+      "Ragnarök"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n5y0qqf81",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "İskandinav mitolojisinde 'Yggdrasil' (Dünya Ağacı) neyi simgeler?",
+    "explanation": "Yggdrasil, İskandinav mitolojisindeki devasa dünya ağacıdır. Üç dünyayı birbirine bağlar ve birçok yaratık onun etrafında yaşar.",
+    "options": [
+      "Dünyanın merkezi ve yaşam ağacı",
+      "Ateşin kaynağı",
+      "Denizin derinlikleri",
+      "Kraliyet tahtı"
+    ],
+    "correctAnswer": "Dünyanın merkezi ve yaşam ağacı",
+    "tags": [
+      "mitoloji",
+      "İskandinav",
+      "Yggdrasil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wdggqwi10",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "'Odin' tanrısı hangi özellikleriyle bilinir?",
+    "explanation": "Odin, İskandinav mitolojisindeki en önemli tanrılardan biridir. Bilgelik, savaş ve ölümlerin (Valhall) hükümdarı olarak bilinir.",
+    "options": [
+      "Güçlü savaşçı",
+      "Bilgelik ve ölümlerin hükümdarı",
+      "Denizlerin tanrısı",
+      "Ateşin tanrısı"
+    ],
+    "correctAnswer": "Bilgelik ve ölümlerin hükümdarı",
+    "tags": [
+      "mitoloji",
+      "İskandinav",
+      "Odin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "axw8doeqy",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "'Thor' tanrısı hangi silahla ilişkilendirilir?",
+    "explanation": "Thor, İskandinav mitolojisindeki yıldızlar ve fırtınaların tanrısıdır. Gök gürültüsü çubuğu (Mjolnir) ile bilinir ve bu silahla Jörmungandr'yı vurur.",
+    "options": [
+      "Mızrak",
+      "Kılıç",
+      "Gök gürültüsü çubuğu (Mjolnir)",
+      "Oklar"
+    ],
+    "correctAnswer": "Gök gürültüsü çubuğu (Mjolnir)",
+    "tags": [
+      "mitoloji",
+      "İskandinav",
+      "Thor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ix9uh04gw",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "'Valhall' İskandinav mitolojisinde neyi temsil eder?",
+    "explanation": "Valhall, İskandinav mitolojisindeki savaşçıların öldükten sonra gittikleri ölümsüzlik alanıdır. Odin tarafından yönetilir.",
+    "options": [
+      "Savaşçıların ölümsüzlik alanı",
+      "Tanrıların yeri",
+      "Cehennem benzeri yer",
+      "Kraliyet sarayı"
+    ],
+    "correctAnswer": "Savaşçıların ölümsüzlik alanı",
+    "tags": [
+      "mitoloji",
+      "İskandinav",
+      "Valhall"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f7bswep2i",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav Mitolojisinde 'Odin' tanrısının sembolik hayvanı aşağıdakilerden hangisidir?",
+    "explanation": "Odin, İskandinav mitolojisinde iki raven (kuzgun) tarafından sembolize edilir: Hugin ve Munin. Bu kuşlar Odin'in başında dolaşıp dünyayı izler ve bilgi getirir.",
+    "options": [
+      "Gök kuşu",
+      "Raven",
+      "Kaplumbağa",
+      "Ejderha"
+    ],
+    "correctAnswer": "Raven",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Odin Tanrısı",
+      "Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i331cxrbt",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "İskandinav Mitolojisinde 'Valhalla' olarak adlandırılan yer kime aittir?",
+    "explanation": "Valhalla, Odin'in kutsal yurdu olup burada savaşta ölen 'Einherjar' denilen savaşçıların yaşayacağı yer olarak kabul edilir.",
+    "options": [
+      "Freya'nın yurdu",
+      "Odin'in savaşçıların cenneti",
+      "Heimdall'ın evi",
+      "Loki'nin krallığı"
+    ],
+    "correctAnswer": "Odin'in savaşçıların cenneti",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Valhalla",
+      "Savaşçılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "et9osrqld",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "'Yggdrasil' İskandinav Mitolojisinde neyi temsil eder?",
+    "explanation": "Yggdrasil, İskandinav mitolojisindeki devasa yaşam ağacıdır ve dünya kıtalarını birbirine bağlayan merkezi yapı olarak tasvir edilir.",
+    "options": [
+      "Dünya ejderhası",
+      "Yaşam ağacı",
+      "Gök kuşu",
+      "Kuzgun"
+    ],
+    "correctAnswer": "Yaşam ağacı",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Yggdrasil",
+      "Ağaç Sembolizmi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lgz5yy3t3",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "'Ragnarok' nedir?",
+    "explanation": "Ragnarok, İskandinav mitolojisindeki son zamanları ifade eder. Tüm tanrılar ve dünya yaratıklarının yok olacağı büyük son savaş olarak biliniyor.",
+    "options": [
+      "İskandinavların kutsal bayramı",
+      "Son zamanlar/son günler",
+      "Odin'in doğum günü",
+      "Freya'nın krallığı"
+    ],
+    "correctAnswer": "Son zamanlar/son günler",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Ragnarok",
+      "Bitiş Savaşları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "emljgpfj4",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav Mitolojisinde 'Bifrost' köprüsü neyi bağlar?",
+    "explanation": "Bifrost, kırmızı köprü olarak bilinen ve Asgarth (tanrıların dünyası) ile Midgard (insanların dünyası) arasında geçen gökyüzü köprüsüdür.",
+    "options": [
+      "Dünya ejderhası ile Valhalla",
+      "Asgarth ile Midgard",
+      "Freya'nın kalesi ile Odin'in yurdu",
+      "Odin ile Loki"
+    ],
+    "correctAnswer": "Asgarth ile Midgard",
+    "tags": [
+      "İskandinav Mitolojisi",
+      "Bifrost Köprüsü",
+      "Coğrafi Yapı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ipj9smlhx",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Edebeyat ve Dil - İskandinav Mitolojisi: Odin, Skandinav mitolojisindeki en önemli tanrıdır. Hangi sıma onun simgesi olarak kabul edilir?",
+    "explanation": "Odin, İskandinav mitolojisindeki en önemli tanrıdır ve iki sıma (Gungnir) kullanır. Sıma onun simgesi kabul edilir.",
+    "options": [
+      "Balta",
+      "Havuz",
+      "Sıma",
+      "Yılan"
+    ],
+    "correctAnswer": "Sıma",
+    "tags": [
+      "Odin",
+      "Tanrı",
+      "Simge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8b5v3r1xi",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Edebeyat ve Dil - İskandinav Mitolojisi: Ragnarok, Skandinav mitolojisindeki son günleri temsil eder. Hangi tanrı bu olaya karşı savaşırken ölür?",
+    "explanation": "Thor, Ragnarok sırasında Yılan (Jörmungandr) ile savaşırken ölür.",
+    "options": [
+      "Thor",
+      "Odin",
+      "Loki",
+      "Baldr"
+    ],
+    "correctAnswer": "Thor",
+    "tags": [
+      "Ragnarok",
+      "Thor",
+      "Ölüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7pjclaair",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Edebeyat ve Dil - İskandinav Mitolojisi: Skandinav mitolojisindeki dokuz alem hangileridir? Hangisi bu listede yer almaz?",
+    "explanation": "Skandinav mitolojisindeki dokuz alem arasında Midgard, Asgard, Helheim yer alır. Eden Hristiyan mitolojisine ait bir konsepttir.",
+    "options": [
+      "Midgard",
+      "Asgard",
+      "Helheim",
+      "Eden"
+    ],
+    "correctAnswer": "Eden",
+    "tags": [
+      "Dokuz Alem",
+      "Mekân"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ko5xovyd0",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Edebeyat ve Dil - İskandinav Mitolojisi: Loki, Skandinav mitolojisindeki kurnaz tanrıdır. Hangi tanrının oğlu kabul edilir?",
+    "explanation": "Loki, Odin ile Jörmundun (veya Sigyn) çiftinden doğan tanrının oğlu kabul edilir.",
+    "options": [
+      "Odin",
+      "Thor",
+      "Freya",
+      "Baldur"
+    ],
+    "correctAnswer": "Odin",
+    "tags": [
+      "Loki",
+      "Tanrı",
+      "Aile"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsjmz9ozk",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "Edebeyat ve Dil - İskandinav Mitolojisi: Skandinav mitolojisindeki ilk insan olan Askr ve Embla'nın yaratıcısı kimdir?",
+    "explanation": "Odin, Askr ve Embla'yı yaratmıştır. Bu ikisi İskandinav mitolojisindeki ilk insanlardır.",
+    "options": [
+      "Odin",
+      "Thor",
+      "Loki",
+      "Heimdall"
+    ],
+    "correctAnswer": "Odin",
+    "tags": [
+      "İlk İnsan",
+      "Odin",
+      "Yaratılış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rx75e8a4a",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde, gökyüzü Tanrısı olarak bilinen ve Thor'un babası olan kimdir?",
+    "explanation": "Odin, İskandinav mitolojisinde en saygı duyulan tanrıdır ve gökyüzü Tanrısı olarak bilinir. Thor'un babasıdır ve 900 kuzeninin (vikinglerin) lideridir.",
+    "options": [
+      "Odin",
+      "Loki",
+      "Frigg",
+      "Baldur"
+    ],
+    "correctAnswer": "Odin",
+    "tags": [
+      "tanrı",
+      "norse",
+      "odin",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "76gns8w8c",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisindeki 'Ragnarök' neyi ifade eder?",
+    "explanation": "Ragnarök, İskandinav mitolojisindeki büyük savaş ve tüm tanrıların ölümüyle sonuçlanan dünyanın sonudur. Bu olayda Odin, Thor ve birçok diğer tanrı da dahil olmak üzere birçok varlık hayatını kaybeder.",
+    "options": [
+      "Yeni dünya yaratılması",
+      "Tüm tanrıların ölümü ve dünyanın sonu",
+      "Thor'un zaferi",
+      "Odin'in tahtı"
+    ],
+    "correctAnswer": "Tüm tanrıların ölümü ve dünyanın sonu",
+    "tags": [
+      "ragnarök",
+      "dünyanın_son",
+      "mitoloji",
+      "norse"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iuk75uapx",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "Thor'un gürültülü mızrağına ne ad verilir?",
+    "explanation": "Mjölnir, Thor'un gürültülü ve güçlü mızrağıdır. Bu silahın adı 'göktaşı' anlamına gelir ve İskandinav mitolojisinde en bilinen silahlardan biridir.",
+    "options": [
+      "Gungnir",
+      "Mjölnir",
+      "Lævateinn",
+      "Ragnok"
+    ],
+    "correctAnswer": "Mjölnir",
+    "tags": [
+      "thor",
+      "mızrak",
+      "mjölnir",
+      "tanrı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mx86h3y0p",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisindeki 'Jörmungandr' neyi temsil eder?",
+    "explanation": "Jörmungandr, Loki'nin çocuğu olan dev deniz ejderhasıdır. Bu ejderha dünya okyanuslarını sarar ve Ragnarök sırasında Thor ile savaşır.",
+    "options": [
+      "Odin",
+      "Loki",
+      "Dev deniz ejderhası",
+      "Baldur"
+    ],
+    "correctAnswer": "Dev deniz ejderhası",
+    "tags": [
+      "jormungandr",
+      "ejderha",
+      "deniz",
+      "mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k8dff0h9m",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EXPERT",
+    "question": "İskandinav destanlarında 'Völuspá' neyi ifade eder?",
+    "explanation": "Völuspá, İskandinav mitolojisindeki bir destandır ve kadın büyücülerin (völvalar) geleceğe dair prophecia'sını içerir. Bu eserde Odin'in hikayesi ve Ragnarök'n detayları anlatılır.",
+    "options": [
+      "Bir tanrının şarkısı",
+      "Kadın büyücünün (völvanın) prophecia'sı",
+      "Bir savaşın başlangıcı",
+      "Dünyanın sonu"
+    ],
+    "correctAnswer": "Kadın büyücünün (völvanın) prophecia'sı",
+    "tags": [
+      "voluspá",
+      "prophecy",
+      "völva",
+      "destan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gt27srny5",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde dünya yaratan ve ölümünü kabul eden en önemli tanrı hangisidir?",
+    "explanation": "Odin, İskandinav mitolojisindeki en önemli tanrıdır. 90 yaşında öldüğünde ve ölümü kabul eden ilk kişidir.",
+    "options": [
+      "Odin",
+      "Thor",
+      "Loki",
+      "Freya"
+    ],
+    "correctAnswer": "Odin",
+    "tags": [
+      "tanrılar",
+      "olimpiyos",
+      "eskandinav mitolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qf6vrfuaj",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "İskandinav mitolojisinde 'Ragnarok' neyi ifade eder?",
+    "explanation": "Ragnarok, İskandinav mitolojisindeki en önemli olaylardan biridir ve dünyanın sonunu ifade eder.",
+    "options": [
+      "Dünyanın sonu",
+      "Yeni bir tanrının doğuşu",
+      "Loki'nin hıçkırığı",
+      "Thor'un zaferi"
+    ],
+    "correctAnswer": "Dünyanın sonu",
+    "tags": [
+      "ragnarok",
+      "dünya sonu",
+      "eskandinav mitolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v8fa7u6q3",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde Midgard neyi temsil eder?",
+    "explanation": "Midgard, İskandinav mitolojisinde insanların yaşadığı dünyanın adıdır.",
+    "options": [
+      "Tanrıların dünyası",
+      "Devlerin dünyası",
+      "İnsanların dünyası",
+      "Cehennem"
+    ],
+    "correctAnswer": "İnsanların dünyası",
+    "tags": [
+      "midgard",
+      "dünya yapıları",
+      "eskandinav mitolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bj2q62kh3",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "GENERAL",
+    "question": "İskandinav mitolojisinde Loki hangi tanrı ailesine aittir?",
+    "explanation": "Loki, Odin ve Thor'un torunlarıdır.",
+    "options": [
+      "Odin ve Thor",
+      "Thor ve Freya",
+      "Freya ve Heimdall",
+      "Baldr ve Tyr"
+    ],
+    "correctAnswer": "Odin ve Thor",
+    "tags": [
+      "loki",
+      "tanrı aileleri",
+      "eskandinav mitolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iijdph4g1",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "İskandinav Mitolojisi",
+    "difficulty": "EASY",
+    "question": "İskandinav mitolojisinde Thor hangi özelliyle bilinir?",
+    "explanation": "Thor, İskandinav mitolojisinde gök gürültüsü ve yıldırım ile bilinen en önemli tanrıdır.",
+    "options": [
+      "Gök gürültüsü ve yıldırım",
+      "Cesaret ve kahramanlık",
+      "Aşk ve tutku",
+      "Hikaye anlatıcılığı"
+    ],
+    "correctAnswer": "Gök gürültüsü ve yıldırım",
+    "tags": [
+      "thor",
+      "yıldırım",
+      "eskandinav mitolojisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

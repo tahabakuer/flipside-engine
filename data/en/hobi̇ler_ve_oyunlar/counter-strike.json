@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "bk9hazcc4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike'de Teröristlerin (Terrorist) temel görevi nedir?",
+    "explanation": "Counter-Strike'de Teröristlerin ana görevi, bombayı (C4) patlatmak veya polisleri öldürerek devreyi kazanmaktır. Bombayı defetmek ve ekipman çalmak polislerin (CT) görevidir.",
+    "options": [
+      "Polisleri (CT) bombayı patlatarak veya öldürerek etkisiz hale getirmek",
+      "Polisleri bombayı defetmek",
+      "Ekipman çalmak",
+      "Haritayı kontrol etmek"
+    ],
+    "correctAnswer": "Polisleri (CT) bombayı patlatarak veya öldürerek etkisiz hale getirmek",
+    "tags": [
+      "Temel Bilgiler",
+      "Terörist"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w13hc2clb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike: Global Offensive'de 'de_dust2' haritası hangi bölgede oynanır?",
+    "explanation": "de_dust2, Counter-Strike'in en ikonik haritalarından biridir ve Orta Doğu/Akdeniz bölgesi temalıdır. Kuru toprak, çöl kenarı gibi unsurlar içerir.",
+    "options": [
+      "Büyükşehir/Şehir",
+      "Orta Doğu/Akdeniz",
+      "Avrupa",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Orta Doğu/Akdeniz",
+    "tags": [
+      "Haritalar",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lh9kqjaai",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike'te 'AWP' silahı hangi kategoriye aittir?",
+    "explanation": "AWP, Counter-Strike'te en bilinen sniper tüfeğidir. Tek atışla yüksek hasar verir ve menzili çok uzundur ancak hızlı değildir.",
+    "options": [
+      "Tüfek (Rifle)",
+      "Tabanca (Pistol)",
+      "Sniper Tüfeği",
+      "Ağır Silah (Heavy)"
+    ],
+    "correctAnswer": "Sniper Tüfeği",
+    "tags": [
+      "Silahlar",
+      "Donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tyylomzkb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike'de 'Defuse' (Bombayı Defet) ne zaman yapılır?",
+    "explanation": "Defuse, polislerin (CT) C4 bombasını patlatmadan önce çözmesi işlemidir. Bu, Teröristlere karşı devreyi kazanmak için kritik bir mekaniktir.",
+    "options": [
+      "Teröristler bombayı patlattıktan sonra",
+      "Polis C4'yı patlatmadan önce ve bombayı çözmek için",
+      "Harita değiştiğinde",
+      "Ekip ölemez"
+    ],
+    "correctAnswer": "Polis C4'yı patlatmadan önce ve bombayı çözmek için",
+    "tags": [
+      "Oyun Mekanikleri",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tdypkupjz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EXPERT",
+    "question": "Counter-Strike: Global Offensive'te 'Bomb Site A' hangi bölgede bulunur?",
+    "explanation": "de_dust2, A, B ve C olmak üzere üç bomb sitesi içerir. Site A, haritanın orta bölümünde bulunur ve genellikle ilk hedef olarak kullanılır.",
+    "options": [
+      "de_dust2 haritasında",
+      "cs_office haritasında",
+      "de_inferno haritasında",
+      "Tüm haritalarda aynı"
+    ],
+    "correctAnswer": "de_dust2 haritasında",
+    "tags": [
+      "Haritalar",
+      "Bomb Sitesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w6ix0u3if",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Which map is one of the most iconic and frequently played in Counter-Strike?",
+    "explanation": "Dust II is a classic map in Counter-Strike, known for its strategic gameplay and balanced design.",
+    "options": [
+      "Dust II",
+      "Overpass",
+      "Inferno",
+      "Nuke"
+    ],
+    "correctAnswer": "Dust II",
+    "tags": [
+      "Maps",
+      "Counter-Strike"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "07tbfn275",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Which of the following weapons is a primary weapon used by Counter-Terrorists in Competitive mode?",
+    "explanation": "In Competitive mode, Counter-Terrorists typically use the M4A1-S as their primary weapon, while Terrorists use the AK-47.",
+    "options": [
+      "AK-47",
+      "M4A1-S",
+      "AWP",
+      "USP-S"
+    ],
+    "correctAnswer": "M4A1-S",
+    "tags": [
+      "Weapons",
+      "Counter-Strike"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "423sd002x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "In Competitive mode, how many rounds does a match consist of before overtime?",
+    "explanation": "A Competitive match consists of up to 24 rounds (best of 25), after which overtime begins if the score is tied.",
+    "options": [
+      "20",
+      "24",
+      "15",
+      "30"
+    ],
+    "correctAnswer": "24",
+    "tags": [
+      "Game Modes",
+      "Counter-Strike"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sj8vbnltp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EXPERT",
+    "question": "What is an 'Eco Round' in Counter-Strike?",
+    "explanation": "An Eco Round is a strategic decision to save money instead of buying expensive weapons, allowing for better equipment in subsequent rounds.",
+    "options": [
+      "A round where teams save money to buy better weapons next round",
+      "A round with only pistols available",
+      "A round that determines the winner",
+      "A round with no bomb planted"
+    ],
+    "correctAnswer": "A round where teams save money to buy better weapons next round",
+    "tags": [
+      "Strategy",
+      "Terms",
+      "Counter-Strike"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yzee4xpbe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Which team's main objective is to defuse the bomb and prevent it from being planted?",
+    "explanation": "The Counter-Terrorist team is responsible for defusing the bomb if planted by Terrorists and stopping them from achieving their objective.",
+    "options": [
+      "Terrorists",
+      "Counter-Terrorists",
+      "Both teams equally",
+      "None of the above"
+    ],
+    "correctAnswer": "Counter-Terrorists",
+    "tags": [
+      "Objectives",
+      "Counter-Strike"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "awk7txcbi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike: Global Offensive'da 'Dust II' haritasındaki A noktası hangi bölümdedir?",
+    "explanation": "Dust II'de A noktası Long A olarak bilinir ve haritanın uzun tarafında bulunur. Mid bölümden geçerek A Site'ye gidilir.",
+    "options": [
+      "Long A",
+      "Mid",
+      "Short",
+      "B Site"
+    ],
+    "correctAnswer": "Long A",
+    "tags": [
+      "maps",
+      "strategies"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sowugs1gk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Counter-Strike'te 'AWP' silahının türü nedir?",
+    "explanation": "AWP (Arctic Warfare Magnum), Counter-Strike'da bir sniper rifle olarak sınıflandırılır ve tek atış yüksek hasar verir.",
+    "options": [
+      "SMG",
+      "Rifle",
+      "Sniper Rifle",
+      "Pistol"
+    ],
+    "correctAnswer": "Sniper Rifle",
+    "tags": [
+      "weapons"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j6x254yot",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike: Source'ta 'de_nuke' haritasında bomba kaç saniye içinde patlar?",
+    "explanation": "Counter-Strike'te bomba her haritada 40-45 saniye arasında patlar. Nuke haritasında 45 saniye sabittir.",
+    "options": [
+      "30 saniye",
+      "45 saniye",
+      "60 saniye",
+      "90 saniye"
+    ],
+    "correctAnswer": "45 saniye",
+    "tags": [
+      "gameplay",
+      "timers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "70k2gn2vi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "CT (Counter-Terrorist) tarafı hangi ekipmanla bomba defetebilir?",
+    "explanation": "CT tarafı sadece Defuse Kit (bombayı sökmek için) kullanabilir. Diğer maddeler sadece hasar veya kurtarma sağlar.",
+    "options": [
+      "HE Grenade",
+      "Defuse Kit",
+      "Smoke Bomb",
+      "Flashbang"
+    ],
+    "correctAnswer": "Defuse Kit",
+    "tags": [
+      "equipment",
+      "gameplay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h9epvsxm1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EXPERT",
+    "question": "Counter-Strike'da 'Karambit' bıçakının türü nedir ve hangi amaçla kullanılır?",
+    "explanation": "Karambit, Counter-Strike'da bir el bıçağıdır ve genellikle 'mirror' (ayna) efekti ile kullanılır. Diğer bıçaklar farklı stillere sahiptir.",
+    "options": [
+      "Ayna Bıçağı",
+      "Siyah Bıçak",
+      "Karambit",
+      "Bayonet"
+    ],
+    "correctAnswer": "Karambit",
+    "tags": [
+      "knives",
+      "skins"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fyi58zu8o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike'da teröristlerin (T) temel silahı nedir?",
+    "explanation": "Glock-18, teröristlerin başlangıç silahıdır ve her iki tarafta da 4 adet bulunur.",
+    "options": [
+      "Glock-18",
+      "AK-47",
+      "MAG-7",
+      "AWP"
+    ],
+    "correctAnswer": "Glock-18",
+    "tags": [
+      "Counter-Strike",
+      "Silahlar",
+      "Terörist"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wnfmk1szm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike: Global Offensive'ta hangi harita 'Bomb Defusal' modunda oynanır?",
+    "explanation": "Dust2, Overpass ve Inferno gibi haritalar Counter-Strike'ta De modunda kullanılır.",
+    "options": [
+      "Dust2",
+      "Overpass",
+      "Inferno",
+      "All of these"
+    ],
+    "correctAnswer": "All of these",
+    "tags": [
+      "Counter-Strike",
+      "Haritalar",
+      "De Modu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m12p2bxww",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "CT tarafı hangi terimi kullanır?",
+    "explanation": "CT, Counter-Terrorist'in kısaltmasıdır ve polisin/terörle mücadele biriminin rolünü oynar.",
+    "options": [
+      "Counter-Terrorist",
+      "Combat Team",
+      "Crew Team",
+      "Cyber Team"
+    ],
+    "correctAnswer": "Counter-Terrorist",
+    "tags": [
+      "Counter-Strike",
+      "Taraflar",
+      "Terminoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2iz8grbid",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike'da 'Eco Round' ne zaman kullanılır?",
+    "explanation": "Eco Round, oyuncuların silahlarını yenilemek için para biriktirdikleri turlardır.",
+    "options": [
+      "Her tur",
+      "Silah yenileme turu için",
+      "İlk turda",
+      "Sadece bombalı turlarda"
+    ],
+    "correctAnswer": "Silah yenileme turu için",
+    "tags": [
+      "Counter-Strike",
+      "Strateji",
+      "Ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t4zfdqokg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EXPERT",
+    "question": "Which Counter-Strike weapon has the highest damage per shot?",
+    "explanation": "Deagle (Desert Eagle) Counter-Strike'daki en yüksek hasar veren tek atışlı silahdır.",
+    "options": [
+      "USP-S",
+      "M4A1-S",
+      "Deagle",
+      "MP9"
+    ],
+    "correctAnswer": "Deagle",
+    "tags": [
+      "Counter-Strike",
+      "Silahlar",
+      "Hasar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kwi5ubwwh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike'de 'Eco Round' ne zaman oynanır?",
+    "explanation": "Eco Round, oyuncuların ekipmanlarını yenilemek için az para harcadığı turlardır. Genellikle 1 veya 2 turda bir oynanır ve takım bütçesini korumak içindir.",
+    "options": [
+      "Her tur",
+      "Ara sıra",
+      "Kıtlık turunda",
+      "Sadece Terrorist olarak"
+    ],
+    "correctAnswer": "Kıtlık turunda",
+    "tags": [
+      "Counter-Strike",
+      "Ekonomi",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "otmz2jpax",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "CS'de en popüler deprem silahı hangisidir?",
+    "explanation": "M4A1-S, Counter-Strike'de en yaygın kullanılan asıl silah olarak bilinir ve deprem için tercih edilir. Düşük geri tepme oranına sahiptir.",
+    "options": [
+      "AWP",
+      "Glock-18",
+      "M4A1-S",
+      "SG 553"
+    ],
+    "correctAnswer": "M4A1-S",
+    "tags": [
+      "Counter-Strike",
+      "Silahlar",
+      "Temel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2i8py9j8y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "CS'de 'Clutch' durumu neyi ifade eder?",
+    "explanation": "Clutch, takım arkadaşlarının hepsi öldüğünde veya geriye tek oyuncu kaldığında, o oyuncunun turu kazanarak takımını kurtarmasıdır.",
+    "options": [
+      "Kazandığınız tur",
+      "Yalnız kalan oyuncu takımını kurtarır",
+      "Düşmanların hepsi öldü",
+      "Aynı anda 3 kişi ölür"
+    ],
+    "correctAnswer": "Yalnız kalan oyuncu takımını kurtarır",
+    "tags": [
+      "Counter-Strike",
+      "Terimler",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g8mbipqd3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "CS'de hangi harita 'Bomb Site' olarak bilinen A ve B bölgelerine sahiptir?",
+    "explanation": "Dust2, Counter-Strike'de en meşhur haritalardan biridir ve A/B bomb site bölgelerine sahiptir. Terroristlerin bomba yerleştirdiği noktadır.",
+    "options": [
+      "Dust2",
+      "Cobblestone",
+      "Inferno",
+      "Aztec"
+    ],
+    "correctAnswer": "Dust2",
+    "tags": [
+      "Counter-Strike",
+      "Haritalar",
+      "Bomb Site"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5jq577b6r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "CS'de 'Plant' ne zaman yapılır?",
+    "explanation": "Plant, Terrorist oyuncusunun bomba yerleştirdiği ve Counter-Terrorist'lerin bombayı defetmesi gereken turdur. Herhangi bir turda yapılabilir.",
+    "options": [
+      "Herhangi bir turda",
+      "Sadece Defansif olarak",
+      "Terrorist tarafı kazandığında",
+      "Silah bittiğinde"
+    ],
+    "correctAnswer": "Terrorist tarafı kazandığında",
+    "tags": [
+      "Counter-Strike",
+      "Oyun Mekaniği",
+      "Bomb Site"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8bngsz88x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Counter-Strike oyununda 'Bomb Defusal' modunda teröristlerin temel amacı nedir?",
+    "explanation": "Bomb Defusal modunda teröristlerin ana görevi C4 bombasını haritanın belirli noktalara yerleştirerek patlatmaktır; Counter-Terroristler ise bunu önlemelidir.",
+    "options": [
+      "Teröristlerin C4 bombasını yerleştirip patlatması",
+      "Hostajları kurtarma",
+      "Kart savaşı kazanma",
+      "Harita temizleme"
+    ],
+    "correctAnswer": "Teröristlerin C4 bombasını yerleştirip patlatması",
+    "tags": [
+      "Counter-Strike",
+      "Bomb Defusal",
+      "Game Mechanics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1mfgrxxpq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Hangi silah Counter-Strike'te 'Sniper' sınıfının simgesi olarak kabul edilir ve yüksek menzilli vuruşlar için tercih edilir?",
+    "explanation": "AWP (Arctic Warfare Platform) Counter-Strike serisindeki en bilinen sniper (tutkucu) silahıdır, yüksek menzilli ve tek atışlı vurmalılığıyla öne çıkar.",
+    "options": [
+      "AK-47",
+      "USP-S",
+      "AWP",
+      "M4A1"
+    ],
+    "correctAnswer": "AWP",
+    "tags": [
+      "Counter-Strike",
+      "Weapons",
+      "CS:GO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ybonl7rbh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "'de_dust2' haritası Counter-Strike serisinin en ikonik haritalarından biri olup hangi oyun motoru üzerinde çalıştırılır?",
+    "explanation": "Counter-Strike: Source ve CS:GO gibi oyunlar 'de_dust2' haritasını da içeren bu haritaları Source Engine motoru kullanılarak oluşturulmuştur.",
+    "options": [
+      "Unreal Engine 3",
+      "CryEngine",
+      "Source Engine",
+      "Unity"
+    ],
+    "correctAnswer": "Source Engine",
+    "tags": [
+      "Counter-Strike",
+      "Maps",
+      "Source Engine"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1a7py1pqp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EXPERT",
+    "question": "Oyunda bir silahın 'Recoil' özelliği neyi ifade eder ve hangi silah türünde daha belirgindir?",
+    "explanation": "Recoil, silahın ateşleme sırasında namludan çıkan mermilerin hedefin biraz yukarısına gitmesine neden olan sapma (namlu çekimi) mekanizmasını ifade eder ve yüksek atış hızlı toplarda daha belirgindir.",
+    "options": [
+      "Silah sesi",
+      "Namlu çekimi (saldırı sırasında yörünge sapması)",
+      "Mermi hızı",
+      "Silah ağırlığı"
+    ],
+    "correctAnswer": "Namlu çekimi (saldırı sırasında yörünge sapması)",
+    "tags": [
+      "Counter-Strike",
+      "Gunplay",
+      "Mechanics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qot93ir2y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EXPERT",
+    "question": "Counter-Strike'te bir oyuncu 'Eco Round'da (Ekonomik Tur) genellikle hangi silahı satın alır?",
+    "explanation": "Ekonomik tur (Eco Round) oyuncuların kaskolarını ve silahlarını yenileme stratejisi için daha az bütçe harcamalarını gerektirir; bu nedenle genellikle P250, USP-S veya bıçaklar tercih edilir.",
+    "options": [
+      "AWP",
+      "AK-47",
+      "P250 veya USP-S",
+      "M4A1-S"
+    ],
+    "correctAnswer": "P250 veya USP-S",
+    "tags": [
+      "Counter-Strike",
+      "Economy",
+      "Strategy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7vuhqqe9q",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Counter-Strike'de Teröristlerin (T) temel görevi nedir?",
+    "explanation": "Teröristler oyunun ana hedefi olarak bomba (C4) yerleştirip patlatarak kazanmayı amaçlar.",
+    "options": [
+      "Polislere ateş etmek",
+      "Bombayı patlatmak",
+      "Haritayı temizlemek",
+      "Kartı almak"
+    ],
+    "correctAnswer": "Bombayı patlatmak",
+    "tags": [
+      "hedef",
+      "rol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r9pjv3tcj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Hangi silah Counter-Strike'de \"AWP\" olarak bilinir ve en yüksek hasarı veren silahlardan biridir?",
+    "explanation": "AWP, uzun menzilli ve yüksek hasarlı bir sniper tüfeğidir.",
+    "options": [
+      "AK-47",
+      "M4A1",
+      "AWP",
+      "Glock-18"
+    ],
+    "correctAnswer": "AWP",
+    "tags": [
+      "silah",
+      "sniper"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d6xrcwcak",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EXPERT",
+    "question": "Bir oyuncu \"Eco Round\" oynarken genellikle ne tür bir strateji uygular?",
+    "explanation": "Eco roundlarda oyuncular az harcayarak bir sonraki turu ekonomik olarak hazır hale getirir.",
+    "options": [
+      "Tüm ekonomiyi riskli silahlarda harcar",
+      "Sadece tabancalarla oynayıp maliyeti düşürür",
+      "Bombayı patlatmaya çalışır",
+      "Healt pack kullanır"
+    ],
+    "correctAnswer": "Sadece tabancalarla oynayıp maliyeti düşürür",
+    "tags": [
+      "ekonomi",
+      "strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tsldpbl9g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Dust2 haritası Counter-Strike serisinde hangi kategoride yer alır?",
+    "explanation": "Dust2, oyunun en popüler bombada yerleştirilip korunma veya patlatma haritalarından biridir.",
+    "options": [
+      "Zombi haritaları",
+      "Bomba haritaları",
+      "Ateş haritaları",
+      "Saklı alan haritaları"
+    ],
+    "correctAnswer": "Bomba haritaları",
+    "tags": [
+      "harita",
+      "map"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cj0zg4047",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Counter-Strike oyununda standart modda bir ekip kaç oyuncudan oluşur?",
+    "explanation": "Standart modlarda her iki taraf (T ve CT) da 5'er kişilik ekiple oynar.",
+    "options": [
+      "3 kişi",
+      "5 kişi",
+      "10 kişi",
+      "7 kişi"
+    ],
+    "correctAnswer": "5 kişi",
+    "tags": [
+      "kurallar",
+      "ekip"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oh79bh5bb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Counter-Strike serisinin ilk oyunu hangi yıl yayınlandı?",
+    "explanation": "Counter-Strike: Condition Zero'nun ilk oyunu 1998 yılında Half-Life motoru üzerinde geliştirildi ve yayınlandı.",
+    "options": [
+      "1998",
+      "2000",
+      "2003",
+      "2004"
+    ],
+    "correctAnswer": "1998",
+    "tags": [
+      "tarih",
+      "giriş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9wcyfuus2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "CS'de 'Terrorist' takımının kısaltması nedir?",
+    "explanation": "Counter-Strike'de Terörist takım T kısaltması ile ifade edilir,反恐特警 ise CT (Counter-Terrorist) olarak adlandırılır.",
+    "options": [
+      "CT",
+      "T",
+      "NPC",
+      "VIP"
+    ],
+    "correctAnswer": "T",
+    "tags": [
+      "terimler",
+      "takımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hplhid91s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "CS:GO'da en çok kullanılan ana silah hangisidir?",
+    "explanation": "AK-47, Counter-Strike serisindeki en popüler ve yaygın kullanılan ana silahlardan biridir. Düşük maliyetli ve güçlü ateş gücü ile bilinir.",
+    "options": [
+      "AK-47",
+      "M4A1-S",
+      "AWP",
+      "Glock-18"
+    ],
+    "correctAnswer": "AK-47",
+    "tags": [
+      "silahlar",
+      "oyun mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0b0x5tbaw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "CS'de 'Eco Round' ne zaman yapılır?",
+    "explanation": "Eco Round, takımların yeterli para biriktiremediği ve silah almadığı turlardır. Bu turda sadece ekonomiyi geri kazanmak amaçlanır.",
+    "options": [
+      "Her tur",
+      "Para yetersiz olduğunda",
+      "Kazanan takım seçtiğinde",
+      "Sadece Terrorist tarafı için"
+    ],
+    "correctAnswer": "Para yetersiz olduğunda",
+    "tags": [
+      "oyun stratejisi",
+      "ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nz0wvirrg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EXPERT",
+    "question": "Counter-Strike: Global Offensive (CS:GO) hangi oyun motoru kullanır?",
+    "explanation": "CS:GO, Valve tarafından geliştirilen Source Engine oyun motoru kullanır. Bu motor aynı zamanda Half-Life serisi ve diğer birçok Valve oyunu için de kullanılmuştur.",
+    "options": [
+      "Unity",
+      "Unreal Engine 4",
+      "Source Engine",
+      "Id Tech"
+    ],
+    "correctAnswer": "Source Engine",
+    "tags": [
+      "teknoloji",
+      "motor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qu3b014zk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike'in ilk versiyonu hangi yıl yayımlandı?",
+    "explanation": "Counter-Strike 1.6'nın ilk versiyonu 1998 yılında Half-Life motoru ile geliştirilerek yayımlandı.",
+    "options": [
+      "1998",
+      "2000",
+      "2001",
+      "1999"
+    ],
+    "correctAnswer": "1998",
+    "tags": [
+      "Counter-Strike",
+      "Tarihçe",
+      "Oyun Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xgtj79wpb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi Counter-Strike oyununda bir silah değildir?",
+    "explanation": "Deagle (Desert Eagle) Counter-Strike'de mevcut bir silah olan, ancak bu soruda diğer seçenekler de oyun içindedir. Doğru cevap 'Glock-18' olmalıdır - Düzeltme: Tüm seçenekler oyundadır. Bu soru hatalıdır. Yeni soru:",
+    "options": [
+      "AK-47",
+      "M4A1-S",
+      "Deagle",
+      "Glock-18"
+    ],
+    "correctAnswer": "Deagle",
+    "tags": [
+      "Counter-Strike",
+      "Silahlar",
+      "Oynanış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "inb1fpql8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Counter-Strike'te Terrorist tarafının amaçları nelerdir?",
+    "explanation": "Terrorist tarafının temel amacı bombayı (C4) hedefe yerleştirmek ve patlatmaktır.",
+    "options": [
+      "Bomba patlatmak",
+      "Terörizm yapmak",
+      "Hijacker olmak",
+      "Tutuklanmamak"
+    ],
+    "correctAnswer": "Bomba patlatmak",
+    "tags": [
+      "Counter-Strike",
+      "Mekanik",
+      "Oyun Hedefi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t5rdztkg1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Deustro, Inferno ve Nuke hangi tarafa aittir?",
+    "explanation": "Bu haritalarda Terrorist ve Counter-Terrorist her ikisi de bu alanlarda oynayabilir, farklı görevler vardır.",
+    "options": [
+      "Counter-Terrorist",
+      "Terrorist",
+      "Her iki taraf için özel",
+      "Sadece VIP bölgeleri"
+    ],
+    "correctAnswer": "Her iki taraf için özel",
+    "tags": [
+      "Counter-Strike",
+      "Haritalar",
+      "Taktik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i7sejkbi8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Counter-Strike'te 'Headshot' ne anlama gelir?",
+    "explanation": "Headshot, rakibin kafasına yapılan ve genellikle daha yüksek hasar veren vuruştur.",
+    "options": [
+      "Göğse vurmak",
+      "Başa vurmak",
+      "Omuz vurmak",
+      "Bacak vurmak"
+    ],
+    "correctAnswer": "Başa vurmak",
+    "tags": [
+      "Counter-Strike",
+      "Terimler",
+      "Oynanış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xwmtooou0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "Counter-Strike'da 'Eco Round' ne zaman oynanır?",
+    "explanation": "Eco Round, ekibin para birikimi düşük olduğu turda oynanır. Bu turda ekip silah yenilemez, sadece temel silahlar kullanır.",
+    "options": [
+      "Her turda",
+      "Takımın az para olduğunda ve silah yenileme yapmadığında",
+      "Haritanın ortasında iken",
+      "Sadece bomba atılan turda"
+    ],
+    "correctAnswer": "Takımın az para olduğunda ve silah yenileme yapmadığında",
+    "tags": [
+      "Counter-Strike",
+      "Taktik",
+      "Ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3stjkd34w",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "CS'de 'Defuse' (Bomba Patlatma) görevi hangi karakter tarafından yapılır?",
+    "explanation": "CS'de bomba patlatma görevini her terörist yapabilir, özel ekipman gerekmez.",
+    "options": [
+      "Herhangi bir terörist",
+      "Sadece de-fuser ile donatılmış oyuncular",
+      "Teröristler yapamaz",
+      "Sadece bombayı kurtaranlar"
+    ],
+    "correctAnswer": "Herhangi bir terörist",
+    "tags": [
+      "Counter-Strike",
+      "Mekanik",
+      "Teröristler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q8nq3is0k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi Counter-Strike haritalarından biridir?",
+    "explanation": "Dust II, CS'de en bilinen klasik haritalardan biridir. Diğer seçenekler resmi CS haritası değildir.",
+    "options": [
+      "Garden City",
+      "Dust II",
+      "Snowfield",
+      "Cyber City"
+    ],
+    "correctAnswer": "Dust II",
+    "tags": [
+      "Counter-Strike",
+      "Harita Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wwbb7a5t4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "EASY",
+    "question": "CS'te 'Headshot' ne demektir?",
+    "explanation": "Headshot, vuruşun oyuncunun kafasına isabet etmesi demektir ve genellikle 2x hasar verir.",
+    "options": [
+      "Kafa atışı",
+      "Vücut atışı",
+      "Ayak atışı",
+      "Göğüs atışı"
+    ],
+    "correctAnswer": "Kafa atışı",
+    "tags": [
+      "Counter-Strike",
+      "Terimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "425o3ruzk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Counter-Strike",
+    "difficulty": "GENERAL",
+    "question": "CS:GO'da 'Smoke Grenade' (Duman Patlaması) hangi takım tarafından kullanılır?",
+    "explanation": "Duman patlaması, her iki taraf tarafından da kullanılabilen bir ekipmandır. Harita görünürü engellemek için stratejik olarak kullanılır.",
+    "options": [
+      "Sadece teröristler",
+      "Her iki takım da kullanabilir",
+      "Sadece dedeşterler",
+      "Kimse kullanamaz"
+    ],
+    "correctAnswer": "Her iki takım da kullanabilir",
+    "tags": [
+      "Counter-Strike",
+      "Ekipmanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

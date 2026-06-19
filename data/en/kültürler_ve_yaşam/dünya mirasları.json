@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "m3c7v8k6s",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "Göreme Milli Parkı hangi yılda UNESCO Dünya Mirası listesine eklendi?",
+    "explanation": "Göreme Milli Parkı ve Kapadokya bölgesi, 1988 yılında UNESCO Dünya Mirası listesine kültürel alan olarak dahil edilmiştir.",
+    "options": [
+      "1985",
+      "1988",
+      "1990",
+      "1995"
+    ],
+    "correctAnswer": "1988",
+    "tags": [
+      "Türkiye",
+      "UNESCO",
+      "Göreme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yggq4jkxa",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Mısır'daki Giza Piramitleri kompleksi hangi yılda Dünya Mirası listesine alındı?",
+    "explanation": "Giza Piramitleri kompleksi, 1979 yılında UNESCO Dünya Mirası listesine kültürel alan olarak eklendi.",
+    "options": [
+      "1979",
+      "1980",
+      "1975",
+      "1976"
+    ],
+    "correctAnswer": "1979",
+    "tags": [
+      "Mısır",
+      "Piramitler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1hakam1qq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de bulunan ilk UNESCO Dünya Mirası Alanı hangisidir?",
+    "explanation": "Afrodizya's, 1984 yılında UNESCO listesine ilk kez dahil edilen Türkiye'deki alan olmuştur.",
+    "options": [
+      "Efes Antik Kenti",
+      "Aphrodisias",
+      "Göreme Milli Parkı",
+      "Troya"
+    ],
+    "correctAnswer": "Aphrodisias",
+    "tags": [
+      "Türkiye",
+      "Kültür",
+      "İlk Kayıt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qyzjkou03",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Hangi UNESCO Dünya Mirası Alanı hem doğal hem kültürel özelliklerine sahiptir ve \"Karışık\" kategorisinde listelenmiştir?",
+    "explanation": "Pamukkale-Hierapolis, Türkiye'de bulunan tek karışık (doğal ve kültürel) UNESCO Dünya Mirası alanıdır.",
+    "options": [
+      "Petra",
+      "Machu Picchu",
+      "Pamukkale-Hierapolis",
+      "Angkor Wat"
+    ],
+    "correctAnswer": "Pamukkale-Hierapolis",
+    "tags": [
+      "Karışık Miras",
+      "Türkiye",
+      "Doğal ve Kültürel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aa6mpet57",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "UNESCO Dünya Mirası listesine eklenmesi için bir alanın en önemli kriterlerinden biri nedir?",
+    "explanation": "Alanlar, insanlık tarihi, doğa veya estetik değerleri açısından önemli olmaları için seçilir.",
+    "options": [
+      "Ekonomik Kârlılık",
+      "Tarihi ve Estetik Değer",
+      "Siyasi Güç",
+      "Nüfus Yoğunluğu"
+    ],
+    "correctAnswer": "Tarihi ve Estetik Değer",
+    "tags": [
+      "Kriterler",
+      "Koruma",
+      "Tanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4q8fqsavm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de bulunan ve 1994 yılında UNESCO Dünya Mirası Listesi'ne dahil edilen şehir hangisidir?",
+    "explanation": "Safranbolu, 1994 yılında UNESCO Dünya Mirası Listesi'ne dahil edilmiştir. Tarihi dokusu ve mimarisi ile bilinir.",
+    "options": [
+      "Antalya",
+      "Safranbolu",
+      "İstanbul",
+      "Ankara"
+    ],
+    "correctAnswer": "Safranbolu",
+    "tags": [
+      "Türkiye",
+      "UNESCO",
+      "Kültürel Miras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "30uj3869w",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Dünya Mirası Listesi'nin temel amacı nedir?",
+    "explanation": "Dünya Mirası Listesi, gelecek nesiller için kültürel ve doğal değerlerin korunması amacıyla oluşturulmuştur.",
+    "options": [
+      "Turizm gelirini artırmak",
+      "Sadece tarihi binaları listelemek",
+      "Yeni şehirler inşa etmek",
+      "Nesiller için kültürel ve doğal değerleri korumak"
+    ],
+    "correctAnswer": "Nesiller için kültürel ve doğal değerleri korumak",
+    "tags": [
+      "Amaç",
+      "Koruma",
+      "UNESCO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yhxsxfhfp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "Hangi yapı 'Doğal Miras' kategorisine girmektedir?",
+    "explanation": "Great Barrier Reef, Avustralya'daki büyük bir koral adasıdır ve Doğal Miras statüsündedir.",
+    "options": [
+      "Antik Piramitler",
+      "Granada Alhambra",
+      "Great Barrier Reef",
+      "Safranbolu"
+    ],
+    "correctAnswer": "Great Barrier Reef",
+    "tags": [
+      "Doğal",
+      "Avustralya",
+      "UNESCO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iufccsalr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "1979 yılında Dünya Mirası Listesi'ne dahil edilen yerlerden biri hangisidir?",
+    "explanation": "Giza Piramitleri, Mısır'ın Kahire kentindeki antik mezar yapısı olup 1979 yılında listeye dahil edilmiştir.",
+    "options": [
+      "Aspendos",
+      "Piramitler (Giza)",
+      "Göbekli Tepe",
+      "Çanakkale"
+    ],
+    "correctAnswer": "Piramitler (Giza)",
+    "tags": [
+      "Mısır",
+      "Tarihi",
+      "UNESCO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dx5359lvo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "UNESCO miras kriterlerinde 'Orijinalite' (Authenticity) kavramı hangi açıdan önemlidir?",
+    "explanation": "Orijinalite, bir miras yerinin tarihsel ve kültürel bütünlüğünün korunmasını ifade eder ve kritik kriterlerden biridir.",
+    "options": [
+      "Yapının ekonomik değerini belirlemek",
+      "Mirasın tarihsel ve kültürel bütünlüğünü korumak",
+      "Turistik çekiciliği artırmak",
+      "Mimarik malzemelerin pahalı olması"
+    ],
+    "correctAnswer": "Mirasın tarihsel ve kültürel bütünlüğünü korumak",
+    "tags": [
+      "Kriterler",
+      "Orijinalite",
+      "Bütünlük"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1bpjl6mxw",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü (UNESCO) tarafından Dünya Mirası Listesi'ne eklenen ilk Anadolu yapısı hangisidir?",
+    "explanation": "Göbeklitepe, UNESCO Dünya Mirası Listesi'ne 2018'de eklendi ve Anadolu'da yapılan ilk Dünya Mirası'yı temsil eder. Hierapolis ise 1988'de listelendirilmiştir.",
+    "options": [
+      "Hierapolis Antik Kenti",
+      "Pamukkale Termalesleri",
+      "Göbeklitepe",
+      "İznik Müzesi"
+    ],
+    "correctAnswer": "Göbeklitepe",
+    "tags": [
+      "UNESCO",
+      "Dünya Mirası",
+      "Anadolu",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zjno32hz2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Dünya'nın ilk beş doğal miraslarından biri olan ve Türkiye'de bulunan 'Kapadokya Yer Altı Şehirleri' hangi özellik ile bilinir?",
+    "explanation": "Kapadokya yer altı şehirleri, volkanik toprakların doğal olarak şekillenen tüplü yapılarıdır ve antik dönemlerde insanlar tarafından yerleşim alanları olarak kullanılmıştır.",
+    "options": [
+      "Antik çağlarda inşa edilmiş",
+      "Sıradağları çevreleyen",
+      "İnsanlar tarafından kazılmış",
+      "Volkanik aktivite sonucu oluşmuştur"
+    ],
+    "correctAnswer": "İnsanlar tarafından kazılmış",
+    "tags": [
+      "Kapadokya",
+      "Doğa Mirası",
+      "Tarih",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pk98eyc3u",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "UNESCO Dünya Mirası Listesi'nde 'Türk ve İslam Kültürünü Temsil Eden Önemli Yapılar' kategorisinde yer alan aşağıdakilerden hangisi değildir?",
+    "explanation": "Hagia Sofia, UNESCO Dünya Mirası Listesi'nde yer almaz çünkü Türkiye'de değil, İstanbul'da (bugün) bulunur ve Türk-İslam mimarisi kategorisinde değerlendirilmez.",
+    "options": [
+      "Topkapı Sarayı",
+      "Süleymaniye Camii",
+      "Selçuklu Medreseleri",
+      "Hagia Sofia"
+    ],
+    "correctAnswer": "Hagia Sofia",
+    "tags": [
+      "UNESCO",
+      "Kültür Mirası",
+      "İslam Mimari",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "upi7v4pdh",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Dünya'nın ilk 10 doğal mirasından biri olan 'Kapadokya Yer Altı Şehirleri' ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "explanation": "Kapadokya yer altı şehirleri, volkanik toprakların doğal olarak şekillenen tüplü yapılarıdır ve antik dönemlerde insanlar tarafından yerleşim alanları olarak kullanılmıştır.",
+    "options": [
+      "Antik çağda inşa edilmiş",
+      "Sıradağları çevreleyen",
+      "İnsanlar tarafından kazılmış",
+      "Volkanik aktivite sonucu oluşmuştur"
+    ],
+    "correctAnswer": "İnsanlar tarafından kazılmış",
+    "tags": [
+      "Kapadokya",
+      "Doğa Mirası",
+      "Tarih",
+      "Mimari"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ug8yczrjy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "UNESCO Dünya Mirası Listesi'nde 'Ankara'nın eski adı olan 'Ancyra' ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+    "explanation": "Ancyra (Ankara), Roma İmparatorluğu döneminde önemli bir şehir olarak gelişmiştir ve bazı yapıları UNESCO Dünya Mirası Listesi'nde yer almaktadır.",
+    "options": [
+      "İlk yüzyılda Roma İmparatorluğu tarafından inşa edilmiş",
+      "Türk ve Osmanlı kültürü için önemli",
+      "Klasik Yunan mimarisine sahip",
+      "Günümüzde aktif bir şehir olarak kullanılmaktadır"
+    ],
+    "correctAnswer": "İlk yüzyılda Roma İmparatorluğu tarafından inşa edilmiş",
+    "tags": [
+      "Ankara",
+      "Roma Mimari",
+      "Tarih",
+      "Dünya Mirası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pi6hlkcbg",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "UNESCO Dünya Mirası listesine dahil edilmiş Efes Antik Kenti'nin ana tarihsel önemi nedir?",
+    "explanation": "Efes, antik bir kent olup Roma dönemine ait tiyatro, kütüphane ve diğer yapıların kalıntılarıyla bilinir.",
+    "options": [
+      "Modern mimari örnekleri",
+      "Tarihi kütüphane ve tiyatro kalıntıları",
+      "Deniz altı şehir yapısı",
+      "Sıcak kaynaklar"
+    ],
+    "correctAnswer": "Tarihi kütüphane ve tiyatro kalıntıları",
+    "tags": [
+      "UNESCO",
+      "Türkiye",
+      "Antik Kentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w7xpsi1bp",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "UNESCO Dünya Mirası listesinde yer alan Göbekli Tepe'nin en önemli özelliği nedir?",
+    "explanation": "Göbekli Tepe, 10.000 yıllık bir avcı-toplayıcı yerleşimi olup T-şekilli sütunlarla süslenmiş megalitik taş yapılarıyla ünlüdür.",
+    "options": [
+      "Modern mimari yapılar",
+      "T-şekilli sütunlu megalitik taş yapısı",
+      "Deniz kıyısında olması",
+      "Osmanlı dönemine ait saray"
+    ],
+    "correctAnswer": "T-şekilli sütunlu megalitik taş yapısı",
+    "tags": [
+      "UNESCO",
+      "Ön Tarihi",
+      "Megalit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f0os6o7pf",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Pamukkale'nin Dünya Mirası listesine dahil edilme nedeni nedir?",
+    "explanation": "Pamukkale, doğal traverten oluşumları ve sıcak kaynağı olan bir bölge olarak 1988'de UNESCO listesine alındı.",
+    "options": [
+      "Tarihi mimari kalıntıları",
+      "Traverten oluşumları ve sıcak kaynaklar",
+      "Antik tiyatro yapısı",
+      "Deniz kıyısında olması"
+    ],
+    "correctAnswer": "Traverten oluşumları ve sıcak kaynaklar",
+    "tags": [
+      "UNESCO",
+      "Doğa Mirası",
+      "Türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "005ry37pr",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Hattuşa (Hattusa) antik kenti hangi döneme ait bir yerleşimdir?",
+    "explanation": "Hattuşa, Hitit İmparatorluğu'nun başkenti olarak 1986'da UNESCO Dünya Mirası listesine dahil edilmiştir.",
+    "options": [
+      "Roma İmparatorluğu",
+      "Hitit İmparatorluğu",
+      "Bizans İmparatorluğu",
+      "Osmanlı İmparatorluğu"
+    ],
+    "correctAnswer": "Hitit İmparatorluğu",
+    "tags": [
+      "UNESCO",
+      "Hititler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m30s3ks6k",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Troya'nın UNESCO Dünya Mirası listesine dahil edilme kriteri nedir?",
+    "explanation": "Troya, antik çağlarda Trojan Savaşı ile ilişkilendirilen arkeolojik bulgular nedeniyle 1998'de UNESCO listesine alındı.",
+    "options": [
+      "Mitolojik önemi",
+      "Arkeolojik kanıtlar ve tarihsel bağlam",
+      "Doğa harikası olması",
+      "Osmanlı dönemine ait kalıntılar"
+    ],
+    "correctAnswer": "Arkeolojik kanıtlar ve tarihsel bağlam",
+    "tags": [
+      "UNESCO",
+      "Mitoloji",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dqgvnzkgq",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "UNESCO Dünya Mirası Listesi'nin kurucu sözleşmesi hangi yıl imzalandı?",
+    "explanation": "Dünya Mirası Sözleşmesi 1972 yılında Paris'te kabul edilmiş ve UNESCO tarafından uygulanmaya başlanmıştır.",
+    "options": [
+      "1965",
+      "1972",
+      "1980",
+      "1990"
+    ],
+    "correctAnswer": "1972",
+    "tags": [
+      "UNESCO",
+      "Tarih",
+      "Kültürel Miras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "omai6vlgd",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de bulunan ve 'Karışık Miras' (Kültürel ve Doğal) kategorisinde yer alan site hangisidir?",
+    "explanation": "Göreme Milli Parkı, 1986 yılında UNESCO Dünya Mirası Listesi'ne alınmış ve hem kültürel (eskimo köyleri) hem de doğal değerleri taşır.",
+    "options": [
+      "Ayasofya Müzesi",
+      "Göreme Milli Parkı",
+      "Bursa Ulu Camii",
+      "İstanbul Çarşı"
+    ],
+    "correctAnswer": "Göreme Milli Parkı",
+    "tags": [
+      "Türkiye",
+      "Dünya Mirası",
+      "Kapadokya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bmnjhaec2",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Dünya genelinde en çok UNESCO miras sitesine sahip ülke hangisidir?",
+    "explanation": "2024 itibarıyla Çin, toplam 57 UNESCO Dünya Mirası Sitesi ile dünyadaki en fazla siteye sahip ülkedir.",
+    "options": [
+      "Fransa",
+      "İtalya",
+      "Çin",
+      "Mısır"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Dünya Mirası",
+      "Türkiye",
+      "Kültürel Miras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5bu3dpsh5",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "UNESCO'nun 'Dünya Mirası Tehlike Altında' listesine eklenen siteler hangi listedir?",
+    "explanation": "UNESCO, önemli miras sitelerinin korunması gereken durumunu işaretlemek için 'Dünya Mirası Tehlike Altında' (In Danger) listesini kırmızı renk ile ifade eder.",
+    "options": [
+      "Yeşil Liste",
+      "Mavi Liste",
+      "Kırmızı Liste (In Danger)",
+      "Altın Liste"
+    ],
+    "correctAnswer": "Kırmızı Liste (In Danger)",
+    "tags": [
+      "UNESCO",
+      "Koruma",
+      "Tehlike Altı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0njxbhx55",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Hangisi UNESCO Dünya Mirası Listesi'nde yer alan doğal bir mirastır?",
+    "explanation": "Machu Picchu, hem kültürel hem de doğal değerleriyle UNESCO Dünya Mirası Listesi'nde yer alan önemli bir karışık mirastır.",
+    "options": [
+      "Sagrada Familia",
+      "Machu Picchu",
+      "Aynalıkavak Camii",
+      "Statue of Liberty"
+    ],
+    "correctAnswer": "Machu Picchu",
+    "tags": [
+      "Dünya Mirası",
+      "Doğal Miras",
+      "Peru"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fqjyk8b9b",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "UNESCO Dünya Mirası Sözleşmesi hangi yıl kabul edildi?",
+    "explanation": "UNESCO Dünya Mirası Sözleşmesi 1972 yılında Paris'te kabul edilerek bugünkü sistem kurulmuştur.",
+    "options": [
+      "1960",
+      "1972",
+      "1985",
+      "1990"
+    ],
+    "correctAnswer": "1972",
+    "tags": [
+      "Dünya Mirası",
+      "UNESCO",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b64f2cw05",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Dünya Mirası Listesi'ne eklenen sitelerin temel kriteri nedir?",
+    "explanation": "Dünya Mirası Listesi'ne giren sitlerin temel özelliği 'Çıkarılmaz Evrensel Değer' (Outstanding Universal Value) taşımasıdır.",
+    "options": [
+      "Mali Değer",
+      "Siyasi Önem",
+      "Evrensel Değer",
+      "Tarihsel Derinlik"
+    ],
+    "correctAnswer": "Evrensel Değer",
+    "tags": [
+      "Dünya Mirası",
+      "Tanımlar",
+      "Kriterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ww1r94zo",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Kapadokya Milli Parkı ve Yeraltı Şehirleri'nin Dünya Mirası listesine hangi yıl dahil edildiği soruluyor?",
+    "explanation": "Göreme Milli Parkı ve Yeraltı Şehirleri 1985 yılında Dünya Mirası Listesi'ne kültürel miras olarak dahil edilmiştir.",
+    "options": [
+      "1980",
+      "1985",
+      "1990",
+      "1995"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "Kapadokya",
+      "Dünya Mirası",
+      "Türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4jyqpdcvi",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdakilerden hangisi UNESCO Dünya Mirası Listesi'ne dahil olan bir doğal sit değildir?",
+    "explanation": "Nemrut Dağı, Truva ve Göbekli Tepe Türkiye'dedir. Machu Picchu ise Peru'da bulunan bir kültürel miras sitesidir.",
+    "options": [
+      "Nemrut Dağı",
+      "Truva Antik Kenti",
+      "Göbekli Tepe",
+      "Machu Picchu"
+    ],
+    "correctAnswer": "Machu Picchu",
+    "tags": [
+      "Dünya Mirası",
+      "Coğrafya",
+      "Karşılaştırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7prthovk7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Dünya Mirası Listesi'ne giren sitelerin korunmasından kim sorumludur?",
+    "explanation": "Korunma sorumluluğu öncelikle ülkenin devlet yetkili kurumu ve yerel yönetimlere aittir, UNESCO ise teknik destek sağlar.",
+    "options": [
+      "Sadece UNESCO Genel Meclisi",
+      "Sadece Yerel Yönetimler",
+      "Devlet ve Yerel Yönetimler",
+      "Sadece Uluslararası Toplum"
+    ],
+    "correctAnswer": "Devlet ve Yerel Yönetimler",
+    "tags": [
+      "Dünya Mirası",
+      "Koruma",
+      "Sorumluluk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ld0k1g84",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "UNESCO Dünya Mirası Listesi'ne dahil edilebilen yerlerin en temel özelliği nedir?",
+    "explanation": "Bir yerin listeye dahil olması için 'Önemli Evrensel Değer' (Outstanding Universal Value) kriterini sağlaması gerekir.",
+    "options": [
+      "Evrensel Değer",
+      "Yerel Değer",
+      "Ekonomik Gelir",
+      "Sadece Estetik"
+    ],
+    "correctAnswer": "Evrensel Değer",
+    "tags": [
+      "UNESCO",
+      "Kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sc8za873m",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Kapadokya Göreme Milli Parkı hangi kategori altındadır?",
+    "explanation": "1985 yılında UNESCO tarafından kültürel miras olarak listelenmiştir.",
+    "options": [
+      "Doğal Miras",
+      "Kültürel Miras",
+      "Karışık Miras",
+      "Sadece Tarihi"
+    ],
+    "correctAnswer": "Kültürel Miras",
+    "tags": [
+      "Türkiye",
+      "UNESCO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s30th69xl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Hangi site hem doğal hem kültürel özellikleri barındıran 'Karışık' bir Dünya Mirası örneğidir?",
+    "explanation": "Pamukkale hem doğal travertenler hem antik şehir kalıntıları içerir, bu nedenle 1988'de 'Karışık' statüsüyle listelenmiştir.",
+    "options": [
+      "Mısır Piramitleri",
+      "Petra",
+      "Pamukkale",
+      "Taj Mahal"
+    ],
+    "correctAnswer": "Pamukkale",
+    "tags": [
+      "Karışık",
+      "UNESCO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "58o00hczl",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Bir mirasın Dünya Mirası listesine dahil edilmesinde 'Tehlikede' statüsü neyi ifade eder?",
+    "explanation": "'Tehlikede' listesi, mirastaki ciddi tehditler (savaş, erozyon vb.) nedeniyle korunma ihtiyacını belirtir.",
+    "options": [
+      "Ekonomik kriz",
+      "Koruma gerektiren durum",
+      "Turizm artışı",
+      "Popülerlik kaybı"
+    ],
+    "correctAnswer": "Koruma gerektiren durum",
+    "tags": [
+      "Koruma",
+      "UNESCO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e87dt6whm",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Hangi yapı, Türkiye'de UNESCO Dünya Mirası listesine dahil edilen ilk kültürel sitedir?",
+    "explanation": "Hattusa (Hattuşaş) 1984 yılında UNESCO Dünya Mirası listesine alınmıştır ve Türkiye'nin ilk kültürel mirasıdır.",
+    "options": [
+      "Hattusa",
+      "Efes",
+      "Hierapolis",
+      "Troya"
+    ],
+    "correctAnswer": "Hattusa",
+    "tags": [
+      "Tarih",
+      "Türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tcwisl0um",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi UNESCO Dünya Mirası Listesi'nde yer alan ve Türkiye'de bulunan bir kültürel mirastır?",
+    "explanation": "Göbekli Tepe, Şanlıurfa'da bulunan ve 2018 yılında UNESCO Dünya Mirası Listesi'ne eklenen bir taş devri yerleşimidir. Machu Picchu (Peru), Petra (Jördataniya) ve Angkor Wat (Kamboçya) ise Türkiye'de bulunmayan miraslardır.",
+    "options": [
+      "Machu Picchu",
+      "Petra",
+      "Göbekli Tepe",
+      "Angkor Wat"
+    ],
+    "correctAnswer": "Göbekli Tepe",
+    "tags": [
+      "Dünya_Mirasları",
+      "Türkiye",
+      "Kültürel_Miras"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6796m3i9v",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Antalya'nın Aspendos antik tiyatrosu hangi Dünya Mirası kategorisinde değerlendirilmektedir?",
+    "explanation": "Aspendos Antik Tiyatrosu, 1988 yılında UNESCO Dünya Mirası Listesi'ne eklenmiş bir kültürel mirastır. Romes yapımı bu tiyatro halen kullanılmakta olup antik dönemin en iyi korunmuş yapılarından biridir.",
+    "options": [
+      "Doğal_Miras",
+      "Kültürel_Miras",
+      "Hareketli_Miras",
+      "Geleneksel_Sonra_Alanı"
+    ],
+    "correctAnswer": "Kültürel_Miras",
+    "tags": [
+      "Dünya_Mirasları",
+      "Antalya",
+      "Aspendos"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z48udyv6d",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Hangi Dünya Mirası Sitesi hem kültürel hem de doğal değerlere sahiptir?",
+    "explanation": "Uludağ Milli Parkı, hem doğal yaşam alanları hem de kültürel miras unsurları (köyler, tarihi yapılar) barındırarak hem kültürel hem doğal değerlere sahip bir Dünya Mirası Sitesidir.",
+    "options": [
+      "Hobbiton",
+      "Bamboo Forest",
+      "Santorini",
+      "Uludağ National Park"
+    ],
+    "correctAnswer": "Uludağ National Park",
+    "tags": [
+      "Dünya_Mirasları",
+      "Karışık_Mirastarlar",
+      "Doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iv5q7lzg8",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "2013 yılında UNESCO İnsanlığın Anıtlığı Listesi'ne eklenen hangi yapı, Türkiye'nin ilk taş devri yerleşimidir?",
+    "explanation": "Göbekli Tepe, 2013 yılında UNESCO İnsanlığın Anıtlığı Listesi'ne eklenmiş olup dünyanın en eski taş devri yerleşimi olarak kabul edilir. Hattusa Hitit kenti, Kaleiçi ise antik bir liman şehridir.",
+    "options": [
+      "Hattusa",
+      "Göbekli Tepe",
+      "Kaleiçi",
+      "Pamukkale"
+    ],
+    "correctAnswer": "Göbekli Tepe",
+    "tags": [
+      "Dünya_Mirasları",
+      "Taş_Devri",
+      "Arkeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j18hf7xl7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "Dünya Mirası Sözleşmesi 1972 yılında hangi şehirde kabul edilmiştir?",
+    "explanation": "UNESCO Dünya Mirası Sözleşmesi 1972 yılında Paris'te kabul edilmiş ve kültürel ve doğal mirasların korunması için uluslararası bir çerçeve oluşturmuştur. Bu sözleşme bugüne kadar birçok ülkenin mirasını koruma altına almıştır.",
+    "options": [
+      "Paris",
+      "Londra",
+      "Bonn",
+      "Brüksel"
+    ],
+    "correctAnswer": "Paris",
+    "tags": [
+      "Dünya_Mirasları",
+      "Sözleşmeler",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g6gta8e5a",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EASY",
+    "question": "Dünyadaki Kültürel ve Doğal Mirasları tanımlayan uluslararası kuruluş hangisidir?",
+    "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organization) kültürel ve doğal miras alanlarıyla ilgilenir.",
+    "options": [
+      "UNESCO",
+      "WHO",
+      "IMF",
+      "NATO"
+    ],
+    "correctAnswer": "UNESCO",
+    "tags": [
+      "miras",
+      "tanıtım",
+      "uluslararası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xeslysywy",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de UNESCO Dünya Mirası Listesi'nde yer alan tarihi Pamukkale hangi ilde bulunur?",
+    "explanation": "Pamukkale ve Hierapolis Antik Kenti UNESCO listesindedir ve Denizli iline aittir.",
+    "options": [
+      "Denizli",
+      "Antalya",
+      "Muğla",
+      "İstanbul"
+    ],
+    "correctAnswer": "Denizli",
+    "tags": [
+      "Türkiye",
+      "Denizli",
+      "Pamukkale"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9zdpvx12c",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "UNESCO Dünya Mirası Sözleşmesi ilk kez hangi yılda kabul edilmiştir?",
+    "explanation": "Sözleşme Paris'te düzenlenen konferansta kabul edildi ve 1972 yılında yürürlüğe girdi.",
+    "options": [
+      "1960",
+      "1972",
+      "1985",
+      "1990"
+    ],
+    "correctAnswer": "1972",
+    "tags": [
+      "tarih",
+      "sözleşme",
+      "UNESCO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "waiojqusu",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Göreme Milli Parkı ve Kapadokya'nın yeraltı şehirleri hangi miras listesine aittir?",
+    "explanation": "Bu alan insanlık mirası olarak kültür ve tarih değerleri nedeniyle listelenmiştir.",
+    "options": [
+      "Doğal Miras",
+      "Kültürel Miras",
+      "Karma Miras",
+      "Endemik Alan"
+    ],
+    "correctAnswer": "Kültürel Miras",
+    "tags": [
+      "Kapadokya",
+      "göreme",
+      "kültürel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ijqrvvo65",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Hangi eser Dünya Mirası Listesi'ne eklenen ilk yıllardan beri 'Doğal Mıras' kategorisinde yer almaktadır?",
+    "explanation": "Great Barrier Reef doğa harikası olarak kültür mirası değil doğa mirasıdır.",
+    "options": [
+      "Piramitler (Giza)",
+      "Büyük Çin Duvarı",
+      "Great Barrier Reef",
+      "Machu Picchu"
+    ],
+    "correctAnswer": "Great Barrier Reef",
+    "tags": [
+      "Doğal",
+      "Reef",
+      "Avustralya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4sx03ntw9",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "UNESCO Dünya Mirası Listesi'nde bulunan Kapadokya'nın hangi özelliği onu benzersiz kılar?",
+    "explanation": "Kapadokya, 1985 yılında UNESCO Dünya Mirası Listesi'ne alındı ve peri bacaları, yer altı şehirleri, mozaikler ve heykeller gibi özellikleriyle benzersizdir.",
+    "options": [
+      "Antik yerleşim kalıntıları",
+      "Peri bacaları ve yer altı şehirleri",
+      "Deniz seviyesinden yüksek konumu",
+      "Akdeniz iklimi"
+    ],
+    "correctAnswer": "Peri bacaları ve yer altı şehirleri",
+    "tags": [
+      "Kapadokya",
+      "Dünya Mirası",
+      "Türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kcuxkpug6",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Hangi Anadolu şehrini 2013 yılında UNESCO Dünya Mirası Listesi'ne eklenmiştir?",
+    "explanation": "İznik, 2014 yılında UNESCO Dünya Mirası Listesi'ne eklenmiştir. Tarihi kiliseleri, Bizans mimarisi ve kültür mirası ile dikkat çeker.",
+    "options": [
+      "Pamukkale",
+      "Göreme Milli Parkı",
+      "İznik",
+      "Siyah Beyaz Şehir"
+    ],
+    "correctAnswer": "İznik",
+    "tags": [
+      "İznik",
+      "Dünya Mirası",
+      "Anadolu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hforv79ts",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Hangi doğal oluşum Türkiye'nin ilk kez Dünya Mirası Listesi'ne alınmıştır?",
+    "explanation": "Hierapolis-Pamukkale, 1988 yılında UNESCO Dünya Mirası Listesi'ne alınmıştır ve doğal traverten oluşumları ile antik kent yapısıyla ünlüdür.",
+    "options": [
+      "Hierapolis-Pamukkale",
+      "Troya-Kini",
+      "Demre-Melitene",
+      "Siyah Saray"
+    ],
+    "correctAnswer": "Hierapolis-Pamukkale",
+    "tags": [
+      "Pamukkale",
+      "Doğal Miras",
+      "Türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yza4xxzs7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "EXPERT",
+    "question": "Hangi şehir 2015 yılında 'Kültürel Peyzaj' kategorisinde Dünya Mirası Listesi'ne eklenmiştir?",
+    "explanation": "Mardin, 2015 yılında UNESCO Dünya Mirası Listesi'ne 'Kültürel Peyzaj' kategorisinde eklenmiştir. Tarihi medreseleri ve kültür birikimiyle önemli bir mirastır.",
+    "options": [
+      "Mardin",
+      "Aksaray",
+      "Sivas",
+      "Kayseri"
+    ],
+    "correctAnswer": "Mardin",
+    "tags": [
+      "Mardin",
+      "Kültürel Peyzaj",
+      "Dünya Mirası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rc96q1lk7",
+    "category": "KÜLTÜRLER_VE_YAŞAM",
+    "subcategory": "Dünya Mirasları",
+    "difficulty": "GENERAL",
+    "question": "Hangi Anadolu şehri 2017 yılında UNESCO Dünya Mirası Listesi'ne eklenmiş antik tiyatro ile tanınır?",
+    "explanation": "Aspendos, 1982 yılında UNESCO Dünya Mirası Listesi'ne eklenmiş ve muazzam antik tiyatrosu ile tanınır. Roma döneminden kalma bir mirastır.",
+    "options": [
+      "Ephesus",
+      "Pergamon",
+      "Aspendos",
+      "Perge"
+    ],
+    "correctAnswer": "Aspendos",
+    "tags": [
+      "Aspendos",
+      "Antik Tiyatro",
+      "Dünya Mirası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

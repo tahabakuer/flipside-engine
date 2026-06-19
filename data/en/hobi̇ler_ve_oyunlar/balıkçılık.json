@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "olv76dmmm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi balıkçılıkta kullanılan temel ekipmanlardan biridir?",
+    "explanation": "Balıkçılıkta balık yakmak için en temel ekipmanlar ağı ve iğne ile oluğu halatlardır.",
+    "options": [
+      "Motosiklet",
+      "Balık ağı ve iğne",
+      "Bilgisayar klavyesi",
+      "Telefon borusu"
+    ],
+    "correctAnswer": "Balık ağı ve iğne",
+    "tags": [
+      "balıkçılık",
+      "ekipman",
+      "hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ljfm6jp89",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balıkçılık sırasında çevre dostu yöntemlerden hangisi değildir?",
+    "explanation": "Aşırı yem kullanımı deniz ekosistemi üzerinde olumsuz etki yaparak çevre dostu değildir.",
+    "options": [
+      "Aşırı yem kullanımı",
+      "Doğru zamanlama",
+      "Güvenli ekipman kullanımı",
+      "Balık türlerine saygı"
+    ],
+    "correctAnswer": "Aşırı yem kullanımı",
+    "tags": [
+      "balıkçılık",
+      "çevre",
+      "sürdürülebilirlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qkg5z6vie",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de balıkçılık için en uygun mevsim nedir?",
+    "explanation": "Balık türüne ve bölgeye göre farklılık gösterse de Türkiye'de yıl boyunca balıkçılık yapılabilir.",
+    "options": [
+      "Sadece kış",
+      "Herhangi bir mevsim",
+      "Bahar ve yaz ayları",
+      "Yalnızca sonbahar"
+    ],
+    "correctAnswer": "Herhangi bir mevsim",
+    "tags": [
+      "balıkçılık",
+      "mevsim",
+      "geografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dhrnygctx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Deniz balığı avlanırken hangi güvenlik önlemi en önemlidir?",
+    "explanation": "Denizde balık avlanırken dikkatli olmak ve kurtarıcı ekipman bulundurmak hayati önem taşır.",
+    "options": [
+      "Göz bandı takmak",
+      "Yağmurluk giymek",
+      "Kulaklık kullanmak",
+      "Yanında kurtarıcı bulundurmak"
+    ],
+    "correctAnswer": "Yanında kurtarıcı bulundurmak",
+    "tags": [
+      "balıkçılık",
+      "güvenlik",
+      "kayak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "shabq1i17",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balıkçılık hobilinde hangi tür ağı kullanılır?",
+    "explanation": "Balıkçılıkta özellikle deniz ağı veya uygun iğne kullanılarak balıklar avlanır.",
+    "options": [
+      "Süzgeç",
+      "Deniz ağı",
+      "Yıkanma ağı",
+      "Çamaşırlık"
+    ],
+    "correctAnswer": "Deniz ağı",
+    "tags": [
+      "balıkçılık",
+      "ağ",
+      "ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rk6lua7y9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi profesyonel balıkçılıkta kullanılan temel ekipmanlardan biri değildir?",
+    "explanation": "Musa (kemer) genellikle hayvan beslenmesinde veya tarımsal işlerde kullanılır. Profesyonel balıkçılıkta temel ekipmanlar arasında balık ağı, muska (dalgıç botu), fener gibi unsurlar yer alır.",
+    "options": [
+      "Balık ağı",
+      "Musa",
+      "Dalgıç botu",
+      "Fener"
+    ],
+    "correctAnswer": "Musa",
+    "tags": [
+      "Balıkçılık",
+      "Ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4s1pcusej",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Geleneksel Türk denizcilik kültüründe, balığın tazeliğini belirlemek için hangi yöntem kullanılır?",
+    "explanation": "Taze balıklarda gözler parlak ve yuvarlaktır. Gözlerin bulanık olması veya içi dolması ise balığın eskidiğini gösterir.",
+    "options": [
+      "Balığın gözlerinin parlaklığı",
+      "Balığın kuyruğunun rengi",
+      "Balığın ağırlığı",
+      "Balığın boyu"
+    ],
+    "correctAnswer": "Balığın gözlerinin parlaklığı",
+    "tags": [
+      "Balıkçılık",
+      "Denizcilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ck1zbt3kj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Hangi tür balık, Türkiye'nin en yaygın ekonomik balık türlerinden biridir?",
+    "explanation": "Hamsi, Türkiye'de en çok tüketilen ve ekonomik değeri olan balık türlerinden biridir. Özellikle Karadeniz ve Marmara bölgelerinde yaygındır.",
+    "options": [
+      "Tuna",
+      "Sardalya",
+      "Hamsi",
+      "Istakoz"
+    ],
+    "correctAnswer": "Hamsi",
+    "tags": [
+      "Balıkçılık",
+      "Ekonomik Türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6vm4lo35k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Profesyonel balıkçılıkta 'sürdürülebilir' olmak için aşağıdakilerden hangisi yapılmalıdır?",
+    "explanation": "Sürdürülebilir balıkçılık, avlanma limitlerine uyarak balık popülasyonunun korunmasını ve gelecek nesiller için sürdürülebilirliği sağlar.",
+    "options": [
+      "Balık stoklarını aşırı avlamak",
+      "Avlanma limitlerine uymak",
+      "Tek tip balığı avlamak",
+      "Avlanmayı gece yapmak"
+    ],
+    "correctAnswer": "Avlanma limitlerine uymak",
+    "tags": [
+      "Balıkçılık",
+      "Sürdürülebilirlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ec7zzi9jf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Türk denizcilik kültüründe, yeni başlayan bir balıkçıya 'usta' tarafından verilecek ilk tavsiye nedir?",
+    "explanation": "Türk denizcilik kültüründe, hava durumu dikkate alınarak avlanma yapılır. Rüzgar, dalga ve fırtına riski değerlendirilir.",
+    "options": [
+      "Sadece büyük balıkları avla",
+      "Hava durumunu takip et",
+      "Gece avlanmayı tercih et",
+      "Daha az ekipman kullan"
+    ],
+    "correctAnswer": "Hava durumunu takip et",
+    "tags": [
+      "Balıkçılık",
+      "Denizcilik Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "96kl1zuzs",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balık avlamada kullanılan ve suyun altındaki yatağı bulan bir cihaz hangisidir?",
+    "explanation": "Sonar (Sound Navigation and Ranging), su altındaki nesneleri ses dalgalarıyla tespit eder ve balık yatağını bulmada kullanılır.",
+    "options": [
+      "Sonar",
+      "GPS",
+      "Radar",
+      "Telgraf"
+    ],
+    "correctAnswer": "Sonar",
+    "tags": [
+      "teknoloji",
+      "av aletleri",
+      "balıkçılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "51cdrq9hn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Hangi tür balıklar daha çok akarsu (nehir) ortamlarında bulunur?",
+    "explanation": "Tuna balığı, nehir kollarında ve göllerde de bulunan bir türdür. Yengeç su altı canlısıdır, köpekbalığı deniz canlısıdır.",
+    "options": [
+      "Tuna",
+      "Yengeç",
+      "Köpekbalığı",
+      "Ördek"
+    ],
+    "correctAnswer": "Tuna",
+    "tags": [
+      "balık türleri",
+      "akarsu avı",
+      "doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "amdxdloig",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Balık avlamada iğne delik yapmayan, balığın yutulduğu tuzlu bir yöntem hangisidir?",
+    "explanation": "Balıkçılık, balığın yutulduğu yöntemi ifade eder. Tuzlama balık saklama yöntemidir.",
+    "options": [
+      "Balıkçılık",
+      "Tuzlama",
+      "Avla",
+      "Yemleme"
+    ],
+    "correctAnswer": "Balıkçılık",
+    "tags": [
+      "av teknikleri",
+      "balık tutma",
+      "metodlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nxoahibss",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Hangi tür balık avında kullanılan ağ aletleri daha çok deniz ortamlarında kullanılır?",
+    "explanation": "Deniz ortamlarında kullanılan ağ aletleri genellikle saklama (fishery) amaçlıdır.",
+    "options": [
+      "Seyyar",
+      "Saklama",
+      "Mola",
+      "Koruma"
+    ],
+    "correctAnswer": "Saklama",
+    "tags": [
+      "deniz avı",
+      "ağ teknolojisi",
+      "profesyonel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7wryfpg8u",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balıkçılıkta yem olarak en çok tercih edilen doğal kaynak hangisidir?",
+    "explanation": "Balıkçılıkta et, doğal yemlerden biridir. Ekmek, karbonat ve buzdolabı yem olarak kullanılmaz.",
+    "options": [
+      "Et",
+      "Ekmek",
+      "Buzdolabı",
+      "Karbonat"
+    ],
+    "correctAnswer": "Et",
+    "tags": [
+      "yemler",
+      "doğal av",
+      "beslenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "up8t2betm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Taze suyu balıkçılığında yaygın kullanılan canlı yem hangisidir?",
+    "explanation": "Solucanlar, taze su ortamlarında bulunan ve kolayca bulunan canlı yemlerden biridir.",
+    "options": [
+      "Sardina",
+      "Solucan",
+      "Ton Balığı",
+      "Hamsi"
+    ],
+    "correctAnswer": "Solucan",
+    "tags": [
+      "Balıkçılık",
+      "Yem Türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "prvgufzpk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balık tutarken yasal boy limiti hangi faktöre bağlıdır?",
+    "explanation": "Her bölgede ve balık türüne göre farklı yasal boy limitleri uygulanır.",
+    "options": [
+      "Balığın türüne",
+      "Hava durumuna",
+      "Mekanik alet türüne",
+      "Yem miktarına"
+    ],
+    "correctAnswer": "Balığın türüne",
+    "tags": [
+      "Balıkçılık",
+      "Yasal Düzenlemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mgh6d36l6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi yaygın olarak kullanılan balıkçılık ipi malzemesidir?",
+    "explanation": "Nylon, dayanıklılığı ve esnekliği nedeniyle balıkçı iplerinde sıkça kullanılır.",
+    "options": [
+      "Pamuk",
+      "Nylon",
+      "İpek",
+      "Çelik"
+    ],
+    "correctAnswer": "Nylon",
+    "tags": [
+      "Balıkçılık",
+      "Aletler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kn213bel2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Canlı yemle yapılan balık avlama tekniği hangisidir?",
+    "explanation": "Bu teknik canlı organizmaları yem olarak kullanarak balıkları cezbeder.",
+    "options": [
+      "Fly casting",
+      "Trolling",
+      "Canlı yem balıkçılığı",
+      "Buzdağı"
+    ],
+    "correctAnswer": "Canlı yem balıkçılığı",
+    "tags": [
+      "Balıkçılık",
+      "Avlama Teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kgf8z17ns",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Balıkçılıkta hayvan refahı açısından hangi yöntem önerilir?",
+    "explanation": "Barbsiz kanca, balığın yaralanmasını azaltarak hayvan refahını destekler.",
+    "options": [
+      "Keskin ipler",
+      "Barbsiz kanca kullanımı",
+      "Yüksek gerilimli aletler",
+      "Sabit balık ağları"
+    ],
+    "correctAnswer": "Barbsiz kanca kullanımı",
+    "tags": [
+      "Balıkçılık",
+      "Hayvan Refahı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hv71toxlv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de en çok balık üretilen sulardan hangisi değildir?",
+    "explanation": "Türkiye'de Akdeniz, Ege ve Marmara Denizleri balıkçılık açısından daha yoğun kullanılır; Karadeniz daha sınırlı balık türlerine sahiptir.",
+    "options": [
+      "Marmara Denizi",
+      "Ege Denizi",
+      "Karadeniz",
+      "Akdeniz"
+    ],
+    "correctAnswer": "Karadeniz",
+    "tags": [
+      "balıkçılık",
+      "türkiye",
+      "denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zlm215ocj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balık avcılığı için kullanılan yasal izin belgesi hangisidir?",
+    "explanation": "Türkiye'de balık avcılığı yapabilmek için Milli Emlak veya ilgili birimlerden alınması gereken resmi belgedir.",
+    "options": [
+      "Su Üstü Kartı",
+      "Balık Av Belgesi",
+      "Deniz Erişim İzni",
+      "Su Koruma Belgesi"
+    ],
+    "correctAnswer": "Balık Av Belgesi",
+    "tags": [
+      "yasal",
+      "belge",
+      "av"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z26l2cboc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Hangi balık türü Türkiye'nin ekonomik önemi yüksek olanlardan biri değildir?",
+    "explanation": "Hamsi, tavuk balığı ve alabalık ticari balıkçılıkta yaygın olarak kullanılır; yunus ise korunan bir deniz memelisidir.",
+    "options": [
+      "Hamsi",
+      "Tavuk Balığı",
+      "Alabalık",
+      "Yunus"
+    ],
+    "correctAnswer": "Yunus",
+    "tags": [
+      "balık türü",
+      "ekonomik önemi",
+      "deniz hayvanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u97u3srw4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balık avında 'yasak dönem' ne zaman uygulanır?",
+    "explanation": "Balık yumurtlama ve yavrulama dönemlerinde (çoğunlukla bahar ve sonbahar) av yasaktır.",
+    "options": [
+      "Yaz aylarında",
+      "Bahar ve sonbaharda",
+      "Kış aylarında",
+      "Herhangi bir zaman"
+    ],
+    "correctAnswer": "Bahar ve sonbaharda",
+    "tags": [
+      "yasak dönem",
+      "av yönetimi",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lj90y67id",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Hangi tür alet balıkçılıkta yasal değildir?",
+    "explanation": "Balıkları öldürmek için kullanılan elektrikli aletler yasal değildir; ancak kancalar ve ağlar kontrollü olarak kullanılabilir.",
+    "options": [
+      "Masa",
+      "Elektrikli Alet",
+      "Ağı",
+      "Kanca"
+    ],
+    "correctAnswer": "Elektrikli Alet",
+    "tags": [
+      "yasak alet",
+      "balık avı",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ooly8n55m",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Balıkçılıkta kullanılan temel ekipmanlardan hangisi doğrudan balığı yakalamak için tasarlanmamıştır?",
+    "explanation": "Balıkçılıkta kullanılan ekipmanlar arasında kanca, atkı ve ağırlıklar doğrudan balık yakalamak için kullanılırken, mıknatıs bu amaçla tasarlanmamıştır.",
+    "options": [
+      "Mıknatıs",
+      "Kanca",
+      "Atkı",
+      "İskelet"
+    ],
+    "correctAnswer": "Mıknatıs",
+    "tags": [
+      "balıkçılık",
+      "ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ueowiwlnh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de deniz balıkçılığı sezonunun genellikle hangi aylarda yoğunlaşır?",
+    "explanation": "Deniz balıkçılığı sezonunda sıcak hava koşulları ve deniz canlılarının aktif olduğu yaz ayları, özellikle Ağustos ayında en yoğun balık avlanma dönemidir.",
+    "options": [
+      "Kış - Şubat",
+      "Bahar - Mayıs",
+      "Yaz - Ağustos",
+      "Sonbahar - Eylül"
+    ],
+    "correctAnswer": "Yaz - Ağustos",
+    "tags": [
+      "balıkçılık",
+      "sezon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8znsylvsc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balıkçı ağı türlerinden hangisi balıkları yavaşça yakalayıp ağın içine çeker?",
+    "explanation": "Çekme ağı, balıkları suyun içine indirip yavaşça yakalayan en yaygın kullanılan ağ tipidir ve balıkçı teknelerinde sıkça kullanılır.",
+    "options": [
+      "Çekme Ağı",
+      "Mıknatıs Ağı",
+      "Elektrik Ağı",
+      "Su Altı Ağı"
+    ],
+    "correctAnswer": "Çekme Ağı",
+    "tags": [
+      "balıkçılık",
+      "ağ türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xqlwmtx17",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Balıkçılıkta 'catch and release' (yakala ve serbest bırak) yöntemi neden tercih edilir?",
+    "explanation": "Catch and release yöntemi, balıkları serbest bırakarak doğal ekosistemin sürdürülebilirliğini ve türlerin neslin devam etmesini sağlar.",
+    "options": [
+      "Daha fazla balık satışı için",
+      "Doğal yaşam dengesini korumak için",
+      "Balıkların büyümesi için",
+      "Türkiye'de yasaklanmasından dolayı"
+    ],
+    "correctAnswer": "Doğal yaşam dengesini korumak için",
+    "tags": [
+      "balıkçılık",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "54pse9eu6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Balıkçılıkta kullanılan 'kaygan kanca' nedir?",
+    "explanation": "Kaygan kanca, balığın derisini ve ağırlığını minimize ederek serbest bırakma sırasında daha az zarar vermesi için tasarlanmıştır.",
+    "options": [
+      "Daha pahalı bir kanca",
+      "Balığın derisini daha az yaralayan özel kanca",
+      "Sadece büyük balıklarda kullanılan kanca",
+      "Su altı teknolojisine sahip kanca"
+    ],
+    "correctAnswer": "Balığın derisini daha az yaralayan özel kanca",
+    "tags": [
+      "balıkçılık",
+      "kanca"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebnv82p4g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Balıkçılıkta kullanılmayan alet hangisidir?",
+    "explanation": "Bilgisayar klavyesi balıkçılıkta kullanılan bir alet değildir. Balık kancası, ağı ve tuz ise balık tutmak ve saklamak için kullanılır.",
+    "options": [
+      "Balık kancası",
+      "Balık ağı",
+      "Bilgisayar klavyesi",
+      "Tuz"
+    ],
+    "correctAnswer": "Bilgisayar klavyesi",
+    "tags": [
+      "genel bilgi",
+      "aletler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "izjiw2jrz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Denizde dengeyi korumak için hangi güvenlik önlemi alınmalıdır?",
+    "explanation": "Denizde dengeyi korumak için yüzenlik (kayak) takmak önemlidir. Bu, düşme durumunda hayatta kalmayı sağlar.",
+    "options": [
+      "Güneş kremi sürmek",
+      "Kayak giymek",
+      "Yüzenlik takmak",
+      "Balık ağı çöpe atmak"
+    ],
+    "correctAnswer": "Yüzenlik takmak",
+    "tags": [
+      "güvenlik",
+      "deniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1g2j3e97e",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balığın taze kalması için hangi yöntem kullanılır?",
+    "explanation": "Balığın taze kalması için buzla soğutmak en iyi yöntemdir. Bu, balığın bozulmasını önler.",
+    "options": [
+      "Buzla soğutmak",
+      "Isıtmak",
+      "Sürekli hareket ettirmek",
+      "Ayakta tutmak"
+    ],
+    "correctAnswer": "Buzla soğutmak",
+    "tags": [
+      "balık saklama",
+      "tazelik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfsj5fc52",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Güneydoğu Anadolu'da en çok hangi tür balıklar yakalanır?",
+    "explanation": "Güneydoğu Anadolu'da akarsularda genellikle nezaret (kelebek) ve benzeri türden balıklar yakalanır.",
+    "options": [
+      "Tuzlu su balıkları",
+      "Kıyıdan uzak deniz balıkları",
+      "Nezaret balıkları",
+      "İstiridye"
+    ],
+    "correctAnswer": "Nezaret balıkları",
+    "tags": [
+      "türler",
+      "bölge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h14aq4wf1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Balıkçılıkta 'kayak' ne işe yarar?",
+    "explanation": "Kayak (yüzenlik) deniz balıkçılığında düşme durumunda dengeyi korumak ve yüzmek için kullanılır.",
+    "options": [
+      "Denge koruması sağlar",
+      "Yemek hazırlar",
+      "Su temizler",
+      "Ateş yakar"
+    ],
+    "correctAnswer": "Denge koruması sağlar",
+    "tags": [
+      "alet",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f37vfm256",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi balıkçılıkta kullanılan temel ekipmanlardan biri değildir?",
+    "explanation": "Magnet balıkçılığında kullanılan bir ekipmandır ve balık yaklamak için kullanılır. Ancak diğer seçenekler daha yaygın balıkçılık ekipmanlarıdır.",
+    "options": [
+      "Balık ağı",
+      "Magnet (manyet)",
+      "Balık kancası ve ip",
+      "Eğilme çubuğu"
+    ],
+    "correctAnswer": "Magnet (manyet)",
+    "tags": [
+      "balıkçılık",
+      "ekipman",
+      "hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fm6e4vihp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'de ne zaman 'Balıkçılık Bayramı' kutlanır?",
+    "explanation": "Türkiye'de her yıl 3 Temmuz günü Balıkçılık Bayramı kutlanır. Bu gün balıkçılık hobisi ve mesleği için özel olarak anılır.",
+    "options": [
+      "15 Mayıs",
+      "20 Haziran",
+      "3 Temmuz",
+      "10 Ağustos"
+    ],
+    "correctAnswer": "3 Temmuz",
+    "tags": [
+      "balıkçılık",
+      "bayram",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8nl4wfjxo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Hangi tür balıklar 'suyu temizleme' görevi görür?",
+    "explanation": "Kiremit balığı (Cichlid türü) akvaryumculukta ve bazı ekosistemlerde su temizleme görevi görerek filtre beslenir.",
+    "options": [
+      "Yengeç",
+      "Hamsi",
+      "Kiremit balığı",
+      "Tilapia"
+    ],
+    "correctAnswer": "Kiremit balığı",
+    "tags": [
+      "balıkçılık",
+      "sürdürülebilirlik",
+      "ekosistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uxmc48zsd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Balıkçılıkta 'sürdürülebilir' avlama yöntemi hangisidir?",
+    "explanation": "Sürdürülebilir balıkçılık, ekosistemi koruyan ve gelecek nesillere yeterli kaynak bırakmayı hedefler. Kontrollü avlama bu prensibe uygundur.",
+    "options": [
+      "Aşırı ağ kullanımı",
+      "Küçük ağırlıklı kancalarla kontrollü avlama",
+      "Gece balıkçılığı",
+      "Yapay yem kullanımı"
+    ],
+    "correctAnswer": "Küçük ağırlıklı kancalarla kontrollü avlama",
+    "tags": [
+      "balıkçılık",
+      "sürdürülebilirlik",
+      "koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k2f5gqlrr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Hangi bölgede 'Kargı' adlı özel bir balık türü bulunur?",
+    "explanation": "Kargı, Marmara Gölü ve çevresindeki sığ sularda yaşayan özel bir balık türüdür. Bu bölgenin ekosistemine endemiktir.",
+    "options": [
+      "Akdeniz kıyıları",
+      "Marmara Gölü çevresi",
+      "Ege Denizi",
+      "Karadeniz"
+    ],
+    "correctAnswer": "Marmara Gölü çevresi",
+    "tags": [
+      "balıkçılık",
+      "tür",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nj3h1mp1c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Balıkçılıkta kullanılan temel ekipman hangisidir?",
+    "explanation": "Balıkçılıkta kullanılan temel ekipmanlar arasında balık ağı, iğne, makine ve balıkgötürücü bulunur. En yaygın kullanılan ekipman balıkçılık çantası ve balık ağıdır.",
+    "options": [
+      "A) Balıkçılık çantası ve balık ağı",
+      "B) Balıkçı botu ve yem kutusu",
+      "C) Balık ağı, iğne, makine ve balıkgötürücü",
+      "D) Balıkçılık çantası ve kordon"
+    ],
+    "correctAnswer": "A) Balıkçılık çantası ve balık ağı",
+    "tags": [
+      "balıkçılık",
+      "ekipman",
+      "hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "la87zzwek",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Hangi balık türü tatlı suda yaşayan en büyük balıklardan biridir?",
+    "explanation": "Kestane balığı, tatlı suda yaşayan en büyük balıklardan biridir ve genellikle 20-50 kg arasında ağırlığa ulaşabilir.",
+    "options": [
+      "A) Levrek",
+      "B) Kestane Balığı",
+      "C) Safran Balığı",
+      "D) Ömer"
+    ],
+    "correctAnswer": "B) Kestane Balığı",
+    "tags": [
+      "balıkçılık",
+      "tatlısu",
+      "türler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ceo16rrpf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EASY",
+    "question": "Balıkçılıkta kullanılan 'yem' amaçlı hangisi değildir?",
+    "explanation": "Balıkçılıkta kullanılan yemler arasında kuruyemiş, ekmek ve mısır bulunur. Taş balık yemi değildir.",
+    "options": [
+      "A) Kuruyemiş",
+      "B) Ekmek",
+      "C) Mısır",
+      "D) Taş"
+    ],
+    "correctAnswer": "D) Taş",
+    "tags": [
+      "balıkçılık",
+      "yem",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k99ngsin6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Hangi tür balıkçılığı 'spesifik' olarak adlandırılır?",
+    "explanation": "Yemli balıkçılık, spesifik olarak adlandırılan bir balıkçılık türüdür. Balıkların yemi çekerek yakalanması esastır.",
+    "options": [
+      "A) Yemli Balıkçılık",
+      "B) Sahte Balıkçılık",
+      "C) Makine Balıkçılığı",
+      "D) Kordon Balıkçılığı"
+    ],
+    "correctAnswer": "A) Yemli Balıkçılık",
+    "tags": [
+      "balıkçılık",
+      "teknikler",
+      "metotlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pt5v30agh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Balıkçılıktekniklerinde kullanılan 'iğne' ne amaçla kullanılır?",
+    "explanation": "Balıkçılıktekniklerinde kullanılan iğne, balığı tutmak ve yakalamak amacıyla kullanılır. Balığın derisini ayırmak veya kesmek için değil.",
+    "options": [
+      "A) Balığı kesmek için",
+      "B) Balığı yemlemek için",
+      "C) Balığı tutmak ve yakalamak için",
+      "D) Balığın derisini ayırmak için"
+    ],
+    "correctAnswer": "C) Balığı tutmak ve yakalamak için",
+    "tags": [
+      "balıkçılık",
+      "iğne",
+      "ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9sk5v9g1r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balıkçılıkta kullanılan en yaygın canlı yem türü hangisidir?",
+    "explanation": "Canlı karıncalar, birçok tatlı su balığının doğal yemi olarak kabul edilir ve özellikle karışık balık tutmada etkilidir.",
+    "options": [
+      "Kuru yem",
+      "Canlı karıncalar",
+      "Tuzlu balık parçaları",
+      "Sentez protein"
+    ],
+    "correctAnswer": "Canlı karıncalar",
+    "tags": [
+      "balıkçılık",
+      "yem",
+      "hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k1u6232vh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Deniz balığı avlanırken kullanılan en yaygın tekne türü hangisidir?",
+    "explanation": "Balıkçı botları, deniz koşullarına dayanıklı ve balık avlamak için özel olarak tasarlanmış küçük teknelerdir.",
+    "options": [
+      "Katamaran",
+      "Baleri",
+      "Balıkçı botu",
+      "Kayak"
+    ],
+    "correctAnswer": "Balıkçı botu",
+    "tags": [
+      "balıkçılık",
+      "deniz",
+      "tekne"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0jw011q32",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Hangi tür aletler balık tutulduktan sonra serbest bırakılmak üzere kullanılır?",
+    "explanation": "Serbest bırakma takozları, balığın hasar görmemesi için yüzeyde tutulmasını sağlar ve serbest bırakma işlemini kolaylaştırır.",
+    "options": [
+      "Balıkçağı",
+      "Serbest bırakma takozu",
+      "Balık saklama kutusu",
+      "Ağ"
+    ],
+    "correctAnswer": "Serbest bırakma takozu",
+    "tags": [
+      "balıkçılık",
+      "sürdürülebilirlik",
+      "etkili av"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8hh5gmrf4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "EXPERT",
+    "question": "Tatlı su balıkçılığında kullanılan en yaygın makina türü hangisidir?",
+    "explanation": "Elektrikli balıkçılık aletleri, ses veya ağ kullanmadan sessiz bir şekilde balık tutmayı sağlar ve çevre dostudur.",
+    "options": [
+      "Dalgın motoru",
+      "Elektrikli balıkçılık aleti",
+      "Makine balık avcısı",
+      "Sabit ağ"
+    ],
+    "correctAnswer": "Elektrikli balıkçılık aleti",
+    "tags": [
+      "balıkçılık",
+      "tatlı su",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vjx4kxvyv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Balıkçılık",
+    "difficulty": "GENERAL",
+    "question": "Balık avı sırasında dikkat edilmesi gereken ilk kural nedir?",
+    "explanation": "Balık avı sırasında tür koruma yasalarına uyum sağlamak, sürdürülebilir balıkçılığın temelidir ve yasadışı aletler veya mevsim dışı avlanma yasaktır.",
+    "options": [
+      "Mevsim dışı avlanma",
+      "Yasadışı aletler",
+      "Tür koruma yasalara uygunluk",
+      "Günlük av sayısı"
+    ],
+    "correctAnswer": "Tür koruma yasalara uygunluk",
+    "tags": [
+      "balıkçılık",
+      "yasal",
+      "tutkulu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

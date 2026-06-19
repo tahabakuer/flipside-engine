@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "r3z37jvvx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Görsel sanatların en temel kategorilerinden biri olan heykelçilikte kullanılan ana malzeme hangisidir?",
+    "explanation": "Heykelçilik sanatında taş, metal, keramık ve ahşap gibi katı malzemeler kullanılır. Su ve meyve heykelçilik için uygun değildir.",
+    "options": [
+      "Su",
+      "Çamur",
+      "Taş ve Metal",
+      "Meyve"
+    ],
+    "correctAnswer": "Taş ve Metal",
+    "tags": [
+      "heykelçilik",
+      "malzeme",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "94y2xfgae",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "İslami resim sanatı olarak bilinen ve cam üzerine işlenen dekoratif sanattır:",
+    "explanation": "Görsel Sanatlar kategorisinde cam işleme, İslami sanat geleneğinin önemli bir parçasıdır ve dekoratif amaçla kullanılır.",
+    "options": [
+      "Mosaic",
+      "Görsel Sanatlar",
+      "Cam İşleme",
+      "Seramik"
+    ],
+    "correctAnswer": "Cam İşleme",
+    "tags": [
+      "cam sanatı",
+      "İslami resim",
+      "dekoratif sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "473dzclcc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Resimde renk teorisiyle ilgili olarak, sıcak renkler nelerden oluşur?",
+    "explanation": "Sıcak renkler kırmızı, sarı ve turuncu gibi enerjik renklerden oluşur. Soğuk renkler ise mavi, yeşil ve mor içerir.",
+    "options": [
+      "Mavi, Yeşil, Mor",
+      "Kırmızı, Sarı, Turuncu",
+      "Siyah, Beyaz, Gri",
+      "Pembe, Mavi, Lila"
+    ],
+    "correctAnswer": "Kırmızı, Sarı, Turuncu",
+    "tags": [
+      "renk teorisi",
+      "resim teknikleri",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ruabl94ep",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "Görsel sanatlar alanında kullanılan 'sürrealizm' akımı kim tarafından öne çıkarılmıştır?",
+    "explanation": "Sürrealizm akımı Salvador Dalí, René Magritte ve Max Ernst gibi sanatçılar tarafından öne çıkarılmıştır. Dalí en bilinen temsilcilerinden biridir.",
+    "options": [
+      "Mark Rothko",
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Vincent van Gogh"
+    ],
+    "correctAnswer": "Salvador Dalí",
+    "tags": [
+      "sürrealizm",
+      "resim akımları",
+      "sanat tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "50xbnscbd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Görsel sanatlar kategorisinde 'digital painting' (dijital boyama) hangi teknoloji kullanılarak yapılır?",
+    "explanation": "Dijital painting, grafik tabletler ve boyama programları (Photoshop, Procreate vb.) kullanılarak yapılan modern görsel sanatlar yöntemidir.",
+    "options": [
+      "Kalem ve Kağıt",
+      "Tablet ve Grafik Programları",
+      "Sakız ve Malzeme",
+      "Boyama Makinesi"
+    ],
+    "correctAnswer": "Tablet ve Grafik Programları",
+    "tags": [
+      "dijital sanat",
+      "teknoloji",
+      "modern sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7lit0ods1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Güzel sanatlar alanında hobi olarak yapılan en yaygın aktivite hangisidir?",
+    "explanation": "Resim, görsel sanatlar alanında yapılan en temel ve yaygın hobi aktivitesidir. Renk kullanımı, kompozisyon teknikleri ve ifade yeteneği geliştirir.",
+    "options": [
+      "Resim",
+      "Müzik",
+      "Yazma",
+      "Dans"
+    ],
+    "correctAnswer": "Resim",
+    "tags": [
+      "görsel sanatlar",
+      "hobiler",
+      "resim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kmfakcdft",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Suyun akışkanlığından yararlanan ve çizgiler oluşturarak iş yapan sanat türü nedir?",
+    "explanation": "Su boyası, su ile seyreltilerek kullanılır ve akışkan çizgiler oluşturabilir. Bu özellik onu görsel sanatlar hobisi için ideal kılar.",
+    "options": [
+      "Akrilik Boyama",
+      "Su Boyası",
+      "Kalek Boya",
+      "Pasta Boya"
+    ],
+    "correctAnswer": "Su Boyası",
+    "tags": [
+      "su boyası",
+      "görsel sanatlar",
+      "teknikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ik03xqbe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi malzeme ile çalışırken katmanlama tekniği (layering) en çok uygulanır?",
+    "explanation": "Akrilik boya kuruduktan sonra tekrar üzerine yeni katmanlar eklenebilir. Bu özellik görsel sanatlarda derinlik ve boyut yaratmak için kullanılır.",
+    "options": [
+      "Karbon Kalem",
+      "Akrilik Boya",
+      "Kalek Boya",
+      "Beton"
+    ],
+    "correctAnswer": "Akrilik Boya",
+    "tags": [
+      "akrilik boyama",
+      "katmanlama",
+      "teknikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bu84e75g7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Görsel sanatlar hobi çalışması için hangi renk teorisi bilgisi gereklidir?",
+    "explanation": "Renk teorisi, renk doygunluğu, sıcaklık ve kompozisyon bilgisi görsel sanatlar çalışmalarında temel oluşturur. Renk uyumu önemlidir.",
+    "options": [
+      "Ses Yüksekliği",
+      "Renk Doygunluğu",
+      "Işık Şiddeti",
+      "Frekans"
+    ],
+    "correctAnswer": "Renk Doygunluğu",
+    "tags": [
+      "renk teorisi",
+      "görsel sanatlar",
+      "temeller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ykd5elll",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi teknik ile üç boyutlu objeler ve heykel çalışmaları yapılabilir?",
+    "explanation": "Sculpting veya heykel, görsel sanatlar alanında üç boyutlu objeler ve formlar oluşturmayı ifade eder. Malzeme seçimi (kaynak, kil, boya) önemlidir.",
+    "options": [
+      "Fotoğrafçılık",
+      "Sculpting (Heykel)",
+      "Animasyon",
+      "Podcast"
+    ],
+    "correctAnswer": "Sculpting (Heykel)",
+    "tags": [
+      "heykel",
+      "üç boyutlu sanat",
+      "teknikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wnoeijr57",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Hangi görsel sanatları tekniği, yağlı boya ve su boyası kullanılarak oluşturulur?",
+    "explanation": "Çizim, yağlı boya ve su boyası gibi farklı malzemelerle oluşturulabilen temel görsel sanatları tekniğidir.",
+    "options": [
+      "Büyük resim",
+      "Çizim",
+      "Kahve",
+      "Seramik"
+    ],
+    "correctAnswer": "Çizim",
+    "tags": [
+      "görsel sanatlar",
+      "sanat teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xfjjvvu9y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi görsel sanatı türü üç boyutlu nesnelerin şekillendirilmesini içerir?",
+    "explanation": "Heykel, kâğıt, boya ve diğer malzemelerle üç boyutlu nesnelerin şekillendirilmesini ifade eder.",
+    "options": [
+      "Heykel",
+      "Fotoğrafçılık",
+      "El işleri",
+      "Kahve"
+    ],
+    "correctAnswer": "Heykel",
+    "tags": [
+      "heykel",
+      "görsel sanatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uvayljzgl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi görsel sanatı tekniği ışık ve gölgelerin kullanımıyla derinlik sağlar?",
+    "explanation": "Perspektif, çizimde derinlik ve uzaklığı göstermek için ışık-gölge kullanımıyla çalışır.",
+    "options": [
+      "Perspektif",
+      "Büyük resim",
+      "Kahve çekirdeği",
+      "Seramik"
+    ],
+    "correctAnswer": "Perspektif",
+    "tags": [
+      "perspektif",
+      "çizim teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "50zwl3njw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi görsel sanatı türü renklerin karıştırılmasıyla yeni renkler oluşturulmasını içerir?",
+    "explanation": "Renk teorisi, karıştırma ve yeni renkler oluşturmayı içeren temel görsel sanat bilgilerini sağlar.",
+    "options": [
+      "Renk teorisi",
+      "Fotoğrafçılık",
+      "Kahve çekme",
+      "Büyük resim"
+    ],
+    "correctAnswer": "Renk teorisi",
+    "tags": [
+      "renk teorisi",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "148elyuad",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Hangi görsel sanatı tekniği doğal malzemelerle çalışmayı içerir?",
+    "explanation": "Doğa ile çalışma, ağaç kabuğu, taş gibi doğal malzemelerle çalışmayı ifade eder.",
+    "options": [
+      "Doğa ile çalışma",
+      "Büyük resim",
+      "Kahve çekme",
+      "Seramik"
+    ],
+    "correctAnswer": "Doğa ile çalışma",
+    "tags": [
+      "doğa",
+      "görsel sanatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0zcbm11bb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Görsel sanatlar alanında kullanılan temel malzeme hangisidir?",
+    "explanation": "Görsel sanatların temel malzemeleri boyalar, boya tüpleri, fırçalar, kâğıt ve tuval gibi görsel ifade araçlarıdır.",
+    "options": [
+      "Ses dalga",
+      "Müzik enstrümanı",
+      "Boya ve kâğıt",
+      "Yazılım dili"
+    ],
+    "correctAnswer": "Boya ve kâğıt",
+    "tags": [
+      "malzeme",
+      "temel",
+      "görsel sanatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "veupt9apf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi dönemde resim teknikleri gelişip renkli tablolar ortaya çıkmıştır?",
+    "explanation": "Rönesans dönemi resim tekniklerinin geliştiği, Leonardo da Vinci ve Michelangelo gibi sanatçıların dönemidir.",
+    "options": [
+      "Antik Dönem",
+      "Orta Çağ",
+      "Rönesans",
+      "Yeni Çağ"
+    ],
+    "correctAnswer": "Rönesans",
+    "tags": [
+      "dönem",
+      "tarih",
+      "gelişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i4ecwdyef",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Güney Amerika'da yerel halkın görsel sanatlarında kullandığı boya türü nedir?",
+    "explanation": "Güney Amerika yerel halkı doğal minerallerden elde edilen boya türlerini kullanır.",
+    "options": [
+      "Kâğıt",
+      "Tuval",
+      "Yerel tozlar",
+      "Müzik aleti"
+    ],
+    "correctAnswer": "Yerel tozlar",
+    "tags": [
+      "yerli sanat",
+      "boyalar",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i5o3gleew",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi malzeme su bazlı boya için ideal değildir?",
+    "explanation": "Su bazlı boyalar metal folyoda iyi tutunmaz, tuval, papir ve kâğıt uygun malzemelerdir.",
+    "options": [
+      "Tuval",
+      "Papir",
+      "Kâğıt",
+      "Metal folyo"
+    ],
+    "correctAnswer": "Metal folyo",
+    "tags": [
+      "malzeme",
+      "su bazlı",
+      "boya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hkg8rpild",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "Görsel sanatlar alanında kullanılan gelişmiş teknik hangisidir?",
+    "explanation": "Görsel sanatlarda dijital teknikler kullanılır, Photoshop ve diğer programlarla dijital resim yapılır.",
+    "options": [
+      "Video montajı",
+      "Dijital resim",
+      "Ses kaydı",
+      "Yazılım programlama"
+    ],
+    "correctAnswer": "Dijital resim",
+    "tags": [
+      "teknik",
+      "gelişmiş",
+      "dijital sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xa1qzcn49",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi sanatçı, İmpresyonizm akımının en önemli temsilcisi olarak kabul edilir?",
+    "explanation": "Claude Monet, 19. yüzyıl İmpresyonizm akımının önde gelen temsilcisidir ve 'Nilüfer', 'Katedral' gibi eserleriyle bilinir.",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Leonardo da Vinci"
+    ],
+    "correctAnswer": "Claude Monet",
+    "tags": [
+      "resim",
+      "akımlar",
+      "tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uvn0ebbs0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Yağız boya tekniği hangi malzemelerle uygulanır?",
+    "explanation": "Yağız boya, genelde yağlı boya olarak adlandırılır ve genellikle kanvas (tuval) üzerine uygulanır.",
+    "options": [
+      "Su ve kalem",
+      "Çizgi ve pastel",
+      "Yağlı boya ve tuval",
+      "Akrilik ve karton"
+    ],
+    "correctAnswer": "Yağlı boya ve tuval",
+    "tags": [
+      "teknikler",
+      "malzemeler",
+      "uygulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9e4zk4bce",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi sanatçı 'Kahve Evi' serisiyle ünlüdür?",
+    "explanation": "Vincent van Gogh, 'Kahve Evi', 'Gece Yemeği' gibi eserleriyle tanınır.",
+    "options": [
+      "Gustav Klimt",
+      "Edvard Munch",
+      "Vincent van Gogh",
+      "Pablo Picasso"
+    ],
+    "correctAnswer": "Vincent van Gogh",
+    "tags": [
+      "seriler",
+      "eserler",
+      "sanatçı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z7x1mnbqv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi akım, 20. yüzyıl başlarında Paris'te gelişmiştir?",
+    "explanation": "Sürrealizm, 1920'lerde Paris'te gelişmiş ve bilinçaltını merkeze alan bir akımdır.",
+    "options": [
+      "Sürrealizm",
+      "Fütürizm",
+      "Dadaizm",
+      "İmpresyonizm"
+    ],
+    "correctAnswer": "Sürrealizm",
+    "tags": [
+      "akımlar",
+      "tarihçesi",
+      "20.yüzyıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ee60ldh6a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Mural sanatı hangi yüzeylere uygulanır?",
+    "explanation": "Mural sanatı, büyük duvarlara ve tavlara uygulanır; genellikle açık alanlarda bulunur.",
+    "options": [
+      "Metaller",
+      "Ağaçlar",
+      "Duvarlar ve tavanlar",
+      "Cam yüzeyler"
+    ],
+    "correctAnswer": "Duvarlar ve tavanlar",
+    "tags": [
+      "mural",
+      "yüzeyler",
+      "uygulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "onp2zs7qi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi görsel sanatlar hobilerinden biri değildir?",
+    "explanation": "Müzik çalma, müzikal bir aktivite iken; resim, kilim dokuma ve heykel işleme görsel sanatlar kategorisine girer.",
+    "options": [
+      "Resim yapma",
+      "Kilim dokuma",
+      "Müzik çalma",
+      "Heykel işleme"
+    ],
+    "correctAnswer": "Müzik çalma",
+    "tags": [
+      "görsel_sanatlar",
+      "hobiler",
+      "sanat_tipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "frtz0wyqf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Suyla karıştırılarak akıcı çizimler yapılabilen sanatsal malzeme hangisidir?",
+    "explanation": "Sulu boyalar (tempera, akvarel) su ile karıştırıldığında akıcı ve farklı tonlar oluşturulabilir.",
+    "options": [
+      "Akrilik boya",
+      "Sulu boya",
+      "Güveç kil",
+      "Yapay taş"
+    ],
+    "correctAnswer": "Sulu boya",
+    "tags": [
+      "sulu_boyalar",
+      "resim_materyalleri",
+      "sanat_teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2v25ejn5s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Heykel işleme hobbisi için en uygun malzeme hangisidir?",
+    "explanation": "Ahşap, metal ve kil tümü heykel işleme hobbisi için yaygın kullanılan malzemelerdir.",
+    "options": [
+      "Ahşap",
+      "Metal",
+      "Kil",
+      "Böyle hepsi"
+    ],
+    "correctAnswer": "Böyle hepsi",
+    "tags": [
+      "heykel",
+      "malzemeler",
+      "sanat_hobileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qw81g8883",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Akwarel boya tekniğinde kağıt seçiminde en önemli kriter nedir?",
+    "explanation": "Akwarel boyada suyun etkisiyle kağıdın yapısı bozulabilir, bu yüzden kalın ve dayanıklı kağıt tercih edilir.",
+    "options": [
+      "Koyu renkli",
+      "Kalın ve dayanıklı",
+      "İnce ve nazik",
+      "Düzgün"
+    ],
+    "correctAnswer": "Kalın ve dayanıklı",
+    "tags": [
+      "akwarel",
+      "boyama_teknikleri",
+      "materyal_bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f561frcnl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "Görsel sanatlar hobbisini geliştirirken hangi faktör önemlidir?",
+    "explanation": "Görsel sanatlar hobbisinde teknik gelişim ve sabır en önemli faktörlerdir; hızlı çalışma veya kopyalama yaratıcılığı engeller.",
+    "options": [
+      "Sadece pahalı malzeme",
+      "Teknik ve sabır",
+      "Hızlı çalışma",
+      "Başkalarının işi kopyalama"
+    ],
+    "correctAnswer": "Teknik ve sabır",
+    "tags": [
+      "sanat_gelişimi",
+      "hobi_tavsiyeleri",
+      "sanat_öğrenimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p87qw9t3k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Hangi boya türü en hızlı kurur?",
+    "explanation": "Akrilik boya su bazlıdır ve kuruma süreci hızlıdır; yağlı boyalara kıyasla daha az zaman alır.",
+    "options": [
+      "Yağlı boya",
+      "Su boyası",
+      "Akrilik boya",
+      "Karbon boya"
+    ],
+    "correctAnswer": "Akrilik boya",
+    "tags": [
+      "Resim Teknikleri",
+      "Malzeme Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qt5rwe1jl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Güçlü renkler ve sade formlar ile karakterize edilen sanat akımı hangisidir?",
+    "explanation": "20. yüzyıl başlarında yoğun renkler ve soyut şekillerle bilinir.",
+    "options": [
+      "İmpresyonizm",
+      "Kubizm",
+      "Fauvizm",
+      "Sürrealizm"
+    ],
+    "correctAnswer": "Fauvizm",
+    "tags": [
+      "Sanat Hareketleri",
+      "Modern Çağ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qay6xcdak",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "'Yıldızlı Gece' adlı tabloyu kim çizmiştir?",
+    "explanation": "1889 yılında Vincent van Gogh tarafından oluşturulmuştur.",
+    "options": [
+      "Picasso",
+      "Van Gogh",
+      "Monet",
+      "Dali"
+    ],
+    "correctAnswer": "Van Gogh",
+    "tags": [
+      "Ünlü Sanatçılar",
+      "Resim Çalışmaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "knf7eeaem",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Sanatta palet bıçağının birincil kullanımı nedir?",
+    "explanation": "Palet bıçağı genellikle impasto veya dokulu katmanlar oluşturmak için kullanılır.",
+    "options": [
+      "Renkleri karıştırmak",
+      "Kumaş kesmek",
+      "Çizgiler çizmek",
+      "Kalın boya uygulamak"
+    ],
+    "correctAnswer": "Kalın boya uygulamak",
+    "tags": [
+      "Sanat Aletleri",
+      "Teknik Uygulama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "08v5sgbzo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "İnce renk tabakalarını üst üste uygulamaya verilen isim hangisidir?",
+    "explanation": "Glazür, taban katına şeffaf renkler uygulayarak rengi derinleştirir.",
+    "options": [
+      "Gouache",
+      "Glazür",
+      "Stippling",
+      "Sgraffito"
+    ],
+    "correctAnswer": "Glazür",
+    "tags": [
+      "Sanat Terimleri",
+      "Katmanlama Teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2n0d2emvf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Güney Amerika'da yaşayan ve yerli sanatı ile tanınan ünlü ressamlar arasında aşağıdakilerden hangisi bulunur?",
+    "explanation": "Frida Kahlo, Meksika'da yaşayan ünlü ressamdır ve kendi hayatı ile ilham aldığı otobiyografik tablosal eserleriyle tanınır.",
+    "options": [
+      "Frida Kahlo",
+      "Pablo Picasso",
+      "Salvador Dali",
+      "Vincent van Gogh"
+    ],
+    "correctAnswer": "Frida Kahlo",
+    "tags": [
+      "ressam",
+      "güney amerika",
+      "yönelim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "or66av2lo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Renklerde kullanılan 'okslar' (pigment) hangisi değildir?",
+    "explanation": "Boraks bir mineraldir ve sanatsal renklendirme amaçlı pigment olarak kullanılmaz. Diğerleri ise yaygın kullanılan renklerdir.",
+    "options": [
+      "Krom oksit",
+      "Boraks",
+      "Demir oksit",
+      "Titanyum dioksit"
+    ],
+    "correctAnswer": "Boraks",
+    "tags": [
+      "renk",
+      "materyal",
+      "pigment"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y3w9ihh10",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "İtalyan Rönesans döneminin en ünlü ressamlarından biri olan Leonardo da Vinci'nin hangi tablosu bilinir?",
+    "explanation": "Leonardo da Vinci'nin 'Son Akşam Yemeği' adlı tablosu Milano'daki Santa Maria delle Grazie manastırında bulunur ve Rönesans sanatının en önemli eserlerinden biridir.",
+    "options": [
+      "Son Yemek",
+      "Dionisüs",
+      "Kadife Kılıç",
+      "Lokman Hekim"
+    ],
+    "correctAnswer": "Son Yemek",
+    "tags": [
+      "leonardo",
+      "rönesans",
+      "italya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jxvvbcjh0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Sanatta kullanılan 'akrilik boyalar' aşağıdakilerden hangisinin özelliğini taşır?",
+    "explanation": "Akrilik boyalar suda çözünmez, hızlı kurur ve dayanıklı bir yapıya sahiptir. Sanatta sıkça tercih edilirler.",
+    "options": [
+      "Hızlı kuruma",
+      "Yavaş kuruma",
+      "Suda çözünür",
+      "Kırılgan yapı"
+    ],
+    "correctAnswer": "Hızlı kuruma",
+    "tags": [
+      "materyal",
+      "akrilik",
+      "boyama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k47dz8w37",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Grafik sanatında kullanılan 'karikatür' aşağıdakilerden hangisidir?",
+    "explanation": "Karikatür, gerçeklikten abartı ve mizah unsurları ile karakterlerin özelliklerini vurgulayan çizim türüdür.",
+    "options": [
+      "Gerçekçi çizim",
+      "Abartılı çizim",
+      "Renksiz çizim",
+      "3 boyutlu çizim"
+    ],
+    "correctAnswer": "Abartılı çizim",
+    "tags": [
+      "grafik",
+      "karikatür",
+      "çizim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i15blor9o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Görsel sanatlar türlerinden biri olan yağlı boya resim için kullanılan temel zemin malzemesi nedir?",
+    "explanation": "Yağlı boya resimlerinde en yaygın kullanılan zemin malzemesi tuveldir. Tuval, pigmentlerin ve yağların tutunmasını sağlar.",
+    "options": [
+      "Kağıt",
+      "Tuval",
+      "Cam",
+      "Metal"
+    ],
+    "correctAnswer": "Tuval",
+    "tags": [
+      "resim",
+      "sanat materyalleri",
+      "yağlı boya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "da2wyovyh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "1980'lerden sonra Türkiye'de popülerleşen ve dijital teknoloji ile yapılan görsel sanatlar türü hangisidir?",
+    "explanation": "Digital Art, bilgisayar ve dijital teknoloji kullanılarak üretilen görsel sanatlar türüdür ve 1980'lerden sonra popülerleşmiştir.",
+    "options": [
+      "Ahşap oyma",
+      "Sculpture",
+      "Digital Art",
+      "Fotomontaj"
+    ],
+    "correctAnswer": "Digital Art",
+    "tags": [
+      "dijital sanat",
+      "modern sanat",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d2vezns5o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Görsel sanatlarda 'perspektif' tekniği neyi ifade eder?",
+    "explanation": "Perspektif, iki boyutlu bir yüzeyde üç boyutlu derinlik hissi oluşturmak için kullanılan geometrik bir tekniktir.",
+    "options": [
+      "Renk kullanımı",
+      "Derinlik hissi oluşturma",
+      "Materyal seçimi",
+      "Fiyat belirleme"
+    ],
+    "correctAnswer": "Derinlik hissi oluşturma",
+    "tags": [
+      "perspektif",
+      "resim teknikleri",
+      "sanat terimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "moirnq7ae",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "Hangi sanatçı 'Surrealism' (Yoktanvarizm) akımının önemli temsilcilerinden biridir?",
+    "explanation": "Salvador Dalí, 20. yüzyılın önemli surrealist sanatçılarından biridir ve rüya temalı eserleriyle tanınır.",
+    "options": [
+      "Vincent van Gogh",
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Frida Kahlo"
+    ],
+    "correctAnswer": "Salvador Dalí",
+    "tags": [
+      "surrealizm",
+      "modern sanat",
+      "sanatçıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "065kleo9f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Görsel sanatlar alanında 'monokrom' çalışması ne anlama gelir?",
+    "explanation": "Monokrom, yalnızca bir renk tonunun veya tek rengin kullanıldığı görsel sanat çalışmalarıdır.",
+    "options": [
+      "Çok renkli çalışma",
+      "Tek renk kullanımı",
+      "Karışık malzeme",
+      "Uzun format"
+    ],
+    "correctAnswer": "Tek renk kullanımı",
+    "tags": [
+      "monokrom",
+      "renk teorisi",
+      "sanat teknikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1y9kyohjj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Görsel sanatlar alanında hangi malzeme doğrudan yağlı boya tekniği için kullanılmaz?",
+    "explanation": "Yağlı boya tekniğinde tuhaf (boya) doğrudan kullanılır, solventler temizlik için, yağ bağlayıcı olarak ve kanvas tabana ihtiyaç vardır. 'Tuhaf' kelimesi yanlış yazılmıştır.",
+    "options": [
+      "Yağ",
+      "Tuhaf",
+      "Solvents",
+      "Kanvas"
+    ],
+    "correctAnswer": "Tuhaf",
+    "tags": [
+      "yağlı_boya",
+      "malzeme",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7lzb2y6x1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Hangi akım 20. yüzyıl başlarında Paris'te ortaya çıkmış ve günlük yaşamı sanat eserinin merkezine koymuştur?",
+    "explanation": "İmpresyonizm, 1860-1890 yılları arasında Paris'te başlamış ve Monet, Renoir gibi sanatçıların günlük yaşam sahnelerini ışıkla yakalamasıyla bilinen akımdır.",
+    "options": [
+      "İmpresyonizm",
+      "Kubizim",
+      "Dadaizm",
+      "Sürrealizm"
+    ],
+    "correctAnswer": "İmpresyonizm",
+    "tags": [
+      "akım",
+      "sanat_tarihi",
+      "çizim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "km4him0nt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "GENERAL",
+    "question": "Sürrealizm akımına ait olan aşağıdaki sanatçılar hangisidir?",
+    "explanation": "Salvador Dalí, rüya ve bilinçdışı temaları işleyen Sürrealizm akımının en ünlü temsilcilerinden biridir.",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "correctAnswer": "Salvador Dalí",
+    "tags": [
+      "sürrealizm",
+      "sanatçı",
+      "akım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iewomd934",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EASY",
+    "question": "Hangi teknik resim yaparken boyanın üzerine katmanlar halinde uygulanır?",
+    "explanation": "Glaze (glase) tekniği, resim üzerine saydam katmanlar halinde boya uygulanarak derinlik ve ışık efekti yaratılmasını sağlar.",
+    "options": [
+      "Güzel Boya",
+      "Solvent Tekniği",
+      "İmpresyonist Boyama",
+      "Glase"
+    ],
+    "correctAnswer": "Glase",
+    "tags": [
+      "teknik",
+      "boya",
+      "katman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "atvo65ze6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Görsel Sanatlar",
+    "difficulty": "EXPERT",
+    "question": "Modern sanat akımlarında 'Kubizim' hangi temayı işler?",
+    "explanation": "Kubizim, Picasso ve Braque gibi sanatçılar tarafından geliştirilmiş olup nesneleri geometrik parçalara ayırarak yeniden yorumlar.",
+    "options": [
+      "Rüya",
+      "Doğal Görüntü",
+      "Geometrik Şekiller",
+      "Günlük Yaşam"
+    ],
+    "correctAnswer": "Geometrik Şekiller",
+    "tags": [
+      "kubizim",
+      "modern_sanat",
+      "akım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

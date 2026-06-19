@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "6bre1yb6z",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş dönemi hangi yıllar arasında gerçekleşmiştir?",
+    "explanation": "Soğuk Savaş 1947'de Truman Doktrini ile başlayıp 1991'de SSCB'nin çöküşü ve Sovyetler Birliği'nin dağılmasıyla son bulmuştur.",
+    "options": [
+      "1945-1960",
+      "1947-1991",
+      "1950-1985",
+      "1946-1989"
+    ],
+    "correctAnswer": "1947-1991",
+    "tags": [
+      "Tarih",
+      "Soğuk Savaş",
+      "Yıllar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c5agitm3z",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Truman Doktrini ne amaçla ilan edilmiştir?",
+    "explanation": "Truman Doktrini 1947'de Yunanistan ve Türkiye'ye komünizmden koruma amaçlı askeri ve ekonomik yardım için ilan edilmiştir.",
+    "options": [
+      "ABD'nin Avrupa'ya asker gönderme",
+      "Yunanistan ve Türkiye'ye yardım sağlama",
+      "Doğu Avrupa'daki devletleri koruma",
+      "Askeri blokların oluşturulması"
+    ],
+    "correctAnswer": "Yunanistan ve Türkiye'ye yardım sağlama",
+    "tags": [
+      "Tarih",
+      "Truman Doktrini",
+      "Soğuk Savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8333xx5sq",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Mason Bloğu (NATO) hangi yıl kurulmuştur?",
+    "explanation": "Mason Bloğu (North Atlantic Treaty Organization - NATO) 4 Nisan 1949'da Washington'da imzalanan antlaşmayla kurulmuştur.",
+    "options": [
+      "1945",
+      "1947",
+      "1949",
+      "1950"
+    ],
+    "correctAnswer": "1949",
+    "tags": [
+      "Tarih",
+      "Mason Bloğu",
+      "NATO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8zvq384xw",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Berlin Duvarı kaç yılında inşa edildi?",
+    "explanation": "Berlin Duvarı 13 Ağustos 1961'de Doğu Almanya tarafından inşa edildi, 9 Kasım 1989'da yıkıldı.",
+    "options": [
+      "1950",
+      "1961",
+      "1963",
+      "1965"
+    ],
+    "correctAnswer": "1961",
+    "tags": [
+      "Tarih",
+      "Berlin Duvarı",
+      "Soğuk Savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lko77ilfh",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın sonu hangi olayla sembolize edilir?",
+    "explanation": "Soğuk Savaş'ın sonu genellikle 9 Kasım 1989'da Berlin Duvarı'nın yıkılması ve SSCB'nin dağılması ile sembolize edilir.",
+    "options": [
+      "Vietnam Savaşı'nın bitmesi",
+      "Berlin Duvarı'nın yıkılması",
+      "NATO'nun dağılması",
+      "ABD'nin çekilmesi"
+    ],
+    "correctAnswer": "Berlin Duvarı'nın yıkılması",
+    "tags": [
+      "Tarih",
+      "Soğuk Savaş",
+      "Berli Duvarı Yıkılma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "17whckwfe",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş döneminin en önemli ilk olayı aşağıdakilerden hangisidir?",
+    "explanation": "Soğuk Savaş dönemi 1947'de Truman Doktrini ile başladı ve NATO'nun 1949'da kurulması bu dönemin en önemli ilk olaylarından biridir. Soğuk Savaş 1991'e kadar devam etmiştir.",
+    "options": [
+      "Berlin Duvarının yapılması",
+      "Cuban Missile Crisis (Tahrik Krimisi)",
+      "NATO'nun kurulması",
+      "Soğuk Savaş'ın sonlanması"
+    ],
+    "correctAnswer": "NATO'nun kurulması",
+    "tags": [
+      "soğuk savaş",
+      "nato",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1f39kje5j",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Cuban Missile Crisis (Baham Tüneli Krizi) kaç yılında gerçekleşmiştir?",
+    "explanation": "Baham Tüneli Krizi (Cuban Missile Crisis), 1962 yılında ABD ve Sovyetler Birliği arasında yaşanmıştır. Bu kriz Soğuk Savaş döneminin en tehlikeli anlarından biridir.",
+    "options": [
+      "1958",
+      "1962",
+      "1968",
+      "1972"
+    ],
+    "correctAnswer": "1962",
+    "tags": [
+      "soğuk savaş",
+      "baham tüneli krizi",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "btpdqdsbf",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Berlin Duvarı ne zaman yıkılmıştır?",
+    "explanation": "Berlin Duvarı 1989 yılında Almanya'nın açılmasıyla birlikte yıkılmıştır. Bu olay Batı ve Doğu bloklarının ayrılışına işaret etmiştir.",
+    "options": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "soğuk savaş",
+      "berlin duvarı",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ftt3qp1wd",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın sona ermesinde hangi olay belirleyici olmuştur?",
+    "explanation": "Soğuk Savaş 1991'de Sovyetler Birliği'nin dağılmasıyla resmi olarak sona ermiştir. Bu, Doğu bloğunun çöküşünü ve Soğuk Savaş'ın bitişini simgelemiştir.",
+    "options": [
+      "Çerkez Dağı'nın işgali",
+      "Sovyetler Birliği'nin dağılması",
+      "ABD'nin nükleer bomba testinin iptali",
+      "NATO'nun dağılması"
+    ],
+    "correctAnswer": "Sovyetler Birliği'nin dağılması",
+    "tags": [
+      "soğuk savaş",
+      "sovyetler birliği",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rx8mribe4",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "NATO (Kuzey Atlantik Antlaşması Örgütü) hangi yıl kurulmuştur?",
+    "explanation": "NATO 1949 yılında Paris'te imzalanan Kuzey Atlantik Antlaşması ile kurulmuştur. Bu, Soğuk Savaş döneminin en önemli askeri ittifaklarından biridir.",
+    "options": [
+      "1947",
+      "1948",
+      "1949",
+      "1950"
+    ],
+    "correctAnswer": "1949",
+    "tags": [
+      "soğuk savaş",
+      "nato",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "76ftrreoo",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Soğuk Savaş'ın başladığı kabul edilen tarih hangisidir?",
+    "explanation": "Soğuk Savaş'ın resmi başlangıcı genellikle 1947'deki Truman Doktrini ile kabul edilir. Bu doktrin, ABD'nin Sovyet etkisine karşı aktif politika izlemeye başlamasını simgelemektedir.",
+    "options": [
+      "1945",
+      "1947",
+      "1949",
+      "1953"
+    ],
+    "correctAnswer": "1947",
+    "tags": [
+      "TARİH",
+      "SOĞUK SAVAŞ",
+      "TRUMAN DOKTRİNİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7bcdbq4w9",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "SALT I ve SALT II anlaşmaları hangi konuyla ilgiliydi?",
+    "explanation": "SALT (Strategic Arms Limitation Talks) anlaşmaları, ABD ve SSCB arasında nükleer silahların sayısını sınırlama amacıyla yapılan görüşmelerdir.",
+    "options": [
+      "Nükleer silah denetimleri",
+      "Yardımlar ve ekonomik ilişkiler",
+      "Askeri birlik yerleşimi",
+      "Diplomatik görüşmeler"
+    ],
+    "correctAnswer": "Nükleer silah denetimleri",
+    "tags": [
+      "TARİH",
+      "SOĞUK SAVAŞ",
+      "SALT ANLAŞMALARI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "drv03ew79",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Berlin Duvarı'nın yıkıldığı yıl hangisidir?",
+    "explanation": "Berlin Duvarı 13 Kasım 1989 tarihinde, Almanya'daki olaylar ve SSCB'nin politik değişimi sonucu yıkılmıştır. Bu, Soğuk Savaş'ın sona erişinin sembolü olmuştur.",
+    "options": [
+      "1987",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "TARİH",
+      "SOĞUK SAVAŞ",
+      "BERLİN DUVARI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "18zznejbs",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "NATO'nun kurduğu ilk üs hangi ülkede bulunuyordu?",
+    "explanation": "NATO, Soğuk Savaş döneminde stratejik konumu nedeniyle Türkiye'de önemli üsler kurmuştur. Özellikle Karadeniz ve Ortadoğu ile olan ilişkiler açısından kritik bir rol oynamıştır.",
+    "options": [
+      "Fransa",
+      "İtalya",
+      "Türkiye",
+      "Avusturya"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "TARİH",
+      "SOĞUK SAVAŞ",
+      "NATO"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z9j9mpz8t",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın sona erdiği kabul edilen olay hangisidir?",
+    "explanation": "Soğuk Savaş'ın resmen sona erdiği olay, 1991'de SSCB'nin dağılmasıdır. Bu, Sovyet bloğunun tamamen çökmesini ve iki süper güç dengesi son bulduğunu göstermiştir.",
+    "options": [
+      "Berlin Duvarı'nın yıkılması",
+      "SSCB'nin dağılması",
+      "NATO'nun genişlemesi",
+      "ABD'nin çekilmesi"
+    ],
+    "correctAnswer": "SSCB'nin dağılması",
+    "tags": [
+      "TARİH",
+      "SOĞUK SAVAŞ",
+      "SSCB DAĞILMASI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a01fvatf9",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş döneminde Berlin Duvarı ne zaman inşa edildi?",
+    "explanation": "Berlin Duvarı 13 Ağustos 1961'de Doğu Almanya tarafından inşa edilerek başlandı. Bu, Soğuk Savaş döneminin en sembolik olaylarından biriydi.",
+    "options": [
+      "1958",
+      "1961",
+      "1963",
+      "1970"
+    ],
+    "correctAnswer": "1961",
+    "tags": [
+      "Berlin Duvarı",
+      "Soğuk Savaş",
+      "Almanya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "omtw8ewl3",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Küba Füzesi Krizi hangi yıl meydana geldi?",
+    "explanation": "Küba Füzesi Krizi Ekim 1962'de başladı ve Soğuk Savaş'ın en tehlikeli anlarından biriydi. ABD ve Sovyetler arasındaki nükleer gerilimi zirveye taşıdı.",
+    "options": [
+      "1959",
+      "1962",
+      "1964",
+      "1968"
+    ],
+    "correctAnswer": "1962",
+    "tags": [
+      "Küba",
+      "Sovyetler Birliği",
+      "ABD"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "molvps8fc",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'taki 'Détente' (İlişkiyi yumuşatma) politikası ne zaman ortaya çıktı?",
+    "explanation": "Detante politikası 1972'de ABD ve Sovyetler arasında imzalanan nükleer silah kontrol anlaşmalarıyla güçlendi. Ronald Reagan döneminde de devam etti.",
+    "options": [
+      "1965",
+      "1968",
+      "1972",
+      "1975"
+    ],
+    "correctAnswer": "1972",
+    "tags": [
+      "Détente",
+      "ABD-Sovyet İlişkileri",
+      "Nükleer Silahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fictu991g",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Afghanistan'ın Sovyet işgali ne zaman gerçekleşti?",
+    "explanation": "Sovyetler Birliği 24 Aralık 1979'da Afganistan'ı işgal etti. Bu, Soğuk Savaş'ın en uzun süreli müdahalelerinden biri oldu ve ABD'in Afganistan'a savaşı desteklemesine neden oldu.",
+    "options": [
+      "1978",
+      "1979",
+      "1982",
+      "1985"
+    ],
+    "correctAnswer": "1979",
+    "tags": [
+      "Sovyet İşgali",
+      "Afghanistan",
+      "Proxy Savaşlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t4kabcfga",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EXPERT",
+    "question": "Soğuk Savaş döneminde 'Proxy War' (Hedef savaş) kavramına örneğin hangisidir?",
+    "explanation": "Vietnam Savaşı Soğuk Savaş'ın en belirgin proxy savaşlarından biriydi. ABD doğrudan müdahale etmedi, ancak güney Vietnam'ı destekledi ve Sovyetler kuzey Vietnam'ı destekledi.",
+    "options": [
+      "Vietnam Savaşı",
+      "Kore Savaşı",
+      "Çekoslovakya Krizi",
+      "Berlin Krizi"
+    ],
+    "correctAnswer": "Vietnam Savaşı",
+    "tags": [
+      "Proxy War",
+      "Vietnam",
+      "ABD Müdahalesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uqugvmknd",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Soğuk Savaş döneminin başlangıcı kabul edilen NATO'nun kuruluş yılı hangisidir?",
+    "explanation": "NATO (Kuzey Atlantik İttifakı) 4 Nisan 1949 tarihinde Washington'da imzalanan anlaşmayla kurulmuştur. Bu, ABD ve diğer Batı Avrupa ülkelerinin Sovyet tehdidine karşı oluşturduğu askerli ittifaktır.",
+    "options": [
+      "1947",
+      "1949",
+      "1950",
+      "1951"
+    ],
+    "correctAnswer": "1949",
+    "tags": [
+      "NATO",
+      "kuruluş",
+      "Batı Bloku"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fghkbwobh",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi Soğuk Savaş döneminin en önemli istihbarat servetlerinden biridir?",
+    "explanation": "KGB (Komünist Devlet Güvenlik Komitesi) Sovyetler Birliği'nin başlıca istihbarat serveti olup, ABD'nin CIA'sı ile Soğuk Savaş'ın iki kutuplu istihbarat mücadelesini temsil etmiştir.",
+    "options": [
+      "CIA",
+      "KGB",
+      "MI6",
+      "Mossad"
+    ],
+    "correctAnswer": "KGB",
+    "tags": [
+      "KGB",
+      "Rusya",
+      "istihbarat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "68m8915ih",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Berlin Duvarının yıkıldığı tarih aşağıdakilerden hangisidir?",
+    "explanation": "Berlin Duvarı 9 Kasım 1989'da yıkılmıştır. Bu olay Doğu Bloku'nun dağılmasına ve soğuk savaşın sona ermesine zemin hazırlayan dönüm noktası olmuştur.",
+    "options": [
+      "9 Kasım 1987",
+      "9 Kasım 1989",
+      "10 Kasım 1989",
+      "30 Kasım 1990"
+    ],
+    "correctAnswer": "9 Kasım 1989",
+    "tags": [
+      "Berlin Duvarı",
+      "Doğu Almanya",
+      "son dönem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ysesfdrp1",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın iki ana karşıt bloğunu temsil eden aşağıdaki seçeneklerden hangisi doğrudur?",
+    "explanation": "Soğuk Savaş ABD merkezli Batı Bloku ile SSCB merkezli Doğu Bloku arasında şekillenmiştir. Bu iki süper güç nükleer silahlar ve istihbarat servetleri üzerinden rekabet etmişlerdir.",
+    "options": [
+      "ABD ve SSCB",
+      "NATO ve ODTÜ",
+      "Fransa ve Almanya",
+      "İngiltere ve İtalya"
+    ],
+    "correctAnswer": "ABD ve SSCB",
+    "tags": [
+      "bloklar",
+      "karşıtlık",
+      "merkeziyet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "htspnvsj9",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EXPERT",
+    "question": "Vietnam Savaşı'nın Soğuk Savaş'a etkisi aşağıdakilerden hangisiyle açıklanır?",
+    "explanation": "Vietnam Savaşı (1955-1975) ABD'nin Doğu Asya'daki nüfuzunun azalmasına ve Soğuk Savaş döneminde ABD'nin askeri stratejisinin yeniden düşünülmesine neden olmuştur. Bu, ABD'nin sovyet tehdidine karşı olan gücünün sınırlı olduğunu göstermiştir.",
+    "options": [
+      "Doğu Bloku'nun güçlenmesi",
+      "ABD'nin Doğu Asya'daki nüfuzunun azalması",
+      "NATO'nun kurulması",
+      "Berlin Duvarının inşa edilmesi"
+    ],
+    "correctAnswer": "ABD'nin Doğu Asya'daki nüfuzunun azalması",
+    "tags": [
+      "Vietnam Savaşı",
+      "Asya",
+      "Amerikan dış politikası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ef7glwr37",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Soğuk Savaşın başlamasının temel nedeni aşağıdakilerden hangisidir?",
+    "explanation": "Soğuk Savaş, II. Dünya Savaşı sonrası kapitalist ve komünist ideolojileri arasındaki temel çatışmadan doğmuştur.",
+    "options": [
+      "Amerika Birleşik Devletleri ile Sovyetler Birliği arasındaki ideolojik çatışma",
+      "Asya ülkelerinin bağımsızlık hareketleri",
+      "Avrupa'daki ekonomi krizleri",
+      "Latin Amerika'daki siyasi değişimler"
+    ],
+    "correctAnswer": "Amerika Birleşik Devletleri ile Sovyetler Birliği arasındaki ideolojik çatışma",
+    "tags": [
+      "soğuk-savaş",
+      "ideoloji",
+      "ABD-SSCB"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ojz5n0ulv",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "NATO (Kuzey Atlantik Antlaşması Örgütü) hangi yıl kurulmuştur?",
+    "explanation": "NATO, Soğuk Savaş döneminde Sovyetler Birliği'ne karşı Batı müttefiklerini birleştirmek amacıyla 1949 yılında kurulmuştur.",
+    "options": [
+      "1945",
+      "1947",
+      "1949",
+      "1950"
+    ],
+    "correctAnswer": "1949",
+    "tags": [
+      "NATO",
+      "soğuk-savaş",
+      "kuzey-atlantik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "35v5tbee6",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Berlin Duvarı hangi tarihlerde inşa edilmiştir?",
+    "explanation": "Berlin Duvarı, 1961 yılında inşa edilerek 1989'da yıkılıncaya kadar Almanya'yı ikiye bölmüştür.",
+    "options": [
+      "1960-1962",
+      "1961-1989",
+      "1955-1970",
+      "1950-1965"
+    ],
+    "correctAnswer": "1961-1989",
+    "tags": [
+      "Berlin-duvarı",
+      "soğuk-savaş",
+      "Almanya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d2vuvvleq",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaşın sona ermesinde en belirleyici faktör aşağıdakilerden hangisidir?",
+    "explanation": "Sovyetler Birliği'nin 1980'lerdeki ekonomik zorlukları ve politik reformları (Glasnost, Perestroika) Soğuk Savaşın sona ermesinde belirleyici olmuştur.",
+    "options": [
+      "Sovyetler Birliği'nin ekonomik çöküşü",
+      "Amerika'nın nükleer saldırıları",
+      "Çin'in komünist rejiminin düşmesi",
+      "Japonya'nın askeri reformları"
+    ],
+    "correctAnswer": "Sovyetler Birliği'nin ekonomik çöküşü",
+    "tags": [
+      "soğuk-savaş",
+      "SSCB",
+      "ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "au1hxu6qa",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş döneminde Avrupa'nın ikiye bölünmesi hangi güçler tarafından yönetilmiştir?",
+    "explanation": "Soğuk Savaş döneminde Avrupa, Batı bloku (ABD önderliğinde) ve Doğu bloku (Sovyetler Birliği önderliğinde) olarak ikiye bölünmüştür.",
+    "options": [
+      "Batı: ABD; Doğu: Sovyetler Birliği",
+      "Kuzey: Kanada; Güney: Brezilya",
+      "Doğu: Çin; Batı: Hindistan",
+      "Güney: Avustralya; Kuzey: Rusya"
+    ],
+    "correctAnswer": "Batı: ABD; Doğu: Sovyetler Birliği",
+    "tags": [
+      "soğuk-savaş",
+      "Avrupa",
+      "bölünme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ial3il8zs",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın başlangıcı olarak kabul edilen ve ABD ile SSCB arasında nüfuz mücadelesinin sembolize ettiği olay hangisidir?",
+    "explanation": "Truman Doktrini 1947'de ABD Başkanı Harry Truman tarafından açıklanmış ve SSCB'nin genişleme politikalarına karşı Batı ülkelerine destek verilmesi kararı alınmıştır. Bu, Soğuk Savaş'ın resmen başladığı kabul edilen ilk önemli diplomatik hamle ol",
+    "options": [
+      "Berlin Duvarı'nın inşası",
+      "Truman Doktrini'nin açıklanması",
+      "Küba Füze Krizi",
+      "Hong Kong'un geri alınması"
+    ],
+    "correctAnswer": "Truman Doktrini'nin açıklanması",
+    "tags": [
+      "soğuk-savaş",
+      "dış-politika",
+      "ABD-SSCB"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "19s70fgu7",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "1962 yılında ABD ve SSCB arasında nükleer füze krizi yaşanmış olup bu krizin en önemli sonucu nedir?",
+    "explanation": "Küba Füze Krizi 1962'de ABD ve SSCB arasında yaşanmış en tehlikeli nükleer krizdir. Kriz sonucunda her iki taraf da nükleer silahların kontrol altına alınması için anlaşmalara imza atmışlardır. START anlaşmaları bu sürecin önemli bir parçasıdır.",
+    "options": [
+      "Berlin Duvarı'nın inşası",
+      "Mars'a ilk insan seferi",
+      "Nükleer Silahların Durdurulması (START) anlaşması",
+      "Hong Kong'un Çin'e geri alınması"
+    ],
+    "correctAnswer": "Nükleer Silahların Durdurulması (START) anlaşması",
+    "tags": [
+      "soğuk-savaş",
+      "nükleer-kriz",
+      "Küba-Füze-Krizi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ouet16sao",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Soğuk Savaş sırasında SSCB'nin Batı dünyasına karşı inşa ettiği ve 1989 yılında yıkılan yapı hangisidir?",
+    "explanation": "Berlin Duvarı, 1961'de inşa edilmiş ve SSCB ile Doğu Almanya'nın Batı dünyasından ayrışmasını sembolize eden yapıdır. 1989'da yıkılmış ve Soğuk Savaş'ın sona erdiğinin önemli işareti olarak kabul edilir.",
+    "options": [
+      "Berlin Duvarı",
+      "Truman Doktrini",
+      "Küba Füze Krizi",
+      "Hong Kong"
+    ],
+    "correctAnswer": "Berlin Duvarı",
+    "tags": [
+      "soğuk-savaş",
+      "Berlin-Duvarı",
+      "1989"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ug5m5p1o0",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş sırasında ABD'nin SSCB'ye karşı geliştirdiği ve nükleer silahların kontrolünü amaçlayan anlaşma grubu hangisidir?",
+    "explanation": "START (Strategic Arms Reduction Talks) anlaşmaları, ABD ve SSCB/Arnavutluk arasında nükleer silahların azaltılması için yapılan görüşmelerden çıkan anlaşmalardır. Soğuk Savaş döneminin son yıllarında imzalanan bu anlaşmalar, iki tarafın silahlan",
+    "options": [
+      "START Anlaşmaları",
+      "Truman Doktrini",
+      "Berlin Duvarı",
+      "Küba Füze Krizi"
+    ],
+    "correctAnswer": "START Anlaşmaları",
+    "tags": [
+      "soğuk-savaş",
+      "nükleer-anlaşma",
+      "ABD-SSCB"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xihe2035a",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Soğuk Savaş'ın temel nedeni olarak kabul edilen ve iki süper güç arasındaki nüfuz mücadelesini en iyi açıklayan kavram hangisidir?",
+    "explanation": "Soğuk Savaş'ın temel nedeni, ABD'nin kapitalizmi ve SSCB'nin sosyalizmi arasındaki ideolojik çatışmadır. Bu iki sistem birbirini tehdit ettiğini düşünmüş ve nüfuz mücadelesi verilerek karşıt sistemi yıkmaya çalışılmıştır.",
+    "options": [
+      "Kapitalizm ile Sosyalizmin Çatışması",
+      "Hong Kong'un geri alınması",
+      "Berlin Duvarı'nın inşası",
+      "Küba Füze Krizi"
+    ],
+    "correctAnswer": "Kapitalizm ile Sosyalizmin Çatışması",
+    "tags": [
+      "soğuk-savaş",
+      "ekonomi-sistemleri",
+      "ideoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6xcav3r09",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın resmen başladığı kabul edilen olay hangisidir?",
+    "explanation": "Berlin Duvarı 1961'de inşa edildi ve Soğuk Savaş'ın en sembolik olaylarından biri haline geldi.",
+    "options": [
+      "Berlin Duvarı'nın inşa edilmesi",
+      "Küba Füze Krizi",
+      "Polonya'da Stalin Rejimi",
+      "Tehavil (Ihale) Kriz"
+    ],
+    "correctAnswer": "Berlin Duvarı'nın inşa edilmesi",
+    "tags": [
+      "soğuk-savaş",
+      "berlin-duvari",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x45r7mkvt",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş sırasında ABD ve SSCB arasındaki nükleer silah yarışı hangi dönemde zirveye ulaştı?",
+    "explanation": "1960'lar, ABD ve SSCB arasındaki nükleer silah yarışı en yoğun olduğu dönemlerden biriydi.",
+    "options": [
+      "1950-1960 yılları",
+      "1961-1965 yılları",
+      "1970-1980 yılları",
+      "1985-1990 yılları"
+    ],
+    "correctAnswer": "1961-1965 yılları",
+    "tags": [
+      "soğuk-savaş",
+      "nükleer-yarış",
+      "sscb-abd"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e0u5vpi3a",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın sona erdiği kabul edilen yıl hangisidir?",
+    "explanation": "SSCB'nin 1991'de dağılmasıyla Soğuk Savaş resmi olarak son buldu.",
+    "options": [
+      "1985",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "soğuk-savaş",
+      "sona-erme",
+      "sscb-kapalania"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9n7nounfj",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Küba Füze Krizi hangi yıl gerçekleşmiştir?",
+    "explanation": "Küba Füze Krizi 1962'de gerçekleşti ve nükleer silahlara dayalı en tehlikeli krizlerden biriydi.",
+    "options": [
+      "1958",
+      "1960",
+      "1962",
+      "1963"
+    ],
+    "correctAnswer": "1962",
+    "tags": [
+      "soğuk-savaş",
+      "küba-fuze-krizi",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l9azt0scs",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş sırasında NATO'nun kurulduğu yıl hangisidir?",
+    "explanation": "NATO 1949'da kuruldu ve Soğuk Savaş sırasında ABD'nin Avrupa'daki ittifakı oldu.",
+    "options": [
+      "1945",
+      "1947",
+      "1949",
+      "1950"
+    ],
+    "correctAnswer": "1949",
+    "tags": [
+      "soğuk-savaş",
+      "nato",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "az3w9bhbr",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın başlamasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Soğuk Savaş 1947'de ABD Başkanı Truman'ın Truman Doktrini ile resmen başladı. Bu doktrin Sovyet karşıtlığı ve Batı dünyasının korunması ilkesini ifade etmektedir.",
+    "options": [
+      "1947'de Truman Doktrini ilan edildi",
+      "1962'de Berlin Duvarı inşa edildi",
+      "1955'de NATO kuruldu",
+      "1945'te AB'ye üye oldu"
+    ],
+    "correctAnswer": "1947'de Truman Doktrini ilan edildi",
+    "tags": [
+      "Soğuk Savaş",
+      "Truman Doktrini",
+      "ABD Politikası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yus0kfq5m",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "NATO'nun kurulduğu yıl aşağıdakilerden hangisidir?",
+    "explanation": "NATO (Kuzey Atlantik Antlaşması Örgütü) 1949 yılında Washington'da kuruldu. Bu örgütün amacı Sovyet tehdidine karşı Batı dünyasını korumaktı.",
+    "options": [
+      "1945",
+      "1947",
+      "1949",
+      "1955"
+    ],
+    "correctAnswer": "1949",
+    "tags": [
+      "Soğuk Savaş",
+      "NATO",
+      "Askeri Ittifak"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tvuuvrzis",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Berlin Duvarının yıktığı yıl aşağıdakilerden hangisidir?",
+    "explanation": "Berlin Duvarı 1989 yılında yıkıldı. Bu olay Soğuk Savaş'ın sona ermesine ve Almanya'nın yeniden birleşmesine zemin hazırladı.",
+    "options": [
+      "1980",
+      "1985",
+      "1987",
+      "1989"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "Soğuk Savaş",
+      "Berlin Duvarı",
+      "Demokratikleşme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o51u0ud79",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Cuba krizi (Missil krizi) hangi yıl gerçekleşmiştir?",
+    "explanation": "Cuba krizi 1962 yılında ABD ve Sovyetler arasında gerçekleşti. Bu kriz, nükleer silahlı bir çatışmadan kaçınmak için diplomatik çözüme götürdü.",
+    "options": [
+      "1960",
+      "1962",
+      "1964",
+      "1967"
+    ],
+    "correctAnswer": "1962",
+    "tags": [
+      "Soğuk Savaş",
+      "Küba Krizi",
+      "Nükleer Tehdit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e9xgg1zg6",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın sona erdiği kabul edilen yıl aşağıdakilerden hangisidir?",
+    "explanation": "Soğuk Savaş 1991'de Sovyetler Birliği'nin dağılmasıyla sona erdi. Bu yıl, dönemin en önemli jeopolitik değişimlerinden biri olarak kabul edilir.",
+    "options": [
+      "1987",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "Soğuk Savaş",
+      "Sovyetler Birliği",
+      "Dönüm Noktası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "93sb4ex98",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "EASY",
+    "question": "Soğuk Savaş'ın tanımına en uygun seçenek hangisidir?",
+    "explanation": "Soğuk Savaş, İkinci Dünya Savaşı sonrası 1947-1991 yılları arasında ABD ve SSCB'nin nükleer silahlarıyla soğuk çatıştığı dönemdir.",
+    "options": [
+      "Dünya güçleri arasındaki sıcak çatışma",
+      "ABD ve SSCB liderliğinde nükleer silahlı soğuk çatışma dönemi",
+      "Avrupa ülkeleri arasındaki ticaret savaşı",
+      "Asya-Batı arasında kültürel farklar"
+    ],
+    "correctAnswer": "ABD ve SSCB liderliğinde nükleer silahlı soğuk çatışma dönemi",
+    "tags": [
+      "soğuk savaş",
+      "tarih",
+      "dünya",
+      "çatışma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1wygps843",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Berlin Duvarı ne zaman yıkıldı?",
+    "explanation": "Berlin Duvarı 9 Kasım 1989'da Almanya'nın yeniden birleşmesiyle yıkıldı.",
+    "options": [
+      "1985",
+      "1987",
+      "1989",
+      "1991"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "berlin duvarı",
+      "soğuk savaş",
+      "1989",
+      "ayrılma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "okkk6hzpy",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "NATO ve Varşova Paktı hangi taraflar tarafından kuruldu?",
+    "explanation": "NATO 1949'da Batı Bloku tarafından kurulurken, Varşova Paktı 1955'te Doğu Bloku tarafından kurulmuştur.",
+    "options": [
+      "Doğu Bloku ülkeleri ve Batı Bloku ülkeleri",
+      "Sadece Avrupa Birliği ülkeleri",
+      "Arap ülkeleri ve Asya ülkeleri",
+      "Kuzey Amerika ve Güney Amerika ülkeleri"
+    ],
+    "correctAnswer": "Doğu Bloku ülkeleri ve Batı Bloku ülkeleri",
+    "tags": [
+      "NATO",
+      "Varşova Paktı",
+      "bloklar",
+      "soğuk savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "flv0ne9fi",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Soğuk Savaş'ın sona ermesinde en belirleyici faktör hangisidir?",
+    "explanation": "Soğuk Savaş 1991'de SSCB'nin dağılmasıyla resmen sona erdi.",
+    "options": [
+      "ABD'nin nükleer silahları",
+      "SSCB'nin çöküşü",
+      "Çin'in ekonomik kalkınması",
+      "Rusya'nın yeniden birleşmesi"
+    ],
+    "correctAnswer": "SSCB'nin çöküşü",
+    "tags": [
+      "soğuk savaş sonu",
+      "SSCB",
+      "1991",
+      "çöküş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b0szj63a3",
+    "category": "TARİH",
+    "subcategory": "Soğuk Savaş",
+    "difficulty": "GENERAL",
+    "question": "Kuban Füze Krizi hangi yıl yaşandı?",
+    "explanation": "Kuban Füze Krizi Ekim 1962'de ABD ve SSCB arasında nükleer silahlar nedeniyle en tehlikeli an oldu.",
+    "options": [
+      "1960",
+      "1962",
+      "1964",
+      "1966"
+    ],
+    "correctAnswer": "1962",
+    "tags": [
+      "kuban füze krizi",
+      "soğuk savaş",
+      "1962",
+      "nükleer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

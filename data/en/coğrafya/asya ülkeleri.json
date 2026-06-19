@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "wwe9sncks",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Asya ülkesinin başkenti Tokyo'dur?",
+    "explanation": "Tokyo, Japonya'nın başkenti ve en büyük şehridir. Çin'in başkenti Pekin, Güney Kore'nin başketi Seul, Tayland'ın başkethi Bangkok'tur.",
+    "options": [
+      "Çin",
+      "Güney Kore",
+      "Japonya",
+      "Tayland"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "başkentler",
+      "Asya ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gamew9djj",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya'nın en yüksek dağı hangi ülkede yer alır?",
+    "explanation": "Everest (Sagarmatha), dünyanın en yüksek dağı olup Himalayalar'da yer alır. Bu dağ Hindistan ve Çin arasında sınırları paylaşır.",
+    "options": [
+      "Japonya",
+      "Endonezya",
+      "Hindistan/Çin",
+      "Pakistan"
+    ],
+    "correctAnswer": "Hindistan/Çin",
+    "tags": [
+      "jeolojik yapılar",
+      "dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vxqpaywuj",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi hem Avrupa'ya hem de Asya'ya kıvrımlar yapar?",
+    "explanation": "Rusya, hem Asya'nın doğu kısmında büyük bir bölümüyle yer alırken, hem de Avrupa kıtasının kuzeybatısında geniş topraklara sahiptir.",
+    "options": [
+      "Türkiye",
+      "Rusya",
+      "İran",
+      "Moğolistan"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "jeopolitik konum",
+      "devletler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zxbi6343z",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi dünya nüfusunun yaklaşık %1/5'ini oluşturur?",
+    "explanation": "Çin ve Hindistan, dünya nüfusunun yaklaşık %1/5'ini oluşturur. Çin daha uzun süredir bu oranı sürdürmekteydi.",
+    "options": [
+      "Japonya",
+      "İndiya (Hindistan)",
+      "Çin",
+      "Endonezya"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "demografi",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8wlj96gw9",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi Asya ülkesi 'Fener Ülkesi' olarak bilinir?",
+    "explanation": "Singapur, 'Fener Ülkesi' (City of Light) olarak bilinir. Bu ismi dünyanın en yüksek gökdelenlerinden bazıları ve modern mimarisinden gelir.",
+    "options": [
+      "Tayland",
+      "Singapur",
+      "Malaysia",
+      "Filipinler"
+    ],
+    "correctAnswer": "Singapur",
+    "tags": [
+      "ülke isimleri",
+      "ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2plrd45kg",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya'nın en kalabalık ülkesi hangisidir?",
+    "explanation": "Hindistan, 2023 yılı itibarıyla Asya'nın en kalabalık ülkesi konumundadır ve nüfusu yaklaşık 1.4 milyardır.",
+    "options": [
+      "Çin",
+      "Hindistan",
+      "Bangladeş",
+      "Pakistan"
+    ],
+    "correctAnswer": "Hindistan",
+    "tags": [
+      "Asya Ülkeleri",
+      "Nüfus",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c4p1cqg8h",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya'daki en büyük ekonomi (İçsel Ürün) hangisidir?",
+    "explanation": "Çin, dünyanın en büyük ikinci ekonomisidir ve Asya'daki en büyük içsel ürüne sahip ülkedir.",
+    "options": [
+      "Çin",
+      "Japonya",
+      "Güney Kore",
+      "Endonezya"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Asya Ülkeleri",
+      "Ekonomi",
+      "İçsel Ürün"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l9lo2dx6l",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Asya'nın en yüksek dağı hangi ülkede bulunur?",
+    "explanation": "Dünyanın en yüksek dağı Everest, Nepal ve Çin sınırında bulunur, ancak Nepal'ın topraklarında yer alır.",
+    "options": [
+      "Hindistan",
+      "Çin",
+      "Nepal",
+      "Pakistan"
+    ],
+    "correctAnswer": "Nepal",
+    "tags": [
+      "Asya Ülkeleri",
+      "Dağlar",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h56tb28yi",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Asya'daki tek atomik santral hangi ülkede bulunmaktadır?",
+    "explanation": "Güney Kore'de K-REACT ve diğer atomik santraller bulunmaktadır, ancak 2019'da Japon Fukuşima sonrası tüm Japonya'nın reaktörleri durdurulmuştur.",
+    "options": [
+      "Çin",
+      "Japonya",
+      "Güney Kore",
+      "Türkiye"
+    ],
+    "correctAnswer": "Güney Kore",
+    "tags": [
+      "Asya Ülkeleri",
+      "Enerji",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tm3ke73mh",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Asya'nın en büyük adası hangi ülkeye aittir?",
+    "explanation": "Dünyanın en büyük adası Borneo, Endonezya ve Malezya arasında paylaşılır. Ancak Endonezya'nın topraklarında yer alır.",
+    "options": [
+      "Endonezya",
+      "Filipinler",
+      "Tayvan",
+      "Malezya"
+    ],
+    "correctAnswer": "Endonezya",
+    "tags": [
+      "Asya Ülkeleri",
+      "Adalar",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jycbilvel",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Asya ülkesi dünyanın en büyük kıtası olan Asya'nın güneyinde yer alır ve Hint Okyanusu'na kıyıya sahiptir?",
+    "explanation": "İndiya, Asya'nın güneyinde Hint Okyanusu ve Hint Denizi'ne kıyıya sahip en büyük ülkedir.",
+    "options": [
+      "Pakistan",
+      "Bangladeş",
+      "İndiya",
+      "Vietnam"
+    ],
+    "correctAnswer": "İndiya",
+    "tags": [
+      "Asya Ülkeleri",
+      "Hint Yarımadası",
+      "Okyanuslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h2qgqmerd",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi Orta Asya bölgesinde yer alır ve dört ana nehir tarafından sulanır?",
+    "explanation": "Özbekistan, Orta Asya'nın kalbinde yer alır ve Amu Derya ile Syr Derya gibi nehirlerle sulanır.",
+    "options": [
+      "Türkmenistan",
+      "Kazakistan",
+      "Özbekistan",
+      "Tacikistan"
+    ],
+    "correctAnswer": "Özbekistan",
+    "tags": [
+      "Orta Asya",
+      "Nehirler",
+      "Bölgesel Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "781igt5b5",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi Kuzey Amerika kıtasına köprü oluşturur ve Pasifik Okyanusu'na kıyıya sahiptir?",
+    "explanation": "Endonezya, Pasifik Okyanusu'na kıyıya sahiptir ve dünyanın en büyük ada ülkesidir.",
+    "options": [
+      "Malezya",
+      "Filipinler",
+      "Endonezya",
+      "Singapur"
+    ],
+    "correctAnswer": "Endonezya",
+    "tags": [
+      "Doğu Asya",
+      "Ada Ülkeleri",
+      "Pasifik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xaxqun5nu",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi Asya ülkesi Kuzey Kutbu'nun yakınında yer alır ve donmuş bir araziye sahiptir?",
+    "explanation": "Rusya, Kuzey Kutbu'na yakın Sibirya bölgesini içerir ve donmuş arazilere sahiptir.",
+    "options": [
+      "Norveç",
+      "Finlandiya",
+      "Rusya",
+      "İsveç"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Kuzey Asya",
+      "Sibirya",
+      "Kutup Bölgeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0tph70xl4",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Asya ülkesi Güneydoğu Asya'da yer alır ve Hindistan Yarımadası'nın yakınında konumlanır?",
+    "explanation": "Tayland, Güneydoğu Asya'nın bir parçasıdır ve Hint Okyanusu'na kıyıya sahiptir.",
+    "options": [
+      "Tayland",
+      "Laos",
+      "Myanmar",
+      "Kamboçya"
+    ],
+    "correctAnswer": "Tayland",
+    "tags": [
+      "Güneydoğu Asya",
+      "Hint Yarımadası",
+      "Bölgesel Konum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ol18154so",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya'nın en büyük ülkesi hangisidir?",
+    "explanation": "Rusya, Asya'nın sadece küçük bir kısmına rağmen toplam alan bakımından dünyanın ve Asya'nın en büyük ülkesidir.",
+    "options": [
+      "Çin",
+      "Hindistan",
+      "Rusya",
+      "Japonya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "coğrafya",
+      "asya ülkeleri",
+      "ülke büyüklüğü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jxu8jnaux",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülke tamamen Okyanusya kıtasında bulunur?",
+    "explanation": "Avustralya, coğrafi olarak Okyanusya kıtasında bulunan tek büyük ülkedir. Yeni Zelanda ve diğerleri de Okyanusya'dadır.",
+    "options": [
+      "Avustralya",
+      "Yeni Zelanda",
+      "Papua Yeni Gine",
+      "Filipinler"
+    ],
+    "correctAnswer": "Avustralya",
+    "tags": [
+      "coğrafya",
+      "okyanusya",
+      "ülke konumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "alhei8jqa",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya'nın en kalabalık ülkesi hangisidir?",
+    "explanation": "Hindistan, nüfusuyla Asya'nın ve dünyanın en kalabalık ülkesidir. Çin'den sonra gelmektedir.",
+    "options": [
+      "Çin",
+      "Hindistan",
+      "Pakistan",
+      "Bangladeş"
+    ],
+    "correctAnswer": "Hindistan",
+    "tags": [
+      "coğrafya",
+      "asya ülkeleri",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a4e7qwo9s",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi ülke hem Asya hem de Avrupa kıtalarına yayılmıştır?",
+    "explanation": "Türkiye, Anadolu yarımadasında yer alarak hem Asya hem de Avrupa kıtalarına yayılmış ülkedir.",
+    "options": [
+      "Türkiye",
+      "Rusya",
+      "Gürcistan",
+      "Ermenistan"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "coğrafya",
+      "kıta geçişleri",
+      "ülke konumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hxrmmk3k6",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Asya'nın en yüksek zirvesi Himalayalardadır. Hangi ülke bu dağların çoğuna sahiptir?",
+    "explanation": "Nepal, Himalayalar'ın büyük kısmına ev sahipliği yapar ve dünyanın en yüksek zirvesi Everest'in doğrudan içinde bulunur.",
+    "options": [
+      "Çin",
+      "Hindistan",
+      "Nepal",
+      "Bangladeş"
+    ],
+    "correctAnswer": "Nepal",
+    "tags": [
+      "coğrafya",
+      "himalaya",
+      "dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m4lwfx9xh",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Asya'nın en büyük ülkesi hangisidir?",
+    "explanation": "Rusya, hem Avrupa hem de Asya kıtalarında yer alan en büyük ülkedir ve Asya'nın yaklaşık %75'ini kaplar.",
+    "options": [
+      "Rusya",
+      "Çin",
+      "Hindistan",
+      "Türkiye"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Asya",
+      "Ülke Boyutları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zq3916yt5",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ülkelerden hangisi Orta Asya bölgesine aittir?",
+    "explanation": "Özbekistan, Orta Asya'nın önde gelen ülkelerinden biridir ve 5 büyük Orta Asya devletinden birini oluşturur.",
+    "options": [
+      "İran",
+      "Özbekistan",
+      "Vietnam",
+      "Filipinler"
+    ],
+    "correctAnswer": "Özbekistan",
+    "tags": [
+      "Orta Asya",
+      "Coğrafya Bölgesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u3pqu73um",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi hem Avrupa Birliği'ne de aday olmuş bir ekonomiye sahiptir?",
+    "explanation": "Türkiye, Asya ile Avrupa arasında coğrafi konumuyla benzersiz bir ülkedir ve AB üyeliği için resmi adaylık sürecinden geçmiştir.",
+    "options": [
+      "Türkiye",
+      "Singapur",
+      "Malezya",
+      "Hong Kong"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "Asya-Avrupa",
+      "Ekonomi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dhs9za8qm",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Asya ülkesi dünyanın en büyük nüfusuna sahip olarak bilinir?",
+    "explanation": "2023 verilerine göre Hindistan, Çin'i geçerek dünyanın en büyük nüfusa sahip ülkesi olmuştur.",
+    "options": [
+      "Çin",
+      "İndiya",
+      "Pakistan",
+      "Bangladeş"
+    ],
+    "correctAnswer": "İndiya",
+    "tags": [
+      "Nüfus",
+      "Asya Ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xrgjrmbpf",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ülkelerden hangisi Güneydoğu Asya'da yer almaz?",
+    "explanation": "Mısır, Afrika'nın Kuzeydoğu'sunda yer alan bir ülkedir ve Güneydoğu Asya bölgesine dahil değildir.",
+    "options": [
+      "Endonezya",
+      "Tayland",
+      "Mısır",
+      "Filipinler"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "Güneydoğu Asya",
+      "Coğrafya Bölgesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cfwo1oruq",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Japonya'nın başkenti aşağıdakilerden hangisidir?",
+    "explanation": "Tokyo, Japonya'nın başkenti ve en kalabalık şehridir. Seul Güney Kore'de, Pekin Çin'in, Bangkok ise Tayland'ın başkentidir.",
+    "options": [
+      "Seul",
+      "Tokyo",
+      "Pekin",
+      "Bangkok"
+    ],
+    "correctAnswer": "Tokyo",
+    "tags": [
+      "COĞRAFYA",
+      "Asya Ülkeleri",
+      "Başkentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dhnuwzzcn",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya kıtasında yüz ölçümü olarak en büyük ülke hangisidir?",
+    "explanation": "Rusya, Asya kıtasının yaklaşık %75'ini kaplar ve yüz ölçümü açısından Asya'da en büyük üledir. Çin ikinci büyük ülkedir.",
+    "options": [
+      "Rusya",
+      "Çin",
+      "Hindistan",
+      "İndonezya"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "COĞRAFYA",
+      "Asya Ülkeleri",
+      "Yüz Ölçümü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gnmlky5s1",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Himalaya Dağları hangi iki ülke arasında yer alır?",
+    "explanation": "Himalaya Dağları, Asya'nın güney bölgesinde Çin ve Hindistan'ın sınırında yer alır. Dünyanın en yüksek dağ zinciridir.",
+    "options": [
+      "Türkiye-Yunanistan",
+      "İran-Irak",
+      "Çin-Hindistan",
+      "Vietnam-Kamboçya"
+    ],
+    "correctAnswer": "Çin-Hindistan",
+    "tags": [
+      "COĞRAFYA",
+      "Asya Ülkeleri",
+      "Dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dvchd91b6",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Doğu Asya'da bulunan aşağıdaki ülkelerden hangisi Okyanusya kıtasına aittir?",
+    "explanation": "Yeni Zelanda Okyanusya (Avustralya kıtası) ülkelerindendir. Malezya, Singapur ve Filipinler ise Asya'nın güneydoğu bölgesinde yer alır.",
+    "options": [
+      "Yeni Zelanda",
+      "Malezya",
+      "Singapur",
+      "Filipinler"
+    ],
+    "correctAnswer": "Yeni Zelanda",
+    "tags": [
+      "COĞRAFYA",
+      "Asya Ülkeleri",
+      "Kıtasal Ayrım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9g12hzr1a",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Asya'nın en yüksek dağı olan Everest hangi dağ sisteminde bulunur?",
+    "explanation": "Everest, Himalaya Dağları sisteminde yer alır ve 8.849 metre ile dünyanın en yüksek noktasıdır. Nepal ve Çin arasında bulunur.",
+    "options": [
+      "Atlas Dağları",
+      "Himalaya Dağları",
+      "Ural Dağları",
+      "Kuzey Amerika Dağları"
+    ],
+    "correctAnswer": "Himalaya Dağları",
+    "tags": [
+      "COĞRAFYA",
+      "Asya Ülkeleri",
+      "Dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yustevcca",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi dünyanın en büyük nüfusa sahip olan üyedir?",
+    "explanation": "Çin, Asya ve dünyanın en büyük nüfusa sahip ülkesidir (1.4 milyardan fazla). Hint ikincisi gelir.",
+    "options": [
+      "Çin",
+      "Hint",
+      "İran",
+      "Türkiye"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Asya",
+      "Nüfus",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7jfebur32",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi ülke Asya'da yer almaz?",
+    "explanation": "Mısır, Afrika kıtasında yer alan bir ülkedir (Kuzey Afrika). Diğer seçenekler Asya'dadır.",
+    "options": [
+      "Güney Kore",
+      "Filipinler",
+      "Mısır",
+      "Vietnam"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "Asya",
+      "Ülkeler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tcfq8q77o",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi hem Avrupa hem de Asya coğrafi olarak sınırlar?",
+    "explanation": "Rusya, hem Avrupa (batı kesimi) hem de Asya (doğu/sibirya kesimi) coğrafi bölgelerine yayılır.",
+    "options": [
+      "Rusya",
+      "Türkiye",
+      "İran",
+      "Azerbaycan"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Asya",
+      "Avrupa",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5x91h6c1u",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi en uzun nehre sahiptir?",
+    "explanation": "Çin, Yangtze (Yangziç) ve Huang He gibi uzun nehirlere sahiptir. Hint Ganges'te sahiptir.",
+    "options": [
+      "Çin",
+      "Hint",
+      "Kazakistan",
+      "Bangladeş"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Asya",
+      "Nehirler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6utbxmva7",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi ülke Asya'nın en büyük petrol üreticisidir?",
+    "explanation": "Suudi Arabistan, Orta Doğu/Asya bölgesinde dünyanın en büyük petrol üreticisidir.",
+    "options": [
+      "Suudi Arabistan",
+      "İran",
+      "Rusya",
+      "Katar"
+    ],
+    "correctAnswer": "Suudi Arabistan",
+    "tags": [
+      "Asya",
+      "Petrol",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p60120rlj",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Asya'nın en büyük ülkesi aşağıdakilerden hangisidir?",
+    "explanation": "Rusya, Asya'nın büyük kısmını kaplayan en büyük ülkedir ve toplam alan olarak dünyanın en büyük beşinci ülkesidir.",
+    "options": [
+      "Çin",
+      "Rusya",
+      "İndonezya",
+      "Pakistan"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Asya",
+      "Ülke Büyüklükleri",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kkzp4ubqm",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi Okyanusya kıtasının bir parçasıdır?",
+    "explanation": "İndonezya, Asya'nın güneydoğu kısmında yer almakla birlikte coğrafi olarak Okyanusya kıtasının bir parçası olarak kabul edilir.",
+    "options": [
+      "Tayvan",
+      "Filipinler",
+      "İndonezya",
+      "Vietnam"
+    ],
+    "correctAnswer": "İndonezya",
+    "tags": [
+      "Asya-Okyanusya",
+      "Kıta Sınırları",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2mqrbt9n2",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya'nın en nüfuslu ülkesi aşağıdakilerden hangisidir?",
+    "explanation": "Çin, uzun süre dünyanın en nüfuslu ülkesi olmuştur ve Hindistan'ın nüfusu onu geçmek üzere olsa da hala Çin ikinci sırada kalmaktadır.",
+    "options": [
+      "Hindistan",
+      "Çin",
+      "Pakistan",
+      "Bangladeş"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Asya",
+      "Nüfus",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4x1zbzkav",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Asya ülkesi hem Avrupa hem de Asya kıtasına ait topraklara sahiptir?",
+    "explanation": "Rusya, hem Avrupa'nın doğu kısmında hem de Asya'nın büyük kısmında topraklara sahip olup iki kıtaya ait olan tek büyük ülkedir.",
+    "options": [
+      "Türkiye",
+      "Rusya",
+      "Gürcistan",
+      "Ermenistan"
+    ],
+    "correctAnswer": "Rusya",
+    "tags": [
+      "Asya-Evropa",
+      "Kıta Sınırları",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jgmthch40",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Asya'da yer alan ve tamamen adalardan oluşan en büyük ülke hangisidir?",
+    "explanation": "İndonezya, 17.000'den fazla adası olan dünyanın en büyük adalardan oluşan ülkedir ve Asya'nın güneydoğu kısmında yer alır.",
+    "options": [
+      "Filipinler",
+      "Maldivler",
+      "İndonezya",
+      "Seyşeller"
+    ],
+    "correctAnswer": "İndonezya",
+    "tags": [
+      "Asya",
+      "Adalardan Oluşan Ülkeler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aa427yxjq",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi hem Avrupa hem de Asya kıtasına ait topraklara sahiptir?",
+    "explanation": "Türkiye, hem Avrupa'nın (Batı Anadolu) hem de Asya'nın (Doğu Anadolu) topraklarına sahiptir ve iki kıtayı birbirine bağlayan önemli bir köprü rolündedir.",
+    "options": [
+      "Türkiye",
+      "Rusya",
+      "Kırgızistan",
+      "Gürcistan"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "Coğrafya",
+      "Asya Ülkeleri",
+      "Kıta Geçişli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ieqkrkwo9",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki Asya ülkelerinden hangisi nüfusunun çoğunluğu Müslüman olan bir ülke değildir?",
+    "explanation": "Japonya'da nüfusun çoğunluğu Budist ve Şintoist inancına sahiptir. İndonezya, Pakistan ve Bangladeş'te ise nüfus Müslüman ağırlıklıdır.",
+    "options": [
+      "İndonezya",
+      "Pakistan",
+      "Bangladeş",
+      "Japonya"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "Coğrafya",
+      "Dinler",
+      "Asya Ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v16yg8y31",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi dünyanın en büyük ekonomisine sahip olan Çin'in doğu komşusu değildir?",
+    "explanation": "Mongolsiya, Çin'in doğu komşusu değil, kuzey komşusudur. Vietnam, Rusya ve Kuzey Kore ise Çin'in doğu veya güneydoğu komşularıdır.",
+    "options": [
+      "Vietnam",
+      "Mongolsiya",
+      "Rusya",
+      "Kuzey Kore"
+    ],
+    "correctAnswer": "Mongolsiya",
+    "tags": [
+      "Coğrafya",
+      "Çin Komşuları",
+      "Asya Ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b7rwf8c11",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki Asya ülkelerinden hangisinin resmi dilinin Türkçe olması beklenir?",
+    "explanation": "Kazakistan'da resmi dil Türkçe'dir (Kazakça). Azerbaycan ve Türkmenistan'da da Türkçe ağırlıklı ancak Kazakistan en çok Türk konuşan Asya ülkelerinden biridir.",
+    "options": [
+      "Azerbaycan",
+      "Türkmenistan",
+      "Kazakistan",
+      "Heçbiri"
+    ],
+    "correctAnswer": "Kazakistan",
+    "tags": [
+      "Coğrafya",
+      "Resmi Diller",
+      "Asya Ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "seyvklww6",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesi hem Hint Okyanusu'na hem de Pasifik Okyanusu'na kıyı sahiptir?",
+    "explanation": "Endonezya, Hint Okyanusu'nun güneyinde ve Pasifik Okyanusu'nun doğusunda kıyıları bulunan en büyük Arkipel ülkelerinden biridir.",
+    "options": [
+      "Endonezya",
+      "Malezya",
+      "Singapur",
+      "Filipinler"
+    ],
+    "correctAnswer": "Endonezya",
+    "tags": [
+      "Coğrafya",
+      "Okyanuslar",
+      "Asya Ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "155od9mcg",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya kıtasının en büyük ülkesi ve nüfusa sahip olan ülke hangisidir?",
+    "explanation": "Çin, Asya kıtasında hem en büyük (Siyah) nüfusa sahip olan ülke hem de coğrafi olarak en kalabalık ülkedir. Yaklaşık 1.4 milyar nüfusu ile Hindistan'ın arkasındadır.",
+    "options": [
+      "Çin",
+      "Hindistan",
+      "Rusya",
+      "Güney Kore"
+    ],
+    "correctAnswer": "Çin",
+    "tags": [
+      "Asya Ülkeleri",
+      "Nüfus",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5fay26xyp",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Tayvan'ın başkenti Taipei hangi kıta'da yer alır?",
+    "explanation": "Tayvan, Asya kıtasının Güneydoğu bölümünde yer alan bir bölgedir. Başkenti Taipei'nin bulunduğu Tayvan, Çin'in çevresinde konumlanmıştır.",
+    "options": [
+      "Afrika",
+      "Avrupa",
+      "Asya",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Asya",
+    "tags": [
+      "Asya Ülkeleri",
+      "Başkentler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vbuxetea5",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya'daki en kalabalık şehirlerden biri olan Bombay (Mumbai) hangi ülkede bulunur?",
+    "explanation": "Bombay (Mumbai), Hindistan'ın en büyük şehri ve önemli sanayi merkezidir. Hint Okyanusu kıyısında yer alır.",
+    "options": [
+      "Pakistan",
+      "Bangladeş",
+      "Hindistan",
+      "Vietnam"
+    ],
+    "correctAnswer": "Hindistan",
+    "tags": [
+      "Asya Ülkeleri",
+      "Şehirler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ti0jtof1",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Asya kıtasının doğu tarafında bulunan en büyük ada devleti hangisidir?",
+    "explanation": "Endonezya, Asya'nın doğu kısmında bulunan dünyanın en büyük ada devletidir. Yaklaşık 17.000 adası vardır ve Hint Okyanusu ile Pasifik Okyanusu arasında konumlanır.",
+    "options": [
+      "Filipinler",
+      "Endonezya",
+      "Malezya",
+      "Singapur"
+    ],
+    "correctAnswer": "Endonezya",
+    "tags": [
+      "Asya Ülkeleri",
+      "Ada Devletleri",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a6c6sf801",
+    "category": "COĞRAFYA",
+    "subcategory": "Asya Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Asya kıtasının en kuzeyde yer alan ülke ve başkenti hangisidir?",
+    "explanation": "Rusya, Asya'nın kuzey bölgesinde konumlanır ve başkenti Moskova'dır. Kıtasal olarak en geniş ülkedir.",
+    "options": [
+      "Gürcistan - Tiflis",
+      "Azerbaycan - Bakü",
+      "Rusya - Moskova",
+      "Türkiye - Ankara"
+    ],
+    "correctAnswer": "Rusya - Moskova",
+    "tags": [
+      "Asya Ülkeleri",
+      "Kuzey Bölgesi",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

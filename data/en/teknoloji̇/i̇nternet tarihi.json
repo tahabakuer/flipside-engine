@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "ftyl47zwi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternet'in atası olarak kabul edilen ARPANET projesi hangi yıl başladı?",
+    "explanation": "ARPANET, ABD'nin DARPA tarafından 1969 yılında başlatılan ve internet'in atası kabul edilen ilk paket anahtarlama bilgisayar ağıdır.",
+    "options": [
+      "1967",
+      "1969",
+      "1972",
+      "1983"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "ARPANET",
+      "İnternet Tarihi",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ra97m9eo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "World Wide Web (WWW) ismini kim vermiştir?",
+    "explanation": "World Wide Web ismini Tim Berners-Lee 1989-1990 yılları arasında CERN'de çalışırken vermiştir.",
+    "options": [
+      "Vint Cerf",
+      "Tim Berners-Lee",
+      "Bob Kahn",
+      "Paul Baran"
+    ],
+    "correctAnswer": "Tim Berners-Lee",
+    "tags": [
+      "WWW",
+      "İnternet Tarihi",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3p7sssrfb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "TCP/IP protokolü hangi yıl standart olarak benimsenmiştir?",
+    "explanation": "1 Ocak 1983 tarihinde ARPANET, TCP/IP protokolünü resmi standart olarak kabul etmiştir.",
+    "options": [
+      "1974",
+      "1978",
+      "1983",
+      "1985"
+    ],
+    "correctAnswer": "1983",
+    "tags": [
+      "TCP/IP",
+      "İnternet Tarihi",
+      "Protokol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9hz45tt6a",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": ".com uzantılı domain isimleri ilk kez hangi yıl kullanılmaya başlanmıştır?",
+    "explanation": "NSFNET tarafından 1985 yılında .com, .edu gibi domain uzantıları resmen kullanılmaya başlanmıştır.",
+    "options": [
+      "1984",
+      "1985",
+      "1986",
+      "1987"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "Domain",
+      "İnternet Tarihi",
+      "DNS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i2gecxox8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternetin ticari kullanımına izin veren FCC kararı hangi yıl alındı?",
+    "explanation": "ABD Federal Communications Commission (FCC) 1994 yılında internetin ticari kullanımına izin veren kararı aldı.",
+    "options": [
+      "1990",
+      "1991",
+      "1994",
+      "1996"
+    ],
+    "correctAnswer": "1994",
+    "tags": [
+      "Ticari İnternet",
+      "FCC",
+      "İnternet Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2f9dlx2pc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "ARPA (Advanced Research Projects Agency) tarafından geliştirilen ilk ağ sistemine ne ad verildi?",
+    "explanation": "ARPA tarafından 1969 yılında geliştirilen ilk ağ sistemine ARPANET adı verildi. Bu sistem internetin öncüsüdür.",
+    "options": [
+      "WWW",
+      "ARPANET",
+      "TCP/IP",
+      "NSFNET"
+    ],
+    "correctAnswer": "ARPANET",
+    "tags": [
+      "internet-tarihi",
+      "arpa",
+      "arpanet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9ztwtepp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "Dünya üzerinde Web'in (World Wide Web) ismini kim ve ne yıl verdi?",
+    "explanation": "Tim Berners-Lee, CERN'de çalışırken 1989 yılında World Wide Web fikrini geliştirdi ve ismini verdi.",
+    "options": [
+      "Tim Berners-Lee, 1989",
+      "Vinton Cerf, 1983",
+      "Paul Baran, 1965",
+      "Al Gore, 1990"
+    ],
+    "correctAnswer": "Tim Berners-Lee, 1989",
+    "tags": [
+      "internet-tarihi",
+      "tim-bernars-lee",
+      "www"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fgw6myri9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternet'in temel iletişim protokolü olan TCP/IP hangi yıl kabul edildi?",
+    "explanation": "TCP/IP protokolü 1983 yılında resmi olarak kabul edildi ve tüm ARPANET ağlarında kullanılmaya başlandı.",
+    "options": [
+      "1974",
+      "1983",
+      "1990",
+      "2000"
+    ],
+    "correctAnswer": "1983",
+    "tags": [
+      "internet-tarihi",
+      "tcp-ip",
+      "protokol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o4kok8y1g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "İnternet tarihinin ilk web sitesine kim sahip oldu?",
+    "explanation": "İnternet tarihinin ilk web sitesi (info.cern.ch) 1991 yılında Tim Berners-Lee tarafından oluşturuldu.",
+    "options": [
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "correctAnswer": "Tim Berners-Lee",
+    "tags": [
+      "internet-tarihi",
+      "ilk-web-sitesi",
+      "tim-bernars-lee"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1iexp9cgv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "NSFNET (National Science Foundation Network) hangi yıl internetin genişlemesinde önemli rol oynadı?",
+    "explanation": "NSFNET, 1986 yılında Amerika Birleşik Devletleri'nde internetin genişlemesinde kritik rol oynayan ulusal bilimsel ağ oldu.",
+    "options": [
+      "1986",
+      "1989",
+      "1992",
+      "1995"
+    ],
+    "correctAnswer": "1986",
+    "tags": [
+      "internet-tarihi",
+      "nsfnet",
+      "genisletme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lmkzwcp1w",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "İnternet tarihinin başlangıcı olarak kabul edilen ARPANET projesinde ilk veri aktarımı ne zaman gerçekleşmiştir?",
+    "explanation": "ARPANET, 1969 yılında UCLA ve Stanford arasında ilk veri paketini aktararak modern internet altyapısının temellerini atmıştır.",
+    "options": [
+      "1969",
+      "1975",
+      "1980",
+      "1983"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "internet",
+      "tarih",
+      "ARPANET"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "644cchrl4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP protokolünün standartlaşması ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "1983 yılında TCP/IP protokolü, tüm ARPANET ağlarında resmi standart olarak kabul edildi ve modern internet altyapısı oluşturuldu.",
+    "options": [
+      "1982 yılında kabul edildi",
+      "1983'te tüm ARPANET ağları kullanmaya başladı",
+      "1985'te ilk internet sitesi açıldı",
+      "1987'de WWW tanıtıldı"
+    ],
+    "correctAnswer": "1983'te tüm ARPANET ağları kullanmaya başladı",
+    "tags": [
+      "internet",
+      "TCP/IP",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "93t2ye8g4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternet alan adları (.com, .edu vb.) sisteminin ilk kullanımı hangi yıl gerçekleşmiştir?",
+    "explanation": "1984 yılında ilk .com alan adı kaydı yapıldı ve internet domain sistemi yaygınlaşmaya başladı.",
+    "options": [
+      "1984",
+      "1986",
+      "1988",
+      "1990"
+    ],
+    "correctAnswer": "1984",
+    "tags": [
+      "internet",
+      "alan adları",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e93s153u8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "World Wide Web (WWW) fikrini kim önermiştir?",
+    "explanation": "Tim Berners-Lee, 1989 yılında CERN'de çalışırken WWW fikrini önerdi ve ilk HTML belgelerini oluşturdu.",
+    "options": [
+      "Vint Cerf",
+      "Tim Berners-Lee",
+      "Guido van Rossum",
+      "Robert Kahn"
+    ],
+    "correctAnswer": "Tim Berners-Lee",
+    "tags": [
+      "internet",
+      "WWW",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0tvp3ovik",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İnternet'in halka açıldığı tarih hangisidir?",
+    "explanation": "WWW'nin ilk halka açık sürümü 1991'de yayınlandı ve internet günümüzdeki kullanım şekliyle yaygınlaştı.",
+    "options": [
+      "1990",
+      "1991",
+      "1993",
+      "1995"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "internet",
+      "tarih",
+      "halka açılış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4vp8d7sga",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "İnternet'in kökenini oluşturan ARPANET projesi hangi yıl başlatıldı?",
+    "explanation": "ARPANET, ABD Hava Uzay Kuvvetleri Araştırma Projesi Ofisi (ARPA) tarafından 1969 yılında başlatıldı. İnternet'in ilk ağiydi.",
+    "options": [
+      "1969",
+      "1972",
+      "1983",
+      "1990"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "internet-tarihi",
+      "arpanet",
+      "temel-bilgiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uvari3fjp",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP protokolü hangi yıl internet standardı olarak kabul edildi?",
+    "explanation": "1 Ocak 1983 tarihinde ARPANET'te TCP/IP protokolü aktif hale getirildi ve resmi internet standardı olarak kabul edildi.",
+    "options": [
+      "1974",
+      "1982",
+      "1983",
+      "1991"
+    ],
+    "correctAnswer": "1983",
+    "tags": [
+      "tcpip",
+      "internet-tarihi",
+      "protokoller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cyzoxyyhn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "WWW (World Wide Web) teknolojisini kim geliştirdi?",
+    "explanation": "Cenevre'deki CERN araştırma merkezi çalışanı Tim Berners-Lee, 1989-1990 yıllarında WWW teknolojisini geliştirdi.",
+    "options": [
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Bob Kahn",
+      "Al Gore"
+    ],
+    "correctAnswer": "Tim Berners-Lee",
+    "tags": [
+      "www",
+      "internet-tarihi",
+      "bilim-kurgu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7sr1pxj9z",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İnternet'in ticari kullanımı hangi yıl ABD'de yasallaştırıldı?",
+    "explanation": "ABD hükümeti 1991 yılında internetin ticari kullanımını yasallaştırdı. Bu tarih, internetin halka açılma sürecinin başlangıcı olarak kabul edilir.",
+    "options": [
+      "1985",
+      "1991",
+      "1993",
+      "1996"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "internet-tarihi",
+      "ticari-kullanım",
+      "yasal-duzenleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h36b17piv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İnternet'in ilk web sitesi hangi yıl yayına başladı?",
+    "explanation": "Tim Berners-Lee tarafından geliştirilen ilk web sitesi, 6 Ağustos 1991 tarihinde CERN'de yayına başladı. İlk URL: http://info.cern.ch/",
+    "options": [
+      "1989",
+      "1990",
+      "1991",
+      "1992"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "internet-tarihi",
+      "web-sitesi",
+      "ilk-yayin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q4b65vdrd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "İnternetin ilk aşaması olan ARPANET'in kurulduğu yıl hangisidir?",
+    "explanation": "ARPANET, 1969 yılında kurulan ilk paket anahtarlama ağıdır ve internetin temelini oluşturmuştur.",
+    "options": [
+      "1960",
+      "1969",
+      "1970",
+      "1975"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "internet-tarihi",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o5x4xpoma",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP protokolünün resmi olarak kabul edildiği yıl nedir?",
+    "explanation": "1983'te ARPANET, TCP/IP protokolünü kullanmaya başladı ve bu standartlaşmıştır.",
+    "options": [
+      "1980",
+      "1983",
+      "1985",
+      "1986"
+    ],
+    "correctAnswer": "1983",
+    "tags": [
+      "internet-tarihi",
+      "protokol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ahgqmcgx5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Alan adı sisteminin (DNS) tanıtıldığı yıl hangisidir?",
+    "explanation": "DNS, 1985'te geliştirilmiş ve internet üzerindeki kaynakları yönetmek için kullanılmaya başlanmıştır.",
+    "options": [
+      "1985",
+      "1990",
+      "1995",
+      "2000"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "internet-tarihi",
+      "alan-adı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pu09hhvod",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dünya Çiftli Web (World Wide Web) kim tarafından ve ne zaman oluşturulmuştur?",
+    "explanation": "Tim Berners-Lee, CERN'de çalışırken 1989 yılında World Wide Web fikrini geliştirmiştir.",
+    "options": [
+      "Tim Berners-Lee, 1989",
+      "CERN, 1990",
+      "Mosaic Tarayıcı, 1993",
+      "Netscape, 1994"
+    ],
+    "correctAnswer": "Tim Berners-Lee, 1989",
+    "tags": [
+      "internet-tarihi",
+      "tarayıcı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "id7u7xrzz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "Mosaic tarayıcının ilk sürümü ne zaman piyasaya sürülmüştür?",
+    "explanation": "Mosaic, 1993 yılında piyasaya sürülmüş ve grafik arayüzüyle popülerleşmiştir.",
+    "options": [
+      "1992",
+      "1993",
+      "1994",
+      "1995"
+    ],
+    "correctAnswer": "1993",
+    "tags": [
+      "internet-tarihi",
+      "tarayıcı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7gwdsowvl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternet'in öncüsü olan ARPANET ağı ilk kez hangi yıl çalışmaya başladı?",
+    "explanation": "ARPANET, ABD Dışişleri Bakanlığı ve DARPA tarafından 1969 yılında geliştirilen ilk paket anahtarlama ağıdır ve modern internetin temelini oluşturmuştur.",
+    "options": [
+      "1962",
+      "1969",
+      "1973",
+      "1980"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "internet-tarihi",
+      "arpanet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "51hdah5l1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternet tarihi açısından en önemli protokol hangisidir?",
+    "explanation": "TCP/IP (Transfer Control Protocol/Internet Protocol), 1983'te ARPANET'te zorunlu hale getirilmiş ve internetin temel iletişim protokolüdür.",
+    "options": [
+      "FTP",
+      "HTTP",
+      "TCP/IP",
+      "SMTP"
+    ],
+    "correctAnswer": "TCP/IP",
+    "tags": [
+      "internet-tarihi",
+      "protokol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k4ollz4ht",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "World Wide Web'in (WWW) halka ne yıl açılmasıyla birlikte internet kullanımı yaygınlaştı?",
+    "explanation": "Tim Berners-Lee tarafından geliştirilen WWW, 1991 yılında halka açık hale getirilmiş ve bu sayede internet kullanımı yaygınlaşmıştır.",
+    "options": [
+      "1989",
+      "1990",
+      "1991",
+      "1993"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "internet-tarihi",
+      "world-wide-web"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ctvsxwfyh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İnternet tarihinin babası olarak kabul edilen kişi kimdir?",
+    "explanation": "Vint Cerf, TCP/IP protokolünün geliştirilmesinde rol almış ve ARPANET projesinin ana mimarlarından biri olarak 'İnternet'in babası' olarak anılır.",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Vint Cerf",
+      "Mark Zuckerberg"
+    ],
+    "correctAnswer": "Vint Cerf",
+    "tags": [
+      "internet-tarihi",
+      "insanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8xiiy8nlt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "Domain Name System (DNS) sisteminin ilk kullanımı hangi yıl gerçekleşti?",
+    "explanation": "DNS sistemi 1984 yılında tasarlanmış olup, 1985'te resmi olarak kullanılmaya başlanmış ve IP adreslerini domain isimlerine çevirerek internet kullanımını kolaylaştırmıştır.",
+    "options": [
+      "1984",
+      "1985",
+      "1986",
+      "1987"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "internet-tarihi",
+      "dns"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "knfelu41f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternetin ataları arasında yer alan ARPANET'in ilk bağlantısı hangi yıl gerçekleşti?",
+    "explanation": "ARPANET, 1969 yılında ilk bağlantısını kuran ve internetin öncü ağıdır.",
+    "options": [
+      "1967",
+      "1968",
+      "1969",
+      "1970"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "Teknoloji",
+      "İnternet Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "et86v0zer",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "Tim Berners-Lee'nin World Wide Web önerisini sunduğu yıl hangisidir?",
+    "explanation": "Tim Berners-Lee, Mart 1989'da World Wide Web için ilk önerisini sunmuştur.",
+    "options": [
+      "1988",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "Teknoloji",
+      "İnternet Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7v3ekewyt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "İlk web sitesinin halka açıldığı yıl hangisidir?",
+    "explanation": "Ağustos 1991'de CERN tarafından ilk web sitesine erişim sağlanmıştır.",
+    "options": [
+      "1990",
+      "1991",
+      "1992",
+      "1993"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "Teknoloji",
+      "İnternet Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hra7hg57y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "ARPANET'te TCP/IP protokolünün standart olarak benimsenmesi hangi yıl olmuştur?",
+    "explanation": "Ocak 1983'te ARPANET, TCP/IP protokolünü standart protokole dönüştürmüştür.",
+    "options": [
+      "1982",
+      "1983",
+      "1984",
+      "1985"
+    ],
+    "correctAnswer": "1983",
+    "tags": [
+      "Teknoloji",
+      "İnternet Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "im9lwpzgb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İnternetin öncü ağı ARPANET'te e-posta servisinin ilk kullanıldığı yıl hangisidir?",
+    "explanation": "Ray Tomlinson, 1971 yılında ARPANET'te ilk e-posta sistemini geliştirmiştir.",
+    "options": [
+      "1970",
+      "1971",
+      "1972",
+      "1973"
+    ],
+    "correctAnswer": "1971",
+    "tags": [
+      "Teknoloji",
+      "İnternet Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d2kwn5w7i",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "İlk web sitesi ne zaman oluşturuldu?",
+    "explanation": "Tim Berners-Lee tarafından 1991 yılında World Wide Web için ilk web sitesi oluşturuldu. Bu, modern internet tarihinin önemli kilometre taşlarından biridir.",
+    "options": [
+      "1989",
+      "1990",
+      "1991",
+      "1992"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "internet-tarihi",
+      "web-tarihçesi",
+      "tim-berners-lee"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ujhn3hg1f",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "ARPANET hangi yıl kullanıma sunuldu?",
+    "explanation": "ARPANET, ABD'li DARPA tarafından 1969 yılında kullanıma sunuldu. Bu, internetin ilk öncüsü ve modern ağ altyapısının temelini atan sistemdi.",
+    "options": [
+      "1969",
+      "1970",
+      "1975",
+      "1980"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "internet-tarihi",
+      "arpanet",
+      "tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nehjik1dt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EASY",
+    "question": "WWW kısaltması neyi ifade eder?",
+    "explanation": "WWW, Tim Berners-Lee tarafından icat edilen 'World Wide Web' (Dünya Çapında Ağ) kısaltmasıdır. Bu sistem interneti kullanıcı dostu hale getiren temel yapı taşıdır.",
+    "options": [
+      "World Wide Web",
+      "Wide World Web",
+      "World Web Work",
+      "Web World Wide"
+    ],
+    "correctAnswer": "World Wide Web",
+    "tags": [
+      "internet-tarihi",
+      "www",
+      "akronim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g8dvf751v",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP protokolü ne zaman standartlaştırıldı?",
+    "explanation": "TCP/IP protokolü 1983 yılında resmi olarak standartlaştırıldı. Bu, farklı ağların birbirleriyle iletişim kurmasını sağlayan temel altyapıyı oluşturdu.",
+    "options": [
+      "1982",
+      "1983",
+      "1984",
+      "1985"
+    ],
+    "correctAnswer": "1983",
+    "tags": [
+      "internet-tarihi",
+      "tcp-ip",
+      "protokol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4d0zalouz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İlk ticari internet servis sağlayıcı (ISP) hangi yıl kuruldu?",
+    "explanation": "İlk ticari internet servis sağlayıcı 1989 yılında kuruldu. CompuServe, Prodigy gibi şirketler bu dönemde internet erişimini yaygınlaştırmaya başladı.",
+    "options": [
+      "1987",
+      "1989",
+      "1990",
+      "1995"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "internet-tarihi",
+      "isp",
+      "ticarileşme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u81t1vin0",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternetin atası olarak kabul edilen ARPANET projesi hangi yıl başlatıldı?",
+    "explanation": "ARPANET, ABD'nin Savunma Bakanlığı tarafından 1969 yılında başlatılan ve modern internet altyapısının temellerini atan ilk paket anahtarlama ağ projesiydi.",
+    "options": [
+      "1969",
+      "1973",
+      "1983",
+      "1990"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "internet-tarihi",
+      "arpamet",
+      "bilgisayar-tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "65ddta8l8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP protokolü hangi yıl resmi olarak kabul edildi?",
+    "explanation": "TCP/IP, 1982 yılında resmi olarak kabul edildi ve 1983'te tüm ARPANET ağlarında zorunlu hale getirildi. Bu protokol modern internetin standart iletişim dilidir.",
+    "options": [
+      "1982",
+      "1985",
+      "1990",
+      "1994"
+    ],
+    "correctAnswer": "1982",
+    "tags": [
+      "internet-tarihi",
+      "tcp-ip",
+      "protokol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vzjngy8i1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "Dünya Genişletilmiş Web (World Wide Web) hangi yıl Tim Berners-Lee tarafından icat edildi?",
+    "explanation": "Tim Berners-Lee, CERN'de çalışırken 1989 yılında fikri geliştirdi ve 1991 yılında World Wide Web'i resmi olarak duyurdu. İlk web sunucusu da bu dönemde kuruldu.",
+    "options": [
+      "1989",
+      "1991",
+      "1993",
+      "1995"
+    ],
+    "correctAnswer": "1991",
+    "tags": [
+      "internet-tarihi",
+      "world-wide-web",
+      "tim-bernars-lee"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "glen71ehc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": ".com uzantılı domain adları ilk kez hangi yıl kullanılmaya başlandı?",
+    "explanation": "Domain Name System (DNS), 1983'te geliştirilmeye başlandı ve ilk .com domain adları 1985 yılında kaydedildi. Bu sistem internet adreslerini insan okunabilir formata dönüştürür.",
+    "options": [
+      "1985",
+      "1987",
+      "1989",
+      "1992"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "internet-tarihi",
+      "domain-name-system",
+      "dns"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w7zf2hjt6",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İnternetin ticari kullanımına izin veren ilk büyük şirket hangisidir?",
+    "explanation": "CompuServe, 1979 yılında ticari online hizmet sunan ilk büyük şirketlerden biri olarak kabul edilir. Prodigy ve GTE de bu dönemde önemli online platformlar oluşturdular.",
+    "options": [
+      "CompuServe",
+      "Prodigy",
+      "GTE",
+      "Netscape"
+    ],
+    "correctAnswer": "CompuServe",
+    "tags": [
+      "internet-tarihi",
+      "ticaret-internet",
+      "online-hizmetler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "370s4fi3u",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "İnternet'in ilk aşaması olan ARPANET projesi hangi yıl başlatılmıştır?",
+    "explanation": "ARPANET, ABD Dışişleri Bakanlığı ve DARPA tarafından 1969 yılında başlatılan ilk paket anahtarlama ağıdır. İnternet tarihinin temel taşlarından biridir.",
+    "options": [
+      "1965",
+      "1969",
+      "1973",
+      "1980"
+    ],
+    "correctAnswer": "1969",
+    "tags": [
+      "İnternet Tarihi",
+      "ARPANET",
+      "Teknoloji Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r1zn9vtjj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP protokolü hangi yılda resmi olarak kabul edilerek internet standartlaşmasını sağlamıştır?",
+    "explanation": "TCP/IP, 1982 yılında ABD'nin resmi internet protokolü olarak kabul edilmiştir. Bu, farklı ağların birbirine bağlanmasını sağlamış ve modern internetin altyapısını oluşturmuştur.",
+    "options": [
+      "1982",
+      "1985",
+      "1989",
+      "1992"
+    ],
+    "correctAnswer": "1982",
+    "tags": [
+      "İnternet Tarihi",
+      "TCP/IP",
+      "Protokol Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q4h9t9exe",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "GENERAL",
+    "question": "World Wide Web (WWW) kavramını kim icat etmiştir?",
+    "explanation": "Tim Berners-Lee, 1989 yılında CERN'de çalışırken World Wide Web'i icat etmiştir. HTML, URL ve HTTP protokollerini geliştirmiş ve modern web'in temellerini atmıştır.",
+    "options": [
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Steve Jobs",
+      "Bill Gates"
+    ],
+    "correctAnswer": "Tim Berners-Lee",
+    "tags": [
+      "İnternet Tarihi",
+      "World Wide Web",
+      "Teknoloji Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qak7kgi6g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İnternetin ilk ticari kullanımı hangi yıl ABD'de başlamıştır?",
+    "explanation": "FCC (Federal Communications Commission) 1995 yılında internetin ticari kullanımına izin vermiştir. Bu karar, e-ticaret ve online hizmetlerin patlama yapmasını sağlamıştır.",
+    "options": [
+      "1985",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "correctAnswer": "1995",
+    "tags": [
+      "İnternet Tarihi",
+      "Ticari Kullanım",
+      "E-Ticaret Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2tvgye2z",
+    "category": "TEKNOLOJİ",
+    "subcategory": "İnternet Tarihi",
+    "difficulty": "EXPERT",
+    "question": "İnternet'in ilk resmi alan adı sistemi (DNS) hangi yılda tanıtılmıştır?",
+    "explanation": "TCP/IP kabul edildiği 1982-1983 döneminde DNS sistemi geliştirilmeye başlanmış ve 1983 yılında resmi olarak tanıtılmıştır. Alan adları internetin erişilebilirliğini artırmıştır.",
+    "options": [
+      "1983",
+      "1984",
+      "1985",
+      "1986"
+    ],
+    "correctAnswer": "1983",
+    "tags": [
+      "İnternet Tarihi",
+      "DNS",
+      "Alan Adı Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

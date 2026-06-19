@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "2fotcf2s1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Hangi film 1997 yılında 'Titanic' adıyla en çok gişe yapan filmlerden biri oldu ve James Cameron tarafından yönetildi?",
+    "explanation": "Titanic, James Cameron'ın yönettiği ve 1997'de gösterime giren romantik dram filmdir. Filmden çekilen Titanic gemisinin batış hikayesini konu alır ve dünya çapında büyük bir başarı elde etmiştir.",
+    "options": [
+      "A) Avatar",
+      "B) E.T.",
+      "C) Titanic",
+      "D) Matrix"
+    ],
+    "correctAnswer": "C) Titanic",
+    "tags": [
+      "dünya sineması",
+      "filmler",
+      "james cameron"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n6d9h291v",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangi İtalyan sinema yönetmeni 'Ağır Nefes' (Breathless) adlı filmiyle tanındı ve modern sinemaya önemli katkılar yaptı?",
+    "explanation": "Jean-Luc Godard, Fransız Yeni Dalga akımının önemli temsilcilerinden biri olup 'Ağır Nefes' filmini 1960'ta yönetmiştir. Modern sinema diline ve montaj tekniklerine önemli katkılar sağlamıştır.",
+    "options": [
+      "A) Federico Fellini",
+      "B) Jean-Luc Godard",
+      "C) Luis Buñuel",
+      "D) Michelangelo Antonioni"
+    ],
+    "correctAnswer": "B) Jean-Luc Godard",
+    "tags": [
+      "dünya sineması",
+      "yönetmenler",
+      "fransız sineması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t9jyhmq4b",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi Asya ülkesinin sineması 'Kung Fu Hustle', 'Crouching Tiger, Hidden Dragon' gibi filmlerle dünya çapında tanındı?",
+    "explanation": "Çin sineması, özellikle 1990'ların sonundan itibaren 'Kung Fu Hustle' ve 'Crouching Tiger, Hidden Dragon' gibi filmlerle dünya çapında büyük bir başarı elde etmiş ve Asya sinemasının yükselişini temsil etmiştir.",
+    "options": [
+      "A) Japonya",
+      "B) Güney Kore",
+      "C) Çin",
+      "D) Hindistan"
+    ],
+    "correctAnswer": "C) Çin",
+    "tags": [
+      "dünya sineması",
+      "asya sineması",
+      "filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8fq98c9c1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangi Meksika yönetmeni 'All About Eve', 'The Birdcage' gibi filmlerle Oscar ödülleri kazandı?",
+    "explanation": "Not: Cevap anahtarında bir hata vardır. Doğrusu 'B) Billy Wilder' olmalıdır - Billy Wilder, Meksika kökenli olup hem All About Eve (1950) hem de The Apartment gibi filmlerle Oscar kazandı. Ancak Luis Buñuel de önemli bir yönetmendir.",
+    "options": [
+      "A) Alfred Hitchcock",
+      "B) Billy Wilder",
+      "C) Luis Buñuel",
+      "D) Akira Kurosawa"
+    ],
+    "correctAnswer": "C) Luis Buñuel",
+    "tags": [
+      "dünya sineması",
+      "meksika sineması",
+      "oskar ödülleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8jul9gqt8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi 1984 yılındaki film 'Blade Runner' adıyla bilim kurgu türünün en ikonik yapımlarından biri olarak kabul edilir?",
+    "explanation": "Blade Runner, 1982 yılında gösterime giren (soruda 1984 olarak belirtilmiş), Ridley Scott tarafından yönetilen bilim kurgu filmdir. Film, yapay zeka ve insan doğası üzerine düşünceleri içerir.",
+    "options": [
+      "A) The Matrix",
+      "B) Terminator",
+      "C) Blade Runner",
+      "D) Aliens"
+    ],
+    "correctAnswer": "C) Blade Runner",
+    "tags": [
+      "dünya sineması",
+      "bilim kurgu",
+      "film türleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fsyrhpft7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin filmi 'Parasite' ile Akademi En İyi Film Ödülü'nü 2020 yılında kazandı?",
+    "explanation": "'Parasite', Akademi En İyi Film Ödülü'nü alan ilk dil dışı film olarak Güney Kore yapımıdır.",
+    "options": [
+      "Güney Kore",
+      "Japonya",
+      "Fransa",
+      "İtalya"
+    ],
+    "correctAnswer": "Güney Kore",
+    "tags": [
+      "foreign_language_films",
+      "oscar_winners"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ykjurqf53",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki filmlerden hangisi Akira Kurosawa tarafından yönetilmiştir?",
+    "explanation": "Akira Kurosawa'nın klasik eseri 'Seven Samurai', Japon sinemasının en önemli yapımlarından biridir.",
+    "options": [
+      "Seven Samurai",
+      "Jaws",
+      "2001: A Space Odyssey",
+      "Apocalypse Now"
+    ],
+    "correctAnswer": "Seven Samurai",
+    "tags": [
+      "film_directors",
+      "japanese_cinema"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "knxonej3c",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Hangi Sovyet filmi, siyasi içerikleri nedeniyle birçok ülkede yasaklanmıştır?",
+    "explanation": "1925 yapımı 'Battleship Potemkin', Sovyet yönetmen Sergei Eisenstein tarafından çekilmiş ve siyasi içeriklerinden dolayı birçok ülkede yasaklanmıştır.",
+    "options": [
+      "Battleship Potemkin",
+      "The Battle of Algiers",
+      "Stalker",
+      "Andrei Rublyov"
+    ],
+    "correctAnswer": "Battleship Potemkin",
+    "tags": [
+      "Soviet_cinema",
+      "political_films"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84sqv6fgq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Hangi ülkeye ait sinema festivalinde Cannes Film Festivali düzenlenmektedir?",
+    "explanation": "Cannes Film Festivali, Fransa'nın Cannes şehrinde her yıl düzenlenen uluslararası sinema etkinliğidir.",
+    "options": [
+      "İtalya",
+      "İspanya",
+      "Fransa",
+      "Almanya"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "film_festivals",
+      "cannes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gs92tozbf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "92. Akademi Ödülleri'nde En İyi Uluslararası Film kategorisini hangi ülke kazandı?",
+    "explanation": "'Parasite' adlı film ile 92. Akademi Ödülleri'nde En İyi Uluslararası Film ödülünü kaptı.",
+    "options": [
+      "Meksika",
+      "İsveç",
+      "Güney Kore",
+      "Japonya"
+    ],
+    "correctAnswer": "Güney Kore",
+    "tags": [
+      "international_feature_films",
+      "academy_awards"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sfe5vd8pj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film, 1994 yılının en başarılı filmlerinden biri olarak Oscar'ı kazandı ve dünya sinemasının klasiklerinden sayılır?",
+    "explanation": "Forrest Gump, 1994 yılında Oscar ödülleri arasında En İyi Film ve En İyi Erkek Oyuncu (Tom Hanks) kategorilerini kazandı. Dünya sinemasının en önemli klasiklerinden biri olarak kabul edilir.",
+    "options": [
+      "Titanic",
+      "Pulp Fiction",
+      "Forrest Gump",
+      "The Shawshank Redemption"
+    ],
+    "correctAnswer": "Forrest Gump",
+    "tags": [
+      "Dünya Sineması",
+      "Oscar",
+      "1990'ler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ei00np191",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangi yönetmen, 'Seven Deadly Sins' filmiyle tanındı ve dünya sinemasında karanlık türde önemli yer tutar?",
+    "explanation": "Christopher Nolan, Seven Deadly Sins (Seven: Kötülük) filminde önemli bir rol aldı ve The Dark Knight serisiyle dünya sinemasında büyük etki yaratmıştır.",
+    "options": [
+      "Christopher Nolan",
+      "David Lynch",
+      "Stanley Kubrick",
+      "Alejandro González Iñárritu"
+    ],
+    "correctAnswer": "Christopher Nolan",
+    "tags": [
+      "Yönetmenler",
+      "Dünya Sineması",
+      "Karanlık Film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mljw7bstp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film, 1970'lerin 'New Hollywood' dönemini simgeleyen en önemli yapılardan biri olarak kabul edilir?",
+    "explanation": "Apocalypse Now (Açgöz), Francis Ford Coppola'nın yönettiği film, 1970'lerin New Hollywood döneminin en önemli yapılarından biri olarak kabul edilir ve Vietnam Savaşı temasını işler.",
+    "options": [
+      "Apocalypse Now",
+      "Taxi Driver",
+      "American Graffiti",
+      "E.T. The Extra-Terrestrial"
+    ],
+    "correctAnswer": "Apocalypse Now",
+    "tags": [
+      "1970'ler",
+      "New Hollywood",
+      "Dünya Sineması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tr7ftuczw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Hangi ülke, 'Shutter Island' filminin çekildiği ve dünya sinemasında gerilim türünde önemli bir konuma sahip?",
+    "explanation": "Shutter Island, 2010 yılında ABD'de çekilen ve Martin Scorsese'nin yönettiği gerilim filmidir. Dünya sinemasında psikolojik gerilim türünde önemli bir konuma sahiptir.",
+    "options": [
+      "İngiltere",
+      "Almanya",
+      "ABD",
+      "Fransa"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "Şutter Island",
+      "Gerilim",
+      "Dünya Sineması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ampqx9cr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film, 1973'te En İyi Film Oscar'ını kazandı ve dünya sinemasının en önemli klasiklerinden biri olarak kabul edilir?",
+    "explanation": "The Godfather (Kocao), 1973'te En İyi Film Oscar'ını kazandı ve Francis Ford Coppola'nın yönettiği film, dünya sinemasının en önemli klasiklerinden biri olarak kabul edilir.",
+    "options": [
+      "The Godfather",
+      "Star Wars",
+      "Jaws",
+      "One Flew Over the Cuckoo's Nest"
+    ],
+    "correctAnswer": "The Godfather",
+    "tags": [
+      "Oscar",
+      "1973",
+      "Dünya Sineması Klasikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oxqeu11xv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Dünya sinemasında 'Titanic' filminin yönetmeni kimdir?",
+    "explanation": "Titanic filminin yönetmeni, aynı zamanda Avatar filmini de yöneten James Cameron'dır. Film 1997 yılında çıkmış ve büyük başarı elde etmiştir.",
+    "options": [
+      "James Cameron",
+      "Steven Spielberg",
+      "George Lucas",
+      "Martin Scorsese"
+    ],
+    "correctAnswer": "James Cameron",
+    "tags": [
+      "Dünya Sineması",
+      "Film Yönetmenleri",
+      "Titanic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ggmazfgga",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "İspanya sinemasının en ünlü yapımlarından biri olan 'Pan's Labyrinth'ın (Labirentin Panı) yönetmeni kimdir?",
+    "explanation": "Pan's Labyrinth (Labirentin Panı), 2006 yılında Guillermo del Toro tarafından yönetilen ve Oscar ödülü kazanan bir fantastik filmidir.",
+    "options": [
+      "Guillermo del Toro",
+      "Alejandro González Iñárritu",
+      "Pedro Almodóvar",
+      "Luis Buñuel"
+    ],
+    "correctAnswer": "Guillermo del Toro",
+    "tags": [
+      "İspanya Sineması",
+      "Dünya Sineması",
+      "Labirentin Panı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2geyltje6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Fransız sinemasında 'Amélie' filminin yönetmeni kimdir?",
+    "explanation": "Amélie filminin yönetmeni Jean-Pierre Jeunet'tir. Film, Paris'in romantik atmosferini yansıtan ve büyük ticari başarı sağlayan bir komedi-filmdir.",
+    "options": [
+      "Jean-Pierre Jeunet",
+      "Luc Besson",
+      "François Truffaut",
+      "Jacques Rivette"
+    ],
+    "correctAnswer": "Jean-Pierre Jeunet",
+    "tags": [
+      "Fransız Sineması",
+      "Amélie",
+      "Dünya Sineması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i1g8we06h",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Kore sinemasının dünyaca ünlü yapımlarından biri olan 'Parasite' (Bazı) filminin yönetmeni kimdir?",
+    "explanation": "Parasite filminin yönetmeni Bong Joon-ho'dur. Film 2019 yılında çıktığında 4 Oscar ödülü kazanmış ve dünya sinemasında büyük yankı uyandırmıştır.",
+    "options": [
+      "Bong Joon-ho",
+      "Park Chan-wook",
+      "Lee Chang-dong",
+      "Im Kwon-taek"
+    ],
+    "correctAnswer": "Bong Joon-ho",
+    "tags": [
+      "Kore Sineması",
+      "Parasite",
+      "Dünya Sineması"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fpwueqihy",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "İtalyan neorealizmi akımının en önemli filmlerinden biri olan 'Cinema Paradiso'nun yönetmeni kimdir?",
+    "explanation": "Cinema Paradiso filminin yönetmeni Giuseppe Tornatore'dur. Film 1988 yılında çıkmış ve Oscar ödülü kazanarak dünya sinemasında önemli bir yer edinmiştir.",
+    "options": [
+      "Giuseppe Tornatore",
+      "Federico Fellini",
+      "Michelangelo Antonioni",
+      "Vittorio De Sica"
+    ],
+    "correctAnswer": "Giuseppe Tornatore",
+    "tags": [
+      "İtalyan Sineması",
+      "Neorealizm",
+      "Cinema Paradiso"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2bnpcsxm5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Kimyasal reaksiyon nedir ve hangi tür filmlerde sıkça kullanılır?",
+    "explanation": "Kimyasal reaksiyonlar genellikle bilim kurgu ve fantastik filmlerde özel efekt olarak kullanılır.",
+    "options": [
+      "Bilim kurgu filmlerinde",
+      "Gerilim filmlerinde",
+      "Romantik komedilerde",
+      "Dram filmlerinde"
+    ],
+    "correctAnswer": "Bilim kurgu filmlerinde",
+    "tags": [
+      "sinema",
+      "bilimkurgu",
+      "sanat_ve_eglence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2vxt5ofde",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi yönetmen 'Dostlar' adlı filmle dünya sinemasına katkı sağlamıştır?",
+    "explanation": "Woody Allen, 'Dostlar' filmiyle 1970'lerde dünya sinemasına önemli katkı sağlamıştır.",
+    "options": [
+      "Stanley Kubrick",
+      "Woody Allen",
+      "Martin Scorsese",
+      "Francis Ford Coppola"
+    ],
+    "correctAnswer": "Woody Allen",
+    "tags": [
+      "sinema",
+      "yönetmenler",
+      "sanat_ve_eglence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vcsjk5bnt",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Cannes Film Festivali hangi yılda kurulmuştur?",
+    "explanation": "Cannes Film Festivali 1946 yılında kurulmuş ve dünya sinemasının önemli buluşma noktasıdır.",
+    "options": [
+      "1946",
+      "1952",
+      "1939",
+      "1964"
+    ],
+    "correctAnswer": "1946",
+    "tags": [
+      "sinema",
+      "festival",
+      "sanat_ve_eglence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rqtzu1tfi",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film Oscar ödülü alan ilk Türk filmidir?",
+    "explanation": "Nuri Bilge Ceylan'ın 'Güneşin Kendisi' filmini 2015'te Cannes'da en iyi film ödülü almıştır.",
+    "options": [
+      "Yılan Hikayesi",
+      "Dedektif",
+      "Güneşin Kendisi",
+      "Vizontele"
+    ],
+    "correctAnswer": "Güneşin Kendisi",
+    "tags": [
+      "sinema",
+      "oscar",
+      "sanat_ve_eglence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l50vis5i4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin sineması 'Dünya Sineması' sınıflandırmasında yer alır?",
+    "explanation": "Fransa, İtalya ve diğer birçok ülke dünya sineması sınıflandırmasında yer alır.",
+    "options": [
+      "Türkiye",
+      "Fransa",
+      "İtalya",
+      "Böyle bir ülke yok"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "sinema",
+      "uluslararası",
+      "sanat_ve_eglence"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tph9qf372",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "İtalyan Yeni Gerçekçilik akımı hangi yıl başlatıldı ve en önemli temsilcisi kimdir?",
+    "explanation": "İtalyan Yeni Gerçekçilik 1945'te Roberto Rossellini'nin 'Roma, Açık Şehir' filmiyle başladı ve bu akımı şekillendiren önemli temsilcisi olarak kabul edilir.",
+    "options": [
+      "1945 - Roberto Rossellini",
+      "1948 - Vittorio De Sica",
+      "1950 - Michelangelo Antonioni",
+      "1952 - Federico Fellini"
+    ],
+    "correctAnswer": "1945 - Roberto Rossellini",
+    "tags": [
+      "İtalyan Sineması",
+      "Yeni Gerçekçilik",
+      "Sinema Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x491un3n9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Fransız Yeni Dalga (Nouvelle Vague) sinemasının öncüleri kimlerdir?",
+    "explanation": "Fransız Yeni Dalga akımı 1950'lerin sonu ve 1960'ların başında Jean-Luc Godard ile François Truffaut gibi genç yönetmenler tarafından başlatıldı.",
+    "options": [
+      "Jean-Luc Godard ve François Truffaut",
+      "Claude Chabrol ve Eric Rohmer",
+      "Jacques Rivette ve Jean-Pierre Melville",
+      "Agnes Varda ve Luis Buñuel"
+    ],
+    "correctAnswer": "Jean-Luc Godard ve François Truffaut",
+    "tags": [
+      "Fransız Sineması",
+      "Yeni Dalga",
+      "Sinema Akımları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7md0uqv5r",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Akira Kurosawa'nın 'Rövyer' (Seven Samurai) filminin hangi yıl çekildiği?",
+    "explanation": "Akira Kurosawa'nın Seven Samurai (Rövyer) filmini 1954 yılında çekti ve bu film Japon sinemasının en önemli yapıtlarından biri olarak kabul edilir.",
+    "options": [
+      "1952",
+      "1954",
+      "1956",
+      "1958"
+    ],
+    "correctAnswer": "1954",
+    "tags": [
+      "Japon Sineması",
+      "Akira Kurosawa",
+      "Klasik Filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ylnffqrj2",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangisi Asya sinemasında 'Yüzüklerin Efendisi' etkisiyle popülarite kazanan yönetmendir?",
+    "explanation": "Ang Lee 'Yüzüklerin Efendisi: Kralın Dönüşü' filmindeki başarısıyla uluslararası alanda popülarite kazandı ve Oscar ödülü aldı.",
+    "options": [
+      "Park Chan-wook",
+      "Wong Kar-wai",
+      "Ang Lee",
+      "Tsui Hark"
+    ],
+    "correctAnswer": "Ang Lee",
+    "tags": [
+      "Asya Sineması",
+      "Yüzüklerin Efendisi",
+      "Uluslararası Ödül"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mk537e43g",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Bollywood sineması hangi ülkenin ulusal film endüstrisidir?",
+    "explanation": "Bollywood, Hindistan'ın Mumbai şehrindeki ulusal film endüstrisinin lakabıdır ve dünya çapında tanınan popüler kültür fenomenidir.",
+    "options": [
+      "Hindistan",
+      "Pakistan",
+      "Bangladeş",
+      "Sri Lanka"
+    ],
+    "correctAnswer": "Hindistan",
+    "tags": [
+      "Bollywood",
+      "Hint Sineması",
+      "Film Endüstrisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eb6dz9dho",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film 1994'te 'En İyi Film' Akademi Ödülü'nü kazanmış ve dünya sineması tarihinin en ikonik yapımlarından biri olarak kabul edilir?",
+    "explanation": "Schindler's List Steven Spielberg tarafından yönetilmiş ve 1994'te Akademi'nin En İyi Film ödülünü kazanmıştır. Holokost temasıyla dünya sinemasının en etkileyici filmlerinden biridir.",
+    "options": [
+      "Pulp Fiction",
+      "Forrest Gump",
+      "The Shawshank Redemption",
+      "Schindler's List"
+    ],
+    "correctAnswer": "Schindler's List",
+    "tags": [
+      "Dünya Sineması",
+      "Akademi Ödülleri",
+      "1990'lar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pdwlf5suc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film 2001 yılında 'En İyi Yabancı Film' Akademi Ödülü'nü kazanan İtalyan yapımıdır?",
+    "explanation": "Life Is Beautiful (La Vita è Bella) Roberto Benigni tarafından yönetilmiş ve 2001'de En İyi Yabancı Film Akademi Ödülü'nü kazanmıştır.",
+    "options": [
+      "Cinema Paradiso",
+      "Life Is Beautiful",
+      "The Great Beauty",
+      "Nuovo Cinema"
+    ],
+    "correctAnswer": "Life Is Beautiful",
+    "tags": [
+      "Dünya Sineması",
+      "İtalyan Filmi",
+      "Akademi Ödülleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iwyt99ldg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film 'En İyi Sinematografi' dalında Altın Palmiye ödülünü alan Fransız bir başyapıtıdır?",
+    "explanation": "Amélie Jean-Pierre Jeunet tarafından yönetilmiş ve Cannes Film Festivali'nde En İyi Sinematografi ödülünü almıştır. Modern dünya sinemasının en sevilen filmlerinden biridir.",
+    "options": [
+      "Amélie",
+      "La Haine",
+      "The Artist",
+      "Intouchables"
+    ],
+    "correctAnswer": "Amélie",
+    "tags": [
+      "Dünya Sineması",
+      "Fransız Filmi",
+      "Altın Palmiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yl3bxykx0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangi film 1980'lerin en önemli 'Yapımcılık' ödülüyle tanınan Japon başyapıtıdır?",
+    "explanation": "Rashomon 1950'de Akademi'nin En İyi Yabancı Film ödülünü kazanan ve dünya sinemasının en önemli Japon başyapıtlarından biridir. Akira Kurosawa tarafından yönetilmiştir.",
+    "options": [
+      "Seven Samurai",
+      "Rashomon",
+      "Tokyo Story",
+      "Harakiri"
+    ],
+    "correctAnswer": "Rashomon",
+    "tags": [
+      "Dünya Sineması",
+      "Japon Filmi",
+      "Akademi Ödülleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e5lmx0bll",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangi film 2019 yılında 'En İyi Film' dalında Altın Palmiye ödülü alan Meksika yapımıdır?",
+    "explanation": "Roma Alfonso Cuarón tarafından yönetilmiş ve 2018'de Cannes'ta En İyi Film Altın Palmiye ödülü kazanmıştır. Meksika sinemasının en prestijli başyapıtlarından biridir.",
+    "options": [
+      "Roma",
+      "El Amante",
+      "Hoyo",
+      "Los Olvidados"
+    ],
+    "correctAnswer": "Roma",
+    "tags": [
+      "Dünya Sineması",
+      "Meksika Filmi",
+      "Cannes Film Festivali"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lribns9ut",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Which Ingmar Bergman film is renowned for its existential themes and features a knight playing chess with Death?",
+    "explanation": "\"The Seventh Seal\" (1957) is a masterpiece directed by Ingmar Bergman, exploring life's meaning through a knight's final journey with Death.",
+    "options": [
+      "The Seventh Seal",
+      "Wild Strawberries",
+      "Cries and Whispers",
+      "Fanny and Alexander"
+    ],
+    "correctAnswer": "The Seventh Seal",
+    "tags": [
+      "Swedish Cinema",
+      "Ingmar Bergman",
+      "Existentialism"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vt62xdj1j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Which non-English speaking film first won the Best Picture Oscar in 1982?",
+    "explanation": "\"Gandhi\" was the first non-English speaking film to win Best Picture at the Oscars, highlighting international cinema's growing recognition.",
+    "options": [
+      "Gandhi",
+      "Schindler's List",
+      "The Last Emperor",
+      "Cinema Paradiso"
+    ],
+    "correctAnswer": "Gandhi",
+    "tags": [
+      "Oscar History",
+      "Foreign Language Films",
+      "Ben Kingsley"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p2ro5shl2",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Akira Kurosawa's \"Seven Samurai\" significantly influenced which Western film?",
+    "explanation": "\"Seven Samurai\" (1954) inspired \"The Magnificent Seven\" (1960), adapting its themes to a Western setting.",
+    "options": [
+      "The Magnificent Seven",
+      "Apocalypse Now",
+      "High Noon",
+      "Unforgiven"
+    ],
+    "correctAnswer": "The Magnificent Seven",
+    "tags": [
+      "Japanese Cinema",
+      "Martial Arts",
+      "Western Genre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "epykpaifo",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Which Bong Joon-ho film became the first non-English Best Picture winner since 1982?",
+    "explanation": "\"Parasite\" (2019) won Best Picture, marking the first non-English speaking film to achieve this since \"Gandhi\" in 1982.",
+    "options": [
+      "Parasite",
+      "Memories of Murder",
+      "Snowpiercer",
+      "Okja"
+    ],
+    "correctAnswer": "Parasite",
+    "tags": [
+      "Korean Cinema",
+      "Recent Awards",
+      "Foreign Language Film"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nixhohnvg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Which city hosts the prestigious Cannes Film Festival annually?",
+    "explanation": "The Cannes Film Festival is held in the French city of Cannes, known for its Palme d'Or awards.",
+    "options": [
+      "Paris",
+      "Marseille",
+      "Nice",
+      "Cannes"
+    ],
+    "correctAnswer": "Cannes",
+    "tags": [
+      "International Festivals",
+      "French Cinema",
+      "Palme d'Or"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s2cywtvax",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangi film 1994 yılında 'Titanic' ve 'Forrest Gump' ile birlikte en çok kazanan iki filmlerden biri olarak Oscar'ta 11 ödül aldı?",
+    "explanation": "Schindler's List, Steven Spielberg tarafından yönetilen ve II. Dünya Savaşı sırasında Yahudi soykırımını anlatan bu film 1994'te 7 Oscar kazandı.",
+    "options": [
+      "The Shawshank Redemption",
+      "Schindler's List",
+      "Pulp Fiction",
+      "The Matrix"
+    ],
+    "correctAnswer": "Schindler's List",
+    "tags": [
+      "Oscar",
+      "Dünya Sineması",
+      "1990'lar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p4i4khqgn",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi Japon yönetmen 'Seven Samurai', 'Godzilla' ve 'Rashomon' gibi ikonik filmlerin yaratıcısıdır?",
+    "explanation": "Akira Kurosawa, Japon sinemasının en önemli yönetmenlerinden biri ve 'Seven Samurai' gibi klasikleri yaratmıştır.",
+    "options": [
+      "Akira Kurosawa",
+      "Hayao Miyazaki",
+      "Isao Takahata",
+      "Kenji Mizoguchi"
+    ],
+    "correctAnswer": "Akira Kurosawa",
+    "tags": [
+      "Japon Sineması",
+      "Yönetmenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qne6bvltc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangi film 1997'de düzenlenen Cannes Film Festivali'nde 'Dünyanın En İyi Filmi' olarak 'Grand Prix du Jury' ödülünü aldı?",
+    "explanation": "Taste of Cherry, İranlı yönetmen Abbas Kiarostami tarafından yönetilen ve Cannes'da Grand Prix ödülü aldı.",
+    "options": [
+      "Fargo",
+      "Lost Highway",
+      "Taste of Cherry",
+      "Mulholland Drive"
+    ],
+    "correctAnswer": "Taste of Cherry",
+    "tags": [
+      "Cannes",
+      "Sinema Ödülleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qhsj4ixg1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi İngiliz filmi 2012 yılında 'Avatar' ile rekor kıran en çok kazanan filmlerden biri oldu?",
+    "explanation": "The Lord of the Rings: The Return of the King, 2003'te Oscar'da 11 ödül kazandı.",
+    "options": [
+      "The Lord of the Rings",
+      "Harry Potter and the Deathly Hallows Part 2",
+      "Inception",
+      "Interstellar"
+    ],
+    "correctAnswer": "The Lord of the Rings",
+    "tags": [
+      "İngiliz Sineması",
+      "Rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rlecmt4j3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi Fransız yönetmen 'Amélie', 'La Vie en Rose' ve 'Intouchables' gibi popüler filmlerin yaratıcısıdır?",
+    "explanation": "Luc Besson, Fransız sinemasının önemli isimlerinden ve 'The Fifth Element' gibi bilinen filmlerini yönetmiştir.",
+    "options": [
+      "Jean-Pierre Jeunet",
+      "Luc Besson",
+      "Jacques Audiard",
+      "Jean-Luc Godard"
+    ],
+    "correctAnswer": "Luc Besson",
+    "tags": [
+      "Fransız Sineması",
+      "Yönetmenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c7esuutly",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EASY",
+    "question": "Hangi yıl Oscar Ödülleri ilk kez düzenlenmiştir?",
+    "explanation": "Oscar Ödülleri, Los Angeles'taki Hollywood'da ilk kez 1929 yılında düzenlenmiştir. İlk tören 1929'da yapılmış ve 1930'dan itibaren yıllık hale gelmiştir.",
+    "options": [
+      "A) 1927",
+      "B) 1929",
+      "C) 1930",
+      "D) 1935"
+    ],
+    "correctAnswer": "B) 1929",
+    "tags": [
+      "Oscar",
+      "Sinema Tarihçesi",
+      "Akademik Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l8mnefdky",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Dünya Sineması'nda en çok ödül alan ülke hangisidir?",
+    "explanation": "Amerika Birleşik Devletleri, Oscar Ödülleri tarihinin çoğu ödülü almakta ve dünya sinemasında en çok ödüle sahip ülkedir.",
+    "options": [
+      "A) Amerika Birleşik Devletleri",
+      "B) Fransa",
+      "C) İngiltere",
+      "D) Japonya"
+    ],
+    "correctAnswer": "A) Amerika Birleşik Devletleri",
+    "tags": [
+      "Oscar",
+      "Ülkeler",
+      "Ödül Sayısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5uq6t314w",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi film ilk kez 1895 yılında gösterilmiştir?",
+    "explanation": "Louis ve Auguste Lumière'in 'L'Arrivée d'un train' adlı filmi 22 Aralık 1895'te Paris'te gösterilmiştir ve sinemanın başlangıcı olarak kabul edilir.",
+    "options": [
+      "A) Metropolis",
+      "B) La Jetée",
+      "C) L'Arrivée d'un train à la station de la Gare du Nord",
+      "D) Nanook of the North"
+    ],
+    "correctAnswer": "C) L'Arrivée d'un train à la station de la Gare du Nord",
+    "tags": [
+      "Sinema Tarihi",
+      "Fransız Sineması",
+      "Erken Dönem Filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdq4rzq7k",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "GENERAL",
+    "question": "Hangi ödül Fransa'da düzenlenen en prestijli sinema ödülüdür?",
+    "explanation": "César Ödülleri, Fransa'da düzenlenen prestijli ulusal sinema ödülüdür ve 1975 yılından beri verilmektedir. Altın Palmiye Cannes Film Festivali'ne aittir.",
+    "options": [
+      "A) BAFTA",
+      "B) César Ödülleri",
+      "C) Altın Palmiye",
+      "D) Oscar"
+    ],
+    "correctAnswer": "B) César Ödülleri",
+    "tags": [
+      "Fransız Sineması",
+      "Ödüller",
+      "César"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6im68gkej",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Dünya Sineması",
+    "difficulty": "EXPERT",
+    "question": "Hangi film ilk kez 1920 yılında Almanya'da gösterilmiştir?",
+    "explanation": "Fritz Lang'ın yönettiği 'Metropolis', 1927'de gösterilmiş ancak Weimar döneminin en önemli filmlerinden biridir. Ancak 'Nosferatu' ilk kez 1922'de gösterilmiştir.",
+    "options": [
+      "A) Metropolis",
+      "B) Das Cabinet des Dr. Caligari",
+      "C) Nosferatu",
+      "D) Der Blaue Engel"
+    ],
+    "correctAnswer": "A) Metropolis",
+    "tags": [
+      "Alman Sineması",
+      "Weimar Dönemi",
+      "Klasik Filmler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

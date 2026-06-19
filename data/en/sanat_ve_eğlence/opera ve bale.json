@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "1mhv5gqby",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Opera'da sesin yükseltme yöntemi nedir?",
+    "explanation": "Opera'da sesin yükseltme yöntemi olarak ses perdesi ve vibrato kullanılır. Mikrofonlar modern operada bazı durumlarda kullanılabilir ancak geleneksel opera tekniğinde doğal ses kontrolü önemlidir.",
+    "options": [
+      "Mikrofon kullanımı",
+      "Koro desteği",
+      "Ses perdesi (vibrato)",
+      "Yapay boğaz"
+    ],
+    "correctAnswer": "Ses perdesi (vibrato)",
+    "tags": [
+      "opera",
+      "ses teknikleri",
+      "sanat tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rygachc3v",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Bale dansçılarının ayak hareketlerinin temel sayısı kaçtır?",
+    "explanation": "Bale dansçılarının ayak hareketlerinin temel sayısı 5'tir (piqué, jeté, glissade, pas de bourrée ve adagio). Bu hareketler bale sanatının temelini oluşturur.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "bale",
+      "dans teknikleri",
+      "sanat tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u8dnjbdne",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "İtalyan operasının en ünlü temsilcisi kimdir?",
+    "explanation": "İtalyan operasının en ünlü temsilcisi Giuseppe Verdi'dir. 'La Traviata', 'Aida' ve 'Rigoletto' gibi önemli operaların yazarıdır.",
+    "options": [
+      "Giuseppe Verdi",
+      "Wolfgang Amadeus Mozart",
+      "Richard Wagner",
+      "Pyotr Ilyich Tchaikovsky"
+    ],
+    "correctAnswer": "Giuseppe Verdi",
+    "tags": [
+      "opera",
+      "müzik tarihi",
+      "sanat tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "etsey6urz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Bale dansçılarının ayak bileklerini esneterek yapılan hareket ne adlanır?",
+    "explanation": "Bale dansçılarının ayak bileklerini esneterek yapılan hareket Pointe'dir. Bu hareket bale dansçılarının topuklarını yerden kaldırarak dans etmesini sağlar.",
+    "options": [
+      "Piqué",
+      "Jeté",
+      "Pointe",
+      "Adagio"
+    ],
+    "correctAnswer": "Pointe",
+    "tags": [
+      "bale",
+      "dans teknikleri",
+      "sanat tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nmmjlpds8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Opera'nın en önemli unsuru nedir?",
+    "explanation": "Opera'nın en önemli unsuru doğal ses ve sahne tasarımıdır. Opera sanatının temelinde aktörlerin doğal ses kontrolü ve sahnenin estetik düzenlemesi yer alır.",
+    "options": [
+      "Yapay ses",
+      "Koro desteği",
+      "Doğal ses ve sahne tasarımı",
+      "Teknoloji kullanımı"
+    ],
+    "correctAnswer": "Doğal ses ve sahne tasarımı",
+    "tags": [
+      "opera",
+      "müzik tarihi",
+      "sanat tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vn2m15l5d",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Opera'nın kökeni hangi yüzyılda ve bölgede kabul edilir?",
+    "explanation": "Opera'nın kökeni 16. yüzyılda İtalya'da kabul edilir. Özellikle Floransa çevresinde 'Camerata' adlı sanatçı grubu tarafından geliştirilmiştir.",
+    "options": [
+      "16. yüzyıl - İtalya",
+      "17. yüzyıl - Fransa",
+      "18. yüzyıl - Almanya",
+      "15. yüzyıl - İngiltere"
+    ],
+    "correctAnswer": "16. yüzyıl - İtalya",
+    "tags": [
+      "opera",
+      "tarih",
+      "kojen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8lkpf10vd",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Bale dansının temel özelliklerinden hangisi değildir?",
+    "explanation": "Bale dansının temel özelliklerinden 'hareketlerin şifalı' değildir. Bale hareketleri genellikle koreografik ve ritmik yapıdadır.",
+    "options": [
+      "Hareketlerin şifalı",
+      "Sesli müzik eşlik eder",
+      "Giyim kıyafetleri renkli",
+      "Müzik ritmi belirgin"
+    ],
+    "correctAnswer": "Hareketlerin şifalı",
+    "tags": [
+      "bale",
+      "dans",
+      "özellik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bokf9m5q3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Ünlü opera eserlerinden hangisi Giacomo Puccini tarafından yazılmıştır?",
+    "explanation": "Giacomo Puccini, La Boheme operasını yazmıştır. Bu eser Paris'te geçen romantik bir aşk hikayesini anlatır.",
+    "options": [
+      "La Boheme",
+      "Il Trovatore",
+      "Cavalleria Rusticana",
+      "Pagliacci"
+    ],
+    "correctAnswer": "La Boheme",
+    "tags": [
+      "puccini",
+      "opera",
+      "eser"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y4xha8pyz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "Bale solistinin dans ettiği özel giyimde hangi renk daha yaygındır?",
+    "explanation": "Bale solistinin dans ettiği özel giyimde genellikle yeşil renkler daha yaygındır. Bu renk koreografik hareketleri vurgulamak için kullanılır.",
+    "options": [
+      "Mavi",
+      "Yeşil",
+      "Siyah",
+      "Kırmızı"
+    ],
+    "correctAnswer": "Yeşil",
+    "tags": [
+      "bale",
+      "giyim",
+      "renk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ac6cm13w",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Opera tiyatrosunda 'dirigent' ne görev yapar?",
+    "explanation": "Opera tiyatrosunda 'dirigent' orkestrayı ve sesi senkronize ederek sahneyi yönetir. Müzik ve ses uyumunu sağlar.",
+    "options": [
+      "Dansçıları yönetir",
+      "Müzik eşliğinde sahne alır",
+      "Orkestrayı ve sesleri senkronize eder",
+      "Kostüm tasarımlarını yapar"
+    ],
+    "correctAnswer": "Orkestrayı ve sesleri senkronize eder",
+    "tags": [
+      "dirigent",
+      "opera",
+      "görev"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "boohlk8dz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Opera ve bale sanatının kökeni hangi ülkededir?",
+    "explanation": "Opera ve bale, 16. yüzyılda İtalya'da Rönesans döneminde ortaya çıkmıştır.",
+    "options": [
+      "Fransa",
+      "İtalya",
+      "Almanya",
+      "İspanya"
+    ],
+    "correctAnswer": "İtalya",
+    "tags": [
+      "Tarih",
+      "Opera",
+      "Bale"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n7u6jkg45",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki operalardan hangisi Giuseppe Verdi tarafından yazılmıştır?",
+    "explanation": "La Traviata, Giuseppe Verdi'nin 1853'te bestelediği ünlü operasıdır.",
+    "options": [
+      "La Traviata",
+      "Carmen",
+      "Norma",
+      "Aida"
+    ],
+    "correctAnswer": "La Traviata",
+    "tags": [
+      "Müzikal Parçalar",
+      "Opera",
+      "Beste"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9swgdx0z1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Marius Petipa'nın koreografisiyle ünlü bale hangisidir?",
+    "explanation": "Marius Petipa, Tchaikovsky bestesiyle 1892'de 'The Nutcracker' (Çikolata Dükkanı) bale eserini koreografisiyle oluşturmuştur.",
+    "options": [
+      "Uçan Hollandalı",
+      "Güzel Yılan",
+      "Çikolata Dükkanı",
+      "Hikaye"
+    ],
+    "correctAnswer": "Çikolata Dükkanı",
+    "tags": [
+      "Koreografi",
+      "Bale",
+      "Beste"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xh6f1yy7j",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Opera tiyatrolarında 'aria' nedir?",
+    "explanation": "Aria, opera tiyatrolarında duyguları anlatmak için kullanılan uzun solo vokal parçadır.",
+    "options": [
+      "Duyguyu ifade eden solo şarkı",
+      "Grup dansı",
+      "Kısa konuşma parçası",
+      "Dans arası müzik"
+    ],
+    "correctAnswer": "Duyguyu ifade eden solo şarkı",
+    "tags": [
+      "Terimler",
+      "Opera",
+      "Müzik Parçaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "skvnm8cbi",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki operalardan hangisi Giacomo Puccini tarafından yazılmıştır?",
+    "explanation": "La Bohème, Giacomo Puccini'nin 1896'da bestelediği ünlü operasıdır.",
+    "options": [
+      "La Traviata",
+      "Carmen",
+      "La Bohème",
+      "Norma"
+    ],
+    "correctAnswer": "La Bohème",
+    "tags": [
+      "Beste",
+      "Opera",
+      "Müzikal Parçalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z7weidt09",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Opera'nın kökeni hangi yüzyıla ve bölgeye dayanır?",
+    "explanation": "Opera'nın kökeni 16. yüzyılın sonlarında İtalya'da, özellikle Floransa'daki 'Kameralar' (Camerata) adlı sanatçı grupları tarafından gelişmiştir.",
+    "options": [
+      "16. yüzyıl - İtalya",
+      "15. yüzyıl - Fransa",
+      "17. yüzyıl - Almanya",
+      "18. yüzyıl - İngiltere"
+    ],
+    "correctAnswer": "16. yüzyıl - İtalya",
+    "tags": [
+      "opera",
+      "köken",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nb6ir8gc4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Balede dansçının ayak parmaklarının yapısı neden önemlidir?",
+    "explanation": "Bale dansçılarının ayak parmakları, özellikle 'en pointe' (uçta) tekniklerinde zeminle minimum temas sağlayarak denge ve estetik görüntü oluşturur.",
+    "options": [
+      "Yumuşaklık sağlar",
+      "Denge ve zemin teması artırır",
+      "Ses üretimi kolaylaştırır",
+      "Müzik ritmini gösterir"
+    ],
+    "correctAnswer": "Denge ve zemin teması artırır",
+    "tags": [
+      "bale",
+      "dans",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yjg3wydw0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "İtalyan operasında hangi dil esas olarak kullanılır?",
+    "explanation": "İtalyan operası, köken itibarıyla İtalya'da geliştiği için esas olarak İtalyanca dilinde sözlü ve müzikal içerik sunar.",
+    "options": [
+      "İngilizce",
+      "Fransızca",
+      "İtalyanca",
+      "Almanca"
+    ],
+    "correctAnswer": "İtalyanca",
+    "tags": [
+      "opera",
+      "dil",
+      "itallyan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7p9gd277s",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Balede 'pas de deux' ne ifade eder?",
+    "explanation": "'Pas de deux', Fransızcada 'iki adım' anlamına gelir ve balede iki dansçının birlikte performans gösterdiği bölümü ifade eder.",
+    "options": [
+      "Tek dansçı",
+      "Gruben dansı",
+      "İki dansçının eşliğinde dans",
+      "Sesli müzik"
+    ],
+    "correctAnswer": "İki dansçının eşliğinde dans",
+    "tags": [
+      "bale",
+      "pas de deux",
+      "dans terimleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yek1h6hqw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "Opera evlerinde sahne arkasındaki dekorasyonlar neden önemlidir?",
+    "explanation": "Opera evlerindeki dekorasyonlar, operanın hikayesi ve dönemiyle uyumlu olarak atmosferi güçlendirir ve izleyicinin deneyimini zenginleştirir.",
+    "options": [
+      "Sadece estetik amaçlı",
+      "Hikaye ve atmosferi güçlendirir",
+      "Teknik ekipman için kullanılır",
+      "Müzik çalınmasını sağlar"
+    ],
+    "correctAnswer": "Hikaye ve atmosferi güçlendirir",
+    "tags": [
+      "opera",
+      "sahne",
+      "dekorasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "77108wuzc",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "İtalyan opera sanatçısı Gioachino Rossini'nin en ünlü operalarından biri hangisidir?",
+    "explanation": "Il Barbiere di Siviglia (Sivilyalı Şövalye), Gioachino Rossini'nin 1816 yılında bestelediği en popüler komik operasıdır.",
+    "options": [
+      "A) La Traviata",
+      "B) Il Barbiere di Siviglia",
+      "C) Carmen",
+      "D) Tosca"
+    ],
+    "correctAnswer": "B) Il Barbiere di Siviglia",
+    "tags": [
+      "opera",
+      "Rossini",
+      "İtalyan müziği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j8wfb6w8f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "Fransız bale sanatçısı Jean-Georges Noverre'nin bale hakkında ne teori geliştirdi?",
+    "explanation": "Jean-Georges Noverre, bale performanslarının sadece dekoratif olmaktan çıkıp dikkat çekici ve anlamlı bir drama haline gelmesi gerektiğini savunan 'dramatik bale' teorisi geliştirmişti.",
+    "options": [
+      "A) Realizme dayalı bale",
+      "B) Dramatik bale teorisi",
+      "C) Romantik bale yaklaşımı",
+      "D) Klasik bale formu"
+    ],
+    "correctAnswer": "B) Dramatik bale teorisi",
+    "tags": [
+      "bale",
+      "Noverre",
+      "dramatik sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3d090hsv6",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "İtalyan müzik terimi olan 'Cabaletta' neyi ifade eder?",
+    "explanation": "Cabaletta, İtalyan operalarında dramatik karakterlerin daha hızlı ve enerjik bir final sahnesi olarak seslendirdikleri kısa parça türüdür.",
+    "options": [
+      "A) Operanın başlangıcı",
+      "B) Operanın dramatik finali",
+      "C) Operanın arası oyunu",
+      "D) Operanın dans sahnesi"
+    ],
+    "correctAnswer": "B) Operanın dramatik finali",
+    "tags": [
+      "opera",
+      "İtalyan müzik",
+      "Cabaletta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rosgwqcij",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Fransız besteci Camille Saint-Saëns'in ünlü eseri 'Carnaval Hayvanlar' hangi bale müziği eseridir?",
+    "explanation": "Camille Saint-Saëns'in 'Carnaval Hayvanlar' (Le Carnaval des Animaux), orkestra ve piyanoyla bestelenen, hayvanları betimleyen ünlü bir müzik eseri.",
+    "options": [
+      "A) Çay Müzikleri",
+      "B) Dans Müzikleri",
+      "C) Hayvanlar Müziği",
+      "D) Konser Müzikleri"
+    ],
+    "correctAnswer": "C) Hayvanlar Müziği",
+    "tags": [
+      "bale müziği",
+      "Saint-Saëns",
+      "Orkestra"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jzgpxmy7l",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "İtalyan opera sanatçısı Giacomo Puccini'nin 'Tosca' operası hangi tarihte ilk kez sahnelendi?",
+    "explanation": "Giacomo Puccini'nin ünlü operası Tosca, 1900 yılında Roma'da Teatro Costanzi'de ilk kez sahnelenmiş olmasına rağmen, bazı kaynaklara göre 1897'de ilk versiyonu gösterilmiştir.",
+    "options": [
+      "A) 1896",
+      "B) 1897",
+      "C) 1898",
+      "D) 1899"
+    ],
+    "correctAnswer": "B) 1897",
+    "tags": [
+      "opera",
+      "Puccini",
+      "Tosca"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ksjf3hf8t",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "İtalyan opera besticisi Giovanni Battista Pergolesinin en meşhur operası hangisidir?",
+    "explanation": "Giovanni Battista Pergolesinin Stabat Mater dini bestesi ve La Traviata Giuseppe Verdi operasıdır. Il Barbiere di Siviglia ise Rossini'nin en meşhur operasıdır.",
+    "options": [
+      "La Traviata",
+      "Il Barbiere di Siviglia",
+      "Stabat Mater",
+      "Turandot"
+    ],
+    "correctAnswer": "Il Barbiere di Siviglia",
+    "tags": [
+      "Opera",
+      "İtalyan Müziği",
+      "Eskiciler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f0m8yrlnh",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Paris Opera Balesi'nde kullanılmayan dans türü hangisidir?",
+    "explanation": "Salsa Latin Amerikalı dans türüdür ve klasik balede kullanılmaz. Pas de Deux, Grand Jeté ve Tour ise temel bale teknikleridir.",
+    "options": [
+      "Pas de Deux",
+      "Grand Jeté",
+      "Salsa",
+      "Tour"
+    ],
+    "correctAnswer": "Salsa",
+    "tags": [
+      "Bale",
+      "Dans Türleri",
+      "Fransız Kültürü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tk8uvemd0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "İngiliz opera besticisi Benjamin Britten'in en meşhur operası nedir?",
+    "explanation": "Peter Grimes, Benjamin Britten'in 1945 yılında yazdığı ve en meşhur operasıdır. Aida Verdi'nin, Carmen Bizet'in eseri.",
+    "options": [
+      "Peter Grimes",
+      "Aida",
+      "Carmen",
+      "Falstaff"
+    ],
+    "correctAnswer": "Peter Grimes",
+    "tags": [
+      "Opera",
+      "İngiliz Müziği",
+      "20. Yüzyıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6bgs7jkbw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Paris Opera Balesi'nde kullanılan kostüm malzemesi hangisidir?",
+    "explanation": "Paris Opera Balesi'nde kostümler genellikle ipek, tül ve saten gibi zarif malzemelerden yapılır. Pamuk ve yün günlük kıyafetlerde kullanılır.",
+    "options": [
+      "Pamuk",
+      "İpek",
+      "Yün",
+      "Deri"
+    ],
+    "correctAnswer": "İpek",
+    "tags": [
+      "Bale",
+      "Kostüm",
+      "Malzemeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pfwt2krsr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Rossini'nin İtalyan operaları arasında 'La Cenerentola' hangisidir?",
+    "explanation": "La Cenerentola, Rossini'nin 1817 yılında yazdığı ve 'Küçük Kız' anlamına gelen Cinderella masalı üzerine kurgulanmış operasıdır.",
+    "options": [
+      "Cinderella",
+      "Romeo ve Juliet",
+      "Beauty and the Beast",
+      "Sleeping Beauty"
+    ],
+    "correctAnswer": "Cinderella",
+    "tags": [
+      "Opera",
+      "İtalyan Müziği",
+      "Masal Tiyatrosu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bs9o54z2u",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "İtalyan operasının başlangıcıyla ilişkilendirilen, ilk opera olarak kabul edilen eserin adı nedir?",
+    "explanation": "Monteverdi'nin 1607 yılında yazdığı 'Orfeo ed Euridice', İtalyan operasının en eski ve önemli örneklerinden biridir. Müzikal tiyatrin başlangıcı olarak kabul edilir.",
+    "options": [
+      "Orfeo ed Euridice",
+      "Dido and Aeneas",
+      "Euridice",
+      "La Traviata"
+    ],
+    "correctAnswer": "Orfeo ed Euridice",
+    "tags": [
+      "opara",
+      "tarih",
+      "klasik müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7ue4ofhwx",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Bale sanatında dansçının havaya zıpladığı hareketlere ne ad verilir?",
+    "explanation": "Balede 'Saut', dansçının havaya zıpladığı hareketlere verilen genel addır. Pirouette ise yerinde dönmeyi ifade eder.",
+    "options": [
+      "Pirouette",
+      "Saut de basque",
+      "Saut",
+      "Adagio"
+    ],
+    "correctAnswer": "Saut",
+    "tags": [
+      "bale",
+      "dans",
+      "sözleşmeli sanatlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ukpaievq",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Çağdaş balede en meşhur eserlerden biri olan 'Swan Lake'ın Türkçe adını nasıl yazılır?",
+    "explanation": "'Swan Lake', Türkçede 'Beyaz Kuş Gölü' olarak bilinir. Petipa ve Ivanov tarafından koreografisi yapılmış, Tchaikovski bestesiyle ünlü bale eseridir.",
+    "options": [
+      "Havacılık Gölü",
+      "Beyaz Kuş Gölü",
+      "Göller Dansı",
+      "Kuşlar Yıllığı"
+    ],
+    "correctAnswer": "Beyaz Kuş Gölü",
+    "tags": [
+      "bale",
+      "daha",
+      "klasik müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmi5pg2df",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "Operada vokal tekniklerinden biri olan, sesin havaya yükseltildiği tekniğe ne denir?",
+    "explanation": "'Bel canto', İtalyanca 'iyi şarkı' anlamına gelir ve operada sesin havaya yükseltildiği, teknik olarak kusursuz vokal çalışmasına verilen addır.",
+    "options": [
+      "Mezzo",
+      "Bel canto",
+      "Cantabile",
+      "Forte"
+    ],
+    "correctAnswer": "Bel canto",
+    "tags": [
+      "opara",
+      "vokal teknikler",
+      "ses eğitimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0n5b7rc57",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "Bale koreografisinin temel bileşenlerinden biri olan, dansçının yere doğru eğilmesi hareketi nedir?",
+    "explanation": "'Plie', balede dansçının dizlerini bükerek yere doğru eğilmesi hareketidir. Bu hareket, dansçının denge ve esneklik kazanması için temel bir tekniktir.",
+    "options": [
+      "Plie",
+      "Tendu",
+      "Pique",
+      "Ronde de jambe"
+    ],
+    "correctAnswer": "Plie",
+    "tags": [
+      "bale",
+      "dans teknikleri",
+      "koreografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "exxdp197o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Opera'nın ilk tiyatro formu olarak kabul edilen tür hangisidir?",
+    "explanation": "Opera'nın erken dönem geleneği Commedia dell'arte adlı tiyatral formlardan etkilenmiştir. Bu komik tiyatro formu, 16. yüzyılda İtalyan şehirlerinde popüler olup operanın gelişimine katkıda bulunmuştur.",
+    "options": [
+      "Commedia dell'arte",
+      "Tragedia",
+      "Farce",
+      "Melodrama"
+    ],
+    "correctAnswer": "Commedia dell'arte",
+    "tags": [
+      "opera",
+      "tarih",
+      "tiyatro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "owdfaxwpm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Bale sanatında koreograf olarak görev alan ve dansın akışını yöneten kişi kimdir?",
+    "explanation": "Bale sanatında koreograflar, dansın akışını planlayan ve yöneten kişilerdir. Solistler sahne alan dansçılar, orkestra şefi ise müziği yöneten kişidir.",
+    "options": [
+      "Solist",
+      "Koreograflar",
+      "Yönetmen",
+      "Orkestra şefi"
+    ],
+    "correctAnswer": "Koreograflar",
+    "tags": [
+      "bale",
+      "dans",
+      "koreografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i222a0v2c",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Rossini'nin 'La Cenerentola' adlı operası hangi dönemde yazılmıştır?",
+    "explanation": "Gioachino Rossini, 1792-1868 yılları arasında yaşamış ve La Cenerentola operasını 1817 yılında yazmıştır. Bu dönem Romantik dönemin başlangıcı kabul edilir.",
+    "options": [
+      "Barok",
+      "Klasik",
+      "Romantik",
+      "Modern"
+    ],
+    "correctAnswer": "Romantik",
+    "tags": [
+      "opera",
+      "Rossini",
+      "muzika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rrsof6o9m",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "Bale dansçısının ayak üstü çalışması olarak bilinen teknik hangisidir?",
+    "explanation": "Plié, bale dansçısının dizlerini bükerek ayaklarının üzerine inmesi ve tekrar yükselmesi işlemidir. Bu temel teknik, dansın akışını ve zeminle teması sağlar.",
+    "options": [
+      "Plié",
+      "Tendu",
+      "Rond de jambe",
+      "Fondu"
+    ],
+    "correctAnswer": "Plié",
+    "tags": [
+      "bale",
+      "dans",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cswyygpc5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Sergei Diaghilev hangi dönemin opereti ve bale organizasyonlarıyla tanınır?",
+    "explanation": "Sergei Diaghilev, 1909-1929 yılları arasında Théâtre des Champs-Élysées'de organizasyon yapmış ve 20. yüzyılın en önemli bale müzisyenlerinden biri olarak kabul edilir.",
+    "options": [
+      "18. yüzyıl",
+      "19. yüzyıl",
+      "20. yüzyıl",
+      "21. yüzyıl"
+    ],
+    "correctAnswer": "20. yüzyıl",
+    "tags": [
+      "bale",
+      "opera",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8e0539wmu",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Opera ve bale sanatları hangi döneme ait gelişmiştir?",
+    "explanation": "Opera ve bale sanatları Rönesans döneminde kökler atarken, 18. yüzyılda profesyonel olarak gelişmiş ve bugünkü formuna ulaşmıştır.",
+    "options": [
+      "Orta Çağ",
+      "Rönesans",
+      "18. Yüzyıl",
+      "20. Yüzyıl"
+    ],
+    "correctAnswer": "18. Yüzyıl",
+    "tags": [
+      "tarih",
+      "opera",
+      "bale"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cejjie7uv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "İtalyan besteci Giuseppe Verdi'nin ünlü operası nedir?",
+    "explanation": "Giuseppe Verdi'nin en ünlü operalarından biri La Traviata'dır ve 1853'te İtalya'da prömiyeri yapılmıştır.",
+    "options": [
+      "La Traviata",
+      "Carmen",
+      "Aida",
+      "Tosca"
+    ],
+    "correctAnswer": "La Traviata",
+    "tags": [
+      "besteciler",
+      "verdi",
+      "opera"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tddgr4b36",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Bale danslarında kullanılan temel ayak pozisyonlarından hangisi doğru?",
+    "explanation": "Bale dansçılarının ayak parmaklarıyla zemin üzerinde dans etmesini sağlayan özel ayakkabılara 'Pointe shoes' denir.",
+    "options": [
+      "Pièce de résistance",
+      "Pointe shoes",
+      "Plie",
+      "Crescendo"
+    ],
+    "correctAnswer": "Pointe shoes",
+    "tags": [
+      "dans",
+      "terimler",
+      "bale"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ze2hfl12n",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Fransız bestecisinden ünlü bir opera hangi şehrde prömiyer yapmıştır?",
+    "explanation": "Fransız besteci Jacques Offenbach'in ünlü operaları genellikle Paris Opera'da prömiyeri yapılmıştır.",
+    "options": [
+      "Paris Opera",
+      "Venedik San Marco",
+      "Roma Colosseum",
+      "Münih Bayreuth"
+    ],
+    "correctAnswer": "Paris Opera",
+    "tags": [
+      "besteciler",
+      "opera",
+      "şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qbhbo87wx",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Bale danslarında kullanılan 'Pas de deux' terimi neyi ifade eder?",
+    "explanation": "'Pas de deux' Fransızca'dan gelir ve balede iki dansçının birlikte yaptığı özel dans parçasını ifade eder.",
+    "options": [
+      "Tek kişilik dans",
+      "İki kişilik dans",
+      "Üç kişilik dans",
+      "Grup dansı"
+    ],
+    "correctAnswer": "İki kişilik dans",
+    "tags": [
+      "dans",
+      "terimler",
+      "bale"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k4myvge1o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EASY",
+    "question": "Türkiye'de en eski ve ünlü opera binalarından biri hangisidir?",
+    "explanation": "İstanbul Devlet Opera ve Balesi, Türkiye'nin en eski ve en ünlü opera binasıdır. 1940 yılında inşa edilmiştir.",
+    "options": [
+      "İstanbul Devlet Opera ve Balesi",
+      "Ankara Sanat Tiyatrosu",
+      "İzmir Kraliyet Tiyatrosu",
+      "Bursa Şehir Opera Salonu"
+    ],
+    "correctAnswer": "İstanbul Devlet Opera ve Balesi",
+    "tags": [
+      "opera",
+      "türkiye",
+      "sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6k266t0qj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Bale dansı ile ilgili aşağıdaki terimlerden hangisi doğru tanımlamadır?",
+    "explanation": "Bale'de Adagio, yavaş ve akıcı hareketleri ifade eder. Presto çok hızlı, Andante orta tempolu yürüyüş anlamına gelir.",
+    "options": [
+      "Adagio - Yavaş hareket",
+      "Presto - Çok hızlı hareket",
+      "Andante - Orta tempolu yürüyüş",
+      "Tutti - Tüm oyuncular birlikte"
+    ],
+    "correctAnswer": "Adagio - Yavaş hareket",
+    "tags": [
+      "bale",
+      "dans",
+      "terminoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h37k1dz7c",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Şövalye'nin Sesi (La Traviata) adlı operanın bestecisi kimdir?",
+    "explanation": "La Traviata operası Giuseppe Verdi tarafından bestelenmiştir. 1853 yılında премiera yapılmıştır.",
+    "options": [
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Giacomo Puccini",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "correctAnswer": "Giuseppe Verdi",
+    "tags": [
+      "opera",
+      "besteci",
+      "verdi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tvleq9ym0",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "GENERAL",
+    "question": "Opera türünde sahne aralarında mola verilen zamana ne ad verilir?",
+    "explanation": "Intermezzo, opera sahne aralarında verilen molaya verilen isimdir. Bu süre genellikle eğlenceli sahneler içerir.",
+    "options": [
+      "Intermezzo",
+      "Finale",
+      "Recitative",
+      "Coda"
+    ],
+    "correctAnswer": "Intermezzo",
+    "tags": [
+      "opera",
+      "terim",
+      "sahne"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ufkmisfzj",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Opera ve Bale",
+    "difficulty": "EXPERT",
+    "question": "Rus besteci Pyotr Ilyich Tchaikovsky'nin en bilinen bale eseri hangisidir?",
+    "explanation": "Tchaikovsky'nin Swan Lake (Güvercin Gölü) eseri, en bilinen ve en çok sahnelenen bale eseridir. 1876 yılında bestelenmiştir.",
+    "options": [
+      "Swan Lake",
+      "The Nutcracker",
+      "Sleeping Beauty",
+      "Giselle"
+    ],
+    "correctAnswer": "Swan Lake",
+    "tags": [
+      "bale",
+      "tchaikovsky",
+      "rus sanatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

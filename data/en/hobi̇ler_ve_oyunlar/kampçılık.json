@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "na2euy064",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kampçılıkta en önemli güvenlik kurallarından biri olan 'ilk yardım' çantasında mutlaka bulunması gereken maddelerden hangisi değildir?",
+    "explanation": "İlk yardım çantasında şekerli atıştırmalık bulunmaz, bunun yerine antiseptik losyon, bandaj seti gibi tıbbi malzemeler ve düğme/ip gibi küçük onarım eşyaları yer alır.",
+    "options": [
+      "Antiseptik losyon",
+      "Bandaj seti",
+      "Şekerli atıştırmalık",
+      "Düğme ve ip"
+    ],
+    "correctAnswer": "Şekerli atıştırmalık",
+    "tags": [
+      "kampçılık",
+      "güvenlik",
+      "ilkyardım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6y4519kp5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp alanını seçerken dikkat edilmesi gereken en önemli çevre dostu faktör nedir?",
+    "explanation": "Çevreyi korumak için resmi veya meşru kamp alanlarını tercih etmek ve izinli bölgelerde kamp yapmak çevre dostu en önemli kuraldır.",
+    "options": [
+      "Mevzuatlı kamp alanları",
+      "Sessiz bölgeler",
+      "Düz araziler",
+      "Gölgeli yerler"
+    ],
+    "correctAnswer": "Mevzuatlı kamp alanları",
+    "tags": [
+      "kampçılık",
+      "çevre",
+      "kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mo4plqfxf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp ateşi yakmak için en uygun ve güvenli yöntem hangisidir?",
+    "explanation": "Kamp ateşi yakarken odunsu çubuklar en uygun ve güvenli yoldur. Yapay gaz, içme suyu ve tıbbi alkol kullanımı tehlikelidir.",
+    "options": [
+      "Odunsu çubuklar",
+      "Yapay gaz",
+      "İçme suyu",
+      "Tıbbi alkol"
+    ],
+    "correctAnswer": "Odunsu çubuklar",
+    "tags": [
+      "kampçılık",
+      "ateş",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "26g4e6cpu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp sonrası kamp alanını terk ederken hangi temizlik kuralı uygulanmalıdır?",
+    "explanation": "Kamp alanını terk ederken tüm çöpler toplanmalı, yerler hasar görmemeli ve ateş tamamen söndürülmelidir. Bunlar temel kamp kurallarıdır.",
+    "options": [
+      "Tüm çöpleri toplama",
+      "Yerleri hasarlama",
+      "Ateşi tamamen söndürme",
+      "Hepsi"
+    ],
+    "correctAnswer": "Hepsi",
+    "tags": [
+      "kampçılık",
+      "temizlik",
+      "sürdürülebilirlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "94uhvdprg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EXPERT",
+    "question": "Kampçılıkta 'Leave No Trace' (İz Bırakma) prensibi neyi ifade eder?",
+    "explanation": "Leave No Trace, kamp sırasında doğaya minimum müdahale edilmesi ve hiçbir iz bırakılmadan alanı terk edilmesini ifade eden temel kampçılık ilkesidir.",
+    "options": [
+      "Doğayı koruma",
+      "Ateş kullanımı",
+      "Yürüyüş izi bırakma",
+      "Fotoğraf çekme"
+    ],
+    "correctAnswer": "Doğayı koruma",
+    "tags": [
+      "kampçılık",
+      "doğa koruma",
+      "Leave No Trace"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mpkkestab",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "Kampçılıkta öncelikle hangi güvenlik önlemi alınmalıdır?",
+    "explanation": "Kamp alanlarında ateş güvenliği en temel ve öncelikli güvenlik önlemidir. Kamp ateşi kontrolsüz bırakılmamalı, söndürme materyalleri hazır tutulmalıdır.",
+    "options": [
+      "A) Su kaynağı",
+      "B) Ateş güvenliği",
+      "C) Yol haritası",
+      "D) İlk yardım çantası"
+    ],
+    "correctAnswer": "B) Ateş güvenliği",
+    "tags": [
+      "güvenlik",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qzbvlgt5q",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp çantası için ideal ağırlık dağılımı nedir?",
+    "explanation": "Kamp çantasında ağırlık dengeli dağıtılmalı, özellikle sırtta orta bölgeye yakın konumlandırılmalıdır. Bu şekilde yürürken denge korunur.",
+    "options": [
+      "A) Ağırlık sadece sırtta",
+      "B) Ağırlık dengeli ve ortada",
+      "C) Ağırlık tamamen altta",
+      "D) Ağırlık tamamen üstte"
+    ],
+    "correctAnswer": "B) Ağırlık dengeli ve ortada",
+    "tags": [
+      "çanta",
+      "dağılım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8g0dlvsxo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp alanında kurulan ateş için en uygun yakıt hangisidir?",
+    "explanation": "Kamp ateşi için doğal odun ve kömür en uygun yakıttır. Plastik, kağıt şişeler gibi maddeler çevre kirliliği oluşturur.",
+    "options": [
+      "A) Plastik atıklar",
+      "B) Doğal odun ve kömür",
+      "C) Kimyasallı maddeler",
+      "D) Kağıt şişeler"
+    ],
+    "correctAnswer": "B) Doğal odun ve kömür",
+    "tags": [
+      "ateş",
+      "yakıt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ggoxnln0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp sonrası alanı temiz bırakmak için 'Leave No Trace' prensibi ne demektir?",
+    "explanation": "Leave No Trace (İz Bırakma) prensibi, kamp alanını çevreye zarar vermeden temiz bırakmayı ifade eder. Çöplerinizle birlikte alanın doğal halini korumalı.",
+    "options": [
+      "A) Çöp biriktirmek",
+      "B) Hiçbir iz bırakmamak",
+      "C) Ateşi söndürmemek",
+      "D) Suyu kirletmek"
+    ],
+    "correctAnswer": "B) Hiçbir iz bırakmamak",
+    "tags": [
+      "temizlik",
+      "çevre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n9020d3j6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EXPERT",
+    "question": "Kamp alanında kurulan çadır için en önemli yerleşim kuralı nedir?",
+    "explanation": "Çadır kurarken rüzgar yönüne paralel konumlandırılması, çapraz yükten korunmayı sağlar. Ayrıca su akışına ters yönde kurmak gerekir.",
+    "options": [
+      "A) Su akışına ters",
+      "B) Rüzgar yönüne paralel",
+      "C) Dikenli arazide",
+      "D) Yükseklikte"
+    ],
+    "correctAnswer": "B) Rüzgar yönüne paralel",
+    "tags": [
+      "çadır",
+      "yerleşim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m3lvwk3ah",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "Kampçılıkta barınma için kullanılan temel yapı hangisidir?",
+    "explanation": "Kampçılıkta barınma için en temel ve yaygın kullanılan yapı çadır veya benzeri geçici bir barınak sistemidir.",
+    "options": [
+      "Rüzgarlık",
+      "Çadır",
+      "Şemsiye",
+      "Tulum"
+    ],
+    "correctAnswer": "Çadır",
+    "tags": [
+      "Kamp",
+      "Ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o79fhtx2q",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Doğa sularını içmeden önce nasıl temizlemek gerekir?",
+    "explanation": "Kaynatma, suyu içilebilir hale getiren en etkili yöntemlerden biridir ve mikroorganizmaları öldürür.",
+    "options": [
+      "Buzdolabında bekletmek",
+      "Doğrudan tüketmek",
+      "Kaynatmak",
+      "Süzüp soğuk su ile karıştırmak"
+    ],
+    "correctAnswer": "Kaynatmak",
+    "tags": [
+      "Kamp",
+      "Güvenlik",
+      "Su Temizleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f7rb5agtj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp ateşini güvenli bir şekilde yönetmek için hangi kural geçerlidir?",
+    "explanation": "Kamp ateşi açık bir yerde, yakından izlenebilir şekilde ve yanıcı malzemeden uzakta olmalıdır.",
+    "options": [
+      "Ateşi büyütüp yakmak",
+      "Canlı ağaçların kenarına kurmak",
+      "Açık alanda ve kontrol altında tutmak",
+      "Yanıcı sıvılarla beslemek"
+    ],
+    "correctAnswer": "Açık alanda ve kontrol altında tutmak",
+    "tags": [
+      "Güvenlik",
+      "Ateş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ori8mm7pr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EXPERT",
+    "question": "Harita okuyarak yön bulmak için kullanılan temel navigasyon aracı nedir?",
+    "explanation": "Pusula manyetik kuzeyi göstererek harita üzerinde yön belirleme sağlar ve pil gerektirmez.",
+    "options": [
+      "Akıllı telefon",
+      "Pusula",
+      "Radyo",
+      "Sesli saat"
+    ],
+    "correctAnswer": "Pusula",
+    "tags": [
+      "Navigasyon",
+      "Doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ze31720hd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "\"Bırakılmış İz Yok\" (Leave No Trace) ilkesine göre kamp sonrası çöplerle ne yapılmalıdır?",
+    "explanation": "Kamp alanından ayrılırken tüm atıklar (çöpler ve yemek artıkları) alınıp götürülmelidir.",
+    "options": [
+      "Doğada yakmak",
+      "Kutudan çıkarmak",
+      "Alıp götürmek",
+      "Yer altına gömmek"
+    ],
+    "correctAnswer": "Alıp götürmek",
+    "tags": [
+      "LNT",
+      "Doğa Koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w3zar8ori",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "Kampçılıkta en temel ve vazgeçilmez ekipman hangisidir?",
+    "explanation": "Çadır, dış etkenlere (yağmur, rüzgar, soğuk) karşı koruma sağlayan ve kampçının uyuduğu temel yaşam alanıdır.",
+    "options": [
+      "Çanta",
+      "Şemsiye",
+      "Çadır",
+      "Ayakkabı"
+    ],
+    "correctAnswer": "Çadır",
+    "tags": [
+      "temel",
+      "ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eo5rd4y48",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "\"Leave No Trace\" (İz Bırakma) ilkesinin amaçlarından biri nedir?",
+    "explanation": "Bu ilke, kamp alanını orijinal haline geri bırakmayı ve çevreyi en az miktarda bozmayı hedefler.",
+    "options": [
+      "Doğayı kirletmek",
+      "Atıkları gizlemek",
+      "Doğayı minimal etkilemek",
+      "Ateşi büyütmek"
+    ],
+    "correctAnswer": "Doğayı minimal etkilemek",
+    "tags": [
+      "etik",
+      "çevre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j7ik7m7mr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp alanlarında ateş güvenliği için en doğru uygulama hangisidir?",
+    "explanation": "Ateşin her zaman gözetim altında olması ve uygun bir alanda (korumalı) yakılması yangın riskini azaltır.",
+    "options": [
+      "Ateşi unutmaya bırakmak",
+      "Kontrol altında tutmak",
+      "Odunları çok büyük kılmak",
+      "Açıkta ateş yakmak"
+    ],
+    "correctAnswer": "Kontrol altında tutmak",
+    "tags": [
+      "güvenlik",
+      "ateş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8hcd3nkyl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Navigasyon cihazları arasında geleneksel bir araç hangisidir?",
+    "explanation": "Kompas ve harita, teknolojik arızadan bağımsız, güvenilir bir yönlendirme yöntemi olarak kampçıların temel becerisidir.",
+    "options": [
+      "GPS",
+      "Kompas ve Harita",
+      "Akıllı Telefon",
+      "Satelit Görüntüleyici"
+    ],
+    "correctAnswer": "Kompas ve Harita",
+    "tags": [
+      "navigasyon",
+      "araç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uv4zvc0ni",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EXPERT",
+    "question": "Uyku çantalarında \"R-Value\" terimi neyi ifade eder?",
+    "explanation": "R-Value, çantanın zeminden gelen ısı kaybını engelleyen yalıtım gücünü sayısal olarak gösterir; yüksek değerler daha iyi koruma demektir.",
+    "options": [
+      "Su direnci",
+      "Rüzgar direnci",
+      "Sıcaklık yalıtımı",
+      "Ağırlık oranı"
+    ],
+    "correctAnswer": "Sıcaklık yalıtımı",
+    "tags": [
+      "ekipman",
+      "teknik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "krz4pwclt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kampçılıkta çadır seçerken hangi faktör en önemli olmalıdır?",
+    "explanation": "Kamp sırasında çadırın hafif olması taşımayı kolaylaştırır, özellikle yürüyüş kamplarında kritik bir faktördür. Ayrıca dayanıklılık ve hava koşullarına uyum da önemlidir.",
+    "options": [
+      "Daha ucuz olması",
+      "Hafif ve kolay taşınabilirlik",
+      "Görünümü ve renk",
+      "Markanın logosu"
+    ],
+    "correctAnswer": "Hafif ve kolay taşınabilirlik",
+    "tags": [
+      "ekipman",
+      "çadır",
+      "pratik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p2dnc1ce3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp alanında yiyecek depolamak için en güvenli yöntem hangisidir?",
+    "explanation": "Yırtıcı hayvanlardan korumak için yiyecekler soğuk kutularda veya kilitli çantalarda saklanmalıdır. Bu, hem güvenlik hem de gıda bozulmasını önler.",
+    "options": [
+      "Açıkta bırakmak",
+      "Soğuk kutu veya kilitli çanta kullanmak",
+      "Mutfak masasında tutmak",
+      "Çadırın içine yerleştirmek"
+    ],
+    "correctAnswer": "Soğuk kutu veya kilitli çanta kullanmak",
+    "tags": [
+      "güvenlik",
+      "yiyecek",
+      "depolama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "llz74wa87",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp sırasında elektrik kesintisinde en gerekli ekipman hangisidir?",
+    "explanation": "Kamp alanlarında elektrik kesintisi sık yaşanır. Fener veya LED lamba, gece güvenliği ve temel aktiviteler için en kritik ekipmandır.",
+    "options": [
+      "Bilgisayar",
+      "Telefon şarj cihazı",
+      "Fener veya LED lamba",
+      "Müzik çalar"
+    ],
+    "correctAnswer": "Fener veya LED lamba",
+    "tags": [
+      "elektrik",
+      "aydınlatma",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8iaz5hrnv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp alanında çevreye zarar vermeme prensibi nedir?",
+    "explanation": "Leave No Trace (İz Bırakmadan Git) prensibi, kamp alanlarını temiz bırakmayı ve doğayı korumayı amaçlar. Tüm çöpler geri götürülmelidir.",
+    "options": [
+      "Tüm çöpleri yanına bırakmak",
+      "Leave No Trace - iz bırakmadan gitmek",
+      "Çöpü yakmak",
+      "Doğal alanlara atıksız yerleştirmek"
+    ],
+    "correctAnswer": "Leave No Trace - iz bırakmadan gitmek",
+    "tags": [
+      "çevre",
+      "sürdürülebilirlik",
+      "etik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xb8vmp55a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp için ideal su kaynağı hangisidir?",
+    "explanation": "Hareket eden su kaynakları genellikle daha temizdir. Ancak kullanılmadan önce mutlaka filtreleme veya kaynatma yapılmalıdır. Göller ve suların bir kısmı kirlenmiş olabilir.",
+    "options": [
+      "Hareket eden akarsu",
+      "Göldeki su",
+      "Toprak suları",
+      "Meyve suyu"
+    ],
+    "correctAnswer": "Hareket eden akarsu",
+    "tags": [
+      "su",
+      "güvenlik",
+      "temizlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nktn14mtx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "Kampçılıkta su içme amaçlı olarak hangi ekipman en uygun seçenektir?",
+    "explanation": "Kampçılıkta içme suyu için damıtılmış su en güvenli ve sağlıklı seçenektir, çünkü içindeki zararlı maddeler ortadan kalkar.",
+    "options": [
+      "Damıtılmış su şişesi",
+      "Kaynaksız su bidonu",
+      "Musluktan gelen su",
+      "İyonize edilmiş su"
+    ],
+    "correctAnswer": "Damıtılmış su şişesi",
+    "tags": [
+      "su_alimi",
+      "kampekipman",
+      "gunes_saglik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bhhzznx8c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi kamp ateşi yaparken yapılmaması gereken bir davranıştır?",
+    "explanation": "Ormanlık alanlarda kamp ateşi yapmak yangın riski oluşturur, bu yüzden açık ve güvenli alanlar tercih edilmelidir.",
+    "options": [
+      "Ateşi küçük tutmak",
+      "Ateşin yanındaki alanı temizlemek",
+      "Ormanlık alanda ateş açmak",
+      "Ateşe su yaklaştırarak söndürmek"
+    ],
+    "correctAnswer": "Ormanlık alanda ateş açmak",
+    "tags": [
+      "gunes_saglik",
+      "kampte_gunes_saglik",
+      "atez_gunes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2l8socku2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp uyku çantası seçerken en önemli kriter nedir?",
+    "explanation": "Kamp uyku çantası serin gecelerde vücut sıcaklığını korumalı, bu yüzden yalıtım özellikleri önemlidir.",
+    "options": [
+      "Rekabetçi renk",
+      "Sıcak tutma özelliği",
+      "Şık görünümlü",
+      "Ağır malzemeden yapılmış"
+    ],
+    "correctAnswer": "Sıcak tutma özelliği",
+    "tags": [
+      "kampekipman",
+      "uyku_gunes",
+      "kampte_gece"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ct2zrt3a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "Kamp alanını kurarken hangi bölge en uygun seçenektir?",
+    "explanation": "Ağaç gölgeli alan serin tutar, su kaynaklarına yakın olmamak gerekir ve dik yamaç tehlikelidir.",
+    "options": [
+      "Dik yamaç",
+      "Suyun yakınındaki düşük nokta",
+      "Ağaç gölgeli alan",
+      "Yüksek ve düz arazi"
+    ],
+    "correctAnswer": "Ağaç gölgeli alan",
+    "tags": [
+      "kampekipman",
+      "kampte_gece",
+      "gunes_saglik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zxgl97t0c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EXPERT",
+    "question": "Kamp çantada hangi tür kilit kullanmak daha güvenlidir?",
+    "explanation": "Akıllı kilit sistemleri daha güvenli ve erişilebilir, ayrıca elektronik sistemler modern kamplar için tercih edilir.",
+    "options": [
+      "Mekanik kilitleme",
+      "Parmak izi kilidi",
+      "Akıllı kilitleme sistemi",
+      "Basit metal zemin"
+    ],
+    "correctAnswer": "Akıllı kilitleme sistemi",
+    "tags": [
+      "kampekipman",
+      "kampte_gece",
+      "gunes_saglik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "utegxv3x1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "Kampçılıkta başlangıç seviyesindeki en temel ve vazgeçilmez ekipman hangisidir?",
+    "explanation": "Çadır, kampçıların dış ortamdan korunmasını (yağmur, rüzgar, soğuk) sağlayan en temel yapıdır ve diğer tüm malzemelerden önce temin edilmelidir.",
+    "options": [
+      "Çanta",
+      "Çadır",
+      "Şemsiye",
+      "Şapka"
+    ],
+    "correctAnswer": "Çadır",
+    "tags": [
+      "ekipman",
+      "başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ykguk9ydw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp ateşini güvenli şekilde yakarken dikkat edilmesi gereken ilk kural nedir?",
+    "explanation": "Ateşin yakıldığı alanın etrafında kurumuş bitki veya çöp olmamalıdır, aksi takdirde kontrolsüz yangın çıkma riski artar.",
+    "options": [
+      "Ateşi açık bırakmak",
+      "Yanıcı malzemelerden uzak tutmak",
+      "Çok büyük alevler oluşturmak",
+      "Gece boyunca su ile beslemek"
+    ],
+    "correctAnswer": "Yanıcı malzemelerden uzak tutmak",
+    "tags": [
+      "güvenlik",
+      "ateş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f6tfr1nx3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Pusulayı kullanarak oryantasyon yaparken kuzey yönünün bulunması neden önemlidir?",
+    "explanation": "Pusula ile kuzey noktası bulunarak harita üzerindeki yönler gerçek coğrafya ile eşleştirilir ve doğru rota izlenir.",
+    "options": [
+      "Güneşin doğuşunu bilmek",
+      "Yürüme yönünü belirlemek",
+      "Ateşi yakmak",
+      "Suya bakmak"
+    ],
+    "correctAnswer": "Yürüme yönünü belirlemek",
+    "tags": [
+      "yön bulma",
+      "navigasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rfk10d0pg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp sırasında güneş yanığına karşı alınması gereken temel önlem hangisidir?",
+    "explanation": "Güneş yanığı en yaygın kamp rahatsızlığıdır; gölge korunması ve bol su içilmesi deriyi soğuk tutarak zararını azaltır.",
+    "options": [
+      "Gölgelik kullanmak ve su tüketmek",
+      "Çok fazla yemek yemek",
+      "Ateş etrafında yatmak",
+      "Kıyafet çıkarmak"
+    ],
+    "correctAnswer": "Gölgelik kullanmak ve su tüketmek",
+    "tags": [
+      "sağlık",
+      "sun koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yvc3modsb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EXPERT",
+    "question": "İz Bırakma (Leave No Trace) prensibi kapsamında kamp alanından ayrılırken yapılması gereken en önemli işlemlerden biri hangisidir?",
+    "explanation": "Doğa ve ekosistem bütünlüğünü korumak için kamp alanı, ziyaretçiler gelmeden önceki haline getirilmelidir.",
+    "options": [
+      "Çöpü çevreye serpmek",
+      "Atıkları doğal çöplere gömmek",
+      "Alanı orijinal haline getirmek",
+      "Ateş yuvasını genişletmek"
+    ],
+    "correctAnswer": "Alanı orijinal haline getirmek",
+    "tags": [
+      "sürdürülebilirlik",
+      "etik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h3dcj1fnk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "Kampçılıkta en temel ekipman hangisidir?",
+    "explanation": "Çadır, kampçılıkta uyku ve saklanma için en temel ekipmandır. Diğer seçenekler (pistol, şemsiye, bordjoz) kampçılıkla ilgili değildir.",
+    "options": [
+      "Pistol",
+      "Şemsiye",
+      "Çadır",
+      "Bordjoz"
+    ],
+    "correctAnswer": "Çadır",
+    "tags": [
+      "ekipman",
+      "temel",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wg1usbbve",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp alanı kurarken dikkat edilmesi gereken en önemli güvenlik kuralları nelerdir?",
+    "explanation": "Kamp alanı kurarken su kaynakları yakını, düz ve geniş araziler tercih edilmelidir. Ağaçların altında veya yamaç kenarında çadır kurmak tehlikelidir.",
+    "options": [
+      "Su kaynaklarına yakın yer seçmek",
+      "Ağaçların altına çadır kurmak",
+      "Yamaç kenarına yerleşmek",
+      "Düşük alan tercih etmek"
+    ],
+    "correctAnswer": "Su kaynaklarına yakın yer seçmek",
+    "tags": [
+      "güvenlik",
+      "kurallar",
+      "alan seçimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7pjt1aa40",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp ateşi için en güvenli yakıt hangisidir?",
+    "explanation": "Kamp ateşi için kuru odun en güvenli ve çevre dostu yakıttır. Maden yağı, plastik atık veya kimyasallar yangın riski oluşturur.",
+    "options": [
+      "Maden yağı",
+      "Kuru odun",
+      "Plastik atık",
+      "Kimyasallar"
+    ],
+    "correctAnswer": "Kuru odun",
+    "tags": [
+      "ateş",
+      "yakıt",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ehokauavf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp sırasında yiyecek saklama için en uygun yöntem hangisidir?",
+    "explanation": "Kamp sırasında yiyeceklerin soğuk kutu veya termostat ile saklanması, bakteri oluşumunu önler ve hijyen sağlar.",
+    "options": [
+      "Açıkta bırakmak",
+      "Soğuk kutu/termostat kullanmak",
+      "Isıtmalı çanta",
+      "Doğal ışık altında"
+    ],
+    "correctAnswer": "Soğuk kutu/termostat kullanmak",
+    "tags": [
+      "yiyecek",
+      "saklama",
+      "hijyen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ovnru0gf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EXPERT",
+    "question": "Acil durumda kampçılıkta kullanılacak en önemli iletişim cihazı nedir?",
+    "explanation": "Uzak kamp alanlarında telefon veya radyo çalışmayabilir. Satelit iletişim cihazı acil durumlarda en güvenilir iletişim yöntemidir.",
+    "options": [
+      "Telefon",
+      "Radyo",
+      "Satelit iletişim cihazı",
+      "Konuşan kedi"
+    ],
+    "correctAnswer": "Satelit iletişim cihazı",
+    "tags": [
+      "acil durum",
+      "iletişim",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y5gq5lsrk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp ateşi güvenliğinde, ateş yakılan yer ile ağaçlar veya yapılar arasında en az kaç metre mesafe tutulmalıdır?",
+    "explanation": "Ateş güvenliği kurallarına göre, bitkilerin ve yapıların yanmasını engellemek için en az 5 metre mesafe tutulması önerilir.",
+    "options": [
+      "2 metre",
+      "5 metre",
+      "10 metre",
+      "3 metre"
+    ],
+    "correctAnswer": "5 metre",
+    "tags": [
+      "Güvenlik",
+      "Kamp",
+      "Doğa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8k2sqwnni",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "\"Leave No Trace\" (İz Bırakma) prensibine göre kamp alanından ayrılırken atık yönetimi için en doğru yaklaşım nedir?",
+    "explanation": "Leave No Trace (İz Bırakma) prensibi kapsamında, kamp alanındaki tüm atıkların alınması ve çevreyi kirletmemek için orijinal ambalajında taşınması gereklidir.",
+    "options": [
+      "Küçük çöpleri toprağa gömmek",
+      "Tüm atıkları orijinal ambalajında alıp yanına götürmek",
+      "Atıkları yakın bir nehre bırakmak",
+      "Ağaç dallarını yakarak atık oluşturmak"
+    ],
+    "correctAnswer": "Tüm atıkları orijinal ambalajında alıp yanına götürmek",
+    "tags": [
+      "Doğa Koruma",
+      "Sürdürülebilirlik",
+      "Atık Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j6qnh57fa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Uyku çantalarında belirtilen \"Confort Rating\" (Rahatlık Derecesi) neyi ifade eder?",
+    "explanation": "Comfort Rating, kullanıcıyı uyku çantasının içinde rahat hissettiği sıcaklık seviyesini belirtirken, Limit Rating tamamen donmaya tahammül edebilen derecedir.",
+    "options": [
+      "Çantanın tamamen kuru durduğu sıcaklık",
+      "Kullanıcıya konfor sağlayan sıcaklık derecesi",
+      "Sadece çanta kullanıldığında rahat olunan sıcaklık",
+      "Çantanın dondurulmaya başlandığı sıcaklık"
+    ],
+    "correctAnswer": "Kullanıcıya konfor sağlayan sıcaklık derecesi",
+    "tags": [
+      "Ekipman",
+      "Uyku Çantası",
+      "Termal Bilişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qbfmduwv5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "EASY",
+    "question": "Su arıtma tüplerini kullanırken filtre değişim süresini takip etmemenin en büyük riski nedir?",
+    "explanation": "Filtrelerin önerilen sürede değiştirilmemesi, filtreden geçen suyun içine bakteri ve mikropların karışmasına neden olabilir.",
+    "options": [
+      "Tüpün ağırlaşması",
+      "Su damıtılamaması",
+      "Filtredeki mikropların suya karışması",
+      "Tüpün patlaması"
+    ],
+    "correctAnswer": "Filtredeki mikropların suya karışması",
+    "tags": [
+      "Su Arıtma",
+      "Sağlık",
+      "Kamp Aletleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0921vmfpm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Çadır kurulumunda, rüzgarın etkisini azaltmak ve çadırlı alanı korumak için hangi ipleme tekniği tercih edilir?",
+    "explanation": "Rüzgar direncini sağlamak için çadır ayakları sağlam zemine çakılmalı ve germe ipi (guy line) kullanarak rüzgara karşı sabitlenmelidir.",
+    "options": [
+      "Çadır kapısını rüzgar yönüne kapatmak",
+      "Çadır ayaklarını toprağa sağlam yerleştirmek ve ip çekmek",
+      "Rüzgar yönüne çadır kapısını karşıya açmak",
+      "Çadırı zemine tam yapıştırmak"
+    ],
+    "correctAnswer": "Çadır ayaklarını toprağa sağlam yerleştirmek ve ip çekmek",
+    "tags": [
+      "Kurulum",
+      "Kampçılık",
+      "Güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xmin5qknr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kampçılıkta ateş yakarken hangi güvenlik önlemi EN ÖNEMLİSİdir?",
+    "explanation": "Kamp ateşleri mutlaka açık, düz ve kontrol edilebilir alanlarda yakılmalı. Su kenarında tehlikeli olabilir çünkü suyun buharlaşmasıyla patlama riski vardır.",
+    "options": [
+      "Ateşi doğrudan suyun kenarında yakmak",
+      "Ateşi her zaman açık alanda ve kontrol edilebilir bir yerde tutmak",
+      "Ateşin üzerinde büyük miktarda yemek hazırlamak",
+      "Ateşi rüzgar yönüne doğru koymak"
+    ],
+    "correctAnswer": "Ateşi her zaman açık alanda ve kontrol edilebilir bir yerde tutmak",
+    "tags": [
+      "güvenlik",
+      "ateş",
+      "kampçılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0eyedd0vs",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp çantanızda bulunması gereken EN KRİTİK acil durum malzemesi nedir?",
+    "explanation": "İlk yardım çantası yaralanmalar için, iletişim cihazı ise acil durumlarda profesyonel yardım çağırmanız için kritiktir.",
+    "options": [
+      "Yeni bir kamp şemsiyesi",
+      "İlk yardım çantası ve iletişim cihazı",
+      "Ekstra battaniye",
+      "Kamp mutfak seti"
+    ],
+    "correctAnswer": "İlk yardım çantası ve iletişim cihazı",
+    "tags": [
+      "acil durum",
+      "malzeme",
+      "güvenlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ka9m5et6f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp yerinde su bulmak istiyorsanız en güvenilir yöntem hangisidir?",
+    "explanation": "Doğal göller ve nehirler genellikle daha temiz su kaynaklarıdır. Ancak bu suların mutlaka filtrelenmesi veya kaynatılması gerekir.",
+    "options": [
+      "Her bitkiden su içmek",
+      "Göller ve nehirlerden temiz suyu toplamak",
+      "Rüzgar yönüne bakarak su aramak",
+      "Yer altı suları için kazmak"
+    ],
+    "correctAnswer": "Göller ve nehirlerden temiz suyu toplamak",
+    "tags": [
+      "su",
+      "temizlik",
+      "kampçılık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5duiw7535",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kamp ateşini söndürmek için en doğru yöntem nedir?",
+    "explanation": "Ateşi tamamen söndürmek için önce su döküp sonra toprak serpmek gerekir. Kalan kıvılcım yangın riski oluşturabilir.",
+    "options": [
+      "Ateşi suyla boğup, üzerine toprak serperek",
+      "Sadece su dökerek",
+      "Rüzgarla söndürmeye çalışmak",
+      "Kıvılcım bırakana kadar beklemek"
+    ],
+    "correctAnswer": "Ateşi suyla boğup, üzerine toprak serperek",
+    "tags": [
+      "ateş",
+      "güvenlik",
+      "söndürme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gfwhybgxy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Kampçılık",
+    "difficulty": "GENERAL",
+    "question": "Kampçılıkta 'Leave No Trace' (Tak kalmama) prensibi nedir?",
+    "explanation": "Leave No Trace, kamp sonrası doğal alana hiçbir iz bırakmadan ve çevreye zarar vermeksizin temiz bir şekilde ayrılması anlamına gelir.",
+    "options": [
+      "Doğaya zarar vermeden kamp yapmak",
+      "Kamp sonrası tüm çöpleri bırakmak",
+      "Hayvanları beslemek",
+      "Orman ateşi yakarak alan hazırlamak"
+    ],
+    "correctAnswer": "Doğaya zarar vermeden kamp yapmak",
+    "tags": [
+      "çevre",
+      "doğa",
+      "sürdürülebilirlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

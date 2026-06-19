@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "lh34cnw29",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir ağ kablo türü değildir?",
+    "explanation": "Ethernet Card (Ethernet Kartı) bir ağ kablosu değil, bilgisayarın ağa bağlanmasını sağlayan bir ağ kartıdır. UTP, Fiber Optic ve Coaxial ise tümü yaygın kullanılan ağ kablo türleridir.",
+    "options": [
+      "UTP (Twisted Pair)",
+      "Fiber Optic",
+      "Coaxial",
+      "Ethernet Card"
+    ],
+    "correctAnswer": "Ethernet Card",
+    "tags": [
+      "Ağ Kabloları",
+      "Donanım",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h0oid23df",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Bir TCP/IP ağında IP adresi kaç bit uzunluğundadır?",
+    "explanation": "IPv4 adresleri 32 bit uzunluğundadır ve genellikle noktalı-ondalık notasyon (örneğin: 192.168.1.1) ile ifade edilir.",
+    "options": [
+      "16 bit",
+      "32 bit",
+      "64 bit",
+      "128 bit"
+    ],
+    "correctAnswer": "32 bit",
+    "tags": [
+      "IP Adresi",
+      "TCP/IP",
+      "Ağ Protokolleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6rbx8xagx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ağ cihazlarından hangisi paketlere göre yoldan geçiş yapar?",
+    "explanation": "Switch (Anahtar), Layer 2 ağ cihazıdır ve MAC adreslerine göre paketlere yoldan geçiş yapar. Hub sadece sinyali tüm portlara dağıtır, Bridge iki segmenti bağlar.",
+    "options": [
+      "Hub",
+      "Switch",
+      "Repeater",
+      "Bridge"
+    ],
+    "correctAnswer": "Switch",
+    "tags": [
+      "Ağ Cihazları",
+      "Layer 2",
+      "Donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0oey5ddp5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "Subnet mask'ın işlevi nedir?",
+    "explanation": "Subnet mask, IP adresinin hangi kısmının yerel ağ (network) bilgisini, hangi kısmının host bilgisini temsil ettiğini belirterek ağ ve cihaz ayırımı yapar.",
+    "options": [
+      "IP adresini doğrulamak",
+      "Yerel ağ ile uzak ağ arasındaki ayrımı yapmak",
+      "Port numarasını belirlemek",
+      "Paket hızını artırmak"
+    ],
+    "correctAnswer": "Yerel ağ ile uzak ağ arasındaki ayrımı yapmak",
+    "tags": [
+      "Subnet Mask",
+      "IP Adresi",
+      "Ağ Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "en59f0iti",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Aşağıdakilerden hangisi bir kablosuz ağ standartıdır?",
+    "explanation": "Wi-Fi, IEEE 802.11 standardına göre çalışan kablosuz yerel ağ (WLAN) teknolojisidir. Bluetooth, Zigbee ve NFC farklı amaçlara sahip diğer kablosuz teknolojilerdir.",
+    "options": [
+      "Wi-Fi (IEEE 802.11)",
+      "Bluetooth",
+      "Zigbee",
+      "NFC"
+    ],
+    "correctAnswer": "Wi-Fi (IEEE 802.11)",
+    "tags": [
+      "Kablosuz Ağlar",
+      "Wi-Fi",
+      "Standartlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rng8ga9hk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Which layer of the OSI model is responsible for routing data between networks?",
+    "explanation": "The Network Layer (Layer 3) handles logical addressing and routing between different networks using protocols like IP.",
+    "options": [
+      "A) Data Link Layer",
+      "B) Network Layer",
+      "C) Transport Layer",
+      "D) Session Layer"
+    ],
+    "correctAnswer": "B) Network Layer",
+    "tags": [
+      "OSI Model",
+      "Networking Fundamentals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nulv9tsnj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "What class does the IP address 192.168.100.5 belong to?",
+    "explanation": "Class C addresses have the first octet range of 192-223, making this a private Class C address used in home networks.",
+    "options": [
+      "A) Class A",
+      "B) Class B",
+      "C) Class C",
+      "D) Class D"
+    ],
+    "correctAnswer": "C) Class C",
+    "tags": [
+      "IP Addressing",
+      "Networking Basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i9ugdkr5k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Which networking device is primarily used to connect multiple networks?",
+    "explanation": "Routers are designed to route traffic between different networks, whereas switches operate within a single network segment.",
+    "options": [
+      "A) Switch",
+      "B) Hub",
+      "C) Router",
+      "D) Bridge"
+    ],
+    "correctAnswer": "C) Router",
+    "tags": [
+      "Networking Hardware",
+      "Devices"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iz9eh8d93",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Which protocol ensures secure communication over HTTP?",
+    "explanation": "HTTPS extends HTTP with SSL/TLS encryption to protect data in transit, commonly used for web browsing and sensitive transactions.",
+    "options": [
+      "A) FTP",
+      "B) SMTP",
+      "C) HTTPS",
+      "D) POP3"
+    ],
+    "correctAnswer": "C) HTTPS",
+    "tags": [
+      "Security Protocols",
+      "HTTP/HTTPS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6lakw3xlj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "How many usable host addresses are available in a /24 network?",
+    "explanation": "A /24 network uses 24 bits for the network portion, leaving 8 bits for hosts. Total addresses are 2^8 = 256, minus 2 (network and broadcast) gives 254 usable hosts.",
+    "options": [
+      "A) 254",
+      "B) 252",
+      "C) 256",
+      "D) 248"
+    ],
+    "correctAnswer": "A) 254",
+    "tags": [
+      "Subnetting",
+      "CIDR"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2iio85oep",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki ağ türlerinden hangisi yerel bir ağı (LAN) tanımlar?",
+    "explanation": "LAN (Local Area Network) - Yerel Alan Ağı, tek bir bina veya küçük bir alanı kapsayan yerel ağ türüdür.",
+    "options": [
+      "WAN - Geniş Alan Ağı",
+      "MAN - Metropolen Alan Ağı",
+      "LAN - Yerel Alan Ağı",
+      "PAN - Kişisel Alan Ağı"
+    ],
+    "correctAnswer": "LAN - Yerel Alan Ağı",
+    "tags": [
+      "Ağ Türleri",
+      "Temel Ağ Kavramları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bwnxkoc5y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "IP adresi aşağıdaki hangi sistem tarafından kullanılır?",
+    "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) internet ve yerel ağlarda IP adreslendirmesi için kullanılan temel protokol sistemidir.",
+    "options": [
+      "TCP/IP",
+      "HTTP/HTTPS",
+      "DNS",
+      "SMTP"
+    ],
+    "correctAnswer": "TCP/IP",
+    "tags": [
+      "Protokoller",
+      "Ağ Adresleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9key1iyj8",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Hangisi bir ağ cihazıdır?",
+    "explanation": "Router (Yönlendirici), farklı ağlar arası veri trafiğini yönlendiren temel bir ağ donanımdır.",
+    "options": [
+      "Monitor",
+      "Mouse",
+      "Router",
+      "Printer"
+    ],
+    "correctAnswer": "Router",
+    "tags": [
+      "Ağ Cihazları",
+      "Donanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "73ilityfd",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "DNS (Domain Name System) hangi işlevi görür?",
+    "explanation": "DNS, domain adlarını (örneğin www.example.com) IP adreslerine (örneğin 192.168.1.1) çevirmek için kullanılan bir sistemdir.",
+    "options": [
+      "IP adreslerini kullanıcı isimine çevirir",
+      "Veri şifrelemesi yapar",
+      "Ağ güvenlik duvarı oluşturur",
+      "Dosya paylaşımı sağlar"
+    ],
+    "correctAnswer": "IP adreslerini kullanıcı isimine çevirir",
+    "tags": [
+      "DNS",
+      "Protokoller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hnyclnnlr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Hangisi HTTP protokolünün en doğru açıklamasıdır?",
+    "explanation": "HTTP (Hypertext Transfer Protocol), web tarayıcıları ile web sunucuları arasında bilgi alışverişi için kullanılan temel protokoldür.",
+    "options": [
+      "Veri tabanı yönetimi",
+      "Web sayfası istemci-sunucu iletişimi",
+      "Dosya transferi protokolü",
+      "E-posta gönderme protokolü"
+    ],
+    "correctAnswer": "Web sayfası istemci-sunucu iletişimi",
+    "tags": [
+      "HTTP/HTTPS",
+      "Protokoller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e3envqfz4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Ağ teknolojilerinde TCP/IP protokolü ne işlevi görür?",
+    "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol), internet ve yerel ağlarda iletişim kurmak için temel protokol setidir. Veri aktarımı, adresleme ve yönlendirme işlevlerini sağlar.",
+    "options": [
+      "Sadece veri şifreleme yapar",
+      "İnternet iletişim standartlarını sağlar",
+      "Sadece yerel ağ yönetimini kontrol eder",
+      "Veritabanı bağlantısı kurar"
+    ],
+    "correctAnswer": "İnternet iletişim standartlarını sağlar",
+    "tags": [
+      "TCP/IP",
+      "Protokol",
+      "Ağ Standartları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b4ztanceg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "IP v4 adresinin kaç bit uzunluğunda olduğuna dair doğru bilgi hangisidir?",
+    "explanation": "IPv4 adresleri 32 bit uzunluğundadır. Bu da her IP adresinin 4 bölüm (octet) halinde yazılabilmesine olanak tanır: XXX.XXX.XXX.XXX formatında.",
+    "options": [
+      "16 bit",
+      "24 bit",
+      "32 bit",
+      "64 bit"
+    ],
+    "correctAnswer": "32 bit",
+    "tags": [
+      "IP Adresi",
+      "IPv4",
+      "Ağ Adresleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7kd257651",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Ağ topolojilerinden 'Star Topoloji'de cihazların bağlandığı ana bileşen nedir?",
+    "explanation": "Star topolojisinde, tüm cihazlar merkezi bir ana bileşene (genellikle Switch) bağlanır. Switch, farklı portlardan gelen verileri doğru hedefe yönlendirir.",
+    "options": [
+      "Hub",
+      "Router",
+      "Switch",
+      "Bridge"
+    ],
+    "correctAnswer": "Switch",
+    "tags": [
+      "Ağ Topolojisi",
+      "Star Topoloji",
+      "Network Hardware"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5vrx81ksf",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Ethernet standardı IEEE 802.3 hangi ağ teknolojisini tanımlar?",
+    "explanation": "IEEE 802.3 standardı, Ethernet kablosu kullanarak kablolu yerel ağ (LAN) iletişimini tanımlar. Wi-Fi ise IEEE 802.11 standardına aittir.",
+    "options": [
+      "Kablosuz ağ (Wi-Fi)",
+      "Mekanik veri aktarım",
+      "Kablolu yerel ağ (LAN)",
+      "Uzaktan erişim"
+    ],
+    "correctAnswer": "Kablolu yerel ağ (LAN)",
+    "tags": [
+      "Ethernet",
+      "IEEE 802.3",
+      "LAN"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w0ftyc1zi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "Router ve Switch arasındaki temel fark nedir?",
+    "explanation": "Router, farklı ağlar (subnetler) arasında IP adreslerine göre paket yönlendirirken; Switch, aynı ağ içindeki cihazlar arası veri aktarımında MAC adreslerini kullanır. Router katman 3, Switch katman 2'de çalışır.",
+    "options": [
+      "Router sadece veri paketlerini yönlendirirken, Switch MAC adreslerine göre paketleri dağıtır",
+      "Router ve Switch aynı işlevi görür",
+      "Sadece Router IP adresi kullanır, Switch kullanmaz",
+      "Switch sadece kablosuz ağ için kullanılır"
+    ],
+    "correctAnswer": "Router sadece veri paketlerini yönlendirirken, Switch MAC adreslerine göre paketleri dağıtır",
+    "tags": [
+      "Router vs Switch",
+      "Ağ Yönlendirme",
+      "Network Hardware"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wi8szrg76",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki OSI katmanlarından hangisi fiziksel iletimden sorumludur?",
+    "explanation": "Fiziksel katman, verilerin kabloya veya wireless sinyale dönüştürülmesi ve iletilmesini sağlar. Diğer katmanlar daha yüksek seviyelerdeki işlevleri üstlenir.",
+    "options": [
+      "A) Veri Linki Katmanı",
+      "B) Ağ Katmanı",
+      "C) Fiziksel Katman",
+      "D) Uygulama Katmanı"
+    ],
+    "correctAnswer": "C) Fiziksel Katman",
+    "tags": [
+      "OSI Model",
+      "Network Layers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "knl0e4of4",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "IPv4 adreslendirmesinde Class C ağların varsayılan alt ağ maskesi nedir?",
+    "explanation": "Class C ağları için varsayılan alt ağ maskesi 255.255.255.0'dır, bu da son 8 biti host adresi olarak kullanır. Diğer seçenekler farklı sınıflara aittir.",
+    "options": [
+      "A) 255.0.0.0",
+      "B) 255.255.0.0",
+      "C) 255.255.255.0",
+      "D) 255.255.255.128"
+    ],
+    "correctAnswer": "C) 255.255.255.0",
+    "tags": [
+      "IPv4 Addressing",
+      "Subnetting"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "owh2bcjrn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "VLAN'ların temel amacı nedir?",
+    "explanation": "VLAN'lar, fiziksel ağ kesimlerinin aynı anda birden fazla kesime bölmek için kullanılır. Mantıksal segmentasyon sağlar. Diğer seçenekler VLAN'ın temel işlevi değildir.",
+    "options": [
+      "A) Ağ trafiğini artırmak",
+      "B) Farklı ağları birleştirmek",
+      "C) Ağ kesimleri mantıksal olarak ayırmak",
+      "D) Güvenlik duvarı kurmak"
+    ],
+    "correctAnswer": "C) Ağ kesimleri mantıksal olarak ayırmak",
+    "tags": [
+      "VLAN",
+      "Network Segmentation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4i0u52b7n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "OSPF ve BGP protokollerinden hangisi link-state (bağ durum) protokolüdür?",
+    "explanation": "OSPF, bağlantı durumunu kullanan bir link-state protokolüdür. BGP ise path-vector ve EIGRP hybrid bir protokoldür. RIP distance-vector kullanır.",
+    "options": [
+      "A) BGP",
+      "B) RIP",
+      "C) EIGRP",
+      "D) OSPF"
+    ],
+    "correctAnswer": "D) OSPF",
+    "tags": [
+      "Routing Protocols",
+      "Link-State"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nusfrfhfi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Ağ güvenlik duvarının temel işlevi nedir?",
+    "explanation": "Güvenlik duvarları, ağ erişim kısıtlamaları yapar ve gelen/giden trafiği filtreler. Diğer seçenekler farklı ağ servislerinin işlevleridir.",
+    "options": [
+      "A) IP adreslerini dinamik olarak dağıtmak",
+      "B) Gelen ve giden ağ trafiğini kontrol etmek",
+      "C) DNS sorgularını yönlendirmek",
+      "D) HTTP sunucusu kurmak"
+    ],
+    "correctAnswer": "B) Gelen ve giden ağ trafiğini kontrol etmek",
+    "tags": [
+      "Network Security",
+      "Firewall"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yopcoji8k",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Ağ kablolarından hangisi yüksek bant genişliği ve uzun mesafe ile çalışır?",
+    "explanation": "Fiber Optic (optik fiber) kablolar en yüksek bant genişliğine sahip olup, ışık iletim sayesinde uzun mesafelerde sinyal kaybı olmadan veri gönderir.",
+    "options": [
+      "UTP",
+      "STP",
+      "Fiber Optic",
+      "Coaxial"
+    ],
+    "correctAnswer": "Fiber Optic",
+    "tags": [
+      "ağ kablosu",
+      "bant genişliği",
+      "fiber optik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3eafwmvnk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "TCP/IP protokolü hangi ağ katmanında çalışır?",
+    "explanation": "TCP/IP'de İnternet Katmanı (IP katmanı) ağ adresleme ve paket yönlendirmesinden sorumludur.",
+    "options": [
+      "Veri Bağlayıcı",
+      "İnternet",
+      "Uygulama",
+      "Ağ"
+    ],
+    "correctAnswer": "İnternet",
+    "tags": [
+      "tcp ip",
+      "protokol",
+      "katman modeli"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mrq6vptij",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Hangisi bir kablosuz ağ güvenlik standardıdır?",
+    "explanation": "WEP (Wired Equivalent Privacy) eski bir wireless ağ güvenlik protokolüdür.",
+    "options": [
+      "WEP",
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "correctAnswer": "WEP",
+    "tags": [
+      "kablosuz ağ",
+      "güvenlik",
+      "wireless"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m1782mt28",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "IP adresi kaç bittir?",
+    "explanation": "IPv4 adresleri 32 bit (4 byte) uzunluğundadır.",
+    "options": [
+      "16 bit",
+      "24 bit",
+      "32 bit",
+      "64 bit"
+    ],
+    "correctAnswer": "32 bit",
+    "tags": [
+      "ip adresi",
+      "ağ adresleme",
+      "binary"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ixugq6jr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "Router hangi katmanda veri yönlendirir?",
+    "explanation": "Router'lar Layer 3 (İnternet Katmanı) üzerinde IP adresleri kullanarak paket yönlendirir.",
+    "options": [
+      "Layer 1 - Fiziksel",
+      "Layer 2 - Veri Bağlayıcı",
+      "Layer 3 - İnternet",
+      "Layer 4 - Uygulama"
+    ],
+    "correctAnswer": "Layer 3 - İnternet",
+    "tags": [
+      "router",
+      "katman",
+      "yönlendirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7k2na9u31",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki ağ türlerinden hangisi yerel alan ağı (LAN) örneğidir?",
+    "explanation": "SAN (Storage Area Network), yerel alanda kullanılan ağ tipidir. LAN (Local Area Network) de aynı kategoriye girer.",
+    "options": [
+      "MAN",
+      "WAN",
+      "SAN",
+      "PAN"
+    ],
+    "correctAnswer": "SAN",
+    "tags": [
+      "ağ-türleri",
+      "LAN",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1y5zai6cr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP protokol ailesinde IP adreslerinin kaç bit uzunluğunda olduğunun doğru tanımı hangisidir?",
+    "explanation": "IPv4 adresleri 32 bit uzunluğundadır. IPv6 ise 128 bit kullanır.",
+    "options": [
+      "32 bit",
+      "64 bit",
+      "128 bit",
+      "256 bit"
+    ],
+    "correctAnswer": "32 bit",
+    "tags": [
+      "TCP/IP",
+      "IP-adresi",
+      "protokol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xw1c4b22c",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Ağ cihazlarından hangisi farklı ağları birbirine bağlamak ve yönlendirme işlevi görür?",
+    "explanation": "Router, farklı ağlar arası yönlendirme (routing) yapar. Switch ise aynı ağ içinde çalışır.",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Access Point"
+    ],
+    "correctAnswer": "Router",
+    "tags": [
+      "ağ-cihazları",
+      "routers",
+      "yönlendirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5k38g4e4n",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "IP adresi 192.168.1.50 hangi sınıflı IP adresine aittir?",
+    "explanation": "192.168.x.x adresleri C sınıfı IP adreslerine aittir (192-223 arası). A: 1-126, B: 128-191.",
+    "options": [
+      "A sınıfı",
+      "B sınıfı",
+      "C sınıfı",
+      "D sınıfı"
+    ],
+    "correctAnswer": "C sınıfı",
+    "tags": [
+      "IP-sınıfları",
+      "adresleme",
+      "networking"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qyeb50qok",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "Ağ güvenliği için aşağıdaki protokollerden hangisi şifreleme ve kimlik doğrulama sağlar?",
+    "explanation": "SSL/TLS, güvenli veri aktarımı ve kimlik doğrulama sağlar. HTTP, FTP, SMTP şifresizdir.",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SSL/TLS",
+      "SMTP"
+    ],
+    "correctAnswer": "SSL/TLS",
+    "tags": [
+      "ağ-güvenliği",
+      "şifreleme",
+      "protokol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "odst3117v",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Ağdaki cihazların birbirleriyle iletişimini sağlayan temel katman nedir?",
+    "explanation": "Ağ katmanı, IP adreslemesi ve paket yönlendirmesi gibi işlevleri yürütür ve cihazların ağ üzerindeki konumunu belirler.",
+    "options": [
+      "Fiziksel Katman",
+      "Veri Bağlantı Katmanı",
+      "Ağ Katmanı",
+      "Uygulama Katmanı"
+    ],
+    "correctAnswer": "Ağ Katmanı",
+    "tags": [
+      "OSI Model",
+      "Network Layers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "genherzgh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Hangi ağ cihazı, bir veya daha fazla ağ arasında veri akışını yönetir?",
+    "explanation": "Router, farklı ağlar arasında veri paketlerini yönlendirir ve IP adresleri kullanarak en iyi yolu belirler.",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Bridge"
+    ],
+    "correctAnswer": "Router",
+    "tags": [
+      "Network Devices",
+      "Routing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qumqu0mfq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "Hangi protokol, TCP/IP modelinde bağlantıyı kuran ve sunucuyu tanımlayan işlevi görür?",
+    "explanation": "HTTP (HyperText Transfer Protocol), web istemcisi ve sunucu arasında veri transferi için temel protokol olarak kullanılır.",
+    "options": [
+      "DHCP",
+      "DNS",
+      "HTTP",
+      "FTP"
+    ],
+    "correctAnswer": "HTTP",
+    "tags": [
+      "Network Protocols",
+      "TCP/IP"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2jm9outml",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "IPv4 adresi kaç bit uzunluğundadır?",
+    "explanation": "IPv4 adresleri 32 bit uzunluğundadır ve noktalı ondalık gösterimle (örn: 192.168.1.1) yazılır.",
+    "options": [
+      "16 Bit",
+      "24 Bit",
+      "32 Bit",
+      "64 Bit"
+    ],
+    "correctAnswer": "32 Bit",
+    "tags": [
+      "IP Addressing",
+      "Networking Basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hlsce004s",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "Ağ güvenliği için hangi teknoloji, cihazların kimliğini doğrular?",
+    "explanation": "RADIUS (Remote Authentication Dial-In User Service), ağ erişimi için kullanıcı kimliğini merkezi bir sunucuda doğrular.",
+    "options": [
+      "VLAN",
+      "ACL",
+      "NAT",
+      "RADIUS"
+    ],
+    "correctAnswer": "RADIUS",
+    "tags": [
+      "Network Security",
+      "Authentication"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmguv7g1t",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki ağ türlerinden hangisi, kablolu iletişim ortamını kullanır?",
+    "explanation": "LAN (Local Area Network), yerel alan ağı, genellikle bir bina veya campus içinde kablolu iletişim (Ethernet) kullanarak çalışır.",
+    "options": [
+      "SAN",
+      "MAN",
+      "LAN",
+      "WAN"
+    ],
+    "correctAnswer": "LAN",
+    "tags": [
+      "ağ-türleri",
+      "kablolu-ağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "op34ufaxb",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "TCP/IP modelinin hangi katmanı, verilerin iletiminde fiziksel bağlantıyı sağlar?",
+    "explanation": "TCP/IP modelinin Veri İletimi (Network Interface) katmanı, verilerin fiziksel ağ üzerinden iletimini sağlar ve MAC adreslerini kullanır.",
+    "options": [
+      "Uygulama Katmanı",
+      "İnternet Katmanı",
+      "Taşıma Katmanı",
+      "Veri İletimi Katmanı"
+    ],
+    "correctAnswer": "Veri İletimi Katmanı",
+    "tags": [
+      "TCP/IP-model",
+      "katmanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2e2ypor77",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "IP adreslendirmesinde kullanılan IPv6 protokolü hangi formatta yazılır?",
+    "explanation": "IPv6, 128 bit uzunluğunda ve hexadecimal (16'lı sayı sistemi) formatta yazılır. Örnek: 2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+    "options": [
+      "32 bit ondalık",
+      "128 bit hexadecimal",
+      "64 bit binary",
+      "128 bit ondalık"
+    ],
+    "correctAnswer": "128 bit hexadecimal",
+    "tags": [
+      "IPv6",
+      "IP-adreslendirmesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rpzah0s67",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Ethernet ağlarında MAC adresi kaç bit uzunluğundadır?",
+    "explanation": "Ethernet'de kullanılan MAC (Media Access Control) adresi 48 bit uzunluğundadır ve genellikle 6 parçalı hexadecimal formatta gösterilir.",
+    "options": [
+      "16 bit",
+      "24 bit",
+      "32 bit",
+      "48 bit"
+    ],
+    "correctAnswer": "48 bit",
+    "tags": [
+      "Ethernet",
+      "MAC-adresi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8o5x2ybq1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "Ağlarda routing işlemi hangi cihaz tarafından gerçekleştirilir?",
+    "explanation": "Router, farklı ağlar arası veri paketlerini yönlendirir (routing) ve IP adresleri kullanarak ağların birbirine bağlanmasını sağlar.",
+    "options": [
+      "Switch",
+      "Hub",
+      "Router",
+      "Bridge"
+    ],
+    "correctAnswer": "Router",
+    "tags": [
+      "ağ-cihazları",
+      "routing"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ggpkvp5mn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "In the OSI model, which layer is responsible for routing data between different networks?",
+    "explanation": "Routing occurs at the Network Layer (Layer 3) of the OSI model, which handles logical addressing and path determination between networks.",
+    "options": [
+      "A) Transport Layer",
+      "B) Session Layer",
+      "C) Network Layer",
+      "D) Data Link Layer"
+    ],
+    "correctAnswer": "C) Network Layer",
+    "tags": [
+      "OSI Model",
+      "Network Layers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0qmlz7r1v",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Which network protocol typically operates on port number 53?",
+    "explanation": "DNS (Domain Name System) uses port 53 for both TCP and UDP queries to resolve domain names to IP addresses.",
+    "options": [
+      "A) HTTP",
+      "B) HTTPS",
+      "C) DNS",
+      "D) DHCP"
+    ],
+    "correctAnswer": "C) DNS",
+    "tags": [
+      "Protocols",
+      "Ports"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rmdwgof8g",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "GENERAL",
+    "question": "What is the primary function of a network switch?",
+    "explanation": "Switches operate at the Data Link Layer (Layer 2) and use MAC address tables to forward Ethernet frames within a network.",
+    "options": [
+      "A) Route packets between networks",
+      "B) Forward frames based on MAC addresses",
+      "C) Amplify signal strength",
+      "D) Encrypt data traffic"
+    ],
+    "correctAnswer": "B) Forward frames based on MAC addresses",
+    "tags": [
+      "Network Devices",
+      "Switch"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rnz8usd2y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EASY",
+    "question": "Which service automatically assigns IP addresses to devices on a network?",
+    "explanation": "DHCP (Dynamic Host Configuration Protocol) automates the process of assigning IP addresses, subnet masks, and other network parameters to devices.",
+    "options": [
+      "A) FTP",
+      "B) DNS",
+      "C) DHCP",
+      "D) SNMP"
+    ],
+    "correctAnswer": "C) DHCP",
+    "tags": [
+      "Protocols",
+      "DHCP"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rvd0eau3t",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Ağ Teknolojileri",
+    "difficulty": "EXPERT",
+    "question": "Which routing protocol is primarily used for communication between different autonomous systems (e.g., ISPs)?",
+    "explanation": "BGP (Border Gateway Protocol) is designed for inter-domain routing between large networks like ISPs, unlike link-state protocols such as OSPF or distance-vector protocols like RIP.",
+    "options": [
+      "A) RIP",
+      "B) OSPF",
+      "C) EIGRP",
+      "D) BGP"
+    ],
+    "correctAnswer": "D) BGP",
+    "tags": [
+      "Routing Protocols",
+      "BGP"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

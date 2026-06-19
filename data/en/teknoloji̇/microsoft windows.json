@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "n7iom0c51",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EASY",
+    "question": "What action does pressing the Windows key on a keyboard primarily perform?",
+    "explanation": "The Windows key is designed to quickly open the Start Menu, allowing users to access applications and system settings.",
+    "options": [
+      "Opens the Start Menu",
+      "Shuts down the computer",
+      "Opens File Explorer",
+      "Increases screen brightness"
+    ],
+    "correctAnswer": "Opens the Start Menu",
+    "tags": [
+      "Basic Usage",
+      "Hardware Keys",
+      "Interface"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9eyw8go1s",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Which operating system succeeded Windows XP in the Microsoft Windows family?",
+    "explanation": "Microsoft released Windows Vista in January 2007, making it the immediate successor to Windows XP.",
+    "options": [
+      "Windows Vista",
+      "Windows 7",
+      "Windows XP",
+      "Windows 8"
+    ],
+    "correctAnswer": "Windows Vista",
+    "tags": [
+      "Version History",
+      "Operating Systems",
+      "Timeline"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1h91828gl",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "What is the standard file extension for a Microsoft Windows executable program?",
+    "explanation": "The .exe extension stands for executable, indicating a file that can be run by the operating system.",
+    "options": [
+      ".txt",
+      ".exe",
+      ".doc",
+      ".jpg"
+    ],
+    "correctAnswer": ".exe",
+    "tags": [
+      "File Extensions",
+      "Programs",
+      "System Basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mym12demo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "What is the name of the encryption software included in Windows to protect data at rest on a hard drive?",
+    "explanation": "BitLocker Drive Encryption is a full disk encryption feature available in Windows Pro and Enterprise editions.",
+    "options": [
+      "Firewall",
+      "BitLocker",
+      "Antivirus",
+      "UAC"
+    ],
+    "correctAnswer": "BitLocker",
+    "tags": [
+      "Security",
+      "Encryption",
+      "Data Protection"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hd3mw4ocj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Which default file system format is used by modern versions of Windows starting with Windows 8 and 10?",
+    "explanation": "NTFS (New Technology File System) is the primary file system for Windows, supporting compression and security features.",
+    "options": [
+      "FAT32",
+      "HFS+",
+      "NTFS",
+      "exFAT"
+    ],
+    "correctAnswer": "NTFS",
+    "tags": [
+      "File Systems",
+      "Architecture",
+      "Storage"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dodk9czzh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EASY",
+    "question": "Hangi Microsoft Windows sürümü ilk olarak 1985 yılında tanıtıldı?",
+    "explanation": "Windows 1.0, Microsoft tarafından 1985 yılında tanıtılan ilk grafiksel kullanıcı arayüzüne sahip Windows sürümüydi.",
+    "options": [
+      "Windows 3.0",
+      "Windows 2.0",
+      "MS-DOS",
+      "Windows 1.0"
+    ],
+    "correctAnswer": "Windows 1.0",
+    "tags": [
+      "Microsoft Windows",
+      "Sürüm Tarihçesi",
+      "Yazılım Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b0fbrqpv1",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Microsoft Windows'ta varsayılan dosya sistemi hangi sürümde NTFS olarak değiştirildi?",
+    "explanation": "Windows XP'ten itibaren NTFS (New Technology File System), varsayılan ve önerilen dosya sistemi haline geldi.",
+    "options": [
+      "Windows XP",
+      "Windows Vista",
+      "Windows 7",
+      "Windows Server 2008"
+    ],
+    "correctAnswer": "Windows XP",
+    "tags": [
+      "Microsoft Windows",
+      "Dosya Sistemi",
+      "NTFS",
+      "Sürüm Özellikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "danl5hr25",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Hangi Windows güvenlik özelliği yerel hesap şifrelerini ve kimlik bilgilerini korumak için kullanılır?",
+    "explanation": "Credential Guard, yerel hesap şifreleri ve kimlik bilgilerini izole edilmiş bir alanda tutarak kötü niyetli yazılımların erişimini engeller.",
+    "options": [
+      "BitLocker",
+      "Windows Hello",
+      "Credential Guard",
+      "Secure Boot"
+    ],
+    "correctAnswer": "Credential Guard",
+    "tags": [
+      "Microsoft Windows",
+      "Güvenlik",
+      "Kimlik Doğrulama",
+      "Koruma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d1m8igorg",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Microsoft Windows'ta komut satırı aracılığıyla 'ping' komutu hangi temel işlevi yerine getirir?",
+    "explanation": "'ping' komutu, ağdaki bir cihazın erişilebilirliğini ve gecikme süresini test etmek için ICMP mesajları gönderir.",
+    "options": [
+      "Dosya kopyalama",
+      "Ağ bağlantısı testi",
+      "Sisteminiz bilgilerini görüntüleme",
+      "Program yüklemesi"
+    ],
+    "correctAnswer": "Ağ bağlantısı testi",
+    "tags": [
+      "Microsoft Windows",
+      "Komut Satırı",
+      "Ağ Araçları",
+      "Ping"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kudaycg5o",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Windows Update'te 'Cumulative Update' (Toplam Güncelleme) nedir?",
+    "explanation": "Cumulative Update, Microsoft'tan gelen tüm güvenlik yamalarını ve performans düzeltmelerini içeren birleşik güncelleme paketidir.",
+    "options": [
+      "Sadece güvenlik yaması",
+      "Birleşik tüm güvenlik ve performans düzeltmeleri",
+      "Tam Windows yeniden kurulumu",
+      "Üçüncü taraf yazılım güncellemesi"
+    ],
+    "correctAnswer": "Birleşik tüm güvenlik ve performans düzeltmeleri",
+    "tags": [
+      "Microsoft Windows",
+      "Windows Update",
+      "Güncelleme Türleri",
+      "Cumulative Update"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2u6k8b0jc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Hangi Microsoft Windows işletim sistemi sürümünde 'Metro' veya 'Modern UI' arayüzü ilk kez tanıtıldı?",
+    "explanation": "Metro/Modern UI, Windows 8 ile birlikte Microsoft tarafından ilk kez tanıtılan bir arayüz tasarımıdır. Bu arayüz, dokunmatik cihazlar için optimize edilmiştir ve geleneksel masaüstü yapısından farklı olarak 'zemin' (floor) tabanlı bir yapıya sah",
+    "options": [
+      "Windows 7",
+      "Windows 8",
+      "Windows 10",
+      "Windows XP"
+    ],
+    "correctAnswer": "Windows 8",
+    "tags": [
+      "Microsoft Windows",
+      "Arayüz",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ndqe2bhao",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows işletim sisteminde hangi dosya sistemi, daha büyük disk alanları ve modern Windows sürümleri ile uyumlu çalışır?",
+    "explanation": "NTFS (New Technology File System), modern Microsoft Windows işletim sistemlerinin varsayılan dosya sistemidir. FAT32 eski, exFAT ise daha çok USB ve düz disk paylaşımı için kullanılır. NTFS güvenlik özellikleri, yer kaplama bilgisi ve büyük dosy",
+    "options": [
+      "FAT32",
+      "NTFS",
+      "exFAT",
+      "HFS+"
+    ],
+    "correctAnswer": "NTFS",
+    "tags": [
+      "Microsoft Windows",
+      "Dosya Sistemi",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8gyq347dr",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Windows 'cmd' komut isteminde hangi komut ile sistemin ana bilgisayar adını (hostname) görüntüleyebilirsiniz?",
+    "explanation": "'hostname' komutu, Windows sistem isteminde sistemin ana bilgisayar adını ve domain bilgisini gösterir. 'ipconfig' ağ yapılandırması, 'ping' ağ bağlantısı testi, 'net user' kullanıcı yönetimi için kullanılır.",
+    "options": [
+      "ipconfig",
+      "ping",
+      "hostname",
+      "net user"
+    ],
+    "correctAnswer": "hostname",
+    "tags": [
+      "Microsoft Windows",
+      "Komut Satırı",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84ck290m7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Microsoft Windows'un hangi sürümünde 'BitLocker Drive Encryption' güvenlik özelliği resmi olarak tanıtıldı?",
+    "explanation": "BitLocker Drive Encryption, Windows Vista Professional ile birlikte ilk kez tanıtıldı. Bu özelliğin profesyonel sürüm ve Enterprise sürümlerinde bulunur. Windows 8 ve sonrası daha geniş donanım desteğiyle geliştirdi.",
+    "options": [
+      "Windows Vista",
+      "Windows 7",
+      "Windows 8",
+      "Windows 10"
+    ],
+    "correctAnswer": "Windows Vista",
+    "tags": [
+      "Microsoft Windows",
+      "Güvenlik",
+      "Şifreleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bcv1wuszu",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Windows işletim sisteminde hangi sistem dosyası bilgisayarın başlangıç işlemini (boot sequence) yönetir?",
+    "explanation": "ntoskrnl.exe (NT Operating System Kernel), modern Microsoft Windows işletim sistemlerinin çekirdeği ve başlangıç işlemlerini yöneten ana dosyadır. ntldr eski Windows sürümlerinde kullanılırken, hal.dll donanım bağımsız katmanı için sorumludur.",
+    "options": [
+      "ntoskrnl.exe",
+      "hal.dll",
+      "wininit.exe",
+      "ntldr"
+    ],
+    "correctAnswer": "ntoskrnl.exe",
+    "tags": [
+      "Microsoft Windows",
+      "Boot İşlemi",
+      "Sistem Dosyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lke1vf8mj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Microsoft Windows 10'un en önemli özelliklerinden biri olan 'Cortana', hangi yıl tanıtılmıştır?",
+    "explanation": "Microsoft Cortana, İlk olarak 2015 Windows 10 etkinleştirme etkinliğinde tanıtılan yapay zeka asistanıdır.",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correctAnswer": "2015",
+    "tags": [
+      "Microsoft Windows 10",
+      "Cortana",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ov7w55uet",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows Defender güvenlik yazılımının en önemli işlevi nedir?",
+    "explanation": "Windows Defender, Microsoft'un ücretsiz antivirüs programı olup sistemleri kötü amaçlı yazılımlara karşı koruma sağlar.",
+    "options": [
+      "Sistem hızlandırmak",
+      "Malware koruması sağlamak",
+      "Dosya yedeklemek",
+      "Ekrana gölge atmak"
+    ],
+    "correctAnswer": "Malware koruması sağlamak",
+    "tags": [
+      "Windows Defender",
+      "Security",
+      "Malware Protection"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "saemt4p5m",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows 11'in resmi minimum RAM gereksinimi nedir?",
+    "explanation": "Microsoft Windows 11'in resmi minimum RAM gereksinimi 4 GB RAM'dir.",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB"
+    ],
+    "correctAnswer": "4 GB",
+    "tags": [
+      "Windows 11",
+      "System Requirements",
+      "RAM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "atqoqjm3v",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Windows PowerShell hangi Microsoft teknolojisiyle çalışır?",
+    "explanation": "Windows PowerShell, .NET Framework tabanlı otomasyon ve yönetim aracıdır.",
+    "options": [
+      "C#",
+      "VB.NET",
+      ".NET Framework",
+      "Java"
+    ],
+    "correctAnswer": ".NET Framework",
+    "tags": [
+      "PowerShell",
+      ".NET Framework",
+      "Automation"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1l6zpp4gx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows Update hangi Microsoft servisiyle ilişkilidir?",
+    "explanation": "Windows Update, Microsoft'un sistem güncellemelerini ve sürücüleri yayınladığı servistir.",
+    "options": [
+      "Office 365",
+      "Azure",
+      "Microsoft Store",
+      "Xbox Live"
+    ],
+    "correctAnswer": "Microsoft Store",
+    "tags": [
+      "Windows Update",
+      "Microsoft Store",
+      "Updates"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "92zqa0gml",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EASY",
+    "question": "Hangi işletim sistemi Microsoft tarafından geliştirildi?",
+    "explanation": "Microsoft Windows, Microsoft Corporation tarafından geliştirilen ve en yaygın kullanılan masaüstü işletim sistemidir.",
+    "options": [
+      "Linux",
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "correctAnswer": "Windows",
+    "tags": [
+      "Microsoft",
+      "İşletim Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zvilxoeoj",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows 10'da görev çubuğunda hangi kısayol tuşu ile başlat menüsüne gidilir?",
+    "explanation": "Windows 10'da Win + S tuş kombinasyonu Başlat menüsüne ve arama çubuğuna açılır.",
+    "options": [
+      "Ctrl + C",
+      "Alt + Tab",
+      "Win + S",
+      "Ctrl + X"
+    ],
+    "correctAnswer": "Win + S",
+    "tags": [
+      "Windows 10",
+      "Kısayollar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5r8484fuo",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Windows PowerShell'in temel amacı nedir?",
+    "explanation": "Windows PowerShell, sistem yöneticileri için yetenekli bir komut satırı ortamı olup sistem yönetimi görevlerini otomatize etmek için tasarlanmıştır.",
+    "options": [
+      "Grafik tasarım yapmak",
+      "Sistem yönetimi ve otomasyonu gerçekleştirmek",
+      "Veritabanı oluşturma",
+      "Web sunucusu çalıştırmak"
+    ],
+    "correctAnswer": "Sistem yönetimi ve otomasyonu gerçekleştirmek",
+    "tags": [
+      "PowerShell",
+      "Sistem Yönetimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "30zmv5oqy",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Hangi Windows sürümü ilk kez 1985 yılında piyasaya sürüldü?",
+    "explanation": "Windows 3.0, Microsoft tarafından 1985 yılında piyasaya sürülmüş ve GUI arayüzünü önemli ölçüde geliştiren ilk sürümlerden biridir.",
+    "options": [
+      "Windows 2000",
+      "Windows XP",
+      "Windows 3.0",
+      "Windows 95"
+    ],
+    "correctAnswer": "Windows 3.0",
+    "tags": [
+      "Windows Tarihçesi",
+      "Sürüm Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8e7xkhysz",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Windows Registry'nin temel işlevi nedir?",
+    "explanation": "Windows Registry, işletim sisteminin ve uygulamanın tüm ayarlarını, konfigürasyon bilgilerini merkezi bir yerde tutmak için tasarlanmıştır.",
+    "options": [
+      "Dosya sistemi yönetimi",
+      "İşletim sistemi yapılandırması ve ayarları depolama",
+      "Grafik renderlama",
+      "Ağ bağlantı yönetimi"
+    ],
+    "correctAnswer": "İşletim sistemi yapılandırması ve ayarları depolama",
+    "tags": [
+      "Registry",
+      "Sistem Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aazlhvwpk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EASY",
+    "question": "Hangi Microsoft Windows sürümü ilk olarak 2015 yılında piyasaya sürüldü?",
+    "explanation": "Windows 10, Microsoft tarafından ilk olarak 29 Temmuz 2015 tarihinde piyasaya sürülen ve Windows 8'in yerini alan işletim sistemidir.",
+    "options": [
+      "Windows 7",
+      "Windows 8",
+      "Windows 10",
+      "Windows 11"
+    ],
+    "correctAnswer": "Windows 10",
+    "tags": [
+      "Microsoft Windows",
+      "Sürüm Tarihçesi",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u8i2gzxue",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows'da 'Command Prompt' veya 'PowerShell' gibi terminal programları hangi tür yazılımlardır?",
+    "explanation": "Command Prompt ve PowerShell, Windows işletim sistemi için geliştirilmiş komut satırı araçlarıdır; sistem yönetimi ve otomasyon amacıyla kullanılır.",
+    "options": [
+      "Mobil Uygulamalar",
+      "Tarayıcı Yazılımları",
+      "İşletim Sistemi Araçları",
+      "Donanım Sürücüleri"
+    ],
+    "correctAnswer": "İşletim Sistemi Araçları",
+    "tags": [
+      "Microsoft Windows",
+      "Terminal Programları",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m3j696ucx",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Hangi Windows özelliği, kullanıcıların bilgisayarını uyku moduna alıp hemen devam etmelerini sağlar?",
+    "explanation": "Sleep Mode (Uyku Modu), bilgisayarın düşük güç tüketerek RAM'deki verileri koruyarak hızlıca uyandırılmasını sağlar.",
+    "options": [
+      "Fast Startup",
+      "Sleep Mode (Uyku Modu)",
+      "Hibernate (Kıtlık Modu)",
+      "Safe Mode"
+    ],
+    "correctAnswer": "Sleep Mode (Uyku Modu)",
+    "tags": [
+      "Microsoft Windows",
+      "Sistem Özellikleri",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "riain8xlc",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Windows'ta 'File Explorer' (Dosya Gezgini) hangi işletim sistemi sürümünde ilk kez adını aldı?",
+    "explanation": "Dosya Gezgini (File Explorer), Windows XP'te 'Windows Explorer' olarak başlatıldı; Windows 7'de adını resmi olarak 'File Explorer' olarak değiştirdi.",
+    "options": [
+      "Windows XP",
+      "Windows Vista",
+      "Windows 7",
+      "Windows 8"
+    ],
+    "correctAnswer": "Windows 7",
+    "tags": [
+      "Microsoft Windows",
+      "İşletim Sistemi Tarihi",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5bdetx66y",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows Güvenlik Merkezi'nin temel amacı nedir?",
+    "explanation": "Windows Güvenlik Merkezi, virus koruması, ateş duvarı, firewall ayarları ve sistem güvenliği için tek merkezi yönetim panelidir.",
+    "options": [
+      "Donanım Sürücüleri Yükleme",
+      "Sistem ve Ağ Güvenliğini İzleme",
+      "Dosya Sistemi Optimizasyonu",
+      "Uygulama Performansını Artırma"
+    ],
+    "correctAnswer": "Sistem ve Ağ Güvenliğini İzleme",
+    "tags": [
+      "Microsoft Windows",
+      "Güvenlik Özellikleri",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s3i3hm65b",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Which Microsoft Windows version was the first to include 'BitLocker Drive Encryption' as a built-in security feature?",
+    "explanation": "BitLocker Drive Encryption was introduced in Windows 7 as part of the Enterprise and Ultimate editions, providing full-disk encryption to protect data on portable devices.",
+    "options": [
+      "Windows Vista",
+      "Windows 7",
+      "Windows 8",
+      "Windows XP"
+    ],
+    "correctAnswer": "Windows 7",
+    "tags": [
+      "Microsoft Windows",
+      "Security",
+      "Versions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "agzces32l",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "What is the maximum number of simultaneous user sessions supported by Windows Server 2019 Terminal Services?",
+    "explanation": "Windows Server 2019 Terminal Services supports up to 1024 concurrent user sessions by default, which can be configured based on licensing and hardware requirements.",
+    "options": [
+      "512",
+      "1024",
+      "2048",
+      "Unlimited"
+    ],
+    "correctAnswer": "1024",
+    "tags": [
+      "Microsoft Windows",
+      "Server",
+      "Terminal Services"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gocbbzy4t",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Which Windows command-line tool is used to analyze and repair corrupted system files automatically?",
+    "explanation": "The System File Checker (SFC) tool with the scannow command scans protected system files and replaces corrupted ones with correct versions from Windows component store.",
+    "options": [
+      "sfc /scannow",
+      "chkdsk /f",
+      "bootrec /repair",
+      "diskpart clean"
+    ],
+    "correctAnswer": "sfc /scannow",
+    "tags": [
+      "Microsoft Windows",
+      "Troubleshooting",
+      "System Repair"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "frlgxjrwv",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "What does 'Windows Hello' primarily provide for user authentication?",
+    "explanation": "Windows Hello is designed to use biometric data (fingerprint, facial recognition) and PIN codes for secure, passwordless authentication on modern Windows devices.",
+    "options": [
+      "Biometric security",
+      "Multi-factor encryption",
+      "Legacy password management",
+      "Network firewall protection"
+    ],
+    "correctAnswer": "Biometric security",
+    "tags": [
+      "Microsoft Windows",
+      "Authentication",
+      "Security"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rfyd9xik5",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Which Windows version introduced 'Cortana' as a default virtual assistant feature?",
+    "explanation": "Cortana was introduced as a built-in digital assistant in Windows 10, providing voice commands, reminders, and search capabilities across the operating system.",
+    "options": [
+      "Windows 7",
+      "Windows 8",
+      "Windows 10",
+      "Windows 11"
+    ],
+    "correctAnswer": "Windows 10",
+    "tags": [
+      "Microsoft Windows",
+      "Virtual Assistant",
+      "Features"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gqpabjbq7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Microsoft Windows 10'un hangi sürümü ilk olarak 'Virtual Desktop' özelliğini desteklemiştir?",
+    "explanation": "Virtual Desktop özelliği ilk olarak Windows 10 Pro sürümünde tanıtılmıştır. Home ve Enterprise sürümleri bu özelliği desteklemez.",
+    "options": [
+      "Windows 10 Home",
+      "Windows 10 Pro",
+      "Windows 10 Enterprise",
+      "Windows 10 IoT"
+    ],
+    "correctAnswer": "Windows 10 Pro",
+    "tags": [
+      "Microsoft Windows",
+      "Windows 10",
+      "Features"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t2ojp18gh",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Hangi Microsoft Windows işlevi 'Task View' ile erişilebilir?",
+    "explanation": "Task View (Görev Görünümü), sanal masaüstü oluşturmayı ve yönetmeyi sağlar. Disk Yönetimi ve ses ayarları farklı işlevlerdir.",
+    "options": [
+      "Disk Yönetimi",
+      "Görünüm Ayarları",
+      "Sanal Masaüstü Yönetimi",
+      "Ses Ayarları"
+    ],
+    "correctAnswer": "Sanal Masaüstü Yönetimi",
+    "tags": [
+      "Microsoft Windows",
+      "Task View",
+      "Virtual Desktop"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hcxrfw7rk",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Windows 11'in minimum işlemci gereksinimi nedir?",
+    "explanation": "Windows 11, 8. nesil Intel Core işlemciler veya AMD Ryzen 2000 serisi işlemciler gerektirir. Bu, daha eski sistemlerin tam uyumluluğunu kısıtlar.",
+    "options": [
+      "Intel Core i3 veya daha yüksek",
+      "Intel Core i5 veya daha yüksek",
+      "8. nesil Intel veya AMD Ryzen 2000 serisi",
+      "64-bit işlemci"
+    ],
+    "correctAnswer": "8. nesil Intel veya AMD Ryzen 2000 serisi",
+    "tags": [
+      "Microsoft Windows",
+      "Windows 11",
+      "System Requirements"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u2o81rj4z",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EASY",
+    "question": "Microsoft Windows'da 'File Explorer' hangi komut ile başlatılır?",
+    "explanation": "Windows'ta Dosya Gezgini (File Explorer) 'explorer.exe' ile başlatılır. Bu komut sistem klasörlerini ve dosyaları yönetmek için kullanılır.",
+    "options": [
+      "explorer.exe",
+      "windows-explorer.exe",
+      "file-manager.exe",
+      "start.exe"
+    ],
+    "correctAnswer": "explorer.exe",
+    "tags": [
+      "Microsoft Windows",
+      "Command Line",
+      "File Explorer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c4t9wa48q",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Hangi Microsoft Windows özelliği, uygulama uyumluluğunu artırır?",
+    "explanation": "Windows Compatibility Mode (Uyumluluk Modu), eski uygulamaların yeni Windows sürümlerinde çalışmasını sağlar ve uyumluluğu artırır.",
+    "options": [
+      "Sandbox",
+      "Virtual Machine",
+      "Windows Compatibility Mode",
+      "Hyper-V"
+    ],
+    "correctAnswer": "Windows Compatibility Mode",
+    "tags": [
+      "Microsoft Windows",
+      "Compatibility",
+      "Application Support"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bnc0spywi",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EASY",
+    "question": "Hangi Microsoft Windows sürümü, ilk kez 2017'de piyasaya sürüldü ve 'Cortana' kişisel asistanını destekler?",
+    "explanation": "Windows 10, Microsoft tarafından 2015'te piyasaya sürülmüş olup Cortana asistanını destekler ve Windows 8'in ardılıdır.",
+    "options": [
+      "Windows 8",
+      "Windows 10",
+      "Windows 11",
+      "Windows 12"
+    ],
+    "correctAnswer": "Windows 10",
+    "tags": [
+      "Microsoft Windows",
+      "Sürüm Bilgisi",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kvjwcy9d9",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows'da 'Task Manager' (Görev Yöneticisi) hangi klavye kısayolu ile açılır?",
+    "explanation": "Task Manager, Ctrl + Shift + Esc ile açılır. Ctrl + Alt + Del de çalışır ancak önceki eylemleri (Lock) içeren bir menü gösterir.",
+    "options": [
+      "Ctrl + Alt + Del",
+      "Alt + F4",
+      "Ctrl + Shift + Esc",
+      "Win + D"
+    ],
+    "correctAnswer": "Ctrl + Shift + Esc",
+    "tags": [
+      "Microsoft Windows",
+      "Klavye Kısayolları",
+      "Görev Yöneticisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o4b2ijff7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Hangi Windows özelliği, sistem performansını artırmak için arka plan işlemlerini azaltır ve 'Game Mode' ile ilişkilidir?",
+    "explanation": "Windows Game Mode, oyunlar çalışırken sistem kaynaklarını önceliklendirir ve arka plan işlemlerini minimize eder.",
+    "options": [
+      "Windows Defender",
+      "Hyper-V",
+      "Windows Sandbox",
+      "Windows Game Mode"
+    ],
+    "correctAnswer": "Windows Game Mode",
+    "tags": [
+      "Microsoft Windows",
+      "Performans Optimizasyonu",
+      "Oyun Modu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wljj63ldt",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Windows 10/11'de 'File Explorer' (Dosya Gezgini) hangi klavye kısayolu ile açılır?",
+    "explanation": "File Explorer, Win + E ile hızlıca açılır ve tüm dosyalara erişim sağlar.",
+    "options": [
+      "Ctrl + E",
+      "Win + E",
+      "Alt + F4",
+      "Ctrl + O"
+    ],
+    "correctAnswer": "Win + E",
+    "tags": [
+      "Microsoft Windows",
+      "Klavye Kısayolları",
+      "Dosya Gezgini"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "umugs11cm",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Hangi Windows güvenlik özelliği, şüpheli uygulamaları tarar ve 'Windows Defender' ile ilişkilidir?",
+    "explanation": "Windows Security Center (veya Windows Defender Antivirus), sistemdeki tehditleri tespit eder ve koruma sağlar.",
+    "options": [
+      "BitLocker",
+      "SmartScreen",
+      "Windows Security Center",
+      "Credential Guard"
+    ],
+    "correctAnswer": "Windows Security Center",
+    "tags": [
+      "Microsoft Windows",
+      "Güvenlik",
+      "Windows Defender"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ufo6tssah",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "What is the default file system used by modern versions of Microsoft Windows (Windows 10/11)?",
+    "explanation": "NTFS (New Technology File System) is the primary file system for modern Windows versions due to its advanced features like compression, encryption, and journaling.",
+    "options": [
+      "NTFS",
+      "FAT32",
+      "exFAT",
+      "HFS+"
+    ],
+    "correctAnswer": "NTFS",
+    "tags": [
+      "Microsoft Windows",
+      "File System",
+      "Technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7seff6wrn",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "GENERAL",
+    "question": "Which Windows update feature allows users to pause updates without installing them?",
+    "explanation": "The Windows Update Pause Feature enables users to temporarily halt automatic update installations for a set period of time.",
+    "options": [
+      "Windows Update Assistant",
+      "Windows Update Standalone Installer",
+      "Windows Update Pause Feature",
+      "Delivery Optimization"
+    ],
+    "correctAnswer": "Windows Update Pause Feature",
+    "tags": [
+      "Microsoft Windows",
+      "Updates",
+      "Technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k6avxk6fq",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "What is the purpose of the 'System32' folder in Microsoft Windows?",
+    "explanation": "System32 contains essential system files, device drivers, and DLLs that Windows uses to function properly.",
+    "options": [
+      "Stores user profile data",
+      "Contains core system files and DLLs",
+      "Keeps temporary internet files",
+      "Holds registry keys"
+    ],
+    "correctAnswer": "Contains core system files and DLLs",
+    "tags": [
+      "Microsoft Windows",
+      "System Architecture",
+      "Technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tk474rlbs",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EXPERT",
+    "question": "Which PowerShell cmdlet is used to check the current operating system version in Windows?",
+    "explanation": "Get-ComputerInfo retrieves comprehensive system information including the Windows version and build number.",
+    "options": [
+      "Get-OSVersion",
+      "Get-ComputerInfo",
+      "Get-WindowsVersion",
+      "Get-SystemInfo"
+    ],
+    "correctAnswer": "Get-ComputerInfo",
+    "tags": [
+      "Microsoft Windows",
+      "PowerShell",
+      "Technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yp4bt49t7",
+    "category": "TEKNOLOJİ",
+    "subcategory": "Microsoft Windows",
+    "difficulty": "EASY",
+    "question": "What does 'SFC' stand for in the context of Windows system maintenance?",
+    "explanation": "SFC (System File Checker) is a built-in tool that scans and repairs corrupted Windows system files.",
+    "options": [
+      "System File Checker",
+      "Security File Control",
+      "Standard File Configuration",
+      "Service File Console"
+    ],
+    "correctAnswer": "System File Checker",
+    "tags": [
+      "Microsoft Windows",
+      "System Tools",
+      "Technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "8eomq1q13",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük okyanusu hangisidir?",
+    "explanation": "Pasifik Okyanusu, yüz ölçümü ve hacim olarak dünyanın en büyük okyanusudur. Yaklaşık 165 milyon km² alan kaplar.",
+    "options": [
+      "Hint Okyanusu",
+      "Atlas Okyanusu",
+      "Hindistan Okyanusu",
+      "Pasifik Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tdus9m62h",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Okyanusların tuzluluk oranı genellikle yüzde kaçtır?",
+    "explanation": "Okyanusların ortalama tuzluluk oranı %2-4 arasındadır. Bu, tatlı su kaynaklarının denizle karışması ve buharlaşma süreçleriyle ilişkilidir.",
+    "options": [
+      "%0-1",
+      "%2-4",
+      "%5-7",
+      "%8-10"
+    ],
+    "correctAnswer": "%2-4",
+    "tags": [
+      "okyanuslar",
+      "tuzluluk",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "513p2vm66",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Hint Okyanusu'nun en derin noktası nedir?",
+    "explanation": "Hint Okyanusu'nun en derin noktası Challenger Derinliği'dir (yaklaşık 8.000 metre). Mariana Çukuru ise Pasifik'tedir.",
+    "options": [
+      "Mariana Çukuru",
+      "Challenger Derinliği",
+      "Java Çukuru",
+      "Hindistan Çukuru"
+    ],
+    "correctAnswer": "Challenger Derinliği",
+    "tags": [
+      "okyanuslar",
+      "derinlik",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1q784boxe",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Atmosferik basınç ve sıcaklık ile etkileşen okyanus akıntısı hangisidir?",
+    "explanation": "Golf Akıntısı, Atlantik Okyanusu'nda sıcak su taşıyan önemli bir akıntıdır. Avrupa'nun iklimini yumuşatmada rol oynar ve atmosferle güçlü etkileşim yaşar.",
+    "options": [
+      "Golf Akıntısı",
+      "Kuroshio Akıntısı",
+      "Labrador Akıntısı",
+      "Tasmanya Akıntısı"
+    ],
+    "correctAnswer": "Golf Akıntısı",
+    "tags": [
+      "okyanuslar",
+      "akıntılar",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iui44ba7f",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en yüksek okyanus kabı (sığa) hangi bölgededir?",
+    "explanation": "Atlas Okyanusu'nun kuzeybatı bölümü (Akdeniz ile bağlantılı) dünya okyanusları arasında daha sığ bölgelere sahiptir. Ortalama derinliği diğerlerine göre daha düşüktür.",
+    "options": [
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Atlas Okyanusu",
+      "Hindistan Okyanusu"
+    ],
+    "correctAnswer": "Atlas Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "sığa",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bn4o0ah5k",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük okyanusu hangisidir?",
+    "explanation": "Pasifik Okyanusu, Dünya'nın en büyük okyanusudur ve yüzölçümü yaklaşık 165.250.000 km²'dir.",
+    "options": [
+      "Atlantik Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Buzlu Okyanus"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "dünya coğrafyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yw6fs9vtf",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Küresel rüzgar sistemlerinin etkisiyle oluşan okyanus akıntılarının öneminden hangisi yanlıştır?",
+    "explanation": "Okyanus akıntıları küresel ısı transferi sağlar ancak okyanus sıcaklığını doğrudan artırmaz; aksine soğuk bölgelerden sıcak bölgelere soğuk su taşıyabilir.",
+    "options": [
+      "İklimi dengeler",
+      "Dünya su döngüsünü sağlar",
+      "Okyanus sıcaklığını artırır",
+      "Nutrient taşır"
+    ],
+    "correctAnswer": "Okyanus sıcaklığını artırır",
+    "tags": [
+      "okyanus akıntıları",
+      "iklim",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ysatytqe",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Buzlu Okyanus hangi kıtaya aittir?",
+    "explanation": "Buzlu Okyanus, Antarktika kıtası etrafında yer alır ve dünyanın en soğuk okyanusudur.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Antarktika",
+      "Kuzey Amerika"
+    ],
+    "correctAnswer": "Antarktika",
+    "tags": [
+      "okyanuslar",
+      "kıta",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d9osfcqsw",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Okyanusların tuzluluk oranını etkileyen faktörlerden hangisi değildir?",
+    "explanation": "Okyanus tuzluluğunu etkileyen ana faktörler buharlaşma, yağış, nehirlendir; akıntı hızı ise suyun hareketini sağlar ancak tuzluluk oranını doğrudan etkilemez.",
+    "options": [
+      "Buharlaşma",
+      "Yağış miktarı",
+      "Akıntı hızı",
+      "Nehir girişleri"
+    ],
+    "correctAnswer": "Akıntı hızı",
+    "tags": [
+      "okyanus kimyası",
+      "tuzluluk",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s7h9punkd",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Hint Okyanusu'nun en derin noktası nerede bulunur?",
+    "explanation": "Marian Çukuru, Pasifik Okyanusu'nda bulunur ve 10.935 metre ile dünyanın en derin noktasıdır. Hint Okyanusu'nun en derin yeri Fiji Çukuru'dur.",
+    "options": [
+      "Java Çukuru",
+      "Marian Çukuru",
+      "Puerto Rico Çukuru",
+      "Tristan da Cunha Çukuru"
+    ],
+    "correctAnswer": "Marian Çukuru",
+    "tags": [
+      "okyanus derinlikleri",
+      "jeomorfoloji",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nfb7fvq7b",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Dünyadaki en büyük okyanus hangisidir?",
+    "explanation": "Pasifik Okyanusu, dünyanın en büyük okyanusudur ve toplam yüzey alanının yaklaşık %46'nını kaplar.",
+    "options": [
+      "Atlas Okyanusu",
+      "Hindistan Okyanusu",
+      "Pasifik Okyanusu",
+      "Kuzey Buzlu Okyanus"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2030glbl0",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Okyanusların tuzluluk oranı en yüksek olduğu bölge hangisidir?",
+    "explanation": "Yarı kurak iklimli okyanuslarda buharlaşma fazla, yağış az olduğu için tuzluluk oranı en yüksektir.",
+    "options": [
+      "Ekvatör yakınları",
+      "Kutup bölgeleri",
+      "Yarı kurak iklimli okyanuslar",
+      "Derin denizler"
+    ],
+    "correctAnswer": "Yarı kurak iklimli okyanuslar",
+    "tags": [
+      "okyanuslar",
+      "tuzluluk",
+      "klimatoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rmysust8t",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Küresel ısınmaya bağlı olarak okyanusların ne tür bir değişim göstermesi beklenmektedir?",
+    "explanation": "Küresel ısınma nedeniyle buzullar eriyerek okyanusların seviyesinin yükselmesi beklenmektedir.",
+    "options": [
+      "Tuzluluk oranının azalması",
+      "Seviyesinin yükselmesi",
+      "Sıcaklığının düşmesi",
+      "Hareketliliklerinin artması"
+    ],
+    "correctAnswer": "Seviyesinin yükselmesi",
+    "tags": [
+      "okyanuslar",
+      "küresel ısınma",
+      "çevre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kf4wuachn",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en derin noktası olan Mariana Çukuru hangi okyanustadır?",
+    "explanation": "Mariana Çukuru, Pasifik Okyanusu'nda bulunan ve yaklaşık 10.935 metre derinliğe sahip dünyanın en derin noktasıdır.",
+    "options": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Kuzey Buzlu Okyanus"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "derinlikler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4blzx3xa3",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Okyanus akıntılarının oluşumunda aşağıdakilerden hangisi etkilidir?",
+    "explanation": "Okyanus akıntılarının oluşumunda Dünya'nın kendi ekseni etrafında dönmesi (Coriolis kuvveti) ve rüzgarlar etkilidir.",
+    "options": [
+      "Sadece rüzgar",
+      "Yerçekimi kuvveti",
+      "Dünya'nın kendi ekseni etrafında dönmesi",
+      "Buzulların hareketi"
+    ],
+    "correctAnswer": "Dünya'nın kendi ekseni etrafında dönmesi",
+    "tags": [
+      "okyanuslar",
+      "akıntılar",
+      "dinamikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "56lbk32tm",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük okyanusu aşağıdakilerden hangisidir?",
+    "explanation": "Pasifik Okyanusu, yüzölçümü bakımından dünyanın en büyük okyanusudur. Yaklaşık 180 milyon km²'lik alanı vardır.",
+    "options": [
+      "Hint Okyanusu",
+      "Atlas Okyanusu",
+      "Pasifik Okyanusu",
+      "Kuzey Buzlu Okyanus"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pbbrn5589",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Hangi okyanus kıtalara bağlı değildir?",
+    "explanation": "Kuzey Buzlu Okyanus (Arktik Okyanus), diğer okyanuslardan farklıdır ve doğrudan bir kıta ile sınırlı değildir.",
+    "options": [
+      "Hint Okyanusu",
+      "Kuzey Buzlu Okyanus",
+      "Atlas Okyanusu",
+      "Pasifik Okyanusu"
+    ],
+    "correctAnswer": "Kuzey Buzlu Okyanus",
+    "tags": [
+      "okyanuslar",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u1ceopge2",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Hangi akıntı sıcak su akıntısıdır ve Avrupa'nın iklimini yumuşatır?",
+    "explanation": "Golf Stream (Kızıl Akıntı), Atlantik Okyanusu'nda bulunan sıcak su akıntısıdır ve Avrupa'nın iklimini yumuşatır.",
+    "options": [
+      "Labrador Akıntısı",
+      "Kanal Akıntısı",
+      "Golf Stream Akıntısı",
+      "Benguela Akıntısı"
+    ],
+    "correctAnswer": "Golf Stream Akıntısı",
+    "tags": [
+      "okyanuslar",
+      "akıntılar",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "883p3d78c",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en derin noktası olan Mariana Çukuru hangi okyanusta bulunur?",
+    "explanation": "Mariana Çukuru, Pasifik Okyanusu'nda bulunur ve yaklaşık 10.935 metre derinliğe sahiptir.",
+    "options": [
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Atlas Okyanusu",
+      "Kuzey Buzlu Okyanus"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "klch58h6s",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Hint Okyanusu hangi kıtalar arasında yer alır?",
+    "explanation": "Hint Okyanusu Asya, Afrika, Avustralya ve Antarktika kıtaları arasında yer alır.",
+    "options": [
+      "Avrupa ve Amerika",
+      "Asya, Afrika ve Avustralya",
+      "Kuzey ve Güney Amerika",
+      "Dünyanın tüm kıtaları"
+    ],
+    "correctAnswer": "Asya, Afrika ve Avustralya",
+    "tags": [
+      "okyanuslar",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kt8zq9la7",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Dünya üzerindeki okyanusların en büyüğü hangisidir?",
+    "explanation": "Pasifik Okyanusu, yüzey alanı olarak dünyanın en büyük okyanusudur ve diğerlerine göre yaklaşık dört kat daha büyüktür.",
+    "options": [
+      "Atlantik Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Kuzey Buzlu Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "coğrafya",
+      "okyanuslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "49zs98pc8",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en derin noktası olan Mariana Çukuru hangi okyanusta yer alır?",
+    "explanation": "Mariana Çukuru, Pasifik Okyanusu'nun batı kısmında bulunan en derin nokta olup yaklaşık 10.935 metre derindedir.",
+    "options": [
+      "Hint Okyanusu",
+      "Atlantik Okyanusu",
+      "Pasifik Okyanusu",
+      "Buzlu Okyanus"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "coğrafya",
+      "derinlik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5zvm33908",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Hint Okyanusu hangi kıtaları çevreler?",
+    "explanation": "Hint Okyanusu'nun sahil şeridi Asya, Afrika, Avustralya ve Antarktika kıtalarını içerir; dört kıtayı birbirine bağlayan okyanustur.",
+    "options": [
+      "Sadece Avrupa ve Asya",
+      "Asya, Afrika, Avustralya ve Antarktika",
+      "Kuzey Amerika ve Asya",
+      "Avrupa ve Afrika"
+    ],
+    "correctAnswer": "Asya, Afrika, Avustralya ve Antarktika",
+    "tags": [
+      "coğrafya",
+      "kıta"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ymhze9bjj",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Orta Atlanti Kemerinin uzandığı okyanus hangisidir?",
+    "explanation": "Orta Atlanti Kemerinin uzandığı tek okyanus Atlantik Okyanusu olup deniz tabanı levha hareketlerini (dağ oluşumunu) gösterir.",
+    "options": [
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Atlantik Okyanusu",
+      "Buzlu Okyanus"
+    ],
+    "correctAnswer": "Atlantik Okyanusu",
+    "tags": [
+      "coğrafya",
+      "tektonik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fmcbxka9d",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "El Niño olayının temel olarak hangi okyanusun kıyı bölgesinde etki ettiği bilinir?",
+    "explanation": "El Niño olayı, Ekvatoral Pasifik Okyanusu'nun çevrelediği bölgede deniz sıcaklıklarında ani artışla kendini gösterir.",
+    "options": [
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Atlantik Okyanusu",
+      "Buzlu Okyanus"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "coğrafya",
+      "iklim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s7xxuwwj0",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Dünya'nın en büyük okyanusu hangisidir?",
+    "explanation": "Pasifik Okyanusu, yüz alanı ve hacim açısından dünyanın en büyük okyanusudur. Yaklaşık 165 milyon km² kaplar.",
+    "options": [
+      "Atlantik Okyanusu",
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Buzlu Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "dünya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kc46j0xvr",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Kuzey Buz Okyanusu'nun diğer adı nedir?",
+    "explanation": "Kuzey Buz Okyanusu, Arktik Okyanusu olarak da bilinir ve kuzey kutbunun çevresinde yer alır. Çok soğuk bir bölgedir.",
+    "options": [
+      "Hint Denizi",
+      "Arktik Okyanusu",
+      "Güney Okyanusu",
+      "Atlas Okyanusu"
+    ],
+    "correctAnswer": "Arktik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "soğuk iklimler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bvxwjlsp4",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Hint Okyanusu'nun en derin noktası hangisidir?",
+    "explanation": "Hint Okyanusu'nun en derin noktası Java Derinliği'dir (yaklaşık 7.450 metre). Mariana Çukurluğu Pasifik'tedir.",
+    "options": [
+      "Mariana Çukurluğu",
+      "Challenger Derinliği",
+      "Java Derinliği",
+      "Puerto Rico Derinliği"
+    ],
+    "correctAnswer": "Java Derinliği",
+    "tags": [
+      "okyanuslar",
+      "derinlikler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ga8v429r",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Okyanus akıntılarının sıcaklığı okyanus ekosistemini nasıl etkiler?",
+    "explanation": "Okyanus akıntıları sıcak su taşır ve fotosentez yapan organizmalar için enerji kaynağı oluşturur. Bu da tüm okyanus yaşamını destekler.",
+    "options": [
+      "Sadece balık türlerini değiştirir",
+      "Güney Okyanusu'nun derinliğini artırır",
+      "Su yaşamı için gerekli enerjiyi sağlar",
+      "Akıntıları yavaşlatır"
+    ],
+    "correctAnswer": "Su yaşamı için gerekli enerjiyi sağlar",
+    "tags": [
+      "okyanuslar",
+      "akıntılar",
+      "ekosistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jswpmv15e",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Atlas Okyanusu'nun coğrafi konumu nedir?",
+    "explanation": "Atlas Okyanusu Avrupa'nın batısı, Afrika'nın doğusu ve Güney Amerika'nın kuzeyi arasında yer alır. Akdeniz ile de bağlantılıdır.",
+    "options": [
+      "Dünyanın güneyinde",
+      "Dünyanın doğusunda",
+      "Avrupa, Afrika ve Amerika kıtaları arasında",
+      "Kuzey kutbunda"
+    ],
+    "correctAnswer": "Avrupa, Afrika ve Amerika kıtaları arasında",
+    "tags": [
+      "okyanuslar",
+      "kıta konumu",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mnkf3ff63",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Hangi okyanus, Dünya'nın en büyük okyanusu ve yüzey alanı olarak küresel iklimde belirleyici rol oynar?",
+    "explanation": "Pasifik Okyanusu, Dünya'nın en büyük okyanusudur ve yüz alanı yaklaşık 165 milyon km²'dir. Küresel iklim üzerinde önemli etkisi vardır.",
+    "options": [
+      "Hindistan Okyanusu",
+      "Pasifik Okyanusu",
+      "Kuzey Buzlu Okyanus",
+      "Atlas Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "yüzey alanı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zj0yc1l63",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Atlas Okyanusu'nun diğer adı nedir?",
+    "explanation": "Atlas Okyanusu, bilinen adıyla Atlantik Okyanusu'dur. Kuzey Amerika ve Avrupa arasında yer alır.",
+    "options": [
+      "Hindistan Denizi",
+      "Pasifik Denizi",
+      "Güney Okyanusu",
+      "Atlantik Okyanusu"
+    ],
+    "correctAnswer": "Atlantik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "atlas okyanusu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l74y9awtu",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki okyanuslardan hangisi, Arktis ve Antarktis kıyıları arasındaki su kütlelerini kapsar?",
+    "explanation": "Güney Okyanusu, Antarktika'nın kıyı sularını ve Kuzey Buzlu Okyanus ile Pasifik, Atlas Okyanusları arasındaki su kütlelerini kapsar.",
+    "options": [
+      "Güney Okyanusu",
+      "Kuzey Buzlu Okyanus",
+      "Hindistan Okyanusu",
+      "Pasifik Okyanusu"
+    ],
+    "correctAnswer": "Güney Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "güney okyanusu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jsj0wio3f",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Kıta sahanlığı en geniş okyanus hangisidir?",
+    "explanation": "Pasifik Okyanusu, kıta sahanlığı olarak en geniş okyanustur ve deniz tabanı en düz olan büyük okyanuslardan biridir.",
+    "options": [
+      "Pasifik Okyanusu",
+      "Atlas Okyanusu",
+      "Hindistan Okyanusu",
+      "Güney Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "kıta sahanlığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "epivb5ssd",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Hangi okyanus, 'Dünya'nın Kalbi' olarak bilinen Hindistan Okyanusu'nun karşısındaki karada yer alır?",
+    "explanation": "Hindistan Okyanusu, Pasifik Okyanusu'nun karşısında yer alır ve Hint Yarımadası ile çevrilidir. 'Dünya'nın Kalbi' olarak anılır.",
+    "options": [
+      "Kuzey Buzlu Okyanus",
+      "Pasifik Okyanusu",
+      "Atlas Okyanusu",
+      "Güney Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "hindistan okyanusu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k04rp67a1",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Dünyadaki okyanuslardan hangisi alan olarak en büyüktür?",
+    "explanation": "Pasifik Okyanusu, yüzey alanıyla diğer okyanuslardan daha büyüktür.",
+    "options": [
+      "Hindistan Okyanusu",
+      "Pasifik Okyanusu",
+      "Atlantik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "Okyanuslar",
+      "Coğrafya",
+      "Genel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0xfjcqtkn",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Dünyadaki okyanuslardan hangisi yüzey alanı itibarıyla en küçüğüdür?",
+    "explanation": "Arktik Okyanusu, kuzey kutup bölgesinde yer alır ve diğer okyanuslara kıyasla daha küçüktür.",
+    "options": [
+      "Atlantik Okyanusu",
+      "Hindistan Okyanusu",
+      "Pasifik Okyanusu",
+      "Arktik Okyanusu"
+    ],
+    "correctAnswer": "Arktik Okyanusu",
+    "tags": [
+      "Okyanuslar",
+      "Coğrafya",
+      "Genel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jg5x93gna",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Dünyadaki okyanusların en derin noktası aşağıdakilerden hangisidir?",
+    "explanation": "Marian Çukuru, Pasifik Okyanusu'nda bulunan ve Dünya'nın en derin noktasıdır.",
+    "options": [
+      "Puerto Rico Çukuru",
+      "Marian Çukuru",
+      "Tonga Çukuru",
+      "Filipin Çukuru"
+    ],
+    "correctAnswer": "Marian Çukuru",
+    "tags": [
+      "Okyanuslar",
+      "Coğrafya",
+      "Jeoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ct203u9oz",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Akdeniz hangi okyanusa açılmaktadır?",
+    "explanation": "Akdeniz, Cezayir Boğazı (Gibraltar Boğazı) üzerinden Büyük Atlas Okyanusu'na açılır.",
+    "options": [
+      "Hint Okyanusu",
+      "Pasifik Okyanusu",
+      "Atlantik Okyanusu",
+      "Kuzey Buzul Okyanusu"
+    ],
+    "correctAnswer": "Atlantik Okyanusu",
+    "tags": [
+      "Okyanuslar",
+      "Coğrafya",
+      "Akdeniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gvbwokyil",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Kuzey Atlantik'te sıcak su taşıyan güçlü bir yüzey akıntısı aşağıdakilerden hangisidir?",
+    "explanation": "Gulf Stream, Kuzey Atlantik'te bulunan ve sıcak su taşıyan güçlü bir yüzey akıntısıdır.",
+    "options": [
+      "Kalaniforniya Akıntısı",
+      "Labrador Akıntısı",
+      "Gulf Stream Akıntısı",
+      "Benguela Akıntısı"
+    ],
+    "correctAnswer": "Gulf Stream Akıntısı",
+    "tags": [
+      "Okyanuslar",
+      "Coğrafya",
+      "Akıntılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "34s62nay3",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Dünyanın en büyük okyanusu hangisidir?",
+    "explanation": "Pasifik Okyanusu, yüzölçümüyle dünyanın en büyük okyanusudur. Yaklaşık 165 milyon km² alan kaplar.",
+    "options": [
+      "Hint Okyanusu",
+      "Atlantik Okyanusu",
+      "Pasifik Okyanusu",
+      "Buzluk Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanuslar",
+      "coğrafya",
+      "büyüklük"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "053lxju2g",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Atlantik Okyanusunda Güney Amerika'nın batı kıyısını akıntıya karşı akan önemli akıntılar hangisidir?",
+    "explanation": "Gulf Stream, Atlantik Okyanusunda Kuzey Amerika'nın doğu kıyısında akan sıcak akıntıdır. Güney Amerika etkisiyle farklılaşır.",
+    "options": [
+      "Gulf Stream",
+      "Kanal Akıntısı",
+      "Baltik Akıntısı",
+      "Labrador Akıntısı"
+    ],
+    "correctAnswer": "Gulf Stream",
+    "tags": [
+      "atlantik okyanusu",
+      "akıntılar",
+      "güney amerika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "98erk7f52",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Hangi okyanusun en derin noktası Mariana Çukuru'dur?",
+    "explanation": "Mariana Çukuru, Pasifik Okyanusunda bulunan ve yaklaşık 10.984 metre derinliğe sahip dünyanın en derin noktasıdır.",
+    "options": [
+      "Hint Okyanusu",
+      "Kuzey Buzlu Okyanusu",
+      "Pasifik Okyanusu",
+      "Güney Buzlu Okyanusu"
+    ],
+    "correctAnswer": "Pasifik Okyanusu",
+    "tags": [
+      "okyanus derinliği",
+      "mariana çukuru",
+      "abyssal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hrd07zadn",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Hint Okyanusu'nun en önemli jeopolitik bölgesi hangisidir?",
+    "explanation": "Aden Boğazı, Hint Okyanusu ile Kızıl Deniz'i birbirine bağlayan ve stratejik önemi yüksek bir bölgedir.",
+    "options": [
+      "Maldivler",
+      "Seyşel",
+      "Aden Boğazı",
+      "Mozambik Boğazı"
+    ],
+    "correctAnswer": "Aden Boğazı",
+    "tags": [
+      "hint okyanusu",
+      "jeopolitik",
+      "boğazlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5n3ioxh3y",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EASY",
+    "question": "Buzluk Okyanusu'nun en önemli özelliği nedir?",
+    "explanation": "Kuzey Buzlu Okyanusu, yüzeyinde yıl boyunca soğuk ve buz tabakaları bulunur. Kuzey Kutu bölgesidir.",
+    "options": [
+      "En büyük okyanus",
+      "İklimi karasal",
+      "Yüzeyinde sürekli buz tabakası",
+      "Sıcak akıntılardan etkilenir"
+    ],
+    "correctAnswer": "Yüzeyinde sürekli buz tabakası",
+    "tags": [
+      "buzluk okyanusu",
+      "kuzey kutbu",
+      "sürekli buz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bx4rbrxv1",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Which ocean is considered the largest by surface area?",
+    "explanation": "The Pacific Ocean covers approximately 63 million square miles, making it the largest ocean on Earth.",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "tags": [
+      "oceans",
+      "geography",
+      "world-ocean"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sipw0nahf",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "What is the average salinity level of the world's oceans?",
+    "explanation": "The average salinity of ocean water is typically 30-35 parts per thousand (ppt), though this varies by location.",
+    "options": [
+      "25 parts per thousand",
+      "30-35 parts per thousand",
+      "40-45 parts per thousand",
+      "15-20 parts per thousand"
+    ],
+    "correctAnswer": "30-35 parts per thousand",
+    "tags": [
+      "oceans",
+      "salinity",
+      "marine-science"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "et09pe4v8",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "EXPERT",
+    "question": "Which ocean current is known for the El Niño phenomenon?",
+    "explanation": "The Peru Current (Humboldt Current) is part of the El Niño-Southern Oscillation system that affects climate patterns.",
+    "options": [
+      "Gulf Stream",
+      "Kuroshio Current",
+      "Peru Current",
+      "Agulhas Current"
+    ],
+    "correctAnswer": "Peru Current",
+    "tags": [
+      "oceans",
+      "currents",
+      "climate-phenomena"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "veit7pwgj",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "What percentage of Earth's surface is covered by oceans?",
+    "explanation": "Oceans cover approximately 71% of Earth's surface, making them the dominant feature of our planet.",
+    "options": [
+      "50%",
+      "61%",
+      "71%",
+      "80%"
+    ],
+    "correctAnswer": "71%",
+    "tags": [
+      "oceans",
+      "earth-facts",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1zi4v28fu",
+    "category": "COĞRAFYA",
+    "subcategory": "Okyanuslar",
+    "difficulty": "GENERAL",
+    "question": "Which ocean has the deepest point in the world (Mariana Trench)?",
+    "explanation": "The Mariana Trench, located in the Pacific Ocean, reaches depths of about 10,984 meters below sea level.",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Southern Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "tags": [
+      "oceans",
+      "depths",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

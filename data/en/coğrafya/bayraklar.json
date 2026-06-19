@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "9hllc2hjm",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EASY",
+    "question": "Aşağıdaki ülkelerden hangisinin bayrağında ay yıldız figürü bulunur?",
+    "explanation": "Türkiye'nin bayrağında beyaz zemin üzerine kırmızı ay ve yıldız figürü bulunur. Bu, Osmanlı Devleti döneminden gelen sembolik bir tasarımdır.",
+    "options": [
+      "İngiltere",
+      "Türkiye",
+      "Fransa",
+      "Almanya"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "bayraklar",
+      "tarih",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9jeu2h6ei",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangisi NATO üyesi olmayan bir ülkenin bayrağıdır?",
+    "explanation": "Japonya, NATO üyesi değildir. Polonya, İspanya ve Yunanistan ise NATO'nun kuzey Atlantik anlaşması üyesidirler.",
+    "options": [
+      "Polonya",
+      "İspanya",
+      "Japonya",
+      "Yunanistan"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "bayraklar",
+      "uluslararası",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sckg5f00l",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ülkelerden hangisinin bayrağında yeşil renk bulunmaz?",
+    "explanation": "Türkiye'nin bayrağında sadece kırmızı ve beyaz renk bulunur. Diğer ülkelerin bayraklarında yeşil renk yer alır.",
+    "options": [
+      "Güney Afrika",
+      "Mısır",
+      "Türkiye",
+      "Irak"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "bayraklar",
+      "renkler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pdpi1ijsa",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Hangi ülkenin bayrağı tek renklidir?",
+    "explanation": "Monako'nun bayrağı sadece kırmızı ve beyaz renklidir, ancak tek renkli bayrak olarak kabul edilir. San Marino ise yeşil, beyaz ve sarı içerir.",
+    "options": [
+      "Monako",
+      "Andorra",
+      "Vatikan",
+      "San Marino"
+    ],
+    "correctAnswer": "Monako",
+    "tags": [
+      "bayraklar",
+      "tek renk",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nbpn0036y",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki coğrafi bölgelerden hangisinde 'Güney Amerika'daki en büyük ülke olan Brezilya'nın bayrağı yer alır?",
+    "explanation": "Brezilya, Güney Amerika kıtasında bulunan en büyük ülkedir. Bayrağı bu coğrafi bölgeyi temsil eder.",
+    "options": [
+      "Kuzey Amerika",
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika"
+    ],
+    "correctAnswer": "Güney Amerika",
+    "tags": [
+      "bayraklar",
+      "coğrafi bölgeler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zkww2yw3a",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en çok kullanılan bayrak rengi hangisidir?",
+    "explanation": "Kırmızı renk, dünya bayraklarında en çok kullanılan rengidir ve yaklaşık 30'dan fazla ülkede kullanılır. Bu renk coğrafi konumları değil, tarihsel ve kültüsel bağlamda daha yaygındır.",
+    "options": [
+      "Mavi",
+      "Kırmızı",
+      "Yeşil",
+      "Sarı"
+    ],
+    "correctAnswer": "Kırmızı",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c9i88id04",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ülkelerden hangisinin bayrağı sarı, kırmızı ve mavi üç renkten oluşur?",
+    "explanation": "Açıklama üretilmedi.",
+    "options": [
+      "Fransa",
+      "Türkiye",
+      "İtalya",
+      "Hollanda"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "Avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kruwt7af5",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin bayrağı güneş sembollerini içerir?",
+    "explanation": "Türk bayrağının ortasında bulunan beyaz hilal ve yıldız sembollerini içerir. Bu semboller, İslam inancına ve Türk tarihinine atıfta bulunur.",
+    "options": [
+      "Türkiye",
+      "Japonya",
+      "Çin",
+      "Güney Kore"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "Türkiye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d9t055is2",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Dünyada en çok kırmızı yarı ay (hilal) içeren bayrağa sahip ülke hangisidir?",
+    "explanation": "Pakistan bayrağı, yeşil alanda beyaz hilal ve yıldız içerir. Bu semboller İslam inancını temsil eder.",
+    "options": [
+      "Pakistan",
+      "İran",
+      "Türkiye",
+      "Mısır"
+    ],
+    "correctAnswer": "Pakistan",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "Asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6cmrdgnlo",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin bayrağı tamamen sarı renktedir?",
+    "explanation": "Jamaika bayrağı, yeşil köşelerle sarı orta bölge içerir. Bu renkleri, Jamaika'nın bağımsızlık mücadelesi ve toprak bolluğu temsil eder.",
+    "options": [
+      "Jamaika",
+      "Belçika",
+      "Norveç",
+      "İsviçre"
+    ],
+    "correctAnswer": "Jamaika",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "Karaib"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pero4itwt",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Soru metni üretilemedi.",
+    "explanation": "Açıklama üretilmedi.",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswer": "A",
+    "tags": [
+      "genel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o6rtr5bnf",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ülkelerden hangisinin bayrağında ay ve yıldız bulunmaz?",
+    "explanation": "Filipinler bayrağı sarı (bağlılık), mavi (adil yönetim) ve kırmızı (devrim) renklerinden oluşur. Ay ve yıldız bulunmaz. Pakistan, Türkiye ve Irak bayraklarında ay ve yıldız simgeleri vardır.",
+    "options": [
+      "Türkiye",
+      "Irak",
+      "Filipinler",
+      "Pakistan"
+    ],
+    "correctAnswer": "Filipinler",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9gyy3blzn",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Kuzey İrlanda Bayrağı'nın resmi adı nedir?",
+    "explanation": "Kuzey İrlanda'da resmi olarak Union Jack (Birleşik Krallık) bayrağı kullanılır. St. Patrick bayrağı dini bir sembol olsa da resmi bayrak değildir.",
+    "options": [
+      "St. Patrick Bayrağı",
+      "Ulster Bayrağı",
+      "Union Jack Bayrağı",
+      "Irlanda Bayrağı"
+    ],
+    "correctAnswer": "Union Jack Bayrağı",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "kuzey irlanda"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xyurazeh4",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Hangi ülkenin bayrağında aydınlık güneş ve 8 adet yıldız bulunur?",
+    "explanation": "Myanmar (Birmanya) bayrağı kırmızı zemin üzerinde sarı güneş ve 8 adet yıldız içerir. Güneş, ulusun aydınlığını; yıldızlar ise birlik sembolüdür.",
+    "options": [
+      "Vietnam",
+      "Myanmar",
+      "Laos",
+      "Kamboçya"
+    ],
+    "correctAnswer": "Myanmar",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "güneydoğu asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i0e67qsrd",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki ülkelerden hangisinin bayrağında yeşil renk bulunmaz?",
+    "explanation": "Mısır bayrağı kırmızı, beyaz ve siyah renklidir (yeşil bulunmaz). Fas, Suudi Arabistan ve Irak bayraklarında yeşil renk mevcuttur.",
+    "options": [
+      "Fas",
+      "Mısır",
+      "Suudi Arabistan",
+      "Irak"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "kıta afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lq5g9zbyt",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Dünya üzerinde en fazla ülke tarafından kullanılan bayrak rengi hangisidir?",
+    "explanation": "Kırmızı renk dünya bayraklarında en yaygın kullanılan renktir. Birçok ülkede devrim, güç ve cesaret sembolü olarak kullanılır.",
+    "options": [
+      "Kırmızı",
+      "Beyaz",
+      "Mavi",
+      "Yeşil"
+    ],
+    "correctAnswer": "Kırmızı",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g9zp3w9mm",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Avustralya bayrağında bulunan yıldızların adları nelerdir?",
+    "explanation": "Avustralya bayrağında Southern Cross (Güney Haçı) takımyıldızının beş yıldızı bulunur. Büyük Commonwealth Bayrağı Yıldızı da vardır.",
+    "options": [
+      "Commonwealth Bayrağı Yıldızı",
+      "Southern Cross Yıldızı",
+      "Federal Yıldızı",
+      "Ulusal Yıldızı"
+    ],
+    "correctAnswer": "Southern Cross Yıldızı",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "AVUSTRALYA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l3l48xcfn",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin bayrağı dört renk içerir?",
+    "explanation": "Türkiye bayrağı kırmızı zemin ve beyaz ay ile yıldız içerir. Almanya üç renkli (siyah, kırmızı, altın sarısı), Fransa üç renklidir, İtalya üç renklidir.",
+    "options": [
+      "Türkiye",
+      "Almanya",
+      "Fransa",
+      "İtalya"
+    ],
+    "correctAnswer": "Türkiye",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "TÜRKİYE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jhzbzrado",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Japonya bayrağında gösterilen güneş ve ışık hüzmesi neyi temsil eder?",
+    "explanation": "Japonya bayrağınde kırmızı daire, doğan güneşi temsil eder. 'Nichi' (Güneş) anlamındadır.",
+    "options": [
+      "Güney Haçı",
+      "Kuzey Yıldızı",
+      "Rising Sun",
+      "Federal Takımyıldızı"
+    ],
+    "correctAnswer": "Rising Sun",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "JAPONYA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5dgx8vgqg",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Hangi ülkenin bayrağı en uzun süre değişmeden kalmıştır?",
+    "explanation": "İngiltere bayrağı (Union Jack) 1801'den beri temel tasarımla değişmemiştir, en uzun süreli bayralardan biridir.",
+    "options": [
+      "Türkiye",
+      "İngiltere",
+      "Fransa",
+      "İspanya"
+    ],
+    "correctAnswer": "İngiltere",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "İNGİLTERE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nkichz14b",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Kanada bayrağında bulunan kırmızı renklerin sayısı kaçtır?",
+    "explanation": "Kanada bayrağıda iki kırmızı şerit ve beyaz alan bulunur. Kırmızı renkler toplamda üç bölgede görünür.",
+    "options": [
+      "Bir",
+      "İki",
+      "Üç",
+      "Dört"
+    ],
+    "correctAnswer": "İki",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "KANADA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "99htf77az",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti bayrağının altındaki kırmızı zemin üzerinde bulunan sembol nedir?",
+    "explanation": "Türkiye bayrağında kırmızı zemin üzerinde beyaz renkli yarımay bulunmaktadır. Bu sembol milleti ve dinen temsil eder.",
+    "options": [
+      "Yeşil ay",
+      "Beyaz ay",
+      "Altın sarı ay",
+      "Mavi yıldız"
+    ],
+    "correctAnswer": "Beyaz ay",
+    "tags": [
+      "Türkiye",
+      "Bayrak",
+      "Millî Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dd9o59qjv",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Fransa bayrağındaki renklerin sıralaması soldan sağa doğru nasıl olur?",
+    "explanation": "Fransa bayrağı (Tricolor) soldan sağa doğru mavi, beyaz ve kırmızı renklerden oluşur. Bu üç renk Fransa'nın millî sembolüdür.",
+    "options": [
+      "Mavi, Beyaz, Kırmızı",
+      "Kırmızı, Mavi, Beyaz",
+      "Beyaz, Kırmızı, Mavi",
+      "Kırmızı, Beyaz, Mavi"
+    ],
+    "correctAnswer": "Mavi, Beyaz, Kırmızı",
+    "tags": [
+      "Fransa",
+      "Avrupa Bayrakları",
+      "Renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p6db02py9",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Japonya bayrağında bulunan kırmızı dairenin anlamı nedir?",
+    "explanation": "Japonya bayrağındaki kırmızı daire, doğuda yükselen güneşi temsil eder. Beyaz zemin ise saflığı ve temizliği sembolize eder.",
+    "options": [
+      "Güneş",
+      "Ay",
+      "Yıldız",
+      "Dağ"
+    ],
+    "correctAnswer": "Güneş",
+    "tags": [
+      "Japonya",
+      "Asya Bayrakları",
+      "Millî Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7fclynx3n",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "İtalya bayrağının renkleri hangi anlamı taşır?",
+    "explanation": "İtalya bayrağında kırmızı cesareti, beyaz barışı ve yeşili umudu temsil eder. Bu üç renk millî birlik ve beraberliği sembolize eder.",
+    "options": [
+      "Kırmızı: Cesaret, Beyaz: Barış, Yeşil: Ümit",
+      "Kırmızı: Kan, Beyaz: Ölümlülük, Yeşil: Doğa",
+      "Sarı: Altın, Mavi: Okyanus, Kırmızı: Ateş",
+      "Kırmızı: Şevk, Beyaz: Sükunet, Yeşil: Gelecek"
+    ],
+    "correctAnswer": "Kırmızı: Cesaret, Beyaz: Barış, Yeşil: Ümit",
+    "tags": [
+      "İtalya",
+      "Avrupa Bayrakları",
+      "Renk Anlamları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "80zxl39p6",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Almanya bayrağındaki siyah, kırmızı ve sarı renkler hangi döneme dayanır?",
+    "explanation": "Almanya bayrağındaki siyah, kırmızı ve altın sarı renkleri 1848'den itibaren kullanılan Weimar Cumhuriyeti'nden esinlenerek tasarlanmıştır.",
+    "options": [
+      "Weimar Cumhuriyeti",
+      "Demokrasi Devrimi",
+      "İkinci Dünya Savaşı",
+      "Soğuk Savaş Dönemi"
+    ],
+    "correctAnswer": "Weimar Cumhuriyeti",
+    "tags": [
+      "Almanya",
+      "Avrupa Bayrakları",
+      "Tarihî Süreçler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lglixls3p",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EASY",
+    "question": "Hangi ülke Lüksemburg ile aynı bayrağa sahiptir?",
+    "explanation": "Lüksemburg ve Belçika, her ikisi de kırmızı-sarı-mavi dikey üç renkli bayra sahiptir. Lüksemburg'un sarı rengi daha açıkken, Belçika'nınki daha koyudur.",
+    "options": [
+      "Danimarka",
+      "Avusturya",
+      "Belçika",
+      "Fransa"
+    ],
+    "correctAnswer": "Belçika",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jk7wpvqyv",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Japonya bayrağında bulunan beyaz zemin üzerinde kırmızı dairenin anlamı nedir?",
+    "explanation": "Japonya bayrağındaki kırmızı daire, Japonya'nın 'Açıkta Güneş Ülkesi' olarak bilinmesinden kaynaklanır ve doğudan gelen güneşi temsil eder.",
+    "options": [
+      "Güneş",
+      "Ay",
+      "Yıldız",
+      "Dağ"
+    ],
+    "correctAnswer": "Güneş",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "asya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3b2n20lvy",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesinin bayrakında yeşil-beyaz-kırmızı yatay üç renge ortada beyaz yıldız bulunur?",
+    "explanation": "Cezayir bayrağı, yeşil-beyaz-kırmızı yatay üç renge ortada beyaz yıldızdan oluşur. Yeşil İslamiyet'i, beyaz barışı, kırmızı cesareti temsil eder.",
+    "options": [
+      "Tunus",
+      "Cezayir",
+      "Mısır",
+      "Somali"
+    ],
+    "correctAnswer": "Cezayir",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "africa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "diuz96v3o",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Avustralya bayrağında bulunan Union Jack'in varlığının nedeni nedir?",
+    "explanation": "Avustralya bayrağında bulunan Union Jack, İngiltere ile olan tarihsel ve siyasi bağı temsil eder. Avustralya 1788'de İngiliz kolonistler tarafından kurulmuştur.",
+    "options": [
+      "İngiltere ile tarihi bağ",
+      "Hava durumu",
+      "Denizcilik",
+      "Ticaret"
+    ],
+    "correctAnswer": "İngiltere ile tarihi bağ",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "avustralya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qcbkqybki",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Hangi Avrupa ülkesinin bayrağında altın güneş figürü bulunur?",
+    "explanation": "Yunanistan bayrağında yatay üç renge (mavi-beyaz) üstte beyaz zemin üzerinde altın güneş figürü bulunur. Bu figür Yunan Mitolojisindeki Helios'a atıfta bulunur.",
+    "options": [
+      "İspanya",
+      "Portekiz",
+      "Yunanistan",
+      "Almanya"
+    ],
+    "correctAnswer": "Yunanistan",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "avrupa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5lwssgdb6",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en büyük bayraklarından biri olan Amerika Birleşik Devletleri'nin bayrağında kaç adet yıldız bulunur?",
+    "explanation": "Amerika Birleşik Devletleri'nin bayrağında 50 yıldız bulunur, her bir yıldız bir eyaleti temsil eder. Bu sayı 1776'dan beri sabit kalmıştır.",
+    "options": [
+      "A) 48",
+      "B) 49",
+      "C) 50",
+      "D) 51"
+    ],
+    "correctAnswer": "C) 50",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "ABD"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g5jgcz1tx",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin bayrağı kırmızı alanda beyaz hilal ve yıldız taşır?",
+    "explanation": "Türkiye'nin bayrağı kırmızı alanda beyaz hilal ve yıldız taşır. Bu semboller İslam coğrafyasında yaygın olarak kullanılır.",
+    "options": [
+      "A) Türkiye",
+      "B) İran",
+      "C) Pakistan",
+      "D) Libya"
+    ],
+    "correctAnswer": "A) Türkiye",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "TÜRKİYE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zfel8dk5v",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Birleşmiş Milletler'in (BM) bayraklarında bulunan renkler nelerdir?",
+    "explanation": "Birleşmiş Milletler'in bayrağı mavi alanda beyaz renkler taşır. Bu renk seçimi barış ve huzuru temsil eder.",
+    "options": [
+      "A) Mavi ve Beyaz",
+      "B) Yeşil ve Sarı",
+      "C) Kırmızı ve Siyah",
+      "D) Gri ve Turuncu"
+    ],
+    "correctAnswer": "A) Mavi ve Beyaz",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "BM"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r6b12okqs",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "İngiltere'nin (United Kingdom) resmi bayrağına ne ad verilir?",
+    "explanation": "İngiltere'nin resmi bayrağına 'Union Jack' denir. Bu isim üç birlik eyaletinin (İngiltere, İskoçya ve İrlanda) bayraklarının birleşimini ifade eder.",
+    "options": [
+      "A) Union Jack",
+      "B) St. George",
+      "C) St. Andrew",
+      "D) St. Patrick"
+    ],
+    "correctAnswer": "A) Union Jack",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "İNGİLTERE"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q9tvn9x6y",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Dünyada en çok kullanılan bayrak rengi hangisidir?",
+    "explanation": "Kırmızı, dünyada en çok kullanılan bayrak rengidir. Bu renk cesaret, zafer ve devrim sembolü olarak birçok ülkede tercih edilir.",
+    "options": [
+      "A) Kırmızı",
+      "B) Yeşil",
+      "C) Mavi",
+      "D) Beyaz"
+    ],
+    "correctAnswer": "A) Kırmızı",
+    "tags": [
+      "COĞRAFYA",
+      "BAYRAKLAR",
+      "GENEL"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkaxle3jl",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin bayrağı beyaz zemin üzerine mavi kare içerir?",
+    "explanation": "Güney Kore'nin bayrağı beyaz zemin üzerine ortada mavi kare (taegeukgi) ve dört siyah trigram içerir.",
+    "options": [
+      "Güney Kore",
+      "İsrail",
+      "Polonya",
+      "Japonya"
+    ],
+    "correctAnswer": "Güney Kore",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3megus9r5",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Dünya üzerindeki ilk resmi ulusal bayrak 1777'de hangi eyalette kabul edildi?",
+    "explanation": "Dünya üzerindeki ilk resmi ulusal bayrak 1777'de Pennsylvania eyaletinde kabul edildi.",
+    "options": [
+      "Pennsylvania",
+      "Massachusetts",
+      "Virginia",
+      "New York"
+    ],
+    "correctAnswer": "Pennsylvania",
+    "tags": [
+      "bayraklar",
+      "tarih",
+      "kültür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "encjs666j",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin bayrağı dört farklı renkten oluşur?",
+    "explanation": "Fransa'nın bayrağı mavi, beyaz ve kırmızı üç renkten oluşur.",
+    "options": [
+      "Türkiye",
+      "İran",
+      "Fransa",
+      "İngiltere"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "bayraklar",
+      "renkler",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ln3tmfbi5",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Hangi ülkenin bayrağı sadece beyazdan ibarettir?",
+    "explanation": "Nauru'nun bayrağı beyaz zemin üzerine mavi daire içerir, ancak sadece beyaz olan ülkeler arasında Monako ve Antigua vardır.",
+    "options": [
+      "İsviçre",
+      "Monako",
+      "Nauru",
+      "Antigua ve Barbuda"
+    ],
+    "correctAnswer": "Nauru",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sfi8qheo3",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin bayrağında güneş figürü bulunur?",
+    "explanation": "Japonya'nın bayrağı beyaz zemin üzerine ortada kırmızı bir daire (güneş) içerir.",
+    "options": [
+      "Japonya",
+      "Çin",
+      "Kuzey Kore",
+      "Güney Kore"
+    ],
+    "correctAnswer": "Japonya",
+    "tags": [
+      "bayraklar",
+      "coğrafya",
+      "simgeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j0n2u8tbv",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Dünya üzerindeki ilk bayrak olarak kabul edilen Mısır Bayrağındaki altıgen şeklinin anlamı nedir?",
+    "explanation": "Mısır Bayrağındaki altıgen şekil (el-mesire) İslam inancına atıfta bulunur ve 1952'den beri Mısır bayrağında yer alır.",
+    "options": [
+      "Altın Çağ sembolü",
+      "Hepsi",
+      "İslam inancı",
+      "Mısır piramitleri"
+    ],
+    "correctAnswer": "İslam inancı",
+    "tags": [
+      "bayraklar",
+      "mısır",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cl3w41ikv",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EASY",
+    "question": "Kuzey Amerika'da kırmızı ve beyaz renklerin hakim olduğu Kanada Bayrağındaki kırmızı yaprak neyi temsil eder?",
+    "explanation": "Kanada Bayrağındaki kırmızı yaprak ülkenin doğal köklerini ve ormanlarını temsil eder.",
+    "options": [
+      "Kanada kökleri",
+      "Siyaset",
+      "Arapça dil",
+      "İspanyol dili"
+    ],
+    "correctAnswer": "Kanada kökleri",
+    "tags": [
+      "bayraklar",
+      "kanada",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "21rnsicz1",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Avustralya Bayrağındaki yıldızların sayısı toplam kaçtır?",
+    "explanation": "Avustralya Bayrağındaki yıldız toplam 7'dir: Güney Kutup Yıldızı (1) ve Büyük Belirsizlik Yıldızı (6).",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "tags": [
+      "bayraklar",
+      "australya",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dxvpnk1a2",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "İtalya Bayrağındaki yeşil, beyaz ve kırmızı renkler hangi tarihten itibaren kullanılmaktadır?",
+    "explanation": "İtalya Bayrağındaki üç renk 1848'den beri kullanılmakta olup, Ulusal Garanti Paktı'ndan esinlenilmiştir.",
+    "options": [
+      "1805",
+      "1848",
+      "1906",
+      "1923"
+    ],
+    "correctAnswer": "1848",
+    "tags": [
+      "bayraklar",
+      "italya",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dfuhkqfhj",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EASY",
+    "question": "Türkiye Bayrağındaki kırmızı renğin hangi anlamı vardır?",
+    "explanation": "Türkiye Bayrağındaki kırmızı renk şehitlik, fedakarlık ve azizliğin sembolüdür.",
+    "options": [
+      "Şehitlik ve fedakarlık",
+      "Kurbanlık",
+      "Zenginlik",
+      "Güç"
+    ],
+    "correctAnswer": "Şehitlik ve fedakarlık",
+    "tags": [
+      "bayraklar",
+      "türkiye",
+      "coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ohbm7iedc",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EASY",
+    "question": "Türkiye Cumhuriyeti'nin bayrağındaki ay ve yıldız kaç parçadan oluşur?",
+    "explanation": "Türkiye Cumhuriyeti bayrağı beyaz zemin üzerinde sağ üst köşede 1 adet hilal ve 1 adet yıldız taşır.",
+    "options": [
+      "1 adet ay ve 1 adet yıldız",
+      "2 adet ay ve 1 adet yıldız",
+      "1 adet ay ve 3 adet yıldız",
+      "Yoktur"
+    ],
+    "correctAnswer": "1 adet ay ve 1 adet yıldız",
+    "tags": [
+      "Türkiye",
+      "Bayrak",
+      "Milli Semboller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m4a3cnq7l",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin bayrağında sadece yeşil renk kullanılmıştır?",
+    "explanation": "İran bayrağı yeşil, beyaz ve kırmızı olmak üzere üç renkten oluşur. Ancak Pakistan'ın bayrağında sadece yeşil renk kullanılmamıştır (beyaz hilal ve yıldız vardır). Filipinler'in bayrağı mavi, kırmızı ve beyaz içerir.",
+    "options": [
+      "İran",
+      "Pakistan",
+      "Filipinler",
+      "Yoktur"
+    ],
+    "correctAnswer": "İran",
+    "tags": [
+      "İran",
+      "Bayrak Renkleri",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wvr8wgodo",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "EXPERT",
+    "question": "Dünyada en çok kez değiştirilen bayrak hangisidir?",
+    "explanation": "Amerika Birleşik Devletleri bayrağı 1776'dan beri 27 kez tasarlanmış ve değiştirilmiştir. En çok değişiklik gösteren ülkedir.",
+    "options": [
+      "ABD",
+      "İngiltere",
+      "Fransa",
+      "Japonya"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "ABD",
+      "Bayrak Tarihi",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "us0ncvddd",
+    "category": "COĞRAFYA",
+    "subcategory": "Bayraklar",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin bayrağı üzerinde dünya haritası bulunur?",
+    "explanation": "Antigua ve Barbuda'nın bayrağında mavi zemin üzerinde kırmızı V şeklinde bir sembol bulunur. Barbados'un bayrağı ise yeşil, sarı ve siyah renkler içerir.",
+    "options": [
+      "Antigua ve Barbuda",
+      "Barbados",
+      "Belize",
+      "Yoktur"
+    ],
+    "correctAnswer": "Antigua ve Barbuda",
+    "tags": [
+      "Kıbrıs",
+      "Bayrak Sembolleri",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

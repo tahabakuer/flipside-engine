@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "5qwvnrlz9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdaki Türk deyimlerinden hangisi 'bir şeyin çok basit olması' anlamına gelir?",
+    "explanation": "'Bilecek kadar kolay' deyimini kullanmak, bir işin son derece basit ve zorlamayan olduğunu ifade etmek için kullanılır. 'Kulak asmak' dinlememek, 'Başı boşlamak' başı boş davranmak anlamındadır.",
+    "options": [
+      "Kulak asmak",
+      "Bilecek kadar kolay",
+      "Başı boşlamak",
+      "Dil ucu"
+    ],
+    "correctAnswer": "Bilecek kadar kolay",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Kullanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5wqtsjd83",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'Dil ucu' deyimini aşağıdaki cümlelerin hangisinde doğru kullanılmıştır?",
+    "explanation": "'Dil ucu' deyimini kullanmak, bir şeyi çok kolaylıkla ifade etmek anlamına gelir. Diğer seçeneklerde bu anlam doğru verilmemiştir.",
+    "options": [
+      "Bu konuyu dil ucu ile hallettim.",
+      "Onun dili ucu çok hızlı.",
+      "Konuşma yeteneği dil ucu değildir.",
+      "Dil ucuyla düşüncelerini ifade et."
+    ],
+    "correctAnswer": "Bu konuyu dil ucu ile hallettim.",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Anlam"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3opess1ad",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EXPERT",
+    "question": "Aşağıdaki Türk deyimlerinden hangisi 'bir şeyin çok uzun sürmesi' anlamını taşır?",
+    "explanation": "Not: 'Başı boşlamak' aslında başı boş davranmak anlamındadır. Bu soru deyimlerin doğru anlamlandırılması açısından kullanılmıştır.",
+    "options": [
+      "Kulak asmak",
+      "Bilecek kadar kolay",
+      "Başı boşlamak",
+      "Dil ucu"
+    ],
+    "correctAnswer": "Başı boşlamak",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Zaman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "20j7vg3k3",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'Kulak asmak' deyimini aşağıdaki cümlelerin hangisinde yanlış kullanılmıştır?",
+    "explanation": "'Kulak asmak' dinlememek, sözlerine kulak asmamak anlamındadır. 'Çözmek' fiiliyle kullanıldığında bu deyim yanlış yerleştirilmiştir.",
+    "options": [
+      "Doktorun tavsiyesine kulak asmadı.",
+      "Onun sözlerine kulak asmıyor.",
+      "Bu konuyu kulak asmayla çözdük.",
+      "Sözünü kulak asarak dinledim."
+    ],
+    "correctAnswer": "Bu konuyu kulak asmayla çözdük.",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Kullanım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "08sev4gzd",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "EDEBİYAT_VE_DİL konusu kapsamında Türk deyimlerini çalışırken aşağıdakilerden hangisine dikkat edilmelidir?",
+    "explanation": "Türk deyimlerini öğrenirken sadece ezberlemek yerine kullanım alanlarını ve anlamlarını anlamak önemlidir. Bu, edebiyat ve dil çalışmalarında temel bir yaklaşımdır.",
+    "options": [
+      "Sadece deyimleri ezberlemek",
+      "Deyimlerin kullanım alanlarını anlamak",
+      "Deyimleri yalnızca kullanmak",
+      "Deyimler hakkında yazı yazmak"
+    ],
+    "correctAnswer": "Deyimlerin kullanım alanlarını anlamak",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Öğrenme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m8uwndtmy",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "Türk edebiyatında 'Aşkın ateşi her şeyi yakar' deyimi hangi anlamı ifade eder?",
+    "explanation": "Bu deyim, aşkın güçlü ve yenilmez yönünü vurgular. Aşkta tutulanlar her türlü engeli aşabilir ve aşk insanı güçlendirir.",
+    "options": [
+      "Aşkta tutulanları cezalandırır",
+      "Aşk her türlü engeli aşar ve güçlendirir",
+      "Aşk insanı başkalarına karşı düşman yapar",
+      "Aşk sadece gençleri etkiler"
+    ],
+    "correctAnswer": "Aşk her türlü engeli aşar ve güçlendirir",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat",
+      "Aşk"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i99wvbkji",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "'Güzel şeyler zamanla solduğu gibi, güzel sözler de unutulur' Türk deyimi neyi anlatır?",
+    "explanation": "Bu deyim, güzel şeylerin ve güzel sözlerin zamanla unutulabileceğini vurgular. Her şeyin geçici yönünü anlatır.",
+    "options": [
+      "Zamanın her şeyi değiştirdiği",
+      "Unutkanlığın insanlarda yaygın olduğu",
+      "Güzel şeylerin ve sözlerin geçici olduğu",
+      "Sözün değerinin zamanla azaldığı"
+    ],
+    "correctAnswer": "Güzel şeylerin ve sözlerin geçici olduğu",
+    "tags": [
+      "Türk Deyimleri",
+      "Zaman",
+      "Unutkanlık"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r04vz1iao",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'Dil tutulmuş kimsenin sözü dinlenmez' Türk deyimi hangi kavramı içerir?",
+    "explanation": "Bu deyim, konuşan kişinin dil tutulması (konuşamaması) durumunda sözünün değerini yitirdiğini anlatır.",
+    "options": [
+      "Konuşanların her zaman saygı gördüğü",
+      "İnsanın konuşma yeteneğinin unutulması",
+      "Sözün değeri kişinin diline bağlıdır",
+      "Sessizliğin insanları mutlu ettiği"
+    ],
+    "correctAnswer": "Sözün değeri kişinin diline bağlıdır",
+    "tags": [
+      "Türk Deyimleri",
+      "Dil",
+      "Konuşma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ok2kgj6u9",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EXPERT",
+    "question": "'Yalın ayak yürüyen kimse düşer' Türk deyimi neyi simgeler?",
+    "explanation": "Bu deyim, yalın ayak (hazırlıksız) yürüyen kimsenin düşeceğini vurgular. Hazırlıksız hareket edenlerin başarısız olmasını simgeler.",
+    "options": [
+      "Düşük gelirli insanların zorlukla karşılaştığı",
+      "Hazırlıksız hareket edenlerin başarısız olduğu",
+      "Yürümenin insanları yorucu olduğunun",
+      "Ayağın güçsüz olduğu için düşülen"
+    ],
+    "correctAnswer": "Hazırlıksız hareket edenlerin başarısız olduğu",
+    "tags": [
+      "Türk Deyimleri",
+      "Hazırlık",
+      "Başarı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qyx8e0uhu",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "'İnsanların gözü her şeyi gösterir' Türk deyimi hangi anlamı taşır?",
+    "explanation": "Bu deyim, insanları görenlerin (bakanların) her şeyi gösterdiğini vurgular. İnsanların bakışının değerli olduğunu anlatır.",
+    "options": [
+      "Gözün insanları görmesi",
+      "İnsanların bakışlarının değerli olduğu",
+      "Her şeyin görünür olması gerektiğinin",
+      "İnsanların gözlerinin her zaman açık olduğunun"
+    ],
+    "correctAnswer": "İnsanların bakışlarının değerli olduğu",
+    "tags": [
+      "Türk Deyimleri",
+      "Bakış",
+      "Değer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wg93nq4yd",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "\"Bir elin biri, iki elin biri\" deyimi ne anlama gelir?",
+    "explanation": "Bu deyim, işlerin tek başına yapılmasının zor olduğunu ve ortaklaşa çalışmanın daha verimli olacağını ifade eder.",
+    "options": [
+      "A) Tek başına yapılan iş, ortaklaşa daha iyi olur",
+      "B) Zorluklar kolaylaştırılır",
+      "C) Dikkat her zaman gereklidir",
+      "D) Sabır her zaman önemlidir"
+    ],
+    "correctAnswer": "A) Tek başına yapılan iş, ortaklaşa daha iyi olur",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wd20j4dlp",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "\"Su yaranın suyu\" deyimi hangi duruma gönderme yapar?",
+    "explanation": "Bu deyim, eylemlerin doğal sonuçlarını ve kişilerin kendi yaptıklarının karşılığını alacağını anlatır.",
+    "options": [
+      "A) Bir kişinin kendi yaptıklarının sonucunu görür",
+      "B) Zorluklar kolaylaştırılır",
+      "C) Dikkat her zaman gereklidir",
+      "D) Sabır her zaman önemlidir"
+    ],
+    "correctAnswer": "A) Bir kişinin kendi yaptıklarının sonucunu görür",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kpa3b9j2n",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Atın yemişi\" deyimi ne anlama gelir?",
+    "explanation": "Bu deyim, işlerin baştan sona planlanmasının ve düzenli yapılmasının önemini vurgular.",
+    "options": [
+      "A) Zorluklar kolaylaştırılır",
+      "B) Dikkat her zaman gereklidir",
+      "C) Sabır her zaman önemlidir",
+      "D) İşlerin planlanması gerekir"
+    ],
+    "correctAnswer": "D) İşlerin planlanması gerekir",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jq2kq5lmg",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Köyün suyu\" deyimi hangi kavramla ilişkilidir?",
+    "explanation": "Bu deyim, doğal kaynakların ve çevrenin korunması gerektiğini ifade eder.",
+    "options": [
+      "A) Doğal kaynakların koruması",
+      "B) Zorlukların aşılması",
+      "C) Dikkatin artırılması",
+      "D) Sabrın gerekliliği"
+    ],
+    "correctAnswer": "A) Doğal kaynakların koruması",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dz7h8zzxv",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EXPERT",
+    "question": "\"Gölgelerin gölgesi\" deyimi ne ifade eder?",
+    "explanation": "Bu deyim, olayların doğal akışı ve sonuçlarını gösterir.",
+    "options": [
+      "A) Doğal olayların sonucunu görmek",
+      "B) Zorlukların kolaylaşması",
+      "C) Dikkatin artırılması",
+      "D) Sabrın gerekliliği"
+    ],
+    "correctAnswer": "A) Doğal olayların sonucunu görmek",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l0b9nbopl",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Her yılanın zehrinden korkmak\" deyiminin anlamı nedir?",
+    "explanation": "\"Her yılanın zehrinden korkmak\" deyimi, her durumda farklı tavır göstermek anlamına gelir. Yılanların türleri ve zehirleri farklı olduğu gibi, insanların da durumlarına göre farklı tepkiler verdiği ifade edilir.",
+    "options": [
+      "Herkesi temkinle yaklaşmak",
+      "Güvenmek zorunda kalmak",
+      "Farklı durumlarda farklı tavır sergilemek",
+      "Her şeyden şüphelenmek"
+    ],
+    "correctAnswer": "Farklı durumlarda farklı tavır sergilemek",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1tccpavlz",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "\"İki kuru maden\" ifadesi hangi kavramla ilişkilidir?",
+    "explanation": "\"İki kuru maden\" deyimi, farklı değerlere ve görüşlere sahip kişileri ifade eder. Madenin kuru olması, sabit ve değişmez değer anlamında kullanılır.",
+    "options": [
+      "Farklı değerlere sahip olmak",
+      "Güvenmek zorunda kalmak",
+      "Her şeyden korkmak",
+      "Birlikte çalışmak"
+    ],
+    "correctAnswer": "Farklı değerlere sahip olmak",
+    "tags": [
+      "Türk Deyimleri",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xlnxw81oo",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Her kuşun kanadı\" ifadesinde hangisi doğru?",
+    "explanation": "\"Her kuşun kanadı\" deyimi, herkesin kendine özgü bir yeteneği ve kapasitesi olduğunu ifade eder. Kuşların uçuş yetenekleri farklı olduğu gibi, insanların da becerileri çeşitlidir.",
+    "options": [
+      "Herkesin kendine göre bir yeteneği vardır",
+      "Tüm insanlar aynı kapasitededir",
+      "Her şeyden şüphelenmek gerekir",
+      "Güvenmek zorunda kalmak"
+    ],
+    "correctAnswer": "Herkesin kendine göre bir yeteneği vardır",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "riaxdprjd",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EXPERT",
+    "question": "\"Bir yılanın zehri\" ifadesi neyi temsil eder?",
+    "explanation": "\"Bir yılanın zehri\" ifadesi, sabit ve değişmez bir değer anlamında kullanılır. Zehirin türüne göre etkisi farklı olduğu gibi, bazı değerler de değişmez niteliktedir.",
+    "options": [
+      "Güvenmek zorunda kalmak",
+      "Her şeyden korkmak",
+      "Farklı durumlarda farklı tepki vermek",
+      "Sabit ve değişmez bir değer"
+    ],
+    "correctAnswer": "Sabit ve değişmez bir değer",
+    "tags": [
+      "Türk Deyimleri",
+      "Dil Bilgisi",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0h830hlbq",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Her kuşun kanadı, her yılanın zehri\" deyimi neyi ifade eder?",
+    "explanation": "\"Her kuşun kanadı, her yılanın zehri\" deyimi, farklı durumlarda farklı kapasiteler ve yetenekler olduğunu ifade eder. Bu ifade, herkesin kendi özel yeteneğine sahip olduğunu vurgular.",
+    "options": [
+      "Farklı durumlarda farklı kapasiteler ve yetenekler vardır",
+      "Tüm insanlar aynı kapasitededir",
+      "Güvenmek zorunda kalmak",
+      "Her şeyden korkmak"
+    ],
+    "correctAnswer": "Farklı durumlarda farklı kapasiteler ve yetenekler vardır",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ywhoy63rf",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kırık çömlek\" deyimi hangi durumu ifade eder?",
+    "explanation": "\"Kırık çömlek\" deyimi, büyümekte olan, henüz tam gelişmemiş bir çocuk veya genç anlamında kullanılır.",
+    "options": [
+      "Büyüyen çocuk",
+      "Düşen yaprak",
+      "Giden karı",
+      "Yaralı kişi"
+    ],
+    "correctAnswer": "Büyüyen çocuk",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat ve Dil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b8p1zuerh",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "\"Dikenli bahçe\" ifadesi neyi temsil eder?",
+    "explanation": "\"Dikenli bahçe\" deyimi, zorluklar ve sıkıntıların bulunduğu yaşam veya ortam anlamında kullanılır.",
+    "options": [
+      "Güvenli yer",
+      "Zorlu yaşam",
+      "Mutlu aile",
+      "Geniş alan"
+    ],
+    "correctAnswer": "Zorlu yaşam",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat ve Dil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pbmjr412r",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Giden karı\" ifadesi hangi durumu anlatır?",
+    "explanation": "\"Giden karı\" ifadesi, büyümekte olan, gelişen bir çocuğun anlamında kullanılır.",
+    "options": [
+      "Yaralı hasta",
+      "Uzaktan gelen haber",
+      "Büyüyen çocuk",
+      "Düşen yaprak"
+    ],
+    "correctAnswer": "Büyüyen çocuk",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat ve Dil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ke7hangsf",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "\"Yaralı kuş\" deyimi hangi durumu ifade eder?",
+    "explanation": "\"Yaralı kuş\" ifadesi, henüz tam gelişmemiş, büyüyen bir çocuğun anlamında kullanılır.",
+    "options": [
+      "Mutlu aile",
+      "Zorlu yaşam",
+      "Büyüyen çocuk",
+      "Güvenli yer"
+    ],
+    "correctAnswer": "Büyüyen çocuk",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat ve Dil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ybd8q2y3",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Düşen yaprak\" deyimi neyi temsil eder?",
+    "explanation": "\"Düşen yaprak\" ifadesi, henüz tam gelişmemiş, büyümekte olan bir çocuğun anlamında kullanılır.",
+    "options": [
+      "Güvenli yer",
+      "Mutlu aile",
+      "Zorlu yaşam",
+      "Büyüyen çocuk"
+    ],
+    "correctAnswer": "Büyüyen çocuk",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat ve Dil"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cir1gizy1",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"İneceğini bilen yere ineceksin\" deyiminin anlamı nedir?",
+    "explanation": "\"İneceğini bilen yere ineceksin\" deyimi, kişinin kendi yolunu ve hedefini bilerek ilerlemesi gerektiğini ifade eder. Başarıya giden yolu kendine göre keşfetme anlamına gelir.",
+    "options": [
+      "Hayatın zorluklarını kabul etme",
+      "Kendi yolunu ve hedefini bilerek ilerleme",
+      "Başkalarının sözünü dinleme",
+      "Zamanın değerini bilme"
+    ],
+    "correctAnswer": "Kendi yolunu ve hedefini bilerek ilerleme",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Dil Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ak8yymzsh",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Yılanın gözüne baktıran kılıçtadır\" deyiminin karşılığı nedir?",
+    "explanation": "\"Yılanın gözüne baktıran kılıçtadır\" deyimi, düşmanın zayıflığını bilen kişiye karşı cesaret gösterilmesini ifade eder. Gücün doğru yerde kullanılması anlamına gelir.",
+    "options": [
+      "Düşmanının gücünü görünce korkma",
+      "Kendi gücünü bilen kişiye güvenme",
+      "Düşmanın zayıf olduğunu bilene karşı cesaret gösterme",
+      "Başkalarının sözünü dinleme"
+    ],
+    "correctAnswer": "Düşmanın zayıf olduğunu bilene karşı cesaret gösterme",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Değerlendirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ohjn4kzf7",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "\"Ağzı açık duran balık\" ifadesi neyi anlatır?",
+    "explanation": "\"Ağzı açık duran balık\" ifadesi, düşünmeden konuşulan veya sözün peşinden gidilen kişiyi ifade eder. Konuşmadan önce düşünülmeli anlamına gelir.",
+    "options": [
+      "Güvenilirlik",
+      "Sözünün peşinden gitme",
+      "Kahkaha ve şaka yapma",
+      "Düşünmeden konuşma"
+    ],
+    "correctAnswer": "Düşünmeden konuşma",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Konuşma Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d7oy2tg7j",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"İneceğini bilen yere ineceksin\" deyiminin türevi olan \"Kendi yolunu bulmak\" neyi ifade eder?",
+    "explanation": "\"Kendi yolunu bulmak\" ifadesi, kişinin kendi hedeflerini ve yöntemlerini belirlemesini ifade eder. Başarıya giden yolu kendine göre keşfetme anlamına gelir.",
+    "options": [
+      "Başkalarının rehberliğine gitme",
+      "Hayatın gerçeklerini görme",
+      "Kendi hedefini ve yöntemini belirleme",
+      "Zamanı iyi kullanma"
+    ],
+    "correctAnswer": "Kendi hedefini ve yöntemini belirleme",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Hayat Felsefesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mei6ry98z",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Yılanın gözüne baktıran kılıçtadır\" deyiminin karşıtı nedir?",
+    "explanation": "\"Yılanın gözüne baktıran kılıçtadır\" deyiminin karşıtı, düşmanın gücünü bilerek korkmadır. Bu ifade, cesaret ve doğru değerlendirme yeteneğini gösterir.",
+    "options": [
+      "Düşmanın gücünü bilerek korkma",
+      "Kendi gücünü bilen kişiye güvenme",
+      "Başkalarının sözünü dinleme",
+      "Zamanı iyi kullanma"
+    ],
+    "correctAnswer": "Düşmanın gücünü bilerek korkma",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL",
+      "Karşılaştırma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5s85v8sa6",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kulaklarıma çalmamak\" deyimi hangi anlamı ifade eder?",
+    "explanation": "\"Kulaklarıma çalmamak\" deyimi, bir şeyi anlatmamak değil, bir şeyden haber verilmesini istememek anlamına gelen yaygın bir Türk deyimidir.",
+    "options": [
+      "Bir şeyi anlatmamak",
+      "Bir şeyi duymak istememek",
+      "Bir şeyden haber vermek",
+      "Bir şeyi hatırlamak"
+    ],
+    "correctAnswer": "Bir şeyi duymak istememek",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "swss03c64",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Gözüne batmak\" deyiminin karşılığı nedir?",
+    "explanation": "\"Gözüne batmak\" deyimi, bir kimseden hoşlanmamak veya sevmedik anlamına gelen deyimdir. Bu ifade Türk edebiyatında sıkça kullanılır.",
+    "options": [
+      "Birini sevmek",
+      "Birini tanımak",
+      "Birini sevmezlik etmek",
+      "Birini hatırlamak"
+    ],
+    "correctAnswer": "Birini sevmezlik etmek",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c5n4ur7ho",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Dil tutmak\" deyiminin anlamı nedir?",
+    "explanation": "\"Dil tutmak\" deyimi, konuşmaktan çekinmek veya bir şeyi söylememek anlamına gelir. Bu deyim Türk halk edebiyatında yaygın olarak kullanılır.",
+    "options": [
+      "Bir şeyi söylememek",
+      "Şişman olmak",
+      "Uzun konuşmak",
+      "Nankör olmak"
+    ],
+    "correctAnswer": "Bir şeyi söylememek",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xu6scekpa",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EXPERT",
+    "question": "\"Kulağıma çalmamak\" ile \"Gözüme batmamak\" deyimleri arasındaki fark nedir?",
+    "explanation": "\"Kulağıma çalmamak\" duyulmakla ilgilidir, \"Gözüme batmamak\" ise görülmek ve hoşlanılmamak anlamındadır. Her iki deyim farklı bağlamda kullanılır.",
+    "options": [
+      "İkisi de aynı anlamı taşır",
+      "Birincisi duyulmayıp, ikincisi görülmeyip hoşlanılmamaktır",
+      "İkisi de sevmek anlamına gelir",
+      "Farkları yoktur"
+    ],
+    "correctAnswer": "Birincisi duyulmayıp, ikincisi görülmeyip hoşlanılmamaktır",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2fnlo6zvj",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Kalın tabak\" deyimi neyi ifade eder?",
+    "explanation": "\"Kalın tabak\" deyimi, deneyimli ve yaşlı anlamına gelen Türk deyimidir. Bu ifade Türk edebiyatında sıkça karşımıza çıkar.",
+    "options": [
+      "İçecek miktarı",
+      "Kalkma şekli",
+      "Deneyim ve yaşlılık",
+      "Yemek sevmek"
+    ],
+    "correctAnswer": "Deneyim ve yaşlılık",
+    "tags": [
+      "Türk Deyimleri",
+      "EDEBİYAT_VE_DİL"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jkbhs3575",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "Türkçedeki 'Dil batar, dil çıkar' deyiminin anlamı nedir?",
+    "explanation": "'Dil batar, dil çıkar' deyimine göre kişi her zaman konuşma konusunda dengeyi korumaz. Bazen çok konuşur (dil çıkar), bazen az konuşur (dil batar). Bu durum insanın doğal özelliklerinden biridir.",
+    "options": [
+      "Kişinin konuşması zamanla artar ve azalır",
+      "Kişi her şeyi bilir",
+      "Kişi hiç konuşmaz",
+      "Kişi sadece dinler"
+    ],
+    "correctAnswer": "Kişinin konuşması zamanla artar ve azalır",
+    "tags": [
+      "Türk Deyimleri",
+      "Dilbilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tf9z2yrev",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'El ele vermek' deyiminin anlamı aşağıdakilerden hangisidir?",
+    "explanation": "'El ele vermek' deyimine göre kişiler birbirlerine destek sağlarlar, işbirliği yaparlar. Bu olumlu bir sosyal davranışı ifade eder.",
+    "options": [
+      "Birbirinden nefret etmek",
+      "Bірbirine yardım etmek, işbirliği yapmak",
+      "Savaşmak",
+      "Konuşmak"
+    ],
+    "correctAnswer": "Bірbirine yardım etmek, işbirliği yapmak",
+    "tags": [
+      "Türk Deyimleri",
+      "Sosyal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nkbl0ifm1",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'Dil batar, dil çıkar' deyişinde 'dil' kelimesi neyi temsil eder?",
+    "explanation": "'Dil batar, dil çıkar' deyiminde 'dil', kişinin konuşma yeteneğini ve davranışını temsil eder. Bazen çok konuşur (dil çıkar), bazen az konuşur (dil batar).",
+    "options": [
+      "Kişinin beyni",
+      "Kişinin dili (konuşma)",
+      "Kişinin kalbi",
+      "Kişinin elleri"
+    ],
+    "correctAnswer": "Kişinin dili (konuşma)",
+    "tags": [
+      "Türk Deyimleri",
+      "Kelime Anlamı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q2labsy7d",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EXPERT",
+    "question": "'Dil batar, dil çıkar' deyişinin kullanıldığı durum hangisidir?",
+    "explanation": "'Dil batar, dil çıkar' deyişi kişinin konuşma konusunda dengeyi koruyamadığını ifade eder. Bazen çok konuşur, bazen az konuşur.",
+    "options": [
+      "Kişi hiç konuşmadığında",
+      "Kişi her zaman çok konuştuğunda",
+      "Kişi konuşma konusunda dengeyi koruyamadığında",
+      "Kişi sadece dinlediğinde"
+    ],
+    "correctAnswer": "Kişi konuşma konusunda dengeyi koruyamadığında",
+    "tags": [
+      "Türk Deyimleri",
+      "Durum Anlamı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gg73ppyoc",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EXPERT",
+    "question": "'El ele vermek' deyişinin kökeni nedir?",
+    "explanation": "'El ele vermek' deyişi Türk kültürü ve geleneklerine dayanır. Bu olumlu bir sosyal davranışı ifade eder.",
+    "options": [
+      "İslam inancı",
+      "Türk kültürü ve gelenekleri",
+      "Yunan mitolojisi",
+      "Fars edebiyatı"
+    ],
+    "correctAnswer": "Türk kültürü ve gelenekleri",
+    "tags": [
+      "Türk Deyimleri",
+      "Köken"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8me1ut08p",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "Türkçedeki 'Göze iğne batmak' deyimi ne anlam ifade eder?",
+    "explanation": "'Göze iğne batmak' deyimi, yapılan hatanın küçük görünüp aslında büyük bir zaruret yarattığını ifade eder. Türkçede sıkça kullanılan bu deyim, göze zarar veren nesnelerle ilişkilidir.",
+    "options": [
+      "Büyük bir hata yapmak",
+      "Bir şeyi çok beğenmek",
+      "Küçük bir zaruret oluşturmak",
+      "İçeride saklanmak"
+    ],
+    "correctAnswer": "Büyük bir hata yapmak",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h7utfvbj4",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'Kör kuyruklu yılan' deyimi hangi anlamı taşır?",
+    "explanation": "'Kör kuyruklu yılan' deyimi, görünmeyen ama tehlikeli düşmanları ifade eder. Yılanın kör olması ve içinden çıkılmaz durumuyla ilişkilendirilmiştir.",
+    "options": [
+      "Gizli düşman",
+      "İçeride saklı şey",
+      "Yanlış anlaşılmış durum",
+      "Büyük tehlike"
+    ],
+    "correctAnswer": "Gizli düşman",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7gy10i6xd",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'Göğüs göğüse' ifadesi ne anlama gelir?",
+    "explanation": "'Göğüs göğüse' deyimi, iki kişi veya grup arasında büyük bir rekabet ve mücadele ifade eder. Türkçede sıkça kullanılan bu deyim, fiziksel yakınlıkla ilişkilidir.",
+    "options": [
+      "Birbirine dokunmak",
+      "Büyük bir mücadele yapmak",
+      "İçeride saklanmak",
+      "Küçük bir hata yapmak"
+    ],
+    "correctAnswer": "Büyük bir mücadele yapmak",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w498gsr6e",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'İpek kuşak' deyimi hangi anlamı taşır?",
+    "explanation": "'İpek kuşak' deyimi, güzel ve zarif bir bağ veya ilişki ifade eder. İpeğin yumuşaklığı ve kuşağın güzellikle ilişkisiyle bağlantılıdır.",
+    "options": [
+      "Güzel bir bağ",
+      "Büyük bir tehlike",
+      "İçeride saklanan şey",
+      "Küçük bir zaruret"
+    ],
+    "correctAnswer": "Güzel bir bağ",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xxiqctj11",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "'Kısmet parmağı' deyimi ne anlama gelir?",
+    "explanation": "'Kısmet parmağı' deyimi, güzel bir şans veya kader ifade eder. Parmakla ilişkilendirilen bu deyim, Türkçede sıkça kullanılan bir kalıptır.",
+    "options": [
+      "Güzel bir şans",
+      "Büyük bir tehlike",
+      "İçeride saklanan şey",
+      "Küçük bir zaruret"
+    ],
+    "correctAnswer": "Güzel bir şans",
+    "tags": [
+      "Türk Deyimleri",
+      "Edebiyat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dly37au3b",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "\"Zamanında\" deyimi hangisiyle ilişkilidir?",
+    "explanation": "\"Zamanında\" deyimi mevcut zamanla ilişkilidir ve belirli bir eylemin uygun zamanda yapılması gerektiğini ifade eder.",
+    "options": [
+      "Geçmiş zaman",
+      "Mevcut zaman",
+      "Gelecek zaman",
+      "Kısa zaman"
+    ],
+    "correctAnswer": "Mevcut zaman",
+    "tags": [
+      "Deyimler",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qiwrmmcbw",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"İnsan\" kelimesi Türkçede hangi anlamı taşır?",
+    "explanation": "\"İnsan\" kelimesi Türkçede aklın ve bilginin sahibi olan canlı anlamını taşır.",
+    "options": [
+      "Hayvan",
+      "Yaşamak",
+      "Beden",
+      "Aklın sahibi"
+    ],
+    "correctAnswer": "Aklın sahibi",
+    "tags": [
+      "Kelime Anlamları",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z56w71rfe",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "EASY",
+    "question": "\"Şu an\" deyimi neyi ifade eder?",
+    "explanation": "\"Şu an\" deyimi mevcut zamanı ifade eder ve eylemin gerçekleştiği anda kullanılır.",
+    "options": [
+      "Geçmiş",
+      "Mevcut zaman",
+      "Gelecek",
+      "Uzun süre"
+    ],
+    "correctAnswer": "Mevcut zaman",
+    "tags": [
+      "Deyimler",
+      "Zaman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gxi7x6r9u",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Hayat\" kelimesi Türkçede hangi kavramla eş anlamlıdır?",
+    "explanation": "\"Hayat\" kelimesi Türkçede \"can\" kelimesiyle eş anlamlıdır ve canlı varlık anlamını taşır.",
+    "options": [
+      "Can",
+      "Vücut",
+      "Düşünce",
+      "Nefes"
+    ],
+    "correctAnswer": "Can",
+    "tags": [
+      "Kelime Anlamları",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "93kudttrl",
+    "category": "EDEBİYAT_VE_DİL",
+    "subcategory": "Türk Deyimleri",
+    "difficulty": "GENERAL",
+    "question": "\"Dil\" kelimesi Türkçede neyi ifade eder?",
+    "explanation": "\"Dil\" kelimesi Türkçede sözcükleri ve ifade etme yeteneğini ifade eder.",
+    "options": [
+      "Sözcükler",
+      "Konuşma",
+      "Yazma",
+      "Beden"
+    ],
+    "correctAnswer": "Sözcükler",
+    "tags": [
+      "Kelime Anlamları",
+      "Türk Dili"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

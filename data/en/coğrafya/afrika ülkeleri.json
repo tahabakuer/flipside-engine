@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "01qcp8hc1",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "What is the capital city of Egypt?",
+    "explanation": "Cairo is the capital city of Egypt, located in the northeastern part of the country.",
+    "options": [
+      "Alexandria",
+      "Cairo",
+      "Giza",
+      "Luxor"
+    ],
+    "correctAnswer": "Cairo",
+    "tags": [
+      "capitals",
+      "egypt"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5u1v6m0vm",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Which African country contains Mount Kilimanjaro, the highest peak entirely within Africa?",
+    "explanation": "Mount Kilimanjaro is a stratovolcano located in Tanzania and has an elevation of 5,895 meters.",
+    "options": [
+      "Uganda",
+      "Kenya",
+      "Rwanda",
+      "Tanzania"
+    ],
+    "correctAnswer": "Tanzania",
+    "tags": [
+      "physical_features",
+      "mountains"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mcw4h6zwk",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "What is the longest river in Africa by total length?",
+    "explanation": "The Nile River flows through northeastern Africa and has a length of approximately 6,650 kilometers.",
+    "options": [
+      "Congo River",
+      "Nile River",
+      "Niger River",
+      "Zambezi River"
+    ],
+    "correctAnswer": "Nile River",
+    "tags": [
+      "rivers",
+      "africa"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c2polybs5",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Which African country has the largest desert area within its territory?",
+    "explanation": "The Sahara Desert covers about 90% of Algeria's land area, making it the country with the largest desert territory in Africa.",
+    "options": [
+      "Libya",
+      "Algeria",
+      "Morocco",
+      "Sudan"
+    ],
+    "correctAnswer": "Algeria",
+    "tags": [
+      "deserts",
+      "geography"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mdrpa58pj",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Following South Sudan's independence in 2011, which country significantly reduced its land area?",
+    "explanation": "Before 2011, Sudan included the region that became South Sudan, leading to a reduction in its area and population after independence.",
+    "options": [
+      "Ethiopia",
+      "Uganda",
+      "Democratic Republic of Congo",
+      "Sudan"
+    ],
+    "correctAnswer": "Sudan",
+    "tags": [
+      "political_history",
+      "south_sudan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1qheum7jc",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Afrika ülkesi nüfusu bakımından en kalabalık ülkedir?",
+    "explanation": "Nijerya, Afrika'da en büyük nüfusa sahip ülkedir. 2023 verilerine göre yaklaşık 218 milyonu aşan nüfusu ile dünyada da ilk 10 içinde yer alır.",
+    "options": [
+      "Kenya",
+      "Nijerya",
+      "Congo",
+      "Güney Afrika"
+    ],
+    "correctAnswer": "Nijerya",
+    "tags": [
+      "nüfus",
+      "Afrika ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kpvm6v2eu",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Nil Nehri'nin aktığı ve bu nehrin kaynaklandığı Afrika ülkesi hangisidir?",
+    "explanation": "Nil Nehri, Afrika'nın en uzun nehridir ve Mısır ülkesinin kuzeyinden Akdeniz'e dökülür. Mısır'ın tarımı Nil'in sularına dayanır.",
+    "options": [
+      "Mısır",
+      "Sudan",
+      "Etiyopya",
+      "Rwanda"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "Nil Nehri",
+      "coğrafi özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1syta2g0j",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesi hem Atlas Okyanusu'na hem de Akdeniz'e kıyıları vardır?",
+    "explanation": "Fas, kuzeyinde Akdeniz, batısında ise Atlas Okyanusu'na kıyısı vardır. Bu durum ülkenin ticaret için önemli bir konuma sahip olduğunu gösterir.",
+    "options": [
+      "Moritanya",
+      "Libya",
+      "Mauritaniya",
+      "Fas"
+    ],
+    "correctAnswer": "Fas",
+    "tags": [
+      "okyanuslar",
+      "kıyı ülkeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "apq4lattq",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Afrika'nın 'Vahşi Hayatı Koruma' programında yer alan ve ulusal parkları ile tanınan ülke hangisidir?",
+    "explanation": "Güney Afrika, Kruger Ulusal Parkı ve diğer birçok doğal alanıyla vahşi yaşam koruma programında önemli bir yere sahiptir.",
+    "options": [
+      "Tanzanya",
+      "Güney Afrika",
+      "Zimbabve",
+      "Mozambik"
+    ],
+    "correctAnswer": "Güney Afrika",
+    "tags": [
+      "vaşiy hayatı",
+      "ulusal parklar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0eloe96cl",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesi Kuzey Afrika bölgesinde yer almaz?",
+    "explanation": "Nijer, Orta Afrika bölgesinde yer alırken; Cezayir, Libya ve Sudan Kuzey Afrika ülkeleridir. Bu nedenle Nijer doğru cevaptır.",
+    "options": [
+      "Cezayir",
+      "Libya",
+      "Sudan",
+      "Nijer"
+    ],
+    "correctAnswer": "Nijer",
+    "tags": [
+      "Afrika bölgeleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hc3zb2jyn",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Mısır'ın başkenti hangisidir?",
+    "explanation": "Mısır'ın başkenti Kahire'dir (Cairo). Gize ve Aswan Mısır'ın önemli şehirleri ancak başkent değildir. Alexandria ise Akdeniz kıyısındaki önemli liman şehridir.",
+    "options": [
+      "Cairo",
+      "Alexandria",
+      "Giza",
+      "Aswan"
+    ],
+    "correctAnswer": "Cairo",
+    "tags": [
+      "coğrafya",
+      "afrika",
+      "başkentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7qm475x50",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Nijerya'nın nüfusu ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Nijerya, Hindistan ve Çin'den sonra dünyanın en kalabalık 3. ülkesidir (yaklaşık 200 milyon nüfusu ile). Bu nedenle demografik açıdan önemlidir.",
+    "options": [
+      "Dünyanın en kalabalık 3. ülkesi",
+      "Dünyanın en kalabalık 1. ülkesi",
+      "Dünyanın en kalabalık 5. ülkesi",
+      "Dünyanın en kalabalık 2. ülkesi"
+    ],
+    "correctAnswer": "Dünyanın en kalabalık 3. ülkesi",
+    "tags": [
+      "coğrafya",
+      "afrika",
+      "nüfus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q8ntfj97u",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Güney Afrika'nın coğrafi konumu nedir?",
+    "explanation": "Güney Afrika, Afrika'nın güney ucunda yer alır. Atlas Okyanusu'nu Hint Okyanusu ile buluşturur ve Cape Point gibi önemli coğrafi özelliklere sahiptir.",
+    "options": [
+      "Afrika'nın kuzeyinde",
+      "Afrika'nın güney ucunda",
+      "Afrika'nın ortasında",
+      "Afrika'nın doğusunda"
+    ],
+    "correctAnswer": "Afrika'nın güney ucunda",
+    "tags": [
+      "coğrafya",
+      "afrika",
+      "konumlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wnb099f03",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Marokko'nun başkenti hangisidir?",
+    "explanation": "Marokko'nun resmi başkenti Rabat'tır. Casablanca en büyük şehridir, Marrakech ise tarihi bir şehir olup Fes de eski başkentlerden biridir.",
+    "options": [
+      "Casablanca",
+      "Rabat",
+      "Marrakech",
+      "Fes"
+    ],
+    "correctAnswer": "Rabat",
+    "tags": [
+      "coğrafya",
+      "afrika",
+      "başkentler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7t3gyrjpr",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Kenya'nın coğrafi özellikleri arasında aşağıdakilerden hangisi bulunur?",
+    "explanation": "Kenya, Mt Kenya ve Kilimanjaro gibi volkanik dağlara sahiptir. Ayrıca Masai Savanaları ile ünlüdür. Bu coğrafi özellikler ülkenin ekosistemini belirler.",
+    "options": [
+      "Çöl alanları",
+      "Volkanik dağlar ve savanalar",
+      "Karlı tepeler",
+      "Yüksek platolar"
+    ],
+    "correctAnswer": "Volkanik dağlar ve savanalar",
+    "tags": [
+      "coğrafya",
+      "afrika",
+      "coğrafi-özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wjxrm7jva",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesi hem Kuzey hem de Güney Amerika kıtasında bulunan bir ülke ile sınır komşu değildir?",
+    "explanation": "Südafrika, Güney Afrika kıtasında yer alan bir ülkedir ve Kuzey Amerika ile komşu değildir. Kongonya ise Güney Afrika'dan farklı olarak güneyde değil, daha kuzeyde konumlanmıştır.",
+    "options": [
+      "Congo",
+      "Etiyopya",
+      "Nijerya",
+      "Südafrika"
+    ],
+    "correctAnswer": "Südafrika",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4nqbqx65b",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Afrika'nın en büyük ülkesi hangisidir?",
+    "explanation": "Çad, Afrika kıtasının en büyük ülkelerinden biri olup, yaklaşık 1.284 milyon kilometrekare alanıyla bölgenin önemli bir coğrafi büyüklüğüne sahiptir.",
+    "options": [
+      "Mısır",
+      "Nijerya",
+      "Çad",
+      "Aljerya"
+    ],
+    "correctAnswer": "Çad",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "En Büyük"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lisy0zoib",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülke Afrika'nın güneyinde yer alır ve 'Mavi Adalar' olarak bilinir?",
+    "explanation": "Madagaskar, Afrika'nın güneydoğusunda yer alan büyük bir adadır ve çevresinde 'Mavi Adalar' bölgesi bulunur. Bu bölge turistik olarak önemli bir mekan olup, doğal yaşam açısından zengindir.",
+    "options": [
+      "Madagaskar",
+      "Mozambik",
+      "Tanzanya",
+      "Zimbabve"
+    ],
+    "correctAnswer": "Madagaskar",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Adalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tjms0wl28",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Afrika kıtasında hangi ülke Kongo Nehri ile doğrudan sınır paylaşır?",
+    "explanation": "Congo Cumhuriyeti, Kongo Nehri'nin doğrudan üzerinde konumlanarak hem kendi sınırlarında hem de çevre ülkeleriyle bu nehrin üzerinden ticari ve coğrafi bağlantılar kurar.",
+    "options": [
+      "Süveyş",
+      "Congo Cumhuriyeti",
+      "Kenya",
+      "Somali"
+    ],
+    "correctAnswer": "Congo Cumhuriyeti",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ta7op0r2t",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesi 'Afrika'nın kalbi' olarak tanımlanır ve Kongo Demokratik Cumhuriyeti ile sınırdır?",
+    "explanation": "Angola, Kongo Demokratik Cumhuriyeti ile doğrudan sınırdır ve Afrika'nın iç kesimlerinde önemli bir coğrafi konuma sahiptir. Ülke, kıtanın kalbi olarak tanınan bölgelerden biridir.",
+    "options": [
+      "Ruanda",
+      "Burundi",
+      "Angola",
+      "Zambiya"
+    ],
+    "correctAnswer": "Angola",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d0tuqoxn5",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Afrika'nın en büyük ülkesi hangisidir?",
+    "explanation": "Cezayir, Afrika'nın en büyük ülkesidir ve yüzölçümü yaklaşık 2.38 milyon km²'dir.",
+    "options": [
+      "Nijerya",
+      "Sudan",
+      "Cezayir",
+      "Mısır"
+    ],
+    "correctAnswer": "Cezayir",
+    "tags": [
+      "Afrika",
+      "Ülke Büyüklükleri",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7k8chvfgf",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesi Okyanusya kıtasıyla da sınırlıdır?",
+    "explanation": "Somali, Afrika kıtası ile Okyanusya arasındaki geçiş bölgesinde bulunan bir ülkedir.",
+    "options": [
+      "Somali",
+      "Etiyopya",
+      "Kenya",
+      "Mozambik"
+    ],
+    "correctAnswer": "Somali",
+    "tags": [
+      "Afrika",
+      "Kıtalar Arası Sınırlar",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pf8tm2857",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Ekvatorun hangi yarısında Angola yer alır?",
+    "explanation": "Angola, Afrika'nın güney yarısında ve batısında yer alan büyük bir ülkedir.",
+    "options": [
+      "Kuzey",
+      "Güney",
+      "Batı",
+      "Doğu"
+    ],
+    "correctAnswer": "Güney",
+    "tags": [
+      "Afrika",
+      "Ekvator",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sm6tijutr",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi ülkenin başkenti Nairobi'dir?",
+    "explanation": "Nairobi, Kenya'nın başkentidir ve Afrika'da önemli bir kentsel merkezdir.",
+    "options": [
+      "Sudan",
+      "Mısır",
+      "Tanzanya",
+      "Kenya"
+    ],
+    "correctAnswer": "Kenya",
+    "tags": [
+      "Afrika",
+      "Başkentler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r7mowh2pe",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Akdeniz kıyısında olup Afrika'nın kuzeyinde bulunan ülke hangisidir?",
+    "explanation": "Cezayir, Akdeniz kıyısında olup Afrika'nın kuzey yarısında bulunan en büyük ülkedir.",
+    "options": [
+      "Cezayir",
+      "Libya",
+      "Mısır",
+      "Tunus"
+    ],
+    "correctAnswer": "Cezayir",
+    "tags": [
+      "Afrika",
+      "Akdeniz Kıyıları",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jgtdbx1sc",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Afrika ülkesi doğu kıyısında yer alır ve Tanzanya olarak bilinir?",
+    "explanation": "Tanzanya, Afrika'nın doğu kıyısında yer alan büyük bir ülkedir ve Tanzik Boğazı ile Kenya'dan ayrılmıştır.",
+    "options": [
+      "Kenya",
+      "Tanzanya",
+      "Uganda",
+      "Zimbabve"
+    ],
+    "correctAnswer": "Tanzanya",
+    "tags": [
+      "Coğrafya",
+      "Afrika",
+      "Ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ldee1jw6r",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Nijerya'nın nüfusu yaklaşık olarak kaç milyon kişidir?",
+    "explanation": "Nijerya, Afrika'nın en kalabalık ülkelerinden biridir ve nüfusu yaklaşık 200 milyondur (2023 verisi).",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "correctAnswer": "200",
+    "tags": [
+      "Coğrafya",
+      "Afrika",
+      "Demografi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "880fpxsvz",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Afrika ülkesi Güney Afrika Cumhuriyeti olarak bilinir ve kıta üzerinde yer alır?",
+    "explanation": "Güney Afrika Cumhuriyeti, Afrika'nın güney ucunda yer alan ve Atlantik ile Hint okyanusları arasında konumlanan bir ülkedir.",
+    "options": [
+      "Güney Afrika",
+      "Mozambik",
+      "Namibya",
+      "Botswana"
+    ],
+    "correctAnswer": "Güney Afrika",
+    "tags": [
+      "Coğrafya",
+      "Afrika",
+      "Ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5wagex3hw",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Dahra Dağları hangi Afrika ülkesinde bulunur?",
+    "explanation": "Dahra Dağları, Cezayir'in güney bölgelerinde yer alır ve Atlas Dağları'nın uzantısıdır.",
+    "options": [
+      "Marok",
+      "Cezayir",
+      "Mali",
+      "Senegal"
+    ],
+    "correctAnswer": "Cezayir",
+    "tags": [
+      "Coğrafya",
+      "Afrika",
+      "Dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w7bqeubod",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesi 'Kara Afrika' olarak tanır ve Sahel bölgesindedir?",
+    "explanation": "Mali, Sahel bölgesinde yer alan büyük bir ülkedir ve 'Kara Afrika' olarak adlandırılır.",
+    "options": [
+      "Senegal",
+      "Mali",
+      "Burkina Faso",
+      "Gambiya"
+    ],
+    "correctAnswer": "Mali",
+    "tags": [
+      "Coğrafya",
+      "Afrika",
+      "Bölgesel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mw8pha13b",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesinin başkenti Nairobi'dir?",
+    "explanation": "Nairobi, Kenya'nın başkenti ve en büyük şehridir. 1963 yılında Kenya'nın bağımsızlığından beri bu konumda bulunmaktadır.",
+    "options": [
+      "Kamerun",
+      "Kenya",
+      "Somali",
+      "Etiyopya"
+    ],
+    "correctAnswer": "Kenya",
+    "tags": [
+      "Afrika",
+      "Başkentler",
+      "Kenya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vjsxufo8d",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Hangi Afrika ülkesi 'Kafkas Dağları' ile sınırlıdır?",
+    "explanation": "Kafkas Dağları aslında Afrika değil, Asya'da (Gürcistan, Armenya, Azerbaycan) bulunmaktadır. Afrika'da önemli dağlar arasında Atlas Dağları ve Kilimanjaro bulunur.",
+    "options": [
+      "Liberia",
+      "Gine",
+      "Togo",
+      "Hiçbiri - Bu dağlar Etiyopya'dadır"
+    ],
+    "correctAnswer": "Hiçbiri - Bu dağlar Etiyopya'dadır",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Dağlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "txhipkkix",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesi 'Viktoriya Gölü' kenarında yer alır?",
+    "explanation": "Viktoriya Gölü, Tanzanya'nın güneyinde ve kenarında yer alır. Bu göl ayrıca Uganda, Kenya, Zambiya ve Burundi ile de sınırlıdır.",
+    "options": [
+      "Zambiya",
+      "Tanzanya",
+      "Mozambik",
+      "Burundi"
+    ],
+    "correctAnswer": "Tanzanya",
+    "tags": [
+      "Afrika",
+      "Güller",
+      "Su Kaynakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jcsno9z30",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesinin resmi adı 'Congo Demokratik Cumhuriyeti'dir?",
+    "explanation": "Congo Demokratik Cumhuriyeti, Afrika'nın en büyük ikinci ülkesidir ve başkenti Kinshasa'dır. Kongolu Başkenti Brazavil (Kongo Cumhuriyeti) ise daha küçüktür.",
+    "options": [
+      "Congo (Başkenti Brazavil)",
+      "Congo Demokratik Cumhuriyeti",
+      "Madagaskar",
+      "Mali"
+    ],
+    "correctAnswer": "Congo Demokratik Cumhuriyeti",
+    "tags": [
+      "Afrika",
+      "Ülke Adları",
+      "Congo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ougln80s8",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi Afrika ülkesi 'Sahra Altı' bölgesinde yer almaz?",
+    "explanation": "Etiyopya Sahra Altı bölgesinde yer almaz, çünkü güneyde Hint Okyanusu'na yakın coğrafi konumdadır. Nijer, Mali ve Çad ise Sahra'dan güneyde (-Sahra Altı) yer alır.",
+    "options": [
+      "Nijer",
+      "Mali",
+      "Çad",
+      "Etiyopya"
+    ],
+    "correctAnswer": "Etiyopya",
+    "tags": [
+      "Afrika",
+      "Bölgesel Coğrafya",
+      "Sahra"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "um4uszrzn",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Sahra Altında Ülke olarak bilinen ve Akdeniz'e komşu olan Afrika ülkesi aşağıdakilerden hangisidir?",
+    "explanation": "Mısır, Afrika'nın kuzeyindeki büyük bir ülkedir ve Akdeniz'e doğrudan komşudur. Nüfusu en fazla olan Afrika ülkelerinden biridir.",
+    "options": [
+      "Mısır",
+      "Libya",
+      "Çad",
+      "Sudan"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "Afrika",
+      "Ülke Konumu",
+      "Akdeniz"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wko8vmk9t",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Afrika'nın yüz ölçümü bakımından en büyük ülkesi aşağıdakilerden hangisidir?",
+    "explanation": "Kongo Demokratik Cumhuriyeti (DRC), Afrika'nın ikinci büyük ülkesi olarak kabul edilirken, resmi verilere göre en büyük ülke Çad olarak gösterilmektedir. Ancak genel kabul görür şekilde DRC en büyük ülkedir.",
+    "options": [
+      "Nijerya",
+      "Mısır",
+      "Gine-Bissau",
+      "Kongo Demokratik Cumhuriyeti"
+    ],
+    "correctAnswer": "Kongo Demokratik Cumhuriyeti",
+    "tags": [
+      "Afrika",
+      "Ülke Yüzölçümü",
+      "En Büyük Ülke"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c1j6laihg",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "'Bin Göl Ülkesi' olarak bilinen Afrika ülkesi aşağıdakilerden hangisidir?",
+    "explanation": "Uganda, Afrika'nın göl bakımından en zengin ülkelerinden biridir ve 'Bin Göl Ülkesi' takma adını taşımaktadır. Victoria Gölü gibi büyük göllere sahiptir.",
+    "options": [
+      "Uganda",
+      "Tanzanya",
+      "Rwanda",
+      "Burundi"
+    ],
+    "correctAnswer": "Uganda",
+    "tags": [
+      "Afrika",
+      "Ülke Takma Adı",
+      "Goller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jflrvji8j",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Nijerya ülkesinin coğrafi konumu aşağıdakilerden hangisidir?",
+    "explanation": "Nijerya, Afrika'nın batı kıyısında yer alan büyük bir ülkedir ve Atlantik Okyanusu'na komşudur. Nüfusunun en fazla olduğu Afrika ülkesidir.",
+    "options": [
+      "Afrika'nın güneyinde",
+      "Afrika'nın kuzeyinde",
+      "Afrika'nın batısında",
+      "Afrika'nın doğusunda"
+    ],
+    "correctAnswer": "Afrika'nın batısında",
+    "tags": [
+      "Nijerya",
+      "Ülke Konumu",
+      "Batı Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zkdk6v4ih",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Afrika'nın güneyinde bulunan ve okyanuslara komşu olan ülke aşağıdakilerden hangisidir?",
+    "explanation": "Güney Afrika Cumhuriyeti, Afrika'nın güney ucunda bulunan ve Hint Okyanusu ile Atlas Okyanusu'na komşu olan ülkedir. Cape Town, bu ülkenin en ünlü şehridir.",
+    "options": [
+      "Gambiya",
+      "Zimbabve",
+      "Cape Town bölgesi olan Güney Afrika",
+      "Mozambik"
+    ],
+    "correctAnswer": "Cape Town bölgesi olan Güney Afrika",
+    "tags": [
+      "Afrika",
+      "Güney Afrika",
+      "Okyanuslar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wvq69llib",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EXPERT",
+    "question": "Afrika'nın en büyük halkalı (deniz kenarı olmayan) ülkeleri şunlardır. Hangisi bu listede yer almaz?",
+    "explanation": "Nijerya Afrika'nın en büyük halkalı ülkelerinden biri değildir. Nijerya Atlantik Okyanusu'na kıyı sahiptir. Halkalı (deniz kenarı olmayan) Afrika ülkeleri arasında Mali, Burundi, Niger, Uganda gibi ülkeler yer alır.",
+    "options": [
+      "Nijerya",
+      "Ürdün",
+      "Tanzanya",
+      "Mali"
+    ],
+    "correctAnswer": "Nijerya",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Halkalı Ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bajt4ga3t",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Afrika'nın en büyük ülkesi olarak bilinen ülke hangisidir?",
+    "explanation": "Nijerya Afrika'nın en büyük halkalı ülkelerinden biridir ve coğrafi büyüklük açısından önemli bir konuma sahiptir. Ancak Sudan (şimdi güneye bölünmüş) daha büyük olabilir.",
+    "options": [
+      "Nijerya",
+      "Sudan",
+      "Çad",
+      "Kongo Demokratik Cumhuriyeti"
+    ],
+    "correctAnswer": "Nijerya",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Ülke Büyüklükleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gr16mqlvq",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Afrika'daki 'Kırmızı Deniz' hangi kıta üzerindedir?",
+    "explanation": "Kırmızı Deniz, Afrika'nın kuzeydoğu kıyılarında bulunan denizedir. Bu bölge Sudan ve Eritre gibi ülkelerin sınırlarını içerir.",
+    "options": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "Afrika",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Kıyı Denizler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ym8c0k8o5",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Sahra Çölü'nün büyük bir kısmı hangi Afrika ülkesi üzerindedir?",
+    "explanation": "Sahra Çölü Afrika'nın kuzeyinde bulunan büyük çöldür ve Mısır, Cezayir, Tunus gibi ülkelerin büyük kısmını kaplar. Mısır Sahra Çölü'nün önemli bir bölümünü içerir.",
+    "options": [
+      "Mısır",
+      "Liberiya",
+      "Gambiya",
+      "Senegal"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Çöller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o0qm1qg6z",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Afrika'nın en uzun nehri olarak bilinen Nil Nehri hangi bölgeden akar?",
+    "explanation": "Nil Nehri Afrika'nın en uzun nehridir ve Sahra Çölü'nden geçerek Mısır'a ulaşır. Amazon Havzası Güney Amerika'dadır, Kongo Havzası ise Afrika'nın orta kesimindedir.",
+    "options": [
+      "Sahra Çölü",
+      "Amazon Havzası",
+      "Kongo Havzası",
+      "Nijer Havzası"
+    ],
+    "correctAnswer": "Sahra Çölü",
+    "tags": [
+      "Afrika",
+      "Coğrafya",
+      "Nehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b18yvcopu",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Afrika'nın en büyük ülkesi hangisidir?",
+    "explanation": "Aljerya, Afrika'nın en büyük ülkesi olup 2.38 milyon km² yüzölçümüne sahiptir.",
+    "options": [
+      "Nijerya",
+      "Çad",
+      "Aljerya",
+      "Mısır"
+    ],
+    "correctAnswer": "Aljerya",
+    "tags": [
+      "Afrika",
+      "Ülkeler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y36vhl9qk",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Nijerya'nın başkenti hangisidir?",
+    "explanation": "Nijerya'nın başkenti 1991'den beri Abuja'dır. Lagos ekonomik merkezdir.",
+    "options": [
+      "Abuja",
+      "Lagos",
+      "Kano",
+      "Port Harcourt"
+    ],
+    "correctAnswer": "Abuja",
+    "tags": [
+      "Nijerya",
+      "Başkentler",
+      "Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ixabwh9j4",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "EASY",
+    "question": "Hangi Afrika ülkesi Akdeniz kıyısındadır?",
+    "explanation": "Mısır, Akdeniz'in güney kıyısında bulunur ve önemli bir ticaret ülkesidir.",
+    "options": [
+      "Angola",
+      "Gana",
+      "Mısır",
+      "Zambiya"
+    ],
+    "correctAnswer": "Mısır",
+    "tags": [
+      "Afrika",
+      "Kıyı Şehirler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2cfhw52ve",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Çad'ın batısında bulunan ülke hangisidir?",
+    "explanation": "Çad'ın batısında Nijer, güneyde Kamerun ve Çadr'ın kuzeyinde Sudan bulunur.",
+    "options": [
+      "Nijer",
+      "Burkina Faso",
+      "Senegal",
+      "Mali"
+    ],
+    "correctAnswer": "Nijer",
+    "tags": [
+      "Çad",
+      "Sınırlar",
+      "Afrika"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b080qm1im",
+    "category": "COĞRAFYA",
+    "subcategory": "Afrika Ülkeleri",
+    "difficulty": "GENERAL",
+    "question": "Hangi ülkenin başkenti Lagos değildir?",
+    "explanation": "Gana'nın başkenti Accra'dır. Lagos Nijerya'nın eski başkentidir.",
+    "options": [
+      "Nijerya",
+      "Gana",
+      "Benin",
+      "Togo"
+    ],
+    "correctAnswer": "Gana",
+    "tags": [
+      "Afrika",
+      "Başkentler",
+      "Ülkeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

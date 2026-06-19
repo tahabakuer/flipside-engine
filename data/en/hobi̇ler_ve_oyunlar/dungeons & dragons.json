@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "ou8yezf9m",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons oyununda bir karakterin temel zeka (Intellect) yeteneği hangisidir?",
+    "explanation": "Dungeons & Dragons'ta INT (Intellect) yeteneği, karakterin bilişsel yeteneklerini temsil eder ve problem çözme, öğrenme gibi işlemlerle ilişkilidir.",
+    "options": [
+      "STR - Güç",
+      "DEX - Zarafet",
+      "INT - Zeka",
+      "CON - Direnç"
+    ],
+    "correctAnswer": "INT - Zeka",
+    "tags": [
+      "mekanik",
+      "yetenekler",
+      "karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "086g05dgk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "D20 zarının '20' çıkması ne anlama gelir?",
+    "explanation": "D20 zarının 20 çıkması D&D'de 'kritik' anlamına gelir - saldırılarda kritik başarı, savunmada kritik başarısızlık olarak yorumlanır.",
+    "options": [
+      "Tüm yetenekler aktif olur",
+      "Kritik başarı veya kritik başarısızlık",
+      "Zar tekrar atılır",
+      "Mekanik zorlaşır"
+    ],
+    "correctAnswer": "Kritik başarı veya kritik başarısızlık",
+    "tags": [
+      "mekanik",
+      "zarlar",
+      "karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hsxe82re7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Hangi yeteneğin düşünceli işlemler ve bilgi edinme ile ilgili olduğu bilinir?",
+    "explanation": "INT (Zeka) yeteneği, karakterin bilgiyi işlemesi ve öğrenmesi ile ilgili bilişsel işlemleri temsil eder.",
+    "options": [
+      "WIS - Sezgi",
+      "CHA - Karişma",
+      "INT - Zeka",
+      "DEX - Zarafet"
+    ],
+    "correctAnswer": "INT - Zeka",
+    "tags": [
+      "mekanik",
+      "yetenekler",
+      "karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mylunaguw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "D&D'de bir 'spell slot' ne işlev görür?",
+    "explanation": "Spell slot'lar D&D'de karakterin büyü veya sıradışı yetenekler kullanabilmek için enerji kaynağını temsil eder.",
+    "options": [
+      "Karakter seviyesini gösterir",
+      "Sıradışı büyüler için enerji kaynağı",
+      "Ekipman parçası",
+      "Kritik zar atma bonusu"
+    ],
+    "correctAnswer": "Sıradışı büyüler için enerji kaynağı",
+    "tags": [
+      "mekanik",
+      "büyüler",
+      "sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vosfz0gus",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "D&D 5th Edition'da 'Cantrip' nedir?",
+    "explanation": "Cantrip'ler D&D'de seviye bağımlı olmayan, sürekli kullanılabilecek basit büyülerdir ve her karakter seviyesinde aynı etkiyi gösterir.",
+    "options": [
+      "Seviye bağımlı büyüler",
+      "Zar atma gerektiren sıradışı yetenekler",
+      "Sabit zar seviyesi büyüleri",
+      "Karakter özellikleri"
+    ],
+    "correctAnswer": "Sabit zar seviyesi büyüleri",
+    "tags": [
+      "mekanik",
+      "büyüler",
+      "sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n41scpvii",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons oyununda karakterler ne tür zarlar kullanır?",
+    "explanation": "D&D oyununda karakter istatistikları için d20 (20 yüzlü) zar, hasar ve kurtarma atarken d6 (6 yüzlü), d8, d10, d12 gibi daha küçük zarlar kullanılır.",
+    "options": [
+      "Sadece 6 yüzlü zarlar",
+      "20 yüzlü ve daha yüksek yüzeyli zarlar",
+      "10 yüzlü ve 5 yüzlü zarlar",
+      "4 yüzlü zarlar"
+    ],
+    "correctAnswer": "20 yüzlü ve daha yüksek yüzeyli zarlar",
+    "tags": [
+      "mechanics",
+      "rules",
+      "dice"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ur0qu50ll",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta bir karakterin temel özellikleri hangileridir?",
+    "explanation": "D&D'de karakterlerin temel özellikleri (Ability Scores): Güç (Strength), Çeviklik (Dexterity), Zeka (Wisdom), Sabır (Constitution), Karizma (Charisma) ve Çeviklik değil, çeviklik yerine dikkatli: Güç, Çeviklik, Zeka, Sabır, Karizma ve Bekarlık d",
+    "options": [
+      "Zeka, Güç, Kader",
+      "Güç, Çeviklik, Zeka, Çeviklik, Sabır, Karizma",
+      "Canlılık, Direnç, Hız",
+      "Dürüstlük, Şahlık, Cesaret"
+    ],
+    "correctAnswer": "Güç, Çeviklik, Zeka, Çeviklik, Sabır, Karizma",
+    "tags": [
+      "attributes",
+      "character",
+      "stats"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dbj260h4g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta 'Dungeon Master' ne iş yapar?",
+    "explanation": "Dungeon Master (DM), oyunun hikayesini yaratır, dünyayı tanıtır, oyuncuların karakterlerini yönetmez, DM'nin görevi hikaye anlatımı ve oyun yönetimidir.",
+    "options": [
+      "Oyuncuların karakterlerini yönetir",
+      "Oyunun hikayesini anlatan ve dünyayı kuran kişi",
+      "Sadece hasarı hesaplar",
+      "Zar atar"
+    ],
+    "correctAnswer": "Oyunun hikayesini anlatan ve dünyayı kuran kişi",
+    "tags": [
+      "rules",
+      "role",
+      "campaign"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s5xacbd0b",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta 'Canavar' kategorisinde hangi varlık en yaygındır?",
+    "explanation": "D&D'de Troll, klasik ve yaygın canavar türü olarak bilinir. Dragon daha nadir ve güçlü bir varlıktır.",
+    "options": [
+      "Troll",
+      "Dragon (Ejder)",
+      "Orc (Ork)",
+      "Goblin"
+    ],
+    "correctAnswer": "Troll",
+    "tags": [
+      "monsters",
+      "creatures",
+      "adventures"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r66qig60n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta 'Saving Throw' (Kurtarma) ne zaman kullanılır?",
+    "explanation": "Saving Throw (Kurtarma), zehir, korku, ateş gibi zorlu durumlardan veya düşman büyülerinden kaçınmak için kullanılır.",
+    "options": [
+      "Her zar atışında",
+      "Hasar almadan önce",
+      "Zorlu durumlarda veya düşman etkilerinden kaçınmak için",
+      "Sadece can azaldığında"
+    ],
+    "correctAnswer": "Zorlu durumlarda veya düşman etkilerinden kaçınmak için",
+    "tags": [
+      "mechanics",
+      "rules",
+      "savingthrows"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jxtjqdvcb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons oyununda, bir karakterin zırh sınıfı (armor class) değeri hangi faktöre bağlıdır?",
+    "explanation": "Armor Class (AC) değeri, karakterin üzerinde taşıdığı zırh türüne ve Dexterity (zeka) skora bağlıdır. Zırhsız olanlar AC = 10 + Dex skor kullanır.",
+    "options": [
+      "Sadece karakter seviyesine",
+      "Zırh türü ve Dexterity skora",
+      "Mekanik yetenek skoruna",
+      "Kampanya ayarına"
+    ],
+    "correctAnswer": "Zırh türü ve Dexterity skora",
+    "tags": [
+      "mechanics",
+      "character-stats",
+      "D&D-5e"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0e78vjmn5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta hangi sınıfa 'spellcaster' (sihirbaz) yeteneği en yüksek şekilde sahiptir?",
+    "explanation": "Wizard sınıfı, tüm sınıflar arasında en yüksek spell slot seviyesine ve büyü sayısına sahiptir. Diğer spellcaster'lar (Sorcerer, Warlock) daha düşük slot seviyelerine sahiptir.",
+    "options": [
+      "Barbarian",
+      "Paladin",
+      "Wizard",
+      "Rogue"
+    ],
+    "correctAnswer": "Wizard",
+    "tags": [
+      "character-classes",
+      "spellcasting",
+      "D&D-5e"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b978o22ml",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Dungeons & Dragons oyununda 'Critical Hit' (kritik vuruş) ne zaman gerçekleşir?",
+    "explanation": "Critical Hit, atak zarı 18 veya daha yüksek çıktığında (bazı sınıflarda farklı) veya doğrudan kritik zar atıldığında (20) gerçekleşir. Bu durumda hasar iki kez hesaplanır.",
+    "options": [
+      "Her atak başarılı olduğunda",
+      "Atak skorunun 20 veya daha yüksek çıktığında veya 1-20 arası zar atıldığında",
+      "Karakterin seviyesi 5 ve üzeri olduğunda",
+      "Zırh sınıfı düşüğünde"
+    ],
+    "correctAnswer": "Atak skorunun 20 veya daha yüksek çıktığında veya 1-20 arası zar atıldığında",
+    "tags": [
+      "combat-mechanics",
+      "critical-hit",
+      "D&D-5e"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l6o565bxa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta 'Grimoire' (eski kitaplar) hangi tür içerik barındırır?",
+    "explanation": "Grimoire, D&D'da büyücülerin kullandığı büyü kitaplarıdır. İçerisinde büyü formülleri, spell slot bilgisi ve sihirsel bilgiler barındırır.",
+    "options": [
+      "Sadece savaş stratejileri",
+      "Büyü formülleri ve sihir bilgisi",
+      "Karakter statları listesi",
+      "Zar atma talimatları"
+    ],
+    "correctAnswer": "Büyü formülleri ve sihir bilgisi",
+    "tags": [
+      "game-terminology",
+      "magic-system",
+      "D&D-5e"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d28h9z9lr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Dungeons & Dragons oyununda 'Monster Manual' (canavar el kitabı) ne tür varlıkları içerir?",
+    "explanation": "Monster Manual, D&D'da DM'lerin kullanabileceği canavarların istatistikleri, zayıflıkları ve özelliklerini içerir. Örnek: Troll, Golem, Dragon gibi varlıklar.",
+    "options": [
+      "Sadece insan karakterleri",
+      "Oyuncu sınıfları ve yetenekleri",
+      "Zar atma mekanikleri",
+      "Canavarlar, yaratıklar ve düşmanlar"
+    ],
+    "correctAnswer": "Canavarlar, yaratıklar ve düşmanlar",
+    "tags": [
+      "monster-data",
+      "campaign-setting",
+      "D&D-5e"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rwvrkgxm3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons oyununda bir DM (Dungeon Master)'ın temel görevi nedir?",
+    "explanation": "Dungeon Master, D&D'de hikayeyi yönlendirir, dünyayı yaratır ve oyuncu karakterlerinin maceralarını yöneten ana rolünü üstlenir.",
+    "options": [
+      "Oyunculara silahlı saldırı yapmak",
+      "Hikaye anlatımı ve oyun mekanizmasını yönetmek",
+      "Silah koleksiyonunu genişletmek",
+      "RPG oyunu tasarlamak"
+    ],
+    "correctAnswer": "Hikaye anlatımı ve oyun mekanizmasını yönetmek",
+    "tags": [
+      "Dungeons & Dragons",
+      "DM",
+      "Türkçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nqs9juo02",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "D&D karakter özelliklerinden biri olan 'Savunma' (AC) neyi ifade eder?",
+    "explanation": "Armor Class (AC), bir karakterin düşman saldırılarına karşı kaçmayı veya savunmayı başarılı olma ihtimalini gösterir.",
+    "options": [
+      "Karakterin saldırı gücünün ne kadar korunduğunu",
+      "Karakterin kaçmayı başarılı olma ihtimalini",
+      "Karakterin düşmana karşı durma yeteneğini",
+      "Karakterin savunma zırhını ne kadar güçlü olduğunu"
+    ],
+    "correctAnswer": "Karakterin düşmana karşı durma yeteneğini",
+    "tags": [
+      "Dungeons & Dragons",
+      "AC",
+      "Savunma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bm29jhqqg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "D&D'de 'Kritik Vuruş' (Critical Hit) ne zaman gerçekleşir?",
+    "explanation": "D&D'de kritik vuruş, saldırı zarının maksimum değeri (genelde 20) çıktığında gerçekleşir ve ekstra hasar sağlar.",
+    "options": [
+      "Oyuncu her vuruşunda",
+      "Saldırı zarı 1 çıkarsa",
+      "Saldırı zarı maksimumda çıkarsa",
+      "Oyuncu zırhını değiştirirse"
+    ],
+    "correctAnswer": "Saldırı zarı maksimumda çıkarsa",
+    "tags": [
+      "Dungeons & Dragons",
+      "Kritik Vuruş",
+      "Saldırı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "281akz2my",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "D&D karakter sınıfları arasında 'Barışçıl' bir sınıf hangisidir?",
+    "explanation": "D&D'de Hafif (Rogue) sınıfı, gizlilik ve kurnazlık odaklı barışçıl bir karakter sınıflandırılır.",
+    "options": [
+      "Savaşçı",
+      "Hafif",
+      "Büyücü",
+      "Zırhlı"
+    ],
+    "correctAnswer": "Hafif",
+    "tags": [
+      "Dungeons & Dragons",
+      "Karakter Sınıfı",
+      "Barışçıl"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rhiabcu6v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "D&D oyununda 'Tahribat' (Damage) neyi ifade eder?",
+    "explanation": "D&D'de Tahribat (Damage), bir karakterin düşmana veya diğer hedeflere ne kadar hasar verebileceğini ifade eder.",
+    "options": [
+      "Karakterin sahip olduğu hasar miktarını",
+      "Karakterin aldığı hasar miktarını",
+      "Oyuncunun yaptığı hasar miktarını",
+      "Dünyanın tahrip olma durumunu"
+    ],
+    "correctAnswer": "Oyuncunun yaptığı hasar miktarını",
+    "tags": [
+      "Dungeons & Dragons",
+      "Tahribat",
+      "Hasar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p358j4118",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Hangi özellik, Dungeons & Dragons'da karakterlerin fiziksel güçlerini ve kaldırma kapasitelerini belirler?",
+    "explanation": "Kuvvet (Strength) özelliği, karakterlerin fiziksel güçlerini belirler ve genellikle kaldırma kapasitesiyle ilişkilidir. Kuvvet atakları da bu özelliğe dayanır.",
+    "options": [
+      "Zeka",
+      "Kuvvet",
+      "Çeviklik",
+      "Bilgelik"
+    ],
+    "correctAnswer": "Kuvvet",
+    "tags": [
+      "Hareket",
+      "İstatistikler",
+      "Temel Kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qgymhrogl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'da hangi sınıf, büyülü yetenekleri kullanmak yerine silahlarla savaşmayı tercih eder?",
+    "explanation": "Savaşçı (Fighter) sınıfı büyülü yetenekler yerine fiziksel silahlarla savaşmayı tercih eder. Paladin de büyüler kullanabilir ama temel olarak kılıç/büyük silahlar kullanır.",
+    "options": [
+      "Büyücü",
+      "Paladin",
+      "Savaşçı",
+      "Pip"
+    ],
+    "correctAnswer": "Savaşçı",
+    "tags": [
+      "Karakter Sınıfları",
+      "Sınıf Seçimi",
+      "Temel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9knngb18j",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Hangi mekanik, Dungeons & Dragons'da karakterlerin büyü başlatma ve büyüye direnme yeteneklerini belirler?",
+    "explanation": "Drensel özellik (Spellcasting), büyülü yeteneklerin kullanımı ve büyü direnmesi için gereken mekanik. Büyü Drensi (Spell Save DC) ise büyü başlatma zorlukunu belirler.",
+    "options": [
+      "Karakter Sınıfı",
+      "Drensel Özellik",
+      "Büyü Drensi",
+      "Sıra Mekanizması"
+    ],
+    "correctAnswer": "Büyü Drensi",
+    "tags": [
+      "Mekanikler",
+      "Büyü Sistemi",
+      "İleri Kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r2q6mplr1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Dungeons & Dragons'da 'Kritik Vuruş' ne zaman gerçekleşir?",
+    "explanation": "Kritik Vuruş (Critical Hit), genellikle 19 veya 20 vuruş değeriyle gerçekleşir. Bu durumda hasar iki katına çıkabilir.",
+    "options": [
+      "Zırh sınıfı 0 olan karakterlerde",
+      "19 veya 20 vuruş değerinde",
+      "Büyü başlatma sırasında",
+      "Sıra geçişlerinde"
+    ],
+    "correctAnswer": "19 veya 20 vuruş değerinde",
+    "tags": [
+      "Mekanikler",
+      "Duelo Sistemi",
+      "İleri Kurallar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ae3wscu3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Hangi karakter özelliği, Dungeons & Dragons'da büyücü gibi büyü kullanmayı sağlayan temel statustur?",
+    "explanation": "Zeka (Intelligence) özelliği, büyücü gibi büyü kullanmayı sağlayan temel statustur. Büyücünün büyü başlatma ve büyüye direnmesi bu özelliğe bağlıdır.",
+    "options": [
+      "Bilgelik",
+      "Zeka",
+      "Çeviklik",
+      "Kuvvet"
+    ],
+    "correctAnswer": "Zeka",
+    "tags": [
+      "İstatistikler",
+      "Büyü Sistemi",
+      "Temel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ps82hfre8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons'ta karakter seviyesini artırmak için ne kullanılır?",
+    "explanation": "D&D'de karakterler XP (Experience Points) kazandıkça seviye atlar ve yetenekleri geliştirir.",
+    "options": [
+      "XP (Deneyim Puanı)",
+      "Gold (Altın)",
+      "Mana",
+      "Health Points"
+    ],
+    "correctAnswer": "XP (Deneyim Puanı)",
+    "tags": [
+      "mekanik",
+      "seviye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0g6pxkgd6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi D&D'nin ana sınıflarından biri DEĞİLDİR?",
+    "explanation": "D&D'de doktor adlı bir sınıf yoktur. Temel sınıflar arasında Savaşçı, Büyücü, Okçu, Kahraman gibi karakterler bulunur.",
+    "options": [
+      "Savaşçı (Fighter)",
+      "Büyücü (Wizard)",
+      "Okçu (Ranger)",
+      "Doktor (Doctor)"
+    ],
+    "correctAnswer": "Doktor (Doctor)",
+    "tags": [
+      "sınıf",
+      "mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iekhje3f6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Dungeons & Dragons'un ilk baskısı ne yıl yayınlanmıştır?",
+    "explanation": "D&D'nin ilk baskısı 1974 yılında TSR tarafından yayınlandı ve RPG türünün en önemli başlangıçlarından biri oldu.",
+    "options": [
+      "1974",
+      "1980",
+      "1995",
+      "2001"
+    ],
+    "correctAnswer": "1974",
+    "tags": [
+      "tarih",
+      "gelişim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tn1qsspon",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Karakter yaratırken hangi üç ana unsur seçilir?",
+    "explanation": "D&D'de karakter yaratırken genellikle Sınıf (Fighter, Wizard vb.), Irk (Human, Elf vb.) ve Cinsiyet gibi temel unsurlar seçilir.",
+    "options": [
+      "Sınıf, Irk, Cinsiyet",
+      "Seviye, XP, Altın",
+      "Düşman, Yer, Zaman",
+      "Ekipman, Mana, Sağlık"
+    ],
+    "correctAnswer": "Sınıf, Irk, Cinsiyet",
+    "tags": [
+      "karakter_yaratma",
+      "temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mx09xd5p3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Bir D&D oyunu kaç ana rol içerebilir?",
+    "explanation": "D&D'de genellikle bir DM (Dungeon Master) ve 3-6 oyuncu bulunur. Bazı oyunlarda sadece DM ile oynama da mümkündür.",
+    "options": [
+      "1",
+      "2",
+      "3 veya daha fazla",
+      "5"
+    ],
+    "correctAnswer": "3 veya daha fazla",
+    "tags": [
+      "kurallar",
+      "oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q0qh2ljdl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons oyununda bir karakterin temel yeteneklerini (Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma) neye göre belirler?",
+    "explanation": "Dungeons & Dragons'da altı temel yetenek (stat) karakterin rasya ve sınıfa göre dağıtılır. Bu yetenekler Strength, Dexterity, Constitution, Intelligence, Wisdom ve Charisma'dır.",
+    "options": [
+      "Karakter seviyesine",
+      "Rasaya ve seçilen sınıfa",
+      "Oyuncunun tercihine",
+      "Dihedral matris tablosuna"
+    ],
+    "correctAnswer": "Rasaya ve seçilen sınıfa",
+    "tags": [
+      "D&D",
+      "Karakter Yapımı",
+      "Bazik Yetenekler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kphkxm7z1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "D&D oyununda bir 'Dice Roll' sonucu hangi durumda başarısız kabul edilir?",
+    "explanation": "D&D'de temel atışlarda genellikle 20'lik bir zar kullanılır ve 10 veya üzeri başarılı sonuç olarak kabul edilir. 10 altı başarısız anlamına gelir.",
+    "options": [
+      "10 veya üzeri",
+      "5 ile 9 arası",
+      "10 altı",
+      "1-20 arasında"
+    ],
+    "correctAnswer": "10 altı",
+    "tags": [
+      "D&D",
+      "Atış Kuralları",
+      "Dice Roll"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aq10ciue9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta 'Rasa' (Race) kavramı neyi ifade eder?",
+    "explanation": "D&D'de rasa karakterin kökenini, fiziksel özelliklerini (dergi rengi, boy vb.) ve kültürel kimliğini belirler. Örnek: İnsan, Elf, Dwarf, Orc.",
+    "options": [
+      "Karakterin büyü yeteneklerini",
+      "Karakterin fiziksel özelliklerini ve kültürel kimliğini",
+      "Karakterin silahlı savaşı",
+      "Karakterın şehirdeki konumunu"
+    ],
+    "correctAnswer": "Karakterin fiziksel özelliklerini ve kültürel kimliğini",
+    "tags": [
+      "D&D",
+      "Rasa",
+      "Karakter Yapımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yqvshdikp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons oyununda 'Spellcaster' (Büyücü) neyi yapar?",
+    "explanation": "Spellcaster sınıfları (Wizard, Sorcerer, Cleric, Druid, Paladin gibi) büyülü ve sihirsel yetenekler kullanarak düşmanlara zarar verir veya aldatıcı etkiler yaratır.",
+    "options": [
+      "Silahlı savaşır",
+      "Büyü ve sihirsel yetenekler kullanır",
+      "Zırh takar",
+      "Hızlı hareket eder"
+    ],
+    "correctAnswer": "Büyü ve sihirsel yetenekler kullanır",
+    "tags": [
+      "D&D",
+      "Büyücüler",
+      "Sınıf Tipleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lp2eqepq1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta 'Critical Hit' ne zaman gerçekleşir?",
+    "explanation": "D&D'de kritik vuruş (Critical Hit) genellikle zar atışında 19 veya 20 geldiğinde gerçekleşir ve hasar iki katına çıkar.",
+    "options": [
+      "Atışta 19-20 arası değer geldiğinde",
+      "Atışta 15 ve üzeri geldiğinde",
+      "Atışta 1 geldiğinde",
+      "Zar atılmadığında"
+    ],
+    "correctAnswer": "Atışta 19-20 arası değer geldiğinde",
+    "tags": [
+      "D&D",
+      "Kritik Vuruş",
+      "Savaş Kuralları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0oneiecmw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons'da bir karakterin zırhını kullanırken 'Zırh Değerini' neye göre hesaplanır?",
+    "explanation": "D&D'de zırh değerini genellikle Güç (Strength) veya Çeviklik (Dexterity) istatistiğine göre hesaplar. Örnek: Deri Zırh için 1 + (Güç/Çeviklik Modu), Kapanmış Zırh için 1 + (Çeviklik Modu).",
+    "options": [
+      "Karakter Seviyesi",
+      "Büyü Gücü (Wisdom)",
+      "Güç (Strength) veya Çeviklik (Dexterity)",
+      "Can (Health)"
+    ],
+    "correctAnswer": "Güç (Strength) veya Çeviklik (Dexterity)",
+    "tags": [
+      "D&D",
+      "Karakter_Mekanikleri",
+      "Zırh"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4fegz7gv1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Bir D&D oyununda 'Atak Bonusu' hangi istatistik ile ilişkilidir?",
+    "explanation": "D&D'de atak bonusu karakterin Güç (Strength) veya Çeviklik (Dexterity) istatistiğinin modunu (örn: 16 = +3) kullanır. Bu, silahı ne kadar iyi vurduğunu gösterir.",
+    "options": [
+      "Zeka (Intelligence)",
+      "Büyü Gücü (Wisdom)",
+      "Güç (Strength) veya Çeviklik (Dexterity)",
+      "Can (Health)"
+    ],
+    "correctAnswer": "Güç (Strength) veya Çeviklik (Dexterity)",
+    "tags": [
+      "D&D",
+      "Atak_Bonusu",
+      "İstatistikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ec934awc4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'un ilk kitabı 'Player's Handbook' hangi yıl yayınlandı?",
+    "explanation": "Player's Handbook, Dungeons & Dragons'un temel referans kitabı olarak 1977'de yayınlandı. Ancak D&D'nin kendisi 1974'te tanıtıldı ve bu tarihten sonra oyun popülerleşmeye başladı.",
+    "options": [
+      "1974",
+      "1980",
+      "1984",
+      "1990"
+    ],
+    "correctAnswer": "1974",
+    "tags": [
+      "D&D_Tarihi",
+      "Yayın_Yılları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pi67oj0lf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "'Canlı Zaman' (Real Time) mekanikliği hangi durumlarda kullanılır?",
+    "explanation": "D&D'de 'Canlı Zaman' genellikle combat sırasında kullanılır ve oyuncuların eylemlerini gerçek zamanlı olarak yapmalarına olanak tanır. Bu, oyunun akışını hızlandırır.",
+    "options": [
+      "Sadece Combat sırasında",
+      "Roleplay için",
+      "Tüm oyun boyunca",
+      "Sadece Roleplay sırasında"
+    ],
+    "correctAnswer": "Sadece Combat sırasında",
+    "tags": [
+      "D&D_Mekanikleri",
+      "Combat_Zaman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zbht7pdvv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "'Savaşçılar' (Warriors) sınıfı hangi istatistik ile en iyi eşleşir?",
+    "explanation": "Savaşçılar sınıfı Güç (Strength) veya Çeviklik (Dexterity) ile en iyi eşleşir. Bu, zırh kullanımı ve atak bonusu için gereklidir.",
+    "options": [
+      "Zeka (Intelligence)",
+      "Büyü Gücü (Wisdom)",
+      "Güç (Strength) veya Çeviklik (Dexterity)",
+      "Can (Health)"
+    ],
+    "correctAnswer": "Güç (Strength) veya Çeviklik (Dexterity)",
+    "tags": [
+      "D&D_Sınıflar",
+      "Warriors",
+      "İstatistikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lufc9corj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons oyununda 'Savaşçı' sınıfının temel özelliği nedir?",
+    "explanation": "Savaşçı (Fighter) sınıfı, yüksek zırh kullanabilen ve saldırı odaklı bir sınıftır. Büyü kullanamazlar ancak fiziksel saldırılarda çok etkilidirler.",
+    "options": [
+      "Büyü kullanabilme",
+      "Yüksek zırh ve saldırı",
+      "Hızlı hareket etme",
+      "Can yenileme"
+    ],
+    "correctAnswer": "Yüksek zırh ve saldırı",
+    "tags": [
+      "D&D",
+      "Sınıflar",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aun91lhhd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons'ta 'Hafif Zindan' (Light Dungeon) seviyesinde kaç oyuncu genellikle oynar?",
+    "explanation": "Dungeons & Dragons'da standart bir oyun genellikle 4-5 oyuncu ile DM (Desen Master) olmak üzere toplam 5-6 kişi ile oynanır.",
+    "options": [
+      "2-3",
+      "4-5",
+      "6-8",
+      "9-12"
+    ],
+    "correctAnswer": "4-5",
+    "tags": [
+      "D&D",
+      "Oynatma",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lkx4b2uxt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Hangi D&D sınıfı en çok büyü kullanabilen sınıftır?",
+    "explanation": "Büyücü (Wizard) sınıfı, en çok ve çeşitli büyüleri kullanabilen sınıftır. Zihinsel güce dayalı büyülerde uzmanlaşmışlardır.",
+    "options": [
+      "Savaşçı",
+      "Cinik",
+      "Büyücü",
+      "Paladin"
+    ],
+    "correctAnswer": "Büyücü",
+    "tags": [
+      "D&D",
+      "Sınıflar",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6tdgnc804",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Dungeons & Dragons'ta 'Kritik Vuruş' hangi atık değerinde gerçekleşir?",
+    "explanation": "Dungeons & Dragons'ta kritik vuruş (critical hit) atık değer 20'de gerçekleşir. Bu durumda hasar genellikle ikiye katlanır.",
+    "options": [
+      "1-5",
+      "9-10",
+      "20",
+      "1-2"
+    ],
+    "correctAnswer": "20",
+    "tags": [
+      "D&D",
+      "Mekanikler",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n670rzg1n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Dungeons & Dragons'un ilk kitabı hangisidir?",
+    "explanation": "Player's Handbook, Dungeons & Dragons'un en temel kılavuz kitabıdır. 1977 yılında yayınlanmıştır ve tüm oyuncu sınıflarını içerir.",
+    "options": [
+      "Player's Handbook",
+      "Monster Manual",
+      "Dungeon Master Guide",
+      "Dragon Magazine"
+    ],
+    "correctAnswer": "Player's Handbook",
+    "tags": [
+      "D&D",
+      "Tarih",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1th52gnm3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EASY",
+    "question": "Dungeons & Dragons'ta karakterlerin başlangıçta sahip oldukları temel istatistikler nelerdir?",
+    "explanation": "D&D'de karakterler temel olarak Can (HP), Dayanıklılık (CON), Çeviklik (DEX) ve Zeka (INT) gibi istatistiklere sahiptir.",
+    "options": [
+      "Güç, Çeviklik, Zeka, Karakter",
+      "Can, Dayanıklılık, Zihinsel, Ruhsal",
+      "Canlılık, Hareketlilik, Akıllılık, Umutlu",
+      "Can, Dayanıklılık, Çeviklik, Zeka"
+    ],
+    "correctAnswer": "Can, Dayanıklılık, Çeviklik, Zeka",
+    "tags": [
+      "Dungeons & Dragons",
+      "Karakter İstatistikleri",
+      "Hobi ve Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6ib5cocq5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Hangi sınıf Dungeons & Dragons'ta büyücülük (spellcasting) yapabilen bir sınıftır?",
+    "explanation": "D&D'de Büyücü (Wizard) sınıfları büyücülük yapabilen temel sınıflardan biridir.",
+    "options": [
+      "Şövalye",
+      "Savaşçı",
+      "Büyücü",
+      "Kıskanç"
+    ],
+    "correctAnswer": "Büyücü",
+    "tags": [
+      "Dungeons & Dragons",
+      "Karakter Sınıfları",
+      "Hobi ve Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7uaena3bj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Dungeons & Dragons'ta zar atma sonucunda kritik başarısızlık ne zaman olur?",
+    "explanation": "D&D'de kritik başarısızlık 1 zar, kritik başarı ise 20 zar ile olur.",
+    "options": [
+      "1 veya 20",
+      "1 veya 1",
+      "18 veya 20",
+      "19 veya 20"
+    ],
+    "correctAnswer": "1 veya 20",
+    "tags": [
+      "Dungeons & Dragons",
+      "Zar Mekanikleri",
+      "Hobi ve Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yk4myo3lx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "GENERAL",
+    "question": "Dungeons & Dragons oyununun temel amacı nedir?",
+    "explanation": "D&D'de bir DM (Eğitmen) tarafından yönlendirilen kurgusal dünyada rol alarak macera yaşanır.",
+    "options": [
+      "Gerçekçi bir savaş simülasyonu yapmak",
+      "Bir DM'ın yönlendirdiği dünyada macera yaşamak",
+      "Sadece zar atıp puan toplamak",
+      "Diğer oyuncularla rekabet etmek"
+    ],
+    "correctAnswer": "Bir DM'ın yönlendirdiği dünyada macera yaşamak",
+    "tags": [
+      "Dungeons & Dragons",
+      "Oyun Mekaniği",
+      "Hobi ve Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6thn11rq9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dungeons & Dragons",
+    "difficulty": "EXPERT",
+    "question": "Hangi sınıf Dungeons & Dragons'ta silah kullanımı konusunda en yetenekli karakterdir?",
+    "explanation": "D&D'de Savaşçı (Fighter) sınıfı silah kullanımı konusunda en yetenekli karakterlerden biridir.",
+    "options": [
+      "Savaşçı",
+      "Kılıç Bıçağı",
+      "Şövalye",
+      "Palyaçolar"
+    ],
+    "correctAnswer": "Savaşçı",
+    "tags": [
+      "Dungeons & Dragons",
+      "Karakter Sınıfları",
+      "Hobi ve Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

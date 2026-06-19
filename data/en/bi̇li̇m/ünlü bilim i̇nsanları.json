@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "bza5wlfby",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "İsac Newton hangi bilim dalında çalıştığı ve en çok tanındığı alanla ilgili olarak bilinen temel kuralı keşfetmiştir?",
+    "explanation": "İsac Newton 1687'de yayımladığı 'Principia Mathematica' çalışmasında hareket yasalarını ve kütle çekim yasalarını formüle etmiştir. Özellikle evrensel kütle çekim yasası onun en bilinen achievementidir.",
+    "options": [
+      "Termodinamik yasaları",
+      "Evrim teorisinin kanıtları",
+      "Hareket ve kütle çekim yasaları",
+      "Atomik parçacıkların özellikleri"
+    ],
+    "correctAnswer": "Hareket ve kütle çekim yasaları",
+    "tags": [
+      "Newton",
+      "Fizik",
+      "Kütle Çekim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o52m3ddgp",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Marie Curie'nin yaptığı çalışmalarla ilgili olarak hangi elementleri keşfetmiştir?",
+    "explanation": "Marie Curie, Polonya menşeli bir bilim insanı olarak radyoaktivite çalışmalarıyla tanınır. 1898'de polonyum ve radyum elementlerini keşfetmiş ve bu alanda iki Nobel ödülü kazanmıştır.",
+    "options": [
+      "Helyum ve Neon",
+      "Polonyum ve Radyum",
+      "Lityum ve Berilyum",
+      "Tekstiyum ve Krom"
+    ],
+    "correctAnswer": "Polonyum ve Radyum",
+    "tags": [
+      "Marie Curie",
+      "Kimya",
+      "Radyoaktivite"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0sy1pgdb8",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Albert Einstein'ın 'E=mc²' denklemi hangi bilimsel kavramı ifade etmektedir?",
+    "explanation": "Albert Einstein'ın 1905'te yayımladığı özel görelilik teorisinde E=mc² denklemi, madde ve enerjinin birbirine dönüştürülebilir olduğunu ve kütlenin enerjiyle eşdeğer olduğunu ifade eder.",
+    "options": [
+      "Mekanik enerji korunumu",
+      "Maddenin kütlesi ve enerjisinin eşdeğerliği",
+      "Atomun çekirdek yapısı",
+      "Işığın kırılma indisi"
+    ],
+    "correctAnswer": "Maddenin kütlesi ve enerjisinin eşdeğerliği",
+    "tags": [
+      "Einstein",
+      "Fizik",
+      "Relativite Teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "16x7gyc2c",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Charles Darwin'ın 'Türlerin Kökeni' adlı eserinde hangi temel teoriyi savunmuştur?",
+    "explanation": "Charles Darwin, 1859'da yayımladığı 'Türlerin Kökeni' eserinde doğal seçilim mekanizmasıyla evrim teorisini savunmuştur. Bu teori, türlerin zaman içinde değiştiğini ve ortak atadan geldiğini ifade eder.",
+    "options": [
+      "Evrim teorisi",
+      "Kütle çekim teorisi",
+      "Atom teorisinin kanıtları",
+      "Termodinamiğin yasaları"
+    ],
+    "correctAnswer": "Evrim teorisi",
+    "tags": [
+      "Charles Darwin",
+      "Biyoloji",
+      "Doğal Seçilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z2nwnvd98",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Nikola Tesla'nın icatlarıyla ilgili olarak en çok bilinen enerji taşıma sistemi hangisidir?",
+    "explanation": "Nikola Tesla, elektrik mühendisliği alanında alternatif akım (AC) sistemini geliştirmiştir. Bu sistem, elektriğin uzun mesafelere taşınmasını sağlayarak modern enerji dağıtım altyapısının temeli oluşturmuştur.",
+    "options": [
+      "Güneş paneli teknolojisi",
+      "Alternatif akım (AC) dağıtım sistemi",
+      "Nükleer reaktör tasarımı",
+      "Atomik parçacık hızlandırıcıları"
+    ],
+    "correctAnswer": "Alternatif akım (AC) dağıtım sistemi",
+    "tags": [
+      "Nikola Tesla",
+      "Elektrik Mühendisliği",
+      "Alternatif Akım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "47v9huej6",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Albert Einstein hangi bilimsel teori ile tanınır?",
+    "explanation": "Albert Einstein, Özgül ve Genel Relativite Teorileri ile tanınır. Bu teoriler uzay-zaman, kütle ve yerçekimi arasındaki ilişkiyi açıklar.",
+    "options": [
+      "Yerçekliği Teorisi",
+      "Relativite (Özgül ve Genel) Teorisi",
+      "Kuantum Mekaniği",
+      "Evrim Teorisi"
+    ],
+    "correctAnswer": "Relativite (Özgül ve Genel) Teorisi",
+    "tags": [
+      "fizik",
+      "albert einstein",
+      "bilim tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nisd55vky",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Marie Curie hangi alanda öncü çalışmalarda bulunmuştur?",
+    "explanation": "Marie Curie, radyoaktivite alanında öncü çalışmalar yapmış ve polonyum ile kuryum elementlerini keşfetmiştir.",
+    "options": [
+      "Nükleer Fizik",
+      "Radyoaktivite",
+      "Organik Kimya",
+      "Jeoloji"
+    ],
+    "correctAnswer": "Radyoaktivite",
+    "tags": [
+      "kimya",
+      "marie curie",
+      "radyoaktivite"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s9zpx2e0m",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Isaac Newton hangi yasaları geliştirmiştir?",
+    "explanation": "Isaac Newton, hareket yasalarını ve yerçekimi yasasını geliştirmiş, modern fiziğin temellerini atmıştır.",
+    "options": [
+      "Termodinamik Yasaları",
+      "Hareket ve Yerçekimi Yasaları",
+      "Elektromanyetik Yasalar",
+      "Kuantum Yasaları"
+    ],
+    "correctAnswer": "Hareket ve Yerçekimi Yasaları",
+    "tags": [
+      "fizik",
+      "isaac newton",
+      "hareket yasaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "teo08drw5",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Charles Darwin hangi teoriyi ileri sürmüştür?",
+    "explanation": "Charles Darwin, türlerin doğal seçilim yoluyla zaman içinde evrimleştiğini açıklayan Evrim Teorisi ile tanınır.",
+    "options": [
+      "Evrim Teorisi",
+      "Termodinamik",
+      "Radyoaktivite",
+      "Elektromanyetizm"
+    ],
+    "correctAnswer": "Evrim Teorisi",
+    "tags": [
+      "biyoloji",
+      "charles darwin",
+      "evrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3o3bkqxrx",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Nikola Tesla hangi alanda bilimsel çalışmalarda öncü olmuştur?",
+    "explanation": "Nikola Tesla, doğru akım (alternating current - AC) elektrik sistemlerinde öncü çalışmalar yapmış ve modern elektrik dağıtımını geliştirmiştir.",
+    "options": [
+      "Doğru Akım (AC) Elektrik Sistemi",
+      "Alternatif Akım (DC) Sistemleri",
+      "Nükleer Enerji",
+      "Uzay Araştırmaları"
+    ],
+    "correctAnswer": "Doğru Akım (AC) Elektrik Sistemi",
+    "tags": [
+      "elektrik",
+      "nikola tesla",
+      "doğru akım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "67m4x8vjj",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Marie Curie'ın keşfettiği radyoaktif elementlerden hangisi değildir?",
+    "explanation": "Marie Curie Polonyum ve Radyum elementlerini keşfetmiş ve adını taşıyan Kuryum elementiyle de çalışmıştır. Helyum ise başka bir bilim insanı tarafından keşfedilmiştir.",
+    "options": [
+      "Polonyum",
+      "Kuryum",
+      "Helyum",
+      "Radyum"
+    ],
+    "correctAnswer": "Helyum",
+    "tags": [
+      "BİLİM-Ünlü Bilim İnsanları",
+      "Marie Curie",
+      "Keşif"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ps33r7sj",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Einstein'ın Özel Görelilik Teorisi hangi yıl yayınlanmıştır?",
+    "explanation": "Albert Einstein, 1905 yılında Özel Görelilik Teorisini yayınlamış ve bu çalışma onun Nobel Fizik Ödülü'ne layık kılması için temel oluşturmuştur.",
+    "options": [
+      "1905",
+      "1915",
+      "1925",
+      "1935"
+    ],
+    "correctAnswer": "1905",
+    "tags": [
+      "BİLİM-Ünlü Bilim İnsanları",
+      "Albert Einstein",
+      "Görelilik Teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eneczk39a",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "İsaak Newton'un hareket yasaları hangi fiziksel olayı açıklamak için geliştirilmiştir?",
+    "explanation": "Newton'un hareket yasaları klasik mekanik alanındaki cisimlerin hareketini açıklamak için geliştirilmiştir. Yer çekimi ise Kepler ve sonra Einstein ile daha detaylı incelenmiştir.",
+    "options": [
+      "Yer çekimi",
+      "Elektrik akımı",
+      "Mekanik hareket",
+      "Işık kırılması"
+    ],
+    "correctAnswer": "Mekanik hareket",
+    "tags": [
+      "BİLİM-Ünlü Bilim İnsanları",
+      "İsaak Newton",
+      "Hareket Yasaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yh15k2mwg",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Charles Darwin'ın evrim teorisinin temel dayanağı nedir?",
+    "explanation": "Charles Darwin, \"Doğal Seçilim\" ilkesiyle türlerin zaman içinde nasıl evrildiğini açıklamıştır. Bu ilke, çevreye uyum sağlayan bireylerin yaşam olasılığının daha yüksek olduğunu söyler.",
+    "options": [
+      "Doğal Seçilim",
+      "Yapay Çınlama",
+      "Genetik Mühendisliği",
+      "Klonlama"
+    ],
+    "correctAnswer": "Doğal Seçilim",
+    "tags": [
+      "BİLİM-Ünlü Bilim İnsanları",
+      "Charles Darwin",
+      "Evrim Teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ktnw0f4sy",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Fleming'ın penicilin keşfi hangi yıl gerçekleşmiştir?",
+    "explanation": "Alexander Fleming, 1928 yılında penicilini keşfetmiş ve bu antibiyotik insanlık tarihinde devrim yaratmıştır. Keşfi Nobel Tıp Ödülü'ne layık kılması için temel oluşturmuştur.",
+    "options": [
+      "1928",
+      "1938",
+      "1948",
+      "1958"
+    ],
+    "correctAnswer": "1928",
+    "tags": [
+      "BİLİM-Ünlü Bilim İnsanları",
+      "Alexander Fleming",
+      "Penisilin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2ay2za7c3",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Albert Einstein hangi bilim dalına katkıda bulunmuştur?",
+    "explanation": "Albert Einstein, modern fiziğin en önemli isimlerinden biridir. Özel görelilik teorisi ile bilinen fizikçi, Nobel Fizik Ödülü almıştır.",
+    "options": [
+      "Kimya",
+      "Fizik",
+      "Biyoloji",
+      "Tarih"
+    ],
+    "correctAnswer": "Fizik",
+    "tags": [
+      "Albert Einstein",
+      "Fizik",
+      "Bilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "06xpdtd85",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Marie Curie hangi elementleri keşfetmiş ve çalışmıştır?",
+    "explanation": "Marie Curie, radyoaktivite alanında çalışmış ve Polonyum ile Radyyum elementlerini keşfetmiştir. İlk kadın Nobel Ödülü sahibi bilim insanıdır.",
+    "options": [
+      "Altın ve Gümüş",
+      "Polonyum ve Radyyum",
+      "Duman ve Kükürt",
+      "Bakır ve Çinko"
+    ],
+    "correctAnswer": "Polonyum ve Radyyum",
+    "tags": [
+      "Marie Curie",
+      "Radyasyon",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gihb1pwb2",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Isaac Newton hangi bilimsel prensibi geliştirmiştir?",
+    "explanation": "Isaac Newton, yerçekimi yasası ile bilinen fizikçi ve matematikçidir. Hareket kanunlarını geliştirmiş ve optik alanında çalışmıştır.",
+    "options": [
+      "Evrim Teorisi",
+      "Enerji Kanunu",
+      "Yerçekimi Yasası",
+      "Atom Teorisi"
+    ],
+    "correctAnswer": "Yerçekimi Yasası",
+    "tags": [
+      "Isaac Newton",
+      "Fizik",
+      "Matematik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ur8v89q3w",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Charles Darwin hangi teorinin babası olarak kabul edilir?",
+    "explanation": "Charles Darwin, türlerin evrimi ile bilinen biyologtur. Türlerin zamanla değiştiğini ve doğal seçilim ile geliştiğini açıklamıştır.",
+    "options": [
+      "Yerçekimi",
+      "Evrim Teorisi",
+      "Atom Yapısı",
+      "Kuantum Mekaniği"
+    ],
+    "correctAnswer": "Evrim Teorisi",
+    "tags": [
+      "Charles Darwin",
+      "Biyoloji",
+      "Doğa Bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zjkxnylks",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Galileo Galilei hangi bilim dalında önemli keşifler yapmıştır?",
+    "explanation": "Galileo Galilei, astronomi ve fizik alanında önemli keşifler yapmıştır. Teleskop kullanarak gök cisimlerini incelemiş ve dönme kanunlarını geliştirmiştir.",
+    "options": [
+      "Kimya",
+      "Tarih",
+      "Astronomi",
+      "Felsefe"
+    ],
+    "correctAnswer": "Astronomi",
+    "tags": [
+      "Galileo Galilei",
+      "Astronomi",
+      "Doğa Bilimi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p37njklt4",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Albert Einstein hangi bilimsel teoriyle tanınır?",
+    "explanation": "Albert Einstein, 1905 yılında yayınladığı Özel Görelilik Teorisi ile modern fizikte devrim yaratmıştır. Ayrıca E=mc² formülüyle meşhurdur.",
+    "options": [
+      "Kuantum mekaniği",
+      "Einstein'ın Özel Görelilik Teorisi",
+      "Genetik kuramı",
+      "Evrim teorisı"
+    ],
+    "correctAnswer": "Einstein'ın Özel Görelilik Teorisi",
+    "tags": [
+      "fizik",
+      "einstein",
+      "bilim insanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u7tfkh1gw",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Marie Curie hangi alanda Nobel ödülü kazanmıştır?",
+    "explanation": "Marie Curie, 1903 yılında Fizik alanında ve 1911 yılında Kimya alanında Nobel ödülü kazanmıştır. Dünyada bu alanda iki kez Nobel kazanan ilk bilim insanıdır.",
+    "options": [
+      "Kimya ve Fizik",
+      "Tıp ve Kimya",
+      "Fizik ve Biyoloji",
+      "Matematik ve Fizik"
+    ],
+    "correctAnswer": "Kimya ve Fizik",
+    "tags": [
+      "marie curie",
+      "nobel ödülü",
+      "radyoaktivite"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0q9b9c4p8",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Nikola Tesla'in en büyük başarısı nedir?",
+    "explanation": "Nikola Tesla, alternatif akım (AC) elektrik sistemi geliştirmesiyle tanınır. Bu sistem günümüz elektriğin temel taşıdır.",
+    "options": [
+      "Alternatif akım (AC) sistemini geliştirmesi",
+      "Dinamo motoru icat etmesi",
+      "Elektrik filanı icat etmesi",
+      "Atom enerjisi üretimi"
+    ],
+    "correctAnswer": "Alternatif akım (AC) sistemini geliştirmesi",
+    "tags": [
+      "nikola tesla",
+      "elektrik",
+      "alternatif akım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sagnc436g",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Isaac Newton hangi kanunuyla bilinen fizikçidir?",
+    "explanation": "Isaac Newton, üç hareket kanunu ve evrensel yerçekimi yasasıyla tanınır. Ayrıca kalkülüs (matematik) geliştirmeye öncülük etmiştir.",
+    "options": [
+      "Yeni zamanlar kanunu",
+      "Hareket ve Evrensel Yerçekimi Kanunları",
+      "Enerji korunumu kanunu",
+      "Termodinamik kanunu"
+    ],
+    "correctAnswer": "Hareket ve Evrensel Yerçekimi Kanunları",
+    "tags": [
+      "isaac newton",
+      "yerçekimi",
+      "hareket kanunları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "knry2mpa3",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EXPERT",
+    "question": "Charles Darwin hangi teoriyi ortaya atmıştır?",
+    "explanation": "Charles Darwin, 1859 yılında yayımladığı 'Kökenler Türlerin' kitabında doğal seçilimle evrim teorisini ortaya atmıştır.",
+    "options": [
+      "Kozmik teorisi",
+      "Evrim ve Doğuştan Gelecek Teorisi",
+      "Atom teorisi",
+      "Kuantum teorisi"
+    ],
+    "correctAnswer": "Evrim ve Doğuştan Gelecek Teorisi",
+    "tags": [
+      "charles darwin",
+      "evrim",
+      "biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s9ijbq6sy",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Marie Curie'nin keşfettiği iki element aşağıdakilerden hangisidir?",
+    "explanation": "Marie Curie, 1898 yılında Polonyum ve Radyum elementlerini keşfetmiştir. Bu keşfi nedeniyle Nobel Kimya Ödülü'ne layık görülmüştür.",
+    "options": [
+      "Altın ve Bakır",
+      "Polonyum ve Radyum",
+      "Demir ve Kurşun",
+      "Lityum ve Sodyum"
+    ],
+    "correctAnswer": "Polonyum ve Radyum",
+    "tags": [
+      "Marie Curie",
+      "Kimya",
+      "Elementler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4ydp03tbg",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Albert Einstein'ın E=mc² denklemi neyi ifade eder?",
+    "explanation": "Einstein'ın ünlü denklemi, enerji (E) ile kütle (m) arasındaki eşdeğerliği gösterir. 'c' ışık hızını ifade eder.",
+    "options": [
+      "Kuvvet ve İvme ilişkisi",
+      "Enerji ve Kütlenin eşdeğerliği",
+      "Hareket ve Süreç yasası",
+      "Elektrik ve Manyetizma dengesi"
+    ],
+    "correctAnswer": "Enerji ve Kütlenin eşdeğerliği",
+    "tags": [
+      "Albert Einstein",
+      "Fizik",
+      "Relativite Teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fg5x9l4o0",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Galileo Galilei'nin teleskopla gözlemlediği ve desteklediği astronomi teorisi hangisidir?",
+    "explanation": "Galileo, teleskopla Güneş etrafında dönen gezegenleri gözleyerek Heliocentrik (Güneş merkezli) sistemi desteklemiştir.",
+    "options": [
+      "Geosentrik Sistem",
+      "Heliocentrik Sistem",
+      "Kozmik Denge Teorisi",
+      "Galaktik Süreç Yasası"
+    ],
+    "correctAnswer": "Heliocentrik Sistem",
+    "tags": [
+      "Galileo Galilei",
+      "Astronomi",
+      "Copernicus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pnaw7min4",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EXPERT",
+    "question": "İsaak Newton'un 'Evrenin Ağırlıksız Denge Yasası' olarak bilinen teorisi aşağıdakilerden hangisidir?",
+    "explanation": "Newton'un İkinci Hareket Yasası, Kuvvetin (F), Kütle ile İvme çarpımına eşit olduğunu ifade eder (F=ma).",
+    "options": [
+      "Hareket ve Süreç Yasaları",
+      "Kuvvet, İvme ve Kütle İlişkisi (F=ma)",
+      "Elektrik Manyetizma Denklemleri",
+      "Kuantum Teorisi"
+    ],
+    "correctAnswer": "Kuvvet, İvme ve Kütle İlişkisi (F=ma)",
+    "tags": [
+      "İsaak Newton",
+      "Fizik",
+      "Hareket Yasaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9o3vyp9wv",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Charles Darwin'in 'Bilimsel Süreç Teorisi' olarak bilinen ve evrimci görüşünü ortaya koyduğu eser aşağıdakilerden hangisidir?",
+    "explanation": "Darwin'in 1859 yılında yayımladığı 'On the Origin of Species' (Evrimin Kökeni) adlı eserinde doğal seçilim ve evrim teorilerini ortaya koymuştur.",
+    "options": [
+      "Küresel Denge",
+      "Bilimsel Süreçler",
+      "Evrimin Kökeni",
+      "Doğal Seçilim"
+    ],
+    "correctAnswer": "Evrimin Kökeni",
+    "tags": [
+      "Charles Darwin",
+      "Biyoloji",
+      "Evrim Teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e553tyued",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Kuantum mekaniğinin kurucularından ve Nobel ödülü kazanan Albert Einstein, hangi alandaki çalışmalarıyla tanınır?",
+    "explanation": "Albert Einstein, genel görelilik kuramı ile tanınan fizikçi ve Nobel ödülü sahibi bilim insanıdır. Özellikle ışık hızı ve zaman kavramları üzerine yaptığı çalışmalarla meşhurdur.",
+    "options": [
+      "Nükleer fizik",
+      "Genel görelilik ve kuantum teorisi",
+      "Moleküler biyoloji",
+      "Jeofizik"
+    ],
+    "correctAnswer": "Genel görelilik ve kuantum teorisi",
+    "tags": [
+      "FİZİK",
+      "ALBERT EINSTEIN",
+      "NOBEL ÖDÜLÜ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "733fkg3j1",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Charles Darwin, evrim teorisi üzerine hangi kitabını yayımlayarak bilime katkıda bulunmuştur?",
+    "explanation": "Charles Darwin, 1859 yılında yayımladığı 'Türlerin Kökeni' adlı eserinde evrim ve doğal seçilim teorilerini ortaya atmış ve bilime büyük katkı sağlamıştır.",
+    "options": [
+      "İnsan ve Evrim",
+      "Türlerin Kökeni",
+      "Doğa Yasaları",
+      "Atom Teorisi"
+    ],
+    "correctAnswer": "Türlerin Kökeni",
+    "tags": [
+      "BİYOLojI",
+      "CHARLES DARWIN",
+      "EVİM TEORİSİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ehxqdaetn",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Marie Curie, hangi elementleri keşfedererek Nobel ödülü kazanmıştır?",
+    "explanation": "Marie Curie, radyoaktivite üzerine çalışmalarıyla tanınır ve polonyum ile radyum elementlerini keşfetmiştir. Hem Fizik hem de Kimya alanlarında Nobel ödülü kazanan ilk bilim insanıdır.",
+    "options": [
+      "Altın ve Gümüş",
+      "Polonyum ve Radyum",
+      "Helyum ve Neon",
+      "Karbon ve Oksijen"
+    ],
+    "correctAnswer": "Polonyum ve Radyum",
+    "tags": [
+      "KİMYA",
+      "MARIE CURIE",
+      "Nobel ÖDÜLÜ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9qt5sux4t",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Isaac Newton, kütle çekim yasasını hangi eseri yayımlayarak bilime katkıda bulunmuştur?",
+    "explanation": "Isaac Newton, 1687 yılında yayımladığı 'Principia Mathematica' adlı eserde kütle çekim yasasını ve hareket yasalarını belirterek modern fiziğin temellerini atmıştır.",
+    "options": [
+      "Principia Mathematica",
+      "Doğa'nın Sesi",
+      "Atom Yapısı",
+      "Kuantum Teorisi"
+    ],
+    "correctAnswer": "Principia Mathematica",
+    "tags": [
+      "FİZİK",
+      "ISAAC NEWTON",
+      "KÜTLE ÇEKİM YASASI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ozh2parsu",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Niels Bohr, atom modelinin geliştirilmesinde hangi bilim insanı olarak tanınır?",
+    "explanation": "Niels Bohr, atom modelini geliştiren Danimarkalı fizikçi ve Nobel ödülü sahibidir. Kuantum mekaniği alanındaki çalışmalarıyla bilime önemli katkılar sağlamıştır.",
+    "options": [
+      "Kuantum mekaniği",
+      "Nükleer fizik",
+      "Biyokimya",
+      "Jeoloji"
+    ],
+    "correctAnswer": "Kuantum mekaniği",
+    "tags": [
+      "FİZİK",
+      "NIELS BOHR",
+      "ATOM MODELİ"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b60m12myy",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Albert Einstein hangi alanda Nobel Ödülü kazanmıştır?",
+    "explanation": "Albert Einstein 1921 yılında Fotoelektrik etkisini açıklamış olması nedeniyle Fizik alanında Nobel Ödülü kazanmıştır.",
+    "options": [
+      "Fizik",
+      "Kimya",
+      "Tıp",
+      "Mühendislik"
+    ],
+    "correctAnswer": "Fizik",
+    "tags": [
+      "Einstein",
+      "Nobel Ödülü",
+      "Fizik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6y4jpgd77",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Isaac Newton'un en bilinen çalışma alanı nedir?",
+    "explanation": "Isaac Newton, yerçekimi yasası ve hareket kanunlarıyla fizikte devrim yaratmıştır.",
+    "options": [
+      "Güneş Sistemi",
+      "Gravitasyon ve Hareket Kanunları",
+      "DNA Yapısı",
+      "İnsan Genetiği"
+    ],
+    "correctAnswer": "Gravitasyon ve Hareket Kanunları",
+    "tags": [
+      "Newton",
+      "Gravitasyon",
+      "Fizik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9815e1or5",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Marie Curie hangi iki elementin keşfinde rol oynamıştır?",
+    "explanation": "Marie Curie hem Radyum hem de Polonyum elementlerini keşfetmiş, ayrıca bu alanda Nobel Ödülü almıştır.",
+    "options": [
+      "Altın ve Gümüş",
+      "Radyum ve Polonyum",
+      "Lityum ve Bor",
+      "Helyum ve Neon"
+    ],
+    "correctAnswer": "Radyum ve Polonyum",
+    "tags": [
+      "Curie",
+      "Radyum",
+      "Polonyum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kl6ssku9h",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Charles Darwin'in bilinen çalışması nedir?",
+    "explanation": "Charles Darwin, türlerin zaman içinde evrimleştiğini açıklayan 'Türlerin Kökeni' kitabını yayımlamıştır.",
+    "options": [
+      "Evrim ve Türlerin Kökeni",
+      "Atom Teorisi",
+      "Kuantum Mekaniği",
+      "Güneş Sistemi Yapısı"
+    ],
+    "correctAnswer": "Evrim ve Türlerin Kökeni",
+    "tags": [
+      "Darwin",
+      "Evrim",
+      "Biyoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oeq1jxnlv",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Nikola Tesla'nın bilinen bir icadı nedir?",
+    "explanation": "Nikola Tesla, alternatif akım sistemi geliştirerek elektrik dağıtımında devrim yaratmıştır.",
+    "options": [
+      "Akım ve Alternatif Akım Sistemleri",
+      "Laptop Bilgisayarı",
+      "Mobil Telefon",
+      "Uzay İstasyonu"
+    ],
+    "correctAnswer": "Akım ve Alternatif Akım Sistemleri",
+    "tags": [
+      "Tesla",
+      "Alternatif Akım",
+      "Elektrik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v7xfb3skj",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Albert Einstein hangi alanda Nobel Ödülü almıştır?",
+    "explanation": "Albert Einstein 1921 yılında Fizik alanında Nobel Ödülü almıştır. Çalışmaları, özellikle fotoelektrik etkisiyle ilgilidir.",
+    "options": [
+      "Fizik",
+      "Kimya",
+      "Tıp",
+      "Matematik"
+    ],
+    "correctAnswer": "Fizik",
+    "tags": [
+      "Albert Einstein",
+      "Nobel Ödülü",
+      "Bilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9r4e07jwi",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "İzmirli bilim insanı ve fizikçi Ali Sami Yen kimdir?",
+    "explanation": "Ali Sami Yen, İzmirli fizik ve matematik öğretmeni olarak tanınan bilim insanıdır.",
+    "options": [
+      "Fizikçi",
+      "Kimyager",
+      "Biyolog",
+      "Matematikçi"
+    ],
+    "correctAnswer": "Fizikçi",
+    "tags": [
+      "Ali Sami Yen",
+      "İzmir",
+      "Fizik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kfruibkvt",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Marie Curie hangi elementlerin keşfine katkıda bulunmuştur?",
+    "explanation": "Marie Curie, Polonyum ve Radyum elementlerini keşfetmiş ve radyoaktivite üzerine çalışmıştır.",
+    "options": [
+      "Polonyum ve Radyum",
+      "Altın ve Gümüş",
+      "Karbon ve Oksijen",
+      "Demir ve Bakır"
+    ],
+    "correctAnswer": "Polonyum ve Radyum",
+    "tags": [
+      "Marie Curie",
+      "Elementler",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9gd2u4jg3",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Newton'un hareket yasaları hangi bilim dalına aittir?",
+    "explanation": "Newton'un hareket yasaları klasik mekanik ve fizik biliminin temelini oluşturur.",
+    "options": [
+      "Mekanik",
+      "Elektrik",
+      "Termal Fizik",
+      "Optik"
+    ],
+    "correctAnswer": "Mekanik",
+    "tags": [
+      "Newton",
+      "Hareket Yasaları",
+      "Fizik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "htyqww3b3",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EXPERT",
+    "question": "Süleyman Demirel, üniversite yıllarında hangi alanda bilim insanı olmuştur?",
+    "explanation": "Süleyman Demirel, üniversite yıllarında mühendislik alanından mezun olmuş ve bilim insanı olarak tanınmıştır.",
+    "options": [
+      "Mühendislik",
+      "Tıp",
+      "Hukuk",
+      "Felsefe"
+    ],
+    "correctAnswer": "Mühendislik",
+    "tags": [
+      "Süleyman Demirel",
+      "Mühendislik",
+      "Bilim İnsanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j2pl2lkb1",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "Kimya bilimi ve atom yapısı üzerine çalışmalar yapan, Nobel Ödülü alan ünlü bilim insanı kimdir?",
+    "explanation": "Marie Curie, kimya ve fizik alanında Nobel Ödülü kazanan ilk bilim insanıdır. Radyoaktivite üzerinde çalışmış ve iki kez Nobel Ödülü almıştır.",
+    "options": [
+      "Marie Curie",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Charles Darwin"
+    ],
+    "correctAnswer": "Marie Curie",
+    "tags": [
+      "kimya",
+      "nobel ödülü",
+      "atom yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zufl1std6",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Einstein'ın meşhur E=mc² denklemi hangi konuyla ilgilidir?",
+    "explanation": "E=mc² denklemi, kütle (m) ve enerji (E) arasındaki eşitlik ilişkisini gösterir. Bu, özel görelilik teorisinden gelir.",
+    "options": [
+      "Kütle ve enerji eşitliği",
+      "Evrim teorisı",
+      "Atom bombası",
+      "Işığın kırılması"
+    ],
+    "correctAnswer": "Kütle ve enerji eşitliği",
+    "tags": [
+      "einstein",
+      "kütle enerji",
+      "relativite teorisı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t30zev8a3",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EASY",
+    "question": "İngiliz asıllı, evrim teorisini geliştiren ünlü bilim insanı kimdir?",
+    "explanation": "Charles Darwin, 1859 yılında 'Türlerin Kökeni' adlı eserinde evrim teorisini ve doğal seçilim mekanizmasını açıklamıştır.",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Charles Darwin",
+      "Nikola Tesla"
+    ],
+    "correctAnswer": "Charles Darwin",
+    "tags": [
+      "evrim teorisı",
+      "biyoloji",
+      "doğal seçilim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zdwd94m4y",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "GENERAL",
+    "question": "Amerikalı fizikçi ve elektrik mühendisi Nikola Tesla'nın en ünlü icadı hangisidir?",
+    "explanation": "Nikola Tesla, AC elektrik sisteminde devrim yaratan elektrik motoru ve bobinleri geliştirmiş, modern elektrik dağıtım sistemlerinin temellerini atmıştır.",
+    "options": [
+      "Elektrik motoru",
+      "Atom bombası",
+      "Bilgisayar",
+      "Telefon"
+    ],
+    "correctAnswer": "Elektrik motoru",
+    "tags": [
+      "nikola tesla",
+      "elektrik",
+      "mühendislik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gt49dcrz2",
+    "category": "BİLİM",
+    "subcategory": "Ünlü Bilim İnsanları",
+    "difficulty": "EXPERT",
+    "question": "Fransız fizikçi Henri Becquerel, hangi keşfiyle ünlüdür?",
+    "explanation": "Henri Becquerel, 1896 yılında radyoaktif maddelerin kendiliğinden ışın yayma özelliğini keşfetmiş ve bu buluşla Nobel Ödülü kazanmıştır.",
+    "options": [
+      "Radyoaktivite",
+      "Kütleçekim",
+      "Işık hızı",
+      "Atom çekirdeği"
+    ],
+    "correctAnswer": "Radyoaktivite",
+    "tags": [
+      "henri becquerel",
+      "radyoaktivite",
+      "nobel ödülü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

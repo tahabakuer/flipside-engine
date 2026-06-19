@@ -1,0 +1,1088 @@
+[
+  {
+    "id": "y8hs79w9e",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Kim \"Pop Kraliçası\" olarak kabul edilir?",
+    "explanation": "Madonna, 1980'lerden beri pop kültürüne derin iz bırakan ve çart başarısı sayesinde bu unvanı almıştır.",
+    "options": [
+      "Madonna",
+      "Beyoncé",
+      "Lady Gaga",
+      "Taylor Swift"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "Pop Müzik",
+      "Eğlence",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "02tlu9cmb",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Dünyanın en çok satan albümü hangisidir?",
+    "explanation": "Thriller albümü yaklaşık 66 milyon kopya satışıyla tüm zamanların en çok satan albümüdür.",
+    "options": [
+      "Thriller (Michael Jackson)",
+      "Millennium (Backstreet Boys)",
+      "Abbey Road (The Beatles)",
+      "Sign o' the Times (Prince)"
+    ],
+    "correctAnswer": "Thriller (Michael Jackson)",
+    "tags": [
+      "Pop Müzik",
+      "Albüm Satışları",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ujktinpo5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "1980'lerde sentezleyiciler ve davul makinelerine dayalı popüler bir alt tür hangisidir?",
+    "explanation": "Synth-pop, Depeche Mode gibi sanatçılarla 1980'lerde elektronik seslere odaklanan bir alt tür olarak ortaya çıkmıştır.",
+    "options": [
+      "Synth-pop",
+      "Electro",
+      "Hip-hop pop",
+      "R&B fusion"
+    ],
+    "correctAnswer": "Synth-pop",
+    "tags": [
+      "Pop Müzik",
+      "Müzik Türleri",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pcc9ohbrv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "2023 itibarıyla Billboard Hot 100'de en çok #1 single'a sahip pop müzik sanatçısı kimdir?",
+    "explanation": "2023 verilerine göre Taylor Swift, pop kategorisinde en fazla Billboard Hot 100 #1 single'ına sahiptir.",
+    "options": [
+      "Taylor Swift",
+      "Beyoncé",
+      "Lady Gaga",
+      "The Weeknd"
+    ],
+    "correctAnswer": "Taylor Swift",
+    "tags": [
+      "Pop Müzik",
+      "Şarkı Listeleri",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0qw5zq9ps",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Din temalı görüntüleri nedeniyle bazı ülkelerde yasaklanan popüler bir şarkı hangisidir?",
+    "explanation": "\"Like a Prayer\" şarkısının videosundaki dini semboller nedeniyle bazı ülkelerde yasaklanmıştır.",
+    "options": [
+      "Like a Prayer (Madonna)",
+      "Thriller",
+      "Bad",
+      "Hips Don't Lie"
+    ],
+    "correctAnswer": "Like a Prayer (Madonna)",
+    "tags": [
+      "Pop Müzik",
+      "Kültürel Etki",
+      "Sanat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cb1nxrcog",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Michael Jackson'ın en çok satan albümü hangisidir?",
+    "explanation": "Thriller, 1982 yılında yayınlanan ve dünya genelinde en çok satan müzik albümü olarak kabul edilen Michael Jackson'ın çalışmasıdır.",
+    "options": [
+      "Bad",
+      "Thriller",
+      "Off the Wall",
+      "Dangerous"
+    ],
+    "correctAnswer": "Thriller",
+    "tags": [
+      "Pop Müzik",
+      "Michael Jackson",
+      "Müzik Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w7moyp713",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "\"Queen of Pop\" lakabıyla bilinen önemli bir pop yıldızı hangisidir?",
+    "explanation": "Madonna, uzun kariyeri ve şarkı stiliyle pop müziğin ikonik figürleri arasında yer alır ve 'Queen of Pop' unvanıyla tanınır.",
+    "options": [
+      "Michael Jackson",
+      "Madonna",
+      "Prince",
+      "Whitney Houston"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "Pop Müzik",
+      "Sanat ve Eğlence",
+      "Müzik Sanatçıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gr0ezrjju",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "\"Shape of You\" hit şarkısı kimin solo albümündedir?",
+    "explanation": "\"Shape of You\", Ed Sheeran'ın 2017'de çıkan 'Divide' albümünden çıkan ve tüm dünyada büyük başarı sağlayan şarkısıdır.",
+    "options": [
+      "Justin Timberlake",
+      "Bruno Mars",
+      "Ed Sheeran",
+      "Pharrell Williams"
+    ],
+    "correctAnswer": "Ed Sheeran",
+    "tags": [
+      "Pop Müzik",
+      "Şarkılar",
+      "Modern Pop"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m22vjgry5",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "\"Purple Rain\" adlı kült bir pop albümü hangi sanatçıya aittir?",
+    "explanation": "\"Purple Rain\", 1984 yılında yayınlanan ve Prince tarafından hazırlanan, rock ve pop öğelerini birleştiren önemli bir albümdür.",
+    "options": [
+      "David Bowie",
+      "Prince",
+      "Elton John",
+      "Freddie Mercury"
+    ],
+    "correctAnswer": "Prince",
+    "tags": [
+      "Pop Müzik",
+      "Müzik Tarihi",
+      "80'ler Popu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fpp0snne2",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Taylor Swift'ın ilk stüdyo albümü hangisidir?",
+    "explanation": "Taylor Swift'ın 2006 yılında yayınlanan ilk stüdyo albümü kendi adını taşıyan 'Taylor Swift' (genellikle Debut olarak bilinen) çalışmasıdır.",
+    "options": [
+      "Fearless",
+      "Red",
+      "Debut",
+      "1989"
+    ],
+    "correctAnswer": "Debut",
+    "tags": [
+      "Pop Müzik",
+      "Taylor Swift",
+      "Albümler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8cdsfin42",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Who is widely known as the \"King of Pop\"?",
+    "explanation": "Michael Jackson earned the nickname 'King of Pop' due to his massive influence on pop culture and music during the 20th century.",
+    "options": [
+      "Elvis Presley",
+      "Michael Jackson",
+      "Prince",
+      "Freddie Mercury"
+    ],
+    "correctAnswer": "Michael Jackson",
+    "tags": [
+      "Pop Music",
+      "Artists"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "loixrctkr",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Which British band released the album \"Abbey Road\" in 1969?",
+    "explanation": "Abbey Road is one of the most famous albums by The Beatles, released in September 1969, and features their iconic medley on side two.",
+    "options": [
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "The Beatles",
+      "Pink Floyd"
+    ],
+    "correctAnswer": "The Beatles",
+    "tags": [
+      "Pop Music",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ovtto6dtf",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "In what year did Prince pass away unexpectedly?",
+    "explanation": "Prince died on April 21, 2016, in Minneapolis, Minnesota. His death shocked the music world due to his immense legacy.",
+    "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "correctAnswer": "2016",
+    "tags": [
+      "Pop Music",
+      "Trivia"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rs6uzs3zp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Which artist is often referred to as the \"Queen of Pop\"?",
+    "explanation": "Madonna is widely recognized by this title due to her longevity and influence in pop music since the early 1980s.",
+    "options": [
+      "Beyoncé",
+      "Britney Spears",
+      "Madonna",
+      "Lady Gaga"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "Pop Music",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bmf1ueosw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Which pop artist released the album \"Thriller\" which sold over 34 million copies?",
+    "explanation": "Thriller is a studio album by American singer Michael Jackson, released in 1982, and it remains the best-selling album of all time.",
+    "options": [
+      "Prince",
+      "Michael Jackson",
+      "Elton John",
+      "Whitney Houston"
+    ],
+    "correctAnswer": "Michael Jackson",
+    "tags": [
+      "Pop Music",
+      "Albums"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0hr3vh0in",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Pop müziğin ikonik figürü olarak kabul edilen ve 'Queen of Pop' lakabıyla anılan şarkıcı kimdir?",
+    "explanation": "Madonna, 1980'lerden beri pop müziğin en etkili ve satıştan şarkıcılarından biri olarak kabul edilir.",
+    "options": [
+      "Madonna",
+      "Barbra Streisand",
+      "Celine Dion",
+      "Cher"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "pop",
+      "madonna",
+      "sanatçı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r2uye1uk8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Michael Jackson'ın en satan albümünden biri olan 'Thriller' hangi yıl piyasaya sürülmüştür?",
+    "explanation": "Thriller albümü 1982 yılında Columbia Records tarafından yayınlanmıştır ve dünya çapında rekor satışlar yapmıştır.",
+    "options": [
+      "1972",
+      "1982",
+      "1992",
+      "2002"
+    ],
+    "correctAnswer": "1982",
+    "tags": [
+      "michael jackson",
+      "thriller",
+      "albüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jjelug8sm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Taylor Swift'in kariyerinin başlarında çıkardığı ilk stüdyo albümü hangi müzikal türdeydi?",
+    "explanation": "Taylor Swift, 2006 yılında çıkardığı ilk albümü ile Country müziğiyle başladı ve daha sonra Pop'a geçti.",
+    "options": [
+      "Rock",
+      "Country",
+      "Pop",
+      "Jazz"
+    ],
+    "correctAnswer": "Country",
+    "tags": [
+      "taylor swift",
+      "country",
+      "albüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "daa0q8fp7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Beyoncé'nin 2016 yılında yayınladığı, her parçasına özel bir video eşlik eden ve görsel bir deneyim sunan albümü hangisidir?",
+    "explanation": "Lemonade, Beyoncé'nin 2016 yılında çıkardığı ve her şarkısı için ayrı bir video klibi içeren görsel albümüdür.",
+    "options": [
+      "Lemonade",
+      "Home",
+      "Renaissance",
+      "Cowboy Carter"
+    ],
+    "correctAnswer": "Lemonade",
+    "tags": [
+      "beyoncé",
+      "lemonade",
+      "visual album"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y3576k861",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Michael Jackson'ın 'Thriller' albümünden sonra çıkan ve dünya çapında büyük başarı sağlayan ikinci stüdyo albümü hangisidir?",
+    "explanation": "Michael Jackson'ın Thriller'den sonra Bad albümü (1987) ile devam etti ve yine büyük başarı elde etti.",
+    "options": [
+      "Bad",
+      "Dangerous",
+      "Off the Wall",
+      "HIStory"
+    ],
+    "correctAnswer": "Bad",
+    "tags": [
+      "michael jackson",
+      "bad",
+      "albüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w02r2071d",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Pop müziğin 'Kralı' (King of Pop) olarak en çok bilinen sanatçı kimdir?",
+    "explanation": "Michael Jackson, 80'ler ve 90'lerdeki ikonik performansı ve 'Thriller', 'Billie Jean' gibi albümleriyle bu unvanı almıştır.",
+    "options": [
+      "Freddie Mercury",
+      "Prince",
+      "Michael Jackson",
+      "Elvis Presley"
+    ],
+    "correctAnswer": "Michael Jackson",
+    "tags": [
+      "Pop Müzik",
+      "Sanatçı Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hlmo4gdq7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Britney Spears'in en ikonik şarkılarından biri olan 'Toxic' hangi albümden çıkmıştır?",
+    "explanation": "'Toxic', Britney Spears'in 2003 çıkışlı 'In the Zone' adlı üçüncü stüdyo albümünün başlık parçası değildir ancak bu albümden çıkan hit şarkılardan biridir.",
+    "options": [
+      "Oops!... I Did It Again",
+      "In the Zone",
+      "Blackout",
+      "Circus"
+    ],
+    "correctAnswer": "In the Zone",
+    "tags": [
+      "Pop Müzik",
+      "Britney Spears"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x5db2njjp",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Müzik endüstrisinde RIAA standartlarına göre 'Platinum' plakası genellikle ne kadar satış anlamına gelir?",
+    "explanation": "ABD'de RIAA standartlarına göre 1 milyon satılan bir şarkı veya albüm 'Platinum' statüsü alır.",
+    "options": [
+      "50.000",
+      "100.000",
+      "1.000.000",
+      "2.500.000"
+    ],
+    "correctAnswer": "1.000.000",
+    "tags": [
+      "Müzik Endüstrisi",
+      "Satış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x3gihjjk2",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "2003 Eurovision Şarkı Yarışması'nı kazanan ve pop müzik kariyerini uluslararası areaya taşıyan Türk sanatçı kimdir?",
+    "explanation": "Sertab Erener'in 'Every Way That I Can' şarkısı ile 2003'te birincilik elde etmiştir.",
+    "options": [
+      "Tarkan",
+      "Sertab Erener",
+      "Sezen Aksu",
+      "Demet Akalın"
+    ],
+    "correctAnswer": "Sertab Erener",
+    "tags": [
+      "Eurovision",
+      "Türk Sanatçı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8veujlcab",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Grammy Ödülleri ilk kez hangi yıl sahiplerini aldı?",
+    "explanation": "Grammy Ödülleri ilk resmi töreni 4 Şubat 1959'da yapılmış, o yılın başarıları ödüllendirilmiştir.",
+    "options": [
+      "1956",
+      "1958",
+      "1959",
+      "1960"
+    ],
+    "correctAnswer": "1959",
+    "tags": [
+      "Ödüller",
+      "Müzik Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zm7o4o9rm",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "\"Pop Kralı\" lakabıyla bilinen sanatçı kimdir?",
+    "explanation": "Michael Jackson, 1980'lerdeki devrimci çalışmaları ve dünya çapındaki başarısı nedeniyle 'Pop Kralı' olarak anılır.",
+    "options": [
+      "Elvis Presley",
+      "Michael Jackson",
+      "Freddie Mercury",
+      "Prince"
+    ],
+    "correctAnswer": "Michael Jackson",
+    "tags": [
+      "pop",
+      "sanatçı",
+      "lakap"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "je3vtgu36",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "\"Queen of Pop\" unvanını taşıyan sanatçı kimdir?",
+    "explanation": "Madonna, 1980'lerden beri pop müziğin en etkili ve tanınan figürlerinden biri olarak 'Pop Kraliçesi' unvanını taşır.",
+    "options": [
+      "Madonna",
+      "Beyoncé",
+      "Rihanna",
+      "Taylor Swift"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "pop",
+      "tanımlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vbzpr1lk7",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Michael Jackson'ın 'Thriller' albümü dünya müzik geçmişi açısından neyi temsil eder?",
+    "explanation": "Thriller, 1982'de çıkan ve tüm zamanların en çok satan müzik albümü olarak kabul edilir.",
+    "options": [
+      "En çok satan pop albümü",
+      "İlk elektronik albüm",
+      "En uzun şarkı",
+      "En düşük notayı alan"
+    ],
+    "correctAnswer": "En çok satan pop albümü",
+    "tags": [
+      "albüm",
+      "rekorlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d4vgf5see",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Taylor Swift hangi albümüyle Country'den Pop'a geçişini tamamladı?",
+    "explanation": "1989, Taylor Swift'in tamamen pop odaklı ilk albümü olup kariyerindeki büyük dönüşümü işaret eder.",
+    "options": [
+      "Fearless",
+      "Red",
+      "1989",
+      "Reputation"
+    ],
+    "correctAnswer": "1989",
+    "tags": [
+      "taylar swift",
+      "tür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xqlahjoaw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Lady Gaga'nın 2009'da çıkan ve kültürel bir fenomen haline gelen şarkısı hangisidir?",
+    "explanation": "Bad Romance, Lady Gaga'nın ilk stüdyo albümü The Fame'den çıkan en ikonik şarkısıdır.",
+    "options": [
+      "Bad Romance",
+      "Poker Face",
+      "Born This Way",
+      "Applause"
+    ],
+    "correctAnswer": "Bad Romance",
+    "tags": [
+      "lady gaga",
+      "şarkılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b9axfmzco",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "En çok Grammy Ödülü kazanan kadın pop şarkıcı kimdir?",
+    "explanation": "Taylor Swift, kariyeri boyunca en fazla Grammy Ödülü kazanan kadın sanatçıdır. Özellikle Country ve Pop müziğindeki başarısıyla öne çıkar.",
+    "options": [
+      "Taylor Swift",
+      "Lady Gaga",
+      "Adele",
+      "Beyoncé"
+    ],
+    "correctAnswer": "Taylor Swift",
+    "tags": [
+      "Pop Müzik",
+      "Grammy",
+      "Ödüller"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r4wjxu2vz",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "1980'lerde 'New Wave' akımını başlatan pop şarkıcı hangisidir?",
+    "explanation": "Prince, 1980'lerde 'New Wave' akımının önemli temsilcisiydi ve Minneapolis müziğiyle tanınıyordu.",
+    "options": [
+      "Michael Jackson",
+      "Madonna",
+      "Prince",
+      "David Bowie"
+    ],
+    "correctAnswer": "Prince",
+    "tags": [
+      "Pop Müzik",
+      "Müzik Tarihçesi",
+      "New Wave"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "drs5345ov",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Taylor Swift'in ilk albümü ne isim taşır?",
+    "explanation": "Taylor Swift'in ilk albümü 2006 yılında 'Taylor Swift' adıyla, kendi isminin geçtiği albümdür.",
+    "options": [
+      "Fearless",
+      "Red",
+      "Taylor Swift (Self-titled)",
+      "1989"
+    ],
+    "correctAnswer": "Taylor Swift (Self-titled)",
+    "tags": [
+      "Pop Müzik",
+      "Albüm Bilgileri",
+      "Taylor Swift"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8jut4hum9",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi pop şarkıcı 'One Sweet Day' adlı şarkıyı yazıp seslendirmiştir?",
+    "explanation": "Mariah Carey, 'One Sweet Day' şarkısını Whitney Houston ile birlikte seslendirmiştir. Bu şarkı dünya çapında büyük başarı elde etmiştir.",
+    "options": [
+      "Mariah Carey",
+      "Celine Dion",
+      "Whitney Houston",
+      "Madonna"
+    ],
+    "correctAnswer": "Mariah Carey",
+    "tags": [
+      "Pop Müzik",
+      "Şarkı Bilgileri",
+      "Mariah Carey"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b640e3zor",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Avustralyalı pop şarkıcı Sia'nın en bilinen şarkısı hangisidir?",
+    "explanation": "Sia'nın en tanınan şarkısı 'Chandelier'dir. Bu şarkı 2014'te büyük başarı elde etmiş ve Sia'yu dünya çapında meşhur kılmıştır.",
+    "options": [
+      "Chandelier",
+      "Titanium",
+      "Elastic Heart",
+      "Breathe Me"
+    ],
+    "correctAnswer": "Chandelier",
+    "tags": [
+      "Pop Müzik",
+      "Sia",
+      "Şarkı Bilgileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qk22shnvw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi yıl ilk kez Grammy Ödülleri verilmeye başlanmıştır?",
+    "explanation": "Grammy Ödülleri ilk kez 1959 yılında verilmeye başlanmıştır. Bu ödüller, ABD'deki en önemli müzik ödülü olarak kabul edilir.",
+    "options": [
+      "1958",
+      "1963",
+      "1959",
+      "1960"
+    ],
+    "correctAnswer": "1959",
+    "tags": [
+      "pop müzik",
+      "ödüller",
+      " Grammy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qr8nav7ie",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Britney Spears'ın en bilinen şarkisinden hangisidir?",
+    "explanation": "\"Toxic\" Britney Spears'ın en ikonik ve en çok bilinen şarkilerinden biridir. 2003 yılında yayınlanan bu single, 160 milyondan fazla satış yapılmıştır.",
+    "options": [
+      "Till The World Ends",
+      "Toxic",
+      "I'm A Slave 4 U",
+      "Stronger"
+    ],
+    "correctAnswer": "Toxic",
+    "tags": [
+      "pop müzik",
+      "Britney Spears",
+      "şarkılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u3jx0yjh3",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Hangi pop sanatçısı \"Queen of Pop\" olarak bilinir?",
+    "explanation": "Madonna, pop müziğin kraliçesi olarak \"Queen of Pop\" unvanını taşımaktadır. 1980'lerden beri pop kültürünün en etkili figürlerinden biridir.",
+    "options": [
+      "Madonna",
+      "Lady Gaga",
+      "Taylor Swift",
+      "Adele"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "pop müzik",
+      "sanatçı unvanları",
+      " Madonna"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aizu0juni",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Hangi albüm Taylor Swift'in ilk stüdyo albümü olarak 2006 yılında yayınlanmıştır?",
+    "explanation": "\"Taylor Swift\" isimli albüm, şarkıcının 2006 yılında yayınladığı ilk stüdyo albümü olup, country pop tarzında hazırlanmıştır.",
+    "options": [
+      "Fearless",
+      "Red",
+      "Taylor Swift",
+      "Speak Now"
+    ],
+    "correctAnswer": "Taylor Swift",
+    "tags": [
+      "pop müzik",
+      "Taylor Swift",
+      "albüm tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4yz45vev1",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Pop müzik endüstrisinde 'Billboard Hot 100' listesinde hangi ülkenin verileri esas alınır?",
+    "explanation": "\"Billboard Hot 100\", Amerika Birleşik Devletleri'nde yayınlanan ve ABD'deki en popüler şarkıları listeleyen resmi bir müzik listesi olarak bilinir.",
+    "options": [
+      "ABD",
+      "İngiltere",
+      "Almanya",
+      "Fransa"
+    ],
+    "correctAnswer": "ABD",
+    "tags": [
+      "pop müzik",
+      "listeler",
+      " Billboard"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nwfm9109o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Pop müziğin \"Kraliçesi\" olarak tanımlanan ünlü şarkıcı kimdir?",
+    "explanation": "Madonna, 1980'lerden beri pop müziğin en etkili figürlerinden biri olarak kabul edilir ve bu unvanı sıkça kullanılır.",
+    "options": [
+      "Madonna",
+      "Beyoncé",
+      "Lady Gaga",
+      "Rihanna"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "Pop",
+      "Sanatçı",
+      "Karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wj2v2s55o",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Michael Jackson'ın resmi \"Kral\" unvanı nedir?",
+    "explanation": "Michael Jackson, dünya çapında pop müziğin en büyük ikonlarından biri olarak \"Pop Müziğin Kralı\" (King of Pop) adıyla anılır.",
+    "options": [
+      "King of Rock",
+      "King of Pop",
+      "Lord of Dance",
+      "Prince of Music"
+    ],
+    "correctAnswer": "King of Pop",
+    "tags": [
+      "Pop",
+      "Michael Jackson",
+      "Unvan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q9dyovjzv",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Michael Jackson'ın en çok satan albümü olan \"Thriller\"de yer alan ve Grammy ödülleri kazandıran şarkı hangisidir?",
+    "explanation": "Thriller albümü dünya çapında en çok satan albümdür ve içindeki \"Billie Jean\" şarkısı ikonik bir hit olarak kabul edilir.",
+    "options": [
+      "Smooth Criminal",
+      "Billie Jean",
+      "Heal the World",
+      "Black or White"
+    ],
+    "correctAnswer": "Billie Jean",
+    "tags": [
+      "Pop",
+      "Michael Jackson",
+      "Albüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3jdz26kd4",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Türkiye'nin Eurovision Şarkı Yarışması'nda kazandığı yıl ve şarkı hangisidir?",
+    "explanation": "Sertab Erener, \"Every Way That I Can\" şarkısıyla 2003 yılında Eurovision'da Türkiye adına birincilik elde etmiştir.",
+    "options": [
+      "2003 - Every Way That I Can",
+      "2016 - Tarkan",
+      "2005 - Hadise",
+      "2018 - Sertab Erener"
+    ],
+    "correctAnswer": "2003 - Every Way That I Can",
+    "tags": [
+      "Eurovision",
+      "Sertab Erener",
+      "Müzik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9prin28dw",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Pop müziğin en temel özelliği nedir?",
+    "explanation": "Pop müziği, geniş kitlelere ulaşabilirliği ve popüler kültürün bir parçası olması açısından radyo ve televizyonda yaygın çalınmasıyla bilinir.",
+    "options": [
+      "Radyo ve TV kitleleri için erişilebilirlik",
+      "Çok karmaşık besteleri bulunması",
+      "Sadece akademik çevrelerce desteklenmesi",
+      "Uzun süren beste süreçleri"
+    ],
+    "correctAnswer": "Radyo ve TV kitleleri için erişilebilirlik",
+    "tags": [
+      "Tanım",
+      "Pop Müzik",
+      "Tür"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1adevba5w",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EASY",
+    "question": "Pop müzik akımının en temel belirleyicisi nedir?",
+    "explanation": "Pop müzik, geniş kitlelerin anlayabileceği daha sade ve akılda kalıcı yapıda olmalıdır.",
+    "options": [
+      "Karmaşık besteler",
+      "Geniş kitlelere hitap eden basit yapılar",
+      "Sadece elektronik çalgılar",
+      "Klasik orkestralar"
+    ],
+    "correctAnswer": "Geniş kitlelere hitap eden basit yapılar",
+    "tags": [
+      "Pop Müzik",
+      "Tanım",
+      "Genel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o5adys4u8",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Michael Jackson'ın 'Thriller' albümü hangi yıl yayınlandı?",
+    "explanation": "Thriller albümü Kasım 1982'de piyasaya sürüldü ve pop müziğin en satan albümlerinden biri oldu.",
+    "options": [
+      "1972",
+      "1982",
+      "1992",
+      "2002"
+    ],
+    "correctAnswer": "1982",
+    "tags": [
+      "Pop Müzik",
+      "Michael Jackson",
+      "Albüm Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x8hqgdnss",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Britpop akımı hangi ülkede yoğunlaşmıştır?",
+    "explanation": "Britpop, 1990'larda İngiltere'de (Oasis, Blur gibi gruplarla) gelişen bir pop akımıdır.",
+    "options": [
+      "ABD",
+      "Fransa",
+      "Almanya",
+      "İngiltere"
+    ],
+    "correctAnswer": "İngiltere",
+    "tags": [
+      "Pop Müzik",
+      "Britpop",
+      "Müzik Akımları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7g4egpz5f",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "GENERAL",
+    "question": "Madonna'nın kariyerini başlatan ilk albümü hangisidir?",
+    "explanation": "Madonna'nın ilk stüdyo albümü, aynı ad taşıyan ve 1983'te yayınlanan 'Madonna'dır.",
+    "options": [
+      "Like a Virgin",
+      "True Blue",
+      "Material Girl",
+      "Madonna"
+    ],
+    "correctAnswer": "Madonna",
+    "tags": [
+      "Pop Müzik",
+      "Madonna",
+      "Kariyer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6t2r0m0tg",
+    "category": "SANAT_VE_EĞLENCE",
+    "subcategory": "Pop Müzik",
+    "difficulty": "EXPERT",
+    "question": "Taylor Swift'in 'Folklore' albümü hangi türde bir çalışmadır?",
+    "explanation": "2020 yılında yayınlanan 'Folklore', Taylor Swift'in tarzını değiştirerek Indie Folk ve Alt Pop'a kaydettiği albümdür.",
+    "options": [
+      "Pop",
+      "Rock",
+      "Indie Folk",
+      "R&B"
+    ],
+    "correctAnswer": "Indie Folk",
+    "tags": [
+      "Pop Müzik",
+      "Taylor Swift",
+      "Albüm Türü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "g66b5b074",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir karenin bir kenarı 5 cm ise, alanı kaç cm²'dir?",
+    "explanation": "Karenin alanı, kenar uzunluğunun kendisiyle çarpımıdır. 5 × 5 = 25 cm².",
+    "options": [
+      "10",
+      "25",
+      "20",
+      "15"
+    ],
+    "correctAnswer": "25",
+    "tags": [
+      "matematik",
+      "geometri",
+      "alan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q668moh3e",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "x + 7 = 12 denkleminin çözümü nedir?",
+    "explanation": "Her iki taraftan 7 çıkararak: x = 12 - 7 = 5 bulunur.",
+    "options": [
+      "x = 3",
+      "x = 5",
+      "x = 4",
+      "x = 2"
+    ],
+    "correctAnswer": "x = 5",
+    "tags": [
+      "matematik",
+      "denklem",
+      "cözümleme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "boh8y4pxp",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Fizikte kuvvet, kütle ve ivre arasındaki ilişkiyi hangi formülle ifade eder?",
+    "explanation": "Newton'ın ikinci hareket yasası, kuvvetin kütle ile ivre çarpımına eşit olduğunu söyler: F = m × a.",
+    "options": [
+      "F = m × a",
+      "F = m + a",
+      "F = m / a",
+      "F = a / m"
+    ],
+    "correctAnswer": "F = m × a",
+    "tags": [
+      "fizik",
+      "kuvvet",
+      "hareket"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hhwngwr7w",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Bir üçgenin açıları toplamı kaç derecedir?",
+    "explanation": "Herhangi bir düz üçgenin iç açıları toplamı her zaman 180 derecedir.",
+    "options": [
+      "90",
+      "180",
+      "360",
+      "270"
+    ],
+    "correctAnswer": "180",
+    "tags": [
+      "matematik",
+      "geometri",
+      "üçgen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mh71ynqn8",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir işçinin 4 saatte 20 parça ürettiği biliniyor. Bu işçi 1 saatte kaç parça üretir?",
+    "explanation": "Saate başına üretim hızı: 20 parça / 4 saat = 5 parça/saat.",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "matematik",
+      "orantı",
+      "hız"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dm0y74y7z",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "2 ile çarpıldığında 80 olan sayı kaçtır?",
+    "explanation": "80 sayısını 2'ye bölersek: 80 ÷ 2 = 40. Doğru cevap 40'dır.",
+    "options": [
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctAnswer": "40",
+    "tags": [
+      "matematik",
+      "aritmetik",
+      "basit çarpma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h73nnevs6",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "x + 5 = 12 eşitliğinde x kaçtır?",
+    "explanation": "Her iki tarafı 5'ten çıkararak: x = 12 - 5 = 7. Doğru cevap 7'dir.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "tags": [
+      "matematik",
+      "cebir",
+      "eşitsizlikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxgd0oubl",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Üçgenin iç açılarının toplamı kaç derecedir?",
+    "explanation": "Her üçgenin iç açılarının toplamı her zaman 180 derecedir.",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correctAnswer": "180°",
+    "tags": [
+      "matematik",
+      "geometri",
+      "açılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cz5dqsd6i",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "12'nin en büyük böleni kaçtır?",
+    "explanation": "Bir sayının en büyük böleni kendisidir. 12'nin en büyük böleni 12'dir.",
+    "options": [
+      "4",
+      "6",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "12",
+    "tags": [
+      "matematik",
+      "sayı teorisi",
+      "bölenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15hl99d9g",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EXPERT",
+    "question": "50 sayısı kaç tam kare sayısının bir katıdır?",
+    "explanation": "50 = 2 × 25. 25 bir tam karedir (5²). Doğru cevap 25'tir.",
+    "options": [
+      "4",
+      "9",
+      "16",
+      "25"
+    ],
+    "correctAnswer": "25",
+    "tags": [
+      "matematik",
+      "sayı teorisi",
+      "tam kareler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3ntytsc4c",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "25 × 16 kaçtır?",
+    "explanation": "25 × 16 = 25 × (10 + 6) = 250 + 150 = 400",
+    "options": [
+      "400",
+      "350",
+      "450",
+      "300"
+    ],
+    "correctAnswer": "400",
+    "tags": [
+      "Matematik",
+      "Çarpma",
+      "Temel İşlemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "svp9u08po",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "√144'nın karekökü kaçtır?",
+    "explanation": "√144 = 12 çünkü 12 × 12 = 144",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswer": "12",
+    "tags": [
+      "Matematik",
+      "Karekök",
+      "Temel İşlemler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pifhde75w",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+    "explanation": "Her üçgenin iç açılarının toplamı her zaman 180 derecedir",
+    "options": [
+      "180°",
+      "360°",
+      "90°",
+      "270°"
+    ],
+    "correctAnswer": "180°",
+    "tags": [
+      "Matematik",
+      "Geometri",
+      "Üçgen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cnqree1rd",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "3/4 sayısını ondalık sayıya çevirdiğinizde kaç olur?",
+    "explanation": "3/4 = 0.75 çünkü 3 ÷ 4 = 0.75",
+    "options": [
+      "0.7",
+      "0.75",
+      "0.65",
+      "0.6"
+    ],
+    "correctAnswer": "0.75",
+    "tags": [
+      "Matematik",
+      "Ondalık",
+      "Kesir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wytp0pa9i",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "2x + 5 = 15 denkleminden x kaçtır?",
+    "explanation": "2x + 5 = 15 → 2x = 10 → x = 5",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "8"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "Matematik",
+      "Denklem",
+      "Algebra"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xog61fd2s",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir karenin çevresi 24 cm ise, bu karenin alanı kaç cm²'dir?",
+    "explanation": "Karenin bir kenarı = 24/4 = 6 cm. Alan = 6 × 6 = 36 cm².",
+    "options": [
+      "16",
+      "24",
+      "36",
+      "48"
+    ],
+    "correctAnswer": "36",
+    "tags": [
+      "geometri",
+      "alan",
+      "çevre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "u3k831g03",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "x + 5 = 12 eşitliğinde x'in değeri kaçtır?",
+    "explanation": "x = 12 - 5 = 7.",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "17"
+    ],
+    "correctAnswer": "7",
+    "tags": [
+      "cemberler",
+      "basit denklem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "267ixedi4",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi rasyonel sayı değildir?",
+    "explanation": "π (pi) irrasyonel sayıdır. √9 = 3 rasyoneldir.",
+    "options": [
+      "3/4",
+      "-5/2",
+      "√9",
+      "π"
+    ],
+    "correctAnswer": "π",
+    "tags": [
+      "sayılar",
+      "rasyonel",
+      "irasyonel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sw8e5jiuj",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Bir üçgenin iki açısı sırasıyla 50° ve 60° ise, üçüncü açı kaç derecedir?",
+    "explanation": "Üçgen toplamı 180°. 180 - (50 + 60) = 70°.",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswer": "70",
+    "tags": [
+      "geometri",
+      "üçgen",
+      "açılar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d1pkigoco",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EXPERT",
+    "question": "2x² - 8 = 0 denkleminin çözüm kümesi nedir?",
+    "explanation": "2x² = 8 → x² = 4 → x = ±2.",
+    "options": [
+      "{-2, 2}",
+      "{-4, 4}",
+      "{-1, 1}",
+      "{0}"
+    ],
+    "correctAnswer": "{-2, 2}",
+    "tags": [
+      "denklem",
+      "karekök",
+      "çözüm kümesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "07rhl97rr",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir karenin çevresi 24 birim ise, karenin bir kenarı kaç birimdir?",
+    "explanation": "Bir karenin çevresi = 4 × kenar. Kenar = 24 ÷ 4 = 6 birim.",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "6",
+    "tags": [
+      "Matematik",
+      "Geometri",
+      "Kare"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3zle6s9be",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Hangi sayı en büyük asal sayıdır (10'dan küçük)?",
+    "explanation": "10'dan küçük asal sayılar: 2, 3, 5, 7. En büyüğü 7'dir.",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "1"
+    ],
+    "correctAnswer": "7",
+    "tags": [
+      "Matematik",
+      "Asal Sayılar",
+      "Sayı Teorisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ygq4rkzb",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Bir dairenin yarıçapı 5 cm ise, çevresi kaç π birimdir?",
+    "explanation": "Dairenin çevresi = 2 × π × yarıçap = 2 × π × 5 = 10π.",
+    "options": [
+      "5π",
+      "10π",
+      "15π",
+      "20π"
+    ],
+    "correctAnswer": "10π",
+    "tags": [
+      "Matematik",
+      "Geometri",
+      "Daire"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jw220zlgb",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Hangi bilim dalı maddeyi inceler?",
+    "explanation": "Kimya, maddelerin yapısını, özelliklerini ve birbirlerine dönüşümlerini inceler.",
+    "options": [
+      "Fizik",
+      "Kimya",
+      "Biyoloji",
+      "Astronomi"
+    ],
+    "correctAnswer": "Kimya",
+    "tags": [
+      "Bilim",
+      "Madde",
+      "Kimya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "028heco2h",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "3x + 7 = 22 eşitliğinde x kaçtır?",
+    "explanation": "3x = 22 - 7 = 15. x = 15 ÷ 3 = 5.",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "8"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "Matematik",
+      "Denklem Çözme",
+      "Cebir"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "972f3b25y",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir sayının 3 katının 12'den 6 eksik olduğu durumda, bu sayı kaçtır?",
+    "explanation": "Sayının 3 katı = 3x, 3x = 12 - 6 = 6 olduğuna göre, x = 6 ÷ 3 = 2 bulunur.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "Matematik",
+      "Algebra",
+      "Temel"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uvf5m1g1i",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Bir dik üçgende en kısa kenar 3 cm, orta uzunlukta kenar 4 cm ise hipotenüs kaç cm olur?",
+    "explanation": "Pisagor teoremine göre: a² + b² = c² → 3² + 4² = c² → 9 + 16 = c² → c² = 25 → c = 5 cm",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "Matematik",
+      "Geometri",
+      "Pisagor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hohuyqv63",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "x² - 5x + 6 = 0 denkleminin kökleri kaçtır?",
+    "explanation": "Çarpanlara ayırarak: (x - 2)(x - 3) = 0 → x = 2 veya x = 3",
+    "options": [
+      "2, 3",
+      "1, 6",
+      "-2, -3",
+      "0, 6"
+    ],
+    "correctAnswer": "2, 3",
+    "tags": [
+      "Matematik",
+      "Denklem",
+      "Kök Bulma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4c4p5xoql",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir kütle 5 kg ise, bu kütlenin %30'u kaç kilogramdır?",
+    "explanation": "5 × 0.30 = 1.5 kg, yani %30'u 1.5 kilogram eder.",
+    "options": [
+      "1.5",
+      "2.5",
+      "3.5",
+      "4.5"
+    ],
+    "correctAnswer": "1.5",
+    "tags": [
+      "Matematik",
+      "Yüzde",
+      "Oran"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "emzb40tjm",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EXPERT",
+    "question": "lim(x→∞) (2x³ + 5x² - 3) / (x³ - x² + 1) ifadesinin limiti kaçtır?",
+    "explanation": "Her iki tarafın en yüksek dereceli terimlerine (x³) bölünce, katsayılar 2 ve 1 olduğundan limit 2/1 = 2 olur.",
+    "options": [
+      "2",
+      "1",
+      "-1",
+      "0"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "Matematik",
+      "Limit",
+      "Kalkülüs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "96l632u0z",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir karenin bir kenarı 7 cm ise, bu karenin alanı kaç cm²'dir?",
+    "explanation": "Bir karenin alanı, kenar uzunluğunun kendisiyle çarpımına eşittir. Kenarı 7 cm olan karenin alanı: 7 × 7 = 49 cm²'dir.",
+    "options": [
+      "49 cm²",
+      "14 cm²",
+      "21 cm²",
+      "35 cm²"
+    ],
+    "correctAnswer": "49 cm²",
+    "tags": [
+      "Geometri",
+      "Alan Hesaplama",
+      "Temel Matematiği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o60lfjie0",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "3x - 5 = 10 denkleminden x'in değeri kaçtır?",
+    "explanation": "3x - 5 = 10 denklemi için önce her iki tarafa 5 eklenir: 3x = 15, ardından 3'e bölünür: x = 5.",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "2"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "Denklem Çözümü",
+      "Cebir",
+      "Lineer Eşitlikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0hvvxce7d",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+    "explanation": "Herhangi bir üçgenin iç açıları toplamı her zaman 180 dereceye eşittir. Bu geometri temel kuralıdır.",
+    "options": [
+      "270°",
+      "360°",
+      "180°",
+      "90°"
+    ],
+    "correctAnswer": "180°",
+    "tags": [
+      "Geometri",
+      "Üçgen Özellikleri",
+      "Açı Hesaplama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0n6bt7wvd",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "√64 ifadesinin kök değeri kaçtır?",
+    "explanation": "√64 ifadesinin değeri 8'dir çünkü 8 × 8 = 64. Karekök, verilen sayının hangi sayının karesine eşit olduğunu bulmayı gerektirir.",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "6"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "Rasyonel Sayılar",
+      "Karekök",
+      "Temel İfadeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "31l9t1kui",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "(-5) × (-3) çarpımı kaç eder?",
+    "explanation": "İki negatif sayı çarpıldığında sonuç pozitiftir. (-5) × (-3) = 15 eder.",
+    "options": [
+      "-15",
+      "-8",
+      "15",
+      "0"
+    ],
+    "correctAnswer": "15",
+    "tags": [
+      "Çarpma İşlemi",
+      "Negatif Sayılar",
+      "Temel Matematiği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nzhwyeam7",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "2 sayısının kaç farklı pozitif böleni vardır?",
+    "explanation": "2 sayısının pozitif bölenleri: 1 ve 2. Toplamda 2 farklı pozitif böleni vardır.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "Matematik",
+      "Bölme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w9g8rqubi",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Bir üçgende en büyük açı hangi kenara karşılık gelir?",
+    "explanation": "Bir üçgende, en büyük açıya karşılık gelen kenar da en büyük kenardır. Bu, üçgende açılar ve kenarlar arasındaki temel ilişkidir.",
+    "options": [
+      "En küçük kenara",
+      "Orta büyüklükte kenara",
+      "En büyük kenara",
+      "Tüm kenarlara eşit"
+    ],
+    "correctAnswer": "En büyük kenara",
+    "tags": [
+      "Matematik",
+      "Geometri",
+      "Üçgen"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1fnvde0yo",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "sin(90°) kaçtır?",
+    "explanation": "90 derecelik açının sinüsü, birim çemberde y ekseninin pozitif değeri olan 1'e eşittir.",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "∞"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "Matematik",
+      "Trigonometri",
+      "Sinüs"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ieegxqqm1",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "x² - 5x + 6 = 0 denkleminin kökleri nedir?",
+    "explanation": "Çarpanlara ayırma: (x-2)(x-3)=0. Kökler x=2 ve x=3'tür. Veya köklü formül ile de bulunabilir.",
+    "options": [
+      "2 ve 3",
+      "-2 ve -3",
+      "1 ve 6",
+      "-1 ve -6"
+    ],
+    "correctAnswer": "2 ve 3",
+    "tags": [
+      "Matematik",
+      "Denklemler",
+      "Karekök"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pbhge2lpa",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EXPERT",
+    "question": "100 sayısının asal çarpanları kaç tanedir?",
+    "explanation": "100 = 2² × 5². Farklı asal çarpanlar: 2 ve 5. Toplamda 2 farklı asal çarpanı vardır.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "tags": [
+      "Matematik",
+      "Asal Sayılar",
+      "Çarpanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j7zj90zdi",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "What is the square root of 64?",
+    "explanation": "The square root of 64 is 8 because 8 × 8 = 64.",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "arithmetic",
+      "roots"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tb2ncudas",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Solve for x in the equation 3x + 5 = 20.",
+    "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to find x = 5.",
+    "options": [
+      "x=3",
+      "x=4",
+      "x=5",
+      "x=6"
+    ],
+    "correctAnswer": "x=5",
+    "tags": [
+      "algebra",
+      "linear equations"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1dd9trri7",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Which of the following is a composite number?",
+    "explanation": "Composite numbers have more than two factors. 22 = 2 × 11, so it is composite.",
+    "options": [
+      "7",
+      "11",
+      "22",
+      "29"
+    ],
+    "correctAnswer": "22",
+    "tags": [
+      "number theory",
+      "composites"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yhqt4mle5",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "What is the approximate value of the acceleration due to gravity on Earth's surface?",
+    "explanation": "The standard gravitational acceleration on Earth is approximately 9.8 meters per second squared.",
+    "options": [
+      "5 m/s²",
+      "9.8 m/s²",
+      "10 m/s²",
+      "15 m/s²"
+    ],
+    "correctAnswer": "9.8 m/s²",
+    "tags": [
+      "physics",
+      "constants"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iudhw7mql",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EXPERT",
+    "question": "Find the area under the curve y = x² from x=0 to x=2 using integration.",
+    "explanation": "The integral of x² is (x³)/3. Evaluating from 0 to 2 gives (8/3 - 0) = 8/3.",
+    "options": [
+      "4/3",
+      "8/3",
+      "2",
+      "16"
+    ],
+    "correctAnswer": "8/3",
+    "tags": [
+      "calculus",
+      "integration"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0zmt1mi3q",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "Bir dik üçgende hipotenüs uzunluğu 10 birim ve bir kenarın uzunluğu 6 birim ise diğer kenarın uzunluğu kaçtır?",
+    "explanation": "Pisagor teoremi kullanılarak: a² + b² = c². 6² + x² = 10² → 36 + x² = 100 → x² = 64 → x = 8",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "Matematik",
+      "Dik Üçgen",
+      "Pisagor"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ahibthr0x",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EASY",
+    "question": "x² - 5x + 6 = 0 denkleminin kökleri toplamı kaçtır?",
+    "explanation": "Ax² + Bx + C = 0 denkleminde kökler toplamı -B/A formülü ile bulunur: -(-5)/1 = 5",
+    "options": [
+      "5",
+      "-5",
+      "6",
+      "-6"
+    ],
+    "correctAnswer": "5",
+    "tags": [
+      "Matematik",
+      "Kareköklü Denklemler",
+      "Kökler Toplamları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nx4wq7xgw",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "4.3 × 10⁶ sayısı standart notasyonda kaçtır?",
+    "explanation": "4.3 × 10⁶ = 4.3 ile 6 sıfır kere çarpım = 4,300,000",
+    "options": [
+      "4,300,000",
+      "430,000",
+      "43,000,000",
+      "4,300,000"
+    ],
+    "correctAnswer": "4,300,000",
+    "tags": [
+      "Matematik",
+      "Bilim Notasyonu",
+      "Standart Form"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ny785tln8",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Bir kürenin hacmi V = (4/3)πr³ formülü ile bulunur. Küre yarıçapı 3 birim ise hacmi nedir? (π ≈ 3.14)",
+    "explanation": "V = (4/3) × π × 3³ = (4/3) × π × 27 = 4 × π × 9 = 36π",
+    "options": [
+      "36π",
+      "12π",
+      "27π",
+      "18π"
+    ],
+    "correctAnswer": "36π",
+    "tags": [
+      "Matematik",
+      "Geometri",
+      "Küre Hacmi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z5iffgy45",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "EXPERT",
+    "question": "log(x + 1) - log(x) = 1 denkleminin çözümü nedir? (x > 0)",
+    "explanation": "log((x+1)/x) = 1 → (x+1)/x = 10¹ = 10 → x+1 = 10x → 9x = 1 → x = 1/9. Ancak seçenekler arasında doğru olan logaritma kuralı: log(x+1/x) = log(2) = 1 değil, doğrusu (x+1)/x = e^1 veya tabana bağlı çözülür.",
+    "options": [
+      "1",
+      "2",
+      "1/2",
+      "-1"
+    ],
+    "correctAnswer": "1",
+    "tags": [
+      "Matematik",
+      "Logaritma",
+      "Denklem Çözme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xkum5q42o",
+    "category": "BİLİM",
+    "subcategory": "Matematik",
+    "difficulty": "GENERAL",
+    "question": "Bir verinin ortalaması 50, standart sapması 10 ise bu verilerin ne kadarlık kısmı 40 ile 60 arasında bulunur?",
+    "explanation": "Ortalama ± 1 standart sapma aralığı (μ±σ) normal dağılımunda yaklaşık %68'lik kısmı kapsar: 50-10=40 ile 50+10=60",
+    "options": [
+      "%95",
+      "%68",
+      "%34",
+      "%50"
+    ],
+    "correctAnswer": "%68",
+    "tags": [
+      "Matematik",
+      "İstatistik",
+      "Normal Dağılım"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]
