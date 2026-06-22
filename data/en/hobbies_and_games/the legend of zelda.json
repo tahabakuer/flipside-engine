@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "dnbbr3irx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Link'in en ikonik ve ana silahı olarak kabul edilen kılıç hangisidir?",
+    "explanation": "Master Sword, Zelda serisinin efsanevi kılıcı ve Link'in ana silahıdır.",
+    "options": [
+      "Master Sword",
+      "Hylian Kılıcı",
+      "Ganonun Kılıcı",
+      "Temple Kılıcı"
+    ],
+    "correctAnswer": "Master Sword",
+    "tags": [
+      "karakter",
+      "ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "55kg3me4t",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "The Legend of Zelda serisinin ilk oyunu hangi konsolda çıktı?",
+    "explanation": "1986 yılında Nintendo NES (Japonya'da Famicom) konsolu için piyasaya sürüldü.",
+    "options": [
+      "Nintendo Switch",
+      "PlayStation",
+      "NES/Famicom",
+      "Game Boy Color"
+    ],
+    "correctAnswer": "NES/Famicom",
+    "tags": [
+      "tarih",
+      "platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3n8iaxypn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Breath of the Wild oyununda Link'in yeteneklerini geliştirmesine ve dünyayı keşfetmesine yardımcı olan özel cihaz hangisidir?",
+    "explanation": "Sheikah Tabletı (Slate), oyun içinde özel yetenekler ve keşif araçları sağlar.",
+    "options": [
+      "Hyrule Kartı",
+      "Sheikah Tabletı",
+      "Triforce Hırsızlığı",
+      "Zaman Taşı"
+    ],
+    "correctAnswer": "Sheikah Tabletı",
+    "tags": [
+      "ekipman",
+      "mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i9lakfjxv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "Hyrule Kraliçesi ve Ganondorf arasındaki efsanevi savaşın merkezindeki nesne hangisidir?",
+    "explanation": "Triforce, efsanevi gücün simgesidir ve serinin hikayesinin merkezinde yer alır.",
+    "options": [
+      "Master Sword",
+      "Sheikah Tabletı",
+      "Triforce",
+      "Ocarina of Time"
+    ],
+    "correctAnswer": "Triforce",
+    "tags": [
+      "lore",
+      "hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xzg7fmz6l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "Ocarina of Time oyununda Link zamanı hangi yöntemle değiştirir?",
+    "explanation": "Oyun içindeki Ocarina çalınarak zaman akışını geriye veya ileriye yönlendirmek mümkündür.",
+    "options": [
+      "Büyü Kılıcıyla",
+      "Ocarina Şarkıları Çalarak",
+      "Hylian Kartıyla",
+      "Triforce'ü Kullanarak"
+    ],
+    "correctAnswer": "Ocarina Şarkıları Çalarak",
+    "tags": [
+      "mekanik",
+      "oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "97ksmachm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Klassik The Legend of Zelda oyunlarında Link'in ana silahı nedir?",
+    "explanation": "The Legend of Zelda serisinin her oyununda Link'in temel silahı Master Sword'dır ve bu kılıç zaman zaman büyülü özellikler kazanır.",
+    "options": [
+      "Bow (Ok)",
+      "Sword (Kılıç)",
+      "Shield (Kalkan)",
+      "Trident (Üçgen)"
+    ],
+    "correctAnswer": "Sword (Kılıç)",
+    "tags": [
+      "Zelda",
+      "Silahlar",
+      "Link"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pe2jihbcp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Hangi The Legend of Zelda oyunu 'Breath of the Wild' adıyla bilinir?",
+    "explanation": "The Legend of Zelda: Breath of the Wild, Nintendo Switch ve Wii U platformlarında yayınlanan son nesil açık dünyalı bir Zelda oyunudur.",
+    "options": [
+      "Nintendo Switch",
+      "Wii U",
+      "3DS",
+      "PlayStation"
+    ],
+    "correctAnswer": "Nintendo Switch",
+    "tags": [
+      "Oyun Platformu",
+      "Zelda",
+      "Switch"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kiq33cgae",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Hyrule Krallığı'nın kraliçesi ve Link'in kızı olan karakter kimdir?",
+    "explanation": "Princess Zelda, Hyrule Krallığı'nın mirasçısıdır ve zaman zaman büyülü güçlerle donatılmıştır.",
+    "options": [
+      "Princess Zelda",
+      "Navi",
+      "Midna",
+      "Sheik"
+    ],
+    "correctAnswer": "Princess Zelda",
+    "tags": [
+      "Zelda",
+      "Karakterler",
+      "Hyrule Krallığı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gz7khvrdg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "The Legend of Zelda: Majora's Mask hangi Nintendo platformunda yayınlanmıştır?",
+    "explanation": "The Legend of Zelda: Majora's Mask, Nintendo 64 platformunda yayınlanan ve üç gün döngüsüyle bilinen özel bir Zelda oyunudur.",
+    "options": [
+      "Nintendo 64",
+      "GameCube",
+      "Game Boy Advance",
+      "SNES"
+    ],
+    "correctAnswer": "Nintendo 64",
+    "tags": [
+      "Zelda",
+      "Oyun Platformu",
+      "Majora's Mask"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "419i4mnje",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Link'in zaman geçiş yeteneği hangi oyunda bulunur?",
+    "explanation": "The Legend of Zelda: Ocarina of Time'da Link, Ocarina kullanarak zaman geçiş yapabilme yeteneğine sahiptir.",
+    "options": [
+      "Ocarina of Time",
+      "Twilight Princess",
+      "Wind Waker",
+      "Skyward Sword"
+    ],
+    "correctAnswer": "Ocarina of Time",
+    "tags": [
+      "Zelda",
+      "Yetenekler",
+      "Ocarina of Time"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bzd4xv15e",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Hangi oyun The Legend of Zelda serisinin ilk oyunu olarak kabul edilir?",
+    "explanation": "The Legend of Zelda serisinin ilk oyunu 1986 yılında Nintendo Entertainment System (NES) için yayınlandı ve EAD tarafından geliştirilmiştir.",
+    "options": [
+      "The Legend of Zelda: Ocarina of Time",
+      "The Legend of Zelda (1986)",
+      "The Legend of Zelda: Breath of the Wild",
+      "The Legend of Zelda: Twilight Princess"
+    ],
+    "correctAnswer": "The Legend of Zelda (1986)",
+    "tags": [
+      "history",
+      "franchise",
+      "retro"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "000k4s094",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Zelda serisinde ana karakter Link'in amacı nedir?",
+    "explanation": "Link'in temel amacı Hyrule Kraliği Zelda'yı kurtarmak ve oyun dünyasını kötü güçlerden korumaktır.",
+    "options": [
+      "Tahtı ele geçirmek",
+      "Kraliçe Zelda'yı kurtarmak",
+      "Malicious ruhlara karşı savaşmak",
+      "Hepsinin doğru"
+    ],
+    "correctAnswer": "Malicious ruhlara karşı savaşmak",
+    "tags": [
+      "plot",
+      "characters",
+      "goals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "djsguxroi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "The Legend of Zelda: Breath of the Wild hangi platform için yayınlandı?",
+    "explanation": "Breath of the Wild hem Nintendo Switch hem de Wii U (daha önce) ve daha sonra PC için yayınlandı, ancak ana platform Switch olarak bilinir.",
+    "options": [
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
+    ],
+    "correctAnswer": "Nintendo Switch",
+    "tags": [
+      "platforms",
+      "releases",
+      "hardware"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vtf0e1mw6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Zelda serisinde 'Master Sword' ne işlev görür?",
+    "explanation": "Master Sword, Zelda serisinde en güçlü kılıç olup hem normal düşmanlara hem de Dark Souls (Gloom) gibi özel güçlere karşı kullanılır.",
+    "options": [
+      "Düşmanları öldürmek",
+      "Kasvetli ruhlardan temizlemek",
+      "Hem düşmanlara hem de kasvetli ruhlar karşı savaşmak",
+      "Tahtı ele geçirmek"
+    ],
+    "correctAnswer": "Hem düşmanlara hem de kasvetli ruhlar karşı savaşmak",
+    "tags": [
+      "weapons",
+      "gameplay",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d8oqk4pee",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "The Legend of Zelda: Ocarina of Time hangisiyle bilinir?",
+    "explanation": "Ocarina of Time, serinin en önemli oyunlarından biri olup efsanevi müzik aleti Ocarina ile zaman manipülasyonu gibi mekanikler içerir.",
+    "options": [
+      "Efsanevi müzik aleti",
+      "En zayıf oyun",
+      "En kısa oyun",
+      "En pahalı oyun"
+    ],
+    "correctAnswer": "Efsanevi müzik aleti",
+    "tags": [
+      "music",
+      "ocarina",
+      "nostalgia"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uim24lkcs",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Legend of Zelda serisinin yaratıcısı kimdir?",
+    "explanation": "Legend of Zelda serisi, Nintendo'un kurucu üyelerinden ve önemli oyun tasarımcılarından Shigeru Miyamoto tarafından geliştirilmiştir.",
+    "options": [
+      "Shigeru Miyamoto",
+      "Hideo Kojima",
+      "Satoru Iwata",
+      "Masahiro Sakurai"
+    ],
+    "correctAnswer": "Shigeru Miyamoto",
+    "tags": [
+      "Karakter",
+      "Geçmiş",
+      "Oyun Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x94hnwz98",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Link karakterinin kullandığı en ikonik kılıcın adı nedir?",
+    "explanation": "Master Sword, serinin ana kahramanı Link'in kullandığı efsanevi kılıçtır ve genellikle kötülük önlemek için kullanılır.",
+    "options": [
+      "Master Sword",
+      "Hylian Blade",
+      "Royal Saber",
+      "Divine Steel"
+    ],
+    "correctAnswer": "Master Sword",
+    "tags": [
+      "Karakter",
+      "Eşya",
+      "Dungeon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5kwo34l9u",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Legend of Zelda serisinin ilk oyunu hangi konsolda yayınlandı?",
+    "explanation": "Serinin ilk oyunu 1986 yılında Nintendo NES konsolu için piyasaya sürülmüştür.",
+    "options": [
+      "Nintendo Entertainment System (NES)",
+      "Super Nintendo Entertainment System (SNES)",
+      "Game Boy",
+      "PlayStation"
+    ],
+    "correctAnswer": "Nintendo Entertainment System (NES)",
+    "tags": [
+      "Platform",
+      "Geçmiş",
+      "Konsol Tarihçesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k4olcdjio",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Ana kötü karakterin, Link'in en büyük düşmanının adı nedir?",
+    "explanation": "Ganon, serinin ana kötü karakteridir ve genellikle Link'in sonu olan oyunlarda ortaya çıkar.",
+    "options": [
+      "Ganon",
+      "Bowser",
+      "King K. Rool",
+      "Zant"
+    ],
+    "correctAnswer": "Ganon",
+    "tags": [
+      "Karakter",
+      "Düşman",
+      "Hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fov71bzed",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "Legend of Zelda serisinin hikayesindeki kutsal üç parçanın adı nedir?",
+    "explanation": "Triforce, Zelda evreninde Tanrıça Hylia tarafından bırakılan ve zenginliği temsil eden üçgen bir efsanedir.",
+    "options": [
+      "Triforce",
+      "Master Sword",
+      "Ocarina of Time",
+      "Hylian Shield"
+    ],
+    "correctAnswer": "Triforce",
+    "tags": [
+      "Karakter",
+      "Efsane",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "viz0ipzl8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "The Legend of Zelda oyununun ilk çıkış yılı nedir?",
+    "explanation": "The Legend of Zelda, Nintendo Entertainment System (NES) için 14 Aralık 1987'de yayınlandı ve serinin ilk oyunu olarak kabul edilir.",
+    "options": [
+      "1986",
+      "1987",
+      "1988",
+      "1989"
+    ],
+    "correctAnswer": "1987",
+    "tags": [
+      "The Legend of Zelda",
+      "Tarihçe",
+      "NDS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wpr7jze5a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Zelda serisinin ana kahramanı ve hikayede her zaman bir şeyi arayan karakter kimdir?",
+    "explanation": "Link, The Legend of Zelda serisinin ana kahramanıdır ve hikayede Ganon'ü veya kötülüğü durdurmak için her zaman bir şeyi aramakta ve dünyayı kurtarmaya çalışmaktadır.",
+    "options": [
+      "Ganon",
+      "Link",
+      "Impa",
+      "Navi"
+    ],
+    "correctAnswer": "Link",
+    "tags": [
+      "The Legend of Zelda",
+      "Karakterler",
+      "Ana Kahraman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k87v5vpbz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "The Legend of Zelda: Breath of the Wild oyununun geliştirildiği platformlar hangileridir?",
+    "explanation": "Breath of the Wild, hem Nintendo Switch hem de Wii U platformları için geliştirildi ve 2017 Mart ayında yayınlandı.",
+    "options": [
+      "PlayStation 4, Xbox One",
+      "Nintendo Switch",
+      "PC, PlayStation 5",
+      "Nintendo DS, 3DS"
+    ],
+    "correctAnswer": "Nintendo Switch",
+    "tags": [
+      "The Legend of Zelda",
+      "Breath of the Wild",
+      "Platformlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mdlxrxwmm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "Zelda serisindeki 'Master Sword' (Ana Kılıç) hangi hikaye öğesini temsil eder?",
+    "explanation": "Master Sword, The Legend of Zelda serisinde kötülüğe karşı duran simge olarak kabul edilir ve özellikle Ganon'a veya Triforce'u korumak için kullanılır.",
+    "options": [
+      "Kötülük",
+      "Güç",
+      "Denge ve İyi",
+      "Yoksulluk"
+    ],
+    "correctAnswer": "Denge ve İyi",
+    "tags": [
+      "The Legend of Zelda",
+      "Efsanevi Nesneler",
+      "Master Sword"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1oi39c585",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "The Legend of Zelda: Ocarina of Time oyununun hikayesi hangi zaman diliminde geçer?",
+    "explanation": "Ocarina of Time, 7 yıl sürecek bir zaman çizgisi içerir ve Link'in çocukluk ve yetişkinlik dönemlerinde farklı görevler üstlenmesini kapsar.",
+    "options": [
+      "Tek bir yıl",
+      "Çoklu zaman çizgileri",
+      "Geçmiş ve gelecek",
+      "Sadece çocukluk dönemi"
+    ],
+    "correctAnswer": "Çoklu zaman çizgileri",
+    "tags": [
+      "The Legend of Zelda",
+      "Ocarina of Time",
+      "Hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m1vzhowif",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "The Legend of Zelda serisindeki ana kahramanın adı nedir?",
+    "explanation": "Link, The Legend of Zelda serisinin ana kahramanıdır. Ganon ise büyük düşmandır, Zelda prensesdir ve Epona Link'in atıdır.",
+    "options": [
+      "Ganon",
+      "Zelda",
+      "Link",
+      "Epona"
+    ],
+    "correctAnswer": "Link",
+    "tags": [
+      "LORE",
+      "CHARACTERS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k5md3kr55",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Zelda zaman çizelgesinde 'Breath of the Wild' oyunu hangi dönemdedir?",
+    "explanation": "Breath of the Wild, Kahramanlar Çağı'nın sonundaki hikayesiz bir dönemdedir. Bu dönemde Hyrule Krallığı 100 yıl boyunca korunmaktadır.",
+    "options": [
+      "Kahramanlar Çağı",
+      "Şeytanların Çağı",
+      "Hikayesiz Dönem",
+      "Tatil Dönemi"
+    ],
+    "correctAnswer": "Hikayesiz Dönem",
+    "tags": [
+      "TIMELINE",
+      "GAME ERA"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o91q3x4h8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Link'in ana silahı ve simgesi nedir?",
+    "explanation": "Link'in en ikonik silahı Master Sword (Usta Kılıç) ve Hylian Shield (Hilyan Kalkanı)'dır. Bu silahlar serinin temel öğeleridir.",
+    "options": [
+      "Ok Yay",
+      "Çekiç",
+      "Kılıç ve Kalkan",
+      "Buz Mağarası"
+    ],
+    "correctAnswer": "Kılıç ve Kalkan",
+    "tags": [
+      "WEAPONS",
+      "ITEMS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ihqs28mpq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "The Legend of Zelda: Ocarina of Time oyununda zamanı manipüle etmek için kullanılan nesne nedir?",
+    "explanation": "Ocarina, Zelda: Ocarina of Time oyununda zamanı manipüle etmek için kullanılan ana nesnedir. Farklı melodiler farklı zaman değişiklikleri sağlar.",
+    "options": [
+      "Master Sword",
+      "Ocarina",
+      "Heart Container",
+      "Rupee"
+    ],
+    "correctAnswer": "Ocarina",
+    "tags": [
+      "ITEMS",
+      "GAME MECHANICS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "opw933u2g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Legend of Zelda serisindeki büyük düşman ve Hyrule kraliyetinin sonradan tekrar doğuşunu engelleyen kişi kimdir?",
+    "explanation": "Ganon, Zelda serisinin ana büyük düşmanıdır. Ganon, Kahramanlar Çağı'nda Hyrule'e saldırır ve tekrar doğuşunu engeller.",
+    "options": [
+      "Ganon",
+      "Zelda",
+      "Impa",
+      "Navi"
+    ],
+    "correctAnswer": "Ganon",
+    "tags": [
+      "BOSS",
+      "VILLAINS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rss1lb09t",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Hangi oyun ilk kez 'The Legend of Zelda' serisinin ana karakteri olan Link'i doğrudan hikayenin başrolünde gösterdi?",
+    "explanation": "İlk oyun The Legend of Zelda (1986) serinin başlangıcıdır ve Link'i doğrudan ana karakter olarak gösterdi.",
+    "options": [
+      "Zelda II: The Adventure of Link",
+      "The Legend of Zelda (1986)",
+      "A Link to the Past",
+      "Ocarina of Time"
+    ],
+    "correctAnswer": "The Legend of Zelda (1986)",
+    "tags": [
+      "Link",
+      "Characters",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vf7h3s819",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "'Ocarina of Time' oyununda zamanı manipüle etmek için hangi eşya kullanılır?",
+    "explanation": "Ocarina, zamanı ileriye veya geriye götürmek için kullanılan temel eşyadır. Farklı şarkılar farklı zaman etkileri yaratır.",
+    "options": [
+      "Master Sword",
+      "Hylian Shield",
+      "Ocarina",
+      "Hookshot"
+    ],
+    "correctAnswer": "Ocarina",
+    "tags": [
+      "Items",
+      "Time Manipulation",
+      "Music"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iuj5co24f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "'Breath of the Wild' oyununda Link hangi özel yetenek ile ateşten korunabilir?",
+    "explanation": "Ateşten korunmak için Fireproof seti takmanız gerekir. Bu set ateş hasarını azaltır veya tamamen engeller.",
+    "options": [
+      "İmpact Ability",
+      "Fireproof Armor",
+      "Wind Waker",
+      "Bomb Flowers"
+    ],
+    "correctAnswer": "Fireproof Armor",
+    "tags": [
+      "Armor",
+      "Combat",
+      "Abilities"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xnkgixtyp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "'Majora's Mask' oyununda üç farklı zaman dilimini temsil eden hangi mekanizma vardır?",
+    "explanation": "Moon Phase (Aydınlık Dönemleri), üç gün ve geceden oluşan döngüyü temsil eder. Her ay farklı bir atmosfer sunar.",
+    "options": [
+      "Dungeon System",
+      "Day/Night Cycle",
+      "Moon Phase",
+      "World Map"
+    ],
+    "correctAnswer": "Moon Phase",
+    "tags": [
+      "Time",
+      "Mechanics",
+      "Story"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5yxh7z9wr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Hangi oyun 'Twilight Princess' adıyla bilinir ve Link'in gölgesi ile aynı anda iki dünyayı geçiş yapmasını sağlar?",
+    "explanation": "Twilight Princess'ta Link hem Hyrule hem de Twilight Realm dünyalarında seyahat edebilir.",
+    "options": [
+      "Skyward Sword",
+      "Wind Waker",
+      "Twilight Princess",
+      "Phantom Hourglass"
+    ],
+    "correctAnswer": "Twilight Princess",
+    "tags": [
+      "Worlds",
+      "Travel",
+      "Story"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zhv6elogt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Which character serves as the primary antagonist in The Legend of Zelda: Breath of the Wild?",
+    "explanation": "Ganon (also known as Calamity Ganon) is the main villain in Breath of the Wild, who was sealed away after being awakened by Master Kohga's actions.",
+    "options": [
+      "Ganon",
+      "Zelda",
+      "Hestu",
+      "King Rhoam"
+    ],
+    "correctAnswer": "Ganon",
+    "tags": [
+      "video games",
+      "The Legend of Zelda",
+      "Breath of the Wild",
+      "antagonist"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "avjsxl5g5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "In The Legend of Zelda: Ocarina of Time, what major event occurs when Link first meets the Great Fairy?",
+    "explanation": "The Great Fairy (specifically the Sacred Realm Fairy) guides Link to the Pedestal of Time where he can eventually pull the Master Sword from its pedestal.",
+    "options": [
+      "She gives him a sword",
+      "She teaches him songs",
+      "She grants him the Master Sword access",
+      "She asks him to defeat Ganondorf"
+    ],
+    "correctAnswer": "She grants him the Master Sword access",
+    "tags": [
+      "video games",
+      "The Legend of Zelda",
+      "Ocarina of Time",
+      "Master Sword"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "04w9huluu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Which game in The Legend of Zelda series features time travel as a central mechanic?",
+    "explanation": "Ocarina of Time is famous for its time-travel mechanic, which splits the story between childhood and adult Link and spans 7 years.",
+    "options": [
+      "Breath of the Wild",
+      "Twilight Princess",
+      "Ocarina of Time",
+      "Skyward Sword"
+    ],
+    "correctAnswer": "Ocarina of Time",
+    "tags": [
+      "video games",
+      "The Legend of Zelda",
+      "time travel",
+      "mechanic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "chi7gzt2v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "What type of weapon does Link primarily use throughout most The Legend of Zelda games?",
+    "explanation": "Link's iconic weapon combination is the sword and shield, which he uses for both offense and defense in nearly every game.",
+    "options": [
+      "Bow and Arrow",
+      "Sword and Shield",
+      "Magic Wand",
+      "Fire Staff"
+    ],
+    "correctAnswer": "Sword and Shield",
+    "tags": [
+      "video games",
+      "The Legend of Zelda",
+      "weapons",
+      "combat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fcco12t13",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "In The Legend of Zelda: Skyward Sword, what form does Link take after using the Goddess Sword?",
+    "explanation": "In Skyward Sword, Link can transform into Shadow Link after collecting the Goddess Sword, allowing him to attack enemies from stealth.",
+    "options": [
+      "Flame Form",
+      "Light Form",
+      "Shadow Form",
+      "Sky Form"
+    ],
+    "correctAnswer": "Shadow Form",
+    "tags": [
+      "video games",
+      "The Legend of Zelda",
+      "Skyward Sword",
+      "abilities"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kmlpxj5y9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Hangi oyun serisinin baş kahramanı Link'tir?",
+    "explanation": "Link, Nintendo'nun The Legend of Zelda serisinin ana karakteridir ve bu oyunların baş kahramanıdır.",
+    "options": [
+      "Mario",
+      "Zelda",
+      "Pikachu",
+      "Duck Hunt"
+    ],
+    "correctAnswer": "Zelda",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "The Legend of Zelda",
+      "Video Games"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1zwertryx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "Zelda serisinde Hyrule kraliçesi olarak bilinen karakter kimdir?",
+    "explanation": "Princess Zelda, Hyrule kraliçesi ve Link'in en yakın dostu olarak serinin önemli karakterlerindendir.",
+    "options": [
+      "Princess Zelda",
+      "Samus Aran",
+      "Mega Man",
+      "Peach"
+    ],
+    "correctAnswer": "Princess Zelda",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "The Legend of Zelda",
+      "Characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mxv5u9ysv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "The Legend of Zelda: Breath of the Wild hangi konsol için çıkış yaptı?",
+    "explanation": "Breath of the Wild hem Wii U hem de Nintendo Switch için 2017 yılında piyasaya sürüldü.",
+    "options": [
+      "Game Boy",
+      "Nintendo Switch",
+      "PlayStation 2",
+      "Xbox One"
+    ],
+    "correctAnswer": "Nintendo Switch",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "The Legend of Zelda",
+      "Platforms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mnnio87cd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "Zelda serisindeki 'Triforce' nedir?",
+    "explanation": "Triforce, Tanrıça Hetha tarafından yaratılan kutsal bir semboldür ve güç, zeka ve cesaret üçlüsünü temsil eder.",
+    "options": [
+      "Bir silah türü",
+      "Kutsal bir sembol",
+      "Bir boss karakteri",
+      "Bir harita parçası"
+    ],
+    "correctAnswer": "Kutsal bir sembol",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "The Legend of Zelda",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yaqr8xojl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "Zelda serisindeki 'Master Sword' (Ana Kılıç) hangi özelliktedir?",
+    "explanation": "Master Sword, zamanla kırılır ve belirli durumlarda yenilenmesi gerekir - Breath of the Wild'te özellikle bu özellik öne çıkar.",
+    "options": [
+      "İlk 10 soruda yer alan soruların tamamı",
+      "Kırılabilir bir kılıç",
+      "Sonsuzdur ve canlandırma yapmaz",
+      "Sadece boss'lara karşı çalışır"
+    ],
+    "correctAnswer": "Kırılabilir bir kılıç",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "The Legend of Zelda",
+      "Items"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "m70uacpcc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Who is the playable protagonist in The Legend of Zelda series?",
+    "explanation": "Link is the main character who embarks on quests to save Hyrule from various threats.",
+    "options": [
+      "Link",
+      "Mario",
+      "Sonic",
+      "Cloud"
+    ],
+    "correctAnswer": "Link",
+    "tags": [
+      "Characters",
+      "Protagonist"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mfz3sm6qa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "In the original 1986 NES game, what is the name of the primary antagonist?",
+    "explanation": "Ganon (or Ganondorf) is the main villain seeking to rule Hyrule and steal the Triforce.",
+    "options": [
+      "Ganon",
+      "Bowser",
+      "Krystal",
+      "Sephiroth"
+    ],
+    "correctAnswer": "Ganon",
+    "tags": [
+      "Villain",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tgq6uzulg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EXPERT",
+    "question": "What item allows Link to see hidden clues in dark areas?",
+    "explanation": "The Lens of Truth is used to reveal invisible paths or enemies that are only visible when looking through it.",
+    "options": [
+      "Lens of Truth",
+      "Hammer",
+      "Boomerang",
+      "Hookshot"
+    ],
+    "correctAnswer": "Lens of Truth",
+    "tags": [
+      "Items",
+      "Puzzles"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9rcpe3e8l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "GENERAL",
+    "question": "What artifact represents the power of three beings in the series?",
+    "explanation": "The Triforce is a sacred relic created by the Golden Goddesses, granting power to Link, Zelda, and Ganon.",
+    "options": [
+      "Triforce",
+      "Master Sword",
+      "Hylian Shield",
+      "Ocarina of Time"
+    ],
+    "correctAnswer": "Triforce",
+    "tags": [
+      "Lore",
+      "Artifacts"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8zzox5v26",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Legend of Zelda",
+    "difficulty": "EASY",
+    "question": "Who is the princess of Hyrule that often aids Link?",
+    "explanation": "Princess Zelda is the royal companion who possesses wisdom and power within the Triforce.",
+    "options": [
+      "Princess Zelda",
+      "Princess Peach",
+      "Princess Daisy",
+      "Princess Luna"
+    ],
+    "correctAnswer": "Princess Zelda",
+    "tags": [
+      "Characters",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

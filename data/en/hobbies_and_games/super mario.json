@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "dcofp3b92",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Bros. oyununun ilk çıkış yılı hangisidir?",
+    "explanation": "Super Mario Bros. ilk olarak 1985 yılında NES için yayınlandı ve video oyun tarihinin en ikonik oyunlarından biri oldu.",
+    "options": [
+      "1985",
+      "1988",
+      "1990",
+      "1983"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "tarih",
+      "nesil",
+      "mario"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "39yndbwey",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Mario'yu düşmanlardan kurtarmak için hangi özel güç kullanılabilir?",
+    "explanation": "Yeşil mantarlar Mario'yu büyütür ve ona ekstra can verir. Kırmızı mantar ise sadece normal boyuta döndürür.",
+    "options": [
+      "Yıldız",
+      "Mantar",
+      "Ayı",
+      "İnci"
+    ],
+    "correctAnswer": "Mantar",
+    "tags": [
+      "karakter",
+      "güçler",
+      "mario"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3b2q4og2v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EXPERT",
+    "question": "Super Mario Galaxy oyununda kaç farklı yıldız kütüğü bulunur?",
+    "explanation": "Super Mario Galaxy'da toplam 150 yıldız kütüğü toplanabilir ve bunlar oyunun tamamlanma göstergesidir.",
+    "options": [
+      "150",
+      "240",
+      "100",
+      "360"
+    ],
+    "correctAnswer": "150",
+    "tags": [
+      "galaxy",
+      "puan",
+      "koleksiyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1zz0m6nz2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Luigi karakteri neden Mario'dan farklıdır?",
+    "explanation": "Luigi, Mario'nun ablası ve yeşil takım giyen kardeşidir. Daha iyi zıplama yeteneğine sahiptir.",
+    "options": [
+      "Yeşil kıyafetleri vardır",
+      "Kısa boyludur",
+      "Daha güçlüdür",
+      "Farklı değildir"
+    ],
+    "correctAnswer": "Yeşil kıyafetleri vardır",
+    "tags": [
+      "karakter",
+      "luigi",
+      "mario"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cfmjk4y9c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Goomba düşmanlarının adı nereden gelir?",
+    "explanation": "Goomba ismi İtalyanca'da gelen 'gombo' (köri mantarı) kelimesinden gelir ve Mario'nun İtalyan kökenli olmasıyla ilişkilidir.",
+    "options": [
+      "İtalyanca",
+      "Japonca",
+      "Almanca",
+      "Fransızca"
+    ],
+    "correctAnswer": "İtalyanca",
+    "tags": [
+      "düşmanlar",
+      "goomba",
+      "etimoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c9yrczgzo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario oyununun ilk çıkış yılı nedir?",
+    "explanation": "Super Mario Bros. Nintendo NES için 1985 yılında Japanda ve ABD'de piyasaya sürüldü.",
+    "options": [
+      "1985",
+      "1987",
+      "1989",
+      "1990"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "Mario",
+      "Tarih",
+      "Nesneler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a4n1jlo0g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario oyununda Luigi karakteri hangi renk kıyafetler giyer?",
+    "explanation": "Luigi Mario oyunlarında yeşil kıyafetler ve şapka giyen kardeştir.",
+    "options": [
+      "Kırmızı",
+      "Mavi",
+      "Yeşil",
+      "Sarı"
+    ],
+    "correctAnswer": "Yeşil",
+    "tags": [
+      "Mario",
+      "Karakterler",
+      "Renkler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cn0nd8wqd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Bros. kaç farklı dünyaya bölünmüştür?",
+    "explanation": "Super Mario Bros. 8 farklı dünya (World 1-8) içerir, sonuncusu World 8-2'dir.",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "Mario",
+      "Dünyalar",
+      "Nesneler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2n3ilxw2n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EXPERT",
+    "question": "Super Mario oyununda 'koyu' düşman hangi adı taşır?",
+    "explanation": "Goomba Mario oyunlarında en temel koyu düşmandır, adı koyu anlamına gelir.",
+    "options": [
+      "Goomba",
+      "Koopa",
+      "Bowser",
+      "Piranha Plant"
+    ],
+    "correctAnswer": "Goomba",
+    "tags": [
+      "Mario",
+      "Düşmanlar",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vpurtc3mx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Bros. hangi Nintendo konsolu için geliştirilmiştir?",
+    "explanation": "Super Mario Bros. NES (Japanda Famicom) konsolu için geliştirilmiş ilk nesil Mario oyunudur.",
+    "options": [
+      "Game Boy",
+      "NES/Famicom",
+      "SNES",
+      "Nintendo 64"
+    ],
+    "correctAnswer": "NES/Famicom",
+    "tags": [
+      "Mario",
+      "Konsollar",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ivz8t61o6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario Bros. oyununun ilk kez hangi platformda ve ne yılda piyasaya sürüldü?",
+    "explanation": "Super Mario Bros. ilk kez Nintendo Entertainment System (NES) için 1985 yılında Japonya'da piyasaya sürüldü ve video oyun tarihinin en önemli klasiklerinden biri oldu.",
+    "options": [
+      "Nintendo Entertainment System - 1985",
+      "Game Boy - 1989",
+      "PlayStation - 1994",
+      "Sega Genesis - 1988"
+    ],
+    "correctAnswer": "Nintendo Entertainment System - 1985",
+    "tags": [
+      "Super Mario Bros.",
+      "Oyun Tarihi",
+      "Platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cx9p2vkz6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Mario serisindeki hangi karakter 'Toad' olarak bilinir?",
+    "explanation": "Toad, Mario serisindeki ikonik karakterlerden biridir. Yeşil veya mavi ceketli, mantar şeklinde bir başı olan ve genellikle Mario'ya yardımcı olur.",
+    "options": [
+      "Yeşil kıyafetli kurt",
+      "Mavi şapkalı mantar insanı",
+      "Kırmızı tulum giyen prens",
+      "Sarı ceketli doktor"
+    ],
+    "correctAnswer": "Mavi şapkalı mantar insanı",
+    "tags": [
+      "Karakterler",
+      "Toad",
+      "Mario Ailesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ldhemtl3d",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario oyunlarında 'Yeşil Mantar' (Green Mushroom) ne işe yarar?",
+    "explanation": "Yeşil Mantar (Green Mushroom), Mario'nun en temel power-up'ıdır. Oyuncuyu büyütmek ve can yenilemek için kullanılır.",
+    "options": [
+      "Oyuncuyu küçülür",
+      "Oyuncuyu büyütür ve can verir",
+      "Can düşmanına aktarır",
+      "Zaman yavaşlatır"
+    ],
+    "correctAnswer": "Oyuncuyu büyütür ve can verir",
+    "tags": [
+      "Power-up",
+      "Yeşil Mantar",
+      "Oyun Mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g5ibk21r9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Bros. serisindeki kaç farklı 'World' (dünya) bulunur?",
+    "explanation": "Super Mario Bros. (NES) oyununda 10'dan farklı dünyadan (World 1-8 ve Secret World) oluşur, ancak asıl oynanan 8 ana dünya vardır.",
+    "options": [
+      "10",
+      "8",
+      "5",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "Worlds",
+      "Süper Mario Bros.",
+      "Dünyalar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n7vg9qip7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EXPERT",
+    "question": "Mario serisinin en ünlü antagonistlerinden biri 'Bowser' neden bu isimdir?",
+    "explanation": "Bowser (bazen King Koopa olarak da bilinir), Mario serisinin baş düşmanıdır. İtalyan kökenli bir karakter olduğu için 'Bauer' ismiyle biliniyor, ancak en ünlü antonimisti olmasından dolayı bu isimle özdeşleşmiştir.",
+    "options": [
+      "Türkçe 'Kral' anlamına gelir",
+      "İtalyanca 'Yılan' demektir",
+      "Karakterin kuyruğunda 'Bauer' yazısı var",
+      "Mario'nun en büyük rakibi olduğu için"
+    ],
+    "correctAnswer": "Mario'nun en büyük rakibi olduğu için",
+    "tags": [
+      "Bowser",
+      "Antagonist",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "18ohj9okr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario oyununun ilk çıkış yılı hangisidir?",
+    "explanation": "Super Mario Bros. ilk kez 1985 yılında Nintendo Entertainment System için çıkarıldı ve video oyun tarihinin en önemli başyapıtlarından biri oldu.",
+    "options": [
+      "1985",
+      "1987",
+      "1990",
+      "1992"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "Super Mario",
+      "Dönem",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "golw32umk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario karakteri hangi platformda ilk defa görüldü?",
+    "explanation": "Super Mario Bros., Nintendo Entertainment System (NES) platformunda ilk kez yayınlandı ve bu platformla birlikte dünya çapında tanındı.",
+    "options": [
+      "NES",
+      "Game Boy",
+      "SNES",
+      "PC"
+    ],
+    "correctAnswer": "NES",
+    "tags": [
+      "Platform",
+      "Donanım",
+      "NES"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c71nsqb00",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario oyununda 'Goomba' nedir?",
+    "explanation": "Goomba, Super Mario serisindeki klasik düşmanlardan biridir. Mario üzerine adım attığında yok olur ve oyunun temel mekaniklerini oluşturur.",
+    "options": [
+      "Düşman karakteri",
+      "Özel güç itemi",
+      "Puan sistemi",
+      "Seviye geçiş kapısı"
+    ],
+    "correctAnswer": "Düşman karakteri",
+    "tags": [
+      "Karakterler",
+      "Düşmanlar",
+      "Oyun Mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "te1o5xgc0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EXPERT",
+    "question": "Super Mario Bros. 3 kaç farklı dünyada geçmektedir?",
+    "explanation": "Super Mario Bros. 3, toplamda 8 farklı dünyadan (World 1-8) oluşan bir oyun yapılandırmasına sahiptir ve her dünya kendi renk kodu ile tanınır.",
+    "options": [
+      "10",
+      "8",
+      "6",
+      "4"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "Dünyalar",
+      "Seviyeler",
+      "Seri Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q5ry2gent",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario serisinde 'Fire Flower' ne işe yarar?",
+    "explanation": "Fire Flower, Super Mario serisinde Mario'yu ateşli kılar ve bu şekilde Goomba gibi düşmanlara zarar verdiği zaman ateş püskürerek onları yok eder.",
+    "options": [
+      "Marianı ateşli yapar",
+      "Puanı artırır",
+      "Goomba'yı yok eder",
+      "Zamanı yavaşlatır"
+    ],
+    "correctAnswer": "Marianı ateşli yapar",
+    "tags": [
+      "Power Up",
+      "Güçler",
+      "Oyun Mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oe4egzydv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario Bros. oyununun ilk çıkışını hangi platform yaptı?",
+    "explanation": "Super Mario Bros. ilk olarak 1985 yılında Nintendo Entertainment System (NES) konsolunda piyasaya sürüldü ve video oyun tarihinin en önemli başlangıçlarından biri oldu.",
+    "options": [
+      "PlayStation",
+      "Nintendo Entertainment System (NES)",
+      "Game Boy",
+      "Sega Genesis"
+    ],
+    "correctAnswer": "Nintendo Entertainment System (NES)",
+    "tags": [
+      "Platform",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jardt4p95",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Bros. oyunundaki ana düşman kimdir?",
+    "explanation": "Bowser, Super Mario serisinin ana antagonistidir ve Mario ile Princess Peach'yi kurtarmak için her zaman çatışır.",
+    "options": [
+      "Yoshi",
+      "Bowser (Köroğlu)",
+      "Goomba",
+      "Wario"
+    ],
+    "correctAnswer": "Bowser (Köroğlu)",
+    "tags": [
+      "Karakterler",
+      "Düşmanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t7arapr5b",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Mario bir Goomba'ya nasıl tepeden düşerek öldürebilir?",
+    "explanation": "Mario oyununda düşmanları öldürmenin en kolay yolu onları başlarından aşağıya doğru düşürmektir.",
+    "options": [
+      "Sol tarafına baskın yapmak",
+      "Sağ tarafına atlamak",
+      "Başından aşağı düşürmek",
+      "Dönerek kaçmak"
+    ],
+    "correctAnswer": "Başından aşağı düşürmek",
+    "tags": [
+      "Oyun Mekanikleri",
+      "Strateji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mq8vu2emt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Hangi Mario oyunu '3D platform' formatında ilk kez yayınlandı?",
+    "explanation": "Super Mario 64, 1996 yılında Nintendo 64 konsolu için yayınlandı ve video oyun tarihinin ilk önemli 3D platform oyunu olarak kabul edilir.",
+    "options": [
+      "Super Mario Bros.",
+      "Super Mario World",
+      "Super Mario 64",
+      "New Super Mario Bros."
+    ],
+    "correctAnswer": "Super Mario 64",
+    "tags": [
+      "Platformlar",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8swiaemdi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EXPERT",
+    "question": "Super Mario Bros. serisinde 'Kuru Kafa' (Dry Bones) karakteri ne zaman ortaya çıktı?",
+    "explanation": "Dry Bones karakteri ilk kez 1990 yılında Super Mario World oyununda piyasaya sürüldü ve Mario serisinin en ikonik düşmanlarından biri haline geldi.",
+    "options": [
+      "1985 Super Mario Bros.",
+      "1988 Super Mario Bros. 3",
+      "1990 Super Mario World",
+      "1996 Super Mario 64"
+    ],
+    "correctAnswer": "1990 Super Mario World",
+    "tags": [
+      "Karakterler",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mwv86g2l7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario oyununun ilk çıkış yaptığı platform hangisidir?",
+    "explanation": "Super Mario Bros. ilk kez 1985 yılında Nintendo Entertainment System (NES) için çıkarıldı ve bu oyun serinin başlangıcı olarak kabul edilir.",
+    "options": [
+      "NES / Famicom",
+      "PlayStation 1",
+      "Game Boy",
+      "SNES"
+    ],
+    "correctAnswer": "NES / Famicom",
+    "tags": [
+      "Mario",
+      "Platform",
+      "Oyun Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3oz3un4k0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Kaktüs düşmanı Super Mario'da nasıl adlandırılır?",
+    "explanation": "Goomba, Super Mario serisindeki klasik ilk düşmandır ve adı İtalyanca 'goombage' kelimesinden gelir.",
+    "options": [
+      "Goomba",
+      "Koopa",
+      "Boo",
+      "Bowser"
+    ],
+    "correctAnswer": "Goomba",
+    "tags": [
+      "Düşmanlar",
+      "Mario",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nccvfmznf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Land hangi platformda oynanmıştır?",
+    "explanation": "Super Mario Land, 1989 yılında Game Boy için çıkarılan Mario serisinin ilk mobil oyunu olarak bilinir.",
+    "options": [
+      "Game Boy",
+      "Nintendo DS",
+      "PlayStation",
+      "PC"
+    ],
+    "correctAnswer": "Game Boy",
+    "tags": [
+      "Mario Land",
+      "Mobile",
+      "Platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lepytdo1f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Mario'nun en büyük düşmanı ve kralı hangisidir?",
+    "explanation": "Bowser (veya King Koopa), Mario'nun en büyük düşmanıdır ve Peach prensesini kurtarmak için her zaman hedefi Bowser'dir.",
+    "options": [
+      "Bowser",
+      "Wario",
+      "Donkey Kong",
+      "Yoshi"
+    ],
+    "correctAnswer": "Bowser",
+    "tags": [
+      "Karakterler",
+      "Düşmanlar",
+      "Mario"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pvt65ox5m",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Odyssey hangi konsolda çıkarıldı?",
+    "explanation": "Super Mario Odyssey, 2017 yılında Nintendo Switch için çıkarılan ve modern bir Mario platform deneyimi sunan oyundur.",
+    "options": [
+      "Nintendo Switch",
+      "Wii U",
+      "3DS",
+      "PlayStation 4"
+    ],
+    "correctAnswer": "Nintendo Switch",
+    "tags": [
+      "Mario Odyssey",
+      "Konsol",
+      "Oyun Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tykh1o4sg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario Bros. oyununun ilk çıkış platformu hangisidir?",
+    "explanation": "Super Mario Bros. ilk kez 1985 yılında Nintendo NES (Japanda Famicom) konsolu için piyasaya sürüldü.",
+    "options": [
+      "Nintendo 64",
+      "Game Boy",
+      "NES/Famicom",
+      "PlayStation"
+    ],
+    "correctAnswer": "NES/Famicom",
+    "tags": [
+      "Super Mario",
+      "Platform",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iefdvps6q",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Mario karakterinin en ikonik yeteneği nedir?",
+    "explanation": "Mario'nun temel yeteneği yüksek zıplamaktır ve bu sayede düşmanları veya tuğlaları parçalayabilir.",
+    "options": [
+      "Zıplama ve düşmanları yeme",
+      "Düşmanlardan kaçınma",
+      "Su altında nefes alma",
+      "Hava ile uçuş"
+    ],
+    "correctAnswer": "Zıplama ve düşmanları yeme",
+    "tags": [
+      "Super Mario",
+      "Karakter",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q3hdgd3m3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario Bros. 3'ün geliştirildiği konsol hangisidir?",
+    "explanation": "Super Mario Bros. 3, 1988 yılında Super Nintendo Entertainment System için geliştirildi.",
+    "options": [
+      "NES",
+      "SNES/Super Nintendo",
+      "Nintendo 64",
+      "GameCube"
+    ],
+    "correctAnswer": "SNES/Super Nintendo",
+    "tags": [
+      "Super Mario",
+      "Dizi",
+      "Platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5xujegpoq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Bowser karakteri hangi evrende baş düşmandır?",
+    "explanation": "Bowser, Mario oyun evreninin baş dushmanıdır ve genellikle Peach Kraliçesini kaçırmıştır.",
+    "options": [
+      "Zelda",
+      "Metroid",
+      "Mario",
+      "Pikmin"
+    ],
+    "correctAnswer": "Mario",
+    "tags": [
+      "Super Mario",
+      "Düşman",
+      "Karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bsd0g98sa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario Odyssey hangi konsolda oynanabilir?",
+    "explanation": "Super Mario Odyssey, 2017 yılında Nintendo Switch konsolu için piyasaya sürüldü.",
+    "options": [
+      "Nintendo 3DS",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "correctAnswer": "Nintendo Switch",
+    "tags": [
+      "Super Mario",
+      "Dizi",
+      "Platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rxyfj2zsh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario oyununun ilk çıkış yeri ve yılı nedir?",
+    "explanation": "Super Mario Bros., Nintendo Entertainment System (NES) için 1985 yılında çıkış yapan, video game tarihinin en önemli oyunlarından biridir.",
+    "options": [
+      "Nintendo Entertainment System - 1985",
+      "Game Boy - 1987",
+      "PlayStation - 1994",
+      "Xbox - 2001"
+    ],
+    "correctAnswer": "Nintendo Entertainment System - 1985",
+    "tags": [
+      "Hobiler ve Oyunlar",
+      "Super Mario",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xqmsm97tc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario oyununda hangi karakteri kurtarmak ana amaçtır?",
+    "explanation": "Super Mario oyununun temel amacı, Bowser tarafından hapsedilmiş Princess Peach'i kurtarmaktır.",
+    "options": [
+      "Peach",
+      "Bowser",
+      "Luigi",
+      "Yoshi"
+    ],
+    "correctAnswer": "Peach",
+    "tags": [
+      "Hobiler ve Oyunlar",
+      "Super Mario",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a4ptzscaj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Bowser karakteri hangi güçte olup Mario ile savaştır?",
+    "explanation": "Bowser, Shrook Krallığı'nın İmparatoru'dur ve Peach'i kaçırarak Mario ile savaştır.",
+    "options": [
+      "Dövüşçü",
+      "Kral",
+      "İmparator",
+      "Görevli"
+    ],
+    "correctAnswer": "İmparator",
+    "tags": [
+      "Hobiler ve Oyunlar",
+      "Super Mario",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tyrjjuk0k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario oyununda '1-Up' mermisi ne işe yarar?",
+    "explanation": "1-Up mermisi, oyuncuya ekstra bir hayat (can) kazandırır ve düşmeme şansını artırır.",
+    "options": [
+      "Ekstra can verir",
+      "Ölümü engeller",
+      "Hızı artırır",
+      "Puan kazandırır"
+    ],
+    "correctAnswer": "Ekstra can verir",
+    "tags": [
+      "Hobiler ve Oyunlar",
+      "Super Mario",
+      "Oyun Mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uc6rqnu98",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EXPERT",
+    "question": "Super Mario World oyununda hangi karakter Yoshi ile birlikte çıkar?",
+    "explanation": "Super Mario World oyununda Yoshi, Princess Peach ile birlikte Mario'nun yardımcı olarak çıkar.",
+    "options": [
+      "Donkey Kong",
+      "Kirby",
+      "Peach",
+      "Bowser"
+    ],
+    "correctAnswer": "Peach",
+    "tags": [
+      "Hobiler ve Oyunlar",
+      "Super Mario",
+      "Oyunlar Serisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9jlol2a82",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario oyununun ilk çıkış yılı nedir?",
+    "explanation": "Super Mario Bros. ilk kez 1985 yılında Nintendo NES konsolu için çıktı ve video oyun tarihinin en önemli başlangıçlarından biridir.",
+    "options": [
+      "1985",
+      "1987",
+      "1990",
+      "1992"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "Super Mario",
+      "Oyun Tarihçesi",
+      "Nintendo"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9y2bmz4xe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario dünyasındaki ana düşman kimdir?",
+    "explanation": "Goomba, Super Mario serisinin en yaygın karşılığındaki düşmandır. Genellikle kırmızı tulumlu ve yürüyerek karşılanan bir karakterdir.",
+    "options": [
+      "Goomba",
+      "Bowser",
+      "Koopala",
+      "Toad"
+    ],
+    "correctAnswer": "Goomba",
+    "tags": [
+      "Super Mario",
+      "Düşmanlar",
+      "Oyun Mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nndzfmjas",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Mario'nun eşkardeki adı nedir?",
+    "explanation": "Luigi, Mario'nun küçük ve yeşil eşidir. İkili birlikte birçok Super Mario oyununda yer alırlar.",
+    "options": [
+      "Luigi",
+      "Peach",
+      "Daisy",
+      "Yoshi"
+    ],
+    "correctAnswer": "Luigi",
+    "tags": [
+      "Super Mario",
+      "Karakterler",
+      "İsimler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "17su06cl2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Odyssey oyununun hangi platformda çıktı?",
+    "explanation": "Super Mario Odyssey, Nintendo Switch konsolu için özel olarak geliştirilen ve 2017 yılında piyasaya sürülen bir oyundur.",
+    "options": [
+      "Wii U",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "correctAnswer": "Nintendo Switch",
+    "tags": [
+      "Super Mario",
+      "Platformlar",
+      "Oyun Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w8qlc7lmm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Toad karakterinin temel işlevi nedir?",
+    "explanation": "Toad, Super Mario oyunlarında genellikle görevli karakter olarak yer alır. Yeni alanlar bulur ve oyunculara ipuçları verir.",
+    "options": [
+      "Mario'ya yardım etmek",
+      "Düşman olmak",
+      "Ödül vermek",
+      "Oyunu bitirmek"
+    ],
+    "correctAnswer": "Mario'ya yardım etmek",
+    "tags": [
+      "Super Mario",
+      "Karakter İşlevleri",
+      "Oyun Mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "03m7h8f0t",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario oyununun ilk çıktığı yıl hangisidir?",
+    "explanation": "Super Mario Bros. ilk kez 1985 yılında Nintendo Entertainment System (NES) için piyasaya sürülmüştür.",
+    "options": [
+      "1985",
+      "1990",
+      "1983",
+      "1987"
+    ],
+    "correctAnswer": "1985",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Super Mario",
+      "Oyun Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pyka0bwvq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Mario karakterinin en meşhur hilesi hangisidir?",
+    "explanation": "Mario'nun en bilinen hilesi 'Çift Zıplama' (Double Jump) olup, belirli oyunlarda ikinci zıplayışta daha yüksek ulaşmayı sağlar.",
+    "options": [
+      "Sabit Duruş",
+      "Kırmızı Mantar",
+      "Çift Zıplama",
+      "Mavi Kalem"
+    ],
+    "correctAnswer": "Çift Zıplama",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Super Mario",
+      "Oyun Hileleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "esun1p78c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "GENERAL",
+    "question": "Super Mario Bros. 3 kaç farklı dünyayı içerir?",
+    "explanation": "Super Mario Bros. 3 toplamda 8 farklı dünya (World 1-8) içerir ve her biri farklı bir tema ile tasarlanmıştır.",
+    "options": [
+      "10",
+      "8",
+      "5",
+      "12"
+    ],
+    "correctAnswer": "8",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Super Mario",
+      "Oyun Dünyaları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ydcm3l4v4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EXPERT",
+    "question": "Mario oyunlarında 'Pipino' karakteri hangi özelliğe sahiptir?",
+    "explanation": "Pipino (Toad) karakteri, Super Mario Bros. 3'te su altında dahi zıplayabilen özel bir yeteneğe sahiptir.",
+    "options": [
+      "Zıplama Yüksekliği",
+      "Yavaşlama",
+      "Su Altı Zıplaması",
+      "Kızıl Mantar Yeme"
+    ],
+    "correctAnswer": "Su Altı Zıplaması",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Super Mario",
+      "Oyun Karakterleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t6xc8e6o1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Super Mario",
+    "difficulty": "EASY",
+    "question": "Super Mario Odyssey hangi konsol için geliştirilmiştir?",
+    "explanation": "Super Mario Odyssey, 2017 yılında Nintendo Switch konsolu için geliştirilmiş ve piyasaya sürülmüştür.",
+    "options": [
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Wii U"
+    ],
+    "correctAnswer": "Nintendo Switch",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Super Mario",
+      "Konsol Platformları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

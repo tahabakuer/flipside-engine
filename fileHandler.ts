@@ -1,16 +1,21 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { Question } from './schema.js';
+import { getTranslatedName } from './translator.js';
 
-// Artık lang parametresi zorunlu. Tüm yollar buna göre kurulur.
+// Dosya yollarını NAME_MAP üzerinden normalize eder
 function getPath(lang: string, category: string, subcategory: string): string {
-  const dir = path.join(process.cwd(), 'data', lang, category.toLowerCase());
+  // Klasör ve dosya isimlerini hedef dile göre al (örn: "science" -> "bilim")
+  const cat = getTranslatedName(category.toLowerCase(), lang);
+  const sub = getTranslatedName(subcategory.toLowerCase().replace('.json', ''), lang);
+  
+  const dir = path.join(process.cwd(), 'data', lang, cat);
   
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
   
-  return path.join(dir, `${subcategory.toLowerCase()}.json`);
+  return path.join(dir, `${sub}.json`);
 }
 
 export function appendQuestionsToFile(newQuestions: Question[], lang: string, category: string, subcategory: string): void {
@@ -21,13 +26,21 @@ export function appendQuestionsToFile(newQuestions: Question[], lang: string, ca
   if (fs.existsSync(filePath)) {
     try {
       existingData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    } catch { /* Hatalı dosya varsa boş başla */ }
+    } catch (e) {
+      console.error(`❌ Dosya okuma hatası (${filePath}):`, e);
+    }
   }
 
   const updatedData = [...existingData, ...newQuestions];
   
-  fs.writeFileSync(tempPath, JSON.stringify(updatedData, null, 2));
-  fs.renameSync(tempPath, filePath);
+  try {
+    fs.writeFileSync(tempPath, JSON.stringify(updatedData, null, 2));
+    // Windows'ta bazen dosya kilitli olabilir, küçük bir hata yönetimi
+    if (fs.existsSync(filePath)) fs.unlinkSync(filePath); 
+    fs.renameSync(tempPath, filePath);
+  } catch (e) {
+    console.error(`❌ Yazma hatası (${filePath}):`, e);
+  }
 }
 
 export function getExistingQuestionCount(lang: string, category: string, subcategory: string): number {

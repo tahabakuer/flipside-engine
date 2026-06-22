@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "gbm8o0pjd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Call of Duty oyununun ilk bölümü hangi yıl çıktı?",
+    "explanation": "Call of Duty: Modern Warfare, 2003 yılında Infinite Warfare stüdyosu tarafından geliştirilerek oyunun ilk bölümünü temsil etmiştir.",
+    "options": [
+      "2003",
+      "2005",
+      "2007",
+      "2009"
+    ],
+    "correctAnswer": "2003",
+    "tags": [
+      "Call of Duty",
+      "Oyun Tarihi",
+      "Bölümler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fo642ofwv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty'da hangi oyun modu oyunculara takım halinde gerçek zamanlı savaşı sunar?",
+    "explanation": "Multiplayer modu, Call of Duty'da en popüler oyun modudur ve oyuncular arasında gerçek zamanlı savaşlar için tasarlanmıştır.",
+    "options": [
+      "Zombi Modu",
+      "Multiplayer",
+      "Campaign",
+      "Co-op"
+    ],
+    "correctAnswer": "Multiplayer",
+    "tags": [
+      "Call of Duty",
+      "Oyun Modları",
+      "Savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4zh0l103g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty: Modern Warfare 2'nin geliştiricisi kimdir?",
+    "explanation": "Call of Duty: Modern Warfare 2, Infinity Ward stüdyosu tarafından geliştirilmiştir ve Activision tarafından yayımlanmıştır.",
+    "options": [
+      "Infinity Ward",
+      "Treyarch",
+      "Activision",
+      "Sledgehammer Games"
+    ],
+    "correctAnswer": "Infinity Ward",
+    "tags": [
+      "Call of Duty",
+      "Geliştirici Stüdyolar",
+      "Bölüm Geliştirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dvbnb850t",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty'da 'Zombi Modu' hangi oyunlarda popülerleştirilmiştir?",
+    "explanation": "Zombi Modu, Call of Duty: Black Ops ve bu serinin devam bölümlerinde en çok popülerleştirilmiştir.",
+    "options": [
+      "Modern Warfare 3",
+      "Black Ops serisi",
+      "Advanced Warfare",
+      "Vanguard"
+    ],
+    "correctAnswer": "Black Ops serisi",
+    "tags": [
+      "Call of Duty",
+      "Zombi Modu",
+      "Oyun Serileri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "15cvb7c0e",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty oyunlarında 'Exfil' neyi ifade eder?",
+    "explanation": "Exfil, Call of Duty'da oyuncuların savaş alanından güvenli bölgeye kurtulma mekanizmasını ifade eder.",
+    "options": [
+      "Kurtarma",
+      "Özel Yetenek",
+      "Savaş Alanı",
+      "Oyun Modu"
+    ],
+    "correctAnswer": "Kurtarma",
+    "tags": [
+      "Call of Duty",
+      "Terimler",
+      "Oyun Mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a5qh3uq4b",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Which year did the rebooted Call of Duty: Modern Warfare release?",
+    "explanation": "The rebooted Call of Duty: Modern Warfare was released in October 2019 as part of the franchise's modern era revival.",
+    "options": [
+      "2017",
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "correctAnswer": "2019",
+    "tags": [
+      "Game Releases",
+      "Modern Warfare"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mjeybopuh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Which Call of Duty title introduced the 'Warzone' free-to-play Battle Royale mode?",
+    "explanation": "The 2019 reboot included the launch of the standalone Warzone title alongside its multiplayer campaign.",
+    "options": [
+      "Black Ops III",
+      "Modern Warfare (2019)",
+      "World at War",
+      "Cold War"
+    ],
+    "correctAnswer": "Modern Warfare (2019)",
+    "tags": [
+      "Battle Royale",
+      "Warzone"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v91yyt2k9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Which Call of Duty game was the first to include a playable Zombies mode?",
+    "explanation": "Call of Duty: World at War (2008) introduced the Zombies mode as part of its multiplayer and campaign.",
+    "options": [
+      "Modern Warfare (2019)",
+      "Black Ops II",
+      "World at War",
+      "Cold War"
+    ],
+    "correctAnswer": "World at War",
+    "tags": [
+      "Zombies Mode",
+      "Game History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aany1z9zm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Which game mode is unique to the 'Warzone' franchise?",
+    "explanation": "While other modes exist in Call of Duty games, Warzone's core structure is built around a free-to-play Battle Royale format.",
+    "options": [
+      "Zombies",
+      "Multiplayer",
+      "Battle Royale",
+      "Campaign"
+    ],
+    "correctAnswer": "Battle Royale",
+    "tags": [
+      "Game Modes",
+      "Franchise Features"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jm6nvffjk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Which Call of Duty game features Captain Price as a central character in the Modern Warfare reboot?",
+    "explanation": "The 2019 reboot brought back Captain Price with a narrative focusing on his return and new conflicts.",
+    "options": [
+      "Black Ops II",
+      "World at War",
+      "Modern Warfare (2019)",
+      "Cold War"
+    ],
+    "correctAnswer": "Modern Warfare (2019)",
+    "tags": [
+      "Characters",
+      "Narrative Elements"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fbst8tz47",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Which Call of Duty game introduced the Zombies mode as an original feature?",
+    "explanation": "Call of Duty: World at War introduced the Zombies mode as an original feature alongside the main campaign, making it one of the most iconic modes in the franchise.",
+    "options": [
+      "Call of Duty: Modern Warfare",
+      "Call of Duty: Black Ops",
+      "Call of Duty: World at War",
+      "Call of Duty: Vanguard"
+    ],
+    "correctAnswer": "Call of Duty: World at War",
+    "tags": [
+      "game-modes",
+      "zombies",
+      "franchise-history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jlp7el062",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Which character is NOT playable in Call of Duty: Modern Warfare (2019)?",
+    "explanation": "Price, Soap, and Ghost are playable characters in Modern Warfare (2019), while Rook is a character from the original Call of Duty: Modern Warfare (2019 sequel) or other games.",
+    "options": [
+      "Price",
+      "Soap",
+      "Ghost",
+      "Rook"
+    ],
+    "correctAnswer": "Rook",
+    "tags": [
+      "characters",
+      "modern-warfare",
+      "mission-structure"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8n0xlu0nx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "What is the maximum number of players in standard Co-op mode for most Call of Duty titles?",
+    "explanation": "Most Call of Duty titles support standard 4-player co-op mode for multiplayer and zombies modes, though some later titles expanded this to 6 or 8 players.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": "4",
+    "tags": [
+      "game-mechanics",
+      "multiplayer",
+      "co-op"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4gfunhzqk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Which Call of Duty game features the iconic 'No Russian' mission?",
+    "explanation": "The infamous 'No Russian' mission is from Call of Duty: Black Ops, where players can choose to shoot civilians during a plane heist at the beginning.",
+    "options": [
+      "Call of Duty: Modern Warfare 2",
+      "Call of Duty: Black Ops",
+      "Call of Duty: Ghosts",
+      "Call of Duty: Advanced Warfare"
+    ],
+    "correctAnswer": "Call of Duty: Black Ops",
+    "tags": [
+      "campaign-missions",
+      "black-ops",
+      "controversial-content"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pz2zranxz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "In Call of Duty Zombies mode, what is the primary objective?",
+    "explanation": "In Zombies mode, players face endless waves of zombies and use earned points to buy weapon upgrades, perks, and special abilities.",
+    "options": [
+      "Complete story missions",
+      "Defeat waves of zombies and earn points for upgrades",
+      "Save specific characters",
+      "Win competitive matches"
+    ],
+    "correctAnswer": "Defeat waves of zombies and earn points for upgrades",
+    "tags": [
+      "game-mechanics",
+      "zombies",
+      "core-objective"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t051dq8o0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Call of Duty serisi ilk kez hangi yılda piyasaya sürüldü?",
+    "explanation": "Call of Duty: Modern Warfare ilk oyunu 2003 yılında Activision tarafından yayınlandı.",
+    "options": [
+      "2001",
+      "2003",
+      "2005",
+      "2007"
+    ],
+    "correctAnswer": "2003",
+    "tags": [
+      "Call of Duty",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s5cg08dbx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Aşağıdakilerden hangisi Call of Duty serisinin önemli oyunlarından biri değildir?",
+    "explanation": "Minecraft, Call of Duty serisi değildir. Modern Warfare, Black Ops ve World at War Call of Duty oyunlarıdır.",
+    "options": [
+      "Modern Warfare",
+      "Black Ops",
+      "World at War",
+      "Minecraft"
+    ],
+    "correctAnswer": "Minecraft",
+    "tags": [
+      "Call of Duty",
+      "Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "10eof35sa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty: Black Ops oyununun baş karakteri kimdir?",
+    "explanation": "Call of Duty: Black Ops'un baş karakteri ve ana oyuncu Alex Mason'dur.",
+    "options": [
+      "Alex Mason",
+      "Frank Woods",
+      "Russell Adler",
+      "John Price"
+    ],
+    "correctAnswer": "Alex Mason",
+    "tags": [
+      "Call of Duty",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xb12a7dec",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty oyunlarında popüler olan 'Extraction Mode' hangi türde bir moddur?",
+    "explanation": "Extraction Mode (Kurtarma Modu), oyuncuların hayatta kalma ve çıkış yapmayı hedefleyen çok oyunculu bir moddur.",
+    "options": [
+      "Tek kişilik",
+      "Çok oyunculu extraction",
+      "Zombi",
+      "Hikaye tabanlı"
+    ],
+    "correctAnswer": "Çok oyunculu extraction",
+    "tags": [
+      "Call of Duty",
+      "Modlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "7jrwmv5m1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty: Infinite Warfare hangi yıl yayınlandı?",
+    "explanation": "Call of Duty: Infinite Warfare, 2016 yılında Activision tarafından piyasaya sürüldü.",
+    "options": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "correctAnswer": "2016",
+    "tags": [
+      "Call of Duty",
+      "Modern Warfare"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bq71yebod",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Call of Duty oyununun ilk bölümü hangi yıl piyasaya sürüldü?",
+    "explanation": "Call of Duty oyun serisinin ilk bölümü Modern Warfare değil, 2003'te çıkan Call of Duty: United Offensive ile başlamıştır. Ana seri ise 2003'teki Call of Duty ile başlatılmıştır.",
+    "options": [
+      "2003",
+      "2005",
+      "2007",
+      "2010"
+    ],
+    "correctAnswer": "2003",
+    "tags": [
+      "Call of Duty",
+      "Oyun Tarihi",
+      "Bölüm Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vlzx7bltv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty: Modern Warfare serisindeki ana kahramanlardan biri olan Captain Price'ın rolü nedir?",
+    "explanation": "Captain Price, Call of Duty: Modern Warfare serisindeki ana karakterlerden biridir. Taktikçi lider rolü üstlenir ve operasyonları planlar.",
+    "options": [
+      "Taktikçi lider ve operasyon planlayıcı",
+      "Zırhlı asker",
+      "Destek personeli",
+      "Siber uzman"
+    ],
+    "correctAnswer": "Taktikçi lider ve operasyon planlayıcı",
+    "tags": [
+      "Modern Warfare",
+      "Karakter Bilgisi",
+      "Call of Duty"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "1rrpyp5pe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty oyunlarında kullanılan 'Perks' sistemi ne işe yarar?",
+    "explanation": "Perks sistemi, Call of Duty oyunlarında oyuncuların belirli yeteneklerini veya özelliklerini artırmak için kullanılan bir sistemdir.",
+    "options": [
+      "Oyuncunun yeteneklerini artırır",
+      "Rakiplerin canını azaltır",
+      "Harita boyutunu büyütür",
+      "Müzik geçişini sağlar"
+    ],
+    "correctAnswer": "Oyuncunun yeteneklerini artırır",
+    "tags": [
+      "Call of Duty",
+      "Oyun Mekanikleri",
+      "Yetenek Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ob5g30rz0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty: Black Ops oyununun ana konusu nedir?",
+    "explanation": "Call of Duty: Black Ops, Soğuk Savaş dönemindeki casusluk operasyonlarını ana konusunu alır ve bu dönemde geçen olayları anlatır.",
+    "options": [
+      "Soğuk Savaş dönemi casusluğu",
+      "Modern terör operasyonları",
+      "Gelecek teknolojisi",
+      "Tarihi savaşı"
+    ],
+    "correctAnswer": "Soğuk Savaş dönemi casusluğu",
+    "tags": [
+      "Black Ops",
+      "Oyun Konusu",
+      "Call of Duty"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "13t2498m5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty oyunlarında 'Zombies' modu ne zaman eklendi?",
+    "explanation": "Call of Duty: Zombies modu, 2008'deki Call of Duty: World at War ile resmi olarak oyuna eklendi. Ancak benzer içerik daha önce de vardı.",
+    "options": [
+      "2005",
+      "2008",
+      "2010",
+      "2015"
+    ],
+    "correctAnswer": "2008",
+    "tags": [
+      "Call of Duty",
+      "Oyun Modları",
+      "Zombies Modu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ste6p9jo5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Call of Duty serisi hangi oyun türüne aittir?",
+    "explanation": "Call of Duty serisi, birinci şahıs nişancı (FPS) türündeki oyunlara aittir. Oyuncu silahları karakterin göz hizasından kontrol eder.",
+    "options": [
+      "Açık dünya rol yapma oyunu",
+      "Strateji simülasyon oyunu",
+      "Birinci şahıs nişancı (FPS) oyunu",
+      "Macera platform oyunu"
+    ],
+    "correctAnswer": "Birinci şahıs nişancı (FPS) oyunu",
+    "tags": [
+      "Call of Duty",
+      "Oyun Türü",
+      "FPS"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hntwe8mpn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty: Modern Warfare 2 hangi yıl çıktı?",
+    "explanation": "Call of Duty: Modern Warfare 2, 4 Kasım 2008 tarihinde piyasaya sürüldü. Bu oyun, Call of Duty serisinin en popüler başlıklarından biridir.",
+    "options": [
+      "2008",
+      "2010",
+      "2015",
+      "2019"
+    ],
+    "correctAnswer": "2008",
+    "tags": [
+      "Call of Duty",
+      "Modern Warfare 2",
+      "Çıkış Yılı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jfdmjpx11",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty'da 'Exo Match' modu hangi oyunda bulunur?",
+    "explanation": "Exo Match modu, Call of Duty: Modern Warfare (2019) oyununda bulunur ve bu modda oyuncuları birbirleriyle yarışır.",
+    "options": [
+      "Modern Warfare",
+      "Black Ops",
+      "Vanguard",
+      "Infinite Warfare"
+    ],
+    "correctAnswer": "Modern Warfare",
+    "tags": [
+      "Call of Duty",
+      "Modlar",
+      "Modern Warfare"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y6x72scf5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty serisinin kurucu developer'ı kimdir?",
+    "explanation": "Call of Duty serisi Activision tarafından yayımlanır. İlk oyunlar Ghost Games ve Infinity Ward gibi stüdyolar tarafından geliştirildi.",
+    "options": [
+      "Ubisoft",
+      "Activision",
+      "EA DICE",
+      "Raven Software"
+    ],
+    "correctAnswer": "Activision",
+    "tags": [
+      "Call of Duty",
+      "Developer",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "59eymki11",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty: Black Ops 2 hangi tür bir hikaye anlatır?",
+    "explanation": "Call of Duty: Black Ops 2, Soğuk Savaş dönemindeki olayları anlatan kurgusal bir hikayeyi içerir. Oyun aynı zamanda gelecek nesil teknolojileri de barındırır.",
+    "options": [
+      "Teknolojik gerilim",
+      "İkinci dünya savaşı",
+      "Soğuk savaş dönemi",
+      "Gelecek dünyası"
+    ],
+    "correctAnswer": "Soğuk savaş dönemi",
+    "tags": [
+      "Call of Duty",
+      "Black Ops 2",
+      "Hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6fm1yzev2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Which Call of Duty game is the original entry in the series?",
+    "explanation": "The first game released in 2003 set the foundation for the franchise.",
+    "options": [
+      "Modern Warfare (2019)",
+      "Black Ops II",
+      "Call of Duty (2003)",
+      "Infinite Warfare"
+    ],
+    "correctAnswer": "Call of Duty (2003)",
+    "tags": [
+      "franchise_history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x968iiz3x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "In which Call of Duty game does the controversial 'No Russian' mission occur?",
+    "explanation": "This mission is a key plot point in Black Ops and sparked significant debate.",
+    "options": [
+      "Modern Warfare 2",
+      "Black Ops (2010)",
+      "Ghosts of Shell",
+      "Advanced Warfare"
+    ],
+    "correctAnswer": "Black Ops (2010)",
+    "tags": [
+      "missions",
+      "story"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cdk7lyeyk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Which Call of Duty title introduced the use of exoskeletons for enhanced mobility?",
+    "explanation": "Players could equip robotic limbs to perform acrobatic maneuvers and combat actions.",
+    "options": [
+      "Modern Warfare II (2009)",
+      "Advanced Warfare (2014)",
+      "Infinite Warfare",
+      "Warzone"
+    ],
+    "correctAnswer": "Advanced Warfare (2014)",
+    "tags": [
+      "gameplay_mechanics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cwmmcip2k",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Which Call of Duty game features a storyline primarily set during the Cold War era?",
+    "explanation": "The campaign spans from the 1960s to the 1980s, involving Cold War conflicts and espionage.",
+    "options": [
+      "Black Ops (2010)",
+      "Modern Warfare III (2019)",
+      "Advanced Warfare",
+      "Infinite Warfare"
+    ],
+    "correctAnswer": "Black Ops (2010)",
+    "tags": [
+      "timeline",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gcwday1kj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Which Call of Duty game introduced the character Ghost as a key operative?",
+    "explanation": "Ghost appears in Modern Warfare II and is known for his silent demeanor and iconic mask.",
+    "options": [
+      "Modern Warfare II (2009)",
+      "Black Ops II",
+      "Infinite Warfare",
+      "Warzone"
+    ],
+    "correctAnswer": "Modern Warfare II (2009)",
+    "tags": [
+      "characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dygel4fyu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Call of Duty: Modern Warfare (2019) ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "explanation": "Ghost, Modern Warfare serisinin ikonik bir silahlı operasyonistidir ve 2019 Modern Warfare'da önemli hikaye rolü üstlenir.",
+    "options": [
+      "Tek oyunculu hikayede sadece asker karakterleri bulunur",
+      "Kameralarda 'Blackout' adında bir mod vardır",
+      "Hikaye 80'ler ve 90'lar dönemini konu alır",
+      "Oyunda 'Ghost' karakteri önemli rol oynar"
+    ],
+    "correctAnswer": "Oyunda 'Ghost' karakteri önemli rol oynar",
+    "tags": [
+      "Call of Duty",
+      "Modern Warfare",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "94jnd9pam",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty: Black Ops II'nin en önemli özelliği nedir?",
+    "explanation": "Black Ops II, gelecekteki zaman çizelgesi ile geçmişteki olayları birleştiren çoklu dünya konseptiyle bilinir.",
+    "options": [
+      "Sadece tek oyunculu mod içerir",
+      "Çoklu oyun dünyası (Multi-world) sistemi",
+      "Yapay zeka destekli düşmanlar",
+      "Grafik olarak Modern Warfare'dan daha iyidir"
+    ],
+    "correctAnswer": "Çoklu oyun dünyası (Multi-world) sistemi",
+    "tags": [
+      "Call of Duty",
+      "Black Ops II",
+      "Oyun Mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a3tu3i6ff",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty: Warzone ne tür bir oyundur?",
+    "explanation": "Warzone, Call of Duty evrenindeki Battle Royale ve multiplayer modlarını birleştiren büyük ölçekli bir savaş oyunudur.",
+    "options": [
+      "Tek oyunculu aksiyon oyunu",
+      "Multiplayer büyük ölçekli savaş oyunu",
+      "Zombie survival oyunu",
+      "Tek oyunculu strateji oyunu"
+    ],
+    "correctAnswer": "Multiplayer büyük ölçekli savaş oyunu",
+    "tags": [
+      "Call of Duty",
+      "Warzone",
+      "Battle Royale"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eqvmorcoj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty: Advanced Warfare hangi yıl çıkmıştır?",
+    "explanation": "Call of Duty: Advanced Warfare, 4 Ekim 2015 tarihinde piyasaya sürülmüş bir oyunudur.",
+    "options": [
+      "2013",
+      "2015",
+      "2017",
+      "2019"
+    ],
+    "correctAnswer": "2015",
+    "tags": [
+      "Call of Duty",
+      "Advanced Warfare",
+      "Çıktı Tarihleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6tw1g5zp3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty serisinin ikonik silahtan hangisi değildir?",
+    "explanation": "Glock 18, Call of Duty'da nadiren kullanılan bir tabancadır; serinin ana silahları genellikle karabina veya makineli tüfeklerdir.",
+    "options": [
+      "M4A1 Karabina",
+      "AK-47",
+      "Glock 18 Tabanca",
+      "P90 Submachine Gun"
+    ],
+    "correctAnswer": "Glock 18 Tabanca",
+    "tags": [
+      "Call of Duty",
+      "Sıhlar",
+      "Silahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ui9bg2y7b",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Call of Duty serisinin ilk oyunu hangi yıl yayınlandı?",
+    "explanation": "İlk oyun Infinity Ward tarafından 2003'te piyasaya sürülmüş ve serinin başlangıcıdır.",
+    "options": [
+      "2003",
+      "2004",
+      "2005",
+      "2006"
+    ],
+    "correctAnswer": "2003",
+    "tags": [
+      "lore",
+      "release"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "77cbkq5zl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty 4: Modern Warfare'da 'Captain Price' hangi rolde yer alır?",
+    "explanation": "Captain Price, Call of Duty serisindeki komutan karakteridir ve CoD4'te önemli rol oynar.",
+    "options": [
+      "Ana Kahraman",
+      "Şeytan",
+      "Yüzbaşı",
+      "Komutan"
+    ],
+    "correctAnswer": "Komutan",
+    "tags": [
+      "lore",
+      "characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yhigz8yt3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty serisindeki 'Black Ops' alt serisinin ilk oyunu hangi yıl yayınlandı?",
+    "explanation": "Call of Duty: Black Ops, 2010 yılında piyasaya sürülmüş ve alt serinin ilk oyunudur.",
+    "options": [
+      "2008",
+      "2010",
+      "2012",
+      "2014"
+    ],
+    "correctAnswer": "2010",
+    "tags": [
+      "lore",
+      "release"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uacae9vsq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EASY",
+    "question": "Call of Duty serisinin geliştiricisi hangi şirkettir?",
+    "explanation": "Infinity Ward, Call of Duty serisinin ilk oyunlarını geliştiren şirketidir.",
+    "options": [
+      "Infinity Ward",
+      "Activision",
+      "Treyarch",
+      "Sledgehammer Games"
+    ],
+    "correctAnswer": "Infinity Ward",
+    "tags": [
+      "developers",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cp3z2cbf0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty multiplayer modunda 'Domination' haritasında kaç bayrak vardır?",
+    "explanation": "Domination modunda genellikle 3 bayrak yer alır ve bu şekilde kazanma koşulu sağlanır.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "multiplayer",
+      "gameplay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ch95jqhii",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Call of Duty serisinin ilk oyunu 14 Kasım 2003 tarihinde piyasaya sürüldü ve II Dünya Savaşı temalı bir FPS oyunuydu.",
+    "options": [
+      "1999",
+      "2003",
+      "2006",
+      "2008"
+    ],
+    "correctAnswer": "2003",
+    "tags": [
+      "Call of Duty",
+      "Oyun Tarihi",
+      "Hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q6orae2kv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty: Modern Warfare 2'nin baş karakteri kimdir?",
+    "explanation": "Captain Price, Call of Duty: Modern Warfare 2'nin ana karakterlerinden biri ve John Price olarak da bilinir. Ghost ise onun özel tim arkadaşıdır.",
+    "options": [
+      "John Price",
+      "Price Komutanı",
+      "Simon 'Ghost' Riley",
+      "Captain Price"
+    ],
+    "correctAnswer": "Captain Price",
+    "tags": [
+      "Call of Duty",
+      "Karakterler",
+      "Modern Warfare"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9zol3657r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty serisinde hangi oyun 'Black Ops' alt başlığıyla bilinir?",
+    "explanation": "Black Ops, Call of Duty serisinin en popüler alt başlıklarından biridir ve CIA operasyonları temalı oyunlardır.",
+    "options": [
+      "Modern Warfare",
+      "Black Ops",
+      "Warzone",
+      "Infinite Warfare"
+    ],
+    "correctAnswer": "Black Ops",
+    "tags": [
+      "Call of Duty",
+      "Alt Seriler",
+      "Hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oskwyz2j8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "GENERAL",
+    "question": "Call of Duty: Warzone ne tür bir oyundur?",
+    "explanation": "Warzone, Call of Duty serisinin ücretsiz Battle Royale modu olup, 150 oyunculu büyük savaş alanlarına sahiptir.",
+    "options": [
+      "Tek kişilik FPS",
+      "Çok oyunculu Battle Royale",
+      "Strateji",
+      "Macera"
+    ],
+    "correctAnswer": "Çok oyunculu Battle Royale",
+    "tags": [
+      "Call of Duty",
+      "Oyun Türü",
+      "Hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ij7qz86h6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Call of Duty",
+    "difficulty": "EXPERT",
+    "question": "Call of Duty: Infinite Warfare hangi yıl çıktı?",
+    "explanation": "Call of Duty: Infinite Warfare, 4 Kasım 2016 tarihinde piyasaya sürüldü ve geleceğin askerlik teknolojisini konu alır.",
+    "options": [
+      "2013",
+      "2014",
+      "2016",
+      "2018"
+    ],
+    "correctAnswer": "2016",
+    "tags": [
+      "Call of Duty",
+      "Oyun Tarihi",
+      "Hobi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

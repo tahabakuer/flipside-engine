@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "nukgo6fz6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed serisi hangi türde bir oyun seti olarak bilinir?",
+    "explanation": "Assassin's Creed, Ubisoft tarafından geliştirilen tarihsel dönemlere dayanan aksiyon-macera oyunları serisidir. Her oyun farklı bir tarihi dönemi ve Assassin'ı konu alır.",
+    "options": [
+      "Kurgusal romanlar",
+      "Tarihi aksiyon-macera oyunları",
+      "Strateji simülasyonları",
+      "Ritmi müzik oyunları"
+    ],
+    "correctAnswer": "Tarihi aksiyon-macera oyunları",
+    "tags": [
+      "Assassin's Creed",
+      "Oyun Türü",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hip7mv2ik",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed: Origins hangi tarihi dönemde geçer?",
+    "explanation": "Assassin's Creed: Origins, Mısır'ın İskenderiye antik döneminde geçer ve Bayek karakterini konu alır. Oyun, Antik Çağ Mısır'ının günlük yaşamını detaylıca gösterir.",
+    "options": [
+      "Roma İmparatorluğu",
+      "12. yüzyıl Fransa",
+      "İskenderiye Antik Dönemi",
+      "18. yüzyıl İngiltere"
+    ],
+    "correctAnswer": "İskenderiye Antik Dönemi",
+    "tags": [
+      "Assassin's Creed",
+      "Tarihi Dönem",
+      "Oyun Detayları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y6m6gfaso",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisindeki ana mekanik özellik hangisidir?",
+    "explanation": "Assassin's Creed serisi, Animus adlı yapay zekâ sistemini kullanarak tarihi olayları yeniden canlandırır. Bu sistem oyunun temel mekanik özelliğidir.",
+    "options": [
+      "Zaman yolculuğu",
+      "Animus sistemi ve anı yeniden canlandırma",
+      "Süper güçler",
+      "Fizik motoru"
+    ],
+    "correctAnswer": "Animus sistemi ve anı yeniden canlandırma",
+    "tags": [
+      "Assassin's Creed",
+      "Oyun Mekaniği",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8gcc7fyvd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin'ın ana rakipleri hangi örgüt adı altında bilinir?",
+    "explanation": "Assassin'ın ana rakipleri Templiers adlı gizli bir örgüttür. Bu örgüt, düzeni ve kontrolü korumak için güç kullanır.",
+    "options": [
+      "Animus",
+      "Assassinlar",
+      "Templiers (Şövalyeler)",
+      "Hafifler"
+    ],
+    "correctAnswer": "Templiers (Şövalyeler)",
+    "tags": [
+      "Assassin's Creed",
+      "Karakterler",
+      "Oyun Dünyası"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "etbqwoz02",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed: Valhalla hangi tarihi dönemde geçer?",
+    "explanation": "Assassin's Creed: Valhalla, Viking Çağı'nda geçer ve Eivor karakterini konu alır. Oyun, İngiltere ve Fransa topraklarında Viking istila detaylarını gösterir.",
+    "options": [
+      "Viking Çağı",
+      "Roma İmparatorluğu",
+      "Antik Yunan",
+      "Orta Çağ Avrupa"
+    ],
+    "correctAnswer": "Viking Çağı",
+    "tags": [
+      "Assassin's Creed",
+      "Tarihi Dönem",
+      "Oyun Detayları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hdapwed6y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisinin ana teması nedir?",
+    "explanation": "Assassin's Creed serisinin temel konusu, Antik Çağ'dan günümüze uzanan gizli medeniyetlerin ve tarih sırlarını keşfetmektir.",
+    "options": [
+      "Geleceği değiştirmek",
+      "Makineyi kontrol etmek",
+      "Eski medeniyetlerin sırlarını keşfetmek",
+      "Kuantum fiziğini anlamak"
+    ],
+    "correctAnswer": "Eski medeniyetlerin sırlarını keşfetmek",
+    "tags": [
+      "Assassin's Creed",
+      "Hikaye",
+      "Tema"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3623c5k6h",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed oyunlarında 'Animus' ne işe yarar?",
+    "explanation": "Animus, geçmişte yaşayan kişilerin (Genetik olarak) hafızalarını yeniden canlandırmak için kullanılan yapay zeka sistemidir.",
+    "options": [
+      "Zaman makinesi oluşturur",
+      "Geçmişte yaşayan kişilerin hafızalarını yeniden canlandırır",
+      "Geleceği tahmin eder",
+      "Kuantum süper bilgisayarını kontrol eder"
+    ],
+    "correctAnswer": "Geçmişte yaşayan kişilerin hafızalarını yeniden canlandırır",
+    "tags": [
+      "Assassin's Creed",
+      "Animus",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pgyaay9e2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "İlk Assassin's Creed oyununun çıkış yılı nedir?",
+    "explanation": "İlk Assassin's Creed oyunu 2007 yılında Ubisoft tarafından yayınlandı ve Eddy'nin hikayesini konu almıştır.",
+    "options": [
+      "2013",
+      "2007",
+      "2015",
+      "2010"
+    ],
+    "correctAnswer": "2007",
+    "tags": [
+      "Assassin's Creed",
+      "Tarihçe",
+      "Klasik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wq4cr1xjn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed III'da oynanan tarihi dönem nedir?",
+    "explanation": "Assassin's Creed III, Amerikan Bağımsızlık Savaşı (Devrimi) döneminde geçen 1754-1802 yıllarını konu alır.",
+    "options": [
+      "Antik Yunan",
+      "Ortaçağ Avrupa",
+      "Amerikan Devrimi Dönemi",
+      "Modern Çağ"
+    ],
+    "correctAnswer": "Amerikan Devrimi Dönemi",
+    "tags": [
+      "Assassin's Creed III",
+      "Tarih",
+      "Karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ha1f301ki",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisindeki 'Eagle Vision' özelliği ne işe yarar?",
+    "explanation": "Eagle Vision, oyuncunun düşmanları ve önemli noktaları kolayca tespit etmesini sağlayan bir görsel özelliğidir.",
+    "options": [
+      "Geleceği görür",
+      "Düşmanları tespit eder ve hedefi işaretler",
+      "Zamanı durdurur",
+      "Hafızayı siler"
+    ],
+    "correctAnswer": "Düşmanları tespit eder ve hedefi işaretler",
+    "tags": [
+      "Assassin's Creed",
+      "Oynanabilir Özellik",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2e1v1pfjb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed serisinin temel hikaye yapısı nedir?",
+    "explanation": "Assassin's Creed serisi, modern günlerdeki Animus teknolojisi ile geçmişteki Assassin'lerin gerçek zamanlı deneyimlerini birleştirir. Bu yapı, tarihi olayları yeniden kurgulanmış şekilde anlatır.",
+    "options": [
+      "Gerçek zamanlı kurgu ve animus teknolojisi",
+      "Tamamen tarihi belgesel",
+      "Fütüristik bilim kurgu",
+      "Fantastik dünya"
+    ],
+    "correctAnswer": "Gerçek zamanlı kurgu ve animus teknolojisi",
+    "tags": [
+      "seri_bakış",
+      "animus"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y0xop0yeg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Altair ibn La-Ahad kimdir?",
+    "explanation": "Altair ibn La-Ahad, 12. yüzyıl Mısır'da yaşamış birinci nesil Assassin ve serinin ilk ana kahramanıdır. Desmond Miles'in hayalindeki karakterdir.",
+    "options": [
+      "İkinci nesil Assassin lideri",
+      "Birinci nesil Assassin ve serinin ilk kahramanı",
+      "Modern günlerin Assassin'ı",
+      "Assassin'lerin düşmanı"
+    ],
+    "correctAnswer": "Birinci nesil Assassin ve serinin ilk kahramanı",
+    "tags": [
+      "karaktarlar",
+      "altair"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b76t37wvw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Ezio Auditore hangi dönem ve şehirde geçer?",
+    "explanation": "Ezio Auditore, 1470-1524 yılları arasında yaşamış ve İtalya'nın Floransa, Venedik, Roma gibi şehirlerinde geçmiş Assassin'ler serisinin en bilinen karakteridir.",
+    "options": [
+      "15. yüzyıl - İtalya",
+      "12. yüzyıl - Mısır",
+      "18. yüzyıl - Fransa",
+      "21. yüzyıl - Modern"
+    ],
+    "correctAnswer": "15. yüzyıl - İtalya",
+    "tags": [
+      "karaktarlar",
+      "ezio"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c39qmqc05",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Animus nedir?",
+    "explanation": "Animus, modern günlerdeki Desmond Miles'in DNA'sından gelen geçmiş Assassin'lerin deneyimlerini canlandırmak için kullanılan genetik hatırlama teknolojisidir.",
+    "options": [
+      "Assassin'lerin DNA'daki genetik hatırlama teknolojisi",
+      "Assassin'lerin kullanıp kullandıkları silah",
+      "Assassin'lerin lideri olduğu şehir",
+      "Assassin'lerin düşmanı olan grup"
+    ],
+    "correctAnswer": "Assassin'lerin DNA'daki genetik hatırlama teknolojisi",
+    "tags": [
+      "animus",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rx74p5zwi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Edenlar (Assassin) ve Templarlar arasındaki savaşın temel sebebi nedir?",
+    "explanation": "Assassin'lerin (Edenlar) temel felsefesi insanları özgür tutmaktır ve yükseklikler (kuleler, tepeler) serbestliğin sembolüdür. Templarlar ise kontrol ve düzen savunucularıdır.",
+    "options": [
+      "Yükseklikler ve özgürlük hakkı",
+      "Parasal çıkarlar",
+      "Dini inanışlar",
+      "Kişisel nefret"
+    ],
+    "correctAnswer": "Yükseklikler ve özgürlük hakkı",
+    "tags": [
+      "savaş_yapısı",
+      "eden_templar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vdyz9sarq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed serisindeki ilk oyunda, ana karakter olan Altair'ın hangi zaman diliminde yaşadığı belirtilir?",
+    "explanation": "Assassin's Creed serisinin ilk oyunu Altair'ı 12. yüzyılın başlarında, Kraliyet Çatısı (Mısır) döneminde gösterir.",
+    "options": [
+      "12. yüzyıl, Kraliyet Çatısı",
+      "14. yüzyıl, Osmanlı İmparatorluğu",
+      "18. yüzyıl, Amerika Birleşik Devletleri",
+      "20. yüzyıl, İkinci Dünya Savaşı"
+    ],
+    "correctAnswer": "12. yüzyıl, Kraliyet Çatısı",
+    "tags": [
+      "Assassin's Creed",
+      "Altair",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "as13g84zx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed: Rogue oyununda oynanan zaman dilimi ve karakter kimdir?",
+    "explanation": "Assassin's Creed: Rogue oyununda 1753'te, Shay Cormac karakteri oynanır ve hayatta kalma mücadelesi yaşar.",
+    "options": [
+      "1753, Shay Cormac",
+      "1762, Haytham Kenway",
+      "1789, Edward Kenway",
+      "1804, Desmond Miles"
+    ],
+    "correctAnswer": "1753, Shay Cormac",
+    "tags": [
+      "Assassin's Creed Rogue",
+      "Shay Cormac",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ukvwgdr9v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Animus cihazı hangi amaçla geliştirilmiştir?",
+    "explanation": "Animus cihazı, soyut bellek genlerini kullanarak tarihsel olayları ve bilgileri öğrenmek amacıyla geliştirilmiştir.",
+    "options": [
+      "Tarih bilgilerini öğrenmek için",
+      "Gelecek olaylarını tahmin etmek için",
+      "Ölümcül hastalıkları iyileştirmek için",
+      "Zaman yolculuğu yapmak için"
+    ],
+    "correctAnswer": "Tarih bilgilerini öğrenmek için",
+    "tags": [
+      "Animus",
+      "Teknoloji",
+      "Assassin's Creed Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cxw6d8s7r",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed: Syndicate oyununda ana şehir hangisidir?",
+    "explanation": "Assassin's Creed: Syndicate oyununda 19. yüzyılın Victoria döneminde Londra şehri ana konumdadır.",
+    "options": [
+      "Paris",
+      "Londra",
+      "Roma",
+      "Beyrut"
+    ],
+    "correctAnswer": "Londra",
+    "tags": [
+      "Assassin's Creed Syndicate",
+      "Şehirler",
+      "Victorian Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jihcg72df",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EXPERT",
+    "question": "Assassin's Creed serisindeki 'Eagle Vision' özelliği ne işe yarar?",
+    "explanation": "Eagle Vision özelliği, Assassin'ın Eagle (kartal) gözleri kullanarak düşmanları ve önemli noktaları tespit etmek için kullanılır.",
+    "options": [
+      "Düşmanları tespit etmek için",
+      "Hızlı hareket etmek için",
+      "Sessizce zıplamak için",
+      "Kılıç atmak için"
+    ],
+    "correctAnswer": "Düşmanları tespit etmek için",
+    "tags": [
+      "Eagle Vision",
+      "Oyun Mekanikleri",
+      "Assassin's Creed Özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "21j7541ub",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed serisindeki temel mekanik nedir?",
+    "explanation": "Assassin's Creed serisinin merkezinde Animus adlı yapay zeka simülasyonu bulunur. Bu sistem, Ezoplar tarafından kullanılarak geçmiş çağların hayatta kalanları ezerek Assassin'ın yeteneklerini keşfetmeye olanak tanır.",
+    "options": [
+      "Zaman yolculuğu",
+      "Animus sistemi ve Ezoplar",
+      "Kuantum fiziği",
+      "Dünya ağacı"
+    ],
+    "correctAnswer": "Animus sistemi ve Ezoplar",
+    "tags": [
+      "Assassin's Creed",
+      "Mekanik",
+      "Giriş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yvjsioaa9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed 1 oyununda ana karakter kimdir?",
+    "explanation": "Assassin's Creed serisinin ilk oyunu 2007'de çıkış yapmıştır ve ana karakter olarak Altair Ibn-La'Ahad, Mısır sultanı Saladin'in zamanındaki bir Ezop (Assassin) olarak yer alır.",
+    "options": [
+      "Altair Ibn-La'Ahad",
+      "Connor Kenway",
+      "Ezio Auditore",
+      "Arno Dorian"
+    ],
+    "correctAnswer": "Altair Ibn-La'Ahad",
+    "tags": [
+      "Assassin's Creed 1",
+      "Karakter",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gvu1lm623",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Animus sistemindeki 'Ezoplar'ın görevi nedir?",
+    "explanation": "Ezoplar, Animus sisteminde çalışan uzmanlardır ve görevleri, Assassin'ın geçmişte kazandığı yetenekleri modern dünyada kullanabilme için keşfetmektir.",
+    "options": [
+      "Geleceği değiştirmek",
+      "Assassin yeteneklerini keşfetmek",
+      "Kuantum verilerini silmek",
+      "Dünya ağacını yönetmek"
+    ],
+    "correctAnswer": "Assassin yeteneklerini keşfetmek",
+    "tags": [
+      "Animus",
+      "Ezoplar",
+      "Sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vt44iu1wb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisindeki 'Modern Gün' bölümleri nasıl işler?",
+    "explanation": "Assassin's Creed serisindeki Modern Gün bölümleri, oyuncunun Animus sisteminin içinden geçerek Assassin'ın yeteneklerini modern dünyada kullanmasını sağlar.",
+    "options": [
+      "Fikri oyunlar",
+      "Animus simülasyonu içinde",
+      "Gerçek zamanlı aksiyon",
+      "Yapay zeka ile kontrol edilen"
+    ],
+    "correctAnswer": "Animus simülasyonu içinde",
+    "tags": [
+      "Modern Gün",
+      "Animus",
+      "Oyun Tasarımı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s43z3qk5a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EXPERT",
+    "question": "Assassin's Creed: Brotherhood oyununda ana karakter kimdir?",
+    "explanation": "Assassin's Creed: Brotherhood, serinin ikinci oyunu olup 2010'da çıkmıştır. Ezio Auditore'nin İtalya'daki maceralarını ve Ezoplar ile Assassin'ın çatışmasını anlatır.",
+    "options": [
+      "Altair Ibn-La'Ahad",
+      "Ezio Auditore",
+      "Connor Kenway",
+      "Arno Dorian"
+    ],
+    "correctAnswer": "Ezio Auditore",
+    "tags": [
+      "Assassin's Creed 2",
+      "Brotherhood",
+      "Karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tzulxtuji",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed serisinin ilk oyunu hangi yıl piyasaya sürülmüştür?",
+    "explanation": "Assassin's Creed serisinin ilk oyunu 16 Kasım 2007'de Ubisoft tarafından piyasaya sürülmüş ve Appleseed, The Elder Scrolls vb. oyunlarla aynı dönemdeki önemli çıkışlardan biridir.",
+    "options": [
+      "2007",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "correctAnswer": "2007",
+    "tags": [
+      "Assassin's Creed",
+      "Tarihçe",
+      "Oyun Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mabz0ysti",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed II'nin ana kahramanı kimdir?",
+    "explanation": "Ezio Auditore, Assassin's Creed serisinin en popüler karakteridir ve özellikle İtalya'nın Rönesans döneminde geçen ikinci oyunun ana kahramanıdır. Ezio daha sonra üçüncü oyunda da yer alır.",
+    "options": [
+      "Ezio Auditore",
+      "Connor Kenway",
+      "Arno Dorian",
+      "Bayek"
+    ],
+    "correctAnswer": "Ezio Auditore",
+    "tags": [
+      "Assassin's Creed II",
+      "Karakterler",
+      "Ana Kahraman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wzt1z6x76",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisindeki 'Animus' nedir?",
+    "explanation": "Animus, serinin temel teknolojisidir ve modern çağda yaşayan Ezio gibi karakterlerin atalarının genetik hafızasını simüle ederek geçmişe yolculuk etmelerini sağlar. Animus içindeki anılar gerçek zamanlı olarak işlenir.",
+    "options": [
+      "Bir zaman yolcusu",
+      "Geçmişin genetik hafızasını simüle eden cihaz",
+      "Assasinlerin silahı",
+      "Zaman makinesi"
+    ],
+    "correctAnswer": "Geçmişin genetik hafızasını simüle eden cihaz",
+    "tags": [
+      "Animus",
+      "Teknoloji",
+      "Oyun Mekaniği"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0wjzh5esb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed III'ta geçen oyunun ana tarihi olayı nedir?",
+    "explanation": "Assassin's Creed III, 1754-1809 yılları arasında geçen Amerikan Bağımsızlık Savaşını konu alır ve Konan Kenway'ın torunu Edward Braddock gibi tarihi figürlerle etkileşim içinde olduğu bir oyun hikayesidir.",
+    "options": [
+      "Fransız Devrimi",
+      "Amerikan Bağımsızlık Savaşı",
+      "İngiliz İnkilabı",
+      "Napolyon'un Yükselişi"
+    ],
+    "correctAnswer": "Amerikan Bağımsızlık Savaşı",
+    "tags": [
+      "Assassin's Creed III",
+      "Tarih",
+      "Oyun Hikayesi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "07tpmgj9q",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EXPERT",
+    "question": "Assassin's Creed Valhalla'nın ana kahramanı Eivor, hangi dönemde geçmektedir?",
+    "explanation": "Assassin's Creed Valhalla, Vikinglerin 793-872 yılları arasında İskoçya, İngiltere ve Fransa'daki seferlerini konu alır. Eivor, gerçek bir Viking figürü olup bu dönemde yaşayan tarihi olaylarla etkileşim halindedir.",
+    "options": [
+      "Viking Çağı (8. yüzyıl)",
+      "Rönesans Dönemi",
+      "Antik Mısır",
+      "Roma İmparatorluğu"
+    ],
+    "correctAnswer": "Viking Çağı (8. yüzyıl)",
+    "tags": [
+      "Assassin's Creed Valhalla",
+      "Vikingler",
+      "Tarih Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vexuucf4o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed serisinin ilk oyununda hangi tarihi dönemde geçen bir hikaye vardır?",
+    "explanation": "Assassin's Creed serisinin ilk oyunu 1794'te, Fransız Devrimi döneminde geçer ve Edward Kenway karakteri üzerinden anlatılır.",
+    "options": [
+      "Roma İmparatorluğu",
+      "İslami Dönem",
+      "Fransız Devrimi",
+      "Antik Yunan"
+    ],
+    "correctAnswer": "Fransız Devrimi",
+    "tags": [
+      "Assassin's Creed",
+      "Tarih",
+      "Klasik Oyunlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nxcswul9v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed oyunlarında 'Animus' ne işlev görür?",
+    "explanation": "Animus, oyuncunun geçmişteki Assassin'lerin hafızalarını deneyimlemesini sağlayan özel bir sanal gerçeklik cihazıdır.",
+    "options": [
+      "Zaman yolculuğu cihazı",
+      "Geçmişte yaşayabilmek için kullanılan sanal gerçeklik cihazı",
+      "Assassin'lerin kullandığı silah",
+      "Gizli bir yer"
+    ],
+    "correctAnswer": "Geçmişte yaşayabilmek için kullanılan sanal gerçeklik cihazı",
+    "tags": [
+      "Assassin's Creed",
+      "Mekanik",
+      "Sanal Gerçeklik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5vw9tpzfj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisinde 'Eagle Vision' özelliği neyi gösterir?",
+    "explanation": "Eagle Vision, oyuncuya düşmanları ve önemli noktaları kırmızı ile göstererek stratejik avantaj sağlar.",
+    "options": [
+      "Assassin'ler için gizli yollar",
+      "Düşmanların konumunu ve kırmızıyla işaretlerini",
+      "Özel yeteneklerin kullanımı",
+      "Zaman durması efekti"
+    ],
+    "correctAnswer": "Düşmanların konumunu ve kırmızıyla işaretlerini",
+    "tags": [
+      "Assassin's Creed",
+      "Oyun Mekanikleri",
+      "Görsel Efektler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bqbd2nmn7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed Odyssey oyununda hangi tarihsel döneme geçilir?",
+    "explanation": "Assassin's Creed Odyssey, MÖ 431'de Antik Yunanistan'ın Peloponez Savaşı döneminde geçer.",
+    "options": [
+      "Antik Mısır",
+      "Antik Yunanistan",
+      "Roma İmparatorluğu",
+      "İslami Dönem"
+    ],
+    "correctAnswer": "Antik Yunanistan",
+    "tags": [
+      "Assassin's Creed",
+      "Tarih",
+      "Odyssey"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ag12owjad",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EXPERT",
+    "question": "Assassin's Creed serisindeki 'Leviathan' nedir?",
+    "explanation": "Leviathan, Animus teknolojisini geliştiren ve su altı yetenekleri ekleyen büyük bir cihazdır; özellikle Black Flag oyununda önemli rol oynar.",
+    "options": [
+      "Bir Assassin'ın taşıdığı kılıç",
+      "Assassının kullandığı gizli bir gemi",
+      "Animus'un geliştirilmiş versiyonu ve su altı yeteneği olan bir cihaz",
+      "Assassin'lerin kullandığı zehirli asit"
+    ],
+    "correctAnswer": "Animus'un geliştirilmiş versiyonu ve su altı yeteneği olan bir cihaz",
+    "tags": [
+      "Assassin's Creed",
+      "Animus",
+      "Leviathan",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f14qma0l4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisinin temel felsefesi nedir?",
+    "explanation": "Assassin's Creed serisi Eski (Assasinlar) ve Yeni (Templer) düzen arasındaki çatışmayı temel felsefesi olarak sunar. Assassins gizlilik ve özgürlük için, Templars ise kontrol ve düzen için savaşır.",
+    "options": [
+      "Eski ve Yeni Düzen",
+      "Ahlaki Denge",
+      "Zaman Yolculuğu",
+      "Dünya Yönetimi"
+    ],
+    "correctAnswer": "Eski ve Yeni Düzen",
+    "tags": [
+      "felsefe",
+      "temel",
+      "düzenler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c01u81udo",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Ezio Auditore hangi Assassin's Creed oyunlarının ana karakteridir?",
+    "explanation": "Ezio Auditore, Assassin's Creed II, Brotherhood ve Revelations oyunlarının ana kahramanıdır. Ayrıca AC1'de önemli destek rolu oynar ve serinin en ikonik karakteri olarak kabul edilir.",
+    "options": [
+      "AC1, AC2, AC3",
+      "AC2, Brotherhood, Revelations",
+      "Unity, Odyssey, Valhalla",
+      "Origins, Mirage, Rogue"
+    ],
+    "correctAnswer": "AC2, Brotherhood, Revelations",
+    "tags": [
+      "karakter",
+      "ezio",
+      "ana karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bf0xw7uf0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EXPERT",
+    "question": "Assassin's Creed: Origins hangisinin ilk oyunu?",
+    "explanation": "Assassin's Creed: Origins, serinin ilk ana hikayeli Assassin's Creed oyunudur. 2017 yılında Ubisoft tarafından yayınlandı ve Bayek'in Mısır'daki macerasını anlatır.",
+    "options": [
+      "Ana hikaye",
+      "Spin-off",
+      "Özel mod",
+      "Başlangıç"
+    ],
+    "correctAnswer": "Ana hikaye",
+    "tags": [
+      "kaynaklar",
+      "başlangıç",
+      "orijinal"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "81ea2f3fv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Animus nedir?",
+    "explanation": "Animus, serideki teknoloji ile geçmişin genetik hafızasını modern bir beyinde yeniden canlandırmaya yarayan cihazdır. Ana karakterler Animus'u kullanarak geçmişteki Assassin'lerin deneyimlerini yaşarlar.",
+    "options": [
+      "Assassin'lerin silahı",
+      "Geçmişe yolculuk cihazı",
+      "Assasin'lerin gizli karakolu",
+      "Templerin kontrol merkezi"
+    ],
+    "correctAnswer": "Geçmişe yolculuk cihazı",
+    "tags": [
+      "animus",
+      "teknoloji",
+      "geçmiş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "og1hxpiuc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EXPERT",
+    "question": "Assassin's Creed Valhalla'nın ana teması nedir?",
+    "explanation": "Assassin's Creed Valhalla, 9. yüzyıl Norveç Vikingleri'nin İngiltere'ye saldırılarını ve Bayek'in hikayesinin devamını anlatır. Ana karakter Eivor'dur.",
+    "options": [
+      "Mısır",
+      "Fransa",
+      "İngiltere ve Norveç",
+      "Güney Amerika"
+    ],
+    "correctAnswer": "İngiltere ve Norveç",
+    "tags": [
+      "valhalla",
+      "tema",
+      "yerler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uctniupkw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EASY",
+    "question": "Assassin's Creed serisinin ilk oyununda hangi tarih dönemi kurgulanmıştır?",
+    "explanation": "Assassin's Creed'in ilk oyunu (2007) kurgusal karakter Desmond Miles'in babası Altair ile 1789-1800 yıllarını kapsayan Amerikan Devrimi ve Fransız İhtilali dönemini konu alır.",
+    "options": [
+      "1789-1800 - Amerikan Devrimi ve Fransız İhtilali",
+      "1200-1300 - Orta Çağ Avrupa'sı",
+      "1945-1950 - Soğuk Savaş dönemi",
+      "2012-2014 - Modern zamanlar"
+    ],
+    "correctAnswer": "1789-1800 - Amerikan Devrimi ve Fransız İhtilali",
+    "tags": [
+      "Assassin's Creed",
+      "Oyun Tarihçesi",
+      "Kurgu Dönemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o6a9mlzlm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisindeki 'Animus' nedir?",
+    "explanation": "Animus, Assassin's Creed serisindeki temel teknolojidir ve modern zamanlarda yaşayan karakterlerin (Desmond Miles) atalarının genetik hafızasını simüle ederek geçmiş olayları yaşamasını sağlar.",
+    "options": [
+      "Eski bir Türk kılıcı",
+      "Genetik hafıza simülasyon cihazı",
+      "Modern zamanlar kullanılan silah",
+      "Assassin'nin giydiği kıyafet"
+    ],
+    "correctAnswer": "Genetik hafıza simülasyon cihazı",
+    "tags": [
+      "Animus",
+      "Teknoloji",
+      "Assassin's Creed Mevzuatı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tidi8muzi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed: Black Flag oyununda hangi tarih dönemi kurgulanmıştır?",
+    "explanation": "Assassin's Creed: Black Flag (2013), Kaptan Edward Kenway'in hikayesini anlatır ve kurgusal olarak 1715-1722 yıllarını, Karib Altın Çağı dönemini kapsar.",
+    "options": [
+      "1715-1722 - Kaptan Edward Kenway ve Altın Çağ",
+      "1840-1850 - Amerikalı Devrimi sonrası",
+      "1960-1970 - Vietnam Savaşı",
+      "2020-2025 - Modern zamanlar"
+    ],
+    "correctAnswer": "1715-1722 - Kaptan Edward Kenway ve Altın Çağ",
+    "tags": [
+      "Assassin's Creed Black Flag",
+      "Tarih Dönemi",
+      "Kurgu Karakteri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h26iyvowq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EXPERT",
+    "question": "Assassin's Creed serisindeki 'Ejderha' (Isu) nedir?",
+    "explanation": "Assassin's Creed serisindeki Ejderha (Isu), Eski Çağ'da yaşayan gizemli bir insan yapımı teknoloji yaratığıdır ve Assassin ile Templar'ların tarih boyunca aradığı şeydir.",
+    "options": [
+      "Orta Çağ'da yaşayan bir ejderha",
+      "Tarihe karışmış gizemli insan yapımı yaratık",
+      "Animus cihazının parçası",
+      "Modern zamanlarda kullanılan drone"
+    ],
+    "correctAnswer": "Tarihe karışmış gizemli insan yapımı yaratık",
+    "tags": [
+      "Isu",
+      "Ejderha",
+      "Assassin's Creed Evreni"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "83421h4ob",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed Odyssey oyununda hangi tarih dönemi kurgulanmıştır?",
+    "explanation": "Assassin's Creed Odyssey (2018), kurgusal karakter Kassandra'nın hikayesini anlatır ve Yunanistan Antik Çağı dönemini, 431-427 M.Ö. yıllarını kapsar.",
+    "options": [
+      "431-427 M.Ö. - Yunanistan Antik Çağı",
+      "1066-1088 M.Ö. - Orta Çağ Avrupa'sı",
+      "1945-1950 M.Ö. - Modern zamanlar",
+      "2020-2025 M.Ö. - Soğuk Savaş"
+    ],
+    "correctAnswer": "431-427 M.Ö. - Yunanistan Antik Çağı",
+    "tags": [
+      "Assassin's Creed Odyssey",
+      "Antik Dönem",
+      "Kurgu Karakteri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2v998aehz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisinin hikayesi hangi döneme ait bir fiktif organizasyonun etrafında gelişir?",
+    "explanation": "Assassin's Creed serisi hem modern günümüzdeki Ezio'ya ait şifreli bir örgütü hem de Rönesans dönemindeki Assassin's Creed ile bağlantılı hikayeyi içerir.",
+    "options": [
+      "Modern çağ ve Rönesans dönemi",
+      "Sadece Orta Çağ",
+      "Teknolojik geleceğe odaklanan",
+      "Antik Mısır zamanına sınırlı"
+    ],
+    "correctAnswer": "Modern çağ ve Rönesans dönemi",
+    "tags": [
+      "Assassin's Creed",
+      "Hikaye",
+      "Oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zwi7futd5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed oyunlarının temel mekaniği nedir?",
+    "explanation": "Animus, Ezio'nun geçmişte yaşadığı deneyimleri modern günümüzde tekrar yaşamasını sağlayan fiktif bir teknolojidir.",
+    "options": [
+      "Zaman yolculuğu",
+      "Animus teknolojisi ve hafıza yeniden keşfi",
+      "Sadece strateji",
+      "Teknolojik silahlar"
+    ],
+    "correctAnswer": "Animus teknolojisi ve hafıza yeniden keşfi",
+    "tags": [
+      "Assassin's Creed",
+      "Mekanik",
+      "Oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mfcmm9hv7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisinin ilk oyununda ana karakter kimdir?",
+    "explanation": "Ezio Auditore, Assassin's Creed serisinin ilk oyununda ve en ünlü karakterlerinden biridir.",
+    "options": [
+      "Ezio Auditore",
+      "Altair Ibn-La'Ahad",
+      "Kassandra",
+      "Connor Kenway"
+    ],
+    "correctAnswer": "Ezio Auditore",
+    "tags": [
+      "Assassin's Creed",
+      "Karakter",
+      "Oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wivnevhvt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "EXPERT",
+    "question": "Assassin's Creed 2'de Ezio'nun ailesi neden öldürülür?",
+    "explanation": "Ezio'nun ailesi Borgia ailesi tarafından öldürülür ve Ezio bu olayı intikam almak için kullanır.",
+    "options": [
+      "Pizze İmparatorluğu tarafından",
+      "Borgia ailesi tarafından",
+      "Modern örgütler tarafından",
+      "Savaş sırasında"
+    ],
+    "correctAnswer": "Borgia ailesi tarafından",
+    "tags": [
+      "Assassin's Creed",
+      "Hikaye",
+      "Oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "01fpldj19",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Assassin's Creed",
+    "difficulty": "GENERAL",
+    "question": "Assassin's Creed serisindeki 'Animus' ne işe yarar?",
+    "explanation": "Animus, Ezio'nun geçmişte yaşadığı deneyimleri modern günümüzde tekrar yaşamasını sağlayan fiktif bir teknolojidir.",
+    "options": [
+      "Geleceği tahmin eder",
+      "Hafızayı yeniden keşfetmek için kullanılır",
+      "Sadece eğlence amaçlıdır",
+      "Stratejik planlama yapar"
+    ],
+    "correctAnswer": "Hafızayı yeniden keşfetmek için kullanılır",
+    "tags": [
+      "Assassin's Creed",
+      "Animus",
+      "Oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

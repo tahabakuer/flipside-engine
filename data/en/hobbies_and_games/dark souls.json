@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "epjnptuy3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "What is the purpose of the 'Bonfire' in Dark Souls?",
+    "explanation": "Bonfires are crucial gameplay elements in Dark Souls that serve as save points, allowing players to rest, heal, and replenish their Estus Flasks.",
+    "options": [
+      "To heal player health instantly",
+      "To save game progress and restore stamina/health",
+      "To unlock hidden weapons",
+      "To summon enemies"
+    ],
+    "correctAnswer": "To save game progress and restore stamina/health",
+    "tags": [
+      "Dark Souls",
+      "Mechanics",
+      "Bonfire"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xt7iah0nk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Which weapon is known for its ability to summon spectral flames?",
+    "explanation": "The Soul Spear has special abilities including summoning soul flames, making it a unique weapon choice in Dark Souls.",
+    "options": [
+      "Longsword",
+      "Rapier",
+      "Black Knight Sword",
+      "Soul Spear"
+    ],
+    "correctAnswer": "Soul Spear",
+    "tags": [
+      "Dark Souls",
+      "Weapons",
+      "Spear"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xtsmkfdxl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "What does 'Souls' primarily represent in Dark Souls?",
+    "explanation": "Souls are the main currency in Dark Souls, collected by defeating enemies and used to upgrade weapons and purchase items at bonfires.",
+    "options": [
+      "Currency for purchasing items",
+      "Health points",
+      "Magic damage type",
+      "Experience points"
+    ],
+    "correctAnswer": "Currency for purchasing items",
+    "tags": [
+      "Dark Souls",
+      "Gameplay",
+      "Souls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8il0sfekq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Who is the final boss of Dark Souls?",
+    "explanation": "Gwyn, Lord of Cinder is the final boss in Dark Souls (before New Game+), representing the Age of Fire and the game's central antagonist.",
+    "options": [
+      "Ornstein & Smough",
+      "Nito",
+      "Gwyn",
+      "The Nameless King"
+    ],
+    "correctAnswer": "Gwyn",
+    "tags": [
+      "Dark Souls",
+      "Bosses",
+      "Final Boss"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tu8xoep1v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "What happens when you die in Dark Souls?",
+    "explanation": "When you die in Dark Souls, your souls become a glowing orb that you must pick up by returning to the nearest bonfire. If you don't return, they are permanently lost.",
+    "options": [
+      "Game ends immediately",
+      "You lose all souls permanently",
+      "Your souls appear as 'Hollow' and can be retrieved from bonfires",
+      "You are teleported to the beginning"
+    ],
+    "correctAnswer": "Your souls appear as 'Hollow' and can be retrieved from bonfires",
+    "tags": [
+      "Dark Souls",
+      "Death Mechanics",
+      "Souls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "51sf997ey",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Dark Souls serisindeki 'İlk Lord of Cinder' kimdir?",
+    "explanation": "Gwyn, İlk Ateşin Lordu olarak bilinen karakter, Dark Souls'un başlangıçtaki en önemli figürdür ve oyunun sonunda seçilen liderdir.",
+    "options": [
+      "Gwyn",
+      "Artorias",
+      "Ornstein",
+      "Quelaan"
+    ],
+    "correctAnswer": "Gwyn",
+    "tags": [
+      "Lore",
+      "Bosses"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8yuikqmc2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Oyundaki 'Estus Şifre' (Flask) ne işlev görür?",
+    "explanation": "Estus Şifre, oyuncunun canını yenilemek için kullanılan temel eşyadır ve zombi saldırıları veya düşmanlara karşı hayatta kalma sağlar.",
+    "options": [
+      "Zindanı açar",
+      "Canı doldurur",
+      "Kılıcı güçlendirir",
+      "Yavaşlatır"
+    ],
+    "correctAnswer": "Canı doldurur",
+    "tags": [
+      "Mechanics",
+      "Items"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "69qhlounf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "'Hollow' olma durumu ne zaman gerçekleşir?",
+    "explanation": "İnsanlar ateşe bağlanmadığında veya ateşi reddetmişse zamanla 'Hollow' olarak düşerler ve bu durumun en önemli özelliği insan formunu kaybetmektir.",
+    "options": [
+      "Ateşi yediğinde",
+      "İnsan formunu kaybettiğinde",
+      "Zırhını giydiğinde",
+      "Şefat verdiğinde"
+    ],
+    "correctAnswer": "İnsan formunu kaybettiğinde",
+    "tags": [
+      "Lore",
+      "Characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gt162l675",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "'Solaire of Sunlight' karakteri hangi silahı kullanır?",
+    "explanation": "Solaire karakteri güneş kılıcını (Sunlight Sword) ve bu kılıca özel yetenekleri ile tanınır, özellikle güneş ışığı altında güçlüdür.",
+    "options": [
+      "Güneş Kılıcı",
+      "İğne",
+      "Büyük Mızrak",
+      "Demir Kılıç"
+    ],
+    "correctAnswer": "Güneş Kılıcı",
+    "tags": [
+      "Characters",
+      "Items"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "opjcgbbnb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "Dark Souls'un temel hikaye döngüsü nasıl ilerler?",
+    "explanation": "Dark Souls'un temeli 'Karanlık Döngüsü'dir; ateş sönünce karanlık gelir, ışık arayışı tekrar başlar ve bu döngü sonsuza kadar devam etmektedir.",
+    "options": [
+      "Sadece ateş sönünür",
+      "Ateş ve Karanlık döngüsü devam eder",
+      "Sadece zombiler oluşur",
+      "Oyuncu her zaman kazanır"
+    ],
+    "correctAnswer": "Ateş ve Karanlık döngüsü devam eder",
+    "tags": [
+      "Lore",
+      "Themes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dsg9skv87",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Which game was released first in the main Dark Souls trilogy?",
+    "explanation": "Dark Souls I was released in 2011, preceding the second and third main entries.",
+    "options": [
+      "Dark Souls II",
+      "Dark Souls III",
+      "Dark Souls I",
+      "Demon's Souls"
+    ],
+    "correctAnswer": "Dark Souls I",
+    "tags": [
+      "General Knowledge",
+      "Series"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dgxzqgl95",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "What is the primary currency used to level up characters in Dark Souls I?",
+    "explanation": "In the first game, souls are collected from enemies and spent at bonfires to increase stats.",
+    "options": [
+      "Runes",
+      "Soul",
+      "Gold",
+      "Credits"
+    ],
+    "correctAnswer": "Soul",
+    "tags": [
+      "Mechanics",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rj8ab2wpi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the area you start in Dark Souls III?",
+    "explanation": "Unlike the first game, Dark Souls 3 begins at the Firelink Shrine.",
+    "options": [
+      "Firelink Shrine",
+      "Anor Londo",
+      "Lost Izalith",
+      "Ostrus"
+    ],
+    "correctAnswer": "Firelink Shrine",
+    "tags": [
+      "Locations",
+      "Series"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sqtzb2aop",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "What item drops from the Fire Keeper that enables bonfire kindling?",
+    "explanation": "The Kindling Stone is dropped by the Fire Keeper and used to reduce charges before enabling kindling.",
+    "options": [
+      "Estus Bottle",
+      "Kindling Stone",
+      "Bell of Awakening",
+      "Fire Keeper Soul"
+    ],
+    "correctAnswer": "Kindling Stone",
+    "tags": [
+      "Items",
+      "Mechanics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gh1dyg9e7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Who is the main final boss fought at the end of Dark Souls I?",
+    "explanation": "Gwyn, Lord of Cinder, is the final boss in the first Dark Souls game.",
+    "options": [
+      "Nito",
+      "Gwyn",
+      "Sif",
+      "Artorias"
+    ],
+    "correctAnswer": "Gwyn",
+    "tags": [
+      "Bosses",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w6wg7knxn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "What is the main goal of the Chosen Undead in Dark Souls?",
+    "explanation": "The primary objective is to reignite the First Flame to prevent the Age of Dark from beginning.",
+    "options": [
+      "Reignite the First Flame",
+      "Restore the Fire Keeper",
+      "Escape Lordran",
+      "Kill Gwyndolin"
+    ],
+    "correctAnswer": "Reignite the First Flame",
+    "tags": [
+      "lore",
+      "dark souls",
+      "gameplay"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "moelbzxom",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "What happens when a player dies in the game?",
+    "explanation": "Death causes the player to drop accumulated souls, which can be retrieved upon reaching the death site.",
+    "options": [
+      "Game Over",
+      "Souls are dropped at death location",
+      "Respawn instantly",
+      "Lose all items"
+    ],
+    "correctAnswer": "Souls are dropped at death location",
+    "tags": [
+      "mechanics",
+      "dark souls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tvhzlooum",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Which item restores health and stamina?",
+    "explanation": "The Estus Flask is the standard consumable used to replenish health and stamina.",
+    "options": [
+      "Estus Flask",
+      "Dark Sigil",
+      "Lordvessel",
+      "Titanite Shard"
+    ],
+    "correctAnswer": "Estus Flask",
+    "tags": [
+      "items",
+      "dark souls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6592vubmb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Where does the journey begin?",
+    "explanation": "Players start their adventure in Firelink Shrine, which serves as the hub area.",
+    "options": [
+      "Firelink Shrine",
+      "Blighttown",
+      "Anor Londo",
+      "New Londo Ruins"
+    ],
+    "correctAnswer": "Firelink Shrine",
+    "tags": [
+      "locations",
+      "dark souls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9bb8heso4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Who is the final boss of the first Dark Souls game?",
+    "explanation": "Gwyn, Lord of Cinder, is defeated in the final area of the game to reignite the flame.",
+    "options": [
+      "Gwyn the Lord",
+      "Ornstein & Smough",
+      "Quelaag",
+      "Nito"
+    ],
+    "correctAnswer": "Gwyn the Lord",
+    "tags": [
+      "bosses",
+      "dark souls",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "586pezi79",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Dark Souls oyununun başlangıç bölgesi hangisidir?",
+    "explanation": "Oyun ilk ateş noktası olarak Firelink Shrine ile başlar ve burası ana kule girişidir.",
+    "options": [
+      "Firelink Shrine",
+      "Anor Londo",
+      "Sen's Fortress",
+      "Blighttown"
+    ],
+    "correctAnswer": "Firelink Shrine",
+    "tags": [
+      "Dark Souls",
+      "Lore",
+      "Basit"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k7qc2l7ux",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Canınızı yenilemek için kullanılan nesne hangisidir?",
+    "explanation": "Kırmızı gözyaşları flakon, canınızı ve ruhunuzu yenilemek için kullanılan temel eşyadır.",
+    "options": [
+      "Flask of Crimson Tears",
+      "Estus Flakon",
+      "Potion",
+      "Heal Stone"
+    ],
+    "correctAnswer": "Flask of Crimson Tears",
+    "tags": [
+      "Dark Souls",
+      "Combat",
+      "Eşya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ocp4sqvy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Dark Souls'un final boss kimdir?",
+    "explanation": "İlk Ateş'in sonu için Gwyn, Lord of Cinder ile savaşılır ve oyunun final bossudur.",
+    "options": [
+      "Gwyn, Lord of Cinder",
+      "Ornstein ve Smough",
+      "Seath the Scaleless",
+      "Sif"
+    ],
+    "correctAnswer": "Gwyn, Lord of Cinder",
+    "tags": [
+      "Dark Souls",
+      "Boss",
+      "Final Boss"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "h56y5owf0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "İlk Ateş neyi temsil eder?",
+    "explanation": "İlk Ateş, dünya ve yaşamın sembolüdür; tükenişi çağlara geçiş anlamına gelir.",
+    "options": [
+      "Dünyanın varoluşunu",
+      "Kralın gücünü",
+      "Cenneti",
+      "Cehennemi"
+    ],
+    "correctAnswer": "Dünyanın varoluşunu",
+    "tags": [
+      "Dark Souls",
+      "Lore",
+      "Mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ltukoeoyb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "Oyunun dünyasını yok eden ana lanet hangisidir?",
+    "explanation": "Canlanı (Undead Curse), dünyayı yok eden ve karakterlerin ölümsüzleşmesini sağlayan ana lanettir.",
+    "options": [
+      "Yüklük Laneti",
+      "Undead Curse",
+      "Kralın Laneti",
+      "Ateşin Laneti"
+    ],
+    "correctAnswer": "Undead Curse",
+    "tags": [
+      "Dark Souls",
+      "Lore",
+      "Curse"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3otl5lb7i",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Dark Souls oyununun ilk geliştiricisi ve baş tasarımcısı kimdir?",
+    "explanation": "Dark Souls serası FromSoftware şirketi tarafından geliştirilmiştir ve Hidetaka Miyazaki baş tasarımcı olarak görev yapmıştır.",
+    "options": [
+      "FromSoftware",
+      "Hideo Kojima",
+      "Yojiro Hayashi",
+      "Takeshi Mizuno"
+    ],
+    "correctAnswer": "FromSoftware",
+    "tags": [
+      "Dark Souls",
+      "Geliştirici",
+      "Baş Karakter"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4kttojrme",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Dark Souls oyununda 'İmpala' neyi simgeler?",
+    "explanation": "İmpala, Dark Souls'un ana karakteri olan insan figürü olup güneşin simgesidir ve oyunun dünya yapısını temsil eder.",
+    "options": [
+      "Güneşi",
+      "Ayı",
+      "Yıldızı",
+      "Kuşu"
+    ],
+    "correctAnswer": "Güneşi",
+    "tags": [
+      "Dark Souls",
+      "Sembolizm",
+      "Dünya Yapısı"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iwbazch4m",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Dark Souls oyununun hikayesindeki 'Anor Londo' kenti ne anlama gelir?",
+    "explanation": "Anor Londo, 'Anor' (güneş) ve 'Londo' (kent/konum) kelimelerinin birleşiminden oluşur ve 'Güneş Kenti' anlamına gelir.",
+    "options": [
+      "Güneş Kenti",
+      "Ateş Kenti",
+      "Kara Kent",
+      "Buz Kenti"
+    ],
+    "correctAnswer": "Güneş Kenti",
+    "tags": [
+      "Dark Souls",
+      "Yer İsimleri",
+      "Hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ce4jpq8q0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "Dark Souls oyununun ilk DLC'sinin adı nedir?",
+    "explanation": "Dark Souls'un ilk DLC'si 'Artorias of the Abyss' olup, Artorias karakterinin hikayesini ve yeni alanları içerir.",
+    "options": [
+      "Darksouls II",
+      "Ashes of Ariandel",
+      "Artorias of the Abyss",
+      "Ringed City"
+    ],
+    "correctAnswer": "Artorias of the Abyss",
+    "tags": [
+      "Dark Souls",
+      "DLC",
+      "Ek İçerik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ulsm4pqn8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Dark Souls oyununda 'Estus Flask' ne işe yarar?",
+    "explanation": "Estus Flask, Dark Souls oyununda can barını doldurmak ve karakterin sağlığını iyileştirmek için kullanılan temel eşyadır.",
+    "options": [
+      "Can Dondur",
+      "Can İyileştir",
+      "Zindan Açar",
+      "Hız Artırır"
+    ],
+    "correctAnswer": "Can İyileştir",
+    "tags": [
+      "Dark Souls",
+      "Eşya",
+      "Oynanış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9ml5fr7ax",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Dark Souls oyununun temel lore'sunda Gwyn karakteri kimdir?",
+    "explanation": "Gwyn, İlk Ateşi yakan ilk Lorddur ve Dark Souls evreninin kurucusu olarak bilinir.",
+    "options": [
+      "İlk Ateşi Yakmış ve Dünyayı Kurmuş Tanrı",
+      "Bir Düşman Bossu",
+      "Oyuncunun Başlangıç Karakteri",
+      "Lordvessel'in Koruyucusu"
+    ],
+    "correctAnswer": "İlk Ateşi Yakmış ve Dünyayı Kurmuş Tanrı",
+    "tags": [
+      "Lore",
+      "Gwyn",
+      "Dark Souls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2km7jlg0p",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Oyunda silahları yükseltmek için hangi materyale ihtiyaç duyulur?",
+    "explanation": "Titanite, Dark Souls'ta silah ve büyüyü yükseltmek için kullanılan temel materyaldir.",
+    "options": [
+      "Titanite",
+      "İsimsiz Kaya",
+      "Ateş Taşı",
+      "Kara Çelik"
+    ],
+    "correctAnswer": "Titanite",
+    "tags": [
+      "Gameplay",
+      "Upgrade",
+      "Silahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "28yieqxti",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Fire Keeper ile konuşmak ve Ateşi Yenmek görevi yerine getirmek hangi mekaniğe dayanır?",
+    "explanation": "Player'ın Humanity statüsüne sahip olması Fire Keeper ile iletişim kurmak ve Ateşi Yenmek görevi için gereklidir.",
+    "options": [
+      "Humanity Statüsü",
+      "İlk Zırhı Taşımak",
+      "Boss'ları Defetmek",
+      "Karakter İsmini Değiştirmek"
+    ],
+    "correctAnswer": "Humanity Statüsü",
+    "tags": [
+      "Mekanik",
+      "Fire Keeper",
+      "Oyun"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "d122oonik",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Dark Souls'ta 'Humanity' (İnsanlık) nesnesi ne işe yarar?",
+    "explanation": "Humanity statüsü oyuncuyu insan hâline getirerek düşmanları lanetli duruma geçirmeyi ve bazı eşyaları kullanmayı sağlar.",
+    "options": [
+      "Düşmanları İnsan Haline Getirir",
+      "Zırhı Artırır",
+      "Canı Doldurur",
+      "Hareket Hızını Yavaşlatır"
+    ],
+    "correctAnswer": "Düşmanları İnsan Haline Getirir",
+    "tags": [
+      "Gameplay",
+      "Statü",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hlv8dmjx6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "Lordvessel'in ana amacı oyunun lore'su açısından nedir?",
+    "explanation": "Lordvessel, Ateşi Yenmek görevi için kullanılan ana eşyadır ve hikayenin son aşamasında İlk Ateşin sona ermesiyle ilgilidir.",
+    "options": [
+      "Ateşin Sonunu Getirmek İçin",
+      "Yeni Bir Dünyayı Oluşturmak İçin",
+      "Gwyn'in Ölümünü Engellemek İçin",
+      "Lordvessel'i Korumak İçin"
+    ],
+    "correctAnswer": "Ateşin Sonunu Getirmek İçin",
+    "tags": [
+      "Lore",
+      "Lordvessel",
+      "Dark Souls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mxzs6mv0w",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Dark Souls oyununda Chosen Undead olarak oyuncudan başta beklenen temel görev nedir?",
+    "explanation": "Oyunun ana hikayesi, dünyayı lanet altındaki 'Hollow' durumuna düşürmekten kaçmak ve İlk Ateşi yeniden yakarak cenneti korumak üzerine kuruludur.",
+    "options": [
+      "Dünyadaki tüm kapıları açmak",
+      "İlk Ateşi Yeniden Yakmak",
+      "Kraliçe Yüzünü bulmak",
+      "Siyah Firari'yi yenmek"
+    ],
+    "correctAnswer": "İlk Ateşi Yeniden Yakmak",
+    "tags": [
+      "dark-souls",
+      "lore",
+      "objective"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y83tiekzd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Dark Souls lore'unda karakterlerin 'Hollow' olması neyi ifade eder?",
+    "explanation": "'Hollow' durumu, dünyadaki 'İnsanlık' (Humanity) kaynaklı özelliğin yitirilmesini ve lanetten etkilenerek zombi gibi davranışlar sergilemeyi ifade eder.",
+    "options": [
+      "Yeni bir silah setine sahip olmak",
+      "İnsanlık yitirmiş, lanet altındaki düşük formda var olan karakterler",
+      "Bonfire ateşinde dinlenmekten bahsedilirken kullanılan terim",
+      "Oyuncunun seviyesinin artması durumunda oluşan durum"
+    ],
+    "correctAnswer": "İnsanlık yitirmiş, lanet altındaki düşük formda var olan karakterler",
+    "tags": [
+      "dark-souls",
+      "lore",
+      "mechanic"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8nkvxj1s4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Bonfire adı verilen ateş noktaları oyuncuların oyun içinde ne işlevi görür?",
+    "explanation": "Bonfire'ler oyuncuların canını yenilemesi, eşyalarını kaydetmesi ve seviye atlaması için kullanılan temel dinlenme noktalarıdır.",
+    "options": [
+      "Sadece diyalog seçenekleri açmak",
+      "Can dolumu ve eşya kayıt noktası olarak kullanma",
+      "Zorla düşmanlara saldırı yapmak",
+      "Görsel efektleri değiştirmek"
+    ],
+    "correctAnswer": "Can dolumu ve eşya kayıt noktası olarak kullanma",
+    "tags": [
+      "dark-souls",
+      "mechanic",
+      "system"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "q66gi2a2n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "Gwyn karakteri oyunun sonunda hangi rolü üstlenir?",
+    "explanation": "Gwyn, 'Lord of Cinder' olarak anılır ve İlk Ateşi korumak için dünyaya gelmiş bir Tanrı'dır; oyunun sonunda onu yenerek ateşin söndürülmesini sağlayabilirsiniz.",
+    "options": [
+      "Karanlık Yılan'ın lideri",
+      "İlk Ateşin Koruyucusu (Cinder Lord)",
+      "Dünyanın en güçlü kılıcını yapan zanaatkar",
+      "Oyunun ilk NPC'si olan 'Blacksmith'"
+    ],
+    "correctAnswer": "İlk Ateşin Koruyucusu (Cinder Lord)",
+    "tags": [
+      "dark-souls",
+      "lore",
+      "boss"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s2r6p6s96",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "Dark Souls'un iki finalinden biri olan 'Ashen World' finali neyi simgeler?",
+    "explanation": "'Ashen World' finali, İlk Ateşi korumayı reddedip sönmeye izin vererek dünyayı 'Kara Dünya'ya (Ashen) dönüştürmeyi temsil eder.",
+    "options": [
+      "Dünyanın tamamen yok edilmesi",
+      "İlk Ateşin sönmeye bırakılması ve dünyanın küllerine dönüşmesi",
+      "Oyuncunun yeni bir karakter ile başlamak zorunda kalması",
+      "Gwyn'in tekrar doğuşu"
+    ],
+    "correctAnswer": "İlk Ateşin sönmeye bırakılması ve dünyanın küllerine dönüşmesi",
+    "tags": [
+      "dark-souls",
+      "ending",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vby8mn37p",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "Dark Souls oyununun geçtiği ana krallığın adı nedir?",
+    "explanation": "Lordran, Dark Souls 1'in geçtiği ana krallık adıdır ve İlk Alev tarafından yönetilen topraklardır.",
+    "options": [
+      "Astora",
+      "Lordran",
+      "Drangleic",
+      "Vordt"
+    ],
+    "correctAnswer": "Lordran",
+    "tags": [
+      "Lore",
+      "Konum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ttdefox6x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Bonfirelerde canı yenilemek için kullanılan temel nesne hangisidir?",
+    "explanation": "Estus Zambili, Dark Souls oyun serisinde canı yenilemek ve hasar almaları azaltmak için kullanılan temel sağlık eşyasıdır.",
+    "options": [
+      "Estus Zambili",
+      "Zehirli Şişe",
+      "Ateş Ruhu",
+      "Titanite Parçası"
+    ],
+    "correctAnswer": "Estus Zambili",
+    "tags": [
+      "Oynanış",
+      "Eşya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "todjn9a96",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Artorias'ın zırhı hangi bölgede bulunur?",
+    "explanation": "Artorias'ın zırhı, Lordran'ın İryhill bölgesindeki Irithyll Dungeon (Abyss) alanında bulunabilir.",
+    "options": [
+      "Firelink Tapınağı",
+      "İryhill",
+      "Anor Londo",
+      "Blighttown"
+    ],
+    "correctAnswer": "İryhill",
+    "tags": [
+      "Lore",
+      "Eşya Konumu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p2wdxoomz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Dark Souls 1'in son patronu kimdir?",
+    "explanation": "Gwyn, İlk Alev'in Lordu olarak oyunun sonunda karşılaşılan ve İlk Alevi bağlamayı seçen son ana patronudur.",
+    "options": [
+      "Ornstein ve Smough",
+      "Gwyn",
+      "Sif",
+      "Artorias"
+    ],
+    "correctAnswer": "Gwyn",
+    "tags": [
+      "Patronlar",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ou81vjhs2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "Eğer son aşamada ateşi bağlamazsanız ne olur?",
+    "explanation": "Eğer İlk Alevi bağlamazsanız (Karanlık Sonu), Lordran karanlık dünyaya dönüşür ve Dünya Ruhu sönük kalır.",
+    "options": [
+      "Dünya yok olur",
+      "Oyun yeniden başlar",
+      "Ateş söner ve Dünya Kararan",
+      "Güneş patlar"
+    ],
+    "correctAnswer": "Ateş söner ve Dünya Kararan",
+    "tags": [
+      "Sonuçlar",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8cz81mr1h",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EASY",
+    "question": "What is the primary item used to restore health in Dark Souls?",
+    "explanation": "The Estus Flask is the standard consumable for healing wounds in Dark Souls.",
+    "options": [
+      "Estus Flask",
+      "Magic Potion",
+      "Holy Water",
+      "Health Stone"
+    ],
+    "correctAnswer": "Estus Flask",
+    "tags": [
+      "mechanics",
+      "items"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b3n2vdcqv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the main hub area where players can rest and repair equipment?",
+    "explanation": "Firelink Shrine serves as the central hub connecting most of the game's areas.",
+    "options": [
+      "Firelink Shrine",
+      "Undead Parish",
+      "Anor Londo",
+      "New Londo Ruin"
+    ],
+    "correctAnswer": "Firelink Shrine",
+    "tags": [
+      "locations",
+      "hub"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ndxynouf3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "GENERAL",
+    "question": "Which status effect occurs when a player's Humanity level reaches zero?",
+    "explanation": "When humanity is depleted, the player becomes Hollow, losing their ability to summon phantoms and taking on a zombie-like appearance.",
+    "options": [
+      "Hollow",
+      "Blessed",
+      "Cursed",
+      "Awakened"
+    ],
+    "correctAnswer": "Hollow",
+    "tags": [
+      "mechanics",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ohrejtiwe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "Which NPC is famously associated with carrying a lantern and seeking the First Flame?",
+    "explanation": "Solaire of Astora is a popular NPC known for his quest to find the First Flame and his distinct dialogue.",
+    "options": [
+      "Solaire of Astora",
+      "Patches",
+      "Quelaag",
+      "Ornstein"
+    ],
+    "correctAnswer": "Solaire of Astora",
+    "tags": [
+      "npcs",
+      "characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wqmae9zw8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Dark Souls",
+    "difficulty": "EXPERT",
+    "question": "What is the name of the final boss fought at the end of Dark Souls 1?",
+    "explanation": "Gwyn is the primary final boss who reigns over the First Flame and must be defeated to progress.",
+    "options": [
+      "Gwyn, Lord of Cinder",
+      "Nito",
+      "Artorias",
+      "Seath"
+    ],
+    "correctAnswer": "Gwyn, Lord of Cinder",
+    "tags": [
+      "bosses",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

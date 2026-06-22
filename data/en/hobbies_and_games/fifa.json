@@ -1,0 +1,1119 @@
+[
+  {
+    "id": "d8bos8g9v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA serisinde en yüksek seviye rekabeti hangi oyun modunda yapılır?",
+    "explanation": "Ultimate Team (FUT), FIFA serisinin en popüler ve rekabetçi modudur. Burada oyuncular kart toplayarak takımlar oluşturur ve diğer oyuncularla online rekabet eder.",
+    "options": [
+      "Career Mode",
+      "Ultimate Team",
+      "Online Seasons",
+      "Tournaments"
+    ],
+    "correctAnswer": "Ultimate Team",
+    "tags": [
+      "FIFA",
+      "Oyun Modları",
+      "Rekabet"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9tyc5xt1q",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA Ultimate Team'de oyuncu kartları hangi sistemle satılır?",
+    "explanation": "Gold Pack, FIFA Ultimate Team'de oyuncuların kart alabileceği temel paket türüdür. Pazarlarda satılan ve açılarak değerli oyuncu kartları elde edilir.",
+    "options": [
+      "Gold Pack",
+      "Team of the Week",
+      "Ultimate Edition",
+      "Player of the Month"
+    ],
+    "correctAnswer": "Gold Pack",
+    "tags": [
+      "FIFA",
+      "Card Sistemi",
+      "Pazarlama"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "20zmwp4fb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA 23'te hangi özellik 'Career Mode' için yeni eklendi?",
+    "explanation": "FIFA 23'te Kadınlar için özel bir kariyer modu eklendi, bu sayede kadın futbolcuların menajerlik deneyimi yaşayabiliyor.",
+    "options": [
+      "Women's Career",
+      "Manager Career",
+      "Agent Career",
+      "Coach Career"
+    ],
+    "correctAnswer": "Women's Career",
+    "tags": [
+      "FIFA 23",
+      "Career Mode",
+      "Yeni Özellikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vu17it7xb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA Ultimate Team'de 'Squad Building Challenge' nedir?",
+    "explanation": "Squad Building Challenge (SBCh), belirli bütçe ve kurallar içinde takım oluşturup diğer oyuncularla yarışabileceğiniz FIFA modudur.",
+    "options": [
+      "Takım Oluşturma Yarısı",
+      "Oyuncu Satış Platformu",
+      "Türkiye Ligi Modu",
+      "Eski Takım Sistemi"
+    ],
+    "correctAnswer": "Takım Oluşturma Yarısı",
+    "tags": [
+      "FIFA",
+      "FUT",
+      "Yarışma Sistemi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s6z18rpsp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA serisinde 'Pro Clubs' hangi oyun tarzını sunar?",
+    "explanation": "Pro Clubs, oyuncuların gerçek hayattaki takımlarına benzer şekilde kendi takımını yönetip diğer takımlarla rekabet edebileceği FIFA modudur.",
+    "options": [
+      "Takım Yönetimi",
+      "Bireysel Rekabet",
+      "Gerçek Takımlarla Oynama",
+      "Sadece Tek Oyuncu"
+    ],
+    "correctAnswer": "Takım Yönetimi",
+    "tags": [
+      "FIFA",
+      "Pro Clubs",
+      "Oyun Modları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "21njfaozd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "FIFA serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "İlk FIFA oyunu NES platformunda 1993 yılında çıktı.",
+    "options": [
+      "1992",
+      "1993",
+      "1994",
+      "1995"
+    ],
+    "correctAnswer": "1993",
+    "tags": [
+      "fifa_games",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ofjx64eat",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "Hangi mod ilk kez FIFA 14'te eklendi?",
+    "explanation": "Ultimate Team modu FIFA 14 ile tanıtıldı.",
+    "options": [
+      "Ultimate Team",
+      "Career Mode",
+      "Online Season",
+      "Pro Clubs"
+    ],
+    "correctAnswer": "Ultimate Team",
+    "tags": [
+      "fifa_modes",
+      "general_knowledge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gfu7od8jy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "Hangi takım en fazla Dünya Kupası kazandı?",
+    "explanation": "Brazil 1958, 1962, 1970, 1994, 2002 yıllarında şampiyon oldu.",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "France"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "football_history",
+      "easy_trivia"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qxgek6ohw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "Hangi futbolcu FIFA serisinde en çok kez kapakta yer aldı?",
+    "explanation": "Messi FIFA 16, 17, 18 gibi versiyonlarda kapakta yer aldı.",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Neymar",
+      "Kylian Mbappé"
+    ],
+    "correctAnswer": "Lionel Messi",
+    "tags": [
+      "player_covers",
+      "general_knowledge"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "57nqajuo7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA 23'te en yüksek puanı alan futbolcu kimdir?",
+    "explanation": "FIFA 23'te Mbappé'nin ratingi 96 olarak belirlenmiştir.",
+    "options": [
+      "Kylian Mbappé",
+      "Vinícius Júnior",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "correctAnswer": "Kylian Mbappé",
+    "tags": [
+      "expert_fifa",
+      "ratings"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rji7cuqar",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA oyununda 'Ultimate Team' modunda oyuncular hangi şekilde edinebilir?",
+    "explanation": "Ultimate Team modunda oyuncular para, oyun içi kartlar (pack açma) ve FCP puanları ile yeni oyuncu edinebilirler.",
+    "options": [
+      "Sadece maç kazanarak",
+      "Para, kartlar ve puanlarla",
+      "Hepsi doğru değil",
+      "Tek oyuncu ile"
+    ],
+    "correctAnswer": "Para, kartlar ve puanlarla",
+    "tags": [
+      "FIFA",
+      "Ultimate Team",
+      "Oyun Modları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i1e7czz0f",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA Career Mode'da hangi seçenek oyuncuların kariyerini yönetir?",
+    "explanation": "Career Mode'da oyuncular hem kendi kariyerlerini yönetebilir hem de takım başkanı/antrenörü olarak çalışabilir.",
+    "options": [
+      "Tek oyuncu olarak takım kurar",
+      "Takım antrenörü olarak çalışır",
+      "Hem oyuncu hem antrenör olabilir",
+      "Yapay zeka ile oynanır"
+    ],
+    "correctAnswer": "Hem oyuncu hem antrenör olabilir",
+    "tags": [
+      "FIFA",
+      "Career Mode",
+      "Oyun Modları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3isklwvbc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA oyunlarında 'Pro Clubs' modu neyi içerir?",
+    "explanation": "Pro Clubs modunda oyuncular arkadaşlarıyla bir lig takımı oluşturur ve bu takımın üyesi olarak maçlarda oynarlar.",
+    "options": [
+      "Tek oyuncu ile oynama",
+      "Arkadaş grubu ile takım oluşturma",
+      "Gerçek oyunculara atama",
+      "Tek maç yönetme"
+    ],
+    "correctAnswer": "Arkadaş grubu ile takım oluşturma",
+    "tags": [
+      "FIFA",
+      "Pro Clubs",
+      "Oyun Modları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dewh85qz0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA oyunlarında 'OVR' puanı neyi temsil eder?",
+    "explanation": "OVR (Overall Rating) puanı oyuncuların genel yetenek seviyesini gösterir, 1-99 arası değer alır.",
+    "options": [
+      "Takım puanı",
+      "Oyuncu yetenek seviyesi",
+      "Maç skoru",
+      "Lig sıralaması"
+    ],
+    "correctAnswer": "Oyuncu yetenek seviyesi",
+    "tags": [
+      "FIFA",
+      "Oyuncu Yetenekleri",
+      "Terminoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tnsdj5yyj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA oyunlarında 'Tiki-Taka' stili hangi takımla özdeşleşmiştir?",
+    "explanation": "Tiki-Taka oyunu FC Barcelona'nın Johan Cruyff dönemiyle özdeşleşmiş oyun stili olarak FIFA'da temsil edilir.",
+    "options": [
+      "Real Madrid",
+      "FC Barcelona",
+      "Manchester United",
+      "Bayern Munich"
+    ],
+    "correctAnswer": "FC Barcelona",
+    "tags": [
+      "FIFA",
+      "Takımlar",
+      "Oyun Stilleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wn659hwod",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "FIFA oyunlarında 'Ultimate Team' (UT) modunda ne tür bir deneyim sunar?",
+    "explanation": "Ultimate Team modunda oyuncular kendi takımını kurabilir, kart alabilir ve lig maçlarında diğer oyuncularla rekabet edebilirler.",
+    "options": [
+      "Takım kurup lig maçları oynama",
+      "Tek başına açık alan oyunu",
+      "Sadece kariyer modu",
+      "Hikayeli RPG deneyimi"
+    ],
+    "correctAnswer": "Takım kurup lig maçları oynama",
+    "tags": [
+      "FIFA",
+      "Ultimate Team",
+      "Modlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a0xpzpum2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA Career Mode'da hangi rolü üstlenebilirsin?",
+    "explanation": "Career Mode'da oyuncular hem futbolcu olarak kariyerlerini yönetebilir hem de kulüp yöneticisi olarak takımını idare edebilirler.",
+    "options": [
+      "Sadece futbolcu",
+      "Sadece kulüp yöneticisi",
+      "Hem futbolcu hem de kulüp yöneticisi",
+      "Teknik direktör seçeneği yok"
+    ],
+    "correctAnswer": "Hem futbolcu hem de kulüp yöneticisi",
+    "tags": [
+      "FIFA",
+      "Career Mode",
+      "Rol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z4xhuotqa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA 17'den itibaren hangi teknolojiye geçildi?",
+    "explanation": "FIFA 17'den itibaren HyperMotion Technology kullanılarak gerçek maçlar ile oyun hareketleri senkronize edildi.",
+    "options": [
+      "Procedural Animation Technology",
+      "Motion Transfer System",
+      "HyperMotion Technology",
+      "PlayStyles™ Sistemi"
+    ],
+    "correctAnswer": "HyperMotion Technology",
+    "tags": [
+      "FIFA",
+      "Teknoloji",
+      "Gerçekçilik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c3iosiwr4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA oyunlarında 'PlayStyles™' sistemi neyi temsil eder?",
+    "explanation": "PlayStyles™ sistemi gerçek futbolcuların yeteneklerini, zaaflarını ve tarzlarını oyun içi kartlarla temsil eder.",
+    "options": [
+      "Oyuncu kartı puanları",
+      "Gerçekçi oyuncu yetenek ve özellikleri",
+      "Takım formasyonu",
+      "Maç skor tablosu"
+    ],
+    "correctAnswer": "Gerçekçi oyuncu yetenek ve özellikleri",
+    "tags": [
+      "FIFA",
+      "PlayStyles",
+      "Oyuncular"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3y5hxg6dw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "FIFA Ultimate Team'de 'Objectives' (Hedefler) ne işlev görür?",
+    "explanation": "Objectives, oyuncuların belirli maçlarda veya liglerde görevleri tamamlayarak yeni kart kazanmalarını sağlar.",
+    "options": [
+      "Takım puanı artırır",
+      "Kart kazanmak için görevler",
+      "Maç süresini kısaltır",
+      "Teknik direktör seçimi yapar"
+    ],
+    "correctAnswer": "Kart kazanmak için görevler",
+    "tags": [
+      "FIFA",
+      "Ultimate Team",
+      "Hedefler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6q41lqz49",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "FIFA oyunlarında 'Ultimate Team' modunda oyuncu kartlarını nasıl geliştirirsin?",
+    "explanation": "Ultimate Team modunda oyuncular XP (deneyim), Oyul (oyun puanı) ve Para kullanarak kartlarını geliştirebilirler. Oylar, özel kulüpler ve oyuncuları almanızı sağlar.",
+    "options": [
+      "A) Sadece yeni oyuncular alarak",
+      "B) XP, Oylar ve Para kullanarak",
+      "C) Düşman takımlara geçerek",
+      "D) Oyun bitirme yaparak"
+    ],
+    "correctAnswer": "B) XP, Oylar ve Para kullanarak",
+    "tags": [
+      "FIFA",
+      "Ultimate Team",
+      "Oyuncu Kartları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "oqgkum6ns",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA 23'te en çok satılan sürüm hangisidir?",
+    "explanation": "Ultimate Team Edition, FIFA serisinin en popüler modu olan Ultimate Team'i içerdiği için genellikle en çok satan sürümdür.",
+    "options": [
+      "A) Ultimate Team Edition",
+      "B) Career Mode Edition",
+      "C) Volta Edition",
+      "D) Kick Off Edition"
+    ],
+    "correctAnswer": "A) Ultimate Team Edition",
+    "tags": [
+      "FIFA 23",
+      "Sürümler",
+      "Satışlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6tmxsjlb2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA oyunlarında 'Volta Football' hangi spor disiplinini temsil eder?",
+    "explanation": "Volta Football, FIFA'da sokak ve mahalle maçlarını oynadığınız alternatif bir moddur. Daha hızlı ritimli sokak futbolunu içerir.",
+    "options": [
+      "A) Profesyonel lig futbolu",
+      "B) Karşılaştırmalı sokak futbolu",
+      "C) Kadın futbolu",
+      "D) Amator futbol"
+    ],
+    "correctAnswer": "B) Karşılaştırmalı sokak futbolu",
+    "tags": [
+      "Volta Football",
+      "Sokak Futbolu",
+      "FIFA Modları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f5bii0zf6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA oyunlarında oyuncu pozisyonları arasında hangisi en savunmacıdır?",
+    "explanation": "Goalkeeper (Kaleci), takımın en savunmacı pozisyonundadır. Diğer oyuncular ise daha hücum veya orta saha görevleri üstlenir.",
+    "options": [
+      "A) Striker",
+      "B) Midfielder",
+      "C) Defender",
+      "D) Goalkeeper"
+    ],
+    "correctAnswer": "D) Goalkeeper",
+    "tags": [
+      "Oyuncu Pozisyonları",
+      "Takım Yapısı",
+      "Savunma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ulmtsibye",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA oyunlarında 'SBC' kısaltması neyi temsil eder?",
+    "explanation": "SBC, Squad Building Challenge anlamına gelir. Kartlarınızı belirli koşullara göre birleştirerek özel kartlar kazanabileceğiniz Ultimate Team modunun önemli mekaniklerinden biridir.",
+    "options": [
+      "A) Squad Building Challenge",
+      "B) Super Card Battle",
+      "C) Soccer Championship Box",
+      "D) Season Build Club"
+    ],
+    "correctAnswer": "A) Squad Building Challenge",
+    "tags": [
+      "SBC",
+      "Ultimate Team",
+      "Kartlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "liohl2vkg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "Which FIFA game mode allows you to manage a football club's finances and player transfers?",
+    "explanation": "In Career Mode, you fully control a football club's operations including budget management and player transfers.",
+    "options": [
+      "Ultimate Team",
+      "Career Mode",
+      "Online Multiplayer",
+      "Volta Football"
+    ],
+    "correctAnswer": "Career Mode",
+    "tags": [
+      "FIFA",
+      "Game Modes",
+      "Club Management"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fzk293xan",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "What is the primary purpose of FUT Packs in FIFA Ultimate Team?",
+    "explanation": "FUT Packs contain randomized player cards used to construct and upgrade your Ultimate Team roster.",
+    "options": [
+      "To unlock game modes",
+      "To build your team with player cards",
+      "To customize stadium designs",
+      "To earn career achievements"
+    ],
+    "correctAnswer": "To build your team with player cards",
+    "tags": [
+      "FIFA",
+      "Ultimate Team",
+      "Player Cards"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "586o1b1ah",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "Which game engine has been used in recent FIFA titles since 2017?",
+    "explanation": "EA Sports has utilized the Frostbite Engine for FIFA titles starting from FIFA 17 onwards.",
+    "options": [
+      "Unreal Engine",
+      "Frostbite Engine",
+      "Unity Engine",
+      "Id Tech"
+    ],
+    "correctAnswer": "Frostbite Engine",
+    "tags": [
+      "FIFA",
+      "Game Development",
+      "Technology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x83nx4sfd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "What feature was introduced in FIFA 22 related to dynamic commentary?",
+    "explanation": "FIFA 22 introduced Dynamic Match Audio for adaptive commentary based on in-game events.",
+    "options": [
+      "AI Voice Commentary",
+      "Pro Commentary Mode",
+      "Dynamic Match Audio",
+      "Commentary Highlight Reel"
+    ],
+    "correctAnswer": "Dynamic Match Audio",
+    "tags": [
+      "FIFA",
+      "Audio Features",
+      "Game Updates"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c3sz5iagu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "Which platform first released the original FIFA video game series?",
+    "explanation": "The original FIFA game launched in 1993 on Sega Genesis alongside other early platforms.",
+    "options": [
+      "PlayStation 4",
+      "Xbox Series X",
+      "Nintendo Switch",
+      "Sega Genesis"
+    ],
+    "correctAnswer": "Sega Genesis",
+    "tags": [
+      "FIFA",
+      "Gaming History",
+      "Platforms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2e7o8copl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA Dünya Kupası'na ilk kez katılan ülke hangisidir?",
+    "explanation": "Uruguay, 1930 yılında Buenos Aires'te düzenlenen ilk FIFA Dünya Kupası'na ev sahipliği yapan Uruguay'dan gelen turnuvada katılan ve kupa kazanan ilk ülkedir.",
+    "options": [
+      "Uruguay",
+      "İngiltere",
+      "Fransa",
+      "Almanya"
+    ],
+    "correctAnswer": "Uruguay",
+    "tags": [
+      "fifa",
+      "dunia-kupasi",
+      "tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yv2oly3x2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "Şu anki (2024) FIFA Dünya Kupası hangi ülkede düzenlenmektedir?",
+    "explanation": "2024 yılı FIFA Dünya Kupası Fransa'da düzenlenmektedir. Turnuva 11-30 Temmuz tarihleri arasında oynanacak.",
+    "options": [
+      "Arjantin",
+      "İspanya",
+      "Portekiz",
+      "Fransa"
+    ],
+    "correctAnswer": "Fransa",
+    "tags": [
+      "fifa",
+      "dunia-kupasi",
+      "2024"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r2x1dfkot",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "Hangi takım en çok FIFA Dünya Kupası kupa kazandı?",
+    "explanation": "Brezilya, 1958-2002 yılları arasında 6 kez FIFA Dünya Kupası kazanan en çok kupa sahibi ülkedir.",
+    "options": [
+      "Almanya",
+      "Fransa",
+      "İspanya",
+      "Brazil"
+    ],
+    "correctAnswer": "Brazil",
+    "tags": [
+      "fifa",
+      "dunia-kupasi",
+      "kazanma"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a4e3r628q",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA'nın başkanı kimdir?",
+    "explanation": "Gianni Infantino, 2016 yılından beri FIFA'nın başkanı olarak görev yapmaktadır.",
+    "options": [
+      "Sepp Blatter",
+      "Michel Platini",
+      "Gianni Infantino",
+      "Jorge Valda"
+    ],
+    "correctAnswer": "Gianni Infantino",
+    "tags": [
+      "fifa",
+      "basan",
+      "kurum"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "40dnd4x42",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "FIFA Dünya Kupası her kaç yılda bir düzenlenir?",
+    "explanation": "FIFA Dünya Kupası her 4 yılda bir düzenlenir. Son turnuva 2022'de, sonraki turnuva 2026 yılında oynanacak.",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "4 yıl",
+      "6 yıl"
+    ],
+    "correctAnswer": "4 yıl",
+    "tags": [
+      "fifa",
+      "dunia-kupasi",
+      "süre"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "odh0m6b5c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA serisinde hangi yıl ilk kez 'Career Mode' özelliği eklendi?",
+    "explanation": "Career Mode, FIFA serisine 2006 yılında eklenen önemli özelliklerden biridir ve oyuncuların kulüp veya milli takım kariyerini yönetmelerine olanak sağlar.",
+    "options": [
+      "1993",
+      "2001",
+      "2006",
+      "2010"
+    ],
+    "correctAnswer": "2006",
+    "tags": [
+      "FIFA",
+      "Gaming History",
+      "Career Mode"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "57ncg7hcd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA Ultimate Team (FUT) modunda neler yapabilirsin?",
+    "explanation": "FUT modunda oyuncular gerçek veya kurgusal futbolcuların kartlarını toplayarak, takas edip ve satarak kendi ideal takımlarını oluşturabilirler.",
+    "options": [
+      "Sadece maç izlemek",
+      "Kartlar alıp satarak takım oluşturmak",
+      "Sadece online liglerde oynamak",
+      "Yapay zeka ile antrenman yapmak"
+    ],
+    "correctAnswer": "Kartlar alıp satarak takım oluşturmak",
+    "tags": [
+      "FIFA",
+      "Ultimate Team",
+      "Gaming Features"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8o5z8sf47",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA 23'teki 'Volta Football' modu hangi tür maçları içerir?",
+    "explanation": "Volta Football, FIFA 23'te eklenen ve caddelerde/sokaklarda oynanan informal futbol tarzı maçları içeren bir moddur.",
+    "options": [
+      "Profesyonel lig maçları",
+      "Kadın futbolcularla oynanan maçlar",
+      "Caddelerde ve sokaklarda oynanan informal maçlar",
+      "Tek kişilik antrenman maçları"
+    ],
+    "correctAnswer": "Caddelerde ve sokaklarda oynanan informal maçlar",
+    "tags": [
+      "FIFA 23",
+      "Volta Football",
+      "Gaming Modes"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xtjuidxz3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA oyunlarında 'Tiki-Taka' neyi ifade eder?",
+    "explanation": "Tiki-Taka, İspanyol millî takımında ve Barcelona gibi takımlarda uygulanan, kısa paslarla top hakimliği kurma stili olarak bilinir.",
+    "options": [
+      "Hızlı karşı saldırılar",
+      "İspanyol futbolcu teknik stili ve kısa paslar",
+      "Tek kişilik dribbling becerisi",
+      "Müdafaada kalma stratejisi"
+    ],
+    "correctAnswer": "İspanyol futbolcu teknik stili ve kısa paslar",
+    "tags": [
+      "FIFA Tactics",
+      "Tiki-Taka",
+      "Football Strategy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mrmgyb1a9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA serisinde 'Pro Clubs' modunda neler yapabilirsin?",
+    "explanation": "Pro Clubs'ta oyuncular arkadaşlarıyla birlikte, gerçek isimli futbolcuların takımlarını oluşturup yöneterek online maçlar oynayabilirler.",
+    "options": [
+      "Kendin tek başına takım kurmak",
+      "Arkadaşlarınla gerçek isimli oyuncuların takımlarını yönetip maçları oynamak",
+      "Tek kişilik kariyer modu oynamak",
+      "Sadece antrenman maçları yapmak"
+    ],
+    "correctAnswer": "Arkadaşlarınla gerçek isimli oyuncuların takımlarını yönetip maçları oynamak",
+    "tags": [
+      "FIFA",
+      "Pro Clubs",
+      "Multiplayer Features"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "n9zwvjpb8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA serisinin ilk oyunu ne zaman piyasaya çıktı?",
+    "explanation": "FIFA serisinin ilk oyunu 1993 yılında Sega Mega Drive konsolu için piyasaya çıktı.",
+    "options": [
+      "1993",
+      "1995",
+      "1997",
+      "1999"
+    ],
+    "correctAnswer": "1993",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "FIFA",
+      "GENEL_BILGI"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "p7j5bw5cm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA 21'de hangi oyun modu artık mevcut değil?",
+    "explanation": "FIFA 21'de Rivals modu kaldırıldı ve artık mevcut değil. Ultimate Team, Career Mode ve Pro Clubs hala devam ediyor.",
+    "options": [
+      "Career Mode",
+      "Ultimate Team",
+      "Rivals",
+      "Pro Clubs"
+    ],
+    "correctAnswer": "Rivals",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "FIFA",
+      "OYUN_MODU"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rdseis70z",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA Ultimate Team (FUT) modunda oyuncular nasıl kazanır?",
+    "explanation": "FUT modunda oyuncular haftalık ve günlük görevleri tamamlayarak oyun oynayarak yeni kartlar kazanabilirler.",
+    "options": [
+      "Sadece para harcayarak",
+      "Oyun oynayarak kartlar elde ederek",
+      "Sadece arkadaşlardan alarak",
+      "Dükkandan sadece"
+    ],
+    "correctAnswer": "Oyun oynayarak kartlar elde ederek",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "FIFA",
+      "FUT_MODU"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "x5tnyt6b7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA serisinde 'The Journey' hikaye modu hangi oyundan itibaren başladı?",
+    "explanation": "The Journey hikaye modu ilk kez FIFA 16'da Alex Hunter karakteriyle başladı.",
+    "options": [
+      "FIFA 14",
+      "FIFA 15",
+      "FIFA 16",
+      "FIFA 17"
+    ],
+    "correctAnswer": "FIFA 16",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "FIFA",
+      "HIKAYE_MODU"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5ahpggqeg",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA serisinde 'Volta Football' modu ne zaman eklendi?",
+    "explanation": "Volta Football modu ilk kez FIFA 19'da eklendi ve sokak futbolu deneyimini sunar.",
+    "options": [
+      "FIFA 18",
+      "FIFA 19",
+      "FIFA 20",
+      "FIFA 21"
+    ],
+    "correctAnswer": "FIFA 19",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR",
+      "FIFA",
+      "VOLTA_MODU"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "27w1kl4wf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EASY",
+    "question": "FIFA serisi hangi şirket tarafından geliştirilmektedir?",
+    "explanation": "FIFA oyunları EA Sports tarafından geliştirilir ve yayımlanır.",
+    "options": [
+      "EA Sports",
+      "Ubisoft",
+      "Activision",
+      "Nintendo"
+    ],
+    "correctAnswer": "EA Sports",
+    "tags": [
+      "FIFA",
+      "Gaming",
+      "Platforms"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4uxdp1unf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA 20'de 'The Journey' modunda oynanan takım hangisidir?",
+    "explanation": "The Journey modunda Alex Hunter karakteri Real Madrid'de oynar.",
+    "options": [
+      "Manchester United",
+      "Real Madrid",
+      "FC Barcelona",
+      "Bayern Munich"
+    ],
+    "correctAnswer": "Real Madrid",
+    "tags": [
+      "FIFA",
+      "Story Mode",
+      "Journey"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "aj0qi7m97",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA Ultimate Team (FUT) modunda oyuncular nasıl elde edilir?",
+    "explanation": "FUT modunda oyuncular FUT paketi açarak veya Transfer Pazarı'ndan edinebilirsiniz.",
+    "options": [
+      "Sadece para ile",
+      "Paket açma ve transfer pazardan",
+      "Tekrar oynama ile",
+      "Düşük skor ile"
+    ],
+    "correctAnswer": "Paket açma ve transfer pazardan",
+    "tags": [
+      "FIFA",
+      "Ultimate Team",
+      "Economy"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mqdtt9qum",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA serisinin en yüksek oynanabilir skor oranına sahip mod hangisidir?",
+    "explanation": "Online Multiplayer modu FIFA serisinin en aktif oynanan ve yüksek skor oranına sahip modudur.",
+    "options": [
+      "Career Mode",
+      "Ultimate Team",
+      "Story Mode",
+      "Online Multiplayer"
+    ],
+    "correctAnswer": "Online Multiplayer",
+    "tags": [
+      "FIFA",
+      "Game Modes",
+      "Multiplayer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iqiog6l2w",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "EXPERT",
+    "question": "FIFA 24'te 'Hazard' takımı için doğru olan nedir?",
+    "explanation": "Eden Hazard, FIFA serisinde Chelsea takımının ikonik oyuncularından biridir.",
+    "options": [
+      "Real Madrid oyuncusu",
+      "Chelsea oyuncusu",
+      "Manchester City oyuncusu",
+      "Paris Saint-Germain oyuncusu"
+    ],
+    "correctAnswer": "Chelsea oyuncusu",
+    "tags": [
+      "FIFA",
+      "Players",
+      "Real World"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l0a9f7e6g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "FIFA",
+    "difficulty": "GENERAL",
+    "question": "FIFA oyunlarında 'Sprint' becerisi hangi pozisyon için daha etkilidir?",
+    "explanation": "Sprint becerisi genellikle forvet pozisyonunda daha etkili kullanılır.",
+    "options": [
+      "Defansör",
+      "Forvet",
+      "Kaleci",
+      "Orta Saha"
+    ],
+    "correctAnswer": "Forvet",
+    "tags": [
+      "FIFA",
+      "Gameplay",
+      "Positional"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

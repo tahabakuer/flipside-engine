@@ -653,5 +653,432 @@
     ],
     "questionType": "MCQ",
     "sourceType": "generated"
+  },
+  {
+    "id": "rd2e449ok",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Warcraft evreninde İnsanların (Humans) başkenti kabul edilen ve İttifak'ın kalbi olan şehir hangisidir?",
+    "explanation": "Stormwind, Warcraft evrenindeki İnsanların ana kenti ve İttifak'ın en önemli üssüdür. Şehir Lordaeron Krallığı'nın kalbi olarak bilinir.",
+    "options": [
+      "Silvermoon City",
+      "Stormwind City",
+      "Darnassus",
+      "Orgrimmar"
+    ],
+    "correctAnswer": "Stormwind City",
+    "tags": [
+      "Warcraft",
+      "İttifak",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v6y3ji8is",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft III: The Frozen Throne oyununda 'Lich King' (Kafatas Kralı) olarak bilinen karakterin gerçek ismi nedir?",
+    "explanation": "Arthas, Lordaeron'un Prensi olarak başlar ancak Lich King'e dönüşen karakterdir ve oyunun en önemli antagonistidir.",
+    "options": [
+      "Jaina Proudmoore",
+      "Illidan Stormrage",
+      "Arthas Menethil II",
+      "Tyrande Whisperwind"
+    ],
+    "correctAnswer": "Arthas Menethil II",
+    "tags": [
+      "Warcraft",
+      "Karakterler",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zsf4waolv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Yıldızlı Ormanların ortasında bulunan ve Night Elf'ların (Gece Yarası) ana kenti olan şehir hangisidir?",
+    "explanation": "Darnassus, Kalimdor'da bulunan Night Elf'ların ana başkentidir ve ormanların ortasında gizli bir kaledir.",
+    "options": [
+      "Thalassian",
+      "Darnassus",
+      "Undercity",
+      "Stratholme"
+    ],
+    "correctAnswer": "Darnassus",
+    "tags": [
+      "Warcraft",
+      "Night Elf",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jm3y2l567",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "İlk Dünya Savaşı sırasında Horda'nın (Orc) büyük kısmını insanlara karşı savaştıran şeytandan hangisidir?",
+    "explanation": "Mannoroth, Horda'nın ilk büyüsünü veren şeytandır ve Felaketin (The Ruin) merkezidir. Gul'dan tarafından içilerek Orc'lerin insan düşmanlığına dönmesi sağlanmıştır.",
+    "options": [
+      "Mannoroth",
+      "Kil'jaeden",
+      "Archimonde",
+      "Sargeras"
+    ],
+    "correctAnswer": "Mannoroth",
+    "tags": [
+      "Warcraft",
+      "Tarihçe",
+      "Şeytanlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tle5g2aqu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Uther Lightbringer'in kullandığı ve sonrasında Tirion Fordring'e geçen efsanevi kılıç hangisidir?",
+    "explanation": "Ashbringer (Kırk Şafak), Uther'ın kullandığı ve sonradan Tirion Fordring'e geçen efsanevi kılıçtır.",
+    "options": [
+      "Frostmourne",
+      "Ashbringer",
+      "Sword of Fists",
+      "Blade of the Sun"
+    ],
+    "correctAnswer": "Ashbringer",
+    "tags": [
+      "Warcraft",
+      "Eşyalar",
+      "Kılıçlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4gs3w207d",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Hangi gezegenin adı Warcraft evrenindeki ana dünyadır?",
+    "explanation": "Warcraft serisinin geçirdiği tüm olayların merkezinde bulunan gezegenin adı Azeroth'tır.",
+    "options": [
+      "Azeroth",
+      "Hyjal",
+      "Durotar",
+      "Northrend"
+    ],
+    "correctAnswer": "Azeroth",
+    "tags": [
+      "Lore",
+      "Temel Bilgi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a5ukbs461",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Thrall karakteri kimdir?",
+    "explanation": "Thrall, Orc ırkının lideri olan ve Grom Hellscream'ın oğludur. İlk olarak kölelikten kurtulan bir kahraman olarak bilinir.",
+    "options": [
+      "Grom Hellscream'ın oğlu",
+      "Lordaeron Kralı",
+      "Jaina Proudmoore'un kardeşi",
+      "Arthas'ın kuzeni"
+    ],
+    "correctAnswer": "Grom Hellscream'ın oğlu",
+    "tags": [
+      "Karakter",
+      "Horde"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wz8q6909l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Arthas tarafından kullanıldıktan sonra lanetlenen efsanevi kılıcın adı nedir?",
+    "explanation": "Arthas, Stratholme'deki olaylardan sonra Frostmourne kılığını kullanır ve bu kılığın laneti onu Lich King'e dönüştürür.",
+    "options": [
+      "Shadowmourne",
+      "Frostmourne",
+      "Khaz'Ghul",
+      "Zul'jin"
+    ],
+    "correctAnswer": "Frostmourne",
+    "tags": [
+      "Eşyalar",
+      "Civvlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cvwm3kpsh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft III'de 'Scourge' olarak bilinen ve Arthas tarafından yönetilen zombi ordusu hangisidir?",
+    "explanation": "The Scourge, Arthas'ın Frostmourne kılığını kullanmasıyla ortaya çıkan ve Lich King tarafından yönetilen ölüler ordusudur.",
+    "options": [
+      "Forsaken",
+      "Scourge",
+      "Night Elves",
+      "Tauren"
+    ],
+    "correctAnswer": "Scourge",
+    "tags": [
+      "Savaşçılar",
+      "Üst Düzey"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ujvloab7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "Burning Crusade genişlemesi ile birlikte Azeroth'a getirilen ve orijinal evreni (Draenor) olan yeni dünya hangisidir?",
+    "explanation": "Burning Crusade (Yanık Düşman) genişlemesi, Azeroth'a Outland adında yeni bir bölge ekledi ve bu dünya Draenor'un parçalanmış halidir.",
+    "options": [
+      "Outland",
+      "Northrend",
+      "Pandaria",
+      "Hyjal"
+    ],
+    "correctAnswer": "Outland",
+    "tags": [
+      "Genişleme",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "67c96ppwm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Warcraft evreninde Ork medeniyetinin ilk klan lideri ve sonradan Horde'nin Warchieffi olan karakter kimdir?",
+    "explanation": "Thrall, orkunların son zamanlarda klan lideri olarak ortaya çıkan ve Azeroth'a gelen ilk Warchief'tir.",
+    "options": [
+      "Thrall",
+      "Grom Hellscream",
+      "Durotan",
+      "Blackhand"
+    ],
+    "correctAnswer": "Thrall",
+    "tags": [
+      "lore",
+      "characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "25z03bznn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "İnsan İmparatorluğu'nun başkenti ve Warcraft evreninde en önemli şehirlerden biri olan yerleşim yeri hangisidir?",
+    "explanation": "Stormwind, İnsanlar tarafından kurulan ve uzun süreli bir başkent olarak kabul edilen şehirdir.",
+    "options": [
+      "Stormwind City",
+      "Ironforge",
+      "Darnassus",
+      "Undercity"
+    ],
+    "correctAnswer": "Stormwind City",
+    "tags": [
+      "locations",
+      "factions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ii1iwcs0n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft 3'ün son oyununda Lordaeron eyaletinin kralı olan Arthas Menethil'in dönüşümünden sonra kontrol edilen ordu nedir?",
+    "explanation": "Arthas, Frostmourne kılıcını kullanarak ruhları kontrol eden ve ölüm orduyu olarak bilinen 'The Scourge' lideri oldu.",
+    "options": [
+      "The Scourge",
+      "The Legion",
+      "The Iron Horde",
+      "The Alliance"
+    ],
+    "correctAnswer": "The Scourge",
+    "tags": [
+      "lore",
+      "factions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "96ssp7ko1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "Arthas Menethil'in son döneminde elinde taşıdığı, ruhları öldüren ve Lich King konumuna getiren efsanevi kılıcın adı nedir?",
+    "explanation": "Frostmourne, Arthas'ın ruhlarını kontrol eden ve onu Lich King yapmaya zorlayan kılıçtır.",
+    "options": [
+      "Aman'thul",
+      "Frostmourne",
+      "Ashbringer",
+      "Light's Hammer"
+    ],
+    "correctAnswer": "Frostmourne",
+    "tags": [
+      "items",
+      "lore",
+      "characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5rhhvd28d",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "Warcraft evreninin en büyük felaketi olarak kabul edilen 'Deathwing', hangi ejderha sınıflarının lideridir?",
+    "explanation": "Deathwing, Black Dragonflight'ın lideri olarak bilinir ve Burning Crusade sonrası evrene büyük bir felaket getiren ana figürdür.",
+    "options": [
+      "Red Dragonflight",
+      "Green Dragonflight",
+      "Blue Dragonflight",
+      "Black Dragonflight"
+    ],
+    "correctAnswer": "Black Dragonflight",
+    "tags": [
+      "lore",
+      "dragons",
+      "expansions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "80farndux",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EASY",
+    "question": "Warcraft evreninin geçtiği ana dünyanın adı nedir?",
+    "explanation": "Azeroth, Warcraft evrenindeki ana ve en önemli dünyadır. Tüm olaylar bu dünyada veya onun uzay-zamanı kopyalarında (düzlem) geçer.",
+    "options": [
+      "Draenor",
+      "Azeroth",
+      "Outland",
+      "Pandaria"
+    ],
+    "correctAnswer": "Azeroth",
+    "tags": [
+      "Lore",
+      "World Building"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pzl48a3w4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "Warcraft III'ün finalinde 'Lich King' olarak bilinen karakter kimdir?",
+    "explanation": "Arthas Menethil, bir kez Kraliyet Sarayı'ndaki Lich King kılıfına girdi ve sonradan Lich King olarak bilinen meşhur karakterdir.",
+    "options": [
+      "Arthas Menethil",
+      "Jaina Proudmoore",
+      "Thrall",
+      "Sylvanas Windrunner"
+    ],
+    "correctAnswer": "Arthas Menethil",
+    "tags": [
+      "Characters",
+      "Lich King"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f0qweq6x1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "GENERAL",
+    "question": "İmparatorluk Devrimi öncesi Orkların yaşadıkları evrenin adı nedir?",
+    "explanation": "Orkların ana vatanı Draenor'dur. Bu evrenin patlaması sonucu Orc'lar Azeroth'a sürüldü ve orada kaldılar.",
+    "options": [
+      "Azeroth",
+      "Draenor",
+      "Hyjal",
+      "Lordaeron"
+    ],
+    "correctAnswer": "Draenor",
+    "tags": [
+      "Lore",
+      "Races"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ngrtbhvb4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "World of Warcraft'ta 'Death Knight' (Ölüm Şövalyesi) sınıfı hangi genişlemede eklendi?",
+    "explanation": "Death Knight sınıfı, Lich King'in doğduğu genişlemede olan 'Wrath of the Lich King' ile oyuna eklendi.",
+    "options": [
+      "The Burning Crusade",
+      "Wrath of the Lich King",
+      "Cataclysm",
+      "Mists of Pandaria"
+    ],
+    "correctAnswer": "Wrath of the Lich King",
+    "tags": [
+      "Classes",
+      "Expansions"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6n3e9nyss",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Warcraft Evreni",
+    "difficulty": "EXPERT",
+    "question": "Sylvanas Windrunner karakterinin orijinal olarak hangi ırktan olduğu doğru bilinen bir detaydır?",
+    "explanation": "Sylvanas Windrunner aslında bir Night Elf (Gece Elf) idi, ancak daha sonra Banshee Queen olarak dönüştü.",
+    "options": [
+      "Human",
+      "Night Elf",
+      "Blood Elf",
+      "Orc"
+    ],
+    "correctAnswer": "Night Elf",
+    "tags": [
+      "Characters",
+      "Races"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
   }
 ]

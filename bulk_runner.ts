@@ -5,7 +5,7 @@ import { generateIndex } from './index_generator.js';
 
 const TARGET_PER_SUB = 50;
 const BATCH_SIZE = 5;
-const LANG = 'en';
+const LANG = 'en'; // Master dil her zaman 'en'
 
 async function bulkRun() {
   const categories = Object.keys(CATEGORY_CONFIG) as CategoryKey[];
@@ -14,7 +14,6 @@ async function bulkRun() {
     console.log(`\n📂 KATEGORİ: ${cat}`);
     
     for (const sub of CATEGORY_CONFIG[cat]) {
-      // Yeni fileHandler yapısına göre subcategory bilgisini de geçiyoruz
       let currentCount = getExistingQuestionCount(LANG, cat, sub);
       
       if (currentCount >= TARGET_PER_SUB) {
@@ -29,24 +28,21 @@ async function bulkRun() {
           const needed = TARGET_PER_SUB - currentCount;
           const countToRequest = needed >= BATCH_SIZE ? BATCH_SIZE : needed;
 
-          // Batch üretimi
           const batch = await generateBatch(cat, sub, countToRequest);
           
           if (batch && batch.length > 0) {
-            // DÜZELTME: 'questions' yerine 'batch' gönderiyoruz 
-            // ve yeni dosya yapısı için (cat, sub) ekliyoruz
             appendQuestionsToFile(batch, LANG, cat, sub);
             
             currentCount = getExistingQuestionCount(LANG, cat, sub);
-            console.log(`    ✅ ${batch.length} soru eklendi. Toplam: ${currentCount}`);
+            console.log(`     ✅ ${batch.length} soru eklendi. Toplam: ${currentCount}`);
           } else {
-            console.warn(`    ⚠️ Model boş veri döndü, bekleniyor...`);
+            console.warn(`     ⚠️ Model boş veri döndü, bekleniyor...`);
             await new Promise(r => setTimeout(r, 2000));
           }
           
           await new Promise(r => setTimeout(r, 500)); 
         } catch (e: any) {
-          console.error(`    ❌ Hata (${cat} - ${sub}):`, e.message || e);
+          console.error(`     ❌ Hata (${cat} - ${sub}):`, e.message || e);
           await new Promise(r => setTimeout(r, 3000));
         }
       }
@@ -55,7 +51,7 @@ async function bulkRun() {
 
   console.log("\n🏁 TÜM KATEGORİLER TAMAMLANDI!");
   console.log("📊 İndeks raporu oluşturuluyor...");
-  generateIndex(); 
+  await generateIndex(); 
 }
 
 bulkRun().catch((err) => {

@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "d770tupd7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Final Fantasy 1, 1987 yılında Famicom için piyasaya sürüldü ve serinin başlangıcını oluşturdu.",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correctAnswer": "1987",
+    "tags": [
+      "Final Fantasy",
+      "Tarih",
+      "Nesil V"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "98mxysyme",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy VII'de ana karakter Squall Leonhart'ın kılıcı ne adlandırılır?",
+    "explanation": "Squall Leonhart, Final Fantasy VII'de Buster Sword adında devasa bir kılıç kullanır.",
+    "options": [
+      "Masamune",
+      "Buster Sword",
+      "Excalibur",
+      "Lightning"
+    ],
+    "correctAnswer": "Buster Sword",
+    "tags": [
+      "Final Fantasy VII",
+      "Karakterler",
+      "Silahlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84856nn47",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Hangi Final Fantasy oyunu 'Chocobo Racing' ve 'Final Fantasy Tactics' gibi yan oyunlara sahiptir?",
+    "explanation": "Final Fantasy X, Chocobo Racing (mobil) ve Final Fantasy Tactics S gibi diğer oyunlarla bağlantılıdır.",
+    "options": [
+      "Final Fantasy VI",
+      "Final Fantasy IX",
+      "Final Fantasy X",
+      "Final Fantasy XII"
+    ],
+    "correctAnswer": "Final Fantasy X",
+    "tags": [
+      "Final Fantasy X",
+      "Yan Oyunlar",
+      "Platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ge39d10kf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy serisindeki 'Moogles' karakteri ilk kez hangi oyunda görülmüştür?",
+    "explanation": "Moogles, Final Fantasy IV'te ilk kez ortaya çıktı ve serinin en sevilen yan karakterlerinden biridir.",
+    "options": [
+      "Final Fantasy IV",
+      "Final Fantasy VI",
+      "Final Fantasy VII",
+      "Final Fantasy VIII"
+    ],
+    "correctAnswer": "Final Fantasy IV",
+    "tags": [
+      "Final Fantasy IV",
+      "Karakterler",
+      "Mogule"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zmzlpw2r5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy XV'de ana karakter Cloud Strife nerede bulunur?",
+    "explanation": "Cloud Strife, Final Fantasy VI'daki Wutai bölgesinde yer alır ve orada Squall ile tanışır.",
+    "options": [
+      "Grenland",
+      "Wutai",
+      "Midgaria",
+      "Kosmos"
+    ],
+    "correctAnswer": "Wutai",
+    "tags": [
+      "Final Fantasy XV",
+      "Bölümler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f4ps60chr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EASY",
+    "question": "Final Fantasy serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Final Fantasy 1, 1987 yılında NES platformu için Japonya tarafından piyasaya sürüldü. Serinin ilk oyunu bu yıl ile başlamıştır.",
+    "options": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "correctAnswer": "1987",
+    "tags": [
+      "Final Fantasy",
+      "Oyun Tarihi",
+      "Sistem Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ifa8p99of",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EASY",
+    "question": "Final Fantasy serisinin ikonik karakteri Cloud Strife hangi oyunun ana kahramanıdır?",
+    "explanation": "Cloud Strife, Final Fantasy VII'nin ana kahramanıdır ve serinin en tanınan karakterlerinden biridir. Shinra şirketi için çalışan bu karakter, Midgar şehrinde hikayeyi başlatır.",
+    "options": [
+      "Final Fantasy V",
+      "Final Fantasy VII",
+      "Final Fantasy X",
+      "Final Fantasy XII"
+    ],
+    "correctAnswer": "Final Fantasy VII",
+    "tags": [
+      "Final Fantasy",
+      "Karakterler",
+      "Oyun Kahramanları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ab375o5zx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy serisinde 'Chocobo' olarak bilinen hayvan ne amaçla kullanılır?",
+    "explanation": "Chocobo, Final Fantasy serisinde hızlı seyahat için kullanılır. Özellikle Final Fantasy VI'da Chocobo yarışları ve harita üzerinde hızlı hareket etme özelliği bulunur.",
+    "options": [
+      "Düşman saldırısı",
+      "Hızlı seyahat",
+      "Zaman kontrolü",
+      "Karakter canı"
+    ],
+    "correctAnswer": "Hızlı seyahat",
+    "tags": [
+      "Final Fantasy",
+      "Oyun Mekanikleri",
+      "Dünya Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lvrcr6ah1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy XII'nin hikayesi hangi türdeki bir dünyada geçer?",
+    "explanation": "Final Fantasy XII, Roa adlı bir dünyada geçer ve antik medeniyetlerin kalıntıları ile fütüristik teknolojilerin karışımını içerir. Hikaye eski zamanlardan kalan yapılar etrafında gelişir.",
+    "options": [
+      "Su altı şehirleri",
+      "Fütüristik teknoloji",
+      "Eski medeniyetler",
+      "Uzay istasyonları"
+    ],
+    "correctAnswer": "Eski medeniyetler",
+    "tags": [
+      "Final Fantasy",
+      "Hikaye",
+      "Dünya Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qiqzo5jxn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy serisinin en yüksek satılan oyunu hangisidir?",
+    "explanation": "Final Fantasy VII, serinin en yüksek satılan oyunudur. PlayStation çıktısı ile 10 milyondan fazla kopya satmıştır ve serinin en ikonik oyunu olarak kabul edilir.",
+    "options": [
+      "Final Fantasy I",
+      "Final Fantasy III",
+      "Final Fantasy VII",
+      "Final Fantasy XIV"
+    ],
+    "correctAnswer": "Final Fantasy VII",
+    "tags": [
+      "Final Fantasy",
+      "Satış Rakamları",
+      "Oyun Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "t06qhus1s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EASY",
+    "question": "Final Fantasy serisinin ilk oyunu hangi yıl PlayStation için piyasaya sürüldü?",
+    "explanation": "Final Fantasy VII, 1997 yılında Japonya'da PlayStation için piyasaya sürüldü ve ardından 1998 yılında Amerika'ya çıktı.",
+    "options": [
+      "1997",
+      "1998",
+      "1999",
+      "2000"
+    ],
+    "correctAnswer": "1998",
+    "tags": [
+      "Final Fantasy",
+      "Tarihçe",
+      "Konsol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tr5y9gmjf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy serisindeki 'Limit Break' mekaniksinin ne işlevi vardır?",
+    "explanation": "Limit Break, Final Fantasy serisindeki kahramanların belirli bir can seviyesine ulaştıklarında özel yetenek kombinasyonları kullanabilmelerine olanak sağlayan mekaniktir.",
+    "options": [
+      "Kahramanların canlarını yenileme",
+      "Özel yetenek kombinasyonları kullanma",
+      "Düşmanlara zehir etme",
+      "Zamanı durdurma"
+    ],
+    "correctAnswer": "Özel yetenek kombinasyonları kullanma",
+    "tags": [
+      "Final Fantasy",
+      "Mekanik",
+      "Oynanış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "04ctznwfy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy X'te ana karakter Cloud Strife'nın oynadığı rol nedir?",
+    "explanation": "Cloud Strife, Final Fantasy X'in ana kahramanıdır ve Spira dünyası için savaşır.",
+    "options": [
+      "Savaşçı",
+      "Suçlu",
+      "Kahraman",
+      "Öğretmen"
+    ],
+    "correctAnswer": "Kahraman",
+    "tags": [
+      "Final Fantasy",
+      "Karşılaştırmalı",
+      "Rol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "im7cq37au",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy XIV'te 'Heavensward' expansion ne zaman yayınlandı?",
+    "explanation": "Heavensward, Final Fantasy XIV'in ilk büyük expansioni olarak 2015 yılında yayınlandı ve A Realm Reborn sonrası gelmişti.",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "correctAnswer": "2015",
+    "tags": [
+      "Final Fantasy XIV",
+      "Expansion",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kwfhglkpx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EASY",
+    "question": "Final Fantasy serisinin ikonik bir elementi olan 'Chocobo'nun ne işlevi vardır?",
+    "explanation": "Chocobo, Final Fantasy serisindeki ikonik kuş karakteridir ve oyuncular tarafından taşınma, keşif ve eğlence amaçlı kullanılır.",
+    "options": [
+      "Taşıma mekanizması",
+      "Savaşçı karakteri",
+      "Healing yeteneği",
+      "Zaman yönetimi"
+    ],
+    "correctAnswer": "Taşıma mekanizması",
+    "tags": [
+      "Final Fantasy",
+      "Chocobo",
+      "Mekanik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qjm5j3nkm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Which Final Fantasy game introduced the iconic character Cloud Strife as the protagonist?",
+    "explanation": "Cloud Strife is the main character of Final Fantasy VII, a critically acclaimed 1997 game that popularized many RPG elements and became one of the best-selling games in the series.",
+    "options": [
+      "Final Fantasy V",
+      "Final Fantasy VII",
+      "Final Fantasy VIII",
+      "Final Fantasy IX"
+    ],
+    "correctAnswer": "Final Fantasy VII",
+    "tags": [
+      "Final Fantasy",
+      "Characters",
+      "Protagonists"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lj3yoms2l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the world where most Final Fantasy games take place?",
+    "explanation": "While individual games have unique settings, Destinia is a conceptual world that connects many Final Fantasy titles through the 'One World' concept in recent entries.",
+    "options": [
+      "Avalon",
+      "Eorzea",
+      "Fabula Nova Crystallis",
+      "Destinia"
+    ],
+    "correctAnswer": "Destinia",
+    "tags": [
+      "Final Fantasy",
+      "World Building",
+      "Settings"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "36s80u1rk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Which company developed and published the mainline Final Fantasy series?",
+    "explanation": "The mainline Final Fantasy games are developed and published by Square Enix, formerly known as Square and Enix individually before their merger.",
+    "options": [
+      "Square Enix",
+      "Capcom",
+      "Nintendo",
+      "Sega"
+    ],
+    "correctAnswer": "Square Enix",
+    "tags": [
+      "Final Fantasy",
+      "Developers",
+      "Publishers"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "c631xi8yj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "What is the name of the summon that appears as a crystal in most Final Fantasy games?",
+    "explanation": "Bahamut is one of the most iconic summons in the Final Fantasy series and appears as a crystallized summon that can be called upon during battles.",
+    "options": [
+      "Bahamut",
+      "Ifrit",
+      "Shiva",
+      "Alexander"
+    ],
+    "correctAnswer": "Bahamut",
+    "tags": [
+      "Final Fantasy",
+      "Summons",
+      "Crystals"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "l1uaq47dh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Which Final Fantasy game was the first to feature 3D graphics?",
+    "explanation": "Final Fantasy VII (1997) was the first mainline Final Fantasy game to use 3D graphics for its battle system and world, marking a major technological advancement in RPG development.",
+    "options": [
+      "Final Fantasy VI",
+      "Final Fantasy VII",
+      "Final Fantasy VIII",
+      "Final Fantasy IX"
+    ],
+    "correctAnswer": "Final Fantasy VII",
+    "tags": [
+      "Final Fantasy",
+      "Graphics",
+      "History"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f10uslgmy",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Final Fantasy 1, 1987 yılında NES/Famicom platformu için piyasaya sürüldü ve RPG türünün klasiklerinden biri olarak kabul edilir.",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correctAnswer": "1987",
+    "tags": [
+      "Final Fantasy",
+      "Tarih",
+      "Platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8du4atlp0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy serisindeki 'Limit Break' mekanikini kullanan ünlü karakter kimdir?",
+    "explanation": "Sephiroth, Final Fantasy VII'nin ana kötü karakteridir ve Limit Break gibi özel yeteneklere sahiptir.",
+    "options": [
+      "Cloud Strife",
+      "Squall Leonhart",
+      "Sephiroth",
+      "Lightning"
+    ],
+    "correctAnswer": "Sephiroth",
+    "tags": [
+      "Final Fantasy VII",
+      "Karakterler",
+      "Mekanikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hll966ml7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy XIV hangi oyun türüne aittir?",
+    "explanation": "Final Fantasy XIV, büyük bir online çok oyunculu RPG (MMORPG) oyunudur ve 2010 yılında piyasaya sürülmüştür.",
+    "options": [
+      "Single Player RPG",
+      "Multiplayer MMORPG",
+      "Battle Royale",
+      "Strategy Game"
+    ],
+    "correctAnswer": "Multiplayer MMORPG",
+    "tags": [
+      "Final Fantasy XIV",
+      "Oyun Türleri",
+      "Platform"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uk40e07v2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy serisinin 'Crystaria' destanı hangi oyunda yer alır?",
+    "explanation": "Crystaria, Final Fantasy VI'nin ana hikayesinde yer alan ve karakterlerin özel yeteneklerini geliştirmelerini sağlayan bir mekanik sistemidir.",
+    "options": [
+      "Final Fantasy V",
+      "Final Fantasy VI",
+      "Final Fantasy VII",
+      "Final Fantasy VIII"
+    ],
+    "correctAnswer": "Final Fantasy VI",
+    "tags": [
+      "Final Fantasy VI",
+      "Destanlar",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "dr39d5ni3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EASY",
+    "question": "Final Fantasy 'Chocobo' karakteri hangi amaçla kullanılır?",
+    "explanation": "Chocobolar, Final Fantasy serisinde oyuncuların haritada farklı bölgelere hızlıca seyahat etmesini sağlayan taşınabilir karakterlerdir.",
+    "options": [
+      "Savaşta",
+      "Taşımacılık ve Keşif",
+      "Hazine Bulmak",
+      "Zaman Kapatmak"
+    ],
+    "correctAnswer": "Taşımacılık ve Keşif",
+    "tags": [
+      "Final Fantasy",
+      "Chocobo",
+      "Mekanikler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "r5lz92jbu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EASY",
+    "question": "Final Fantasy VII'de ana karakter Tifa Lockhart'ın mesleği nedir?",
+    "explanation": "Tifa Lockhart, Midgar'daki Seventh Heaven barını işleten bir savaşçıdır ve Cloud Strife ile yakın arkadaşlık kurar.",
+    "options": [
+      "Savaşçı",
+      "Doktor",
+      "Bar Sahibi / Savaşçı",
+      "Hacker"
+    ],
+    "correctAnswer": "Bar Sahibi / Savaşçı",
+    "tags": [
+      "Final Fantasy VII",
+      "Karakterler",
+      "Tifa Lockhart"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "voa5qfnzk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy X'de Spira'nın ana tanrısı hangi isimle anılır?",
+    "explanation": "Yevon, Final Fantasy X'deki Spira dünyasının ana tanrısal gücü ve inancı temsil eder; onun kutsal yazıları vardır.",
+    "options": [
+      "Yevon",
+      "Seymour",
+      "Jecht",
+      "Tidus"
+    ],
+    "correctAnswer": "Yevon",
+    "tags": [
+      "Final Fantasy X",
+      "Mitoloji",
+      "Spira"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "o28uboo6l",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Hangi Final Fantasy oyununda 'Chocobos' ilk kez görülmektedir?",
+    "explanation": "Chocobos, Final Fantasy I'de ilk kez tanıtılmış ve seranın ikonik yaratıklarından biridir.",
+    "options": [
+      "Final Fantasy I",
+      "Final Fantasy II",
+      "Final Fantasy III",
+      "Final Fantasy IV"
+    ],
+    "correctAnswer": "Final Fantasy I",
+    "tags": [
+      "Final Fantasy I",
+      "Chocobo",
+      "Hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f0rzw90qh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy XII'de 'Bastian' karakterinin asıl adı nedir?",
+    "explanation": "Bastian, Final Fantasy XII'deki Vaan'ın alternatif isimidir; o bir hırsız ve ana karakterlerden biridir.",
+    "options": [
+      "Vaan",
+      "Penny",
+      "Schera",
+      "Fran"
+    ],
+    "correctAnswer": "Vaan",
+    "tags": [
+      "Final Fantasy XII",
+      "Karakterler",
+      "Vaan"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eil9ez334",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy XIV'te oyuncu hangi iki sınıfta başlayabilir?",
+    "explanation": "Final Fantasy XIV'te oyuncular 'Gladiator' (Savaşçı) veya 'Machinist' (Büyücü) olarak başlayabilir; ayrıca 'Thaumaturge' sınıfı da mevcuttur.",
+    "options": [
+      "Savaşçı / Büyücü",
+      "Kara Kılıç / Şifacı",
+      "Doktor / Mühendis",
+      "Hacker / Ninja"
+    ],
+    "correctAnswer": "Savaşçı / Büyücü",
+    "tags": [
+      "Final Fantasy XIV",
+      "Başlangıç Sınıfları",
+      "Oynanış"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3oa75hlq2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Hangi Final Fantasy oyunu, ilk defa 'Limit Break' mekanikini getirmiştir?",
+    "explanation": "Final Fantasy IV, serinin en ikonik mekaniklerinden biri olan Limit Break sistemini ilk kez getirmiştir. Bu sistem, karakterlerin belirli seviyelerde özel yetenekler kullanmasına olanak tanır.",
+    "options": [
+      "Final Fantasy I",
+      "Final Fantasy II",
+      "Final Fantasy III",
+      "Final Fantasy IV"
+    ],
+    "correctAnswer": "Final Fantasy IV",
+    "tags": [
+      "mekanikler",
+      "Final Fantasy IV",
+      "hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gvsblqg5e",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy VII'de ana kahraman Cloud Strife'nın gerçek kimliği nedir?",
+    "explanation": "Cloud Strife, Sephiroth'a karşı oluşturulan bir klon'dur ve gerçek kimliği Final Fantasy VII'nün en büyük gizemlerinden biridir.",
+    "options": [
+      "Gerçek adı Cloud",
+      "Tifa Lockhart'ın kardeşi",
+      "Sephiroth'un klonu",
+      "Seymour's öğrencisi"
+    ],
+    "correctAnswer": "Sephiroth'un klonu",
+    "tags": [
+      "Final Fantasy VII",
+      "Cloud Strife",
+      "karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wkwpz897c",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Hangi Final Fantasy oyunu, ilk defa seslendirme (voice acting) desteği sunmuştur?",
+    "explanation": "Final Fantasy IV, serinin ilk seslendirme desteğini sunan oyun olup Japon oyunculara yedilişişli bir deneyim sunmuştur.",
+    "options": [
+      "Final Fantasy I",
+      "Final Fantasy II",
+      "Final Fantasy III",
+      "Final Fantasy IV"
+    ],
+    "correctAnswer": "Final Fantasy IV",
+    "tags": [
+      "seslendirme",
+      "Final Fantasy IV",
+      "teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gp1fxtj63",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy Tactics'ta hangi sınıf 'Dark Knight' olarak bilinir?",
+    "explanation": "Final Fantasy Tactics, taktiksel bir RPG'dir ve Dark Knight sınıfı, zayıf savunma ile yüksek saldırı yeteneğiyle tanınır.",
+    "options": [
+      "Black Mage",
+      "Dark Knight",
+      "Monk",
+      "Puppetmaster"
+    ],
+    "correctAnswer": "Dark Knight",
+    "tags": [
+      "Final Fantasy Tactics",
+      "sınıflar",
+      "Tactics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hcazjpsgh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Hangi Final Fantasy oyunu, ilk defa 'Aerith Gainsborough' karakterini getirmiştir?",
+    "explanation": "Aerith Gainsborough, Final Fantasy VI'nün en ikonik karakterlerinden biridir ve serinin en sevilen kadın kahramanı olarak bilinir.",
+    "options": [
+      "Final Fantasy I",
+      "Final Fantasy III",
+      "Final Fantasy IV",
+      "Final Fantasy VI"
+    ],
+    "correctAnswer": "Final Fantasy VI",
+    "tags": [
+      "Final Fantasy VI",
+      "Aerith Gainsborough",
+      "karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "olk1n843j",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EASY",
+    "question": "Hangi Final Fantasy oyununda 'Aerith' karakteri öne çıkar ve önemli bir hikaye rolü oynar?",
+    "explanation": "Aerith Gainsborough, Final Fantasy VII'nin en bilinen karakterlerinden biridir ve oyunun ana hikayesinde önemli rol oynar. Ayrıca 'I'll be right here' adlı şarkı ile de tanınır.",
+    "options": [
+      "Final Fantasy V",
+      "Final Fantasy VII",
+      "Final Fantasy X",
+      "Final Fantasy XI"
+    ],
+    "correctAnswer": "Final Fantasy VII",
+    "tags": [
+      "karakter",
+      "FFVII",
+      "hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xushic2i7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Final Fantasy I, 1987 yılında NES/FC konsolu için ilk kez yayınlandı. Bu oyun Final Fantasy serisinin başlangıcı kabul edilir.",
+    "options": [
+      "1987",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctAnswer": "1987",
+    "tags": [
+      "tarih",
+      "FFI",
+      "hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "a5sxx8k2o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Hangi Final Fantasy oyunu 'Crysta' adını taşır ve zaman teması içerir?",
+    "explanation": "Final Fantasy IV, Crysta adını taşır ve hikayesi zamanın kayması ve dönüşüm temaları içerir. Ayrıca 'Time Crisis' olarak da bilinir.",
+    "options": [
+      "Final Fantasy III",
+      "Final Fantasy IV",
+      "Final Fantasy II",
+      "Final Fantasy VI"
+    ],
+    "correctAnswer": "Final Fantasy IV",
+    "tags": [
+      "FFIV",
+      "zaman",
+      "dönüşüm"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z6vw3fe7z",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy serisindeki hangi karakter 'Cloud Strife' adını taşır?",
+    "explanation": "Cloud Strife, Final Fantasy VII'nin ana kahramanıdır. Büyük bir kılıçla donatılmış ve Midgar'da geçerli hikayesinde önemli rol oynar.",
+    "options": [
+      "FFVI",
+      "FFVII",
+      "FFIX",
+      "FFXII"
+    ],
+    "correctAnswer": "FFVII",
+    "tags": [
+      "karakter",
+      "kılıç",
+      "FFVII"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ox3ai8k0t",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy serisindeki 'Limit Break' sistemi hangi oyunlarda bulunur?",
+    "explanation": "Limit Break sistemi, Final Fantasy serisinin çoğu oyununda bulunmaktadır. Bu sistem karakterlerin özel güçlerini artıran bir mekanizmadır.",
+    "options": [
+      "FFI",
+      "FFII",
+      "FFIII",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "sistem",
+      "FFserisi",
+      "hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "svrqh7k6o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EASY",
+    "question": "İlk Final Fantasy oyunu hangi konsolda yayınlandı?",
+    "explanation": "Final Fantasy serisinin ilk oyunu 1987 yılında NES (Japonya'da Famicom) konsolu için yayınlandı.",
+    "options": [
+      "PlayStation",
+      "NES/Famicom",
+      "Game Boy",
+      "Sega Genesis"
+    ],
+    "correctAnswer": "NES/Famicom",
+    "tags": [
+      "Final Fantasy",
+      "Tarihçe",
+      "Konsol"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "cu7rfkwz4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy VII'in efsanevi ana kahramanı kimdir?",
+    "explanation": "Cloud Strife, Final Fantasy VII'in ana kahramanıdır ve Nibelheim kasabası yakınlarında büyümüş bir piyon olarak tanınır.",
+    "options": [
+      "Sephiroth",
+      "Cloud Strife",
+      "Zack Fair",
+      "Tifa Lockhart"
+    ],
+    "correctAnswer": "Cloud Strife",
+    "tags": [
+      "Final Fantasy VII",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zc4gl2atc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy VI'daki kötü güçlerin temsilcisi ve oyunun sonundaki olayların kaynağı kimdir?",
+    "explanation": "Kefka Palazzo, Final Fantasy VI'daki final boss ve oyunun sonundaki 'dünyayı yok etme' olayının kaynağı olan karakterdir.",
+    "options": [
+      "Kefka Palazzo",
+      "Exdeath",
+      "Shinra Corporation",
+      "Sephiroth"
+    ],
+    "correctAnswer": "Kefka Palazzo",
+    "tags": [
+      "Final Fantasy VI",
+      "Antagonist"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "uxrjbh0dc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Hangi Final Fantasy oyununda Squall Leonhart ana kahramandır?",
+    "explanation": "Squall Leonhart, Final Fantasy VIII'in ana kahramanıdır ve Balamb Okulu'nda Okul Lideri olarak görev yapar.",
+    "options": [
+      "Final Fantasy VIII",
+      "Final Fantasy IX",
+      "Final Fantasy X",
+      "Final Fantasy VI"
+    ],
+    "correctAnswer": "Final Fantasy VIII",
+    "tags": [
+      "Karakterler",
+      "Final Fantasy VIII"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "840dnwuwz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy serisindeki efsanevi bir canavar olan 'Chocobo' ilk kez hangi oyunda resmi olarak yer alır?",
+    "explanation": "Chocobo, Final Fantasy serisinin ilk oyununda (Final Fantasy I) resmi olarak oyuna dahil edilen efsanevi bir canavardır.",
+    "options": [
+      "Final Fantasy II",
+      "Final Fantasy III",
+      "Final Fantasy I",
+      "Final Fantasy IV"
+    ],
+    "correctAnswer": "Final Fantasy I",
+    "tags": [
+      "Final Fantasy I",
+      "Efsanevi Canavarlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "sm3v11yny",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy serisinin ilk oyunu hangi yıl yayınlandı?",
+    "explanation": "Final Fantasy ilk oyunu 1987 yılında Nintendo Entertainment System için yayınlandı ve serinin başlangıcını işaret etti.",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correctAnswer": "1987",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Final Fantasy",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6cw926iq9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy VII'daki ana karakter Cloud Strife hangi tür bir kahramandır?",
+    "explanation": "Cloud Strife Final Fantasy VII'nin baş kahramanıdır ve ana silahları balık gibi görünen büyük bir kılıçtır.",
+    "options": [
+      "Sihirbaz",
+      "Bıçakçı/Savaşçı",
+      "Mızrağcı",
+      "Şövalye"
+    ],
+    "correctAnswer": "Bıçakçı/Savaşçı",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Final Fantasy",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ntgtn9gd3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy X'de Seifer Almasy hangi karakterle rekabet eder?",
+    "explanation": "Seifer Almasy Final Fantasy X'de ana karakter Tidus ile rekabet eder ve hikayede önemli bir rol oynar.",
+    "options": [
+      "Tidus",
+      "Rikku",
+      "Auron",
+      "Yuna"
+    ],
+    "correctAnswer": "Tidus",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Final Fantasy",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i5rbtm0d2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "EXPERT",
+    "question": "Final Fantasy serisinin 'Omniworld' oyununa kadar kaç ana başlık çıkmıştır?",
+    "explanation": "Final Fantasy serisinin 2004 yılına kadar 17 ana başlık, Omniworld dahil toplamda 18 oyun çıkmıştır.",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctAnswer": "18",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Final Fantasy",
+      "Oyun Sayıları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "k7aw1soid",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "Final Fantasy",
+    "difficulty": "GENERAL",
+    "question": "Final Fantasy XIV'te 'Heavensward' hangi yıl eklendi?",
+    "explanation": "Final Fantasy XIV'in ilk genişletmesi 'Heavensward' 2015 yılında yayınlandı ve oyunun hikayesini sürdürdü.",
+    "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+    ],
+    "correctAnswer": "2015",
+    "tags": [
+      "HOBİLER_VE_OYUNLAR-Final Fantasy",
+      "Geliştirmeler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

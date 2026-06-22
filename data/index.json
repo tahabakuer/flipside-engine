@@ -1,12 +1,1136 @@
-{
-  "totalCategories": 1,
-  "totalQuestions": 141,
-  "lastUpdated": "2026-06-16T14:56:00.827Z",
-  "data": [
-    {
-      "category": "SPOR",
-      "count": 141,
-      "file": "spor.json"
-    }
-  ]
-}
+[
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "astronomi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\astronomi.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "biyoloji",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\biyoloji.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "ekoloji",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\ekoloji.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "elementler",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\elementler.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "evrim",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\evrim.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "fizik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\fizik.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "genetik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\genetik.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "i̇nsan anatomisi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\i̇nsan anatomisi.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "jeoloji",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\jeoloji.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "kimya",
+    "count": 51,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\kimya.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "matematik",
+    "count": 51,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\matematik.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "mikrobiyoloji",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\mikrobiyoloji.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "paleontoloji",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\paleontoloji.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "uzay keşifleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\uzay keşifleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "bi̇li̇m",
+    "subcategory": "ünlü bilim i̇nsanları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\bi̇li̇m\\ünlü bilim i̇nsanları.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "adalar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\adalar.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "afrika ülkeleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\afrika ülkeleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "asya ülkeleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\asya ülkeleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "avrupa ülkeleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\avrupa ülkeleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "bayraklar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\bayraklar.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "başkentler",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\başkentler.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "dünya dağları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\dünya dağları.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "dünya nehirleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\dünya nehirleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "güney amerika",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\güney amerika.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "kuzey amerika",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\kuzey amerika.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "milli parklar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\milli parklar.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "okyanuslar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\okyanuslar.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "türkiye coğrafyası",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\türkiye coğrafyası.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "türkiye şehirleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\türkiye şehirleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "coğrafya",
+    "subcategory": "çöller",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\coğrafya\\çöller.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "dünya edebiyatı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\dünya edebiyatı.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "i̇skandinav mitolojisi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\i̇skandinav mitolojisi.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "japon atasözleri ve deyimleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\japon atasözleri ve deyimleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "kelime kökenleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\kelime kökenleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "romanlar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\romanlar.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "türk atasözleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\türk atasözleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "türk deyimleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\türk deyimleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "türk edebiyatı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\türk edebiyatı.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "türk mitolojisi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\türk mitolojisi.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "türkçe dil bilgisi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\türkçe dil bilgisi.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "yunan mitolojisi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\yunan mitolojisi.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "ünlü yazarlar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\ünlü yazarlar.json"
+  },
+  {
+    "lang": "en",
+    "category": "edebi̇yat_ve_di̇l",
+    "subcategory": "şiir",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\edebi̇yat_ve_di̇l\\şiir.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "assassin's creed",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\assassin's creed.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "bahçecilik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\bahçecilik.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "balıkçılık",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\balıkçılık.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "call of duty",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\call of duty.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "counter-strike",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\counter-strike.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "dark souls",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\dark souls.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "dungeons & dragons",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\dungeons & dragons.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "fifa",
+    "count": 51,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\fifa.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "final fantasy",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\final fantasy.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "gta",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\gta.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "görsel sanatlar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\görsel sanatlar.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "kampçılık",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\kampçılık.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "kart oyunları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\kart oyunları.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "koleksiyonculuk",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\koleksiyonculuk.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "league of legends",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\league of legends.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "masa oyunları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\masa oyunları.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "masa üstü rol yapma oyunları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\masa üstü rol yapma oyunları.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "minecraft",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\minecraft.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "modelcilik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\modelcilik.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "pokémon",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\pokémon.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "super mario",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\super mario.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "the elder scrolls",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\the elder scrolls.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "the legend of zelda",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\the legend of zelda.json"
+  },
+  {
+    "lang": "en",
+    "category": "hobi̇ler_ve_oyunlar",
+    "subcategory": "warcraft evreni",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\hobi̇ler_ve_oyunlar\\warcraft evreni.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "alman kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\alman kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "arap kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\arap kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "dinler tarihi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\dinler tarihi.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "dünya festivalleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\dünya festivalleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "dünya mirasları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\dünya mirasları.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "fransız kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\fransız kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "halk dansları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\halk dansları.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "hint kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\hint kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "i̇ngiliz gelenekleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\i̇ngiliz gelenekleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "i̇skandinav kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\i̇skandinav kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "japon kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\japon kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "kore kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\kore kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "türk gelenekleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\türk gelenekleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "kültürler_ve_yaşam",
+    "subcategory": "çin kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\kültürler_ve_yaşam\\çin kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "baharatlar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\baharatlar.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "deniz ürünleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\deniz ürünleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "dünya tatlıları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\dünya tatlıları.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "ekmekçilik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\ekmekçilik.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "fermente gıdalar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\fermente gıdalar.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "fransız mutfağı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\fransız mutfağı.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "i̇talyan mutfağı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\i̇talyan mutfağı.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "japon mutfağı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\japon mutfağı.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "kahve kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\kahve kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "mutfak teknikleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\mutfak teknikleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "peynirler",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\peynirler.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "sokak lezzetleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\sokak lezzetleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "türk mutfağı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\türk mutfağı.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "çay kültürü",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\çay kültürü.json"
+  },
+  {
+    "lang": "en",
+    "category": "mutfak",
+    "subcategory": "çin mutfağı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\mutfak\\çin mutfağı.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "animasyon filmleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\animasyon filmleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "animeler",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\animeler.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "dünya sineması",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\dünya sineması.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "fotoğraf sanatı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\fotoğraf sanatı.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "klasik müzik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\klasik müzik.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "korku sineması",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\korku sineması.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "opera ve bale",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\opera ve bale.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "oscar ödülleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\oscar ödülleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "pop müzik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\pop müzik.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "resim sanatı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\resim sanatı.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "rock müzik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\rock müzik.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "televizyon dizileri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\televizyon dizileri.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "tiyatro",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\tiyatro.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "türk sineması",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\türk sineması.json"
+  },
+  {
+    "lang": "en",
+    "category": "sanat_ve_eğlence",
+    "subcategory": "çizgi romanlar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\sanat_ve_eğlence\\çizgi romanlar.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "boks",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\boks.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "e-spor",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\e-spor.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "euroleague",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\euroleague.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "fifa dünya kupası",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\fifa dünya kupası.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "formula 1",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\formula 1.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "futbol",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\futbol.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "golf",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\golf.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "güreş",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\güreş.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "i̇ngiltere premier lig",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\i̇ngiltere premier lig.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "mma",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\mma.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "motogp",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\motogp.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "nba",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\nba.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "olimpiyat oyunları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\olimpiyat oyunları.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "satranç",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\satranç.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "süper lig",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\süper lig.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "tenis",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\tenis.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "uefa şampiyonlar ligi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\uefa şampiyonlar ligi.json"
+  },
+  {
+    "lang": "en",
+    "category": "spor",
+    "subcategory": "voleybol",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\spor\\voleybol.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "antik mısır",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\antik mısır.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "antik yunan",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\antik yunan.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "bizans i̇mparatorluğu",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\bizans i̇mparatorluğu.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "coğrafi keşifler",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\coğrafi keşifler.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "i. dünya savaşı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\i. dünya savaşı.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "ii. dünya savaşı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\ii. dünya savaşı.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "moğol i̇mparatorluğu",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\moğol i̇mparatorluğu.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "orta çağ avrupa",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\orta çağ avrupa.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "osmanlı tarihi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\osmanlı tarihi.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "roma i̇mparatorluğu",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\roma i̇mparatorluğu.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "rönesans",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\rönesans.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "selçuklu tarihi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\selçuklu tarihi.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "soğuk savaş",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\soğuk savaş.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "türk kurtuluş savaşı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\türk kurtuluş savaşı.json"
+  },
+  {
+    "lang": "en",
+    "category": "tari̇h",
+    "subcategory": "türkiye cumhuriyeti tarihi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\tari̇h\\türkiye cumhuriyeti tarihi.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "açık kaynak yazılım",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\açık kaynak yazılım.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "ağ teknolojileri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\ağ teknolojileri.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "bilgisayar ağları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\bilgisayar ağları.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "bilgisayar donanımı",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\bilgisayar donanımı.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "bulut bilişim",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\bulut bilişim.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "i̇nternet tarihi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\i̇nternet tarihi.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "i̇şletim sistemleri",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\i̇şletim sistemleri.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "linux",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\linux.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "microsoft windows",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\microsoft windows.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "mobil teknolojiler",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\mobil teknolojiler.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "oyun geliştirme",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\oyun geliştirme.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "programlama",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\programlama.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "robotik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\robotik.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "siber güvenlik",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\siber güvenlik.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "veri yapıları ve algoritmalar",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\veri yapıları ve algoritmalar.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "veritabanları",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\veritabanları.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "video oyun tarihi",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\video oyun tarihi.json"
+  },
+  {
+    "lang": "en",
+    "category": "teknoloji̇",
+    "subcategory": "yapay zekâ",
+    "count": 50,
+    "path": "C:\\Users\\Taha\\flipside-engine\\data\\en\\teknoloji̇\\yapay zekâ.json"
+  }
+]

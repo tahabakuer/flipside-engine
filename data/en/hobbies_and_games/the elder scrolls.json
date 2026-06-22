@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "ij5gmuuog",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls serisinin ilk oyunu hangi yıl çıktı?",
+    "explanation": "The Elder Scrolls serisinin ilk oyunu (Morrowind değil, TES I), 1994 yılında Nelscape ve Bethesda tarafından yayınlandı.",
+    "options": [
+      "1987",
+      "1994",
+      "2002",
+      "2011"
+    ],
+    "correctAnswer": "1994",
+    "tags": [
+      "The Elder Scrolls",
+      "Tarih",
+      "Başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "21ne4dpau",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Beyaz saçlı bir kahraman olan Aldmeri İmparatorluğu'na karşı savaşan karakterin adı nedir?",
+    "explanation": "Daggerfall, The Elder Scrolls II: Daggerfall oyunundaki ana karakterlerden ve olaylardan biri olarak bilinir.",
+    "options": [
+      "Daggerfall",
+      "Dagon Redoran",
+      "Elder Council",
+      "Imperial Legion"
+    ],
+    "correctAnswer": "Daggerfall",
+    "tags": [
+      "The Elder Scrolls",
+      "Karakterler",
+      "Savaş"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "f8171urcx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Elder Scrolls serisindeki 'Skyrim' oyununun geliştirildiği platform hangisidir?",
+    "explanation": "Skyrim hem PlayStation 3, hem Xbox 360, hem de PC/Windows platformlarında yayınlanmıştır.",
+    "options": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC/Windows",
+      "Tümü"
+    ],
+    "correctAnswer": "Tümü",
+    "tags": [
+      "The Elder Scrolls",
+      "Platformlar",
+      "Skyrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "507yooepl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "The Elder Scrolls serisindeki 'Morrowind' oyunundaki ana kahramanın adı nedir?",
+    "explanation": "Morrowind oyunundaki ana karakter 'Hero of Kvatch' olarak bilinir ve oyunun hikayesinde önemli rol oynar.",
+    "options": [
+      "Alduin",
+      "Baurus",
+      "Nerevar",
+      "Hero of Kvatch"
+    ],
+    "correctAnswer": "Hero of Kvatch",
+    "tags": [
+      "The Elder Scrolls",
+      "Karakterler",
+      "Morrowind"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ltz7gabqi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "Elder Scrolls serisindeki en güçlü bir tanrı olan 'Akatosh' hangi pantheon'a aittir?",
+    "explanation": "Akatosh, The Elder Scrolls serisindeki en güçlü tanrılardan biri olup zamanın tanrısı olarak kabul edilir.",
+    "options": [
+      "Dibella",
+      "Stendarr",
+      "Kynareth",
+      "Alduin"
+    ],
+    "correctAnswer": "Alduin",
+    "tags": [
+      "The Elder Scrolls",
+      "Tanrılar",
+      "Dinler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3bl93sqdn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls V: Skyrim'da ana karakterimiz ne olarak geçer?",
+    "explanation": "Skyrim'da ana karakter 'Dragonborn' olarak da bilinir ancak Türkçe versiyonda 'Dovahkiin' olarak geçmektedir. Bu terim 'Vokhakiin'in eski dildeki karşılığıdır.",
+    "options": [
+      "Dovahkiin",
+      "Dragonborn",
+      "Hero of the Ages",
+      "Champion of Tamriel"
+    ],
+    "correctAnswer": "Dovahkiin",
+    "tags": [
+      "Skyrim",
+      "Lore",
+      "Characters"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qavtk4qj0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls serisinin ilk oyunu hangi yıl yayınlandı?",
+    "explanation": "The Elder Scrolls serisinin ilk oyunu 1994 yılında Bethesda'dan yayınlandı ve 'Arena' adıyla biliniyordu.",
+    "options": [
+      "1994",
+      "1997",
+      "2002",
+      "2011"
+    ],
+    "correctAnswer": "1994",
+    "tags": [
+      "History",
+      "Timeline",
+      "Series"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bf5fsezrm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "Skyrim'daki en meşhur silah hangisidir?",
+    "explanation": "Dragonbone Sword, Skyrim'daki en güçlü ve meşhur silahlardan biridir. Özellikle Dragonborn DLC'sında da önemli rol oynar.",
+    "options": [
+      "Frostbite",
+      "Dragonbone Sword",
+      "Dovahkiin's Blade",
+      "The Elder"
+    ],
+    "correctAnswer": "Dragonbone Sword",
+    "tags": [
+      "Weapons",
+      "Gameplay",
+      "Skyrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8u0otnvqn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls Online hangi platformda yayınlanmaktadır?",
+    "explanation": "The Elder Scrolls Online hem PC'de hem de PlayStation ve Xbox konsollarında yayınlanmaktadır. Mobil platformda resmi olarak bulunmamaktadır.",
+    "options": [
+      "PC ve Konsol",
+      "Sadece PC",
+      "Sadece Mobil",
+      "Sadece PS5"
+    ],
+    "correctAnswer": "PC ve Konsol",
+    "tags": [
+      "Online",
+      "Platforms",
+      "Series"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kt7cbv8gz",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "Skyrim'da hangi şehir 'Kraliyet Sarayı'na ev sahipliği yapar?",
+    "explanation": "Solitude, Skyrim'da Nord kraliyet ailesinin merkezi ve Kraliyet Sarayı'nın bulunduğu şehir olarak bilinir.",
+    "options": [
+      "Whiterun",
+      "Solitude",
+      "Riften",
+      "Windhelm"
+    ],
+    "correctAnswer": "Solitude",
+    "tags": [
+      "Locations",
+      "Skyrim",
+      "Cities"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "74ni950oa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls serisinin ilk oyunu hangi yıl piyasaya sürülmüştür?",
+    "explanation": "The Elder Scrolls III: Morrowind, 2002 yılında Bethesda tarafından piyasaya sürülmüş ve serinin ilk ana oyunudur.",
+    "options": [
+      "1997",
+      "2002",
+      "2004",
+      "2011"
+    ],
+    "correctAnswer": "2002",
+    "tags": [
+      "The Elder Scrolls",
+      "Morrowind",
+      "Tarihçe"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "baxfd9r3p",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Skyrim oyununda Dragonborn (Ejderha Doğmuş) olarak kabul edilen karakter kimdir?",
+    "explanation": "Dovahkiin, Skyrim'ın ana karakteri ve Dragonborn olarak adlandırılan özel güçlere sahip kişidir.",
+    "options": [
+      "Ulfric",
+      "Dovahkiin",
+      "Alduin",
+      "Reshka"
+    ],
+    "correctAnswer": "Dovahkiin",
+    "tags": [
+      "Skyrim",
+      "Dragonborn",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "42ksyei3g",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "The Elder Scrolls serisinde Daedra (Daedro) olarak bilinen varlıklar nereden gelir?",
+    "explanation": "Daedra, The Elder Scrolls evreninde Nine Divines (Dokuz Tanrı) dünyasından gelen varlıklardır.",
+    "options": [
+      "Aetherium",
+      "Morrowind",
+      "Sheogorath",
+      "Nine Divines"
+    ],
+    "correctAnswer": "Nine Divines",
+    "tags": [
+      "The Elder Scrolls",
+      "Daedra",
+      "Mitoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4255vum1i",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Oblivion oyununda en güçlü silah türü hangisidir?",
+    "explanation": "Ancient Dragonbone, Oblivion'ın en güçlü silah materyali ve efsanevi bir silahlardır.",
+    "options": [
+      "Shortsword",
+      "Falchion",
+      "Ancient Dragonbone",
+      "Steel Blade"
+    ],
+    "correctAnswer": "Ancient Dragonbone",
+    "tags": [
+      "Oblivion",
+      "Silahlar",
+      "Ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "w4dda1t2s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls V: Skyrim'ın ana karakteri hangi ırktan oluşur?",
+    "explanation": "Skyrim'ın ana karakteri bir Nord'dur ve bu ırk Skyrim'ın yerel halkıdır.",
+    "options": [
+      "Orsin",
+      "Imperial",
+      "Nord",
+      "Breton"
+    ],
+    "correctAnswer": "Nord",
+    "tags": [
+      "Skyrim",
+      "Rasyal",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "84uvcuzz6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "The Elder Scrolls I: Arena (veya The Elder Scrolls Gold Edition) 1997 yılında Interplay Entertainment tarafından yayınlandı.",
+    "options": [
+      "1994",
+      "1997",
+      "2002",
+      "2004"
+    ],
+    "correctAnswer": "1997",
+    "tags": [
+      "history",
+      "game-lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8jo1xi7kc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls IV: Oblivion oyununun başındaki karakterin adı nedir?",
+    "explanation": "The Elder Scrolls IV: Oblivion'da Dragonborn, ana karakterin (protagonist) adıdır ve oyunun hikayesinde önemli yer tutar.",
+    "options": [
+      "Dragonborn",
+      "Narzul",
+      "Cicero",
+      "Baurus"
+    ],
+    "correctAnswer": "Dragonborn",
+    "tags": [
+      "characters",
+      "game-lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "wzxyu66bw",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls V: Skyrim'daki en büyük şehir hangisidir?",
+    "explanation": "Skyrim'da Solitude, Thalmor'un etkisi altında olan ve en büyük şehirdir. Başkent olarak kabul edilir.",
+    "options": [
+      "Whiterun",
+      "Solitude",
+      "Riften",
+      "Falkreath"
+    ],
+    "correctAnswer": "Solitude",
+    "tags": [
+      "locations",
+      "skyrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "59wh34fjl",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "The Elder Scrolls serisinde 'Dragonborn' ne anlama gelir?",
+    "explanation": "Dragonborn, The Elder Scrolls serisindeki özel bir terimdir ve 'Ejderha doğmuş' anlamına gelir. Bu kişilerin ejderhaların kanını taşıması beklenir.",
+    "options": [
+      "Ejderha doğumlu",
+      "Ejderha öldüren",
+      "Ejderha besleyen",
+      "Ejderha konuşan"
+    ],
+    "correctAnswer": "Ejderha doğumlu",
+    "tags": [
+      "lore",
+      "terminology"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "v9wxt4for",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "The Elder Scrolls Online (ESO) hangi platformlarda oynanabilir?",
+    "explanation": "The Elder Scrolls Online (ESO), PC, PlayStation 4 ve Xbox One platformlarında oynanabilir. Mobil versiyonu da bulunmaktadır.",
+    "options": [
+      "Sadece PC",
+      "PC, PlayStation, Xbox",
+      "Sadece konsol",
+      "Sadece mobil"
+    ],
+    "correctAnswer": "PC, PlayStation, Xbox",
+    "tags": [
+      "platforms",
+      "online-features"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xzch9hteb",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls serisinin ilk oyunu hangi yıl yayınlandı?",
+    "explanation": "The Elder Scrolls I: Arena, 1994 yılında Bethesda Softworks tarafından yayınlandı ve serinin ilk oyunu olarak kabul edilir.",
+    "options": [
+      "1987",
+      "1994",
+      "2002",
+      "2011"
+    ],
+    "correctAnswer": "1994",
+    "tags": [
+      "history",
+      "release-date",
+      "elder-scrolls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4lvst91sm",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Skyrim oyununda 'Dovahkiin' ne anlama gelir?",
+    "explanation": "Dovahkiin, Skyrim'da Ejderha dilinde 'Kahraman' anlamına gelir ve özel bir soydan gelen bir karakteri ifade eder.",
+    "options": [
+      "Kraliyet Soyundan Gelen",
+      "Ejderha Yumurtası",
+      "İmparatorluk Mirası",
+      "Halk Kahramanı"
+    ],
+    "correctAnswer": "Ejderha Yumurtası",
+    "tags": [
+      "skyrim",
+      "terminology",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "eiqtnj4j2",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "Morrowind oyununda 'Three Banners' neyi temsil eder?",
+    "explanation": "Morrowind'taki Three Banners, Aurbis'nin üç ana tanrısı: Trinimac, Sithis ve Kynareth'i temsil eder.",
+    "options": [
+      "Üç Büyük Şehir",
+      "Üç İmparatorluk Bayrağı",
+      "Üç Ana Tanrı",
+      "Üç Oyuncu Grubu"
+    ],
+    "correctAnswer": "Üç Ana Tanrı",
+    "tags": [
+      "morrowind",
+      "pantheon",
+      "religion"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "teu9nlajf",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Oblivion oyununda 'The Tribunal' neyi ifade eder?",
+    "explanation": "Oblivion'daki The Tribunal, Akatosh, Vivec ve Alkaios'tan oluşan üç tanrılı pantheon'u ifade eder.",
+    "options": [
+      "Üç Tanrı",
+      "Dört İmparator",
+      "Beş Büyük Şehir",
+      "Altı Ejderha"
+    ],
+    "correctAnswer": "Üç Tanrı",
+    "tags": [
+      "oblivion",
+      "tribunal",
+      "elders-scrolls"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5owynk9jk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "Skyrim oyununda 'Frostfall' DLC'si hangi mevsimi odak alır?",
+    "explanation": "Frostfall DLC'si, Skyrim'daki kış mevsimini ve soğuk hava koşullarını detaylandıran bir ek içeriktir.",
+    "options": [
+      "Yaz",
+      "Sonbahar",
+      "Kış",
+      "Bahar"
+    ],
+    "correctAnswer": "Kış",
+    "tags": [
+      "skyrim",
+      "dlc",
+      "seasons"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "i7qdol48x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "Which game is considered the first main installment in The Elder Scrolls series?",
+    "explanation": "Morrowind was released in 2002 and is the first main game with a 'main quest' structure, though Daggerfall came earlier but had different design philosophy.",
+    "options": [
+      "The Elder Scrolls II: Daggerfall",
+      "The Elder Scrolls III: Morrowind",
+      "The Elder Scrolls IV: Oblivion",
+      "The Elder Scrolls V: Skyrim"
+    ],
+    "correctAnswer": "The Elder Scrolls III: Morrowind",
+    "tags": [
+      "lore",
+      "games",
+      "series"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "qq2hytmpr",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "What is the name of the capital city of Cyrodiil where Skyrim's main hero travels?",
+    "explanation": "The Imperial City is the capital of Cyrodiil and was introduced in Oblivion, serving as a hub between provinces.",
+    "options": [
+      "Balmora",
+      "Cyrodiil",
+      "Cheydinhal",
+      "Imperial City"
+    ],
+    "correctAnswer": "Imperial City",
+    "tags": [
+      "geography",
+      "imperial",
+      "cities"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "azzuq6mk4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Which artifact grants the Dragonborn power to absorb dragon souls?",
+    "explanation": "The Dragon Born Amulet is a key item that allows the Dragonborn to use shouts and absorb dragon souls in Oblivion.",
+    "options": [
+      "Amulet of Kings",
+      "Daggerfall Crown",
+      "Dragon Born Amulet",
+      "Heart of Lorkhan"
+    ],
+    "correctAnswer": "Dragon Born Amulet",
+    "tags": [
+      "artifacts",
+      "dragonborn",
+      "lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "buissddmq",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "What type of creature serves as the main antagonist in The Elder Scrolls IV: Oblivion?",
+    "explanation": "Mehrunes Dagon is the Daedric Prince of Destruction and main antagonist in Oblivion, seeking to invade Cyrodiil.",
+    "options": [
+      "Oblivion",
+      "Mehrunes Dagon",
+      "Dagoth Ur",
+      "Soul Cairn"
+    ],
+    "correctAnswer": "Mehrunes Dagon",
+    "tags": [
+      "enemies",
+      "daedric",
+      "oblivion"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vlmeagiwa",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "Which language allows Dragonborn to speak with dragons and learn ancient shouts?",
+    "explanation": "Dovahzul is the ancient language of dragons used in The Elder Scrolls series for learning shouts and communicating with dragon souls.",
+    "options": [
+      "Common Tongue",
+      "Ancient Tongue",
+      "Elven",
+      "Dovahzul"
+    ],
+    "correctAnswer": "Dovahzul",
+    "tags": [
+      "language",
+      "shouts",
+      "dragonborn"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kfc9nz6te",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls V: Skyrim'da hangi büyü 'fireball' (ateş topu) etkisi yaratır?",
+    "explanation": "Firebolt büyüsi ateş topu efekti yaratırken, diğer büyüler farklı yetenekler sağlar.",
+    "options": [
+      "Flame Cloak",
+      "Fire Strike",
+      "Firebolt",
+      "Ignite"
+    ],
+    "correctAnswer": "Firebolt",
+    "tags": [
+      "Skyrim",
+      "Magic",
+      "Combat"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "20ncluefe",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls serisindeki ana karaktere ne ad verilir?",
+    "explanation": "Dragonborn (Ejderha Doğmuş), The Elder Scrolls V: Skyrim'daki ana karakterin özel yeteneğidir.",
+    "options": [
+      "Dragonborn",
+      "Dovahkiin",
+      "Nerevar",
+      "Alduin"
+    ],
+    "correctAnswer": "Dragonborn",
+    "tags": [
+      "Lore",
+      "Characters",
+      "Skyrim"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hqd135hxj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "The Elder Scrolls II: Daggerfall oyununda hangi şehir en büyük şehirdir?",
+    "explanation": "Daggerfall, oyunun başlangıç şehri ve en büyük kenti temsil eder.",
+    "options": [
+      "Daggerfall",
+      "Mournhold",
+      "Balmora",
+      "Vivec City"
+    ],
+    "correctAnswer": "Daggerfall",
+    "tags": [
+      "Daggerfall",
+      "Cities",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "co3txq3ra",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls serisindeki 'Thu'um' (Ses) ne tür bir yetenektir?",
+    "explanation": "Thu'um, Dragonborn'un ejderha dilinden öğrendiği ses yeteneğidir.",
+    "options": [
+      "Klan Sözü",
+      "Ejderha Dil",
+      "İnsan Şiiri",
+      "Yerel Dili"
+    ],
+    "correctAnswer": "Ejderha Dil",
+    "tags": [
+      "Skyrim",
+      "Thu'um",
+      "Dovahkiin"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "e3ptlf40o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls IV: Oblivion'daki Ana Karakter'in adı nedir?",
+    "explanation": "Oblivion'daki ana karakter oyuncu tarafından isimlendirilebilir, bu yüzden sabit bir adı yoktur.",
+    "options": [
+      "Baird",
+      "Caelar",
+      "Ardais",
+      "İsim Değişebilir"
+    ],
+    "correctAnswer": "İsim Değişebilir",
+    "tags": [
+      "Oblivion",
+      "Characters",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xuxea90j9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "The Elder Scrolls: Arena, 1997 yılında piyasaya sürüldü ve serinin ilk resmi oyunudur.",
+    "options": [
+      "1994",
+      "1997",
+      "2002",
+      "2005"
+    ],
+    "correctAnswer": "1997",
+    "tags": [
+      "The Elder Scrolls",
+      "Tarihçe",
+      "Oyun Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9hx2ayylt",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Skyrim'da ana hikayeyi tamamlamak için hangi görev grubuna odaklanmalısınız?",
+    "explanation": "The Elder Scrolls V: Skyrim'da ana hikayeyi tamamlamak için Dragonborn görev grubuna odaklanmalısınız.",
+    "options": [
+      "Dragonborn",
+      "Thieves Guild",
+      "Morrowind",
+      "Bloodmoon"
+    ],
+    "correctAnswer": "Dragonborn",
+    "tags": [
+      "Skyrim",
+      "Ana Hikaye",
+      "DLC"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "2z61kw4m3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls Online hangi platformlarda oynanabilir?",
+    "explanation": "The Elder Scrolls Online hem PC hem de konsol platformlarında oynanabilir.",
+    "options": [
+      "Sadece PC",
+      "PC ve Konsol",
+      "Sadece Konsol",
+      "Mobil cihazlar"
+    ],
+    "correctAnswer": "PC ve Konsol",
+    "tags": [
+      "The Elder Scrolls Online",
+      "Platform",
+      "Çoklu Oyuncu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ebo8tbyc5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "Oblivion'da 'Dawnguard' DLC'si hangi tür bir görev grubudur?",
+    "explanation": "The Elder Scrolls IV: Oblivion'da Dawnguard DLC'si vampir ve kurt adası görevlerini içerir.",
+    "options": [
+      "Vampir/Kurt Adası",
+      "Thieves Guild",
+      "Dark Brotherhood",
+      "Frostfall"
+    ],
+    "correctAnswer": "Vampir/Kurt Adası",
+    "tags": [
+      "Oblivion",
+      "DLC",
+      "Görev Grubu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ba5pbhbzi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "The Elder Scrolls serisindeki 'Morrowind' oyununun ana karakteri kimdir?",
+    "explanation": "The Elder Scrolls III: Morrowind'da Nerevar, oyunun ana hikayesindeki önemli bir karakterdir.",
+    "options": [
+      "Bane",
+      "Nerevar",
+      "Vulcanus",
+      "Dagoth Ur"
+    ],
+    "correctAnswer": "Nerevar",
+    "tags": [
+      "Morrowind",
+      "Karakter",
+      "Hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "nulyeyez8",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls V: Skyrim'ın ana karakteri (Dragonborn) hangisi?",
+    "explanation": "Dovahkiin, The Elder Scrolls V: Skyrim'ın ana karakteridir ve Dragonborn anlamına gelir. Bu özel güç, oyuncunun kılıcını ateşten çıkarıp ejderha kanatlarını kullanmasını sağlar.",
+    "options": [
+      "Alduin",
+      "Dovahkiin",
+      "Soul Cairn",
+      "Whiterun"
+    ],
+    "correctAnswer": "Dovahkiin",
+    "tags": [
+      "Skyrim",
+      "Karakter",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "un64e2t8e",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Skyrim'da Dragonborn'un ejderha sesini hangi şekilde duyabilir?",
+    "explanation": "Dragonrend, Dragonborn'un ejderhalara karşı özel bir yetenektir. Bu yetenek kullanıldığında, ejderha sesini duyabilir ve onları yere çökebilir hale gelir.",
+    "options": [
+      "Ejderha dilinde konuşarak",
+      "Dragonrend kullanarak",
+      "Kızıl Kaleye giden yol",
+      "Whiterun'a giderek"
+    ],
+    "correctAnswer": "Dragonrend kullanarak",
+    "tags": [
+      "Skyrim",
+      "Oyun Mekanikleri",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ly78ue895",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls IV: Oblivion'da ana karakterin adı nedir?",
+    "explanation": "The Elder Scrolls IV: Oblivion'da ana karakter, Alduin olarak bilinir ve Dragonborn yeteneğine sahiptir. Bu oyun, Skyrim'dan önce gelir.",
+    "options": [
+      "Sera",
+      "Morag",
+      "Vos",
+      "Alduin"
+    ],
+    "correctAnswer": "Alduin",
+    "tags": [
+      "Oblivion",
+      "Karakter",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "008tt9rzx",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "Skyrim'ın başlangıç lokasyonu hangisidir?",
+    "explanation": "Whiterun, The Elder Scrolls V: Skyrim'ın başlangıç lokasyonudur. Burası, oyuncunun hikayesini başlatmak için önemli bir noktadır.",
+    "options": [
+      "Solitude",
+      "Windhelm",
+      "Whiterun",
+      "Riften"
+    ],
+    "correctAnswer": "Whiterun",
+    "tags": [
+      "Skyrim",
+      "Lokasyonlar",
+      "Oyun Mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "fyt1sp7d1",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls serisindeki en meşhur silah hangisidir?",
+    "explanation": "Blade, The Elder Scrolls serisindeki en meşhur silahlardan biridir. Bu silah, Dragonborn'un özel yeteneği olan Blade kullanılarak oluşturulur.",
+    "options": [
+      "Axe",
+      "Dagger",
+      "Longbow",
+      "Blade"
+    ],
+    "correctAnswer": "Blade",
+    "tags": [
+      "Silahlar",
+      "Oyun Mekanikleri",
+      "Lore"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "jhjphd2ha",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EASY",
+    "question": "The Elder Scrolls serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "The Elder Scrolls: Arena, 1997 yılında piyasaya sürülen ve serinin ilk oyunu olarak kabul edilen RPG'dir.",
+    "options": [
+      "1994",
+      "1997",
+      "2002",
+      "2006"
+    ],
+    "correctAnswer": "1997",
+    "tags": [
+      "BEGİMLER_VE_OYUNLAR",
+      "The Elder Scrolls",
+      "Tarih"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4u2sj090o",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Skyrim oyununda ana karakterin adı nedir?",
+    "explanation": "Skyrim oyununda ana karakter 'Dragonborn' olarak bilinir ve Türkçe çeviri 'Dovahkiin' anlamına gelir.",
+    "options": [
+      "Dragonborn",
+      "Dovahkiin",
+      "Nerevarine",
+      "Bleak Falls"
+    ],
+    "correctAnswer": "Dovahkiin",
+    "tags": [
+      "The Elder Scrolls",
+      "Skyrim",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "j9m1hz21a",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "The Elder Scrolls V: Skyrim'in geliştiricisi hangi şirket tarafından yapılanmıştır?",
+    "explanation": "Skyrim ve tüm The Elder Scrolls serisinin geliştiricisi Bethesda Game Studios'dur.",
+    "options": [
+      "BioWare",
+      "Ubisoft",
+      "Bethesda Game Studios",
+      "Rockstar Games"
+    ],
+    "correctAnswer": "Bethesda Game Studios",
+    "tags": [
+      "The Elder Scrolls",
+      "Skyrim",
+      "Geliştirici"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hjjv4iua0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "GENERAL",
+    "question": "Elder Scrolls Online (ESO) hangi platformda multiplayer olarak oynanabilir?",
+    "explanation": "Elder Scrolls Online hem PC hem de konsol (PlayStation 4/5, Xbox One/Series) platformlarında multiplayer olarak oynanabilir.",
+    "options": [
+      "Sadece PC",
+      "PC, PlayStation ve Xbox",
+      "Sadece Console",
+      "Mobil Cihazlar"
+    ],
+    "correctAnswer": "PC, PlayStation ve Xbox",
+    "tags": [
+      "The Elder Scrolls",
+      "ESO",
+      "Multiplayer"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "y7sk5hjfj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "The Elder Scrolls",
+    "difficulty": "EXPERT",
+    "question": "The Elder Scrolls serisindeki 'Dragonborn' büyüsü ne yapar?",
+    "explanation": "Dragonborn formu, Skyrim'de karakterin dragon kanatları ve güçle donan bir forma geçmesini sağlar.",
+    "options": [
+      "Karakterin canını yeniler",
+      "Karakter Dragon formuna geçebilir",
+      "Karakter yeni yetenekler öğrenir",
+      "Karakterın düşmanı kontrol eder"
+    ],
+    "correctAnswer": "Karakter Dragon formuna geçebilir",
+    "tags": [
+      "The Elder Scrolls",
+      "Skyrim",
+      "Büyü/Sistem"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]

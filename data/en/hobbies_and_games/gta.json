@@ -1,0 +1,1097 @@
+[
+  {
+    "id": "rv1e6ofx3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "GTA serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Grand Theft Auto'nun ilk oyunu 1997 yılında Rockstar Games tarafından piyasaya sürülmüştür ve PC, PlayStation ve Dreamcast platformlarında çıktı.",
+    "options": [
+      "1997",
+      "1999",
+      "2001",
+      "2003"
+    ],
+    "correctAnswer": "1997",
+    "tags": [
+      "GTA",
+      "Tarih",
+      "Serij Bilgisi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "mx5pgfw9z",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "GTA V'nde ana karakterlerden birinin adı nedir?",
+    "explanation": "GTA V'nin üç ana karakterinden biri Michael De Santa'dır. Diğer iki ana karakter Franklin Clinton ve Trevor Philips'tir.",
+    "options": [
+      "Michael",
+      "Franklin",
+      "Trevor",
+      "Lamar"
+    ],
+    "correctAnswer": "Michael",
+    "tags": [
+      "GTA V",
+      "Karakterler",
+      "Ana Kahraman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "92vw8vzj4",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA San Andreas hangi şehirde geçmektedir?",
+    "explanation": "GTA San Andreas üç farklı şehir içerir: Los Santos (Los Angeles), San Fierro (San Francisco) ve Las Venturas (Las Vegas).",
+    "options": [
+      "Liberty City",
+      "Los Santos",
+      "San Fierro",
+      "Vice City"
+    ],
+    "correctAnswer": "San Fierro",
+    "tags": [
+      "GTA San Andreas",
+      "Konumlar",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "kdayet3ii",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Grand Theft Auto serisinin ilk oyunu 25 Ekim 1997'de PC platformunda piyasaya sürüldü.",
+    "options": [
+      "1997",
+      "2000",
+      "1999",
+      "1998"
+    ],
+    "correctAnswer": "1997",
+    "tags": [
+      "GTA",
+      "Tarih",
+      "Oyun Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xdrdadvcn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA V'in ana hikayesi kaç karakterin etrafında döner?",
+    "explanation": "GTA V'in hikayesi Michael, Franklin ve Trevor olmak üzere üç ana karakterin etrafında döner.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "GTA V",
+      "Hikaye",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "yisjqdjud",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA serisinde hangi oyun 'The Lost' adlı özel bir gang'i içerir?",
+    "explanation": "The Lost adlı özel gang sadece GTA: San Andreas oyununda bulunur ve bu gangin üyeleri ölümsüz bir şekilde oyunda yer alırlar.",
+    "options": [
+      "GTA III",
+      "GTA: San Andreas",
+      "GTA V",
+      "GTA IV"
+    ],
+    "correctAnswer": "GTA: San Andreas",
+    "tags": [
+      "San Andreas",
+      "Oyun Detayları",
+      "Gangler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8ppdkwzm3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA serisindeki şehir isimlerinden hangisi Los Angeles'tan ilham alınmıştır?",
+    "explanation": "Los Santos, GTA serisinin en ünlü oyunu olan GTA IV ve GTA V'te Los Angeles'tan ilham alınarak tasarlanmıştır.",
+    "options": [
+      "Liberty City",
+      "Los Santos",
+      "Leonida",
+      "Rust"
+    ],
+    "correctAnswer": "Los Santos",
+    "tags": [
+      "Şehirler",
+      "GTA V",
+      "İlham Kaynakları"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xrybu6aok",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA Online hangi platformda ilk kez çıkarıldı?",
+    "explanation": "GTA Online ilk olarak PlayStation 4 ve Xbox One platformlarında Eylül 2013'te çıktı, PC versiyonu daha sonra geldi.",
+    "options": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "correctAnswer": "PlayStation 4",
+    "tags": [
+      "GTA Online",
+      "Platformlar",
+      "Çıktı Tarihi"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b5nzqoep6",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "GTA serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Grand Theft Auto serisinin ilk oyunu 1997 yılında Rockstar Games tarafından piyasaya sürüldü.",
+    "options": [
+      "1997",
+      "1998",
+      "1996",
+      "1999"
+    ],
+    "correctAnswer": "1997",
+    "tags": [
+      "GTA",
+      "Tarih",
+      "Başlangıç"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3rcxnkkz9",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA V'in ana karakterlerinden biri olmayan kimdir?",
+    "explanation": "Lester, GTA V'de yardımcı karakter olarak yer alırken Michael, Franklin ve Trevor ana hikaye karakterleridir.",
+    "options": [
+      "Michael",
+      "Franklin",
+      "Lester",
+      "Trevor"
+    ],
+    "correctAnswer": "Lester",
+    "tags": [
+      "GTA V",
+      "Karakterler",
+      "Hikaye"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "b99qst5b0",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA VI'nin ilk duyurusu hangi şehirde geçecek?",
+    "explanation": "GTA VI, Vice City'de (Florida) geçecek ve bu oyun 2023'te ilk kez duyuruldu.",
+    "options": [
+      "Los Santos",
+      "Vice City",
+      "Liberty City",
+      "Blaine County"
+    ],
+    "correctAnswer": "Vice City",
+    "tags": [
+      "GTA VI",
+      "Yeni Oyun",
+      "Lokasyon"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "9z610j8ct",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA serisinde 'No Prison' modu hangi platformda daha popüler?",
+    "explanation": "GTA serisinin No Prison, No Cars gibi modları PC platformunda daha fazla kullanıcı tarafından geliştirilir ve popülerdir.",
+    "options": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "correctAnswer": "PC",
+    "tags": [
+      "Modlar",
+      "Platform",
+      "Türkçe İsimlendirme"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ak8q31dbk",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA San Andreas'ın hangi DLC'si 'The Ballad of Gay Tony'dır?",
+    "explanation": "The Ballad of Gay Tony, GTA San Andreas'ın resmi bir DLC'si (Downloadable Content) olarak piyasaya sürüldü.",
+    "options": [
+      "Bölüm 1",
+      "Bonus İçerik",
+      "Resmi Ek İçerik",
+      "Yan Hikaye"
+    ],
+    "correctAnswer": "Resmi Ek İçerik",
+    "tags": [
+      "GTA San Andreas",
+      "DLC",
+      "İçerik"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "for60r7ea",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "Grand Theft Auto serisi ilk kez hangi oyun konsolunda piyasaya sürüldü?",
+    "explanation": "Grand Theft Auto serisinin ilk oyunu GTA, 1997 yılında Nintendo 64 konsolu için piyasaya sürüldü.",
+    "options": [
+      "PlayStation",
+      "Nintendo 64",
+      "Dreamcast",
+      "Sega Saturn"
+    ],
+    "correctAnswer": "Nintendo 64",
+    "tags": [
+      "GTA",
+      "Tarihçe",
+      "Platformlar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ttg9x1p4v",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA V oyununda Los Santos şehrinin ana karakteri olan Michael de hangi meslek grubundan gelir?",
+    "explanation": "Michael de Santa, GTA V'de bankaları soyma uzmanı olarak tanınır ve bu mesleği geçmişte yapmıştır.",
+    "options": [
+      "Hırsız",
+      "Banks Soyan",
+      "Uçak Pilotu",
+      "Yalancı"
+    ],
+    "correctAnswer": "Banks Soyan",
+    "tags": [
+      "GTA V",
+      "Karakterler",
+      "Öykü"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0ojufq2iu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "GTA oyunlarında 'Hobiler' kategorisinde hangi aktivite bulunmaz?",
+    "explanation": "GTA oyunlarında uyku aktivitesi bulunmaz. Kumarhane, taksi sürüşü ve yüzme (bazı oyunlarda) hobiler arasında yer alır.",
+    "options": [
+      "Kumarhane",
+      "Taksi Sürüşü",
+      "Yüzme",
+      "Uyku"
+    ],
+    "correctAnswer": "Uyku",
+    "tags": [
+      "GTA",
+      "Hobiler",
+      "Oyun Mekanikleri"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hnaiykzod",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA San Andreas oyununda hangi şehir Los Santos'un ana şehridir?",
+    "explanation": "San Andreas üçlü şehir yapısında Los Santos ana şehir olarak geçer, gerçek Los Angeles'ın kurgusal karşılığıdır.",
+    "options": [
+      "San Fierro",
+      "Los Santos",
+      "Las Venturas",
+      "Davis"
+    ],
+    "correctAnswer": "Los Santos",
+    "tags": [
+      "GTA San Andreas",
+      "Şehirler",
+      "Coğrafya"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "iglrv8mjp",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA serisinde 'Heist' (Bıçak) görevlerinde hangi ekipman kullanılır?",
+    "explanation": "GTA V heist görevlerinde silah kullanımı ve stratejik planlama anahtar rol oynar. Araçlar ve kıyafetler de destek unsurlarıdır.",
+    "options": [
+      "Silahlar",
+      "Kıyafetler",
+      "Araçlar",
+      "Havalimanı"
+    ],
+    "correctAnswer": "Silahlar",
+    "tags": [
+      "GTA V",
+      "Heist",
+      "Ekipman"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "je208ffjv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "Hangi GTA oyunu Michael, Franklin ve Trevor karakterlerini ana odak noktası yapar?",
+    "explanation": "Grand Theft Auto V (GTA 5), üçlü protagonist yapısı ile tanınır ve Los Santos/Blaine County settingindedir.",
+    "options": [
+      "GTA III",
+      "GTA IV",
+      "GTA V",
+      "GTA San Andreas"
+    ],
+    "correctAnswer": "GTA V",
+    "tags": [
+      "GTA",
+      "Videolar",
+      "Rockstar"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4cptmvo5y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "GTA serisinin geliştiricisi olan şirket hangisidir?",
+    "explanation": "Grand Theft Auto serisi Rockstar Studios tarafından geliştirilir ve Rockstar Games çatısı altında yayımlanır.",
+    "options": [
+      "Blizzard Entertainment",
+      "Rockstar Games",
+      "EA Sports",
+      "Ubisoft"
+    ],
+    "correctAnswer": "Rockstar Games",
+    "tags": [
+      "GTA",
+      "Yayıncı",
+      "Sektör"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "gdu0cr7m3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA Vice City oyununun ana kahramanı kimdir?",
+    "explanation": "Grand Theft Auto Vice City oyunundaki temel karakter Tommy Vercetti'dir ve 1980'lerin Miami'sine benzer bir kurgusal şehre yerleşmiştir.",
+    "options": [
+      "Tommy Vercetti",
+      "Michael De Santa",
+      "Franklin Clinton",
+      "Niko Bellic"
+    ],
+    "correctAnswer": "Tommy Vercetti",
+    "tags": [
+      "GTA",
+      "Karakterler",
+      "Vice City"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ii47v56ys",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "Liberty City adlı kurgusal şehir hangi GTA oyunlarında geçmektedir?",
+    "explanation": "Liberty City, GTA III, Vice City (2002) ve IV oyunlarının geçtiği başlıca kurgusal şehirlerden biridir.",
+    "options": [
+      "GTA San Andreas",
+      "GTA III ve Vice City",
+      "GTA IV ve San Andreas",
+      "Sadece GTA V"
+    ],
+    "correctAnswer": "GTA III ve Vice City",
+    "tags": [
+      "GTA",
+      "Şehirler",
+      "Kurgu"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "g7qzdx3no",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "Hangi GTA oyunu Niko Bellic karakterini ana kahraman olarak kullanır?",
+    "explanation": "Niko Bellic, Grand Theft Auto IV oyununun ana protagonistidir ve Manhattan'a benzer Liberty City'de yaşar.",
+    "options": [
+      "GTA III",
+      "GTA Vice City",
+      "GTA IV",
+      "GTA V"
+    ],
+    "correctAnswer": "GTA IV",
+    "tags": [
+      "GTA",
+      "Karakterler",
+      "IV"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ej5j5dkxd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "Hangi oyun serisi 'Grand Theft Auto' kısaltmasıyla bilinir?",
+    "explanation": "GTA, Grand Theft Auto'nun kısaltmasıdır ve açık dünya aksiyon macera oyunlarını tanımlayan popüler bir seridir.",
+    "options": [
+      "Call of Duty",
+      "GTA",
+      "Assassin's Creed",
+      "FIFA"
+    ],
+    "correctAnswer": "GTA",
+    "tags": [
+      "video games",
+      "basics"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "pkjqdpna3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyunda ilk kez 3 boyutlu açık dünya yapısı kullanılmıştır?",
+    "explanation": "GTA III, 2001 yılında piyasaya sürülmüş ve seriye geçiş yaparak 3 boyutlu grafikler ile açık dünya tasarımı getirmiştir.",
+    "options": [
+      "GTA III",
+      "GTA V",
+      "GTA IV",
+      "GTA Vice City"
+    ],
+    "correctAnswer": "GTA III",
+    "tags": [
+      "history",
+      "open world"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "55i1y0v3x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "'Los Santos' kurgusal şehri hangi oyunda geçmektedir?",
+    "explanation": "Los Santos, Los Angeles'tan ilham alan ve GTA V'in ana geçtiği kurgusal şehir olarak bilinen yerdir.",
+    "options": [
+      "GTA IV",
+      "GTA V",
+      "GTA San Andreas",
+      "GTA Vice City"
+    ],
+    "correctAnswer": "GTA V",
+    "tags": [
+      "location",
+      "fictional city"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "37ji72xzi",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "Hangi oyunda Franklin Clinton karakteri ana rol almaktadır?",
+    "explanation": "Franklin Clinton, GTA V'in üçüncü ana karakteridir ve Michael ile Trevor'un hikayesine dahil olur.",
+    "options": [
+      "GTA IV",
+      "GTA III",
+      "GTA V",
+      "GTA Vice City"
+    ],
+    "correctAnswer": "GTA V",
+    "tags": [
+      "characters",
+      "story mode"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ez9vqq26n",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA San Andreas ilk olarak hangi yıl piyasaya sürülmüştür?",
+    "explanation": "GTA San Andreas, Ekim 2004 tarihinde PlayStation 2 için ilk kez piyasaya sürülmüş ve daha sonra diğer platformlara taşınmıştır.",
+    "options": [
+      "2003",
+      "2004",
+      "2005",
+      "2006"
+    ],
+    "correctAnswer": "2004",
+    "tags": [
+      "release date",
+      "history"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4mtkmnu8u",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "Grand Theft Auto serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Grand Theft Auto serisinin ilk oyunu 1997 yılında BM Games tarafından geliştirildi ve piyasaya sürüldü.",
+    "options": [
+      "1997",
+      "2001",
+      "1999",
+      "2003"
+    ],
+    "correctAnswer": "1997",
+    "tags": [
+      "GTA",
+      "Tarihçe",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "vfuul8sit",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA Vice City'nin geçtiği şehir hangi şehrin simgesel temsilidir?",
+    "explanation": "GTA Vice City'nin geçtiği şehir Miami'nin simgesel temsili olup 1980'lerin Miami atmosferini yansıtır.",
+    "options": [
+      "Los Angeles",
+      "Miami",
+      "Chicago",
+      "New York"
+    ],
+    "correctAnswer": "Miami",
+    "tags": [
+      "GTA",
+      "Vice City",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "tmug9w37x",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA V'te oynanabilen kaç farklı karakter vardır?",
+    "explanation": "GTA V'te Trevor, Michael ve Franklin olmak üzere 3 farklı ana karakter oynanabilir.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "tags": [
+      "GTA V",
+      "Karakterler",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "ewzpf09bu",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "GTA serisinin en yüksek cüziyeli ödülü hangi oyunda verildi?",
+    "explanation": "GTA V, serinin en yüksek gelir elde eden oyunu olup 2013'ten beri Guinness Rekorlara dahil oldu.",
+    "options": [
+      "GTA III",
+      "GTA IV",
+      "GTA V",
+      "GTA San Andreas"
+    ],
+    "correctAnswer": "GTA V",
+    "tags": [
+      "GTA V",
+      "Ödüller",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0e2gb50z5",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA San Andreas'ın geçtiği ana şehir hangisidir?",
+    "explanation": "GTA San Andreas'ın ana şehri Los Santos olup, Los Angeles'ın simgesel temsilidir.",
+    "options": [
+      "Los Santos",
+      "Vice City",
+      "Liberty City",
+      "Staunton"
+    ],
+    "correctAnswer": "Los Santos",
+    "tags": [
+      "GTA San Andreas",
+      "Şehirler",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "xmq38pppc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "Hangi şirket Grand Theft Auto serisinin geliştiricisidir?",
+    "explanation": "Rockstar Games, Grand Theft Auto serisini kendi imajıyla tanımlayan ve geliştiren ana stüdyodur.",
+    "options": [
+      "Rockstar Games",
+      "Take-Two Interactive",
+      "Bethesda Softworks",
+      "EA Sports"
+    ],
+    "correctAnswer": "Rockstar Games",
+    "tags": [
+      "gta",
+      "developer",
+      "video games"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "zvj166241",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "Grand Theft Auto IV'in ana hikayesi hangi kurgusal şehirde geçer?",
+    "explanation": "GTA IV, New York City'nin aynası olan kurgusal Liberty City adlı şehirde geçer.",
+    "options": [
+      "Los Santos",
+      "Vice City",
+      "Liberty City",
+      "San Fierro"
+    ],
+    "correctAnswer": "Liberty City",
+    "tags": [
+      "gta",
+      "setting",
+      "liberty city"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rme5hy526",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "Kurgusal \"Los Santos\" şehri, hangi gerçek dünyadaki şehre ilham verilerek oluşturulmuştur?",
+    "explanation": "Los Santos, Los Angeles ve çevresine (Hollywood, Venice Beach vb.) dayalı kurgusal bir şehirdir.",
+    "options": [
+      "New York",
+      "Miami",
+      "Chicago",
+      "Los Angeles"
+    ],
+    "correctAnswer": "Los Angeles",
+    "tags": [
+      "gta",
+      "location",
+      "los santos"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "lqbx2yef3",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "Grand Theft Auto V'te üç ana karakterden hangisi bir sokak yetkisi ve yeni gelen bir karaktersidir?",
+    "explanation": "Franklin Clinton, GTA V'de Michael ve Trevor ile birlikte ana karakterlerden biridir ve başlangıçta Los Santos'ta sokak hayatıyla tanımlanır.",
+    "options": [
+      "Michael De Santa",
+      "Franklin Clinton",
+      "Trevor Philips",
+      "Niko Bellic"
+    ],
+    "correctAnswer": "Franklin Clinton",
+    "tags": [
+      "gta",
+      "characters",
+      "gtav"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "0249dbxg7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "İlk tam 3 boyutlu Grand Theft Auto oyunu hangisidir?",
+    "explanation": "GTA III, serinin ilk 3D açımlı dünya oyunudur ve önceki 2D üstten görüşlü oyunlardan ayrılır.",
+    "options": [
+      "GTA San Andreas",
+      "GTA Vice City",
+      "GTA III",
+      "GTA IV"
+    ],
+    "correctAnswer": "GTA III",
+    "tags": [
+      "gta",
+      "history",
+      "3d"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "3gav6n0oj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "Grand Theft Auto serisinin geliştiricisi olan şirket hangisidir?",
+    "explanation": "Grand Theft Auto serisi, Rockstar Games çatısı altında yayınlanmaktadır ve serinin ilk tasarımları DMA Design stüdyosunda yapılmıştır.",
+    "options": [
+      "Rockstar Games",
+      "Ubisoft",
+      "Activision",
+      "EA"
+    ],
+    "correctAnswer": "Rockstar Games",
+    "tags": [
+      "GTA",
+      "Video Oyunları",
+      "Şirketler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "49bjlmehd",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA San Andreas'taki kurgusal başkent Los Santos hangi gerçek şehri temsil eder?",
+    "explanation": "Grand Theft Auto: San Andreas oyunundaki Los Santos şehri, gerçek hayattaki Los Angeles şehrinin kurgusal bir yansımasıdır.",
+    "options": [
+      "Miami",
+      "New York",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "correctAnswer": "Los Angeles",
+    "tags": [
+      "GTA",
+      "Hikaye",
+      "Şehirler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "6upva0fex",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA IV'te geçilen ana karakterin adı nedir?",
+    "explanation": "Grand Theft Auto IV oyununun ana hikayesi, eski Yugoslavya'dan New York'a gelen Niko Bellic'in yaşadıklarını anlatır.",
+    "options": [
+      "Niko Bellic",
+      "Franklin Clinton",
+      "Michael De Santa",
+      "Trevor Philips"
+    ],
+    "correctAnswer": "Niko Bellic",
+    "tags": [
+      "GTA",
+      "Karakterler",
+      "GTA IV"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s0xpkndr7",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "Hangi GTA oyunu ilk kez tamamen açık dünya kurgusu ve üç boyutlu grafikler (3D) ile piyasaya sürülmüştür?",
+    "explanation": "Grand Theft Auto III (2001), serinin ilk açık dünya 3D oyunudur ve Liberty City adlı bir şehirde geçer.",
+    "options": [
+      "Grand Theft Auto III",
+      "Grand Theft Auto: Vice City",
+      "Grand Theft Auto: San Andreas",
+      "Grand Theft Auto V"
+    ],
+    "correctAnswer": "Grand Theft Auto III",
+    "tags": [
+      "GTA",
+      "Tarihçe",
+      "Teknoloji"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "bh9w0wtrj",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "Grand Theft Auto V'in ilk olarak hangi yıl piyasaya sürüldü?",
+    "explanation": "Grand Theft Auto V, hem PlayStation 4 hem de Xbox 360 platformlarında 17 Eylül 2013 tarihinde yayınlanmıştır.",
+    "options": [
+      "2010",
+      "2012",
+      "2013",
+      "2015"
+    ],
+    "correctAnswer": "2013",
+    "tags": [
+      "GTA",
+      "Yayın Tarihi",
+      "GTA V"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "hulwotx28",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "GTA serisinin geliştiricisi ve yayıncısı kimdir?",
+    "explanation": "Grand Theft Auto serisi Rockstar Games tarafından geliştirilmiştir ve bu şirket aynı zamanda yayıncılık görevini de üstlenir.",
+    "options": [
+      "Rockstar Games",
+      "Ubisoft",
+      "Electronic Arts",
+      "Bethesda Softworks"
+    ],
+    "correctAnswer": "Rockstar Games",
+    "tags": [
+      "GTA",
+      "Video Oyunları",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "5viredxmv",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA V oyununun geçtiği başlıca kurgusal şehir hangisidir?",
+    "explanation": "GTA V, Los Santos adlı şehirde geçer ve bu isim gerçek Los Angeles şehrinin kurgusal karşılığıdır.",
+    "options": [
+      "Los Santos",
+      "Vice City",
+      "Liberty City",
+      "San Fierro"
+    ],
+    "correctAnswer": "Los Santos",
+    "tags": [
+      "GTA V",
+      "Video Oyunları",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "4xk9fti5s",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA Vice City oyununun geçtiği kurgusal şehir gerçek hayattaki hangi şehire modeldir?",
+    "explanation": "Vice City, 1980'lerin Miami'sine ve Florida'nın kuzey kıyılarına büyük ölçüde dayanır.",
+    "options": [
+      "Miami",
+      "Los Angeles",
+      "New York",
+      "Chicago"
+    ],
+    "correctAnswer": "Miami",
+    "tags": [
+      "Vice City",
+      "GTA",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "z8ijt91rn",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EXPERT",
+    "question": "Grand Theft Auto serisinin ilk oyunu hangi platformda ve ne yıl piyasaya sürülmüşdür?",
+    "explanation": "Serinin ilk oyunu 'Grand Theft Auto' adıyla 1997 yılında PC platformunda yayınlanmıştır.",
+    "options": [
+      "PlayStation, 1998",
+      "PC (MS-DOS), 1997",
+      "Xbox, 2000",
+      "Nintendo 64, 1996"
+    ],
+    "correctAnswer": "PC (MS-DOS), 1997",
+    "tags": [
+      "Tarihçe",
+      "GTA",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "s6ufuc0dh",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "EASY",
+    "question": "GTA serisindeki oyunların temel oynanış özelliği nedir?",
+    "explanation": "GTA serisi, oyuncuların haritayı istedikleri gibi gezebildiği 'açık dünya' mekanikleriyle tanınırlar.",
+    "options": [
+      "Lineer Hikaye",
+      "Açık Dünya",
+      "Çok Oyunculu Sadece",
+      "Tek Kişilik"
+    ],
+    "correctAnswer": "Açık Dünya",
+    "tags": [
+      "Oynanış",
+      "GTA",
+      "Hobiler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "8uncrhd5y",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "Grand Theft Auto serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+    "explanation": "Grand Theft Auto serisinin ilk oyunu 1997 yılında PC platformunda yayınlandı. Bu oyun, serinin klasik açık dünya yapısını ve suç temasını başlattı.",
+    "options": [
+      "1997",
+      "2001",
+      "1999",
+      "2003"
+    ],
+    "correctAnswer": "1997",
+    "tags": [
+      "GTA",
+      "Oyun Tarihi",
+      "Seriler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  },
+  {
+    "id": "rkaimy6mc",
+    "category": "HOBİLER_VE_OYUNLAR",
+    "subcategory": "GTA",
+    "difficulty": "GENERAL",
+    "question": "GTA V'in hikayesi hangi üç ana karakter etrafında gelişir?",
+    "explanation": "GTA V'nin ana hikayesi Michael De Santa, Franklin Clinton ve Trevor Philips üçlüsü etrafında gelişir. Bu karakterler Los Santos'taki suç dünyasıyla bağlantılıdırlar.",
+    "options": [
+      "Michael, Franklin, Trevor",
+      "John, Mark, David",
+      "Tyler, Marcus, Brandon",
+      "James, Tom, Steve"
+    ],
+    "correctAnswer": "Michael, Franklin, Trevor",
+    "tags": [
+      "GTA V",
+      "Hikaye",
+      "Karakterler"
+    ],
+    "questionType": "MCQ",
+    "sourceType": "generated"
+  }
+]
